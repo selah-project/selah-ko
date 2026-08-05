@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그들이 제비를 뽑아 냄긴 것은, 작은 자에게나 큰 자에게나 같았으니, 그들의 조상 집에 따라, 문마다 문마다였다.",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "그들이 뽑아 냄긴 것은"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "제비들이"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "작은 자에게나"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "큰 자에게나 같았으니"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집에 따라"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "그들의 조상"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "문에"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "및 문"
+    }
+  ],
+  "timestamp": "2026-08-05T12:50:17.305697818Z",
+  "model": "glm-5.2"
+}

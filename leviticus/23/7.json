@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "첫째 날에, 거룩한 부름召集 ⟨이⟩ 너희에게 있을 것이다. 너희는 모든 노동의 일거리를 — 일하지 말 것이다.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…날에"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "부름召集"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "노동의"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "일거리"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…말 것이다"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "너희는 …하지"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:23.120472812Z",
+  "model": "glm-5.2"
+}

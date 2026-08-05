@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "엘이 들으시고 그들에게 응답하시리라 — 옛적부터 좌정하신 이, 쎄라. 그들에게는 바뀜이 없기에 그들은 엘로힘을 두려워하지 않는다.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "들으시고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "그들에게 응답하시리라"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "좌정하신 이"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "옛적부터"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "쎄라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…이기에"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없기에"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "바뀜이"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들에게는"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…아니한다"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:45.713199770Z",
+  "model": "glm-5.2"
+}

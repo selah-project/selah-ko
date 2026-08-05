@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그가 말하였다. \"부디, 아도나이, 보내 주시옵소서. 당신이 보내시려는 자의 손으로.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בי",
+      "gloss": "부디"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내 주시옵소서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "당신이 보내시려는"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:43.375618513Z",
+  "model": "glm-5.2"
+}

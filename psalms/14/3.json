@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "전부가 물러갔고, 함께 부패하였다. 선을 행하는 자는 없다, 한 명조차 없다.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "전부가"
+    },
+    {
+      "surface": "סר",
+      "gloss": "물러갔고"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "부패하였다"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하는 자는"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "선을"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "조차"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:17.802745996Z",
+  "model": "glm-5.2"
+}

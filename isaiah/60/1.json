@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "일어나라, 빛을 발하라. 네 빛이 ⟨왔기⟩ 때문이다. 야훼의 영광이 네 위에 떠올랐다.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "일어나라"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "빛을 발하라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "네 빛이"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "네 위에"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "떠올랐다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:38.169411872Z",
+  "model": "glm-5.2"
+}

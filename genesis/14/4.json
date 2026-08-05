@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "열두 해를 ⟨그들이⟩ ⟨את⟩ 케도르라오메르를 섬겼고, 열셋째 해에 반역하였다.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "열"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "두"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해를"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "섬겼고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "케도르라오메르를"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "케도르라오메르"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "그리고 열셋"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "째"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해에"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "반역하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:51.336253309Z",
+  "model": "glm-5.2"
+}

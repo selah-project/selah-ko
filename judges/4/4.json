@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 데보라는 — 나비인 한 여자요, 랍피돗의 아내 — 그녀가 ⟨את⟩ 이스라엘을 재판하였다, 그때에.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "데보라는"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여자요"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "나비인"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "랍피돗의"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀가"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T09:14:52.491896262Z",
+  "model": "glm-5.2"
+}

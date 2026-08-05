@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 포도원 관리자들과 밭 경작자들을 위하여, 도살장 장관이 땅의 가난한 자들을 남겨 두었다.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "그리고 … 의 가난한 자들"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "남겨 두었다"
+    },
+    {
+      "surface": "רב",
+      "gloss": "장관"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "도살장"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "포도원 관리자들에게"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "그리고 밭 경작자들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:20.494031394Z",
+  "model": "glm-5.2"
+}

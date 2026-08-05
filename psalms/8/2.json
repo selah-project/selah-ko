@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "야훼, 우리 주님, 당신의 이름이 온 땅에 어찌 그리 웅장하신지 — 하늘들 위에 당신의 위엄을 두신 ⟨그⟩이시여.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "우리 주님"
+    },
+    {
+      "surface": "מה",
+      "gloss": "어찌 그리"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "웅장하신지"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "당신의 이름이"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~하신"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "두신"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "당신의 위엄을"
+    },
+    {
+      "surface": "על",
+      "gloss": "~ 위에"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:28.213164730Z",
+  "model": "glm-5.2"
+}

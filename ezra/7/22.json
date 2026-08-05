@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "은은 백 달란트까지, 밀은 백 코르까지, 포도주는 백 밧까지, 기름은 백 밧까지, 그리고 소금은 기록하지 않은 것이니까.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은은"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "달란트"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 …까지"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "밀은"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "코르"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 …까지"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "포도주는"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "밧"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 …까지"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "밧"
+    },
+    {
+      "surface": "משח",
+      "gloss": "기름은"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "그리고 소금은"
+    },
+    {
+      "surface": "די",
+      "gloss": "…이니까"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "기록한"
+    }
+  ],
+  "timestamp": "2026-08-05T12:33:15.537186297Z",
+  "model": "glm-5.2"
+}

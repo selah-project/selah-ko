@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 16:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼의 천사가 ⟨그⟩녀에게 말씀하셨다. \"보라, 네가 임신하였고 아들을 낳으리니, 그의 이름을 이쉬마엘이라 부르라. 이는 야훼께서 네 고통을 들으셨음이라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "천사가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "보라"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "임신하였고"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "낳으리니"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "부르라"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "이쉬마엘이라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들으셨음이라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~을"
+    },
+    {
+      "surface": "עניך",
+      "gloss": "네 고통"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:50.140905774Z",
+  "model": "glm-5.2"
+}

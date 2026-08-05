@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "날려 흩어진 잎사귀를 괴롭히시며, 마른 짚을 ⟨⟩⟨את⟩ 쫓으십니까?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "잎사귀를"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "날려 흩어진"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "괴롭히시며"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "마른 짚"
+    },
+    {
+      "surface": "קש",
+      "gloss": "짚을"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "마른"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "쫓으십니까"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:36.470273428Z",
+  "model": "glm-5.2"
+}

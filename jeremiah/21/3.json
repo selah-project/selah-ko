@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그러자 예르미야후가 그들에게 말하였다. \"너희는 치데키야후에게 이같이 말하라.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그러자 … 말하였다"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야후"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "치데키야후"
+    }
+  ],
+  "timestamp": "2026-08-05T18:19:33.927097321Z",
+  "model": "glm-5.2"
+}

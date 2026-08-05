@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "모셰가 그 구름 한가운데로 들어가셨고, 그 산으로 올라가셨다. 그리고 모셰가 그 산에서 사십 일, 그리고 사십 밤을 보냈다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 들어가셨고"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데로"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "그 구름"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 올라가셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨있었다⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "그 산에서"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "그리고 사십"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:40.199379734Z",
+  "model": "glm-5.2"
+}

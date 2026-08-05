@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 3:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼께서 샤무엘에게 말씀하셨다. \"보라, 내가 이스라엘에 한 일을 행하려 하니, 그것을 듣는 모든 이의 두 귀가 울릴 것이다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하려 한다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "한 일을"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것을⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "듣는"
+    },
+    {
+      "surface": "תצלינה",
+      "gloss": "이의"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "귀가 울릴 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:24.547903651Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 ⟨את⟩ 위쪽 벳 호론과 ⟨את⟩ 아래쪽 벳 호론을 건축하였다 — 벽과 문들과 빗장을 ⟨가진⟩ 요새 도시들이다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "그가 건축하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "위쪽 벳 호론을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "호론"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "위쪽"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아래쪽 벳 호론을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "호론"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "아래쪽"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "도시들"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "요새"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "벽"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "문들"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "빗장"
+    }
+  ],
+  "timestamp": "2026-08-05T18:31:55.526503618Z",
+  "model": "glm-5.2"
+}

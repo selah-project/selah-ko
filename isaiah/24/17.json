@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "공포와 구덩이와 덫이 땅에 사는 ⟨그⟩ 이 ⟨너⟩ 위에 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "공포"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "그리고 구덩이"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "그리고 덫"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨너⟩ 위에"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "사는 ⟨이⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:20.294246085Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그녀들이 그들의 아버지 르우엘에게 왔더니, ⟨그가⟩ “오늘 ⟨은⟩ 어찌하여 이리 빨리 오느냐?” 하고 말하였다.",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "그녀들이 왔더니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "르우엘"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "그들의 아버지"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "이리 빨리"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오느냐"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T17:24:30.854419705Z",
+  "model": "glm-5.2"
+}

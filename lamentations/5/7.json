@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "우리 조상들이 범죄하였다 — 그들은 없고, 우리가 우리이다. 그들의 죄악을 우리가 짊어졌다.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "우리 조상들이"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "범죄하였다"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "그들은 없고"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리가 우리이다"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "그들의 죄악을"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "짊어졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:44.574521454Z",
+  "model": "glm-5.2"
+}

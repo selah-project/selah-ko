@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "내가 모든 때에 ⟨את⟩ 야훼를 찬양하리니, 끊임없이 그의 찬양이 내 입에 있으리라.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "내가 찬양하리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼(יהוה)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "끊임없이"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "그의 찬양이"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "내 입에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:21.954909653Z",
+  "model": "glm-5.2"
+}

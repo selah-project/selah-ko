@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "당신의 길들을 야훼여 ⟨제게⟩ 알려 주소서. 당신의 대로들을 ⟨저를⟩ 가르쳐 주소서.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "당신의 길들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "⟨제게⟩ 알려 주소서"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "당신의 대로들을"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "⟨저를⟩ 가르쳐 주소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:55.014114531Z",
+  "model": "glm-5.2"
+}

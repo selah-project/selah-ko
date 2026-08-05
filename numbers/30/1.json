@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 모셰가 이스라엘 자손에게 말하였다, 야훼께서 모셰에게 명령하신 모든 것에 따라.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것에 따라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰를"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:45:41.897046718Z",
+  "model": "glm-5.2"
+}

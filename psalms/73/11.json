@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "그리고 그들이 말한다. '어떻게 엘이 아실 수 있느냐? 그리고 지극히 높은 분께 지식이 있느냐?'",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "그리고 그들이 말한다"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "어떻게"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "아실 수 있느냐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "그리고 있느냐"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "지식이"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "지극히 높은 분께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:30.925658625Z",
+  "model": "glm-5.2"
+}

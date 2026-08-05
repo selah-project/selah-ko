@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "땅이 열리고 다탄을 삼켰으며, 아비람의 회중 위를 덮었다.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "열리고"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "삼켰으며"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "다탄을"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위를"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "회중"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "아비람의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:38.047252916Z",
+  "model": "glm-5.2"
+}

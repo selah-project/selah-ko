@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 6:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "너는 방주를 위해 창을 만들고, 한 큐빗 되는 곳까지 위에서부터 그것을 끝내라. 그리고 방주의 문을 그 옆에 두되, 아래층·둘째층·셋째층으로 ⟨그것을⟩ 만들어라.",
+  "tokens": [
+    {
+      "surface": "צהר",
+      "gloss": "창을"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "만들고"
+    },
+    {
+      "surface": "לתבה",
+      "gloss": "방주를 위해"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~까지"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "한 큐빗"
+    },
+    {
+      "surface": "תכלנה",
+      "gloss": "끝내라"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "위에서부터"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "그리고 문을"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주의"
+    },
+    {
+      "surface": "בצדה",
+      "gloss": "그 옆에"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "두되"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "아래층"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘째층"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "그리고 셋째층으로"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "만들어라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:54.862316698Z",
+  "model": "glm-5.2"
+}

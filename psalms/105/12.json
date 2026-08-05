@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그들이 수효가 적을 때, 얼마 안 되어 그 땅에서 나그네로 있었을 때에 —",
+  "tokens": [
+    {
+      "surface": "בִּהְיוֹתָם",
+      "gloss": "있었을 때에"
+    },
+    {
+      "surface": "מְתֵי",
+      "gloss": "수효가"
+    },
+    {
+      "surface": "מִסְפָּר",
+      "gloss": "적을 때"
+    },
+    {
+      "surface": "כִּמְעַט",
+      "gloss": "얼마 안 되어"
+    },
+    {
+      "surface": "וְגָרִים",
+      "gloss": "나그네로"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "그 땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:03.031658080Z",
+  "model": "glm-5.2"
+}

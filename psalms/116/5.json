@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "은혜로우신 이는 야훼이시며 의로우시고, 우리 엘로힘은 자비로우시다.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "은혜로우신 이는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이시며"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "의로우시고"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "우리 엘로힘은"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "자비로우시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:52.397172340Z",
+  "model": "glm-5.2"
+}

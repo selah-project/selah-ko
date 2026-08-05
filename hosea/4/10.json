@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그들이 먹되 배부르지 않고, 음란을 행하되 번성하지 못하리니, 이는 그들이 ⟨את⟩ 야훼를 버리고 지키는 것을 그쳤기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "그들이 먹되"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "배부르고"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "음란을 행하되"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "번성하고"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "버리고"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "지키는 것을 그쳤기 때문이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:22.195445638Z",
+  "model": "glm-5.2"
+}

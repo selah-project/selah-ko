@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 사하라임이 모아브 들판에서 ⟨자녀를⟩ 낳았으니, 그가 ⟨그⟩들을 보낸 후였다 — 후심과 바아라, 그의 아내들이었다.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "그리고 사하라임이"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들판에서"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브"
+    },
+    {
+      "surface": "מן",
+      "gloss": "후에"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "그가 ⟨그⟩들을 보낸"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 그들",
+      "marks": "후심과 바아라"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "후심"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "바아라"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "바아라"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "그의 아내들이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:12.378645876Z",
+  "model": "glm-5.2"
+}

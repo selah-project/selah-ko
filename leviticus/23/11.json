@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그가 ⟨את⟩ 그 오메르를 야훼 앞에서 흔들어, 너희를 위해 기쁘게 받아지도록 할 것이다. 코헨이 ⟨그것을⟩ 그 샤밧 다음 날에 흔들 것이다.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "그가 흔들어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 오메르"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "그 오메르"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "너희를 위해 기쁘게 받아지도록"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "다음 날에"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "그 샤밧"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "흔들 것이다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "그 코헨"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:11.753664485Z",
+  "model": "glm-5.2"
+}

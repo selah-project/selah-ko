@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "깨끗한 마음을 나 속에 창조하소서, 엘로힘이시여, 그리고 곧은 루아흐를 내 속에 새롭게 하소서.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "깨끗한"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "창조하소서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "그리고 루아흐를"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "곧은"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "새롭게 하소서"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "내 속에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:58.363870164Z",
+  "model": "glm-5.2"
+}

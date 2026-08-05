@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "사랑할 때가 있고, 미워할 때가 있으며, 전쟁의 때가 있고, 샬롬의 때가 있다.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "사랑할"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "미워할"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁의"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:29.779234144Z",
+  "model": "glm-5.2"
+}

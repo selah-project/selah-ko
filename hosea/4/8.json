@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그들이 나의 백성의 죄를 먹고, 그들의 죄악을 향하여 그들의 네페쉬를 드높이리라.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "죄(제물)를"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나의 백성의"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "그들이 먹고"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "을 향하여"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "그들의 죄악"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "드높이리라"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "그들의 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:32.313755477Z",
+  "model": "glm-5.2"
+}

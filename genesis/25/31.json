@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "야곰이 말하였다. \"오늘 나에게 ⟨את⟩ 장자권을 파십시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "야קב",
+      "gloss": "야곰이"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "파십시오"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "장자권을"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "장자권을"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:22.734564747Z",
+  "model": "glm-5.2"
+}

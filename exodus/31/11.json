@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 ⟨아울러⟩ ⟨את⟩ 기름부음 기름과 ⟨את⟩ 향 — 거룩한 곳을 위한 향료 — 을, 내가 네게 명한 모든 것처럼 그들이 만들 것이다",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "기름부음 기름"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "기름부음"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "향"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "향"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "향료"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "거룩한 곳을 위해"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것처럼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(관계사)"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "내가 네게 명한"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "그들이 만들 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:12.352350668Z",
+  "model": "glm-5.2"
+}

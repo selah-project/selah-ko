@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "이 일들 후에 엘로힘이 ⟨את⟩ 아브라함을 시험하셨다. 그에게 \"아브라함아\" 하고 부르시니, 그가 \"제가 여기 있습니다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "그 일들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "시험하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브라함"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함아"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:28.162702478Z",
+  "model": "glm-5.2"
+}

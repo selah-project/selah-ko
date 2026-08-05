@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "내가 ⟨את⟩ 샤울을 왕으로 세운 것을 후회하노니, 그가 나를 따르는 것에서 돌이켰고 ⟨את⟩ 내 말을 세우지 아니하였기 때문이다. 이것이 쉼무엘에게 격노하게 하였고, 그가 야훼께 부르짖으니, 온 밤 동안이었다.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "내가 후회하노니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…을"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "내가 세운"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤울을"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울을"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "שב",
+      "gloss": "돌이켰고"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "…을 따르는 것에서"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 말을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…아니하였"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "세우"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "그것이 격노하게 하였고"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "쉼무엘에게"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "그가 부르짖으니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤 동안이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:48.592805831Z",
+  "model": "glm-5.2"
+}

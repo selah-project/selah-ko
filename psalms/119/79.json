@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "주를 경외하는 자들이 ⟨나에게⟩ 돌아오게 하소서. 그리고 주의 증거들을 아는 자들이.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "돌아오게 하소서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "주를 경외하는 자들이"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "그리고 아는 자들이"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "주의 증거들을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:10.463337668Z",
+  "model": "glm-5.2"
+}

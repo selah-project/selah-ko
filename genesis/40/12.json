@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "요셉이 그에게 말하였다. \"이것이 그 해석이다. 세 덩굴은 곧 세 날이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "그 해석이다"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "세"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "덩굴은"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "곧 세"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날이다"
+    },
+    {
+      "surface": "הם",
+      "gloss": "이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:47.066488947Z",
+  "model": "glm-5.2"
+}

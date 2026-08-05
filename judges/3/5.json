@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이스라엘 아들들이 가나안 사람, 헷 사람, 아모리 사람, 프리스 사람, 히위 사람, 여부스 사람 한가운데 거주하였다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 …의 아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "거주하였다"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "가나안 사람"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "헷 사람"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "그리고 아모리 사람"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "그리고 프리스 사람"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "그리고 히위 사람"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "그리고 여부스 사람"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:29.655794669Z",
+  "model": "glm-5.2"
+}

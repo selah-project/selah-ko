@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "의로운 자들이 ⟨그것을⟩ 보고 두려워하며, 그를 비웃을 것이다.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "보고"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들이"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "두려워하며"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "비웃을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:12.650525964Z",
+  "model": "glm-5.2"
+}

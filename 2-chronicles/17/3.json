@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "야훼께서 여호샤팟과 함께 하셨으니, 이는 그가 그의 아버지 다윗의 처음 길들에 걸어갔으며, 바알들에게 구하지 아니하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…하셨으니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "여호샤팟"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걸어갔으니"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "…의 길들에"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "처음"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…아니하였으며"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "구하였다"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "바알들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:56:06.697941583Z",
+  "model": "glm-5.2"
+}

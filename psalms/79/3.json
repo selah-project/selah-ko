@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 79,
+  "translation": "그들이 그들의 피를 물같이 예루샬라임 주변에 쏟았으매, 묻는 자가 없었나이다.",
+  "tokens": [
+    {
+      "surface": "שָׁפְכ֬וּ",
+      "gloss": "쏟았으매"
+    },
+    {
+      "surface": "דָמָ֨ם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "כַּמַּ֗יִם",
+      "gloss": "물같이"
+    },
+    {
+      "surface": "סְֽבִ֘יב֤וֹת",
+      "gloss": "주변에"
+    },
+    {
+      "surface": "יְֽרוּשָׁלִָ֗ם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "없었나이다"
+    },
+    {
+      "surface": "קוֹבֵֽר",
+      "gloss": "묻는 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:52.864017136Z",
+  "model": "glm-5.2"
+}

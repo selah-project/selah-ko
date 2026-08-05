@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "모셰 ⟨그의⟩ 종을, ⟨그리고⟩ ⟨그가⟩ 택하신 아하론을 보내셨다.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "⟨그의⟩ 종을"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그가⟩"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "택하신"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨그를⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:33.164490288Z",
+  "model": "glm-5.2"
+}

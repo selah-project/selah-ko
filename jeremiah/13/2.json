@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "내가 ⟨את⟩ 그 띠를 야훼의 말씀대로 사서 허리에 두르니",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "내가 사니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 띠를"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "그 띠"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말씀대로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "두르니"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "내 허리"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:44.486280799Z",
+  "model": "glm-5.2"
+}

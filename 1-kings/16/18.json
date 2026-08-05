@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 짐리가 ⟨그⟩ 성이 함락된 것을 보았으므로, 그가 왕궁의 아르몬에 들어가서, 그가 ⟨את⟩ 왕궁을 불로 그 위에서 태우고 죽었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨일어나니⟩"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "…을 보았으므로"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "짐리가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그⟩ …이"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "함락된 것을"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성이"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 그가 들어가서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "아르몬에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "궁의"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "그리고 그가 태우고"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕궁을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "궁을"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그리고 죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:52:49.514652044Z",
+  "model": "glm-5.2"
+}

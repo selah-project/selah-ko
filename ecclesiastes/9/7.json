@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "가라, 기쁨으로 네 빵을 먹고, 좋은 마음으로 네 포도주를 마셔라. 대저 엘로힘이 이미 ⟨את⟩ 네 행위들을 기뻐하셨음이다.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "기쁨으로"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "네 빵을"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "마셔라"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "네 포도주를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "이미"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "기뻐하셨음이다"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 행위들을"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "네 행위들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:07.356647948Z",
+  "model": "glm-5.2"
+}

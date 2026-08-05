@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 ⟨그⟩ 백성이 여호수아에게 말하였다. \"우리는 우리의 엘로힘이신 ⟨את⟩ 야훼를 섬기고, 그분의 음성에 순종하겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 ⟨그들이⟩ 말하였다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨그⟩ 백성이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리의 엘로힘이신"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "우리는 섬기고"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "그리고 그분의 음성에"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "순종하겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:12:41.702476806Z",
+  "model": "glm-5.2"
+}

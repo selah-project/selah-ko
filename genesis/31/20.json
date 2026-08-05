@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 야곱이 ⟨את⟩ 라반 ⟨그⟩ 아람인의 마음을 훔쳤다, ⟨그가⟩ 그에게 알리지 않은 채, ⟨그가⟩ 도망하고 있었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "훔쳤다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "마음을"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "아람인의"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "…않은 채"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "알리지"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "도망하고"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "있었"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:22.934434538Z",
+  "model": "glm-5.2"
+}

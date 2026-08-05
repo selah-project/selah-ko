@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 3:16",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "에훗이 자기를 위하여 칼을 만들었으니 — 그것에 두 날이 있고, 그 길이가 한 고메드였다. 그가 ⟨아트⟩ 그것을 자기의 옷 아래, 자기의 오른쪽 허벅지 위에 띠었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만들었으니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위하여"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "에훗"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "날"
+    },
+    {
+      "surface": "גמד",
+      "gloss": "고메드"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "그 길이가"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "띠었다"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨아ת⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "למדיו",
+      "gloss": "자기의 옷"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "허벅지"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "자기의 오른쪽"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:48.956111259Z",
+  "model": "glm-5.2"
+}

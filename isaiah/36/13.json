@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 36:13",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 랍 샤케가 서서 큰 목소리로 유다어로 부르짖으며 말하였다. \"들을지어다, ⟨앗시리아⟩ 왕 ⟨그⟩ 큰 왕의 ⟨את⟩ 말씀을.\"",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "그리고 서서"
+    },
+    {
+      "surface": "רב",
+      "gloss": "수석"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "샤케"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 부르짖으며"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "목소리로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "유다어로"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "들을지어다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말씀을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "앗시리아"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:40.357455042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "그들의 얼굴을 치욕으로 채우시고, 그리하여 그들이 ⟨당신의⟩ 이름 — 야훼 — 를 구하게 하소서.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "채우시고"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "그들의 얼굴을"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "치욕으로"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "그리하여 그들이 … 구하게 하소서"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:31.286206377Z",
+  "model": "glm-5.2"
+}

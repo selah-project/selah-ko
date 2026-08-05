@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 미갈은 ⟨את⟩ 다윗을 창문으로 내려보냈다. 그리고 ⟨그⟩는 가서 도망하여 피신하였다.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "그리고 …을 내려보냈다"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "미갈은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "…을 통하여"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "그 창문으로"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그리고 ⟨그⟩는 가서"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "도망하여"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "그리고 피신하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:51.327455517Z",
+  "model": "glm-5.2"
+}

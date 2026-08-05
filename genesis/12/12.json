@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "\"미츠라임 사람들이 당신을 ⟨את⟩ 보고 '이 ⟨사람⟩은 그의 아내이다' 하고 말하면, 그들이 나를 ⟨את⟩ 죽이고 당신은 ⟨את⟩ 살려 둘 것입니다.\"",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "⟨그러면⟩ …것입니다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "보고"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "당신"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "미츠라임 사람들이"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "말하면"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "아내이다"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "죽이고"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "당신"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "살려 둘"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:10.890842329Z",
+  "model": "glm-5.2"
+}

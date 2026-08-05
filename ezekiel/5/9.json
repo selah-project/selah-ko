@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 내가 너에게 ⟨את⟩ ⟨그것⟩을, 곧 내가 하지 아니하였던 ⟨것⟩을 행하겠고, ⟨또⟩ ⟨את⟩ ⟨그것⟩을, 곧 내가 다시는 그와 같이 하지 아니할 ⟨것⟩을 행하리니, 네 모든 가증함들 때문이다.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "그리고 내가 행하겠고"
+    },
+    {
+      "surface": "בך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였던"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "내가 하지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 하지"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시는"
+    },
+    {
+      "surface": "יען",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "네 가증함들"
+    }
+  ],
+  "timestamp": "2026-08-05T10:48:25.900634895Z",
+  "model": "glm-5.2"
+}

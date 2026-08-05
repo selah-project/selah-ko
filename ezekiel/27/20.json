@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "드단이 ⟨그대의⟩ 상인이었다 — 느슨하게 펼친 옷으로, 탈것 ⟨…을 위해⟩.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "드단이"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "그대의 상인"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "옷 ⟨…으로⟩"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "느슨하게 펼친"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "탈것 ⟨…을 위해⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T10:56:42.238519811Z",
+  "model": "glm-5.2"
+}

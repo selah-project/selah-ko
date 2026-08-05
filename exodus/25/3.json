@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 ⟨이것이⟩ 그들이 그들에게서 취할 테루마이니, 금과 은과 청동이다.",
+  "tokens": [
+    {
+      "surface": "וְזֹאת֙",
+      "gloss": "그리고 이것이"
+    },
+    {
+      "surface": "הַתְּרוּמָ֔ה",
+      "gloss": "그 테루마"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "것이"
+    },
+    {
+      "surface": "תִּקְח֖וּ",
+      "gloss": "너희가 취할"
+    },
+    {
+      "surface": "מֵאִתָּ֑ם",
+      "gloss": "그들에게서"
+    },
+    {
+      "surface": "זָהָ֥ב",
+      "gloss": "금"
+    },
+    {
+      "surface": "וָכֶ֖סֶף",
+      "gloss": "그리고 은"
+    },
+    {
+      "surface": "וּנְחֹֽשֶׁת",
+      "gloss": "그리고 청동"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:52.554852940Z",
+  "model": "glm-5.2"
+}

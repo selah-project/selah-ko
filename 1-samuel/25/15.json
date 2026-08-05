@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 ⟨그⟩ 사람들은 우리에게 매우 좋았다. 우리는 수치를 당하지도, 아무것도 잃지도 않았다 — 우리가 그들과 함께 다닌 모든 날 동안, 우리가 들에 있을 때에.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "그리고 ⟨그⟩ 사람들은"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "우리는 ~하지도"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "수치를 당했다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "~도 않았다"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "잃었다"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "아무것도"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날 동안"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "우리가 다닌"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그들과 함께"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "우리가 있을 때에"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:27.840713992Z",
+  "model": "glm-5.2"
+}

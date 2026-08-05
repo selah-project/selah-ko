@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "엘로힘이시여, ⟨그대가⟩ 우리를 시험하셨으니, 은을 제련하듯 우리를 정련하셨다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…이니"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "우리를 시험하셨으니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여,"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "우리를 정련하셨다"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "제련하듯"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:05.726069712Z",
+  "model": "glm-5.2"
+}

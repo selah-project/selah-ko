@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "깨달아라, 백성 가운데 짐승 같은 자들아, 그리고 어리석은 자들아, 언제까지야 현명해지겠느냐?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "깨달아라"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "짐승 같은 자들아"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "백성 가운데"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "어리석은 자들아"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제까지야"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "현명해지겠느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:35.312749503Z",
+  "model": "glm-5.2"
+}

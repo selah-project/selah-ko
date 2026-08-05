@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 31:40",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "내가 이러하였나니 — 낮에는 가뭄이 나를 삼키고, 밤에는 서리, 그리고 내 눈에서 잠이 떠났다.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "내가 있었다"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "낮에는"
+    },
+    {
+      "surface": "אכלני",
+      "gloss": "나를 삼키고"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "가뭄이"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "그리고 서리"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "밤에는"
+    },
+    {
+      "surface": "ותדד",
+      "gloss": "그리고 떠났다"
+    },
+    {
+      "surface": "שנתי",
+      "gloss": "잠이"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "내 눈에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:25.378903244Z",
+  "model": "glm-5.2"
+}

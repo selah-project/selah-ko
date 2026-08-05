@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "음란과 포도주와 새 포도주가 마음을 빼앗으니라.",
+  "tokens": [
+    {
+      "surface": "זְנוּת",
+      "gloss": "음란과"
+    },
+    {
+      "surface": "וְיַיִן",
+      "gloss": "포도주와"
+    },
+    {
+      "surface": "וְתִירוֹשׁ",
+      "gloss": "새 포도주가"
+    },
+    {
+      "surface": "יִקָּח",
+      "gloss": "빼앗으니라"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "마음을"
+    }
+  ],
+  "timestamp": "2026-08-05T19:47:19.633827559Z",
+  "model": "glm-5.2"
+}

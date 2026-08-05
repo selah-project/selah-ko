@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그러면 코헨이 네 손에서 ⟨그⟩ 광주리를 취하여 야훼 네 엘로힘의 제단 앞에 놓을 것이요.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "⟨그⟩ 광주리를"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "네 손에서"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "놓을 것이요"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:01.481743801Z",
+  "model": "glm-5.2"
+}

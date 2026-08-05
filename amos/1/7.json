@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "내가 불을 아자의 성벽에 보내리니, 그것이 그 궁궐들을 삼키리라.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "내가 보내리니"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불을"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "성벽에"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "아자의"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "삼키리라"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "그 궁궐들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:10:12.869430230Z",
+  "model": "glm-5.2"
+}

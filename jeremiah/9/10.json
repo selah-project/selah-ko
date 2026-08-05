@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 내가 ⟨את⟩ 예루샬라임을 돌무더기들로, 타님들의 거첫로 만들고, ⟨את⟩ 예후다의 성읍들을 주민 없이 황무지로 만들리이다.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 만들리이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "돌무더기들로"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "거첫로"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "타님들의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "예후다의 성읍들을"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성읍들을"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다의"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "내가 만들리이다"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "황무지로"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "주민"
+    }
+  ],
+  "timestamp": "2026-08-05T10:29:33.493186460Z",
+  "model": "glm-5.2"
+}

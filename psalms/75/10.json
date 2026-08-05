@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 75,
+  "translation": "그리고 나는 영원토록 선포하리라, 야곱의 엘로힘을 향해 노래하리라.",
+  "tokens": [
+    {
+      "surface": "וַ֭אֲנִי",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "אַגִּ֣יד",
+      "gloss": "선포하리라"
+    },
+    {
+      "surface": "לְעֹלָ֑ם",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "אֲ֖זַמְּרָ֗ה",
+      "gloss": "노래하리라"
+    },
+    {
+      "surface": "לֵאלֹהֵ֥י",
+      "gloss": "엘로힘을 향해"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "야곱의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:38.377964503Z",
+  "model": "glm-5.2"
+}

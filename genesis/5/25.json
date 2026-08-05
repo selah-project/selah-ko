@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 메투셀라흐가 187년을 살았고, ⟨그리고⟩ 레멕을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "그리고 살았다"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "메투셀라흐"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "그리고 여든"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "그리고 백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "그리고 낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레멕"
+    },
+    {
+      "surface": "למך",
+      "gloss": "레멕"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:24.058480289Z",
+  "model": "glm-5.2"
+}

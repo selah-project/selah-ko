@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "우리가 비천할 때 우리를 기억하셨다. 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "우리가 비천할 때"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "기억하셨다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그의"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:11.016768671Z",
+  "model": "glm-5.2"
+}

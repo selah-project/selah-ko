@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "네 손이 찾아 할 수 있는 모든 것을, 네 힘으로 행하라. 행함도 계산도 앎도 지혜도 없기 때문이다, 네가 그곳으로 가는 셰올에.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것을⟩"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "찾아"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손이"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "할"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "네 힘으로"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없기"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "행함도"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "계산도"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "앎도"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "지혜도"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "셰올에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그곳은⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "가는"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "그곳으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:46.269757990Z",
+  "model": "glm-5.2"
+}

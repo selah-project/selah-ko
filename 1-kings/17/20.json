@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그가 야훼께 부르짖으며 말하였다. \"야훼 나의 엘로힘이시여, 내가 그녀와 함께 거류하는 그 과부에게까지도 재앙을 내리시어 ⟨את⟩ 그녀의 아들을 죽이셨습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "부르짖으며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로험이시여"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "까지도"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "그 과부"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "──"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "거류하는"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "그녀와 함께"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "재앙을 내리시어"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "죽이셨습니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 아들을"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "그녀의 아들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:16:27.761643620Z",
+  "model": "glm-5.2"
+}

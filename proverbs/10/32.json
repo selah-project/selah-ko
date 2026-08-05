@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "의로운 ⟨이⟩의 입술은 기쁨을 ⟨알며⟩, 악인들의 입은 우회함이다.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "입술"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 ⟨이⟩의"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "알며"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "기쁨을"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "그리고 입은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "우회함이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:05.758430306Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 문들이 거리에서 닫히고, 맷돌의 소리가 낮아지고, 새의 소리에 일어나며, 노래의 딸들이 모두 낮아지는 ⟨그⟩ 때에.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "그리고 닫히고"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "문들이"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "거리에서"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "낮아지고"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "맷돌의"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "그리고 일어나며"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "소리에"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "새의"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "그리고 낮아지는"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모두"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸들이"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "노래의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:37.737965779Z",
+  "model": "glm-5.2"
+}

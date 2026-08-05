@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "아히마아츠가 ⟨את⟩ 아자르야를 낳았고, 아자르야가 ⟨את⟩ 요하난을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "아히마아츠가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아자르야를"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "아자르야를"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "아자르야가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요하난을"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "요하난을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:40.701399956Z",
+  "model": "glm-5.2"
+}

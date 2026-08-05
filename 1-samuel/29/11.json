@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "다윗은 자신의 사람들과 함께 아침에 일찍 일어나 블레셋 땅으로 돌아가려고 길을 나섰다. 그리고 블레셋 사람들은 예즈르엘로 올라갔다.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "일찍 일어나"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "자신이"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "사람들과 함께"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "길을 나섰다"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "돌아가려고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "블레셋 사람들은"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "예즈르엘로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:46.220268934Z",
+  "model": "glm-5.2"
+}

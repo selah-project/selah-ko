@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "옛적에 땅을 ⟨당신이⟩根基를 세우셨고, 하늘들은 당신의 손들의 일이 ⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "옛적에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "기반을 세우셨고"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "그리고 …의 일이"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "당신의 손들의"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:24.119546542Z",
+  "model": "glm-5.2"
+}

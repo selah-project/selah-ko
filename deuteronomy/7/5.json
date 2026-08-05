@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "오직 너희는 그들에게 이같이 행하라: 그들의 제단들을 헐어버리고, 그들의 석상들을 부수며, 그들의 아세라들을 찍어내고, 그들의 조각상들을 불태우라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨오직⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "너희는 행하라"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "그들의 제단들을"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "헐어버리고"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "그들의 석상들을"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "부수며"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "그들의 아세라들을"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "찍어내고"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "그들의 조각상들을"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "불태우라"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:58.935234489Z",
+  "model": "glm-5.2"
+}

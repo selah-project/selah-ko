@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 그녀가 아브라함에게 말하였다. \"이 여종과 ⟨את⟩ 그녀의 아들을 내쫓으십시오. 이 여종의 아들이 내 아들, 이삭과 함께 상속을 받지 못할 것이기 때문입니다.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "아브라함에게"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "내쫓으십시오"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "여종을"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 아들을"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "그녀의 아들을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "상속받을 것이다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "여종의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "עם",
+      "gloss": "곧"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭과"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:52.192416443Z",
+  "model": "glm-5.2"
+}

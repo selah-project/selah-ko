@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "이스라엘의 교만이 ⟨그의⟩ 얼굴 앞에서 증언하였고, 이스라엘과 에프라임은 ⟨그들의⟩ 죄악에서 비틀거렸다. 유다도 ⟨그들⟩과 함께 비틀거렸다.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "증언하였고"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "교만이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "얼굴 앞에서"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "이스라엘과"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "에프라임은"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "비틀거렸다"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "죄악에서"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "비틀거렸다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:32.829990966Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 샤울이 아말렉 성읍에 이르러, 골짜기에서 매복하였다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "이르렀다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…에"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "아말렉"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "매복하였다"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "골짜기에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:24.342633999Z",
+  "model": "glm-5.2"
+}

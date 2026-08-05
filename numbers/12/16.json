@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그 후에 백성이 하체로트에서 떠나, 파란 광야에서 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "하체로트에서"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "파란"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:37.560811512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 2:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼 엘로힘이 땅에서 모든 나무를 자라게 하셨다 — 보기에 탐스럽고 먹기에 좋은 나무들, 그리고 동산 한가운데 생명나무와 선악을 아는 나무를 ⟨자라게 하셨다⟩.",
+  "tokens": [
+    {
+      "surface": "ויצמח",
+      "gloss": "자라게 하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "탐스러운"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "보기에"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "좋고"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "먹기에"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "그리고 나무"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "생명"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "동산"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "그리고 나무"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "아는"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "선"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "악"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:46.983662250Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 ⟨את⟩ 네 수레와 ⟨את⟩ 여덟 마리 소를 므라리의 아들들에게, 그들의 섬기는 일에 따라, 아론의 아들 제사장(코헨) 이타마르의 손 아래 주었다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "네 수레(ארבע העגלת)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "네"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "수레"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "여덟 마리 소(שמנת הבקר)"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "여덟"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "소"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "므라리의"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "에 따라"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "그들의 섬기는 일"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손 아래"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "이타마르의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "제사장(코헨)"
+    }
+  ],
+  "timestamp": "2026-08-05T08:30:58.081247492Z",
+  "model": "glm-5.2"
+}

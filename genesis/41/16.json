@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "요셉이 ⟨את⟩ 파르오에게 대답하여 말하였다. \"나 아닌, 엘로힘이 ⟨את⟩ 파르오의 샬롬을 대답하실 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "나 아닌"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "대답하실 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샬롬을"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:50.768423746Z",
+  "model": "glm-5.2"
+}

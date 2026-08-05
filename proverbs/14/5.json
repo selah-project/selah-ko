@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "신실한 증인은 거짓말하지 않지만, 거짓들을 내뿜는 자는 거짓의 증인이다.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "증인은"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "신실한"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "거짓말한다"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "그러나 내뿜는"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "거짓들을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "증인이다"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:09.214625325Z",
+  "model": "glm-5.2"
+}

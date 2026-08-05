@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그의 도시 장로들이 보내어 거기서 ⟨את⟩ 그를 데려오고, ⟨את⟩ 그를 피의 고엘 손에 넘겨 그가 죽게 할 것이다.",
+  "tokens": [
+    {
+      "surface": "וְשָֽׁלְחוּ֙",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "זִקְנֵ֣י",
+      "gloss": "장로들이"
+    },
+    {
+      "surface": "עִיר֔וֹ",
+      "gloss": "그의 도시"
+    },
+    {
+      "surface": "וְלָקְח֥וּ",
+      "gloss": "데려오고"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "מִשָּׁ֑ם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "וְנָתְנ֣וּ",
+      "gloss": "넘겨"
+    },
+    {
+      "surface": "אֹת֗וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בְּיַ֛ד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "גֹּאֵ֥ל",
+      "gloss": "고엘"
+    },
+    {
+      "surface": "הַדָּ֖ם",
+      "gloss": "피의"
+    },
+    {
+      "surface": "וָמֵֽת",
+      "gloss": "죽게 할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:07:05.944652655Z",
+  "model": "glm-5.2"
+}

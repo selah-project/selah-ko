@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "야훼께서 말씀하셨다. \"나의 종 예샤야후가 벌거벗고 맨발로 행하였음 같이, 삼 년 동안 미츠라임과 쿠쉬 위에 표징과 징조가 되리라.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "같이"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "행하였음"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "나의 종"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "예샤야후"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "벌거벗고"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "맨발로"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "삼"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "אות",
+      "gloss": "표징"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "징조"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "쿠쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T18:16:13.113980173Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "너의 모든 길에서 ⟨그를⟩ 알라, 그리고 ⟨그⟩분께서 너의 길들을 곧게 하실 것이다.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "길에서"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "⟨그를⟩ 알라"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 ⟨그⟩분께서"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "곧게 하실 것이다"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "길들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:58.929856618Z",
+  "model": "glm-5.2"
+}

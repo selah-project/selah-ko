@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "또한 주의 종이 그것들로 말미암아 경고를 받으며, 그것들을 지킴에 보상이 크다.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "주의 종이"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "경고를 받으며"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그것들로 말미암아"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "그것들을 지킴에"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "보상이"
+    },
+    {
+      "surface": "רב",
+      "gloss": "크다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:18.985776447Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 야훼께서 ⟨את⟩ 그 백성의 헨을 미츠라임 사람들의 눈에 주셨다. 곧 그 사람 모셰는 미츠라임 땅에서 심히 컸는데, 파르오의 종들의 눈에도, 그리고 그 백성의 눈에도 ⟨그러하였다⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 … 주셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성의 헨"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성의"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "… 눈에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임 사람들의"
+    },
+    {
+      "surface": "גם",
+      "gloss": "곧"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰는"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "컸는데"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "… 땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "… 눈에도"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들의"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "그리고 … 눈에도"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:38.716789068Z",
+  "model": "glm-5.2"
+}

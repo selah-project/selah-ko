@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "당신은 당신의 모든 진노를 거두셨다. 당신의 맹렬한 노에서 ⟨돌이키셨다⟩.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "거두셨다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "당신의 진노를"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "돌이키셨다"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "맹렬한"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "당신의 노에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:24.528144331Z",
+  "model": "glm-5.2"
+}

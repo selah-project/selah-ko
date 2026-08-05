@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 24:16",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그를 다윗 성에 왕들과 함께 묻었으니, 이는 그가 이스라엘에서 아름다운 일을 행하였으며, 엘로힘과 그의 집에 대해서도 ⟨그리하였음⟩이다.",
+  "tokens": [
+    {
+      "surface": "ויקברהו",
+      "gloss": "그를 묻었으니"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성에"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "왕들과"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였으며"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "아름다운 일을"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에서"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘과"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "그의 집에 대해서도"
+    }
+  ],
+  "timestamp": "2026-08-05T18:44:09.878037610Z",
+  "model": "glm-5.2"
+}

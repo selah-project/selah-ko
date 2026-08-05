@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨את⟩ 솔개와 ⟨את⟩ 매를, 그리고 까마귀-수리를 그 종류대로",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "그리고 까마귀-수리"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "האיה"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "매"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "그리고 솔개"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "그 종류대로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:01.174836581Z",
+  "model": "glm-5.2"
+}

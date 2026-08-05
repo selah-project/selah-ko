@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그가 말하였다. \"제가 ⟨당신에게⟩ 할 말이 있습니다.\" 그녀가 말하였다. \"말씀하십시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말"
+    },
+    {
+      "surface": "לי",
+      "gloss": "제가"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨당신에게⟩"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하십시오"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:48.439437264Z",
+  "model": "glm-5.2"
+}

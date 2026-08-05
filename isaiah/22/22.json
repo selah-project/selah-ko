@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "다윗의 집 열쇠를 그의 어깨에 두리니, 그가 열면 닫을 자가 없고, 그가 닫으면 열 자가 없으리라.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "두리니"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "열쇠를"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "그의 어깨"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "그리고 열면"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "닫을 자가"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "그리고 닫으면"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없으리라"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "열 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:50.642657559Z",
+  "model": "glm-5.2"
+}

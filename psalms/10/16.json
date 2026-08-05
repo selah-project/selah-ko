@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼는 왕이시니이다. 영원무궁토록. 열방이 그의 땅에서 멸망하였나이다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이시니이다"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 영원토록"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "멸망하였나이다"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "열방이"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "그의 땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:15.670101630Z",
+  "model": "glm-5.2"
+}

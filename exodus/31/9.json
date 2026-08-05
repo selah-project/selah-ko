@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 ⟨את⟩ 올라 제단과 ⟨את⟩ 그 모든 기구들과 ⟨את⟩ 대야와 ⟨아울러⟩ ⟨את⟩ 그 받침을",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "올라 제단"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라 (제물의)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 모든 기구들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "그 기구들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "대야"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "대야"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 받침"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "그 받침"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:12.351893544Z",
+  "model": "glm-5.2"
+}

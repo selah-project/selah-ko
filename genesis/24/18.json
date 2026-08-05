@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 24:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그녀가 말하였다. \"드십시오, 제 주인이시여.\" 그녀가 급히 내려 손 위에 그녀의 항아리를 내리고 그에게 마시게 하였다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "드십시오"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "제 주인이시여"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "그녀가 급히"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "내려"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "그녀의 항아리를"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "손"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "그에게 마시게 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:04.963843512Z",
+  "model": "glm-5.2"
+}

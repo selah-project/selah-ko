@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "이는 야훼가 이스라엘 가문에게 이같이 말씀하셨기 때문이다: 나를 구하라, 그리하면 살리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "가문에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "나를 구하라"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "살리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:17.619341084Z",
+  "model": "glm-5.2"
+}

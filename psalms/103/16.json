@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "루아흐가 그 위를 지나가면 그가 없어지고, 그의 자리가 그를 다시 알지 못한다.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "때"
+    },
+    {
+      "surface": "ר֣וּחַ",
+      "gloss": "루아흐가"
+    },
+    {
+      "surface": "עָֽבְרָה",
+      "gloss": "지나가면"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "그 위를"
+    },
+    {
+      "surface": "וְאֵינֶ֑נּוּ",
+      "gloss": "그가 없어지고"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "알지 못한다"
+    },
+    {
+      "surface": "יַכִּירֶ֖נּוּ",
+      "gloss": "그를 다시"
+    },
+    {
+      "surface": "ע֣וֹד",
+      "gloss": ""
+    },
+    {
+      "surface": "מְקוֹמֽוֹ",
+      "gloss": "그의 자리가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:26.899513307Z",
+  "model": "glm-5.2"
+}

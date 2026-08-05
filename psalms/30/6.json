@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그의 진노에는 순간이 ⟨있고⟩, 그의 기쁘심에는 생명이 ⟨있다⟩ — 저녁에는 울음이 머물러도 아침에는 환호가 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "그"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "순간"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "그의 진노에는"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "생명이"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "그의 기쁘심에는"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "저녁에는"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "머물어도"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "울음이"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "그리고 아침에는"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "환호가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:37.607743023Z",
+  "model": "glm-5.2"
+}

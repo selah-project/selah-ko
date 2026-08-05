@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "살아 있는 모든 기어 다니는 것은 너희에게 먹을 것이 될 것이다. 푸른 풀처럼, 내가 ⟨את⟩ 모든 것을 너희에게 주었으니.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "기어 다니는 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "חי",
+      "gloss": "살아 있는"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "먹을 것"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "푸른 …처럼"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "풀"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었으니"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:03.074756758Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "이렇게 엘로힘이 ⟨아버지⟩의 ⟨아비⟩의 가축 떼를 빼앗아 ⟨그것을⟩ 내게 주셨다.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "이렇게 빼앗으셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가축 떼"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "가축 떼를"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "아비의"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:18.783572242Z",
+  "model": "glm-5.2"
+}

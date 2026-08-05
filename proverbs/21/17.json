@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "결핍의 사람은 즐거움을 사랑하고, 포도주와 기름을 사랑하는 자는 부자가 되지 못한다.",
+  "tokens": [
+    {
+      "surface": "אישׁ",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "결핍의"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하고"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "즐거움을"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하는 자는"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주와"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "기름을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "부자가 되지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:30.432882413Z",
+  "model": "glm-5.2"
+}

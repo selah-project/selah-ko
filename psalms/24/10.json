@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "누구인가, ⟨이⟩ 영광의 왕은? 만군의 야훼 — 그분이시다, 영광의 왕. 셀라.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누구인가"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨이⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "영광의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그분이시다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "영광의"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:19.228813056Z",
+  "model": "glm-5.2"
+}

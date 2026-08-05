@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 34:7",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "수천 대에 이르기까지 헤세드를 지키시며, 불법과 반역과 죄를 용서하시는 이시나, 결코 무죄 방면하지 않으시고, 아비들의 불법을 아들들에게, 아들의 아들들에게, 삼 대와 사 대에 이르기까지 찾으신다.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "지키시며"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드를"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "수천 대에 이르기까지"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "용서하시는"
+    },
+    {
+      "surface": "עון",
+      "gloss": "불법을"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "반역과"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "죄를"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "방면하시나"
+    },
+    {
+      "surface": "לא",
+      "gloss": "결코 아니"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "방면하시고"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "찾으신다"
+    },
+    {
+      "surface": "עון",
+      "gloss": "불법을"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "아비들의"
+    },
+    {
+      "surface": "על",
+      "gloss": "−에게"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 −에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들의"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "−에 이르기까지"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼 대와"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 −에 이르기까지"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "사 대에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:57.447625665Z",
+  "model": "glm-5.2"
+}

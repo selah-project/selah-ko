@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "악에서 돌이키고 좋은 것을 행하라, 샬롬을 구하고 그것을 쫓으라.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "돌이키라"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "악에서"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 행하라"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것을"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "구하라"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "그리고 그것을 쫓으라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:19.148115623Z",
+  "model": "glm-5.2"
+}

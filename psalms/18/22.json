@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "내가 야훼의 길들을 지켰고, 내 엘로힘에게서 악하게 행하지 않았기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "내가 지켰고"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "길들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지 않았고"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "악하게 행하였다"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "내 엘로힘에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:17.865410041Z",
+  "model": "glm-5.2"
+}

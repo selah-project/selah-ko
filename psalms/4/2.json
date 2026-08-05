@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "내가 부를 때에 나의 의의 엘로힘, 나에게 응답하소서. 환난 중에 ⟨나를⟩ 넓히셨나이다. 나에게 헨을 베푸시고 나의 기도를 들어주소서.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "내가 부를 때에"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "나에게 응답하소서"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "나의 의의"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "환난 중에"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "넓히셨나이다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨나를⟩"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "나에게 헨을 베푸시고"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "들어주소서"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "나의 기도를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:22.366690069Z",
+  "model": "glm-5.2"
+}

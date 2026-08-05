@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 101,
+  "translation": "나는 완전한 길에서 지혜롭게 행하리니, 언제 당신이 내게 오시겠습니까? 나는 내 마음의 온전함 안에서, 내 집 한가운데서 걸으리이다.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "지혜롭게 행하리니"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길에서"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "완전한"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "당신이 오시겠습니까"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "걸으리이다"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "온전함 안에서"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "내 마음의"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "내 집"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:25.322825367Z",
+  "model": "glm-5.2"
+}

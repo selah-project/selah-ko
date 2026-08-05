@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "오직 ⟨그가⟩ 나를 향해 ⟨그의⟩ 손을 돌리시며, 쉼 없이 종일 뒤집으신다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를 향해"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "돌리시며"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "뒤집으신다"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "날"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:10.721352699Z",
+  "model": "glm-5.2"
+}

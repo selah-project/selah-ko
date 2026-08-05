@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리하면 네가 헨과 좋은 세켈을 엘로힘과 사람의 눈에 ⟨서⟩ 얻으리라.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "그리하면 네가 ~얻으리라"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨과"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "세켈을"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "~눈에"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘과"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:29.621593881Z",
+  "model": "glm-5.2"
+}

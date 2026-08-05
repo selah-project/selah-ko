@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "당신이 보셨나이다. 곧 당신이 수고와 분노를 바라보셨사옵니다. 당신의 손으로 갚으시려고. 당신을 향하여 불쌍한 자가 자신을 맡기나이다. 당신은 고아의 도우미이셨나이다.",
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "당신이 보셨나이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "수고를"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "그리고 분노를"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "바라보셨사옵니다"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주시려고"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "당신의 손으로"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "당신을 향하여"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "맡기나이다"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "불쌍한 자가"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "고아의"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "היית",
+      "gloss": "이셨나이다"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "도우미"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:15.669855849Z",
+  "model": "glm-5.2"
+}

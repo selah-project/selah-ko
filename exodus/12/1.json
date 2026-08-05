@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "야훼께서 미츠라임 땅에서 모셰와 아하론에게 말씀하셔서 이르시기를",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셔서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "와"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론에게"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:53.503684271Z",
+  "model": "glm-5.2"
+}

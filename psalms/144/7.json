@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 144,
+  "translation": "높은 곳에서 ⟨그⟩ 손들을 보내사 나를 건져 내시고, 나를 구원하소서 — 많은 물들에서, 낯선 자들의 아들들의 손에서.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "보내사"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "⟨그⟩ 손들을"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "높은 곳에서"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "나를 건져 내시고"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "나를 구원하소서"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은 물들"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…의 손에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들의"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "낯선 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:12.664413434Z",
+  "model": "glm-5.2"
+}

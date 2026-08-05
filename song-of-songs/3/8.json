@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그들 모두 칼을 잡은 자들, 전쟁에 훈련된 자들, 각자 ⟨그의⟩ 칼을 ⟨그의⟩ 허벅지 위에, 밤의 두려움에서 ⟨⟨말미이다⟩⟩.",
+  "tokens": [
+    {
+      "surface": "כֻּלָּם֙",
+      "gloss": "그들 모두"
+    },
+    {
+      "surface": "אֲחֻ֣זֵי",
+      "gloss": "잡은 자들"
+    },
+    {
+      "surface": "חֶ֔רֶב",
+      "gloss": "칼을"
+    },
+    {
+      "surface": "מְלֻמְּדֵ֖י",
+      "gloss": "훈련된 자들"
+    },
+    {
+      "surface": "מִלְחָמָ֑ה",
+      "gloss": "전쟁에"
+    },
+    {
+      "surface": "אִ֤ישׁ",
+      "gloss": "각자"
+    },
+    {
+      "surface": "חַרְבּוֹ֙",
+      "gloss": "칼을"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יְרֵכ֔וֹ",
+      "gloss": "허벅지"
+    },
+    {
+      "surface": "מִפַּ֖חַד",
+      "gloss": "두려움에서"
+    },
+    {
+      "surface": "בַלֵּילּֽוֹת",
+      "gloss": "밤의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:31.403983665Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "음식을 은으로 내게 팔라, 내가 먹으리라. 그리고 물을 은으로 내게 주라, 내가 마시리라. 다만 내가 발로 지나가리라.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "음식을"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "은으로"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "내게 팔라"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "그리고 내가 먹으리라"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "그리고 물을"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "은으로"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "주라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "그리고 내가 마시리라"
+    },
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "내가 지나가리라"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "발로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:41.979214057Z",
+  "model": "glm-5.2"
+}

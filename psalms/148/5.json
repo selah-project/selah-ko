@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "그들이 ⟨את⟩ 야훼의 이름을 할렐하라. 그가 ⟨그것을⟩ 명하셨기 때문이며, ⟨그리하여⟩ 그것들이 창조되었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "יְֽ֭הַֽלְלוּ",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이름"
+    },
+    {
+      "surface": "שֵׁ֣ם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ה֭וּא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "명하셨으며"
+    },
+    {
+      "surface": "וְנִבְרָֽאוּ",
+      "gloss": "창조되었다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:29.942464233Z",
+  "model": "glm-5.2"
+}

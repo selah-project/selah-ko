@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 43:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그 사람들이 ⟨את⟩ 이 선물을, 그리고 은을 배로 손에 가지고 ⟨את⟩ 베냐민을 데리고, 일어나 미츠라임으로 내려가서 요셉 앞에 섰다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "가지고"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 선물을"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "선물을"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "그리고 배로"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은을"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "가져서"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "손에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "베냐민을"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "베냐민을"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "내려가서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임으로"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "섰다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "~앞에"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:07.112110579Z",
+  "model": "glm-5.2"
+}

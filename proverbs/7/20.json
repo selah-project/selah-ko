@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "은의 자루를 그가 그의 손에 취하였다, 보름의 날에 그가 그의 집에 올 것이다.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "자루를"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은의"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "그가 취하였다"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "보름의"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "그가 올 것이다"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:27.504194645Z",
+  "model": "glm-5.2"
+}

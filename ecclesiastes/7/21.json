@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "또한 그들이 말하는 모든 말씀에 마음을 두지 말라 — 네가 ⟨את⟩ 네 종이 너를 저주하는 것을 듣지 않도록.",
+  "tokens": [
+    {
+      "surface": "גַּ֤ם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הַדְּבָרִים֙",
+      "gloss": "그 말씀들"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "that"
+    },
+    {
+      "surface": "יְדַבֵּ֔רוּ",
+      "gloss": "그들이 말한다"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תִּתֵּ֖ן",
+      "gloss": "너는 주지"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "네 마음을"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "lest"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "not"
+    },
+    {
+      "surface": "תִשְׁמַ֥ע",
+      "gloss": "너는 듣지"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "네 종"
+    },
+    {
+      "surface": "עַבְדְּךָ֖",
+      "gloss": "네 종이"
+    },
+    {
+      "surface": "מְקַלְלֶֽךָ",
+      "gloss": "너를 저주하는"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:10.662936322Z",
+  "model": "glm-5.2"
+}

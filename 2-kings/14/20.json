@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그들이 ⟨את⟩ 그를 말들 위에 싣고, 예루샬라임에 그의 조상들과 함께 다윗의 성에 장사하였다.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "싣고"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "말들"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "장사하였다"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "עם",
+      "gloss": "~와 함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "그의 조상들"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "~의 성에"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:42.073540544Z",
+  "model": "glm-5.2"
+}

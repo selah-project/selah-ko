@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "그리고 당신은 높임을 받으시는 이, 영원히, 야훼이시다.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 당신은"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "높임을 받으시는 이"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:36.864947065Z",
+  "model": "glm-5.2"
+}

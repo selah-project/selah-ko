@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 20:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "⟨그⟩ 거기에 있던 ⟨את⟩ 백성을 끌어내어 톱과 쇠 낫과 도끼로 썰었다. 다윗이 암몬 자손의 모든 성읍에 이와 같이 하였다. 그리고 다윗과 온 백성이 예루샬라임으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "거기에 있던"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "끌어내어"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "썰었다"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "톱으로"
+    },
+    {
+      "surface": "ובחריצי",
+      "gloss": "낫으로"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "쇠"
+    },
+    {
+      "surface": "ובמגרות",
+      "gloss": "도끼로"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "그리고 이와 같이"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성읍에"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그리고 돌아갔다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗과"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:54.036389177Z",
+  "model": "glm-5.2"
+}

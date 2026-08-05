@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "요셉이 대답하여 말하였다. \"이것이 그 해석이다. 세 바구니는 삼 일이다.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "해석이다"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "세"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "바구니는"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "삼"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일이다"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그것들"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:58.032144225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이스라엘의 사람들이 하미츠파에서 나와서 ⟨את⟩ 필리쉬인들을 추격하며, 그들을 벳 카르 아래까지 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "그리고 …나와서"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "그 미츠파"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "그리고 …추격하며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "필리쉬인들을"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "필리쉬인들"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "그리고 …쳤다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "벳"
+    },
+    {
+      "surface": "כר",
+      "gloss": "카르"
+    }
+  ],
+  "timestamp": "2026-08-05T09:24:14.031108951Z",
+  "model": "glm-5.2"
+}

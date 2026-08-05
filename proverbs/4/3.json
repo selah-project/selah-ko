@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "내가 아버지에게 아들이었을 때, 어머니 앞에서 연약하고 유일하였다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "있었을"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "아버지에게"
+    },
+    {
+      "surface": "רך",
+      "gloss": "연약하고"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "유일하였다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "어머니의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:35.398117052Z",
+  "model": "glm-5.2"
+}

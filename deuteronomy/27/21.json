@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "저주를 받을 자는 ⟨모든⟩ 짐승과 동침하는 자이다. 그리고 ⟨온⟩ 백성이 아멘이라고 말할 것이다.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받을 자는"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "동침하는"
+    },
+    {
+      "surface": "עם",
+      "gloss": "과"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨모든⟩"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 …이(가) 말할 것이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨온⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘이라고"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:25.999344146Z",
+  "model": "glm-5.2"
+}

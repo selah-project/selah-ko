@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 내가 그들 가운데 ⟨את⟩ 칼과 ⟨את⟩ 기근과 ⟨את⟩ 재앙을 보내리니, 그들이 내가 그들과 그들의 조상들에게 준 그 땅에서 멸절되기까지이다.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "그리고 내가 보내리니"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들 가운데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "칼"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기근"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "기근"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "재앙"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "재앙"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "그들이 멸절되기"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 준"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "그리고 그들의 조상들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:36:04.808223414Z",
+  "model": "glm-5.2"
+}

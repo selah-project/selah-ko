@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "내 혀에 불의가 있습니까? 내 입천장이 재앙을 분별하지 못합니까?",
+  "tokens": [
+    {
+      "surface": "הֲיֵשׁ",
+      "gloss": "있습니까"
+    },
+    {
+      "surface": "בִּלְשׁוֹנִ֥י",
+      "gloss": "내 혀에"
+    },
+    {
+      "surface": "עַוְלָ֑ה",
+      "gloss": "불의가"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "…이(가)"
+    },
+    {
+      "surface": "חִ֝כִּ֗י",
+      "gloss": "내 입천장이"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "…못합니까"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": "분별하지"
+    },
+    {
+      "surface": "הַוּֽוֹת",
+      "gloss": "재앙을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:41.748459084Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "야훼여, 당신의 헤세드가 우리 위에 있게 하소서. 우리가 당신을 바란 것 같이.",
+  "tokens": [
+    {
+      "surface": "יְהִֽי",
+      "gloss": "있게 하소서"
+    },
+    {
+      "surface": "חַסְדְּךָ֣",
+      "gloss": "당신의 헤세드가"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "עָלֵ֑ינוּ",
+      "gloss": "우리 위에"
+    },
+    {
+      "surface": "כַּ֝אֲשֶׁ֗ר",
+      "gloss": "것 같이"
+    },
+    {
+      "surface": "יִחַ֥לְנוּ",
+      "gloss": "우리가 바란"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "당신을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:01.150973043Z",
+  "model": "glm-5.2"
+}

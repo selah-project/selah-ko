@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그⟩ 사람이 ⟨את⟩ 하와 그의 아내를 알았고, 그녀가 임신하여 ⟨את⟩ 카인을 낳고 말하였다. \"내가 야훼로 ⟨את⟩ 한 사람을 얻었다.\"",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "그리고 ⟨그⟩ 사람은"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하와"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "하와"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내를"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "그녀가 임신하여"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "카인"
+    },
+    {
+      "surface": "קין",
+      "gloss": "카인을"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "내가 얻었다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람을"
+    },
+    {
+      "surface": "את",
+      "gloss": "야훼로 ⟨아래에서는 את가 전치사적으로 해석됨⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:48.957856319Z",
+  "model": "glm-5.2"
+}

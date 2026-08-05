@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "별들의 수를 세시며, 그들 모두에게 이름을 부르신다.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "세시며"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "수를"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "별들의"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "그들 모두에게"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "부르신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:10.543375776Z",
+  "model": "glm-5.2"
+}

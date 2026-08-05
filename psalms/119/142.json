@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "주님의 체다카는 영원한 체데크이시며, 주님의 토라는 에메트이시다.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "주님의 체다카는"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "체데크이시며"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "주님의 토라는"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "에메트이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:08.993329630Z",
+  "model": "glm-5.2"
+}

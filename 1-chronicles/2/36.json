@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 아타이가 ⟨את⟩ 나탄을 낳았고, 나탄이 ⟨את⟩ 자바드를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "그리고 아타이가"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나탄을"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "그리고 나탄이"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자바드를"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "자바드"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:42.742745291Z",
+  "model": "glm-5.2"
+}

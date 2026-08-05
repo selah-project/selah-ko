@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그러므로 강한 백성이 ⟨당신을⟩ 영광스럽게 하고, 무자비한 민족들의 성읍들이 ⟨당신을⟩ 두려워할 것입니다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "⟨당신을⟩ 영광스럽게 할"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "עז",
+      "gloss": "강한"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "성읍들이"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들의"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "무자비한"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "⟨당신을⟩ 두려워할 … 것입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:01.567873617Z",
+  "model": "glm-5.2"
+}

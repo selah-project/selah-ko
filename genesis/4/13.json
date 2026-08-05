@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "카인이 야훼께 말하였다. \"내 죄벌은 ⟨견디기에⟩ 너무 큽니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "קין",
+      "gloss": "카인이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크다"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "내 죄벌이"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "견디기에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:09.416503923Z",
+  "model": "glm-5.2"
+}

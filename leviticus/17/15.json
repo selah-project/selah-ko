@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 스스로 죽은 것이나 찢긴 것을 먹는 모든 네페쉬는 — 토박이나 거류민이나 — 자기의 옷을 빨고 물에 몸을 씻으며 저녁까지 부정하고, 그 후 정결할 것이다.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…가"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "먹는"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "스스로 죽은 것"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "그리고 찢긴 것"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "토박이나"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "거류민이나"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "자기의 옷을 빨고"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기의 옷"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "씻으며"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "부정하고"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "저녁"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "그 후 정결할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:52.249105275Z",
+  "model": "glm-5.2"
+}

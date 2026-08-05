@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "마쉬아 — 바다 광야의. 회오리바람 같은 ⟨것들이⟩ 네게브에서 휩쓸어 오나니, 그것이 광야에서, 무서운 땅에서 온다.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "마쉬아"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야의"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "회오리바람 같은 것들이"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "네게브에서"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "휩쓸어 오나니"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "בא",
+      "gloss": "온다"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "무서운"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:54.296679668Z",
+  "model": "glm-5.2"
+}

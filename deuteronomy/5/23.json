@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "너희가 ⟨את⟩ 그 음성을 어둠 가운데서 들었을 때 — 그리고 그 산이 불로 타고 있었는데 — 너희 모든 지파의 우두머리들과 너희 장로들이 내게 가까이 왔었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "들었을 때"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 음성을"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "그 음성을"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "어둠"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "그리고 그 산이"
+    },
+    {
+      "surface": "בער",
+      "gloss": "타고 있었는데"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "가까이 왔었다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "우두머리들"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "너희 지파의"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "너희 장로들이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:39.738053622Z",
+  "model": "glm-5.2"
+}

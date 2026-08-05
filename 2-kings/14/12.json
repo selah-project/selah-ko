@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 유다가 이스라엘 앞에서 패하였고, 그들은 각자 자기의 장막으로 도망하였다.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "그리고 패하였고"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다가"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "그리고 도망하였고"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "자기의 장막으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:27.240763135Z",
+  "model": "glm-5.2"
+}

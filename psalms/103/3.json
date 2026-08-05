@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "그분 ⟨곧⟩ 네 모든 죄악을 사하시고, 네 모든 질병을 고치시는 이시다.",
+  "tokens": [
+    {
+      "surface": "הַסֹּלֵ֥חַ",
+      "gloss": "사하시는"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עֲוֺנֵ֑כִי",
+      "gloss": "네 죄악을"
+    },
+    {
+      "surface": "הָ֝רֹפֵ֗א",
+      "gloss": "고치시는"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "תַּחֲלֻאָֽיְכִי",
+      "gloss": "네 질병을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:09.370831575Z",
+  "model": "glm-5.2"
+}

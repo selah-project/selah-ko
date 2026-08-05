@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "기울어지는 그림자 같이 나는 걸어갔고, 메뚜기 같이 나는 쫓겨났습니다.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "그림자 같이"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "기울어지는"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "나는 걸어갔고"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "나는 쫓겨났습니다"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "메뚜기 같이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:10.416388743Z",
+  "model": "glm-5.2"
+}

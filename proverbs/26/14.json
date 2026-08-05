@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "문이 ⟨그⟩ 자기 경첩 위에서 돌듯, 나태한 자도 ⟨그⟩ 자기 침상 위에서 누워 있다.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "문이"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "돈다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "자기 경첩"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "나태한 자도"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "자기 침상"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:02.642815924Z",
+  "model": "glm-5.2"
+}

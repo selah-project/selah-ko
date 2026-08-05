@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 ⟨את⟩ 두 큰 광명체를 만드셨다—⟨את⟩ 낮을 다스리는 큰 광명체와 ⟨את⟩ 밤을 다스리는 작은 광명체를, 그리고 ⟨את⟩ 별들을.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만드셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 큰 광명체를"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "광명체"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "큰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "큰 광명체를"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "광명체"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "큰"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "다스리는"
+    },
+    {
+      "surface": "היום",
+      "gloss": "낮을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "작은 광명체를"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "광명체"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "작은"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "다스리는"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "별들을"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "별"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:24.520354145Z",
+  "model": "glm-5.2"
+}

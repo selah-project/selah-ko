@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "보라, 내가 그대의 말대로 하였노라. 보라, 내가 그대에게 지혜롭고 명철한 마음을 주었으니, 그대와 같은 자가 그대 앞에 없었고 그대 뒤에도 그대와 같은 자가 일어나지 아니할 것임이라.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "하였노라"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "그대의 말대로"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었으니"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜롭고"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "명철한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "그대와 같은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없었고"
+    },
+    {
+      "surface": "היה",
+      "gloss": "없었고"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "그대 앞에"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "그대 뒤에도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "일어나지"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "그대와 같은"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:32.058775892Z",
+  "model": "glm-5.2"
+}

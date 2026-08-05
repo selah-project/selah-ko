@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 ⟨그들이⟩ ⟨את⟩ 그들의 엘로힘을 불에 던졌으니, 그들은 엘로힘이 아니었기 때문이다 — 오직 사람 손의 ⟨것⟩, 곧 나무와 돌이었으므로, 그래서 그들이 그것들을 멸망시켰다.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "그리고 ⟨던졌으니⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 엘로힘을"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "그들의 엘로힘"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니었다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "⟨것⟩, 곧"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "손의"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무와"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "돌이었으므로, 그래서"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "그들이 그것들을 멸망시켰다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:16:06.913147568Z",
+  "model": "glm-5.2"
+}

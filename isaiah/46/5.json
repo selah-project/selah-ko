@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "누구에게 나를 비기겠으며, ⟨나를⟩ 같게 하겠으며, ⟨나를⟩ 견주어 ⟨나⟩가 ⟨그⟩와 같게 되게 하겠느냐?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "누구에게"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "나를 비기겠으며"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "같게 하겠으며"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "견주시겠느냐"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "같게 되리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:58.991995228Z",
+  "model": "glm-5.2"
+}

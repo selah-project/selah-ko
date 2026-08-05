@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이미 있었던 것은 지금도 그것이며, 장차 있을 것도 이미 있었다. 엘로님이 ⟨את⟩ 쫓기는 자를 찾으신다.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "것은"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "있었던"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "이미"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "지금도 그것이며"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "장차"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "있을 것도"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "이미"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "엘로님이"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "찾으신다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쫓기는 자"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "쫓기는 자를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:38.220122884Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "엘로힘을 향해 노래하라, 노래하라. 우리의 왕을 향해 노래하라, 노래하라.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "우리의 왕을 향해"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:25.725613495Z",
+  "model": "glm-5.2"
+}

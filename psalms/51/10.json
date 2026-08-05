@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "나로 환희와 기쁨을 듣게 하사 ⟨그리하사⟩ 주께서 꺾으신 뼈들이 즐거워하게 하소서.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "나로 듣게 하소서"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "환희를"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "그리고 기쁨을"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "즐거워하게 하소서"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "뼈들이"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "주께서 꺾으신"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:58.363689640Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "⟨당신⟩이 그를 좋은 축복들로 맞이하시고, 순금의 면류관을 그의 머리에 씌우셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "당신이 그를 맞이하시고"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "축복들로"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "씌우셨기"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "그의 머리에"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "면류관을"
+    },
+    {
+      "surface": "פז",
+      "gloss": "순금의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:00.232410387Z",
+  "model": "glm-5.2"
+}

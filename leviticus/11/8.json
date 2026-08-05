@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그것들의 고기에서 너희는 먹지 아니할 것이며, 그것들의 너벨라에서 너희는 만지지 아니할 것이다 — 그것들은 너희에게 타메이다.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "그것들의 고기에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할 것이며"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희는 먹지"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "그리고 그것들의 너벨라에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할 것이다"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "너희는 만지지"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "타메"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그것들은"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:43.693278098Z",
+  "model": "glm-5.2"
+}

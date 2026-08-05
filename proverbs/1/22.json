@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 1:22",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "순진한 자들아, 언제까지 순진함을 사랑하겠느냐? 그리고 조롱하는 자들은 자기들에게 조롱을 원하며, 어리석은 자들은 지식을 미워한다.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "언제까지"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "순진한 자들아"
+    },
+    {
+      "surface": "תאהבו",
+      "gloss": "사랑하겠느냐"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "순진함을"
+    },
+    {
+      "surface": "ולצים",
+      "gloss": "그리고 조롱하는 자들은"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "조롱을"
+    },
+    {
+      "surface": "חמ드ו",
+      "gloss": "원하며"
+    },
+    {
+      "surface": "להם",
+      "gloss": "자기들에게"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "그리고 어리석은 자들은"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "미워한다"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:20.267576823Z",
+  "model": "glm-5.2"
+}

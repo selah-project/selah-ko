@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그들의 점검된 수는 에프라임 지파에 대한 것이니, 사만 오백이었다.",
+  "tokens": [
+    {
+      "surface": "פְּקֻדֵיהֶ֖ם",
+      "gloss": "그들의 점검된 수는"
+    },
+    {
+      "surface": "לְמַטֵּ֣ה",
+      "gloss": "지파에 대한 것이니"
+    },
+    {
+      "surface": "אֶפְרָ֑יִם",
+      "gloss": "에프라임"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "사만"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "만"
+    },
+    {
+      "surface": "וַחֲמֵ֥שׁ",
+      "gloss": "오"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "백"
+    }
+  ],
+  "timestamp": "2026-08-05T08:27:08.630583654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "나에게 헨을 베푸소서, 야훼여, 나에게 곤고가 ⟨있기⟩ 때문이다. 슬픔으로 나의 눈이, 나의 네페쉬와 나의 뱃속이 쇠하였다.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "나에게 헨을 베푸소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "צר",
+      "gloss": "곤고가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "쇠하였다"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "슬픔으로"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "나의 눈이"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬와"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "나의 뱃속이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:18.162372402Z",
+  "model": "glm-5.2"
+}

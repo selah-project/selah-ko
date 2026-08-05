@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 121,
+  "translation": "야훼께서 ⟨당신을⟩ 모든 재앙에서 지키시리니, ⟨그가⟩ ⟨את⟩ ⟨당신의⟩ 네페쉬를 지키시리라.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "지키시리니"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רע",
+      "gloss": "재앙에서"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "지키시리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네페쉬"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "네페쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:52.905280631Z",
+  "model": "glm-5.2"
+}

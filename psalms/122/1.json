@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 122,
+  "translation": "올라가는 노래, 다윗의. 그들이 내게 말할 때에 나는 기뻐하였다 — \"야훼의 집으로 가자\" 하고.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "나는 기뻐하였다"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "말할 때에"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "가자"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:21.661259762Z",
+  "model": "glm-5.2"
+}

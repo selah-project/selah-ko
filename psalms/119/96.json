@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "모든 온전함에 ⟨대하여⟩ 저는 끝을 보았나이다. ⟨그대의⟩ 미츠바는 심히 넓사이다.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "온전함에"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "끝을"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "넓다"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "미츠바"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:50.574715580Z",
+  "model": "glm-5.2"
+}

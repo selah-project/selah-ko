@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "바깥에서는 칼이 잃게 하고, 안방들에서는 공포가 ⟨것이니⟩, 청년도 처녀도, 젖먹이도 백발 노인과 함께 ⟨함께하리라⟩.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "바깥에서는"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "잃게 하고"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼이"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "안방들에서는"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "공포가"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "청년"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "처녀"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "젖먹이도"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람과"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "백발"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:36.226419662Z",
+  "model": "glm-5.2"
+}

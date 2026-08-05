@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "저는 주께 부르짖었사옵니이다 — 주께서 저를 응답하실 것이옵니다, 엘이여. 주의 귀를 저에게 기울이시고, 저의 말씀을 들어주소서.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "주께 부르짖었사옵니이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "주께서 저를 응답하실 것이옵니다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이여"
+    },
+    {
+      "surface": "הט",
+      "gloss": "기울이시고"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "주의 귀를"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들어주소서"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "저의 말씀을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:46.235513779Z",
+  "model": "glm-5.2"
+}

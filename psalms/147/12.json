@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "예루샬라임아, 야훼를 찬양하여라. 시온아, 네 엘로힘을 찬양하여라.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "찬양하여라"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임아"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "찬양하여라"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘을"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온아"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:34.694667532Z",
+  "model": "glm-5.2"
+}

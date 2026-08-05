@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"너는 이 말씀들을 기록하여라. 이 말씀들을 따라 내가 너와 ⟨את⟩ 이스라엘과 브리트를 맺었기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "כְּתָב",
+      "gloss": "기록하여라"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "너는"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이 말씀들을"
+    },
+    {
+      "surface": "הַדְּבָרִים",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "הָאֵלֶּה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "따라"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "입(을)"
+    },
+    {
+      "surface": "הַדְּבָרִים",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "הָאֵלֶּה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כָּרַתִּי",
+      "gloss": "맺었으니"
+    },
+    {
+      "surface": "אִתְּךָ",
+      "gloss": "너와"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "브리트"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:53.762539634Z",
+  "model": "glm-5.2"
+}

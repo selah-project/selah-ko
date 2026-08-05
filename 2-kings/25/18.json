@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 도살자들의 우두머리가 ⟨את⟩ 대제사장 스라야와 ⟨את⟩ 둘째 제사장 쯔파냐후와 ⟨את⟩ 문지기 셋을 데려갔다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 데려갔다"
+    },
+    {
+      "surface": "רב",
+      "gloss": "우두머리"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "도살자들의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "스라야"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "스라야"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "제사장"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "쯔파냐후"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "쯔파냐후"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "제사장"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "셋"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "셋"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "지키는 자들의"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "그 문턱의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:12.690018650Z",
+  "model": "glm-5.2"
+}

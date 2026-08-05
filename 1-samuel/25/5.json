@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "다윗이 열 명의 소년들을 보내시니, 다윗이 소년들에게 말하였다. \"카르멜라 올라가서 나발에게 가고, 내 이름으로 그에게 샬롬을 물으라.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내시니"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열 명의"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "소년들을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "소년들에게"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "올라가서"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "카르멜라"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "가고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "나발"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "물으라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "내 이름으로"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "샬롬을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:29.485824587Z",
+  "model": "glm-5.2"
+}

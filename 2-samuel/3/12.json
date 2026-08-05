@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 3:12",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "아브네르가 자기 ⟨대신으로⟩ 사자들을 다윗에게 보내어 ⟨את⟩ 땅이 누구의 것인지 전하게 하였다 — ⟨이르기를⟩ '네 브리트가 나와 함께 맺어졌으니, 보라, 내 손이 너와 함께하여 ⟨את⟩ 온 이스라엘을 네게로 돌리려 한다.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내었다"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브네르가"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "사자들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "자기 대신으로"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "למי",
+      "gloss": "누구의 것인지"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כרתה",
+      "gloss": "맺어졌으니"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "네 브리트가"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손이"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께하여"
+    },
+    {
+      "surface": "להסב",
+      "gloss": "돌리려 한다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:29.742304306Z",
+  "model": "glm-5.2"
+}

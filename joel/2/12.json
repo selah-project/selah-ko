@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 2:12",
+  "book": "joel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 이제도 야훼의 선언이로다. '너희 온 마음으로, 그리고 금식과, 울음과, 애곡으로 내게로 돌아오라.'",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "그리고 ~도"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이로다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "돌아오라"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "ובצום",
+      "gloss": "그리고 금식과"
+    },
+    {
+      "surface": "ובבכי",
+      "gloss": "그리고 울음과"
+    },
+    {
+      "surface": "ובמספד",
+      "gloss": "그리고 애곡으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:08:50.316145046Z",
+  "model": "glm-5.2"
+}

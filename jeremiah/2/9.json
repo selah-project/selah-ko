@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그러므로 내가 오히려 너희와 다투리라, 야훼의 선언이시니, 그리고 너희 자손의 자손과도 내가 다투리라.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "עד",
+      "gloss": "오히려"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "내가 다투리라"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희와"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "너희 자손의 자손"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "너희 자손"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "내가 다투리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:26:04.853359831Z",
+  "model": "glm-5.2"
+}

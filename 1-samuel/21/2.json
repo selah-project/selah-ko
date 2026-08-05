@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "다윗이 노브로, 코헨 아히메렉에게 왔다. 아히메렉이 다윗을 맞이하며 떨었고, 그에게 말하였다. \"어찌하여 그대는 홀로 있으며, 그대와 함께 ⟨있는⟩ 사람이 아무도 없는가?\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "노브로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "아히메렉"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "떨었고"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "아히메렉이"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "맞이하며"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "그대는"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "홀로 있으며"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "그대와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T19:36:39.128552790Z",
+  "model": "glm-5.2"
+}

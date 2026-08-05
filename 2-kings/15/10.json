@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 15:10",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "야벳의 아들 샬룸이 그에게 반역하였고, 백성 앞에서 그를 쳐서 죽였으며, 그를 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "반역하였고"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "샬룸이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "야벳의"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "쳐서"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "죽였으며"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T18:14:31.938245798Z",
+  "model": "glm-5.2"
+}

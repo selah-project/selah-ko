@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "파르오가 모셰와 아론을 불렀다. 그가 말하였다. \"가서 너희 엘로힘에게 이 땅에서 제물을 잡아 바쳐라.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰와"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "아론을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "가서"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "잡아 바쳐라"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "너희 엘로힘에게"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "이 땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:22.861554858Z",
+  "model": "glm-5.2"
+}

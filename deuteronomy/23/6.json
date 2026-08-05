@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 23:6",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그러나 야훼 네 엘로힘이 빌암의 말을 듣기 원하지 않으셨고, 야훼 네 엘로힘이 너를 위하여 ⟨את⟩ 저주를 축복으로 바꾸셨다. 야훼 네 엘로힘이 너를 사랑하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그러나 …아니하셨고"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "원하지"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "듣기를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…의 말을"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "바꾸셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "저주를"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "그 저주를"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "축복으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "사랑하셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:21.674442016Z",
+  "model": "glm-5.2"
+}

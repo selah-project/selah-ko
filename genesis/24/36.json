@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 24:36",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 사라, 내 주인의 아내가 노년에 내 주인에게 아들을 낳아 주었고, ⟨그가⟩ 그에게 ⟨את⟩ 그에게 있는 모든 것을 주셨다.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "그리고 낳아 주었고"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "사라,"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내가"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주인의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "내 주인에게"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "그녀의 노년"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:15.339007854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그것을 네 아버지에게 가져가면, 그가 먹고, 그가 죽기 전에 너를 축복할 것이다.'",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "가져가면"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "네 아버지에게"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "그가 먹고"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "너를 축복할 것이다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "전에"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "그의 죽기"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:55.027452347Z",
+  "model": "glm-5.2"
+}

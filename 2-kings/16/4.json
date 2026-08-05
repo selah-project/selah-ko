@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그가 산당들과 언덕들 위와 모든 푸른 나무 아래에서 제물을 잡아 바치고 분향하였다.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "그리고 제물을 잡아 바치고"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "분향하였다"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "산당들에서"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 … 위"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "언덕들"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "그리고 … 아래"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "푸른"
+    }
+  ],
+  "timestamp": "2026-08-05T10:02:22.517119583Z",
+  "model": "glm-5.2"
+}

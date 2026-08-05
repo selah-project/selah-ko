@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "요크탄은 ⟨את⟩ 알모다드와 ⟨את⟩ 셸레프와 ⟨את⟩ 하차르마벳과 ⟨את⟩ 예라흐를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "요크탄은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "알모다드를"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "알모다드와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "셸레프를"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "셸레프와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "하차르마벳을"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "하차르마벳과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "예라흐를"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "예라흐를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:28.030879703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 122,
+  "translation": "서 있었도다, 우리 발이 — 네 문들 안에서, 예루샬라임아.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "서 있었도다"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨있었도다⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "우리 발이"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "네 문들 안에서"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임아"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:21.661436177Z",
+  "model": "glm-5.2"
+}

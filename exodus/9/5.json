@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼께서 ⟨정한⟩ 때를 정하시며 말씀하셨다. \"내일 야훼께서 이 일을 이 땅에 행하실 것이다.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "정하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "때를"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:20.622660730Z",
+  "model": "glm-5.2"
+}

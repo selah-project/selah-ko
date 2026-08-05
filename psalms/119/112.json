@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "내가 내 마음을 기울여 그대의 규례들을 행하려 하였다 — 영원토록, 끝까지.",
+  "tokens": [
+    {
+      "surface": "נָטִ֣יתִי",
+      "gloss": "기울였-다"
+    },
+    {
+      "surface": "לִ֭בִּּי",
+      "gloss": "내 마음을"
+    },
+    {
+      "surface": "לַעֲשׂ֥וֹת",
+      "gloss": "행하려"
+    },
+    {
+      "surface": "חֻקֶּ֗יךָ",
+      "gloss": "그대의 규례들을"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "עֵֽקֶב",
+      "gloss": "끝까지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:36.463752549Z",
+  "model": "glm-5.2"
+}

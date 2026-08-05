@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "제불룬 지파이고, 제불룬 자손의 지도자는 엘리아브, ＿헬론의 아들이다.",
+  "tokens": [
+    {
+      "surface": "מַטֵּ֖ה",
+      "gloss": "지파"
+    },
+    {
+      "surface": "זְבוּלֻ֑ן",
+      "gloss": "제불룬"
+    },
+    {
+      "surface": "וְנָשִׂיא֙",
+      "gloss": "그리고 지도자"
+    },
+    {
+      "surface": "לִבְנֵ֣י",
+      "gloss": "＿자손의"
+    },
+    {
+      "surface": "זְבוּלֻ֔ן",
+      "gloss": "제불룬"
+    },
+    {
+      "surface": "אֱלִיאָ֖ב",
+      "gloss": "엘리아브"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "＿아들"
+    },
+    {
+      "surface": "חֵלֹֽן",
+      "gloss": "헬론"
+    }
+  ],
+  "timestamp": "2026-08-05T08:27:38.662508729Z",
+  "model": "glm-5.2"
+}

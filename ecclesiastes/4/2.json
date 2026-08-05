@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "나는 ⟨את⟩ 죽은 자들을, 곧 이미 죽은 자들을, 아직 살아 있는 생명들보다 더 찬양하였다.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "나는 …찬양하였다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "죽은 자들을"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "죽은 자들을"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "이미"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "죽은"
+    },
+    {
+      "surface": "מן",
+      "gloss": "보다"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "생명들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "살아 있는"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "아직"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:02.343758324Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그가 말씀하였다. \"보라, 내가 늙었으나 내가 죽을 날을 알지 못한다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말씀하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "내가 늙었으나"
+    },
+    {
+      "surface": "לא",
+      "gloss": "알지 못한다"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날을"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "내 죽을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:54.214409503Z",
+  "model": "glm-5.2"
+}

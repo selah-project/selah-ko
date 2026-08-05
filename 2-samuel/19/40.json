@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "온 백성이 ⟨את⟩ 하르뎐을 건넜고, 왕이 건넜으며, 왕이 바르질라이에게 입맞추고 그를 축복하시니, 그가 자기 곳으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "건넜고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하르뎐"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "하르뎐을"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "건넜으며"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "입맞추고"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "바르질라이에게"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "그를 축복하시니"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "자기 곳으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:10.093523796Z",
+  "model": "glm-5.2"
+}

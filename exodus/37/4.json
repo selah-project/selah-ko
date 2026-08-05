@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 그는 싯딤 나무 채막대들을 만들고, ⟨את⟩ 그것들을 금으로 입혔다.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "그리고 그는 만들었다"
+    },
+    {
+      "surface": "בַּדֵּ֖י",
+      "gloss": "채막대들"
+    },
+    {
+      "surface": "עֲצֵ֣י",
+      "gloss": "나무"
+    },
+    {
+      "surface": "שִׁטִּ֑ים",
+      "gloss": "싯딤"
+    },
+    {
+      "surface": "וַיְצַ֥ף",
+      "gloss": "그리고 입혔다"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들"
+    },
+    {
+      "surface": "זָהָֽב",
+      "gloss": "금"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:33.616327821Z",
+  "model": "glm-5.2"
+}

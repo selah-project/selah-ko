@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 모셰와 아하론과 그의 아들들이 거기서 ⟨את⟩ 그들의 손과 ⟨את⟩ 그들의 발을 씻었다.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "씻었다"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 손을"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "그들의 손"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 발을"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "그들의 발"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:14.029856197Z",
+  "model": "glm-5.2"
+}

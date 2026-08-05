@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 샤울이 야훼께 제단을 쌓았다. 그것으로써 그가 야훼께 제단을 쌓기 시작하였다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 그가 쌓았다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "החל",
+      "gloss": "그가 시작하였다"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "쌓기를"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    }
+  ],
+  "timestamp": "2026-08-05T13:47:02.737689316Z",
+  "model": "glm-5.2"
+}

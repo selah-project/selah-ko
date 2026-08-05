@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 시메이가 일어나 ⟨את⟩ 자기 나귀에 안장을 지우고, 자기 종들을 찾으려고 아키시에게로, 가트로 갔다. 그리고 시메이가 가서 ⟨את⟩ 자기 종들을 가트에서 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "그리고 …이 일어나"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "시메이가"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "그리고 지우고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 나귀에"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "자기 나귀"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그리고 …이 갔다"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "가트로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "아키시"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "찾으려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 종들을"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "자기 종들"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그리고 …이 가서"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "시메이가"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 가져왔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 종들을"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "자기 종들"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "가트에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:45:33.502886228Z",
+  "model": "glm-5.2"
+}

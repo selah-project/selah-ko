@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 야훼께서 ⟨את⟩ 사람을 멀리 옮기시고, 땅 한가운데 버려진 곳이 많아질 것이다.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "그리고 멀리 옮기시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "그리고 많아질 것이다"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "버려진 곳이"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:39.877072060Z",
+  "model": "glm-5.2"
+}

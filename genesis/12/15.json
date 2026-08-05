@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "파르오의 고관들이 그녀를 보고 그녀를 파르오에게 찬양하니, 그 여인이 파르오의 집으로 데려져 ⟨왔다⟩.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "보고"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀를"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "고관들이"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "찬양하니"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "데려져 ⟨왔다⟩"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여인이"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:58.386816596Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "샤울이 말하였다. \"당신들은 야훼께 복을 받은 자들이다. 당신들이 나를 불쌍히 여겼기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "복을 받은 자들이다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "당신들은"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "불쌍히 여겼기"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:27.557373465Z",
+  "model": "glm-5.2"
+}

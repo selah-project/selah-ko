@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그가 말하였다. \"다윗의 집이여, 이제 들으십시오. 사람들을 지치게 하는 것이 당신들에게 적은 일이기에, 당신들은 ⟨또한⟩ ⟨את⟩ 나의 엘로힘을 지치게 하겠습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "들으십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "בית",
+      "gloss": "의 집"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "적은 일이기에"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "당신들에게"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "지치게 하는 것"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람들을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "지치게 하겠습니까"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨또한⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 엘로힘"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:55:07.698393098Z",
+  "model": "glm-5.2"
+}

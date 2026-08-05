@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "나 다니엘이 보았는데, 보라 두 사람이 다른 곳에 서 있었다. 한 사람은 이편 강둑에, 한 사람은 ⟨저편⟩ 강둑에 있었다.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "보았는데"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "다니엘이"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "두 사람이"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른 곳에"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "서 있었다"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 사람은"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "이편"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "강둑에"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "강의"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "한 사람은"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "저편"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "강둑에"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "강의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:27:22.919519278Z",
+  "model": "glm-5.2"
+}

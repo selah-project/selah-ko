@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "아브라함이 여행을 계속하여, 가고 또 나아가며 네게브로 향하였다.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "여행하였다"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "또 나아가며"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "네게브로 향하여"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:10.890205116Z",
+  "model": "glm-5.2"
+}

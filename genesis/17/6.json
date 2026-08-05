@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 내가 ⟨그대를⟩ 심히 크게 번성하게 하시고, ⟨그대를⟩ 민족들에게 주시며, 왕들이 ⟨그대에게서⟩ 나오리이다.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "그리고 내가 …번성하게 하시고"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "그대"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "⟨그대를⟩ …주시며"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "민족들에게"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "그리고 왕들이"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨그대에게서⟩"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "나오리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:39.675602929Z",
+  "model": "glm-5.2"
+}

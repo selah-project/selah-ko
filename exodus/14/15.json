@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"너는 어찌하여 나에게 부르짖느냐? 이스라엘 자손에게 말하여, 그들이 전진하게 하라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "מה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "부르짖느냐"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "그리고 전진하게 하라"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:37.626202620Z",
+  "model": "glm-5.2"
+}

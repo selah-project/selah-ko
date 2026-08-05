@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들이 그들을 죽이실 때, 그들은 그를 찾았고, 돌아와서 엘을 간절히 찾았다.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "…할 때"
+    },
+    {
+      "surface": "הֲרָגָ֥ם",
+      "gloss": "그들을 죽이실"
+    },
+    {
+      "surface": "וּדְרָשׁ֑וּהוּ",
+      "gloss": "그리고 그를 찾았고"
+    },
+    {
+      "surface": "וְ֝שָׁ֗בוּ",
+      "gloss": "그리고 돌아왔다"
+    },
+    {
+      "surface": "וְשִֽׁחֲרוּ",
+      "gloss": "그리고 간절히 찾았다"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:43.568203136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그리고 아이욥이 야훼에게 ⟨את⟩ 대답하며 말하였다 —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "그리고 대답하였다"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "아이욥이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:05.100313194Z",
+  "model": "glm-5.2"
+}

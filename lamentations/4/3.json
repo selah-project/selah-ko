@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "심지어 자칼들도 젖을 내어 새끼에게 먹이고, 타조들도 — 그 새끼에게 젖을 먹인다. 그러나 내 백성의 딸은 잔인하게 되었으니, 마치 광야의 타조들 같다.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "심지어"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "자칼들도"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "내어"
+    },
+    {
+      "surface": "שד",
+      "gloss": "젖을"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "먹이고"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "새끼에게"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸은"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성의"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "잔인하게 되었으니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "같다"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "타조들"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:02.733061348Z",
+  "model": "glm-5.2"
+}

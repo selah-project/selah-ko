@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "나를 이 그물에서 끌어내소서, 그들이 나를 위해 숨겨 놓은, 그대는 나의 요새이시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "나를 끌어내소서"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "그물에서"
+    },
+    {
+      "surface": "זו",
+      "gloss": "이"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "그들이 숨겨 놓은"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "그대는"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "나의 요새이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:40.375328052Z",
+  "model": "glm-5.2"
+}

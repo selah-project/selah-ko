@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "모두 그 백성 때문에 부끄러움을 당하리니, 그들이 그들에게 유익하지 못하리라. 도움이 되지도, 유익하지도 않고, 오직 수치이며 또한 모욕이 되리라.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모두"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "부끄러움을 당하리니"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "עם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "유익하지 못하리라"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "도움이 되지도"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "유익하지도 않고"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "수치이며"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "모욕이 되리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:36.186731321Z",
+  "model": "glm-5.2"
+}

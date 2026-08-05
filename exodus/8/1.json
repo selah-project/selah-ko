@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"아하론에게 말하여라. 너의 지팡이를 든 너의 손을 강들 위에, 수로들 위에, 그리고 연못들 위에 펴라. 그리고 개구리들이 미츠라임 땅 위로 올라오게 하라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "펴라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너의 손을"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "너의 손을"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "너의 지팡이를 든"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "강들을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "수로들을"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "연못들을"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "그리고 올라오게 하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "개구리들이"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "개구리들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:56.137324561Z",
+  "model": "glm-5.2"
+}

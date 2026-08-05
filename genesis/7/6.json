@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 노아는 육백 세였다, 그리고 그 홍수가 물이 땅 위에 있었다.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "그리고 노아는"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들⟨이었다⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "살"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "그리고 그 홍수가"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:37.873534795Z",
+  "model": "glm-5.2"
+}

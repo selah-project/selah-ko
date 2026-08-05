@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 120,
+  "translation": "강한 자의 날카로운 화살들, ⟨그것은⟩ 브롬나무 숯과 함께이다.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "화살들"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "강한 자의"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "날카로운"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "숯"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "브롬나무"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:51.634491529Z",
+  "model": "glm-5.2"
+}

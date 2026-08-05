@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 20:28",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "모셰는 아하론에게서 ⟨그의⟩ 옷을 벗기고, ⟨그것을⟩ 그의 아들 엘아자르에게 입혔다. 아하론은 거기, 그 산 꼭대기에서 죽었다. 그리고 모셰와 엘아자르는 그 산에서 내려왔다.",
+  "tokens": [
+    {
+      "surface": "ויפשט",
+      "gloss": "그리고 벗기고"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아ת⟩",
+      "marks": "아하론에게서"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론에게서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 옷을"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "그의 옷을"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "그리고 입혔다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘아자르에게"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르에게"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그리고 죽었다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론은"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "～꼭대기에서"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "그리고 내려왔다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰와"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "그리고 엘아자르는"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    }
+  ],
+  "timestamp": "2026-08-05T08:39:20.882779941Z",
+  "model": "glm-5.2"
+}

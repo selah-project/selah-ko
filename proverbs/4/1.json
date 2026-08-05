@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "아들들아, 아버지의 훈계를 들으라. 그리고 깨달음을 얻기 위해 귀를 기울여라.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들아"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "훈계를"
+    },
+    {
+      "surface": "אב",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "그리고 귀를 기울여라"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "얻기 위해"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "깨달음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:35.397783259Z",
+  "model": "glm-5.2"
+}

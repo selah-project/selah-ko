@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "왜냐하면 그 아이가 '아비', '어미'라 부르기를 알기 전에, 다메섹의 재물과 ⟨את⟩ 쇼메론의 노략물이 아슈르 왕 앞으로 옮겨질 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "전에"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "그 아이가"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "부르기를"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아비"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "어미"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "옮겨질 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쇼메론의 노략물"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "재물을"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "다메섹의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "쇼메론의 노략물"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "노략물을"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "쇼메론의"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:42.080534755Z",
+  "model": "glm-5.2"
+}

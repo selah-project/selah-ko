@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "나는 거짓 헛것들을 지키는 자들을 미워하였습니다. 그리고 나는 야훼를 신뢰하였습니다.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "미워하였습니다"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "지키는 자들을"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "헛것들을"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "거짓"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "신뢰하였습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:40.375791499Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "야곱이 눈을 들어 보니, 보라 에사우가 오고 있었고, 그와 함께 사백 명이었다. 그가 ⟨את⟩ 아이들을 레아와 라헬과 두 여종에게 나누어 배치하였다.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "들어"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "그의 눈을"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보니"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사우가"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오고 있었고"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "사"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명이었다"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "나누어 배치하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아이들을"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "아이들을"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "레아와"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ~에게"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬과"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ~에게"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "여종"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:01.920400847Z",
+  "model": "glm-5.2"
+}

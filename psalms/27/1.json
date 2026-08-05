@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "다윗의 시. 야훼는 ⟨나의⟩ 빛이시요 ⟨나의⟩ 구원이시니, 누구를 두려워하리이까. 야훼는 ⟨나의⟩ 생명의 요새이시니, 누구를 무서워하리이까.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "나의 빛이시며"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "나의 구원이시니"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "누구를"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "두려워하리이까"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "요새이시니"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "나의 생명의"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "누구를"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "무서워하리이까"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:39.362347411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그 소녀는 심히 아름다웠고, 그녀가 왕에게 돌보는 자가 되어 그를 섬겼으나, 그 왕은 그녀를 알지 못하였다.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "그리고 그 소녀는"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "아름다웠고"
+    },
+    {
+      "surface": "עד",
+      "gloss": "극히"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그리고 그녀가 되어"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕에게"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "돌보는 자"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "그리고 그녀가 그를 섬겼으나"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "그리고 그 왕은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "그녀를 알았다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:57.408366090Z",
+  "model": "glm-5.2"
+}

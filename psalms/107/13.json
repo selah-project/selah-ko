@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그들이 야훼께 부르짖었으니 ⟨그⟩ 곤경 중에서, 그들의 곤란에서 ⟨그가⟩ 그들을 구원하셨다.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "그들이 부르짖었으니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "곤경 중에서"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들의"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "그들의 곤란에서"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "그들을 구원하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:53.585827433Z",
+  "model": "glm-5.2"
+}

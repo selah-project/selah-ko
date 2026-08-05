@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "아브라함이 ⟨את⟩ 올라(올라)의 나무를 취하여 자기 아들 이삭 위에 놓았다. 그의 손에는 ⟨את⟩ 불과 ⟨את⟩ 칼을 쥐었다. 둘이 함께 걸어갔다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "올라의 나무를"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무를"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라(올라)의"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "놓았다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "자기 아들"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "쥐었다"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "불을"
+    },
+    {
+      "surface": "האש",
+      "gloss": "불"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "칼을"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "칼"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "걸어갔다"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "둘이"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:49.720298210Z",
+  "model": "glm-5.2"
+}

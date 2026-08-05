@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 15:24",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 만일 남자가 ⟨그녀와⟩ 동침하면 — 그녀의 부정이 그에게 미치고, 그는 칠 일 동안 부정하며, 그가 그 위에 눕는 모든 침상도 부정하게 된다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "동침하면"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "눕는다면"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀를"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그리고 있다"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "그녀의 부정이"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "그리고 부정하다"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일 동안"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "침상도"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "그가 눕는"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "부정하게 된다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:50.284651565Z",
+  "model": "glm-5.2"
+}

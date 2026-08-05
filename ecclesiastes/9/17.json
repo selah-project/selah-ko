@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "지혜로운 자들의 말이 고요히 들리니, 우매한 자들 가운데서 다스리는 자의 고함보다 나음이더라.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵ֣י",
+      "gloss": "말이"
+    },
+    {
+      "surface": "חֲכָמִ֔ים",
+      "gloss": "지혜로운 자들의"
+    },
+    {
+      "surface": "בְּנַ֖חַת",
+      "gloss": "고요히"
+    },
+    {
+      "surface": "נִשְׁמָעִ֑ים",
+      "gloss": "들리니"
+    },
+    {
+      "surface": "מִזַּעֲקַ֥ת",
+      "gloss": "…의 고함보다"
+    },
+    {
+      "surface": "מוֹשֵׁ֖ל",
+      "gloss": "다스리는 자의"
+    },
+    {
+      "surface": "בַּכְּסִילִֽים",
+      "gloss": "우매한 자들 가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:15.952238328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "너는 너를 위해 고페르 나무의 방주를 만들되, 골방들로 방주를 만들어라. 그리고 너는 ⟨그것을⟩ 안에서부터 그리고 밖에서까지 역청으로 덮어라.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "만들되"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "방주를"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무의"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "고페르"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "골방들로"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "만들어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "방주"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "그리고 덮어라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "안에서부터"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "그리고 밖에서까지"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "역청으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:54.861958032Z",
+  "model": "glm-5.2"
+}

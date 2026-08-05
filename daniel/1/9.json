@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 엘로힘께서 ⟨את⟩ 다니엘을 은총과 자비를 얻게 하셨다 — 환관들의 수장 앞에서.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주셨다"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다니엘을"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "다니엘을"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "은총으로"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "그리고 자비로"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "∼앞에서"
+    },
+    {
+      "surface": "שר",
+      "gloss": "수장"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "환관들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:51.200442683Z",
+  "model": "glm-5.2"
+}

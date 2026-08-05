@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "야훼를 ⟨그리고⟩ ⟨그의⟩ 능력을 구하라, ⟨그의⟩ 얼굴을 항상 구하라.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "구하라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "⟨그리고⟩ ⟨그의⟩ 능력을"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "구하라"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨그의⟩ 얼굴을"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "항상"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:18.085079877Z",
+  "model": "glm-5.2"
+}

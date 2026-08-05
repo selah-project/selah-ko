@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 ⟨아울러⟩ ⟨את⟩ 직조 옷과 ⟨את⟩ 거룩한 옷들을 아론 코헨에게, 그리고 ⟨아울러⟩ ⟨את⟩ 그의 아들들의 옷들을 제사장직 수행을 위해",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "직조 옷"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "옷들"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "직조 (옷)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "거룩한 옷들"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "옷들"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아론에게"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들들의 옷들"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "옷들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "제사장직 수행을 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:12.352219552Z",
+  "model": "glm-5.2"
+}

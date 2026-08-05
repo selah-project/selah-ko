@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 76,
+  "translation": "당신의 꾸짖으심으로, 야곱의 엘로힘이시여, 깊은 잠에 빠졌다, 전차와 말이.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "당신의 꾸짖으심으로"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "깊은 잠에 빠졌다"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "전차와"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "말이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:57.281892834Z",
+  "model": "glm-5.2"
+}

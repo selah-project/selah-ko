@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그들의 마음을 돌리사 ⟨그의⟩ 백성을 미워하게 하시고, ⟨그의⟩ 종들에게 음모를 꾀미게 하셨다.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "돌리사"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "그들의 마음을"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "미워하게 하시고"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨그의⟩ 백성을"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "음모를 꾸미게 하셨다"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "⟨그의⟩ 종들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:33.164325866Z",
+  "model": "glm-5.2"
+}

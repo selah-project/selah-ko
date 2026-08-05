@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "사자들이 샤울의 기브아에 이르렀다. 그리고 그 말씀들을 백성의 귀에 전하자, 온 백성이 ⟨את⟩ 자기들의 목소리를 높이고 울었다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "이르렀다"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "사자들이"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "기브아에"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "전하자"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "그 말씀들을"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "귀에"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "높이고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기들의 목소리를"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "목소리를"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "울었다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:20.040399392Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "야훼의 날이 어둠이고 빛이 아닌 것이 아니냐, 그리고 칠흑 같은 어둠이며 ⟨그것⟩에 ⟨아무⟩ 밝음이 없는 것이 아니냐?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "아닌 것이 아니냐"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠이고"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아닌"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛이"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "그리고 칠흑 같은 어둠이며"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "없는 것이 아니냐"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "밝음이"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그것⟩에 ⟨아무⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:26.895039103Z",
+  "model": "glm-5.2"
+}

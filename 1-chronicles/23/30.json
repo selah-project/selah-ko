@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 아침마다, 아침마다 서서 야훼께 호다(감사)하고 할렐(찬양)하기 위하여, 그리고 저녁에도 그와 같이 하기 위함이다.",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "그리고 서기 위하여"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "호다(감사)하기 위하여"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "그리고 할렐(찬양)하기 위하여"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "그리고 그와 같이"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "저녁에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:50:20.246336541Z",
+  "model": "glm-5.2"
+}

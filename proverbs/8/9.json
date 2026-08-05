@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그것들은 모두 깨닫는 자에게 곧고, 지식을 얻는 자에게 바르다.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "모두"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "곧고"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "깨닫는 자에게"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "바르다"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "얻는 자에게"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:09.414726504Z",
+  "model": "glm-5.2"
+}

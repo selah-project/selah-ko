@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그가 ⟨את⟩ 그 집을 건축하고 그것을 마쳤다. 그리고 그가 ⟨את⟩ 그 집을 덮었으니, 들보들과 백향목의 행렬로.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "건축하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집을"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "그것을 마쳤다"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "덮었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집을"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "들보들"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "그리고 행렬"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "백향목의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:49.840468257Z",
+  "model": "glm-5.2"
+}

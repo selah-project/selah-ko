@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 16:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "이 ⟨곳⟩에서 태어나는 아들들과 딸들에 관하여, 그리고 그들을 낳은 어머니들과 이 땅에서 그들을 낳은 아버지들에 관하여 야훼께서 이같이 말씀하셨다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "על",
+      "gloss": "에 관하여"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "과"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "딸들"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "태어나는"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "⟨곳⟩에서"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "어머니들"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들(어머니들이 낳은 아들딸들)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "아버지들"
+    },
+    {
+      "surface": "המולדים",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들(아버지들이 낳은 아들딸들)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:32.427999309Z",
+  "model": "glm-5.2"
+}

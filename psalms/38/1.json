@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "다윗의 마즈모르, 기억하게 하기 위하여.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "마즈모르"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "기억하게 하기 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:41.894283761Z",
+  "model": "glm-5.2"
+}

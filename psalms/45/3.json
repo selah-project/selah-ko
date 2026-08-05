@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "당신은 사람의 아들들보다 아름답다. 헨이 당신의 입술에 부어졌다. 그러므로 엘로힘이 당신을 영원토록 축복하셨다.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "당신은 아름답다"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "~의 아들들보다"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "부어졌다"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨이"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "당신의 입술에"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러하므로"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "당신을 축복하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원토록"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:06.023524498Z",
+  "model": "glm-5.2"
+}

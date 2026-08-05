@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "전쟁들을 쉬게 하신다, 땅 끝까지. 활을 꺾으시고 창을 끊으시고, 병거들을 불로 태우신다.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "쉬게 하신다"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "전쟁들을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "끝"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "활을"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "꺾으시고"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "끊으시고"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "창을"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "병거들을"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "태우신다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:44.778190720Z",
+  "model": "glm-5.2"
+}

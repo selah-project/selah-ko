@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "모셰가 ⟨그⟩ 사람과 함께 머물기로 뜻을 세우자, ⟨그가⟩ ⟨את⟩ 모셰에게 ⟨את⟩ 자기 딸 치포라를 주었다.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "뜻을 세우자"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "머물기로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "치포라"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "치포라"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "딸"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "모셰에게"
+    }
+  ],
+  "timestamp": "2026-08-05T07:46:04.396827209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "보라, 내가 '폭력이다!' 부르짖으나 응답을 받지 못하고, 내가 도움을 요청하나 판결이 없다.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "내가 부르짖으나"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "'폭력이다!'"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "받지 못하고"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "응답을"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "내가 도움을 요청하나"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "판결이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:27.528545283Z",
+  "model": "glm-5.2"
+}

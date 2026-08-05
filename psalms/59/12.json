@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "그들을 죽이지 마소서, ⟨혹시⟩ 내 백성이 잊을까 합니다; 당신의 힘으로 그들을 흔드사 내리치소서, 우리의 방패, 아도나이여.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…지 마소서"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "그들을 죽이"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨혹시⟩ …할까 합니다"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "잊을"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성이"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "그들을 흔드사"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "당신의 힘으로"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "내리치소서"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "우리의 방패,"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:20.019870421Z",
+  "model": "glm-5.2"
+}

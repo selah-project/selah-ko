@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그들이 ⟨את⟩ 금과 ⟨את⟩ 테켈렛과 ⟨את⟩ 아르가만과 ⟨את⟩ 톨라앗 샤니와 ⟨את⟩ 셰쉬를 취할 것이다.",
+  "tokens": [
+    {
+      "surface": "וְהֵם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "יִקְחוּ",
+      "gloss": "취할 것이다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "금"
+    },
+    {
+      "surface": "הַזָּהָב",
+      "gloss": "그 금"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "테켈렛"
+    },
+    {
+      "surface": "הַתְּכֵלֶת",
+      "gloss": "그 테켈렛"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "아르가만"
+    },
+    {
+      "surface": "הָאַרְגָּמָן",
+      "gloss": "그 아르가만"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "톨라앗 샤니"
+    },
+    {
+      "surface": "תּוֹלַעַת",
+      "gloss": "벌레"
+    },
+    {
+      "surface": "הַשָּׁנִי",
+      "gloss": "그 붉은"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "셰쉬"
+    },
+    {
+      "surface": "הַשֵּׁשׁ",
+      "gloss": "그 셰쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:05.735874350Z",
+  "model": "glm-5.2"
+}

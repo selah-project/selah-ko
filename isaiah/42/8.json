@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "나 야훼, 그것이 내 이름이다. 나의 무게를 다른 이에게 주지 아니하며, 나의 찬양을 우상들에게 ⟨주지 아니한다⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "내 이름이다"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "나의 무게를"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "다른 이에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하며"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "주"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "나의 찬양을"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "우상들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:41.745150381Z",
+  "model": "glm-5.2"
+}

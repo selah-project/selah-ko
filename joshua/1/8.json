@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 1:8",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "이 토라의 책이 네 입에서 떠나지 않게 하며, 네가 그 안에 기록된 전부를 지키고 행하기 위해, 낮이나 밤으로 그것을 되뇌어라. 그리하면 그때에 네가 ⟨את⟩ 네 길을 형통하게 하리니, 그때에 네가 형통하리라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하게"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "책이"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라의"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "네 입에서"
+    },
+    {
+      "surface": "והגית",
+      "gloss": "되뇌어라"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "낮이나"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "밤으로"
+    },
+    {
+      "surface": "למען",
+      "gloss": "그리하면"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하기 위해"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "전부를"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "기록된"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "형통하게 하리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 길을"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "네 길을"
+    },
+    {
+      "surface": "ואז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "형통하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:34.560387722Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "사람의 행위들에 관하여 — 당신 입술의 말씀으로 나는 스스로를 지켰다. 폭군의 길들 ⟨곁으로⟩.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "행위들에 관하여"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "말씀으로"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "당신 입술의"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "스스로를 지켰다"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "길들"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "폭군의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:56.160746135Z",
+  "model": "glm-5.2"
+}

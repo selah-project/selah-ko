@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 일이 이렇게 되었다. 사람이 땅의 얼굴 위에 불어나기 시작하였을 때, 딸들이 그들에게 태어났다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일이 이렇게 되었다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…할 때"
+    },
+    {
+      "surface": "החל",
+      "gloss": "시작하였다"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "불어나기를"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "그리고 딸들이"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "태어났다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:04.446234123Z",
+  "model": "glm-5.2"
+}

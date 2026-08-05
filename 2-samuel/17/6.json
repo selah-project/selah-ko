@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 17:6",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "후새가 아브샬롬에게 오니, 아브샬롬이 그에게 말하여 이르기를, \"아히토펠이 이 같은 말을 하였는데, 우리가 ⟨את⟩ 그의 말을 행하여야 하겠습니까? 아니면 당신이 말하시오.\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "오니"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "후새가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬이"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "이 같은 말을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하였는데"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "아히토펠이"
+    },
+    {
+      "surface": "הנעשה",
+      "gloss": "행하여야 하겠습니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 말을"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "그의 말을"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만약"
+    },
+    {
+      "surface": "אין",
+      "gloss": "아니라면"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하시오"
+    }
+  ],
+  "timestamp": "2026-08-05T09:41:20.147516794Z",
+  "model": "glm-5.2"
+}

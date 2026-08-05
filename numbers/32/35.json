@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 ⟨아트롯-쇼판⟩과 ⟨את⟩ 야젤과 요그베하를 ⟨건축하였다⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아트롯-쇼판을"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "아트롯"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "-쇼판"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨아ת⟩",
+      "marks": "야젤을"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "야젤"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "그리고 요그베하를"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:54.240135400Z",
+  "model": "glm-5.2"
+}

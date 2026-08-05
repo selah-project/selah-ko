@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "엘로힘이 ⟨את⟩ 일곱째 날을 축복하시고 그것을 거룩하게 하셨다 — ⟨이는⟩ 그 안에서 ⟨그가⟩ ⟨그⟩ 모든 일에서 쉬셨으므로, 그 일은 엘로힘이 창조하신 것 ⟨으로 만드심이었다⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "… 축복하시고"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "일곱째 날을"
+    },
+    {
+      "surface": "יום",
+      "gloss": "낮을"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "거룩하게 하셨다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— 이는"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에서"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "쉬셨으므로"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "일에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그 일은"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "창조하신 것"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "으로 만드심이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:23.041050093Z",
+  "model": "glm-5.2"
+}

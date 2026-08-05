@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "그가 부르짖는 가난한 자를 건지시며, 그리고 궁핍한 자를 — ⟨곧⟩ 돕는 자가 그에게 없는 자를 ⟨건지시리라⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "건지시며"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "가난한 자를"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "부르짖는"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "그리고 궁핍한 자를"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 ⟨없는⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "돕는 자가"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:57.717272076Z",
+  "model": "glm-5.2"
+}

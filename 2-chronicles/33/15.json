@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그가 ⟨את⟩ 이방의 엘로힘들과 ⟨את⟩ 그 우상을 야훼의 집에서 제거하였다 — 그가 야훼의 집 산 위와 예루샬라임에 세웠던 모든 제단들도 — 그리고 그것들을 성읍 바깥으로 내던졌다.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "제거하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이방의 엘로힘들"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘들"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "이방의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 우상"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "그 우상"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "제단들도"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "세웠던"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산 위에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "그리고 예루샬라임에"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "내던졌다"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "바깥으로"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "성읍"
+    }
+  ],
+  "timestamp": "2026-08-05T13:02:53.296043742Z",
+  "model": "glm-5.2"
+}

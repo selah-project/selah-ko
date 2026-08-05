@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "세상의 모든 거주자들과 땅의 거주하는 자들아, 산들에 깃발이 들리면 너희는 볼 것이요, 쇼파르가 불리면 들을 것이다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세상의"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "거주하는 자들"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "들리면"
+    },
+    {
+      "surface": "נס",
+      "gloss": "깃발이"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들에"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "너희는 볼 것이요"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "불리면"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "쇼파르가"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "들을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:27.336404772Z",
+  "model": "glm-5.2"
+}

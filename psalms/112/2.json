@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 112,
+  "translation": "그의 씨가 땅에서 강하리니, 곧은 자들의 세대가 복을 받으리라.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "강하리니"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨것이다⟩"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "그의 씨가"
+    },
+    {
+      "surface": "דור",
+      "gloss": "세대가"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "곧은 자들의"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "복을 받으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:33.312634328Z",
+  "model": "glm-5.2"
+}

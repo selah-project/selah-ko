@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그것을 샤울 앞에, 그리고 ⟨그의⟩ 종들 앞에 가져다 놓으니, 그들이 먹고 일어나서 그 밤에 떠났다.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "가져다 놓으니"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "그리고 앞에"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "그들이 먹고"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "일어나서"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "떠났다"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "그 밤에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T17:19:34.192728057Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그의 엘로힘의 떡 — 지성물들의 지성물과 성물들에서 — 그가 먹을 것이다.",
+  "tokens": [
+    {
+      "surface": "לֶ֣חֶם",
+      "gloss": "떡"
+    },
+    {
+      "surface": "אֱלֹהָ֔יו",
+      "gloss": "그의 엘로힘의"
+    },
+    {
+      "surface": "מִקָּדְשֵׁ֖י",
+      "gloss": "성물들 중에서"
+    },
+    {
+      "surface": "הַקֳּדָשִׁ֑ים",
+      "gloss": "지성물들의"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "그리고 …에서"
+    },
+    {
+      "surface": "הַקֳּדָשִׁ֖ים",
+      "gloss": "성물들"
+    },
+    {
+      "surface": "יֹאכֵֽל",
+      "gloss": "먹을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:27.297524326Z",
+  "model": "glm-5.2"
+}

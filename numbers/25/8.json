@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 그가 이스라엘 사람 뒤를 따라 침상 곁으로 들어가서 ⟨את⟩ 그 둘을 찔렀다 — ⟨את⟩ 이스라엘 사람과 ⟨את⟩ 그 여자를 그녀의 배 안으로. 그리고 재앙이 이스라엘 아들들에게서 걷혔다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 들어가"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "뒤를 따라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "곁으로"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "침상"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "그리고 찔렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 둘을"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "그 둘을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 사람"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 여자를"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여자를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "안으로"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "그녀의 배"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "그리고 걷혔다"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "재앙이"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:35.318965067Z",
+  "model": "glm-5.2"
+}

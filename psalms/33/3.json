@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그분께 새 노래를 불러라. 훌륭하게 연주를 하여라. 환성으로.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "불러라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그분께"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래를"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "새"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "훌륭하게"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "연주를 하여라"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "환성으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:55.913006882Z",
+  "model": "glm-5.2"
+}

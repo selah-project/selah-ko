@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "엘카나가 라마로 자기 집으로 돌아갔고, 그 아이는 코헨 엘리의 면전에서 야훼를 섬기며 ⟨את⟩ 야훼를 모셨다 — ⟨그는⟩ ⟨את⟩ 엘리의 면전에서 ⟨그리하였다⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "돌아갔고"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "엘카나가"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "라마로"
+    },
+    {
+      "surface": "על",
+      "gloss": "로"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자기 집"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "그 아이는"
+    },
+    {
+      "surface": "היה",
+      "gloss": "모셨다"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "섬기며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘리의 면전을"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "엘리의"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    }
+  ],
+  "timestamp": "2026-08-05T09:21:51.742368715Z",
+  "model": "glm-5.2"
+}

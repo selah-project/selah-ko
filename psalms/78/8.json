@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들이 그들의 조상들과 같지 않게 하려 함이니 — 배역하고 반항하는 세대, 자기 마음을 준비하지 않은 세대, 그의 영이 ⟨את⟩ 엘에 대해 신실하지 않았던 세대 ⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "같지 않게"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "하려 함이니"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "그들의 조상들과"
+    },
+    {
+      "surface": "דור",
+      "gloss": "세대"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "배역하고"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "반항하는"
+    },
+    {
+      "surface": "דור",
+      "gloss": "세대"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "준비하지"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "자기 마음을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니했던"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "신실하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "그의 영이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:26.010443611Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "각자 어머니와 아버지를 경외하고 ⟨את⟩ 나의 샤밧들을 지켜라. 나 야훼 너희 엘로힘이다.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "어머니를"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "그리고 아버지를"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "경외하고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "나의 샤밧들을"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "나의 샤밧들을"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "지켜라"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘이다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:44.001504854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "에사브는 스에르 산에 거하였다. 에사브가 곧 에돔이다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브는"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "스에르"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브가"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:16.960541741Z",
+  "model": "glm-5.2"
+}

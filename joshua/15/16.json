@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 칼렙이 말하였다. 누구든이 ⟨את⟩ 키르야트 세페르를 쳐서 ⟨그것을⟩ 점령하면, 내가 ⟨그에게⟩ ⟨את⟩ 악사를, 내 딸을, 아내로 주겠다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "칼렙이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "누구든이"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "쳐서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "키르야트 세페르"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "키르야트"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "세페르"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "그리고 점령하면"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 주겠다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "악사"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "악사"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "내 딸"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:09:32.265834479Z",
+  "model": "glm-5.2"
+}

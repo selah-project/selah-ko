@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ 야훼를 따르는 것에서 물러나는 자들을, 곧 야훼를 구하지 아니하고 그를 찾지 아니하는 자들을 ⟨내가 벌하리라⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "물러나는 자들을"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "물러나는 자들을"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "따르는 것에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "구하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "그를 찾지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:15.767156782Z",
+  "model": "glm-5.2"
+}

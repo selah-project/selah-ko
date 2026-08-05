@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 나오미의 남편 엘리멜렉이 죽었고, 그녀와 그녀의 두 아들이 남게 되었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "그리고 …이 죽었고"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "엘리멜렉이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남편"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "나오미의"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "그리고 남게 되었다"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀가"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "그리고 두"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "그녀의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:20.342372233Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 ⟨한⟩ 남자가, 곧 누가 그의 동침을 짐승에게 주면, 죽음, 그는 죽임을 당하리라; 그리고 ⟨את⟩ 그 짐승을 너희가 죽이리라.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 남자가"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧 누가"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주면"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "그의 동침을"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "짐승에게"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "그는 죽임을 당하리라"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 짐승을"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "그 짐승을"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "너희가 죽이리라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:58.603354035Z",
+  "model": "glm-5.2"
+}

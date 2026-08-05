@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 이제, 가라 — 내가 너를 파르오에게 보내어, 네가 내 백성, 이스라엘 자손을 미츠라임에서 ⟨את⟩ 데려오게 하리라.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "가라"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "내가 너를 보내어"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "데려오게 하리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성, 이스라엘 자손을"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성,"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:47:11.879619536Z",
+  "model": "glm-5.2"
+}

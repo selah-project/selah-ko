@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "애통하며 시들었도다, 땅이; 쇠진하며 시들었도다, 테벨이; 쇠진하였도다, 땅의 백성의 높은 곳들이.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "애통하며"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "시들었도다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "쇠진하며"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "시들었도다"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "테벨이"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "쇠진하였도다"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "높은 곳들이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:48.869259974Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "야훼, 그대의 자비하심이 많습니다. 그대의 법도들에 따라 ⟨저를⟩ 살려 주십시오.",
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "그대의 자비하심이"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많습니다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "그대의 법도들에 따라"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "살려 주십시오"
+    }
+  ],
+  "timestamp": "2026-08-05T18:38:53.514339162Z",
+  "model": "glm-5.2"
+}

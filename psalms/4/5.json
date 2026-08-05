@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "떨라라, 그리고 죄를 짓지 말아라. 너희 마음에 말하라, 너희 잠자리 위에서, 그리고 잠잠해라. 셀라.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "떨라라"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …말아라"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "죄를 짓"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "너희 마음에"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "너희 잠자리"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "그리고 잠잠해라"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:14.321944769Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 기둥들의 현관을 만들었으니, 길이가 오십 암마, 너비가 삼십 암마였다. 그리고 ⟨그⟩ 현관이 그것들 앞에 있었고, 기둥들과 차양이 그것들 앞에 있었다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "기둥들의 현관"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "현관"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "기둥들의"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "암마"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그 길이"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "그리고 삼십"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "암마"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그 너비"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "그리고 현관"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "그것들 앞"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "그리고 기둥들"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "그리고 차양"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "그것들 앞"
+    }
+  ],
+  "timestamp": "2026-08-05T13:50:24.505754335Z",
+  "model": "glm-5.2"
+}

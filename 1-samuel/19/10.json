@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 샤울은 창으로 다윗을, ⟨그리고⟩ 벽에 박으려 하였다. 그가 샤울 앞에서 벗어나자, ⟨그⟩가 ⟨את⟩ 그 창을 벽에 박았다. 그리고 다윗은 도망하여 그 밤에 피신하였다.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "그리고 …하려 하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울은"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "치려"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "창으로"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "⟨그리고⟩ 벽에"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "그리고 그는 벗어났다"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…앞에서"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "그리고 ⟨그⟩가 박았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 창"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "그 창을"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "벽에"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "그리고 다윗은"
+    },
+    {
+      "surface": "נס",
+      "gloss": "도망하여"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "그리고 피신하였다"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:51.327188775Z",
+  "model": "glm-5.2"
+}

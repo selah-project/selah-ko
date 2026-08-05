@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "사슴이 손에서 벗어나듯, 새가 새잡는 자의 손에서 벗어나듯 네 ⟨몸을⟩ 빼내라.",
+  "tokens": [
+    {
+      "surface": "הִ֭נָּצֵל",
+      "gloss": "네 ⟨몸을⟩ 빼내라"
+    },
+    {
+      "surface": "כִּצְבִ֣י",
+      "gloss": "사슴처럼"
+    },
+    {
+      "surface": "מִיָּ֑ד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "וּ֝כְצִפּ֗וֹר",
+      "gloss": "그리고 새처럼"
+    },
+    {
+      "surface": "מִיַ֥ד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "יָקֽוּשׁ",
+      "gloss": "새잡는 자의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:52.940851548Z",
+  "model": "glm-5.2"
+}

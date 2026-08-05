@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 17:10",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그가 일어나서 차르파타로 갔다. 그가 ⟨그⟩ 성문 어귀에 이르렀을 때, 보라, 거기에 나뭇가지를 줍고 있는 한 과부 여인이 있었다. 그가 그녀를 부르며 말하였다. “제가 마실 수 있게 그릇에 든 물을 조금 가져다 주십시오.”",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "그가 일어나서"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "차르파타로"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "이르렀을 때"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "어귀"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성문"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인이"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "과부"
+    },
+    {
+      "surface": "מקששת",
+      "gloss": "줍고 있는"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "나뭇가지를"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "부르며"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "קחי",
+      "gloss": "가져다 주십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "그릇에 든"
+    },
+    {
+      "surface": "ואשתה",
+      "gloss": "마실 수 있게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:50:37.619811321Z",
+  "model": "glm-5.2"
+}

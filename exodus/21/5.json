@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "만일 ⟨그⟩ 종이 분명히 말하여 “나는 나의 아도나이와 ⟨את⟩ 나의 아내와 ⟨את⟩ 나의 아들들을 사랑하니, 나는 자유로 나가지 않겠다” 하면",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "분명히 말하면"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "그 종이"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "내가 사랑하니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 아도나이"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "나의 아도나이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 아내"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "나의 아내"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "나의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "나의 아들들"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "내가 나가겠다"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "자유로"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:09.368523391Z",
+  "model": "glm-5.2"
+}

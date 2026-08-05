@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그들은 풀처럼 신속히 베어지고 푸른 풀처럼 시들 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "כֶ֭חָצִיר",
+      "gloss": "풀처럼"
+    },
+    {
+      "surface": "מְהֵרָ֣ה",
+      "gloss": "신속히"
+    },
+    {
+      "surface": "יִמָּ֑לוּ",
+      "gloss": "베어지고"
+    },
+    {
+      "surface": "וּכְיֶ֥רֶק",
+      "gloss": "푸른 …처럼"
+    },
+    {
+      "surface": "דֶּ֝֗שֶׁא",
+      "gloss": "풀"
+    },
+    {
+      "surface": "יִבּוֹלֽוּן",
+      "gloss": "시들 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:05.022791042Z",
+  "model": "glm-5.2"
+}

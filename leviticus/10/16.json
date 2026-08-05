@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 10:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ 죄속죄제 수염소를 모셰가 찾고 찾았는데, 보라, 그것이 불태워져 있었다. 그가 엘아자르와 이타마르, 아론의 남은 아들들에게 노하며 말하기를,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "죄속죄제 수염소"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "수염소"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "죄속죄제"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "찾고"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "찾았는데"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "불태워져 있었다"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "그가 노하며"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "이타마르"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "הנותרם",
+      "gloss": "남은"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:19.768047937Z",
+  "model": "glm-5.2"
+}

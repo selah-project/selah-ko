@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 ⟨그것의⟩ 채들을 고리 안에 꿸 것이다. 그 채들은 제단을 메울 때에 두 옆구리에 있을 것이다.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "그리고 꿸 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "채들을"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "그것의 채들을"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "고리 안에"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "그리고 …있을 것이다"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "그 채들은"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "옆구리"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "메울 때에"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:21.625620002Z",
+  "model": "glm-5.2"
+}

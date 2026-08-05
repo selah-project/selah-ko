@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 헷의 아들들이 아브라함에게 대답하며 ⟨그에게⟩ 말하기를",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "그리고 대답하며"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "חת",
+      "gloss": "헷의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브라함"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:57.496660745Z",
+  "model": "glm-5.2"
+}

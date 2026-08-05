@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "다윗이 다시 ⟨את⟩ 온 이스라엘의 택한 자 삼만 명을 모았다.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "다시 모았다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘의 택한 자"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "택한 자"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:11.499506711Z",
+  "model": "glm-5.2"
+}

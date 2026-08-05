@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "왕이 하만에게 말하였다. \"은은 그대에게 주어졌고, 그 백성도 그대의 것이니, 그대의 눈에 좋 대로 그들에게 하시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "하만에게"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은은"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "주어졌고"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "그 백성도"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "하여"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "좋 대로"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "그대의 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:06:37.403413701Z",
+  "model": "glm-5.2"
+}

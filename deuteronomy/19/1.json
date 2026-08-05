@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "야훼 네 엘로힘이 네게 주시는 그 민족들을 — 야훼 네 엘로힘이 ⟨את⟩ 그들의 땅을 네게 주시고 네가 그것을 차지하여 그들의 성읍들과 그들의 집들에 거주할 때 — 야훼 네 엘로힘이 ⟨את⟩ 그 민족들을 끊어버리실 때에,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…할 때에"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "끊어버리실"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 민족들을"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "그 민족들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주시고"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 땅을"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "그들의 땅을"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "네가 차지하여"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "거주할"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "그들의 성읍들에"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "그들의 집들에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:22.801965867Z",
+  "model": "glm-5.2"
+}

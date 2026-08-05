@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 1:8",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "파라스 왕 코레쉬가 그것들을 재무관 미트르다트의 손을 통하여 내어놓게 하였고, 유다의 총독 셰쉐바짜르에게 그것들을 세었다.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "그것들을 내어놓게 하였고"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "코레쉬가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "파라스"
+    },
+    {
+      "surface": "על",
+      "gloss": "통하여"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손을"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "미트르다트"
+    },
+    {
+      "surface": "הגזבר",
+      "gloss": "재무관"
+    },
+    {
+      "surface": "ויספרם",
+      "gloss": "그것들을 세었다"
+    },
+    {
+      "surface": "לששבצר",
+      "gloss": "셰쉐바짜르에게"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "총독"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "유다의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:30:48.374359788Z",
+  "model": "glm-5.2"
+}

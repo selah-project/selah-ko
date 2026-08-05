@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "그가 ⟨את⟩ 자기 목소리를 울음에 내놓으니, 미츠라임이 듣고, 파르오의 집도 들었다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그가 내놓으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 목소리를"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "자기 목소리를"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "울음에"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임이"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집도"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:17.905569287Z",
+  "model": "glm-5.2"
+}

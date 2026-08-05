@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 ⟨어떤⟩ 남자도 너와 함께 올라가지 말 것이며, 또한 ⟨어떤⟩ 남자도 온 산에서 보이지 않아야 한다. 양 떼와 소 떼도 그 산을 마주하여 방목하지 말아야 한다.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 ⟨어떤⟩ 남자도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "올라가리라"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨어떤⟩ 남자도"
+    },
+    {
+      "surface": "אל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "보여야 한다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산에서"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "그리고 소 떼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "방목하리라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "מול",
+      "gloss": "마주"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산을"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:00.859450409Z",
+  "model": "glm-5.2"
+}

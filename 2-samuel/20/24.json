@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "아도람은 부역 위에 있었고, 아힐룻의 아들 여호사밧은 ⟨그⟩ 기록관이었다.",
+  "tokens": [
+    {
+      "surface": "ויהושפט",
+      "gloss": "여호사밧은"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "המס",
+      "gloss": "부역"
+    },
+    {
+      "surface": "ואדרם",
+      "gloss": "아도람은"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "아힐룻의"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "기록관"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:45.085250074Z",
+  "model": "glm-5.2"
+}

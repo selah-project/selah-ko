@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "하늘에서 야훼가 내려다보셨다. ⟨את⟩ 모든 사람의 아들들을 보셨다.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "하늘에서"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "내려다보셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 사람의 아들들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:44.744746698Z",
+  "model": "glm-5.2"
+}

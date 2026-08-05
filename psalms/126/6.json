@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 126,
+  "translation": "가리라, ⟨그가⟩ 걸어가며, 울며, 씨앗의 몫을 나르는 ⟨이는⟩ — ⟨그가⟩ 분명 오리라, 환호성으로, ⟨그⟩ 단들의 곡식단을 나르며!",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "가리라"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "걸어가며"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "울며"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "나르는"
+    },
+    {
+      "surface": "משך",
+      "gloss": "씨앗의 몫을"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "씨앗"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오리라"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "분명 오리라"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "환호성으로"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "나르며"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "곡식단을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:15.865564396Z",
+  "model": "glm-5.2"
+}

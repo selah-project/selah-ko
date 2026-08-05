@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "사람에게 속한 것은 마음의 준비들이요, 야훼에게서 나오는 것은 혀의 대답이다.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "사람에게 속한 것은"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "준비들이요"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음의"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "그리고 야훼에게서 (나오는 것은)"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "대답이다"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:10.082130009Z",
+  "model": "glm-5.2"
+}

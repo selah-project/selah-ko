@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "노래이자 마즈모르, 코라흐 자손에게 ⟨속한 것⟩, 인도자에게 ⟨속한 것⟩, 마할랏 레안노트 ⟨곡조⟩로, 마쉬킬 ⟨곡⟩, 헤이만 에즈라흐에게 ⟨속한 것⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "마즈모르"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨…⟩ 자손에게"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "인도자에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨…⟩에 따라"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "마할랏"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "레안노트"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "마쉬킬"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "헤이만에게"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "에즈라흐"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:50.254754529Z",
+  "model": "glm-5.2"
+}

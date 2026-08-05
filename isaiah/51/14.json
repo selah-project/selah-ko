@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "속히 풀려나리라, 구부러져 걷던 자. 그는 구덩이에서 죽지 아니하고, 그의 양식도 부족하지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "속히"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "구부러져 걷던 자"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "풀려나리라"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하리라"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽지"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "구덩이에서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하리라"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "부족하지"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "그의 양식도"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:55.707291131Z",
+  "model": "glm-5.2"
+}

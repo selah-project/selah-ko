@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "지혜가 많으면 분노가 많기 ⟨때문이고⟩, 지식을 더하는 자는 고통도 더한다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "많으면"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜가"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많다"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "분노가"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "그리고 더하는 자는"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식을"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "더한다"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "고통을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:03.527554197Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 10:8",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "내가 그들을 향해 휘파람을 불어 부르며, 그들을 모으리니, 이는 내가 그들을 구속하였기 때문이다. 그들이 번성하리니, 이전에 번성했던 것 같이.",
+  "tokens": [
+    {
+      "surface": "אשרקה",
+      "gloss": "내가 … 휘파람을 불어 부르며,"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들을 향해"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "그들을 모으리니,"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "פדיתים",
+      "gloss": "내가 그들을 구속하였기 때문이다"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "그들이 번성하리니,"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "… 같이"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "번성했던 것"
+    }
+  ],
+  "timestamp": "2026-08-05T11:20:52.135493288Z",
+  "model": "glm-5.2"
+}

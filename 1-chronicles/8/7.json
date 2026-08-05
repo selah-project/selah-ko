@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 나아만, 아히야, 게라 — 그가 ⟨그⟩들을 사로잡아 갔다. 그리고 ⟨그는⟩ ⟨את⟩ 우자와 ⟨את⟩ 아히후드를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "그리고 나아만"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "아히야"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "게라"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "⟨그⟩들을 사로잡아 갔다"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "그리고 낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우자"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "우자"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아히후드"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "아히후드"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:12.378544246Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "뜰의 벽의 너비 안에, 동쪽 길에, 구획의 면전에 그리고 건물의 면전에, 방들이 ⟨있었다⟩.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "너비 안에"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "벽의"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰의"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길에"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면전에"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "구획의"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면전에"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "건물의"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "방들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:04.223010921Z",
+  "model": "glm-5.2"
+}

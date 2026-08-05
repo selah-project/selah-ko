@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "야훼께서 ⟨그⟩ 좋은 것을 주실 것이며, 우리 땅은 그 산출물을 내어줄 것이다.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주실 것이며"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "그 좋은 것을"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "우리 땅은"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "내어줄 것이다"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "그 산출물을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:06.168463906Z",
+  "model": "glm-5.2"
+}

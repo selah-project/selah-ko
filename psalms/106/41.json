@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그들을 열국의 손에 넘겨주시니, 그들을 미워하는 자들이 그들 위에 군림하였다.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "넘겨주시니"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "열국의"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "군림하였다"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "그들을 미워하는 자들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:02.543191648Z",
+  "model": "glm-5.2"
+}

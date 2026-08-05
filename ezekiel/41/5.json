@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그가 ⟨그⟩ 집의 벽을 재니 여섯 아마이고, ⟨그⟩ 옆칸의 너비는 네 아마이고, ⟨그⟩ 집 사면 둘레에 사면으로였다.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "재니"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "벽을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마이고"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "너비는"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "옆칸의"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "네"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마이고"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "사면"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "사면으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:20.727560410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 101,
+  "translation": "속이는 일을 하는 자는 내 집 안에 거하지 못할 것이다. 거짓을 말하는 자는 내 눈 앞에 굳게 서지 못할 것이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "거할 것이다"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "내 집"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "하는 자"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "속임을"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하는 자"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "굳게 설 것이다"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:43.518212241Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "⟨את⟩ 번제단과 ⟨את⟩ 그 놋 망과 ⟨것⟩ ⟨그의⟩ 것 — 그의 것 ⟨같이⟩ — 그것에 속한 — 그 채와 ⟨את⟩ 모든 기구, ⟨את⟩ 대야와 ⟨את⟩ 그 받침을",
+  "tokens": [
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "번제단"
+    },
+    {
+      "surface": "מִזְבַּח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "הָעֹלָה",
+      "gloss": "번제"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 놋 망"
+    },
+    {
+      "surface": "מִכְבַּר",
+      "gloss": "망"
+    },
+    {
+      "surface": "הַנְּחֹשֶׁת",
+      "gloss": "놋"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨같이⟩"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 채"
+    },
+    {
+      "surface": "בַּדָּיו",
+      "gloss": "그 채"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든 기구"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כֵּלָיו",
+      "gloss": "그 기구"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "대야"
+    },
+    {
+      "surface": "הַכִּיֹּר",
+      "gloss": "대야"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨아트⟩",
+      "marks": "그 받침"
+    },
+    {
+      "surface": "כַּנּוֹ",
+      "gloss": "그 받침"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:17.674980665Z",
+  "model": "glm-5.2"
+}

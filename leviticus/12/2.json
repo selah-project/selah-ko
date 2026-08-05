@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "이스라엘 자손들에게 말하여라. \"여인이 잉태하여 남자를 낳으면, 그녀는 이레 동안 부정하리니, 그녀의 병의 부정함의 날들과 같이 부정할 것이다.\"",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "하여"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인"
+    },
+    {
+      "surface": "כי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "잉태하면"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "낳으면"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자를"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "부정하리니"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "이레"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "동안"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "날들과 같이"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "부정함의"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "그녀의 병"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "부정할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:49.458666601Z",
+  "model": "glm-5.2"
+}

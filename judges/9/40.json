@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 9:40",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "아비멜렉이 ⟨그를⟩ 쫓으매, 가알이 그 앞에서 도망하였고, 많은 부상자들이 성문 입구까지 쓰러졌다.",
+  "tokens": [
+    {
+      "surface": "וירדפהו",
+      "gloss": "쫓으매"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉이"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "도망하였고"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "그 앞에서"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "쓰러졌다"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "부상자들이"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "השער",
+      "gloss": "성문"
+    }
+  ],
+  "timestamp": "2026-08-05T17:12:39.903021207Z",
+  "model": "glm-5.2"
+}

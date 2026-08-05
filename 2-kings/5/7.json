@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 5:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "이스라엘 왕이 ⟨את⟩ 그 편지를 읽자 자기 옷을 찢으며 말하였다. “내가 죽이고 살리는 엘로힘이란 말인가? ⟨그가⟩ 어찌하여 어떤 사람의 나병을 낫게 하라며 ⟨나⟩에게 보내는가? 보라, 분명히 알고 보아라, ⟨그가⟩ 나에게 빌미를 찾고 있음을.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "하자"
+    },
+    {
+      "surface": "כקרא",
+      "gloss": "읽"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 편지를"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "그 편지를"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "찢으며"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "죽이고"
+    },
+    {
+      "surface": "ולהחיות",
+      "gloss": "살리는"
+    },
+    {
+      "surface": "כי",
+      "gloss": "인가"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨그가⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내는가"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "낫게 하라며"
+    },
+    {
+      "surface": "איש",
+      "gloss": "어떤 사람의"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "나병을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "분명히"
+    },
+    {
+      "surface": "אך",
+      "gloss": "분명히"
+    },
+    {
+      "surface": "דעו",
+      "gloss": "알고"
+    },
+    {
+      "surface": "נא",
+      "gloss": "보라"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "보아라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "함을"
+    },
+    {
+      "surface": "מתאנה",
+      "gloss": "빌미를 찾고 있음"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그가⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:53.053248124Z",
+  "model": "glm-5.2"
+}

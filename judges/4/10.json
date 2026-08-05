@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "바락이 ⟨את⟩ 즈불론과 ⟨את⟩ 납탈리를 케데쉬로 부르니, 만 명이 그의 발로 올라갔고, 드보라가 그와 함께 올라갔다.",
+  "tokens": [
+    {
+      "surface": "וַיַּזְעֵק",
+      "gloss": "부르니"
+    },
+    {
+      "surface": "בָּרָק",
+      "gloss": "바락이"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "즈불론을"
+    },
+    {
+      "surface": "זְבוּלֻן",
+      "gloss": "즈불론"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "납탈리를"
+    },
+    {
+      "surface": "נַפְתָּלִי",
+      "gloss": "납탈리"
+    },
+    {
+      "surface": "קֶדְשָׁה",
+      "gloss": "케데쉬로"
+    },
+    {
+      "surface": "וַיַּעַל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "בְּרַגְלָיו",
+      "gloss": "그의 발로"
+    },
+    {
+      "surface": "עֲשֶׂרֶת",
+      "gloss": "열"
+    },
+    {
+      "surface": "אַלְפֵי",
+      "gloss": "천"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "사람"
+    },
+    {
+      "surface": "וַתַּעַל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "עִמּוֹ",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "דְּבוֹרָה",
+      "gloss": "드보라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:15:07.067499080Z",
+  "model": "glm-5.2"
+}

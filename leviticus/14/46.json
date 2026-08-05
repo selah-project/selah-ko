@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그 집이 폐쇄된 모든 날 동안 그 집에 들어가는 자는 저녁까지 부정하다.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "그리고 들어가는 자는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날 동안"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "폐쇄된"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "부정하다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "저녁"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:32.716518245Z",
+  "model": "glm-5.2"
+}

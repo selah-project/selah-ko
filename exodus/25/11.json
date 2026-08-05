@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "너는 ⟨את⟩ 그것을 순금으로 입힐 것이다. 안과 밖에서 네가 그것을 입힐 것이며, 그 위에 금 테를 둘러 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "너는 입힐 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것을",
+      "marks": "그것(궤)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "순"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "안에서"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "그리고 밖에서"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "네가 그것을 입힐 것이며"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "너는 만들 것이다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "זר",
+      "gloss": "테를"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘러"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:06.419279243Z",
+  "model": "glm-5.2"
+}

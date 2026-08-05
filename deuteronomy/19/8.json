@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 만일 야훼 네 엘로힘께서 네 조상들에게 맹세하신 것 같이 ⟨את⟩ 네 영토를 넓히시고, ⟨את⟩ 그 온 땅을 네게 주시되, 그가 네 조상들에게 주리라고 말씀하신 것 같이 하시면 —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "넓히시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 영토"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "네 영토"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "것 같이"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "맹세하신"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "네 조상들에게"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "주시되"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 온 땅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주리라고"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "네 조상들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:18.053590992Z",
+  "model": "glm-5.2"
+}

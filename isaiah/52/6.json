@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "그러므로 내 백성은 내 이름을 알 것이다. 그러므로 그 날에 ⟨그들은⟩ 알 것이다. ⟨이는⟩ 바로 내가 말하는 이임을. 보라, 내가 ⟨여기⟩ 있다.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알 것이다"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성은"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "내 이름을"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "바로"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "말하는 이임을"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "보라, 내가 ⟨여기⟩ 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:13.709287571Z",
+  "model": "glm-5.2"
+}

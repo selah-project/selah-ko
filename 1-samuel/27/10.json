@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "아키쉬가 ⟨그들에게⟩ 물었다. “오늘 ⟨어디로⟩ 쳐들어갔느냐?” 다윗이 말하였다. “예후다의 네게브에, 그리고 야흐메엘라이트의 네게브에, 그리고 케니의 네게브에입니다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "아키쉬가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "부정"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "쳐들어갔느냐"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "네게브"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다의"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 …에"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "네게브"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "야흐메엘라이트의"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "네게브"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "케니의"
+    }
+  ],
+  "timestamp": "2026-08-05T19:14:26.467404927Z",
+  "model": "glm-5.2"
+}

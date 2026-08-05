@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "이스라엘 아들들에게 말하여 이르기를, 땅 위에 있는 모든 가축 중에서 너희가 먹을 수 있는 생물은 이것이라 하라:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "그 생물"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희가 먹을 수 있다"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "그 가축"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:56.088577701Z",
+  "model": "glm-5.2"
+}

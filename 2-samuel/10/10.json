@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ 백성의 나머지는 그의 형제 아비샤의 손에 주었으니, 그가 암몬 자손을 맞이하도록 진을 갖추었다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "백성의 나머지"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "나머지"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었으니"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "아비샤의"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "그리고 진을 갖추었다"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "맞이하도록"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:01.245142081Z",
+  "model": "glm-5.2"
+}

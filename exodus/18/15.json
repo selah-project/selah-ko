@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "모셰가 ⟨그의⟩ 장인에게 말하였다. \"이는 백성이 내게로 오기 때문입니다 — 엘로힘을 찾으려 ⟨오기 때문입니다⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "⟨그의⟩ 장인에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "오기"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "찾으려"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:40.829049495Z",
+  "model": "glm-5.2"
+}

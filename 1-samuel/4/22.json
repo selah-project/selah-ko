@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그녀가 말하였다. \"영광이 이스라엘에서 떠났다. 이는 엘로힘의 궤가 빼앗겼기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 … 말하였다"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "떠났다"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광이(카보드)"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "이스라엘에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다(이는)"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "빼앗겼기"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤가"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:17.087387384Z",
+  "model": "glm-5.2"
+}

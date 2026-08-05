@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 너는 네 지혜대로 행하여라, 그리고 그의 백발을 평화로이 셰올로 내려가게 하지 말라.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 ... 행하여라"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "네 지혜대로"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ... 말라"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "내려가게 하지"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "그의 백발을"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "평화로이"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "셰올로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:04.155270161Z",
+  "model": "glm-5.2"
+}

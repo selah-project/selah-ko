@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "종을 그의 주인에게 비방하지 말라, 혹시 그가 너를 저주하면 네가 ⟨벌을 받을까⟩ 한다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "너는 비방하지"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "그의 주인"
+    },
+    {
+      "surface": "פן",
+      "gloss": "혹시"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "그가 너를 저주하면"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "네가 ⟨벌을 받을까⟩ 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:57.704273162Z",
+  "model": "glm-5.2"
+}

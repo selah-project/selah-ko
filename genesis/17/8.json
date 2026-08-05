@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 내가 ⟨그대⟩와 ⟨그대⟩ 뒤의 ⟨그대의⟩ 씨에게 ⟨את⟩ ⟨그대의⟩ 나그네길의 땅을, ⟨את⟩ 온 케나안 땅을 영원한 소유로 주시리니, 그리고 내가 그들에게 엘로힘이 되리이다.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 …주시리니"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨그대⟩"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "그리고 그대의 씨에게"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "⟨그대⟩ 뒤의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "그대의 나그네길의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 케나안 땅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "케나안"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "소유로"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "그리고 내가 …되리이다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:39.675853271Z",
+  "model": "glm-5.2"
+}

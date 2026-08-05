@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 르하브암은 셰켬으로 갔다. 셰켬으로 온 이스라엘 온 ⟨것이⟩ 그를 왕으로 삼기 위함이었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그리고 … 갔다"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "르하브암은"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "셰켬으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "셰켬으로"
+    },
+    {
+      "surface": "באו",
+      "gloss": "온"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "왕으로 삼기 위하여"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:44.150036381Z",
+  "model": "glm-5.2"
+}

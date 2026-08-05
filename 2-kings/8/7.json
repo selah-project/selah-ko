@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 8:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "엘리사가 다메섹에 왔고, 아람 왕 브하닷은 병들어 있었다. 그에게 전해 이르기를 \"엘로힘의 사람이 이곳까지 왔다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "왔고"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리사가"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "다메섹에"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "브하닷은"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람의"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "병들어 있었다"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "전해"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "이곳"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:54.444198857Z",
+  "model": "glm-5.2"
+}

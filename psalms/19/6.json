@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 ⟨그것은⟩ 신랑이 그의 침상에서 나오는 것 같고, 장사가 길을 달리는 것처럼 기뻐한다.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "그리고 ⟨그것은⟩"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "신랑이"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나오는 것 같고"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "그의 침상에서"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "기뻐한다"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "장사가"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "달리는 것처럼"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "길을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:40.147524388Z",
+  "model": "glm-5.2"
+}

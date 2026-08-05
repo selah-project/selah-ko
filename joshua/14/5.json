@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "야훼께서 ⟨את⟩ 모셰에게 명령하신 것같이, 이스라엘의 아들들이 그와 같이 행하였고, 그들은 ⟨את⟩ 그 땅을 나누었다.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…한 것같이"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰에게"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행하였고"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "나누었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:43:09.660154234Z",
+  "model": "glm-5.2"
+}

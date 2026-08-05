@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "모든 용사가 일어나 밤새 걸어서 ⟨את⟩ 샤울의 시신과 ⟨את⟩ 그의 아들들의 시신을 벳-션의 성벽에서 가져왔다. 그리고 야베스로 와서 그곳에서 ⟨את⟩ 그것들을 불태웠다.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איש",
+      "gloss": "이가"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "용사"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "걸어서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "밤새"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "가져왔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤울의 시신"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "시신"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 아들들의 시신"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "시신"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들의"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "성벽에서"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳-션의"
+    },
+    {
+      "surface": "שן",
+      "gloss": "벳-션의"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 와서"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "야베스로"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "불태웠다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 그것들을",
+      "marks": "그곳에서"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:47.643948411Z",
+  "model": "glm-5.2"
+}

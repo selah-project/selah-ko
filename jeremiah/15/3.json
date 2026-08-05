@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 15:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "내가 그들 위에 네 종족을 세우리라 — 야훼의 선언이시다. ⟨את⟩ 칼은 죽이기 위하여, ⟨את⟩ 개들은 끌어가기 위하여, 그리고 ⟨את⟩ 하늘의 날짐승과 ⟨את⟩ 땅의 짐승은 먹어 치우고 멸하기 위하여.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "내가 세우리라"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "네"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "종족을"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "칼"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "칼은"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "죽이기 위하여"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "개들"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "개들은"
+    },
+    {
+      "surface": "לסחב",
+      "gloss": "끌어가기 위하여"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨아ת⟩",
+      "marks": "하늘의 날짐승"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "날짐승"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "땅의 짐승"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹어 치우고"
+    },
+    {
+      "surface": "ולהשחית",
+      "gloss": "멸하기 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:48.481652808Z",
+  "model": "glm-5.2"
+}

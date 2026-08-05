@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "이스라엘 자손이 야훼께 부르짖어 말하였다. \"우리가 당신께 죄를 지었습니다. 우리가 ⟨את⟩ 우리 엘로힘을 버리고 ⟨את⟩ 바알들을 섬겼기 때문입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "그리고 부르짖었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "죄를 지었습니다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신께"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "…때문에"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "우리가 버리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리 엘로힘"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "그리고 섬겼습니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바알들"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "바알들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:24.602814361Z",
+  "model": "glm-5.2"
+}

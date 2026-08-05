@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "다만 너희의 죄악들이 너희와 너희 엘로힘 사이를 가르는 것이 되었고, 너희의 죄들이 ⟨그⟩ 얼굴을 너희에게서 가리어 ⟨그⟩ 듣지 못하게 하였음이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "다만"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(강조)"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "너희의 죄악들이"
+    },
+    {
+      "surface": "היו",
+      "gloss": "되었고"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "가르는 것이"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "너희와"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "사이를"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "⟨그리고⟩ 너희의 죄들이"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "가리어"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "너희에게서"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "듣지 못하게 하였음이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:06.959018038Z",
+  "model": "glm-5.2"
+}

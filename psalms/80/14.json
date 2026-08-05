@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "숲의 멧돼지가 그녀를 갉아먹고, 들판의 들짐승이 그녀를 먹어치운다.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "갉아먹고"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "멧돼지가"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "숲의"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "들짐승이"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "들판의"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "먹어치운다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:17.231318686Z",
+  "model": "glm-5.2"
+}

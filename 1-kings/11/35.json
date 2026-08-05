@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "나는 그의 아들의 손에서 왕권을 빼앗아 그것을 네게 주시겠다. ⟨곧⟩ ⟨את⟩ 열 지파를.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "빼앗으시겠다"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "왕권을"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들의"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "그것을 주시겠다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "열 지파"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "열"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "지파를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:22.619653631Z",
+  "model": "glm-5.2"
+}

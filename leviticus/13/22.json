@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 만일 그것이 피부에서 크게 퍼지면, 코헨이 ⟨그⟩를 부정하다고 선언할 것이다 — 그것은 네가(질병)이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "퍼지는"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "것이 퍼지면"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "피부에서"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "부정하다고 선언할 것이다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "네가(질병)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은 …이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:13.180099263Z",
+  "model": "glm-5.2"
+}

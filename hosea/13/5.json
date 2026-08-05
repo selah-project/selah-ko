@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "나는 광야에서, 척박한 땅에서 너를 알았다 —",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "너를 알았다"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "척박한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:21.962892131Z",
+  "model": "glm-5.2"
+}

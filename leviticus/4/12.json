@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 그 수소의 전체를 진영 바깥으로, 재를 쏟아내는 곳으로, 정결한 곳으로 내어올 것이다. 그리고 그는 그것을 불 위에서 나무와 함께 사를 것이다. 재를 쏟아내는 곳에서 그것이 사를 것이다.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "그리고 내어올 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 수소의 전체"
+    },
+    {
+      "surface": "כל",
+      "gloss": "전체"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "수소"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "바깥"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "곳"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "정결한"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "쏟아내는 곳"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "재"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "그리고 사를 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것을",
+      "marks": "그것을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "나무"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "쏟아내는 곳"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "재"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "사를 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:00.005695810Z",
+  "model": "glm-5.2"
+}

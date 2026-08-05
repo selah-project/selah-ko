@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야훼는 당신의 백성에게 힘을 주신다. 야훼는 ⟨את⟩ 당신의 백성을 샬롬으로 축복하신다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "עז",
+      "gloss": "힘을"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "당신의 백성에게"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "축복하신다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 백성을"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "당신의 백성을"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "샬롬으로"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:56.444800962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그녀가 아들을 낳자, ⟨그가⟩ ⟨את⟩ 그의 이름을 게르솜이라 불렀다. 그가 말하였기 때문이다. \"나는 이방 땅에서 나그네였다.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이름"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "이름"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "게르솜"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였기"
+    },
+    {
+      "surface": "גר",
+      "gloss": "나그네"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "였다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "이방"
+    }
+  ],
+  "timestamp": "2026-08-05T07:46:04.397008624Z",
+  "model": "glm-5.2"
+}

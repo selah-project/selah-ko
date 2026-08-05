@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "불이 나가서 가시덤불을 덮쳐 곡식 단이나 곧 자란 것, 혹은 밭이 먹힐 때, 불을 낸 자가 ⟨את⟩ ⟨그⟩ 배상을 온전히 갚아야 한다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "～할 때"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "나가면"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "덮치면"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "가시덤불을"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "먹힐 때"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "곡식 단이나"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "곧 자란 것"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "밭이"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "온전히"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "갚아야 한다"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "불을 낸 자가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "배상"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "배상을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:05.156511419Z",
+  "model": "glm-5.2"
+}

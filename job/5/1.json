@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "부르可笑, ⟨혹시⟩ 네게 대답할 자가 ⟨있는가⟩, 그리고 ⟨너는⟩ 거룩한 자들 중 누구에게로 얼굴을 돌리겠는가?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "부르可笑"
+    },
+    {
+      "surface": "נא",
+      "gloss": "아서라"
+    },
+    {
+      "surface": "היש",
+      "gloss": "혹시 ⟨있다⟩"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "네게 대답할 자"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~에게로"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "거룩한 자들 중"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "얼굴을 돌리겠는가"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:05.262685456Z",
+  "model": "glm-5.2"
+}

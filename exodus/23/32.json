@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "너는 그들 및 그들의 엘로힘과 브리트를 맺지 말라.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תִכְרֹת",
+      "gloss": "맺지 말라"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "그들 및"
+    },
+    {
+      "surface": "וְלֵאלֹהֵיהֶם",
+      "gloss": "그들의 엘로힘과"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "브리트를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:54.121136992Z",
+  "model": "glm-5.2"
+}

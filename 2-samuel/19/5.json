@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 그 왕이 ⟨את⟩ 그의 얼굴을 가리우매, 그 왕이 큰 소리로 부르짖었다. \"내 아들 아브샬롬, 아브샬롬, 내 아들, 내 아들이여!\"",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "그리고 그 왕이"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "가리우매"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 얼굴"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴을"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "부르짖었다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕이"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬"
+    },
+    {
+      "surface": "아בשלום",
+      "gloss": "아브샬롬"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들이여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:43.875424187Z",
+  "model": "glm-5.2"
+}

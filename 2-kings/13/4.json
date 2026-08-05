@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "여호아하스가 야훼의 ⟨면전⟩을 간구하자, 야훼께서 그의 음성을 들으셨다. 이스라엘의 압박을 보셨기 때문이다 — 아람 왕이 ⟨그들을⟩ 압박하였으므로.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "그가 간구하였다"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "여호아하스"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "면전"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면전을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "들으셨다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "압박"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "압박"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "압박하였다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:50.343662216Z",
+  "model": "glm-5.2"
+}

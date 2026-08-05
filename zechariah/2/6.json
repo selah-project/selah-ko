@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "내가 말하였다. \"당신은 어디로 가는가?\" 그가 내게 말하였다. \"⟨את⟩ 예루샬라임을 측량하러, 그것의 너비가 얼마인지, 그것의 길이가 얼마인지 보려고.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "내가 말하였다"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "어디로"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "가는가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "למד",
+      "gloss": "측량하러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임을"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보려고"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "얼마인지"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "그것의 너비가"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "얼마인지"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "그것의 길이가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:18:52.477705029Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 1:12",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "돌아가라, 내 딸들아, 가라, 나는 남편을 얻기에 너무 늙었기 때문이다. 내가 '나에게 소망이 있다'고 말하더라도, 설령 내가 오늘밤 남편에게 속하고 아들들을 낳는다 할지라도 —",
+  "tokens": [
+    {
+      "surface": "שבנה",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "내 딸들아"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "가라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "나는 늙었기 때문이다"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "되는 것에"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "남편에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "말하더라도"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "소망이"
+    },
+    {
+      "surface": "גם",
+      "gloss": "설령"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "내가 속한다면"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "오늘밤"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "남편에게"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "내가 낳는다 할지라도"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:29.697600704Z",
+  "model": "glm-5.2"
+}

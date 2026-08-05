@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "들어라, 나의 백성아, 내가 말하겠다. 이스라엘아, 내가 네게 증언하겠다. 나는 엘로힘이요, 네 엘로힘이다.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나의 백성아"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "그리고 내가 말하겠다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "그리고 내가 증언하겠다"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이요"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이다"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:32.391536248Z",
+  "model": "glm-5.2"
+}

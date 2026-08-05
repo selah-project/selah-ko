@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "전령이 와서 그에게 알리어 말하기를 \"그들이 그 왕의 아들들의 머리를 가져왔나이다\" 하매, 그가 말하였다. \"그것들을 아침까지 성문 어귀에 두 무더기로 놓아라.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "오매"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "그 전령이"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "알리어"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "가져왔나이다"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "머리를"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "놓아라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "무더기로"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "어귀에"
+    },
+    {
+      "surface": "השער",
+      "gloss": "그 성문"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "아침"
+    }
+  ],
+  "timestamp": "2026-08-05T18:14:03.773356303Z",
+  "model": "glm-5.2"
+}

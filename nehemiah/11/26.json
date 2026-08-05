@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 예수아에, 몰라다에, 벳-팔렛에",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "그리고 예수아에"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "그리고 몰라다에"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "그리고 …에 (벳-)"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "팔렛"
+    }
+  ],
+  "timestamp": "2026-08-05T12:38:06.965853739Z",
+  "model": "glm-5.2"
+}

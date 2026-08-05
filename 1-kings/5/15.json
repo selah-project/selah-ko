@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "쵸르 왕이 ⟨את⟩ 그의 종들을 셀로모에게 보냈다. 그가 그를 아버지 대신 왕으로 기름 부었다는 것을 들었기 때문이다. 쵸르가 모든 날 동안 다윗을 사랑하는 자였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그가 보냈다"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "쵸르"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "צור",
+      "gloss": "쯔르의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 종들"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셀로모"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "그가 들었다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "라는 것을"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "그들이 기름 부었다"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕으로"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하는"
+    },
+    {
+      "surface": "היה",
+      "gloss": "자였다"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "쵸르가"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:22.768264782Z",
+  "model": "glm-5.2"
+}

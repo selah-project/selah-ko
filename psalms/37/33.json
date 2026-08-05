@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "야훼께서 ⟨그를⟩ 그의 손에 버려두지 아니하시며, 재판받을 때에 ⟨그를⟩ 정죄하지 아니하신다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "버려두지 아니하신다"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "정죄하지 아니하신다"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "재판받을 때에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:27.139382855Z",
+  "model": "glm-5.2"
+}

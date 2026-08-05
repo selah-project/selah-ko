@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 왕이 보내어 ⟨את⟩ 유다와 예루샬라임의 모든 장로를 모으셨다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내어"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "그리고 모으셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 장로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "예루샬라임"
+    }
+  ],
+  "timestamp": "2026-08-05T13:04:14.793502193Z",
+  "model": "glm-5.2"
+}

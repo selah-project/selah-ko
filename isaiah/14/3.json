@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "야훼께서 너를 네 고통과 네 번뇌와, 네가 섬기던 그 고된 강제노동에서 쉬게 하시던 날에 그리되리라.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리되리라"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "쉬게 하시던"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "네 고통"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "네 번뇌"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "강제노동"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "고된"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "네가 섬기던"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "섬기던"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네가"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:16.861117271Z",
+  "model": "glm-5.2"
+}

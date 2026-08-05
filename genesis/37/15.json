@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "어떤 사람이 그를 발견하였는데, 보라, 그가 들판에서 헤매고 있었다. 그 사람이 그에게 묻기를 \"그대는 무엇을 찾고 있습니까\" 하였다.",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "발견하였는데"
+    },
+    {
+      "surface": "איש",
+      "gloss": "어떤 사람이"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "헤매고 있었다"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들판에서"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "물었다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "찾고 있습니까"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:07.682835961Z",
+  "model": "glm-5.2"
+}

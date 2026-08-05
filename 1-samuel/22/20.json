@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 아히멜렉 — 아히툽의 아들 — 의 아들 하나가 빠져나갔으니, 그의 이름은 아비아타르였다. 그리고 그가 다윗의 뒤를 따라 도망하였다.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "그리고 빠져나갔으니"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나가"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "아히멜렉의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "아히툽의"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "그리고 그의 이름은"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "아비아타르였다"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "그리고 그가 도망하였다"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤를 따라"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:33.305332201Z",
+  "model": "glm-5.2"
+}

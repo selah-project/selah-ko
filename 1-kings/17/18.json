@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그녀가 엘리야후에게 말하였다. “엘로힘의 사람이여, 당신과 저 사이에 무엇이 있습니까? 당신이 내게 오신 것은 ⟨את⟩ 내 죄악을 기억나게 하시고 ⟨את⟩ 내 아들을 죽이시려는 것입니까?”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "엘리야후"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이여"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "באת",
+      "gloss": "오신"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "기억나게 하시려는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 죄악을"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "내 죄악을"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "죽이시려는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 아들을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:25:28.058667401Z",
+  "model": "glm-5.2"
+}

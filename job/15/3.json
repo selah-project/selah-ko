@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "쓸모없는 말로 권면하며, 그 안에 아무 유익이 없는 언사들로 하는가?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "권면하며"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "말로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "쓸모없는"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "언사들로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없는"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "유익이"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:05:45.572977954Z",
+  "model": "glm-5.2"
+}

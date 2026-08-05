@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 1:26",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 말씀하셨다. \"우리가 우리의 형상대로, 우리의 모양을 따라 사람을 만들자. 그들이 바다의 물고기와 하늘의 새와 가축과 온 땅과 땅 위를 기어 다니는 모든 것을 다스리게 하자.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "만들자"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "בצלמנו",
+      "gloss": "우리의 형상대로"
+    },
+    {
+      "surface": "כדמותנו",
+      "gloss": "우리의 모양을 따라"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "다스리게 하자"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "바다의 물고기와"
+    },
+    {
+      "surface": "הים",
+      "gloss": "—"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "하늘의 새와"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "—"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "가축과"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅과"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "기어 다니는 것"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "기어 다니는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위를"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:39.640282127Z",
+  "model": "glm-5.2"
+}

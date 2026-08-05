@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 이것도 병든 악이다. 그가 온 것처럼 그대로 그가 간다. 그리고 루아흐를 위하여 수고하는 그에게 무슨 유익이 있는가?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악이다"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "병든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온 것처럼"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "～처럼"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그대로"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "간다"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그리고 무슨"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "유익이"
+    },
+    {
+      "surface": "לו",
+      "gloss": "있는가"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "수고하는"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "루아흐를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:28.788828697Z",
+  "model": "glm-5.2"
+}

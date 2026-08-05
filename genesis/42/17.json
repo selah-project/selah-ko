@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그리고 그가 ⟨그⟩들을 감옥에 모아 넣으셨다 — 삼 일 동안.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "그리고 모아 넣으셨다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～로"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "감옥"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "삼"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:24.876292438Z",
+  "model": "glm-5.2"
+}

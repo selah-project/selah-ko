@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 ⟨그는⟩ 미쉬칸을 위하여 ⟨את⟩ 널들을 만들었다 — 쉬타임 나무로, 세워진 것들이다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "널들을"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "그 널들을"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "미쉬칸을 위하여"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무로"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "쉬타임"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "세워진 것들"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:48.401199225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "정제되었다 당신의 말씀이 매우, 그리고 당신의 종은 그것을 사랑한다.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "정제되었다"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "당신의 말씀이"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "그리고 당신의 종은"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "그것을 사랑한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:27.559178289Z",
+  "model": "glm-5.2"
+}

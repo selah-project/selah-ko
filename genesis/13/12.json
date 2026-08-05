@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "아브람은 케나안 땅에 거하였고, 롯은 평야의 도시들에 거하며, 스돔까지 천막을 쳤다.",
+  "tokens": [
+    {
+      "surface": "אַבְרָ֖ם",
+      "gloss": "아브람은"
+    },
+    {
+      "surface": "יָשַׁ֣ב",
+      "gloss": "거하였고"
+    },
+    {
+      "surface": "בְּאֶֽרֶץ",
+      "gloss": "…땅에"
+    },
+    {
+      "surface": "כְּנָ֑עַן",
+      "gloss": "케나안"
+    },
+    {
+      "surface": "וְל֗וֹט",
+      "gloss": "롯은"
+    },
+    {
+      "surface": "יָשַׁב֙",
+      "gloss": "거하며"
+    },
+    {
+      "surface": "בְּעָרֵ֣י",
+      "gloss": "…도시들에"
+    },
+    {
+      "surface": "הַכִּכָּ֔ר",
+      "gloss": "평야의"
+    },
+    {
+      "surface": "וַיֶּאֱהַ֖ל",
+      "gloss": "천막을 쳤다"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "סְדֹֽם",
+      "gloss": "스돔"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:30.150423518Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그는 ⟨את⟩ 이십 암마를 그 집 뒤편에서 백향목 널빤지로 건축하였다 — 바닥에서 벽들까지 — 그리고 자기를 위해 안쪽에 건축하였다, 곧 더비르를, 지성소를.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 건축하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이십 암마"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "이십"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "암마를"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "뒤편에서"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집의"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "널빤지로"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "백향목"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "그 바닥"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "그 벽들"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 건축하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위해"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "안쪽에"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "더비르를"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "성소를"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "지성소"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:24.018432116Z",
+  "model": "glm-5.2"
+}

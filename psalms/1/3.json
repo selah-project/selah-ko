@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그러므로 그는 물의 줄기들에 심어 놓은 나무 같으니, 제철에 그 열매를 내고 그 잎도 시들지 아니하며, 무엇이든지 하는 것마다 형통하는도다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그러므로 … 같으니"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "심어 놓은"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "줄기들에"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "그 열매를"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "내고"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "제철에"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "그 잎도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하며"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "시들지"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것마다"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "하는"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "형통하는도다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:41.016874917Z",
+  "model": "glm-5.2"
+}

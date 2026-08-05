@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "부러뜨려진 갈대를 그가 꺾지 않고, 꺼져가는 아마 실을 그가 끄지 않을 것이다. 에메트로 미쉬팟을 내어놓을 것이다.",
+  "tokens": [
+    {
+      "surface": "קָנֶה",
+      "gloss": "갈대를"
+    },
+    {
+      "surface": "רָצוּץ",
+      "gloss": "부러뜨려진"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יִשְׁבּוֹר",
+      "gloss": "꺾고"
+    },
+    {
+      "surface": "וּפִשְׁתָּה",
+      "gloss": "아마 실을"
+    },
+    {
+      "surface": "כֵהָה",
+      "gloss": "꺼져가는"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יְכַבֶּנָּה",
+      "gloss": "끌"
+    },
+    {
+      "surface": "לֶאֱמֶת",
+      "gloss": "에메트로"
+    },
+    {
+      "surface": "יוֹצִיא",
+      "gloss": "내어놓을 것이다"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "미쉬팟을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:07.117988207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 나는 야훼, 네 엘로힘이시다, 미츠라임 땅에서부터. 다시 ⟨내가⟩ 너를 천막들에 거하게 하시리라, 정한 절기의 날들같이.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…에서부터 땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "עד",
+      "gloss": "다시"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "너를 거하게 하시리라"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "천막들에"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "…같이 날들"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "정한 절기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:19.691272224Z",
+  "model": "glm-5.2"
+}

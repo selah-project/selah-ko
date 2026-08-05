@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리하였다. 아하론이 ⟨그⟩ 자신의 손을 ⟨את⟩ 그의 지팡이로 내밀어 땅의 먼지를 ⟨את⟩ 치니, 사람과 짐승에게 이(가) 되었다. 땅의 온 먼지가 미츠라임 온 땅에서 이가 되었다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그리하였다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "같이"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "내밀어"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 손"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "그의 지팡이로"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "치니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅의 먼지"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "먼지를"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "되니"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "이(가)"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "그리고 짐승에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "먼지가"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "היה",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "이"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:17.069228465Z",
+  "model": "glm-5.2"
+}

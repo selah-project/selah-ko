@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "지휘자에게, 다윗의 시편. 야훼, ⟨당신은⟩ 나를 살피셨고 ⟨그리하여⟩ 아셨다.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "나를 살피셨고"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "아셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:26.854122987Z",
+  "model": "glm-5.2"
+}

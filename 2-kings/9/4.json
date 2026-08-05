@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그 젊은이가 — 그 젊은이, 그 나비가 — 라못 길앗으로 갔다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "젊은이가"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "그 젊은이"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "그 나비가"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "라못"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길앗으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:54.570114288Z",
+  "model": "glm-5.2"
+}

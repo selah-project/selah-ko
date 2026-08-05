@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 9:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼께서 내게 말씀하셨다. “일어나라, 빨리 여기서 내려가라. 네가 미츠라임에서 인도하여 낸 네 백성이 부패하였기 때문이다. 그들이 내가 그들에게 명령한 길에서 빨리 벗어났다. 그들이 자기들을 위하여 부어 만든 형상을 만들었기 때문이다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "קום",
+      "gloss": "일어나라"
+    },
+    {
+      "surface": "רד",
+      "gloss": "내려가라"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "빨리"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "여기서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "부패하였"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "네 백성이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "인도하여 낸"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "벗어났다"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "빨리"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "명령한"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "자기들을 위하여"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "부어 만든 형상"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:58.954209036Z",
+  "model": "glm-5.2"
+}

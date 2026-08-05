@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "의로운 자들의 생각은 미쉬파트이고, 악한 자들의 꾀는 속임이다.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "생각은"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들의"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "미쉬파트이고"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "꾀는"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악한 자들의"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속임이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:03.621013401Z",
+  "model": "glm-5.2"
+}

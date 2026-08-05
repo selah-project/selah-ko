@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "그들에게 미디안 같이, 시스라 같이, 키손 시내에서 야빈 같이 행하소서.",
+  "tokens": [
+    {
+      "surface": "עֲשֵׂה",
+      "gloss": "행하소서"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "כְּמִדְיָן",
+      "gloss": "미디안 같이"
+    },
+    {
+      "surface": "כְּסִיסְרָא",
+      "gloss": "시스라 같이"
+    },
+    {
+      "surface": "כְיָבִין",
+      "gloss": "야빈 같이"
+    },
+    {
+      "surface": "בְּנַחַל",
+      "gloss": "…시내에서"
+    },
+    {
+      "surface": "קִישׁוֹן",
+      "gloss": "키손"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:36.296872547Z",
+  "model": "glm-5.2"
+}

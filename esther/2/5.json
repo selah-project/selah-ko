@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "유다 사람 한 명이 수산 ⟨그⟩ 요새에 있었는데, 그의 이름은 모르드개이니, 야이르의 아들, 시므이의 아들, 기스의 아들, 베냐민 사람이었다.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "한 명이"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "유다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었는데"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "수산"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "요새에"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "그의 이름은"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개이니"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "야이르의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "시므이의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "기스의"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이었다"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "베냐민"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:07.215198536Z",
+  "model": "glm-5.2"
+}

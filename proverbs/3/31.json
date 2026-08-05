@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "폭력의 사람을 시기하지 말고, 그의 모든 길에서 ⟨길을⟩ 택하지 말라.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…말고"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "시기하지"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "…사람을"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력의"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "택하지"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "…모든"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "그의 길에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:38.615295906Z",
+  "model": "glm-5.2"
+}

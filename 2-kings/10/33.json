@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 10:33",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "요르단에서 해 뜨는 쪽으로, ⟨את⟩ 길앗의 온 땅과, 가드 지파와 르우벤 지파와 므나쎄 지파를 — 아르논 강골에 있는 아로엘에서부터, 길앗과 바산까지.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "해 뜨는 쪽"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "길앗의 온 땅과 가드 지파와 르우벤 지파와 므나쎄 지파를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "길앗의"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "가드 지파와"
+    },
+    {
+      "surface": "והראובני",
+      "gloss": "르우벤 지파와"
+    },
+    {
+      "surface": "והמנשי",
+      "gloss": "므나쎄 지파를"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "아로엘에서부터"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩은"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에 있는"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "강골"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "아르논"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "길앗과"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "바산"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:52.451824455Z",
+  "model": "glm-5.2"
+}

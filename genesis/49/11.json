@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 49:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "포도나무에 그의 새끼 나귀를, 선택된 포도나무에 그의 암나귀를 매는 자 — 포도주에 그의 옷을 빨고, 포도들의 피에 그의 덮개를.",
+  "tokens": [
+    {
+      "surface": "אסרי",
+      "gloss": "매는 자"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "포도나무에"
+    },
+    {
+      "surface": "עירה",
+      "gloss": "그의 새끼 나귀를"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "그리고 선택된 포도나무에"
+    },
+    {
+      "surface": "בני",
+      "gloss": "그의 암나귀를"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": ""
+    },
+    {
+      "surface": "כבס",
+      "gloss": "빨고"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "포도주에"
+    },
+    {
+      "surface": "לבשו",
+      "gloss": "그의 옷을"
+    },
+    {
+      "surface": "ובדם",
+      "gloss": "그리고 피에"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "포도들의"
+    },
+    {
+      "surface": "סותה",
+      "gloss": "그의 덮개를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:45:08.324068549Z",
+  "model": "glm-5.2"
+}

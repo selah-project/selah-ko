@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼의 천사가 가시떨기나무 가운데서 불꽃으로 그에게 나타나셨고, ⟨그⟩가 보니, 보라, 가시떨기나무가 불에 타고 있는데 가시떨기나무가 사라지지 아니하였더라.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "나타나셨고"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "천사가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "불꽃으로"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "가시떨기나무"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보니"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "가시떨기나무가"
+    },
+    {
+      "surface": "בער",
+      "gloss": "타고"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "가시떨기나무가"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "아니하였더라"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "사라지지"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:01.073193939Z",
+  "model": "glm-5.2"
+}

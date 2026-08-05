@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ 이 모든 왕들과 ⟨את⟩ 그들의 땅을 여호수아가 한 번에 점령하였으니, 이는 야훼 이스라엘의 엘로힘이 이스라엘을 위해 싸우셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 왕들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "왕들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 땅"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "그들의 땅을"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "점령하였으니"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "번"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 ~이기 때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "~의 엘로님이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "싸우셨으니"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "이스라엘을 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:39.684657895Z",
+  "model": "glm-5.2"
+}

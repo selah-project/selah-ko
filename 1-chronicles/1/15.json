@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ ⟨그⟩ 히위 족속과, ⟨את⟩ ⟨그⟩ 아르키 족속과, ⟨את⟩ ⟨그⟩ 시니 족속을.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "히위 족속을"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "히위 족속"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아르키 족속을"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "아르키 족속"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "시니 족속을"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "시니 족속"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:30.555588427Z",
+  "model": "glm-5.2"
+}

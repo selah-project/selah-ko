@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그리고 그 기근이 땅에서 무거웠다.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "그리고 그 기근은"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "무거웠다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:04.275206004Z",
+  "model": "glm-5.2"
+}

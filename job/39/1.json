@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 39:1",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "네가 바위 산양의 새끼 밸 때를 아느냐, 암사슴의 해산을 지켜보느냐",
+  "tokens": [
+    {
+      "surface": "הֲיָדַ֗עְתָּ",
+      "gloss": "네가 아느냐"
+    },
+    {
+      "surface": "עֵ֭ת",
+      "gloss": "때를"
+    },
+    {
+      "surface": "לֶ֣דֶת",
+      "gloss": "새끼 밸"
+    },
+    {
+      "surface": "יַעֲלֵי",
+      "gloss": "산양의"
+    },
+    {
+      "surface": "סָ֑לַע",
+      "gloss": "바위"
+    },
+    {
+      "surface": "חֹלֵ֖ל",
+      "gloss": "해산을"
+    },
+    {
+      "surface": "אַיָּל֣וֹת",
+      "gloss": "암사슴의"
+    },
+    {
+      "surface": "תִּשְׁמֹֽר",
+      "gloss": "지켜보느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T12:11:59.858187817Z",
+  "model": "glm-5.2"
+}

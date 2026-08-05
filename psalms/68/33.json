@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "땅의 나라들아, 엘로힘께 노래하라, 아도나이께 찬양하라. 셀라.",
+  "tokens": [
+    {
+      "surface": "מַמְלְכ֣וֹת",
+      "gloss": "나라들아"
+    },
+    {
+      "surface": "הָ֭אָרֶץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "שִׁ֣ירוּ",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "לֵאלֹהִ֑ים",
+      "gloss": "엘로힘께"
+    },
+    {
+      "surface": "זַמְּר֖וּ",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "아도나이께"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:34.769154979Z",
+  "model": "glm-5.2"
+}

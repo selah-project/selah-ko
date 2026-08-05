@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "당신이 모든 땅의 경계를 세우셨고, 여름과 겨울을 당신이 빚으셨다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "세우셨고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "경계를"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "여름과"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "겨울을"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "빚으셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:14.603791065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 또 다른 칠 일을 기다렸고, ⟨그⟩ 비둘기를 ⟨그⟩ 방주에서 다시 보내었다.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "그리고 기다렸다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "또"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "…의 일곱"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날을"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "그리고 다시"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 비둘기를"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "그 비둘기"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "그 방주"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:45.972623506Z",
+  "model": "glm-5.2"
+}

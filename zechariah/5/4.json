@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 5:4",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "\"내가 그것을 내보낸다, 만군의 야훼의 선언이다. 그것이 도둑의 집에, 그리고 내 이름으로 거짓 맹세하는 자의 집에 들어가, 그의 집 한가운데 머물며, 그것과 ⟨את⟩ 그것의 나무들과 ⟨את⟩ 그것의 돌들을 다 소멸할 것이다.\"",
+  "tokens": [
+    {
+      "surface": "הוצאתיה",
+      "gloss": "내가 그것을 내보낸다"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "그것이 ∼ 들어가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "도둑의"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ∼에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "맹세하는 자의"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "내 이름으로"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "거짓"
+    },
+    {
+      "surface": "ולנה",
+      "gloss": "그리고 머물며"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "וכלתו",
+      "gloss": "다 소멸할 것이다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 나무들"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "그것의 나무들과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 돌들"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "그것의 돌들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:43.259514801Z",
+  "model": "glm-5.2"
+}

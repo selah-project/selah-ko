@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 23:6",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 너희는 모셰의 토라 책에 기록된 ⟨את⟩ 모든 것을 지키고 행하기를 매우 힘써라, ⟨그것으로⟩부터 오른쪽이나 왼쪽으로 치우치지 않게 하라.",
+  "tokens": [
+    {
+      "surface": "וחזקתם",
+      "gloss": "그리고 너희는 힘써라"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "지키기를"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "그리고 행하기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "기록된"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "∼책에"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "토라"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "하지 않게"
+    },
+    {
+      "surface": "סור",
+      "gloss": "치우치지"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것으로부터"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른쪽이나"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "그리고 왼쪽으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:12:18.015088728Z",
+  "model": "glm-5.2"
+}

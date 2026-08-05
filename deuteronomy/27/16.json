@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "저주를 받을 자는 자기 아버지와 어머니를 가볍게 여기는 자이다. 그리고 온 백성이 아멘 하리라.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받을"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "가볍게 여기는"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "어머니"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 말하리라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:33.928894005Z",
+  "model": "glm-5.2"
+}

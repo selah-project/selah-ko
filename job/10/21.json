@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "내가 가고 돌아오지 아니하기 전에, 어둠과 죽음의 그림자의 땅으로",
+  "tokens": [
+    {
+      "surface": "בְּטֶ֣רֶם",
+      "gloss": "～하기 전에"
+    },
+    {
+      "surface": "אֵ֭לֵךְ",
+      "gloss": "내가 가고"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "אָשׁ֑וּב",
+      "gloss": "돌아오지"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "～로"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "חֹ֣שֶׁךְ",
+      "gloss": "어둠"
+    },
+    {
+      "surface": "וְצַלְמָֽוֶת",
+      "gloss": "죽음의 그림자"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:55.077368522Z",
+  "model": "glm-5.2"
+}

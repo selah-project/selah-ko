@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "나의 죄악들이 나의 머리를 넘어섰다. 무거운 짐처럼 그것들이 나에게 너무 무겁다.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "עֲ֭וֺנֹתַי",
+      "gloss": "나의 죄악들이"
+    },
+    {
+      "surface": "עָבְר֣וּ",
+      "gloss": "넘어섰다"
+    },
+    {
+      "surface": "רֹאשִֽׁי",
+      "gloss": "나의 머리를"
+    },
+    {
+      "surface": "כְמַשָּׂ֥א",
+      "gloss": "짐처럼"
+    },
+    {
+      "surface": "כָּבֵ֗ד",
+      "gloss": "무거운"
+    },
+    {
+      "surface": "יִכְבְּד֥וּ",
+      "gloss": "무겁다"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "나에게 너무"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:26.131474625Z",
+  "model": "glm-5.2"
+}

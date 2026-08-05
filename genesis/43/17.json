@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그 사람은 요셉이 말한 대로 행하였고, 그 사람은 그 사람들을 요셉의 집 안으로 데려왔다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람은"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~대로"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말한"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "데려왔다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람들을"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들을"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "집 안으로"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:16.282938173Z",
+  "model": "glm-5.2"
+}

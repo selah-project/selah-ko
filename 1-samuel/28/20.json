@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 28:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "샤울이 급히 땅에 엎드러지니, 그의 온 키가 땅에 닿았다. 그가 사무엘의 말들 때문에 크게 두려워하였다. 그에게 힘이 없었으니, 이는 그가 온 종일과 온 밤에 빵을 먹지 못했기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "급히"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "엎드러지니"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "온"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "그의 키가"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "두려워하였다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    },
+    {
+      "surface": "מדברי",
+      "gloss": "말들 때문에"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "사무엘의"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "כח",
+      "gloss": "힘이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없었으니"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "… 때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못했기"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹지"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:03.075013858Z",
+  "model": "glm-5.2"
+}

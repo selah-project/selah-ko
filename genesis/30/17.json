@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "엘로힘이 ⟨아\/에게⟩ 레아를 들어주시니, 그녀가 임신하고 야곱에게 다섯째 아들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "들어주시니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨아\/에게⟩"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "레아를"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "임신하고"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "야곱에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "다섯째"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:23.419737665Z",
+  "model": "glm-5.2"
+}

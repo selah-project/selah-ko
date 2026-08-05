@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 너는 이 백성에게 말할 것이다. 야훼께서 이같이 말씀하신다. 보라, 내가 너희 앞에 ⟨את⟩ 생명의 길과 ⟨את⟩ 사망의 길을 두노라.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 … 에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "너는 말할 것이다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "내가 두노라"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "너희 앞에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "길"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "생명의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "길"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "המות",
+      "gloss": "사망의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:57:05.457981249Z",
+  "model": "glm-5.2"
+}

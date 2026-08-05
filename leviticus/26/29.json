@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "너희가 너희 아들들의 살을 먹고, 너희 딸들의 살을 먹으리라.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "너희가 먹고"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "살을"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "너희 아들들의"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "그리고 살을"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "너희 딸들의"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희가 먹으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:54.980123972Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "엘로힘, 의로운 심판자이시다. 그리고 엘이시다, 매일 진노하시는.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "심판자이시다"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 엘이시다"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "진노하시는"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "매일"
+    },
+    {
+      "surface": "יום",
+      "gloss": "마다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:43.997860217Z",
+  "model": "glm-5.2"
+}

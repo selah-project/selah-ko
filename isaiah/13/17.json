@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "보라, 내가 그들 위에 ⟨את⟩ 마대(미디아)를 일으키리니, 그들은 은을 헤아리지 않고, 금을 기뻐하지 아니한다.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "일으키리니"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "마대(미디아)"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "마대(미디아)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "헤아리지"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "금을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "기뻐하지"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:28.530512321Z",
+  "model": "glm-5.2"
+}

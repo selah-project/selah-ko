@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "이것들이 길르앗의 아들들이다 — 이에셀에게 이에셀 가문이요, 헬렉에게 헬렉 가문이다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이다"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길르앗의"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "이에셀에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문이요"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "이에셀"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "헬렉에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문이다"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "헬렉"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:17.583601759Z",
+  "model": "glm-5.2"
+}

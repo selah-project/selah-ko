@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그녀가 그들을 밧줄로 창문을 통하여 내려 보내니, 그녀의 집이 성벽 가운데 있었기 때문이다. 그녀는 성벽 안에 살고 있었다.",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "그녀가 그들을 내려 보내다"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "밧줄로"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "∼를 통하여"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "그 창문"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "그녀의 집"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "벽 가운데"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "그 성벽"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "그리고 그 성벽 안에"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "살고 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:05:04.598198881Z",
+  "model": "glm-5.2"
+}

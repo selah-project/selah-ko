@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "보라, 그들이 그 입에서 쏟아내니 — 그 입술에는 검들이, \"대체 누가 듣고 있는가?\"",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "그들이 쏟아내니"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "그 입에서"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "검들이"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "그 입술에는"
+    },
+    {
+      "surface": "כי",
+      "gloss": "\""
+    },
+    {
+      "surface": "מי",
+      "gloss": "대체 누가"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "듣고 있는가?\""
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:05.535684681Z",
+  "model": "glm-5.2"
+}

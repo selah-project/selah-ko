@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그들이 나에게 악을 갚았으니 좋음 대신에, 그리고 미움이 ⟨왔으니⟩ 나의 사랑 대신에.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "그들이 두었다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "좋음"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "그리고 미움이"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "나의 사랑"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:49.718318212Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 97,
+  "translation": "하늘이 ⟨그의⟩ 의를 선포하였고, 모든 백성이 ⟨그의⟩ 영광을 보았다.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "선포하였고"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘이"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "⟨그의⟩ 의를"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨그의⟩ 영광을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:46.306269918Z",
+  "model": "glm-5.2"
+}

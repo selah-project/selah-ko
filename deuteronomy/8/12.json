@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "…하지 말라, 네가 먹어 배부르며 좋은 집들을 짓고 그 안에 거주할 때.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "네가 먹어"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "배부르며"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "집들을"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "네가 짓고"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "거주할 때"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:10.457717107Z",
+  "model": "glm-5.2"
+}

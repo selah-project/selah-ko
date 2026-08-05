@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 146,
+  "translation": "야훼는 ⟨את⟩ 나그네들을 지키시며, 고아와 과부를 붙드시나, 악인들의 길은 굽게 하신다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지키시며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나그네들을"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "나그네들을"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "고아와"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "과부를"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "붙드시나"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "길은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "굽게 하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:27.018205858Z",
+  "model": "glm-5.2"
+}

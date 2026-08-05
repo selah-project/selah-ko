@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "야훼의 진노가 아마츠야후에게 향하셨다. 그가 그에게 나비를 보내시니, 그가 그에게 말하였다. \"어찌하여 네가 ⟨את⟩ 그 백성의 엘로힘을 구하였느냐 — 그 백성을 ⟨את⟩ 그 백성의 손에서 구해내지 못한 것들이냐?\"",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "…가 향하셨다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "진노가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "아마츠야후에게"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내시니"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "나비를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "구하였느냐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성의 엘로힘을"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것들이냐"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못한"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "구해내지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성을"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "그 백성을"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "네 손에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:00:30.231454674Z",
+  "model": "glm-5.2"
+}

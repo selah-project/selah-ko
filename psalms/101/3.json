@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 101,
+  "translation": "나는 벨리야알의 일을 내 눈앞에 두지 아니하리니, ⟨그⟩ 배신하는 자들의 행위를 내가 미워하였사옵니다 — 그것이 내게 붙지 아니하리이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하리니"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "두지"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "벨리야알의"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨그⟩ 행위를"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "배신하는 자들의"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "미워하였사옵니다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하리이다"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "붙지"
+    },
+    {
+      "surface": "בי",
+      "gloss": "내게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:25.322938819Z",
+  "model": "glm-5.2"
+}

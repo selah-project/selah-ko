@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "아무 민족에게도 이같이 하지 아니하셨다. 그리고 그의 법도들을 그들은 알지 못하였다. 야를 찬양하라.",
+  "tokens": [
+    {
+      "surface": "לֹ֘א",
+      "gloss": "아니하셨다"
+    },
+    {
+      "surface": "עָ֤שָׂה",
+      "gloss": "하"
+    },
+    {
+      "surface": "כֵ֨ן",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "아무"
+    },
+    {
+      "surface": "גּ֗וֹי",
+      "gloss": "민족에게도"
+    },
+    {
+      "surface": "וּמִשְׁפָּטִ֥ים",
+      "gloss": "그리고 법도들을"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יְדָע֗וּם",
+      "gloss": "그들은 알지 못하였다"
+    },
+    {
+      "surface": "הַלְל֣וּ",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "야를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:53.210524103Z",
+  "model": "glm-5.2"
+}

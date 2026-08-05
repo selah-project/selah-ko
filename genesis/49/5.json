@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "시므온과 레위는 형제다, 폭력의 기구들이 그들의 칼이다.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וֹן",
+      "gloss": "시므온"
+    },
+    {
+      "surface": "וְלֵוִ֖י",
+      "gloss": "그리고 레위는"
+    },
+    {
+      "surface": "אַחִ֑ים",
+      "gloss": "형제들"
+    },
+    {
+      "surface": "כְּלֵ֥י",
+      "gloss": "기구들"
+    },
+    {
+      "surface": "חָמָ֖ס",
+      "gloss": "폭력의"
+    },
+    {
+      "surface": "מְכֵרֹתֵיהֶֽם",
+      "gloss": "그들의 칼"
+    }
+  ],
+  "timestamp": "2026-08-05T07:45:14.049445934Z",
+  "model": "glm-5.2"
+}

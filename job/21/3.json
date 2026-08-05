@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 21:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "나를 참아 달라, 그러면 내가 말하겠다, 그리고 내가 말한 후에 ⟨너희는⟩ 비웃어도 좋다.",
+  "tokens": [
+    {
+      "surface": "שאוני",
+      "gloss": "나를 참아 달라"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "그러면 나는"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "말하겠다"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "그리고 후에"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "나의 말함"
+    },
+    {
+      "surface": "תלעיג",
+      "gloss": "비웃어도 좋다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:53.729221275Z",
+  "model": "glm-5.2"
+}

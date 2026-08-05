@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 9:1",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그가 내 귀에 큰 음성으로 외쳐 말씀하시었다. \"그 성읍의 벌들이 가까이 오고 있다. 각자 ⟨그⟩ 파멸의 기구를 손에 들고.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그가 외쳐 부르시었다"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "내 귀에"
+    },
+    {
+      "surface": "קול",
+      "gloss": "음성으로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하시기를"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "가까이 왔다"
+    },
+    {
+      "surface": "פקדות",
+      "gloss": "벌들이"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성읍의"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 각자"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "기구를"
+    },
+    {
+      "surface": "משחתו",
+      "gloss": "파멸의"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "손에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:50:30.451232986Z",
+  "model": "glm-5.2"
+}

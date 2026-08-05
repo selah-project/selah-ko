@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "이들이 셈의 아들들이니, 그들의 씨족별로, 그들의 언어별로, 그들의 땅에서, 그들의 민족별로.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이니"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈의"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "그들의 씨족별로"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "그들의 언어별로"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "그들의 땅에서"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "그들의 민족별로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:37.517176645Z",
+  "model": "glm-5.2"
+}

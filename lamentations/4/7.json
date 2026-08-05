@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그녀의 나지르인들은 눈보다 맑았고, 젖보다 희었다. 그들의 뼈는 진주보다 붉었고, 그들의 형상은 사파이어 같았다.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "맑았고"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "그녀의 나지르인들은"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "눈보다"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "희었다"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "젖보다"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "붉었다"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "뼈는"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "진주보다"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "사파이어"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "그들의 형상은"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:17.154823734Z",
+  "model": "glm-5.2"
+}

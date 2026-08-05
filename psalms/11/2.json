@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "대저 보라, 악인들이 활을 당기니, 그들이 그들의 화살을 시위 위에 벌려 놓았다, 마음이 바른 자들을 어둠 속에서 쏘려고",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "악인들이"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "당기니"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "활을"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "벌려 놓았다"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "그들의 화살을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "시위"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "쏘려고"
+    },
+    {
+      "surface": "במו",
+      "gloss": "속에서"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "어둠"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "바른 자들을"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:53.977214490Z",
+  "model": "glm-5.2"
+}

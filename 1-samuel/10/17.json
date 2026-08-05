@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 쉐무엘이 ⟨את⟩ 그 백성을 야훼께로 미츠파에 소집하셨다.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "그리고 소집하셨다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "쉐무엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "미츠파에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:13:24.111507324Z",
+  "model": "glm-5.2"
+}

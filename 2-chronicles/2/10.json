@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "투르 왕 후람이 글로 ⟨쉴라모⟩에게 보내어 이르되, 야훼께서 ⟨את⟩ 그의 백성을 사랑하시므로 당신을 그들의 왕으로 세우셨도다",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "후람이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "צר",
+      "gloss": "투르의"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "글로"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내었다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "쉴라모"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "사랑하시므로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 백성을"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성을"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "당신을 세우셨도다"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들의"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:48.384125324Z",
+  "model": "glm-5.2"
+}

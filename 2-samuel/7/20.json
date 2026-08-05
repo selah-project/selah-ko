@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 다윗이 당신에게 더하여 무엇을 말하겠습니까? 당신은 ⟨את⟩ 당신의 종을 아십니다, 아도나이 야훼여.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "그리고 무엇을"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "더하여"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "말하겠습니까"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아십니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종을"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종을"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:33.634794516Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "나는 돌이켜 ⟨את⟩ 모든 억압들을 보았다 — 그것들은 해 아래에서 저질러지는 것들이다. 보라, 억압받는 자들의 눈물인데, ⟨그들에게⟩ 위로하는 이가 없다. 그리고 그들의 억압하는 자들의 손에서 힘이 ⟨나오는데⟩, ⟨그들에게⟩ 위로하는 이가 없다.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "나는 돌이켜"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "억압들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "저질러지는"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에서"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "눈물인데"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "억압받는 자들의"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "위로하는 이가"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "그리고 …손에서"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "그들의 억압하는 자들의"
+    },
+    {
+      "surface": "כח",
+      "gloss": "힘이"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "위로하는 이가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:02.343552321Z",
+  "model": "glm-5.2"
+}

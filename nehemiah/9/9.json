@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨그대⟩는 미츠라임에서 우리 조상들의 ⟨את⟩ 고난을 보셨고, 갈대 바다 위에서 그들의 ⟨את⟩ 부르짖음을 들으셨다.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "보셨고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "고난"
+    },
+    {
+      "surface": "עני",
+      "gloss": "고난"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "우리 조상들의"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "부르짖음"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "부르짖음"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "들으셨다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "갈대"
+    }
+  ],
+  "timestamp": "2026-08-05T12:37:37.237722932Z",
+  "model": "glm-5.2"
+}

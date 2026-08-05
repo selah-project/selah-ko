@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "엘로힘으로 말미암아 우리가 용맹을 행하리니, 그가 우리의 적들을 짓밟으실 것이다.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "엘로힘으로 말미암아"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "우리가 행하리니"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "용맹을"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "짓밟으실 것이다"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "우리의 적들을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:49.591437070Z",
+  "model": "glm-5.2"
+}

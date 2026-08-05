@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 너는 층계로 내 제단에 올라가서는 안 된다. 네가 그 위에서 네 벗은 것이 드러나지 않도록 ⟨하기 위해서⟩이다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "네가 올라가서는 안 된다"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "층계로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "내 제단의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "드러나야 할"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "네 벗은 것이"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:23.781360321Z",
+  "model": "glm-5.2"
+}

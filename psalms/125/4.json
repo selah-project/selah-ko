@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 125,
+  "translation": "야훼여, 선한 자들에게 선을 베푸시고, 그들의 마음이 곧은 자들에게도.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "선을 베푸시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "선한 자들에게"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "곧은 자들에게도"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "그들의 마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:16.579539292Z",
+  "model": "glm-5.2"
+}

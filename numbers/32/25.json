@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 32:25",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "가드의 아들들과 르우벤의 아들들이 모셰에게 말하였다. \"당신의 종들이 당신의 주인께서 명령하시는 대로 하겠습니다.\"라고 하며",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "גד",
+      "gloss": "가드의"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "그리고 아들들이"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "르우벤의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "당신의 종들이"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "하겠습니다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~하는 대로"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "당신의 주인께서"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "명령하시는"
+    }
+  ],
+  "timestamp": "2026-08-05T17:24:38.286847809Z",
+  "model": "glm-5.2"
+}

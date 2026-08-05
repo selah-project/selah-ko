@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 132,
+  "translation": "만일 내가 내 집 천막에 들어가고, 만일 내가 내 침상 위로 올라가면 —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "들어가고"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "천막에"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "내 집"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "올라가면"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "침상"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "내"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:45.635613384Z",
+  "model": "glm-5.2"
+}

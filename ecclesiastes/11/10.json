@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 분노를 네 마음에서 옮기고, 악을 네 살에서 멀리 하라. 왜냐하면 어린 시절과 검은 머리도 허블이다.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "그리고 옮기고"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "분노를"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "네 마음에서"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "그리고 멀리 하라"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "네 살에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "어린 시절과"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "검은 머리도"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "허블이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:40.920417349Z",
+  "model": "glm-5.2"
+}

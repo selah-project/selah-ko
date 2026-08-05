@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그것을 피하고, 거기를 지나가지 말며, 우회하여라, 그 위를 벗어나, 그리고 지나가라.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "그것을 피하고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말며"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "지나가"
+    },
+    {
+      "surface": "בו",
+      "gloss": "거기를"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "우회하여라"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "그 위를 벗어나"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "그리고 지나가라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:13.733392785Z",
+  "model": "glm-5.2"
+}

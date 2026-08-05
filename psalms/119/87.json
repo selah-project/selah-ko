@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "거의 그들이 땅에서 나를 진멸하였다 — 그러나 나는 ⟨그⟩대의 훈계들을 버리지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "거의"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "그들이 나를 진멸하였다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "그러나 나는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "버리지"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "훈계들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:55.962689703Z",
+  "model": "glm-5.2"
+}

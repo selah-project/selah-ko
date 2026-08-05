@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "내가 기다렸으니 — 그들이 말하지 아니하고, 멈춰 서서 더 대답하지 않았기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וְ֭הוֹחַלְתִּי",
+      "gloss": "내가 기다렸으니"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "יְדַבֵּ֑רוּ",
+      "gloss": "그들이 말하지"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עָ֝מְד֗וּ",
+      "gloss": "멈춰 서서"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니했다"
+    },
+    {
+      "surface": "עָ֥נוּ",
+      "gloss": "대답하지"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "더"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:41.961117955Z",
+  "model": "glm-5.2"
+}

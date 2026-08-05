@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 137,
+  "translation": "버들 위에, ⟨그것⟩ 한가운데에 우리의 수금들을 걸었노라.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "버들"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "한가운데에"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "우리가 걸었다"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "우리의 수금들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:24.648780007Z",
+  "model": "glm-5.2"
+}

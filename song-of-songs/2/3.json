@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "숲의 나무들 사이의 사과나무 같이, 그와 같이 내 사랑은 아들들 사이에 있다. ⟨그⟩의 그림자 아래서 내가 탐내었고 ⟨내가⟩ 앉았으며, ⟨그⟩의 열매는 내 입천장에 달다.",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "사과나무 같이"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "나무들 사이의"
+    },
+    {
+      "surface": "היער",
+      "gloss": "숲의"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "내 사랑은"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "그림자 아래서"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "탐내었고"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "앉았으며"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "열매는"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "달다"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "내 입천장에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:27.732547583Z",
+  "model": "glm-5.2"
+}

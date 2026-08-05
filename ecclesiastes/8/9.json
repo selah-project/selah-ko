@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "⟨את⟩ 이 모든 것을 내가 보았고, ⟨את⟩ 내 마음을 모든 행위에 기울였다 — 태양 아래 행해지는 것, 곧 사람이 사람 위에 다스리어 그에게 해가 되는 때를.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았고"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "기울였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 마음을"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음을"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든 …에"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "행위에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "행해지는"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "태양"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "다스리어"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람 위에"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "해가 되는"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:34.007413198Z",
+  "model": "glm-5.2"
+}

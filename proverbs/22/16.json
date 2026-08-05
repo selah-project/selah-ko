@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "가난한 자를 억압하여 자신을 부유하게 하는 자, 부자에게 주는 자도 오직 궁핍을 위할 뿐이다.",
+  "tokens": [
+    {
+      "surface": "עֹ֣שֵֽׁק",
+      "gloss": "억압하여"
+    },
+    {
+      "surface": "דָּ֭ל",
+      "gloss": "가난한 자를"
+    },
+    {
+      "surface": "לְהַרְבּ֣וֹת",
+      "gloss": "부유하게 하는"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "자신을"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "주는 자도"
+    },
+    {
+      "surface": "לְ֝עָשִׁ֗יר",
+      "gloss": "부자에게"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "오직"
+    },
+    {
+      "surface": "לְמַחְסֽוֹר",
+      "gloss": "궁핍을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:38.771468107Z",
+  "model": "glm-5.2"
+}

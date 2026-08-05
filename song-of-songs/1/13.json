@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "나의 도다리는 나에게 몰 주머니, 내 가슴들 사이에서 그가 머무신다.",
+  "tokens": [
+    {
+      "surface": "צְרוֹר",
+      "gloss": "주머니"
+    },
+    {
+      "surface": "הַמֹּר",
+      "gloss": "몰"
+    },
+    {
+      "surface": "דוֹדִי",
+      "gloss": "나의 도다리는"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "사이에서"
+    },
+    {
+      "surface": "שָׁדַי",
+      "gloss": "내 가슴들"
+    },
+    {
+      "surface": "יָלִין",
+      "gloss": "그가 머무신다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:44.249525353Z",
+  "model": "glm-5.2"
+}

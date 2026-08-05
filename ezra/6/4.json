@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "굴린 돌 층 세 줄과 새 나무 한 줄. 그리고 비용은 왕의 집에서 주어질 것이다.",
+  "tokens": [
+    {
+      "surface": "נִדְבָּכִ֞ין",
+      "gloss": "층"
+    },
+    {
+      "surface": "דִּי",
+      "gloss": "…의"
+    },
+    {
+      "surface": "אֶ֤בֶן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "גְּלָל֙",
+      "gloss": "굴린"
+    },
+    {
+      "surface": "תְּלָתָ֔א",
+      "gloss": "세"
+    },
+    {
+      "surface": "וְנִדְבָּ֖ךְ",
+      "gloss": "그리고 … 한 줄"
+    },
+    {
+      "surface": "דִּי",
+      "gloss": "…의"
+    },
+    {
+      "surface": "אָ֣ע",
+      "gloss": "나무"
+    },
+    {
+      "surface": "חֲדַ֑ת",
+      "gloss": "새"
+    },
+    {
+      "surface": "וְנִפְקְתָ֔א",
+      "gloss": "그리고 비용은"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "집"
+    },
+    {
+      "surface": "מַלְכָּ֖א",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "תִּתְיְהִֽב",
+      "gloss": "주어질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:31:52.551673509Z",
+  "model": "glm-5.2"
+}

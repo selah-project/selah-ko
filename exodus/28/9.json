@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 너는 ⟨את⟩ 두 숏햄 돌을 취하고, 그것들 위에 이스라엘 아들들의 이름을 새기려니와",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "그리고 너는 취하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 숏햄 돌을"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "돌"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "숏햄"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "그리고 너는 새기려니와"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그것들 위에"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:50.929843304Z",
+  "model": "glm-5.2"
+}

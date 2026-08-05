@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그들이 말하였다. \"그가 ⟨את⟩ 우리 자매를 창녀처럼 대하여야 한단 말인가?\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "창녀처럼"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "대하여야 한단 말인가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리 자매를"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "우리 자매를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:57.362748415Z",
+  "model": "glm-5.2"
+}

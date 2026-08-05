@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "야훼께서 이스라엘에 전염병을 주시니, 아침부터 정해진 때까지였다. 백성 중에서 단부터 브엘-셰바까지 칠만 명이 죽었다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "전염병을"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "아침부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "정해진"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성 중에서"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "단"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "באר",
+      "gloss": "브엘-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "칠만"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "명"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:45:13.018734297Z",
+  "model": "glm-5.2"
+}

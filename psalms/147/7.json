@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "감사로 야훼께 응답하라, 수금으로 우리 엘로힘께 노래하라.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "응답하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "감사로"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "우리 엘로힘께"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "수금으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:11.107754033Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "므라리의 아들들을 그들의 가족별로, 그들의 조상의 집별로 네가 ⟨את⟩ 그들을 점검하라.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "므라리"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "그들의 가족별로"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집별로"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "그들의 조상의"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "네가 점검하라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    }
+  ],
+  "timestamp": "2026-08-05T08:29:31.335792345Z",
+  "model": "glm-5.2"
+}

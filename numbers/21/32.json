@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "모셰가 정탐을 보내어 ⟨את⟩ 야아제르를 살피게 하였더니, 그들이 ⟨그⟩ 딸들(마을들)을 점령하고, 거기에 있던 아모리를 ⟨את⟩ 쫓아내어 차지하였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "정탐을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야아제르를"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "야아제르"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "점령하고"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "그 딸들(마을들)을"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "쫓아내어 차지하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아모리를"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "있던"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:40:49.532523956Z",
+  "model": "glm-5.2"
+}

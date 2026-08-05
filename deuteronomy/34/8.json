@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 이스라엘의 아들들이 모아브 평원에서 ⟨את⟩ 모셰를 위해 삼십 일 동안 울었다. 그리고 모셰를 위한 울며 애도하는 날들이 끝이 났다.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "그리고 울었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰를"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰를"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "평원에서"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "그리고 끝이 났다"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "울며"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "애도하는"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰를 위한"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:45.490656163Z",
+  "model": "glm-5.2"
+}

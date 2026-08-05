@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "\"나의 마쉬아흐들을 만지지 말며, 나의 나비들에게 악행하지 말라.\"",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "～하지 말라"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "만지지"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "나의 마쉬아흐들을"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "그리고 나의 나비들에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～하지 말라"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "악행하지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:26.123582338Z",
+  "model": "glm-5.2"
+}

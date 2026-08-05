@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "보라, 내가 ⟨את⟩ 카스딤을 일으키신다 — 그 쓰고 성급한 민족을, 땅의 넓은 곳들을 걸어, ⟨그⟩ 자기 것이 아닌 거처들을 차지하러.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "일으키신다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "카스딤을"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "카스딩을"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "민족을"
+    },
+    {
+      "surface": "המר",
+      "gloss": "그 쓰고"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "그리고 성급한"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "걸어"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "넓은 곳들을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "차지하러"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "거처들을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닌"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:25.555428035Z",
+  "model": "glm-5.2"
+}

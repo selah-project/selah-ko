@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 그 상을 만남의 텐트에, 미쉬칸의 북쪽 측면에, 파로켓 바깥에 놓았다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "놓았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 상을"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "그 상을"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "텐트에"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "측면"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "그 미쉬칸의"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "북쪽으로"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "바깥에"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "그 파로켓"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:33.812418046Z",
+  "model": "glm-5.2"
+}

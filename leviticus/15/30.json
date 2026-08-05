@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "코헨은 ⟨את⟩ 하나를 죄헌물로, 그리고 ⟨את⟩ 하나를 올라로 드려야 한다. 코헨은 야훼 앞에서 ⟨그녀⟩를 위하여 속하여야 한다 — ⟨그것은⟩ ⟨그녀의⟩ 부정한 유출 때문이다.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 드려야 한다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하나를"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나를"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "죄헌물로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하나를"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나를"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라로"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "그리고 속하여야 한다"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그녀를 위하여"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨은"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "유출로부터"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "그녀의 부정의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:09.320201711Z",
+  "model": "glm-5.2"
+}

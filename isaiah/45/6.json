@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "해 뜨는 곳에서부터 그리고 해 지는 곳에서부터 그들이 알게 하려는 것이다 — 나 외에는 아무것도 없음을. 나는 야훼이며, 그 밖에는 없다.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "하기 위해서"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "그들이 알"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "해 뜨는 곳에서부터"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "그리고 해 지는 곳에서부터"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "아무것도 없음이"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "나 외에는"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이며"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "그 밖에는"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:57.009097319Z",
+  "model": "glm-5.2"
+}

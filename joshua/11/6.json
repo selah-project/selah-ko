@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 11:6",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "야훼께서 여호수아에게 말씀하셨다. \"그들의 앞에서 두려워하지 말라. 내일 이 시각에 내가 ⟨את⟩ 그들 모두를 이스라엘 앞에서 살육된 자로 내어주리니, ⟨את⟩ 그들의 말은 뒷발힘줄을 끊고 ⟨את⟩ 그들의 병거는 불로 태우라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "두려워"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "그들의 앞에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "…에"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이 시각"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "내어주리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들 모두"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "그들 모두"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "살육된 자로"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 말"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "그들의 말"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "뒷발힘줄을 끊고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그들의 병거"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "그들의 병거"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "태우라"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:08:46.143864982Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 아브라함이 ⟨את⟩ 그의 손을 내밀고, ⟨את⟩ 그 칼을 취하였다 — ⟨את⟩ 그의 아들을 잡으려고.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "내밀고"
+    },
+    {
+      "surface": "아ברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 손을"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "취하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 칼을"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "그 칼"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "잡으려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들을"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:55.096320476Z",
+  "model": "glm-5.2"
+}

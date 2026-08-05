@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "야훼께서 네 땅의 ⟨את⟩ 비를 먼지와 흙으로 주시되, 하늘에서 내려 네가 멸절될 때까지 네 위에 내리게 하시리라.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "주시되"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "비를"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "비를"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "네 땅의"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "먼지와"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "흙으로"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "내려"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "네 위에"
+    },
+    {
+      "surface": "עד",
+      "gloss": "때까지"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "네가 멸절될"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:49.515535977Z",
+  "model": "glm-5.2"
+}

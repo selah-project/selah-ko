@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "호위병들이 각자 자기 무기를 손에 들고 서니, 집의 오른쪽 어깨에서부터 집의 왼쪽 어깨까지, 제단과 집을 따라, 왕을 둘러싸고 있었다.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "서니"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "호위병들이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "자기 무기를"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "손에 들고"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "…에서부터"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "어깨"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "왼쪽"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "어깨"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을 둘러싸고"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘러"
+    }
+  ],
+  "timestamp": "2026-08-05T13:51:53.742632134Z",
+  "model": "glm-5.2"
+}

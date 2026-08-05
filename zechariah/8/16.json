@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이것들이 너희가 행할 그 말씀들이다 — 각 사람 ⟨이⟩ ⟨그⟩ 이웃과 진실을 말하라, 진실과 샬롬의 ⟨그⟩ 판단을 너희 성문에서 판결하라.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "그 말씀들이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "행할"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "진실을"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각 사람"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 이웃"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "이웃과"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "진실과"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "그리고 ⟨그⟩ 판단을"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬의"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "판결하라"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "너희 성문에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:19:49.309083270Z",
+  "model": "glm-5.2"
+}

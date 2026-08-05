@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "홀로 큰 기이한 일들을 행하시는 분께, 그의 헤세드는 영원하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "행하시는 분께"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "기이한 일들을"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "큰"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:10.168799095Z",
+  "model": "glm-5.2"
+}

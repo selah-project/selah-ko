@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "깋 약홰가 제 귀를 기울이셨으므로, 제 날들에 부르리다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "기울이셨으므로"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "그의 귀"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "그리고 제 날들에"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "부르리다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:57.372182726Z",
+  "model": "glm-5.2"
+}

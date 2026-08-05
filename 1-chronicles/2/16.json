@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 2:16",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그들의 자매는 츠루야와 아비가일이다. 그리고 츠루야의 아들들은 아비새와 요아브와 아사엘이다, 셋이다.",
+  "tokens": [
+    {
+      "surface": "ואחיתיהם",
+      "gloss": "그들의 자매는"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "츠루야와"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "아비가일이다"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "그리고 아들들은"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "츠루야의"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "아비새와"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "요아브와"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 아사엘이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "아사엘"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "셋이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:31.319337269Z",
+  "model": "glm-5.2"
+}

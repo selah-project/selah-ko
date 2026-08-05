@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "다만 동산 한가운데 있는 그 나무의 열매에 대해서는, 엘로님이 말씀하셨다. \"너희가 그것에서 먹지 말고, 그것을 만지지도 말아라, 두려워하다 너희가 죽을까 하여.\"",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "그러나 열매"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "그 나무의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩을"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "∼가운데 있는"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "동산"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로님이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희가 먹으리"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "에서 그것"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "너희가 만지리"
+    },
+    {
+      "surface": "בו",
+      "gloss": "에서 그것"
+    },
+    {
+      "surface": "פן",
+      "gloss": "두려워하다"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "너희가 죽을까"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:45.563258698Z",
+  "model": "glm-5.2"
+}

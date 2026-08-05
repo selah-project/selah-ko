@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "바위에서 흐르는 것들을 내게 하시고, 물을 강들 같이 흘러내리게 하셨다.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "내게 하시고"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "흐르는 것들을"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "바위에서"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "흘러내리게 하셨다"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "강들 같이"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:23.287943085Z",
+  "model": "glm-5.2"
+}

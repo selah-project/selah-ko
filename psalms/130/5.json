@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 130,
+  "translation": "나는 야훼를 기다렸다, 나의 네페쉬가 기다렸다, 그리고 ⟨그⟩의 말씀을 ⟨나는⟩ 바라았다.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "나는 기다렸다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "기다렸다"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬가"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "그리고 ⟨그⟩의 말씀을"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "⟨나는⟩ 바라았다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:21.301190509Z",
+  "model": "glm-5.2"
+}

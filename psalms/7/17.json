@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그의 악한 수고가 그의 머리로 돌아가며, 그의 폭력이 그의 정수리 위로 내려온다.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "돌아가며"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "그의 악한 수고가"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "그의 머리로"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "위로"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "그의 정수리"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "그의 폭력이"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "내려온다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:14.597115635Z",
+  "model": "glm-5.2"
+}

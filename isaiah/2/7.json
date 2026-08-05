@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그의 땅이 은과 금으로 가득하고, 그의 보물 창고에 끝이 없으며, 그의 땅이 말들로 가득하고, 그의 병거들에 끝이 없다.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "그리고 … 가득 찼다"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "그의 땅이"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은과"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 … 없다"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "끝이"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "그의 보물 창고에"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "그리고 … 가득 찼다"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "그의 땅이"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "말들로"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 … 없다"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "끝이"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "그의 병거들에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:57.004869794Z",
+  "model": "glm-5.2"
+}

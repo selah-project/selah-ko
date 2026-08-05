@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 그는 보았고, 일어나 ⟨그의⟩ 네페쉬를 위해 걸어가, 유다에 속한 브엘셰바에 이르러 ⟨את⟩ ⟨그의⟩ 사환을 그곳에 머물게 하였다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "그리고 그는 보았고"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "걸어가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…를 향해"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨그의⟩ 네페쉬"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "이르러"
+    },
+    {
+      "surface": "באר",
+      "gloss": "브엘"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "유다에 속한"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "머물게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨그의⟩ 사환"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "⟨그의⟩ 사환"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:27.723494471Z",
+  "model": "glm-5.2"
+}

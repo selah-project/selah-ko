@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "obadiah 1:14",
+  "book": "obadiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨그⟩ 갈라진 곳에 서지 말아라 — ⟨그의⟩ 도망자들을 끊어버리려고. 그리고 ⟨그의⟩ 생존자들을 넘겨주지 말아라 — 고난의 날에.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 말아라"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "서지"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "הפרק",
+      "gloss": "갈라진 곳"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "끊어버리려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 도망자들을"
+    },
+    {
+      "surface": "פליטיו",
+      "gloss": "그의 도망자들을"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 말아라"
+    },
+    {
+      "surface": "תסגר",
+      "gloss": "넘겨주지"
+    },
+    {
+      "surface": "שרידיו",
+      "gloss": "그의 생존자들을"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "고난의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:45.055400765Z",
+  "model": "glm-5.2"
+}

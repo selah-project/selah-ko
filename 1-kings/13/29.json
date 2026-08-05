@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 13:29",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "나비가 ⟨את⟩ 엘로힘의 사람의 시신을 들어 올려 나귀에게로 가져가고 그를 데려왔다. 그리하여 그가 늙은 나비의 성읍으로 들어가서 애도하고 그를 장사하였다.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "들어 올려"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘의 사람의 시신"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "시신"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "그를 … 에 눕혀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… 에게로"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "나귀"
+    },
+    {
+      "surface": "וישיבהו",
+      "gloss": "그를 데려왔다"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어가서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… 으로"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비의"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "늙은"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "애도하고"
+    },
+    {
+      "surface": "ולקברו",
+      "gloss": "그를 장사하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:51:30.801679015Z",
+  "model": "glm-5.2"
+}

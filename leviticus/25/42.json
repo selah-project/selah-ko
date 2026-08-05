@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "왜냐하면 그들은 내 종들이기 때문이다 — 내가 ⟨את⟩ 그들을 미츠라임 땅에서 이끌어냈기 때문이다; 종의 매매로 팔리지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "עֲבָדַ֣י",
+      "gloss": "나의 종들이"
+    },
+    {
+      "surface": "הֵ֔ם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוֹצֵ֥אתִי",
+      "gloss": "내가 이끌어냈다"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יִמָּכְר֖וּ",
+      "gloss": "팔리리라"
+    },
+    {
+      "surface": "מִמְכֶּ֥רֶת",
+      "gloss": "매매로"
+    },
+    {
+      "surface": "עָֽבֶד",
+      "gloss": "종의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:24:24.119600994Z",
+  "model": "glm-5.2"
+}

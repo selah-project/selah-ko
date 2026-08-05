@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 ⟨만약⟩ 구름이 올라가지 아니하면, 그들이 떠나지 아니하였으니, 그것이 올라가는 날까지였다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 ⟨만약⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "올라가"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "그 구름이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하였으니"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지였다"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "그것이 올라가는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:39.584932917Z",
+  "model": "glm-5.2"
+}

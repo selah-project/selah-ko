@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "낙이 어리석은 자에게 어울리지 아니하며 — 하물며 종이 통치자들을 다스림에 있어서랴.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "어울리다"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "어리석은 자에게"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "낙이"
+    },
+    {
+      "surface": "אף",
+      "gloss": "하물며"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "종에게"
+    },
+    {
+      "surface": "משל",
+      "gloss": "다스리다"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "통치자들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:48.541640799Z",
+  "model": "glm-5.2"
+}

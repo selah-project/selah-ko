@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 ⟨את⟩ 아인과 ⟨את⟩ 그것의 목초지를, 그리고 ⟨את⟩ 유타와 ⟨את⟩ 그것의 목초지를, ⟨את⟩ 벳-셰메쉬와 ⟨את⟩ 그것의 목초지를 — ⟨이⟩ 두 지파로부터 아홉 도시이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨아ת⟩",
+      "marks": "아인"
+    },
+    {
+      "surface": "עין",
+      "gloss": "아인"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨아ת⟩",
+      "marks": "그것의 목초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 목초지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨아ת⟩",
+      "marks": "유타"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "유타"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨아ת⟩",
+      "marks": "그것의 목초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 목초지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "벳-셰메쉬"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "셰메쉬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨아ת⟩",
+      "marks": "그것의 목초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 목초지"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "도시들"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "아홉"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "…로부터"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "지파"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:11:04.347687820Z",
+  "model": "glm-5.2"
+}

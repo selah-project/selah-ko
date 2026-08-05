@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "구름이 사라져 가버리듯, 셰올로 내려가는 ⟨자⟩는 올라오지 못한다.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "사라져"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "구름이"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가버리듯"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "내려가는"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "셰올로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "올라오지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:32.110660952Z",
+  "model": "glm-5.2"
+}

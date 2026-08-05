@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "책망을 자주 받으면서도 목덜미를 굳게 하는 사람, 갑자기 부서지리니 치료함이 없다.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "책망들을"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "굳게 하는"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "목덜미를"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "갑자기"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "부서지리니"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "치료함이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:13.804391294Z",
+  "model": "glm-5.2"
+}

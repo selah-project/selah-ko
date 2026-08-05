@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 21:21",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그가 ⟨그⟩ 아버지가 걸었던 모든 길을 걸었고, ⟨그⟩ 아버지가 섬기던 ⟨את⟩ 그 길룰림들을 섬겼으며, 그것들에게 절하였다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "걸었고"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…가"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걸었던"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "섬겼으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 길룰림들을"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "길룰림들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…가"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "섬기던"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "절하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그것들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:45.027397563Z",
+  "model": "glm-5.2"
+}

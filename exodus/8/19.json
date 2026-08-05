@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 나는 내 백성과 네 백성 사이에 구원을 둘 것이라 — 내일 이 표적이 있으리라.",
+  "tokens": [
+    {
+      "surface": "וְשַׂמְתִּ֣י",
+      "gloss": "그리고 나는 … 둘 것이라"
+    },
+    {
+      "surface": "פְדֻ֔ת",
+      "gloss": "구원을"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "עַמִּ֖י",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "וּבֵ֣ין",
+      "gloss": "그리고 … 사이에"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "네 백성"
+    },
+    {
+      "surface": "לְמָחָ֥ר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "יִהְיֶ֖ה",
+      "gloss": "있으리라"
+    },
+    {
+      "surface": "הָאֹ֥ת",
+      "gloss": "그 표적"
+    },
+    {
+      "surface": "הַזֶּֽה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:52.705571765Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 81,
+  "translation": "들어라, 내 백성아, 내가 네게 증언하리라. 이스라엘아, 네가 내 말을 들으면,",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성아"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "내가 증언하리라"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "네가 듣는다면"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:07.452136199Z",
+  "model": "glm-5.2"
+}

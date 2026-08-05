@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "인간이 ⟨그의⟩ 일터로 나아가, 저녁까지 ⟨그의⟩ 노동에 이른다.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "인간이"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "그의 일터로"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "그리고 그의 노동에"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "까지"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "저녁"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:45.258586848Z",
+  "model": "glm-5.2"
+}

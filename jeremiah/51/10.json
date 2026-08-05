@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "야훼께서 ⟨את⟩ 우리의 의를 내 놓으셨다. 오너라, 우리가 쯔욘에서 ⟨את⟩ 우리 엘로힘 야훼의 행하신 일을 선포하자.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "내 놓으셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 의"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "우리의 의"
+    },
+    {
+      "surface": "באו",
+      "gloss": "오너라"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "우리가 선포하자"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "쯔욘에서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "행하신 일"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "행하신 일"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:46:14.374351815Z",
+  "model": "glm-5.2"
+}

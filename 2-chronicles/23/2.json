@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그들이 예후다를 두루 다니며 ⟨את⟩ 레위 사람들을 예후다의 모든 성읍에서 모으고, ⟨또⟩ 이스라엘의 조상들의 우두머리들을 ⟨모으고⟩, 예루샬라임으로 들어왔다.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "그들이 두루 다니며"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "예후다를"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "모으고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레위 사람들을"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들을"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…에서, 모든"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다의"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "그리고 우두머리들을"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "조상들의"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 들어왔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:57.500724592Z",
+  "model": "glm-5.2"
+}

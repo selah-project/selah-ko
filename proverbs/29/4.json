@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "왕은 미쉬파트로 땅을 세우나, 테루모트를 받는 사람은 그것을 허문다.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "미쉬파트로"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "세우나"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "테루모트를"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "허문다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:13.804790636Z",
+  "model": "glm-5.2"
+}

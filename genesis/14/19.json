@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그가 그를 축복하며 말하였다. \"아브람은 축복받았다, 엘 엘리온에게, 하늘과 땅의 창조자시신.\"",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "그리고 그가 그를 축복하며"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "축복받았다"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브람은"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "엘리온에게"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "창조자시신"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘과"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:57.837016936Z",
+  "model": "glm-5.2"
+}

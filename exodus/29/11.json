@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 소를 야훼 앞에서, 만남의 천막 어귀에서 잡아라.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "그리고 …을 잡아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "소"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "어귀에서"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:13.781338713Z",
+  "model": "glm-5.2"
+}

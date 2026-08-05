@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 126,
+  "translation": "야훼께서 우리와 더불어 크게 행하셨다. 우리는 기뻐하였다.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "크게 행하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하시기를"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "우리와 더불어"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "우리는 ~였다"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "기뻐하는 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:28.336204998Z",
+  "model": "glm-5.2"
+}

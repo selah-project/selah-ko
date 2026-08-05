@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그것이 그에게 체다카로 여겨졌다, 세대와 세대에, 영원히.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "여겨졌다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "체다카로"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "세대에"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "세대와"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:37.941835346Z",
+  "model": "glm-5.2"
+}

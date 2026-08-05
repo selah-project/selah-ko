@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "야훼의 말씀이 예샤야후에게 임하였다 — 말씀하시기를 —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "임하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "예샤야후"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:17:22.292413651Z",
+  "model": "glm-5.2"
+}

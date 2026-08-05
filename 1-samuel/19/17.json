@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 19:17",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "샤울이 미칼에게 말하였다. \"어찌하여 이같이 나를 속여 ⟨나의⟩ 원수를 보내어 ⟨그가⟩ 도망하게 하였느냐?\" 미칼이 샤울에게 대답하였다. \"그가 내게 말하기를, 나를 보내라, 어찌하여 ⟨내가⟩ 너를 죽이겠느냐 하였나이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "미칼"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "나를 속여"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "원수"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "나의 원수를"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "도망하였느냐"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "대답하였다"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "미칼이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "나를 보내라"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "אמיתך",
+      "gloss": "너를 죽이겠느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T17:19:43.840596147Z",
+  "model": "glm-5.2"
+}

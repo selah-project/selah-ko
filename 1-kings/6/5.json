@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그가 ⟨그⟩ 집 벽 위에 둘레 ⟨곁채⟩를 지었으니, ⟨곧⟩ ⟨את⟩ 그 집 벽들을 둘레로, ⟨그⟩ 헤칼과 ⟨그⟩ 드비르⟨를 위함⟩이었다. 그가 둘레로 층들을 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "그가 지었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "벽"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "곁채"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집 벽들"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "벽들"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레로"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "그 헤칼에"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "그 드비르에"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "그가 만들었다"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "층들"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:01.102894981Z",
+  "model": "glm-5.2"
+}

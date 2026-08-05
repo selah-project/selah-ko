@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "나를 당신의 면전에서 내던지지 마시고, 당신의 거룩한 루아흐를 내게서 거두어 가지 마소서.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…하지 마소서"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "나를 내던지지"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "당신의 면전에서"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "그리고 루아흐를"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "당신의 거룩한"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…하지 마소서"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "거두어 가지"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "내게서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:08.283801271Z",
+  "model": "glm-5.2"
+}

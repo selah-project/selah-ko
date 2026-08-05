@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "얼굴을 알아보는 것은 좋지 않으며, 빵 한 조각 때문에 사람이 범죄할 것이다.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "알아보는 것은"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 …위에"
+    },
+    {
+      "surface": "פת",
+      "gloss": "조각"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "범죄하리라"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "사람이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:48.012374409Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "엘로힘, 언제까지 적이 훼방하겠습니까? 원수가 ⟨당신의⟩ 이름을 영원히 멸시하겠습니까?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "훼방하겠습니까"
+    },
+    {
+      "surface": "צר",
+      "gloss": "적이"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "멸시하겠습니까"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수가"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "당신의 이름을"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:51.686731357Z",
+  "model": "glm-5.2"
+}

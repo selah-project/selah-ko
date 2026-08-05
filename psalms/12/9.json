@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "사방에 악인들이 걸어 다니니, 인자들 가운데서 천박함이 높임을 받는다.",
+  "tokens": [
+    {
+      "surface": "סָבִ֗יב",
+      "gloss": "사방에"
+    },
+    {
+      "surface": "רְשָׁעִ֥ים",
+      "gloss": "악인들이"
+    },
+    {
+      "surface": "יִתְהַלָּכ֑וּן",
+      "gloss": "걸어 다니니"
+    },
+    {
+      "surface": "כְּרֻ֥ם",
+      "gloss": "높임을 받는다"
+    },
+    {
+      "surface": "זֻ֝לּ֗וּת",
+      "gloss": "천박함이"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "⟨…⟩의 아들들 가운데서"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "사람"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:46.225183878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그들이 억압과 악과 슬픔으로 말미암아 줄어들고 낮아졌다.",
+  "tokens": [
+    {
+      "surface": "וַיִּמְעֲטוּ",
+      "gloss": "그들이 … 줄어들고"
+    },
+    {
+      "surface": "וַיָּשֹׁחוּ",
+      "gloss": "낮아졌다"
+    },
+    {
+      "surface": "מֵעֹצֶר",
+      "gloss": "억압으로 말미암아"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "악과"
+    },
+    {
+      "surface": "וְיָגוֹן",
+      "gloss": "슬픔으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:15.603214892Z",
+  "model": "glm-5.2"
+}

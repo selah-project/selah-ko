@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그녀가 그들에게 말하였다. “나를 나오미라 부르지 말라. 나를 마라라 부르라. 샤다이께서 나를 심히 쓰게 하셨기 때문이다.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~말라"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "부르지"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "나오미라"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "부르라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "마라라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "~때문이다"
+    },
+    {
+      "surface": "המר",
+      "gloss": "쓰게 하셨"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이께서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:37.618201079Z",
+  "model": "glm-5.2"
+}

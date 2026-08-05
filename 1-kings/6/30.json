@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 집의 바닥을 금으로 입혔다, 안쪽으로부터 바깥쪽까지.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "집의 바닥을"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "바닥을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "입혔다"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "안쪽으로부터"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "바깥쪽까지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:54.860811670Z",
+  "model": "glm-5.2"
+}

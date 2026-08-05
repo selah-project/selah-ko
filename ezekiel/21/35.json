@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "칼집으로 돌아가라! 네가 창조된 곳에서, 네 출신의 땅에서 내가 ⟨את⟩ 너를 심판하리라.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "칼집"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…곳"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "네가 창조된"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…땅에서"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "네 출신의"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "내가 심판하리라"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "너를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:53:33.168637346Z",
+  "model": "glm-5.2"
+}

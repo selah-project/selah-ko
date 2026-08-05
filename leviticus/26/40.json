@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 그들이 자기들의 죄악을 ⟨את⟩ 고백하고, 또 ⟨את⟩ 그들의 조상들의 죄악을 ⟨고백하고⟩, 그들이 나를 배반한 그들의 배반에서, 그리고 나와 반대로 걸었다는 그것도 ⟨고백하리라⟩.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "그리고 그들이 고백하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기들의 죄악을"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "자기들의 죄악"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "또 ⟨את⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "… 죄악"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "그들의 조상들의"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "그들의 배반에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "그들이 배반한"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "그들이 걸었다"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나와"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "반대로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:26:06.888435012Z",
+  "model": "glm-5.2"
+}

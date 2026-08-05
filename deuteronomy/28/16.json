@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "성읍에서도 저주를 받고, 들에서도 저주를 받으리라.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "저주받은"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성읍에서"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "그리고 저주받은"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:59.766379911Z",
+  "model": "glm-5.2"
+}

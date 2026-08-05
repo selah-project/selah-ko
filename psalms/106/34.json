@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "야훼께서 그들에게 명령하신 ⟨את⟩ 백성들을 그들이 멸절하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "멸절"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성들을"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "백성들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…하신"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "명령"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:41.865088537Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "내 아들아, 내 토라를 잊지 말며, 내 계명들을 ⟨네⟩ 마음이 지키게 하라.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "내 아들아,"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "내 토라를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~말며"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "잊지"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "내 계명들을"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "지키게 하라"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:29.621208536Z",
+  "model": "glm-5.2"
+}

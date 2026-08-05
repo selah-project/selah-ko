@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 야훼가 큰 바람을 바다로 내던지셨다, 그래서 바다에 큰 폭풍이 있었다, 그리고 그 배는 부서지려 하였다.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "그리고 야훼가"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "내던지셨다"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람을"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "큰"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "סער",
+      "gloss": "폭풍이"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "בים",
+      "gloss": "바다에"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "그리고 그 배는"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "생각하였다"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "부서지려"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:08.967692115Z",
+  "model": "glm-5.2"
+}

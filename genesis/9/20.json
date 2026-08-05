@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "노아가 — 땅의 사람이 되기 시작하였고, 포도원을 심었다.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "시작하였고"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아가"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "심었다"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "포도원을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:23.496583261Z",
+  "model": "glm-5.2"
+}

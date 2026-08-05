@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "야훼는 ⟨자신에게⟩ 부르짖는 모든 이에게 가까이 계시며, 에메트(진실) 안에서 ⟨그분을⟩ 부르는 모든 자에게 가까이 계시다.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "가까이 계시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "부르짖는 이에게"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "부르는 자에게"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "에메트(진실) 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:28.648841203Z",
+  "model": "glm-5.2"
+}

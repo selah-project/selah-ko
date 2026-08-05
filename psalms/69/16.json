@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "물의 격류가 나를 덮치지 않게 하시고, 깊음이 나를 삼키지 않게 하시며, 그 구덩이가 그 위에 입을 닫지 않게 하소서.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "하지 않게 하시고"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "나를 덮치지"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "격류가"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물의"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "하지 않게 하시며"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "나를 삼키지"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "깊음이"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "하지 않게 하소서"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "닫지"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "באר",
+      "gloss": "구덩이가"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "입을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:55.590289508Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 마른 땅을 '땅'이라 부르셨고, 물들의 모임을 '바다들'이라 부르셨다. 엘로힘이 보시니 좋았다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "부르셨고"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "마른 땅을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "'땅'이라"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "모임을"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들의"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "부르셨다"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "'바다들'이라"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보시니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋았다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:26.567221217Z",
+  "model": "glm-5.2"
+}

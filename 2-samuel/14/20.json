@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 14:20",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "이 일의 형태를 둘러서 ⟨돌리기⟩ 위하여 그대의 종 요아브가 ⟨את⟩ 이 일을 행하였고, 내 주는 엘로힘의 천사의 지혜 같은 지혜로 땅에 있는 ⟨את⟩ 모든 것을 알기 ⟨때문⟩이다.",
+  "tokens": [
+    {
+      "surface": "לבעבור",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "⟨돌리기⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 일의 형태"
+    },
+    {
+      "surface": "פני",
+      "gloss": "형태"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "이 일의"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였고"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "그대의 종"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 일"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "그리고 내 주는"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "כחכמת",
+      "gloss": "지혜 같은"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "천사의"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "알기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩ ⟨즉⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T09:40:27.041123173Z",
+  "model": "glm-5.2"
+}

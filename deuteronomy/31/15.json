@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 야훼께서 구름 기둥으로 회막에 나타나셨다. 그리하였고 그 구름 기둥이 회막 어귀 위에 서 있었다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "그리고 나타나셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "회막에"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "기둥으로"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "구름"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "그리고 서 있었다"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "기둥이"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "그 구름"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "어귀"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "그 회막의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:03:12.574910466Z",
+  "model": "glm-5.2"
+}

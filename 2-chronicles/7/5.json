@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 7:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 왕 쉘로모는 소 이만 이천 마리와 양 십이만 마리의 제물을 희생으로 드렸다. 이렇게 왕과 온 백성이 ⟨את⟩ 엘로힘의 집을 봉헌하였다.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "그리고 희생으로 드렸다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "쉘로모는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제물을"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제물"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "소"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "이십"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "그리고 이"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "그리고 양"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "그리고 이십"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "그리고 봉헌하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "집을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:41.116124055Z",
+  "model": "glm-5.2"
+}

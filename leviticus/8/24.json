@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 8:24",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 아론의 아들들을 가까이 데려왔다. 모셰가 피에서 ⟨아트⟩ 그것을 취하여 그들의 오른쪽 귀의 뭉치와 그들의 오른손의 엄지와 그들의 오른발의 엄지 위에 주었다. 그리고 모셰가 ⟨את⟩ 피를 제단 위에, 돌아가며 뿌렸다.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "그리고 데려왔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아트⟩",
+      "marks": "아론의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위에"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "뭉치"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "그들의 귀"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ～위에"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "엄지"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "그들의 손"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ～위에"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "엄지"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "그들의 발"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "그리고 뿌렸다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "피"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "돌아가며"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:43.828425916Z",
+  "model": "glm-5.2"
+}

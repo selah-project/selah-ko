@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 요아브가 암몬 자손의 랍바에서 싸웠고, ⟨그가⟩ ⟨את⟩ 왕실 도시를 점령하였다.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "그리고 싸웠고"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "랍바에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "점령하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕실 도시를"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "도시를"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "왕실"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:28.471852520Z",
+  "model": "glm-5.2"
+}

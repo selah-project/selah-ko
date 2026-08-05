@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 143,
+  "translation": "내가 옛날 날들을 기억하였다. 내가 ⟨그대의⟩ 모든 행사를 음조하였다. ⟨그대의⟩ 손들의 역사를 내가 묵상한다.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "내가 기억하였다"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들을"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "옛날"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "내가 음조하였다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "⟨그대의⟩ 행사를"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "역사를"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "⟨그대의⟩ 손들의"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "내가 묵상한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:17.601834627Z",
+  "model": "glm-5.2"
+}

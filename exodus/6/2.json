@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "엘로힘이 모셰에게 말씀하시고, 그에게 이르셨다. \"나는 야훼이다.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하시고"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "이르셨다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:08.426260910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "키노르로 야훼께 감사를 드려라. 열 줄 네벨로 그분께 연주를 하여라.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "감사를 드려라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "키노르로"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "네벨로"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "열 줄"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "연주를 하여라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그분께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:55.912888200Z",
+  "model": "glm-5.2"
+}

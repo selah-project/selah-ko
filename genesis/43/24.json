@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그 사람이 ⟨את⟩ 그 사람들을 요셉의 집으로 데리고 들어갔다. 그가 물을 주매 그들이 ⟨자기⟩ 발을 씻었다. 그리고 그가 그들의 나귀들에게 먹이를 주었다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그가 ~을 데리고 들어갔다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람들을"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들을"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉의"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "그가 주매"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "그들이 씻었다"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "그들의 발을"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "그가 주었다"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "먹이를"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "그들의 나귀들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:52.578796674Z",
+  "model": "glm-5.2"
+}

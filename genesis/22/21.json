@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "⟨את⟩ 우츠를 그의 맏이로, ⟨그리고⟩ ⟨את⟩ 부스를 그의 형제로, ⟨그리고⟩ ⟨את⟩ 크무엘을 — 그는 아람의 아버지이다 —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우츠를"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "우츠"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "그의 맏이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "부스를"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "부스"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "크무엘을"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "크무엘"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…의 아버지"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:30.803721166Z",
+  "model": "glm-5.2"
+}

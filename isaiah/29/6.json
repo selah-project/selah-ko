@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "만군의 야훼께로부터 ⟨그것은⟩ 천둥과 지진과 큰 소리, 폭풍과 회오리바람, 그리고 삼키는 불꽃으로 찾아오심을 받을 것이다.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "~로부터"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "찾아오심을 받을 것이다"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "천둥으로"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "그리고 지진으로"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "그리고 소리로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "폭풍"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "그리고 회오리바람"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "그리고 불꽃으로"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불의"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "삼키는"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:27.762084070Z",
+  "model": "glm-5.2"
+}

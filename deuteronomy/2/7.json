@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "이는 야훼 너의 엘로힘이 네 손의 모든 행위에 ⟨아무것이든⟩ 복을 주셨기 때문이다. 그가 ⟨את⟩ 이 큰 광야에서 네가 걸어온 것을 아셨다 — 이 사십 년 동안 야훼 너의 엘로힘이 너와 함께 하셨으므로, 네게 부족한 것이 없었다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "너의 엘로힘이"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "복을 주셨기"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "행위에"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손의"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "아셨다"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "네가 걸어온 것을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 큰 광야를"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "큰"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "너의 엘로힘이"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께 하셨으므로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "부족한 것이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "아무것이든"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:45.898545547Z",
+  "model": "glm-5.2"
+}

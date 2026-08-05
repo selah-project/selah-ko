@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그러나 그들이 듣지 않았다. 오히려 그들의 관례에 따라, ⟨그⟩ 처음 것으로, 그들이 행하고 있다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그러나 …아니"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "그들이 들었다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…rather"
+    },
+    {
+      "surface": "אם",
+      "gloss": "다만"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "그들의 관례에 따라"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "처음 것"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "행하고 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:05.600519774Z",
+  "model": "glm-5.2"
+}

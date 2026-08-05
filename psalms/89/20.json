@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "그때에 주께서 환상 가운데 주의 헤시드들에게 말씀하셨고, 이르셨다. “내가 도움을 용사 위에 두었고, 백성 가운데서 택한 젊은이를 높였다.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "주께서 … 말씀하셨고"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "환상 가운데"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "주의 헤시드들에게"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 이르셨다"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "내가 … 두었고"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "도움을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "용사"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "내가 높였다"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "택한 젊은이를"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "백성 가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:17.865775759Z",
+  "model": "glm-5.2"
+}

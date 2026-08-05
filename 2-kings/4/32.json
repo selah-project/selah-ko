@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "엘리사가 집 안으로 들어갔는데, 보라, 그 아이가 죽어 자기의 침상 위에 누워 있었다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔는데"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리사가"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "집 안으로"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "그 아이가"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽어"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "누워 있었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "자기의 침상"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:00.532067823Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨그것이⟩ 그녀의 음행의 가벼움 때문에 일어났으니, 그녀가 ⟨את⟩ 그 땅을 더럽혔고, ⟨그녀가⟩ 돌과 나무와 간음하였다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ⟨그것이⟩ …이었다"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "가벼움 때문에"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "그녀의 음행의"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "그녀가 더럽혔고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "⟨그녀가⟩ 간음하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "돌"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "돌과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "나무"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "나무와"
+    }
+  ],
+  "timestamp": "2026-08-05T10:27:02.736585733Z",
+  "model": "glm-5.2"
+}

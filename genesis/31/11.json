@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "엘로힘의 천사가 꿈에서 내게 '야곱아' 하고 말씀하셨다. 내가 '제가 여기 있습니다' 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "천사가"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "꿈에서"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱아"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:18.783863874Z",
+  "model": "glm-5.2"
+}

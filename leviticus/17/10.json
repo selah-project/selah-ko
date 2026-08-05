@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 이스라엘 집에서 사람마다, 그리고 그들 가운데 거류하는 거류민 중에서도, 어떤 피든지 먹는 자, 내가 그 피를 먹는 그 네페쉬를 향해 내 얼굴을 정하시고, 그를 그 백성의 한가운데서 끊으시리라.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 ⟨사람⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…집에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 …중에서"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "그 거류민"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "거류하는(자)"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "그들 가운데"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인(자)"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 정하(시)리라"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴을"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "…네페쉬를 향(向)해"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "먹는 그(여성)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 피"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "그 피"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "그리고 내가 끊으(시)리라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ 그녀를",
+      "marks": "그 백성의 한가운데서"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "…한가운데서"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "그 백성"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:48.324576913Z",
+  "model": "glm-5.2"
+}

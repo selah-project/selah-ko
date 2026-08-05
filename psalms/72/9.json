@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "그의 앞에서 광야 거주자들이 무릎을 꿇으리니, 그의 원수들은 티끌을 핥으리라.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "그의 앞에서"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "무릎을 꿇으리니"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "광야 거주자들이"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "그의 원수들은"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "티끌을"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "핥으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:57.716873796Z",
+  "model": "glm-5.2"
+}

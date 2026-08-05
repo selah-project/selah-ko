@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "하타크가 모르드개에게, 왕의 문 앞에 있는 성읍의 넓은 거리로 나아갔다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "התך",
+      "gloss": "하타크가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "넓은 거리"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성읍의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에 있는"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:29.633484532Z",
+  "model": "glm-5.2"
+}

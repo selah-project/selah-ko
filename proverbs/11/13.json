@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "다니며 떠도는 자는 비밀을 드러내지만, 영이 충실한 ⟨이⟩는 일을 덮어 둔다.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "다니는"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "떠도는 자는"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "드러내지만"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "비밀을"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "충실한"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "영이"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "덮어 둔다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:39:05.241357508Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼 너희 조상들의 엘로힘께서 너희를 지금의 천 배로 더하시고, 너희에게 말씀하신 대로 ⟨את⟩ 너희를 복 주시기를!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "너희 조상들의"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "더하시기를"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "너희 위에"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "너희 같은"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "배"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "복 주시기를"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "∼대로"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:01.128718074Z",
+  "model": "glm-5.2"
+}

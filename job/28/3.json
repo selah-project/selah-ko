@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 28:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "끝을 어둠에 두셨고, 그가 모든 완결을 탐색하신다 — 어둠의 돌과 사망의 그림자.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "끝을"
+    },
+    {
+      "surface": "שם",
+      "gloss": "두셨다"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "어둠에"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "완결을"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "חוקר",
+      "gloss": "탐색하신다"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "어둠의"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "그리고 사망의 그림자"
+    }
+  ],
+  "timestamp": "2026-08-05T12:08:37.523316237Z",
+  "model": "glm-5.2"
+}

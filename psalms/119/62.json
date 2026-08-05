@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "한밤중에 내가 일어나 그대께 감사드리리니, ⟨이는⟩ 그대의 의로운 규례들 때문이다.",
+  "tokens": [
+    {
+      "surface": "חֲצֽוֹת",
+      "gloss": "한밤중에"
+    },
+    {
+      "surface": "לַ֗יְלָה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "אָ֭קוּם",
+      "gloss": "내가 일어나"
+    },
+    {
+      "surface": "לְהוֹד֣וֹת",
+      "gloss": "감사드리리니"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "그대께"
+    },
+    {
+      "surface": "עַ֝֗ל",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מִשְׁפְּטֵ֥י",
+      "gloss": "규례들"
+    },
+    {
+      "surface": "צִדְקֶֽךָ",
+      "gloss": "그대의 의로운"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:31.982251456Z",
+  "model": "glm-5.2"
+}

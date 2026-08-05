@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "사람이 아비림의 떡을 먹었으니, ⟨그가⟩ 그들을 배불리기 위해 양식을 보내셨다.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "떡을"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "아비림의"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹었으니"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "양식을"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "배불리기-위해"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:36.347435843Z",
+  "model": "glm-5.2"
+}

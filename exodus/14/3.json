@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 파르오가 이스라엘 자손에 대하여 말할 것인즉, '그들이 그 땅에서 길을 잃고 헤매고, 광야가 그들을 가두었다' ⟨하리라⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 …말할 것인즉"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "자손에 대하여"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "길을 잃고 헤매고"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "그 땅에서"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "가두었다"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "광야가"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:11.328530539Z",
+  "model": "glm-5.2"
+}

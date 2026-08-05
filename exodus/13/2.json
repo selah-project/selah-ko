@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "“이스라엘 자손 가운데서 사람이든 짐승이든, 모든 태를 여는 모든 처음 난 것을 나를 위해 거룩히 구별하라. 그것은 나의 것이다.”",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "거룩히 구별하라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "처음 난 것을"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "여는"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "태를"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "…자손 가운데서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람이든"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "짐승이든"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:07.178229850Z",
+  "model": "glm-5.2"
+}

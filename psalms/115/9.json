@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 115,
+  "translation": "이스라엘아, 야훼를 신뢰하라 — 그들의 도움이시요 그들의 방패이신 ⟨그분⟩이시다.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "신뢰하라"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "그들의 도움이시며"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "그들의 방패이신"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그분이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:34.556862868Z",
+  "model": "glm-5.2"
+}

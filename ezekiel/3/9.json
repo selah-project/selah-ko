@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 3:9",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "샤미르보다, 바위보다 강한 것처럼, 내가 네 이마를 주었다. 그들을 두려워하지 말며, 그들의 얼굴 앞에서 꺾이지 말라. 그들은 반역하는 집이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כשמיר",
+      "gloss": "샤미르처럼"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "강한"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "바위보다"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "네 이마를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "두려워할 것이다"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "꺾일 것이다"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "그들의 얼굴 앞에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "반역하는"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:48:16.345653032Z",
+  "model": "glm-5.2"
+}

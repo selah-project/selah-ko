@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "야훼여, 당신의 자비와 당신의 헤세드를 기억하소서. 그것들은 영원부터 ⟨있었기⟩ 때문입니다.",
+  "tokens": [
+    {
+      "surface": "זְכֹר",
+      "gloss": "기억하소서"
+    },
+    {
+      "surface": "רַחֲמֶ֣יךָ",
+      "gloss": "당신의 자비"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "וַחֲסָדֶ֑יךָ",
+      "gloss": "당신의 헤세드"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "מֵעוֹלָ֣ם",
+      "gloss": "영원부터"
+    },
+    {
+      "surface": "הֵֽמָּה",
+      "gloss": "그것들은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:57.387811275Z",
+  "model": "glm-5.2"
+}

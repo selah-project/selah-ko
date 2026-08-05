@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "노래, 시편으로, 코라흐 자손들의.",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "מִ֝זְמוֹר",
+      "gloss": "시편으로"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "קֹֽרַח",
+      "gloss": "코라흐"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:35.584366168Z",
+  "model": "glm-5.2"
+}

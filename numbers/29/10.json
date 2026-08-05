@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "어린 양 한 마지마다 십분량 하나씩, 일곱 어린 양을 위하여 —",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "십분량"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "하나씩"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "어린 양"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "한 마지마다"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "어린 양을 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:44:52.460547480Z",
+  "model": "glm-5.2"
+}

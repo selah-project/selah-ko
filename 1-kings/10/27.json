@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 왕이 ⟨את⟩ 은을 예루샬라임에 돌들처럼 주셨고, ⟨את⟩ 백향목들을 평야에 있는 돌무화과나무들처럼 많이 주셨다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "은"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "돌들처럼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "백향목들"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "백향목들을"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "돌무화과나무들처럼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것들이⟩"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "평야에"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "많이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:29.083051712Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "모셰가 회중에게 말하였다. \"이것이 실행하라고 야훼께서 명령하신 말씀이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...에게"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말씀이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...바"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "실행하라고"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:07.006808300Z",
+  "model": "glm-5.2"
+}

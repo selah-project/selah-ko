@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "야훼는 모든 이에게 좋으시며, 그분의 긍휼들은 그분의 모든 행하신 것들 위에 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "좋으시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든 이에게"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "그분의 긍휼들은"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "그분의 행하신 것들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:21.631384256Z",
+  "model": "glm-5.2"
+}

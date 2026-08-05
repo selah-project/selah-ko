@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 13:21",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그들이 한 사람을 묻고 있을 때, 보라, 그들이 ⟨את⟩ 부대를 보고 ⟨את⟩ 그 사람을 엘리샤의 무덤에 내던졌다. 그 사람이 가서 엘리샤의 뼈에 닿자, 살아나서 자기 발 위에 섰다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일어난 일은"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "묻고 있을 때"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람을"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "그들이 보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "부대를"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "부대를"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "내던졌다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람을"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람을"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "무덤에"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤의"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "닿자"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람이"
+    },
+    {
+      "surface": "בעצמות",
+      "gloss": "뼈에"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤의"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "살아나서"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "섰다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "자기 발"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:39.373859290Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "엿새 동안 일⟨이⟩ 이루어질 것이요, 일곱째 날에는 완전한 안식(샤밧 샤바톤)이니, 거룩한 집회이다. 모든 일을 하지 말지니, 그것은 너희 모든 거처에서 야훼께 드리는 샤밧이다.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "엿새"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "동안"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "이루어질 것이요"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "그리고 … 날에는"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "샤밧"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "샤바톤"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "집회이다"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 말지니"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "너희가 하다"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "샤밧이다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "너희 거처에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:23.417265221Z",
+  "model": "glm-5.2"
+}

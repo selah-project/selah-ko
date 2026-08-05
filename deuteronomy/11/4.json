@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 11:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 그가 미츠라임 군대에게 — 그의 말들과 그의 병거에게 — 행하신 것, 곧 그들이 너희 뒤를 쫓을 때 그가 ⟨את⟩ 갈대 바다의 물들을 그들의 얼굴 위로 넘치게 하여 그들을 멸하신 것이니, 야훼께서 그것을 오늘 이 날까지 멸하셨다.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 그것을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하신"
+    },
+    {
+      "surface": "לחיל",
+      "gloss": "군대에게"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לסוסיו",
+      "gloss": "그의 말들에게"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "그리고 그의 병거에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "הציף",
+      "gloss": "넘치게 하신"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "물들"
+    },
+    {
+      "surface": "מי",
+      "gloss": "물들"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "갈대"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "그들의 얼굴"
+    },
+    {
+      "surface": "ברדפם",
+      "gloss": "그들이 쫓을 때"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "너희 뒤를"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "그래서 그들을 멸하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:10.936286618Z",
+  "model": "glm-5.2"
+}

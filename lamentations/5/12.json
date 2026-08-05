@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "지도자들이 그들의 손에 매달렸다, 장로들의 얼굴은 존중받지 못하였다.",
+  "tokens": [
+    {
+      "surface": "שָׂרִים֙",
+      "gloss": "지도자들이"
+    },
+    {
+      "surface": "בְּיָדָ֣ם",
+      "gloss": "그들의 손에"
+    },
+    {
+      "surface": "נִתְל֔וּ",
+      "gloss": "매달렸다"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "얼굴은"
+    },
+    {
+      "surface": "זְקֵנִ֖ים",
+      "gloss": "장로들의"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נֶהְדָּֽרוּ",
+      "gloss": "존중받았다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:02.978637979Z",
+  "model": "glm-5.2"
+}

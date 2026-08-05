@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "주가 라하브를 쓰러뜨리셨습니다 — 살육된 자와 같이. 주의 능력의 팔로 주가 ⟨주의⟩ 원수들을 흩으셨습니다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "주가"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "쓰러뜨리셨나이다"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "살육된 자와 같이"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "라하브를"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "팔로"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "주의 능력의"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "흩으셨나이다"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "원수들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:07.694900657Z",
+  "model": "glm-5.2"
+}

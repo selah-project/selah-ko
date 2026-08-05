@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 소 혹은 양을, ⟨את⟩ 그것과 ⟨את⟩ 그 새끼를 같은 날에 도축하지 말라.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "그리고 소를"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "שה",
+      "gloss": "양을"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 새끼"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그 새끼"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "너희는 도축하지 말라"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…날에"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "같은"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:31.418612321Z",
+  "model": "glm-5.2"
+}

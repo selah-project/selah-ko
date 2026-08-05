@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "이스라엘 왕이 엘리샤에게 말하였다. 그들이 보이자, \"아버지여, 제가 ⟨את⟩ 그들을 치리이까, ⟨아버지여⟩ 그들을 치리이까\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "보이자"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "치리이까"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "치리이까"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지여"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:44.509568698Z",
+  "model": "glm-5.2"
+}

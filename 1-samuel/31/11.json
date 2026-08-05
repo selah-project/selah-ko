@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 야베스 길르앗의 거주자들이 블리셋 사람들이 샤울에게 행한 ⟨את⟩ ⟨그것⟩을 들었다.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "그들이 들었다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들이"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "야베스"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길르앗의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "행한"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행한"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블리셋 사람들이"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "샤울에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:47.643853656Z",
+  "model": "glm-5.2"
+}

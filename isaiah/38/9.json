@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 38:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "히즈키야후 유다 왕의 글이다 — 그가 병들었을 때에, 그리고 그가 자기 병에서 살아났을 때에.",
+  "tokens": [
+    {
+      "surface": "מכתב",
+      "gloss": "글이다"
+    },
+    {
+      "surface": "לחזקיהו",
+      "gloss": "히즈키야후의"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "בחלתו",
+      "gloss": "그가 병들었을 때에"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "그리고 그가 살아났을 때에"
+    },
+    {
+      "surface": "מחליו",
+      "gloss": "자기 병에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:23.054768052Z",
+  "model": "glm-5.2"
+}

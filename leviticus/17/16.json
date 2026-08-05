@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그러나 만일 그것이 빨지 아니하고 자기 몸을 씻지 아니하면, 그것은 자기의 죄악을 담당할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "그것이 빨"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "자기 몸을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "씻으면"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "담당할 것이다"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "자기의 죄악을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:52.249197185Z",
+  "model": "glm-5.2"
+}

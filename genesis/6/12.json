@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "엘로힘이 ⟨את⟩ 땅을 보시니, 보라, 부패하였다. 온 육체가 땅 위에서 ⟨את⟩ 자기 길을 부패케 하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보시니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "부패하였다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "부패케 하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "육체"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 길"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "자기 길"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:39.545087600Z",
+  "model": "glm-5.2"
+}

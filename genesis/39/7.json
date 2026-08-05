@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 39:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "이 일들 후에 그의 주인의 아내가 ⟨자기⟩ 눈을 요셉에게로 들어 올렸다. 그리고 그녀가 말하였다. \"나와 함께 눕게.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨…하였다⟩"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "일"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "그녀가 들어 올렸다"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내가"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "눈"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "눈을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨…에게로⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "눕게"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:48.655065430Z",
+  "model": "glm-5.2"
+}

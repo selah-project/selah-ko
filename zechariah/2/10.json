@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "오호, 오호, 그리고 도망하라, 북방의 땅에서 — 야훼의 선언이시다. 내가 너희를 ⟨את⟩ 흩어버렸기 때문이다 — 하늘의 네 루아흐처럼 — 야훼의 선언이시다.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "오호"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "오호"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "그리고 도망하라"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "북방의"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "…처럼 네"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "루아흐"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "내가 흩어버렸다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:18:18.256975692Z",
+  "model": "glm-5.2"
+}

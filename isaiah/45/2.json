@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "내가 네 앞에서 걸어가며, 험한 곳들을 곧게 하고 놋 문들을 부수고, 철 빗장들을 끊어버리리라.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "네 앞에서"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "걸어가며"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "그리고 험한 곳들을"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "곧게 하고"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "문들을"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "놋"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "부수고"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "그리고 빗장들을"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "끊어버리리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:38.208711748Z",
+  "model": "glm-5.2"
+}

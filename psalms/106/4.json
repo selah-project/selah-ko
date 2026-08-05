@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "저를 기억하여 주소서, 야훼여, ⟨⟨⟩⟩ 당신의 백성의 은택으로. 저를 굽어보아 주소서, 당신의 구원으로.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "저를 기억하여 주소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "은택으로"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성의"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "저를 굽어보아 주소서"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "당신의 구원으로"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:37.868926782Z",
+  "model": "glm-5.2"
+}

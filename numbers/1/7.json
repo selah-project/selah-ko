@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "유다에게는 나흐쉬온, 암미나답의 아들.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "유다에게는"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "나흐쉬온"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "암미나답의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:26:50.235500809Z",
+  "model": "glm-5.2"
+}

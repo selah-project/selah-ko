@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "만일 내가 눈으로 몸을 씻고 잿물로 내 손을 깨끗하게 한다면,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "씻고"
+    },
+    {
+      "surface": "במו",
+      "gloss": "…로"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "눈"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "깨끗하게 한다면"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "잿물로"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "내 손을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:44.804289235Z",
+  "model": "glm-5.2"
+}

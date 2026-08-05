@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "엘로힘이여, ⟨당신의⟩ 헤세드를 따라 나에게 헨을 베푸소서. ⟨당신의⟩ 자비의 많음을 따라 나의 반역들을 지워 주소서.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "나에게 헨을 베푸소서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "⟨당신의⟩ 헤세드를 따라"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "많음을 따라"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "⟨당신의⟩ 자비의"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "지워 주소서"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "나의 반역들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:01.227459547Z",
+  "model": "glm-5.2"
+}

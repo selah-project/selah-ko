@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "저녁이 되고 아침이 되니, 셋째 날이었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "되고"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "저녁이"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되니"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침이"
+    },
+    {
+      "surface": "יום",
+      "gloss": "낮이"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "셋째"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:24.519834171Z",
+  "model": "glm-5.2"
+}

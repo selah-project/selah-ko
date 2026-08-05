@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "셀로모가 쵸르에게 보내어 말하였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그가 보냈다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셀로모가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "쵸르"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:22.768394977Z",
+  "model": "glm-5.2"
+}

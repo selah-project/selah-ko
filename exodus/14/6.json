@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그가 ⟨את⟩ 자신의 병거를 준비하고, ⟨그리고 ⟨את⟩⟩ 자신의 백성을 자신과 함께 데려갔다.",
+  "tokens": [
+    {
+      "surface": "וַיֶּאְסֹר",
+      "gloss": "준비하고"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "자신의 병거"
+    },
+    {
+      "surface": "רִכְבּוֹ",
+      "gloss": "자신의 병거를"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨그리고 ⟨את⟩⟩",
+      "marks": "자신의 백성"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "자신의 백성을"
+    },
+    {
+      "surface": "לָקַח",
+      "gloss": "데려갔다"
+    },
+    {
+      "surface": "עִמּוֹ",
+      "gloss": "자신과 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:14.152637846Z",
+  "model": "glm-5.2"
+}

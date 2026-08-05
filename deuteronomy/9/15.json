@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 내가 돌이켜 그 산에서 내려왔는데, 그 산은 불에 타고 있었고, 브리트의 두 판이 내 두 손 위에 있었다.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "그리고 내가 돌이켰다"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "그리고 내가 내려왔다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "그리고 그 산"
+    },
+    {
+      "surface": "בער",
+      "gloss": "타고 있었다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "그리고 두"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "판"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "브리트의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:16.991984912Z",
+  "model": "glm-5.2"
+}

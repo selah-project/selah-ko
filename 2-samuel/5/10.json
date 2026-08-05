@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "다윗은 나아가며 점점 커졌고, 천군의 엘로힘인 야훼께서 ⟨그와⟩ 함께하셨다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "나아가며"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "나아가며"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "점점 커졌고"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘인"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "천군의"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "함께하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:48:49.404569908Z",
+  "model": "glm-5.2"
+}

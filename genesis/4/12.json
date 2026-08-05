@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "네가 ⟨את⟩ 땅을 경작할 때에, 그것이 다시는 그 힘을 네게 주지 아니할 것이다. 너는 땅에서 떠돌며 유리하는 자가 될 것이다.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때에"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "경작할"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "다시는"
+    },
+    {
+      "surface": "תת",
+      "gloss": "줄"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "그 힘을"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "נע",
+      "gloss": "떠돌며"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "유리하는"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:07.619596283Z",
+  "model": "glm-5.2"
+}

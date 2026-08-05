@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 아슈후르는 테코아의 아버지이었는데, 두 아내가 있었으니 헬라와 나아라이다.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "그리고 아슈후르에게는"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "테코아"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었으니"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "아내"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "헬라"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "그리고 나아라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:41:41.372595922Z",
+  "model": "glm-5.2"
+}

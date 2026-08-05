@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 138,
+  "translation": "내가 환난 가운데를 걸어도 나를 살리시리니, 내 원수들의 진노 위에 ⟨그⟩ 주의 손을 내미시고, 주의 오른손이 나를 구원하시리이다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "걸어도"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "가운데를"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "환난"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "나를 살리시리니"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "אף",
+      "gloss": "진노"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "원수들의"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "내미시고"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "구원하시리이다"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "오른손이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:22.884180506Z",
+  "model": "glm-5.2"
+}

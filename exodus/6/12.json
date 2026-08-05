@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "모셰가 야훼 앞에서 말씀하여 이르기를, “보소서, 이스라엘 자손이 내 말을 듣지 아니하였거늘, 파르오가 어찌 내 말을 듣겠습니까? 저는 입술이 할례받지 못한 자입니다.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "הן",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "듣지"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내 말을"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "듣겠습니까"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "할례받지 못한 자"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "입술이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:02.586367915Z",
+  "model": "glm-5.2"
+}

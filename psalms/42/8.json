@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "심연이 심연을 부르니, 주의 죽노릇 소리에; 주의 모든 파도와 주의 넘실들이 내 위로 지나갔나이다.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "심연이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "심연을"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "부르니"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "소리에"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "주의 죽노릇"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "주의 파도"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "주의 넘실들이"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 위로"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "지나갔나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:42.269000689Z",
+  "model": "glm-5.2"
+}

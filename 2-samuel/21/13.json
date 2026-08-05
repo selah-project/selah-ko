@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "거기서 샤울의 뼈와 ⟨그의⟩ 아들 여호나탄의 뼈를 올라오게 하고, 매달린 자들의 뼈를 모았다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "올라오게 하고"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "뼈"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "뼈"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "뼈"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "뼈"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄의"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "모았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "뼈"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "뼈"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "매달린 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:12.418995434Z",
+  "model": "glm-5.2"
+}

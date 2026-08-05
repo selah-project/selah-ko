@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "길을 내어 칼이 들어가게 하여라 — ⟨את⟩ 암몬 자손의 라바와 ⟨את⟩ 예루샬라임의 유다를, 견고한 ⟨곳에⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "내어"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "들어가게 하여라"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "암몬 자손의 라바"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "라바와"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "유다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다를"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임의"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "견고한"
+    }
+  ],
+  "timestamp": "2026-08-05T10:53:56.957282867Z",
+  "model": "glm-5.2"
+}

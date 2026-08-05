@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 ⟨그가⟩ 다윗에게 말하였다. \"당신은 나보다 더 의롭다. 당신이 나에게 좋음을 베풀었고, 나는 당신에게 악을 베풀었기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의롭다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나보다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "베풀었고"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "좋음을"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "베풀었"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "악을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:44.918903674Z",
+  "model": "glm-5.2"
+}

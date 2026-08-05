@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "살육처럼 ⟨⟨⟩⟩ 내 뼈들에서, 나의 대적들이 나를 능욕하니, 그들이 나에게 종일토록 말하기를 '너의 엘로힘은 어디에 있느냐' ⟨함이라⟩.",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "살육처럼"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "내 뼈들에서"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "나를 능욕하니"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "나의 대적들이"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "그들이 말하기를"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "종일토록"
+    },
+    {
+      "surface": "היום",
+      "gloss": "온"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디에 있느냐"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "너의 엘로힘은"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:42.675849227Z",
+  "model": "glm-5.2"
+}

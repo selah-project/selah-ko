@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 29:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "내가 성문으로 — 도시 위의 — 나아갈 때, 광장에서 나의 자리를 마련하였더라",
+  "tokens": [
+    {
+      "surface": "בצאתי",
+      "gloss": "내가 …나아갈 때"
+    },
+    {
+      "surface": "שער",
+      "gloss": "성문"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위의"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "도시"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "광장에서"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "마련하였더라"
+    },
+    {
+      "surface": "מושבי",
+      "gloss": "나의 자리를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:08:48.231146786Z",
+  "model": "glm-5.2"
+}

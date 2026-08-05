@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "산들이 올라가고 골짜기들이 내려가서, 주께서 그들을 위하여 정하신 그 곳에 이르렀나이다.",
+  "tokens": [
+    {
+      "surface": "יַעֲל֣וּ",
+      "gloss": "올라가고"
+    },
+    {
+      "surface": "הָ֭רִים",
+      "gloss": "산들이"
+    },
+    {
+      "surface": "יֵרְד֣וּ",
+      "gloss": "내려가서"
+    },
+    {
+      "surface": "בְקָע֑וֹת",
+      "gloss": "골짜기들이"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에"
+    },
+    {
+      "surface": "מְ֝ק֗וֹם",
+      "gloss": "곳"
+    },
+    {
+      "surface": "זֶ֤ה",
+      "gloss": "그"
+    },
+    {
+      "surface": "יָסַ֬דְתָּ",
+      "gloss": "정하신"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "그들을 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:49.105842145Z",
+  "model": "glm-5.2"
+}

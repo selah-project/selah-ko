@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "꿈이 많음에서 ⟨도⟩ 헛됨과 말이 많음이 있으니 — 오직 ⟨את⟩ 엘로힘을 경외하라.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "—"
+    },
+    {
+      "surface": "בְּרֹב",
+      "gloss": "많음에서"
+    },
+    {
+      "surface": "חֲלֹמוֹת",
+      "gloss": "꿈이"
+    },
+    {
+      "surface": "וֶהֶבֶל וְיִתְרוֹן",
+      "gloss": "⟨도⟩"
+    },
+    {
+      "surface": "וְדָבָרִים",
+      "gloss": "말이"
+    },
+    {
+      "surface": "הַרְבֵּה",
+      "gloss": "많음이"
+    },
+    {
+      "surface": "יִתְרוֹן",
+      "gloss": "있으니"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "יְרָא",
+      "gloss": "경외하라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:23.022150378Z",
+  "model": "glm-5.2"
+}

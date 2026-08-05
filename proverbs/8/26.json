@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "땅을, ⟨그리고⟩ 밖의 넓은 곳들을 아직 만들지 않으셨을 때, 세계의 먼지들의 처음을.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아직 ～아니"
+    },
+    {
+      "surface": "עָ֭שָׂה",
+      "gloss": "만드셨을"
+    },
+    {
+      "surface": "אֶ֣רֶץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "וְחוּצ֑וֹת",
+      "gloss": "밖의 넓은 곳들을"
+    },
+    {
+      "surface": "וְ֝רֹ֗אשׁ",
+      "gloss": "처음을"
+    },
+    {
+      "surface": "עָפְר֥וֹת",
+      "gloss": "먼지들의"
+    },
+    {
+      "surface": "תֵּבֵֽל",
+      "gloss": "세계의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:02.062057147Z",
+  "model": "glm-5.2"
+}

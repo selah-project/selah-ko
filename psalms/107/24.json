@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그들이 야훼의 행사를 보았다, ⟨그리고⟩ 그의 기이한 일들을 깊은 곳에서. ",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "행사를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "그리고 그의 기이한 일들을"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "깊은 곳에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:48.403858108Z",
+  "model": "glm-5.2"
+}

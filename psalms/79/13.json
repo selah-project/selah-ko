@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 79,
+  "translation": "그리하여 우리는 주의 백성이요 주의 기르시는 양 떼이니, 우리가 주께 감사하오리다. 영원히, 대대로 우리가 주의 찬양을 아뢰리이다.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "그리하여 우리는"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "주의 백성이요"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "양 떼이니"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "주의 기르시는"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "우리가 감사하오리다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "주께"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "대대로"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "대(代)에"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "우리가 아뢰리이다"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "주의 찬양을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:52.676118394Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 ⟨어떤⟩ 사람이 ⟨그⟩ 형제의 아내를 ⟨את⟩ 취하면, 그것은 부정이므로 ⟨그⟩ 형제의 벗김을 그가 드러낸 것이다; 그들은 자식 없이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 ⟨어떤⟩ 사람이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "취하면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "형제의 아내를"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "형제의"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "부정"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "벗김을"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "형제의"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "그가 드러낸 것이다"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "자식 없이"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "될 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:49.506557792Z",
+  "model": "glm-5.2"
+}

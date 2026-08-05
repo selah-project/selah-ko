@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그들의 포도주는 타닌들의 독이요, 페텐들의 머리는 잔인하다.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "독은"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "타닌들의"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "그들의 포도주"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "그리고 머리는"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "페텐들의"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "잔인하다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:32.976729564Z",
+  "model": "glm-5.2"
+}

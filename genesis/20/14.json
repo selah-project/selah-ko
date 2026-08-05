@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 아비멜렉이 양 떼와 소 떼와 남종들과 여종들을 취하여 아브라함에게 주고, 그의 아내 사라를 ⟨그에게⟩ 돌려주었다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 …이 취하였다"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉이"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양 떼를"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "그리고 소 떼를"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "그리고 남종들을"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "그리고 여종들을"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 …이 주었다"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "아브라함에게"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그리고 …이 돌려주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사라를"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "사라를"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:08.050330213Z",
+  "model": "glm-5.2"
+}

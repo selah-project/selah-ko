@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 7:6",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "아도나이께서 ⟨את⟩ 아람 진영으로 하여금 병거 소리와 말 소리와 큰 군대 소리를 듣게 하셨으므로, 그들이 각기 자기 형제에게 말하였다. \"보라, 이스라엘 왕이 ⟨את⟩ 헷 사람들의 왕들과 ⟨את⟩ 미츠라임의 왕들을 우리에게 치려고 고용하였다.\"",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "듣게 하셨으므로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아람 진영"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "말"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "군대"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각기"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "자기 형제"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "고용하였다"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "헷 사람들의 왕들"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "헷 사람들의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "미츠라임의 왕들"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "치려고"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:35.621367254Z",
+  "model": "glm-5.2"
+}

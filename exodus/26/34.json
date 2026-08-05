@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 너는 ⟨את⟩ 카포레트를 증거의 궤 위에, 곧 지성소에 놓아라.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "그리고 너는 놓아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "카포레트"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "그 카포레트"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "증거의"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "거룩한 곳에"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "거룩한 곳들"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:38.676264856Z",
+  "model": "glm-5.2"
+}

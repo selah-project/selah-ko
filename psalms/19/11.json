@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그것들은 금, 심지어 많은 순금보다 더 탐스럽고, 꿀과 벌꿀방울보다 더 달다.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "탐스럽고"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "금보다"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "그리고 순금보다"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많은"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "그리고 달다"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "꿀보다"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "그리고 벌꿀방울보다"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "벌집의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:18.985688655Z",
+  "model": "glm-5.2"
+}

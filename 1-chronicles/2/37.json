@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "자바드가 ⟨את⟩ 에프랄을 낳았고, 에프랄이 ⟨את⟩ 오베드를 낳았다.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "자바드가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에프랄을"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "에프랄이"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "에프랄이"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "오베드를"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "오베드를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:24.858058071Z",
+  "model": "glm-5.2"
+}

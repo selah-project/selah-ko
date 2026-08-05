@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ ⟨그⟩ 여부스 족속과, ⟨את⟩ ⟨그⟩ 아모리 족속과, ⟨את⟩ ⟨그⟩ 기르가쉬 족속을.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "여부스 족속을"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "여부스 족속"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아모리 족속을"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리 족속"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "기르가쉬 족속을"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "기르가쉬 족속"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:30.555503249Z",
+  "model": "glm-5.2"
+}

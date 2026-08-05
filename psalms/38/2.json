@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "야훼여, 주의 노하심으로 나를 책망하지 마시며, 주의 진노로 나를 징계하지 마소서.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마시며"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "주의 노하심으로"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "나를 책망"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "주의 진노로"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "나를 징계하지 마소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:41.894445297Z",
+  "model": "glm-5.2"
+}

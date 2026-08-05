@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그가 ⟨את⟩ 올라를 잡으니, 아론의 아들들이 ⟨את⟩ 그 피를 그에게 가져다 주고, 그가 그것을 제단 둘레에 뿌렸다.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "잡으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "올라"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "가져다 주고"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 피"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "뿌렸다"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:38.833197375Z",
+  "model": "glm-5.2"
+}

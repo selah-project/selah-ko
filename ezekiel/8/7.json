@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 ⟨את⟩ 나를 뜰의 입구로 데리고 가셨다. 내가 보니, 보라, 벽에 구멍 하나가 ⟨있었다⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그가 데리고 가셨다"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰의"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "내가 보니"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "חר",
+      "gloss": "구멍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나가"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "벽에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:48:56.252738234Z",
+  "model": "glm-5.2"
+}

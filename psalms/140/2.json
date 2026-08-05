@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 140,
+  "translation": "야훼여, 악한 사람에게서 저를 건져 내소서. 폭력의 사람에게서 저를 지키소서.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "저를 건져 내소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "사람에게서"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "사람에게서"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "폭력의"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "저를 지키소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:41.060218661Z",
+  "model": "glm-5.2"
+}

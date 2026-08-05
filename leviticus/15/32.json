@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "이것이 유출병자의 토라이며 — 유출이 아닌, 그에게서 나오는 씨의 붙음으로 인하여 부정하게 되는 ⟨사람⟩의 것이다. 그것으로 말미암아 부정이 있다.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "…의 토라"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "유출병자"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 …것"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "나오는"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그에게서"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "…의 붙음"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "부정하게 되려고"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그것으로 말미암아"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:09.320420370Z",
+  "model": "glm-5.2"
+}

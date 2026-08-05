@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 31:10",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "내 아내가 다른 남자에게 방아를 찧게 되고, 다른 남자들이 그 위에 무릎을 꿇게 되기를 —",
+  "tokens": [
+    {
+      "surface": "תטחן",
+      "gloss": "방아를 찧게 되기를"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "다른 남자에게"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "내 아내가"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "그리고 그 위에"
+    },
+    {
+      "surface": "יכרעון",
+      "gloss": "무릎을 꿇게 되기를"
+    },
+    {
+      "surface": "אחרין",
+      "gloss": "다른 남자들이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:04.656406631Z",
+  "model": "glm-5.2"
+}

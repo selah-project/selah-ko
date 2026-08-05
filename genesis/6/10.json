@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "노아가 ⟨את⟩ 셈과 ⟨את⟩ 함과 ⟨את⟩ 야펫, 세 아들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아가"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "세"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셈"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "함"
+    },
+    {
+      "surface": "חם",
+      "gloss": "함"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "야펫"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "야펫"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:39.544788180Z",
+  "model": "glm-5.2"
+}

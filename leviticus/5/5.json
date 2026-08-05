@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 ⟨그가⟩ 이것들 중 하나로 인해 죄를 지으면, 자기가 그것에 대해 지은 죄를 ⟨그것이 무엇인지⟩ 자백하여야 한다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ⟨그것이⟩ ~할 때"
+    },
+    {
+      "surface": "כי",
+      "gloss": "~하면"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "죄를 짓다"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "하나로 인해"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "이것들 중"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "자백하여야 한다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것인 것을⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "지은 죄를"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것에 대해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:09.442562515Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그들이 ⟨את⟩ 화덕의 그을음을 취하고 파르오 앞에 서니, 모셰가 ⟨את⟩ 그것을 하늘을 향해 뿌렸다. 그것이 사람과 짐승에게 수포를 동반한 종기가 솟아오르듯 되었다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 취하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "화덕의 그을음을"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "그을음"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "화덕의"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "서니"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "뿌렸다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것을",
+      "marks": "그것을"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "하늘을 향해"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그것이 … 되었다"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "종기가"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "수포를 동반한"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "솟아오르듯"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "그리고 짐승에게"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:58.960980443Z",
+  "model": "glm-5.2"
+}

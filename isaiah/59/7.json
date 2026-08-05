@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "그들의 발은 악을 향해 달리고, 무죄한 피를 흘리려고 서두른다. 그들의 생각은 불의한 생각이요, 파괴와 황폐가 그들의 길에 있다.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "그들의 발"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "악을 향해"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "달리다"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "그리고 서두르다"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "흘리다"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "무죄한"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "그들의 생각"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "생각"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의"
+    },
+    {
+      "surface": "שד",
+      "gloss": "파괴"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "그리고 황폐"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "그들의 길에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:37.370322533Z",
+  "model": "glm-5.2"
+}

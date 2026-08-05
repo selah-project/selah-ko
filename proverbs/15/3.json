@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "모든 곳에 야훼의 눈이 있으사, 악한 것들과 선한 것들을 지켜 보신다.",
+  "tokens": [
+    {
+      "surface": "בְּֽכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מָ֭קוֹם",
+      "gloss": "곳에"
+    },
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "צֹ֝פ֗וֹת",
+      "gloss": "지켜 보신다"
+    },
+    {
+      "surface": "רָעִ֥ים",
+      "gloss": "악한 것들과"
+    },
+    {
+      "surface": "וֹטוֹבִֽים",
+      "gloss": "선한 것들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:53.911523267Z",
+  "model": "glm-5.2"
+}

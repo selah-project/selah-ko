@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨את⟩ 수소의 가죽과, ⟨את⟩ 그 모든 살과, 그 머리와, 그 다리와, 그 창자와, 그 배설물을",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "가죽"
+    },
+    {
+      "surface": "עור",
+      "gloss": "가죽"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "수소의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 모든 살"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "살"
+    },
+    {
+      "surface": "על",
+      "gloss": "함께"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "그 머리"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "그 다리"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "그리고 그 창자"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "그리고 그 배설물"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:00.005566868Z",
+  "model": "glm-5.2"
+}

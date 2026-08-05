@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "그리고 내 눈은 ⟨나를⟩ 감시하던 자들 속에서 ⟨나를⟩ 에워싸던 자들을 보았다. 일어나는 자들, 악을 행하는 자들, 내 귀는 들을 것이다.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "그리고 보았다"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈은"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "감시하던 자들 속에서"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "에워싸던 자들을"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨나를⟩"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "악을 행하는 자들"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "들 것이다"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "내 귀는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:36.865417937Z",
+  "model": "glm-5.2"
+}

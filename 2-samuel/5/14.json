@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 5:14",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 이것들이 예루샬라임에서 그에게 태어난 이들의 이름들이다: 샴무아, 쇼밥, 나탄, 슐로모.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것들이"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름들이다"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "태어난 이들의"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "샴무아"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "쇼밥"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "나탄"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "슐로모"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:11.884943145Z",
+  "model": "glm-5.2"
+}

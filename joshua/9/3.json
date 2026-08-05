@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 기브온 주민들은 여호수아가 ⟨את⟩ 여리고와 아이에 행한 것을 듣고",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "그리고 주민들은"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "기브온"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아셰르 (…것을)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행한"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "여리고에"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "그리고 아이에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:06:21.054064989Z",
+  "model": "glm-5.2"
+}

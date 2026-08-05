@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "야훼, ⟨당신⟩의 힘으로 왕이 기뻐하며, ⟨당신⟩의 예슈아에서 어찌 그리 크게 즐거워하는지.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "당신의 힘으로"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "기뻐하며"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "당신의 예슈아에서"
+    },
+    {
+      "surface": "מה",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "즐거워하는지"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:00.232204053Z",
+  "model": "glm-5.2"
+}

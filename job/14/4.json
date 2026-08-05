@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "누가 깨끗한 것을 더러운 것에게서 낼 수 있으랴? 한 명도 없다.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "낼 수 있으랴"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "깨끗한 것을"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "더러운 것에게서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없다"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명도"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:46.383424706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 여호나탄이 샤울에게 대답하였다, \"다윗이 나에게서 베이트 레헴까지 ⟨가도록⟩ 간절히 청하였습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하였다"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤울을"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "간절히"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "청하였습니다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "레헴"
+    }
+  ],
+  "timestamp": "2026-08-05T18:11:36.908217696Z",
+  "model": "glm-5.2"
+}

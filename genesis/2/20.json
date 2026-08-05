@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "사람이 모든 가축과 하늘의 새들과 들의 모든 짐승에 이름들을 부르였다. 그러나 사람에게는 그를 마주하는 돕는 자가 발견되지 않았다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "부르였다"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름들을"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "가축"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "새들"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חית",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들의"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "사람에게는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…않았다"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "발견되지"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "돕는 자"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "그를 마주하는"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:51.055639112Z",
+  "model": "glm-5.2"
+}

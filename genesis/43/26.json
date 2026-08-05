@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "요셉이 집으로 들어오매, 그들이 그에게 그들의 손에 있는 ⟨את⟩ ⟨그⟩ 선물을 집으로 가져왔고, 그에게 땅에 엎드려 절하였다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "들어오매"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "그들이 가져왔고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "선물을"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "선물"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "그들의 손에 있는"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "그들이 절하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:14.839357045Z",
+  "model": "glm-5.2"
+}

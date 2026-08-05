@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "파르오의 잔이 내 손에 있었고, 내가 ⟨את⟩ 그 포도들을 취하여 그것들을 파르오의 잔에 짜 넣고, ⟨את⟩ 그 잔을 파르오의 손바닥 위에 드렸다.",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "잔이"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "내 손에"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 포도들을"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "그 포도들을"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "짜 넣고"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "잔에"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "드렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 잔을"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "그 잔을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כף",
+      "gloss": "손바닥"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:47.066296610Z",
+  "model": "glm-5.2"
+}

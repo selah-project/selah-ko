@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 밀과 스펠트밀은 타격을 받지 않았으니, 그것들이 늦은 작물이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "그리고 밀"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "스펠트밀은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "타격을 받"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "늦은"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "것들이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:11.941760657Z",
+  "model": "glm-5.2"
+}

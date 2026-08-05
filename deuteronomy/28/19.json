@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "저주를 받을 것은 네가 들어올 때에요, 저주를 받을 것은 네가 나갈 때이다.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받을 것은"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "들어올 때에요"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "저주를 받을 것은"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "나갈 때이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:55.058546506Z",
+  "model": "glm-5.2"
+}

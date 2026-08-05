@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "네 앉음과 네 나아감과 네 들어감을 내가 알았으며, ⟨그리고⟩ ⟨את⟩ 네 분노를, 나를 향한 ⟨것을⟩.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "그리고 네 앉음을"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "그리고 네 나아감을"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "그리고 네 들어감을"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 알았다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "네 분노를"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "네 분노"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를 향한"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:21.521646442Z",
+  "model": "glm-5.2"
+}

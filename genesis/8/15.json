@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 엘로힘이 노아에게 말씀하셨다, 이르시기를,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:29.556044014Z",
+  "model": "glm-5.2"
+}

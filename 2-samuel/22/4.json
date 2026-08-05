@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 22:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "“찬양받으실 이, 내가 야훼를 부른다, 그러므로 나의 원수들에게서 내가 구원을 얻는다.”",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "찬양받으실 이"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "내가 부른다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ומאיבי",
+      "gloss": "그리고 나의 원수들에게서"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "내가 구원을 얻는다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:48.131540095Z",
+  "model": "glm-5.2"
+}

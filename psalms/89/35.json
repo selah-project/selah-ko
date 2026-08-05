@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "⟨나의⟩ 브리트를 더럽히지 아니하시며, ⟨나의⟩ 입술에서 나간 것을 바꾸지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하시며"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "더럽히지"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "나의 브리트를"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "그리고 나간 것을"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "나의 입술에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하리라"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "바꾸지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:03.131852186Z",
+  "model": "glm-5.2"
+}

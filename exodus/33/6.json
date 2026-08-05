@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 이스라엘 자손이 호렙 산에서부터 ⟨자기⟩ 장식을 벗었다.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽתְנַצְּל֧וּ",
+      "gloss": "그리고 벗었다"
+    },
+    {
+      "surface": "בְנֵֽי",
+      "gloss": "자손"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֛",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "장식을"
+    },
+    {
+      "surface": "עֶדְיָ֖ם",
+      "gloss": "그들의 장식"
+    },
+    {
+      "surface": "מֵהַ֥ר",
+      "gloss": "산에서부터"
+    },
+    {
+      "surface": "חוֹרֵֽב",
+      "gloss": "호렙"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:44.533682391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "나는 온 ⟨내⟩ 백성에게 조롱이 되었고, 그들의 노래는 온종일 ⟨되었다⟩.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "내가 되었다"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "조롱"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "온 …에게"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "그들의 노래"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:56.000345067Z",
+  "model": "glm-5.2"
+}

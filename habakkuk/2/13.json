@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "보라, 이것이 야훼 체바옷에게서 ⟨나온⟩ 것이 아니냐? 그리하여 백성들이 불로 수고하고, 나라들이 헛된 것으로 지쳐 쓰러질 것이다.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "〜가 아니냐"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "〜에게서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "체바옷"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "수고하고"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들이"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "〜로"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "나라들이"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "〜으로"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "헛된 것"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "지쳐 쓰러질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:28.130481680Z",
+  "model": "glm-5.2"
+}

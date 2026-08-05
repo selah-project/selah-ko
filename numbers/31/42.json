@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 전쟁에 나간 사람들에게서 모셰가 나누어 낸, 이스라엘 자손들의 절반으로부터 ⟨것⟩",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "그리고 절반으로부터"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "나누어 낸"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "사람들"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "전쟁에 나간"
+    }
+  ],
+  "timestamp": "2026-08-05T08:45:59.456407190Z",
+  "model": "glm-5.2"
+}

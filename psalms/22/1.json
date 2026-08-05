@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "지휘자에게, '새벽의 암사슴'에 맞추어. 다윗의 시편.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에 맞추어"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "암사슴"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "새벽의"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:17.066038152Z",
+  "model": "glm-5.2"
+}

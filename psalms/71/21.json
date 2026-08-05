@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "나의 위대하심을 더하시고 돌이키사 나를 위로하시리이다.",
+  "tokens": [
+    {
+      "surface": "תֶּ֤רֶב",
+      "gloss": "더하시리이다"
+    },
+    {
+      "surface": "גְּֽדֻלָּתִ֗י",
+      "gloss": "나의 위대하심을"
+    },
+    {
+      "surface": "וְתִסֹּ֥ב",
+      "gloss": "그리고 돌이키사"
+    },
+    {
+      "surface": "תְּֽנַחֲמֵֽנִי",
+      "gloss": "나를 위로하시리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:56.689027901Z",
+  "model": "glm-5.2"
+}

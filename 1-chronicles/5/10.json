@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 5:10",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "샤울의 날들에 그들이 하가르 사람들과 전쟁을 하였다. 그들이 그들의 손에 넘어지니, 그들이 그들의 장막들에, 길앗드 동쪽의 모든 면에 걸쳐 살았다.",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "그리고 …의 날들에"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁을"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와\/과"
+    },
+    {
+      "surface": "ההגראים",
+      "gloss": "하가르 사람들"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "그들이 넘어지니"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "그들의 손에"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "그들이 살았다"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "그들의 장막들에"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에\/걸쳐"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "לגלעד",
+      "gloss": "길앗드"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:38.855786565Z",
+  "model": "glm-5.2"
+}

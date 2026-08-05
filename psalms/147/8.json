@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "구름으로 하늘을 덮으시는 이, 땅을 위해 비를 준비하시는 이, 산들에 풀을 자라게 하시는 이시다.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "덮으시는 이"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘을"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "구름으로"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "준비하시는 이"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅을 위해"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "비를"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "자라게 하시는 이"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들에"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "풀을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:11.107860762Z",
+  "model": "glm-5.2"
+}

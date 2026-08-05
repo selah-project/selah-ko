@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "한밤중에 ⟨그⟩ 남자가 떨며 뒤척였다. 보라, ⟨한⟩ 여자가 ⟨그의⟩ 발끝에 누워 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "–"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "한밤중에"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤의"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "떨며"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨그⟩ 남자가"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "뒤척였다"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨한⟩ 여자가"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "누워 있었다"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "⟨그의⟩ 발끝에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:20.233545160Z",
+  "model": "glm-5.2"
+}

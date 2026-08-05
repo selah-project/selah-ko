@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 12:12",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그 땅이 애곡하리니, 가문 가문이 따로. 다윗의 집의 가문이 따로, 그들의 아내들이 따로; 나탄의 집의 가문이 따로, 그들의 아내들이 따로.",
+  "tokens": [
+    {
+      "surface": "וספדה",
+      "gloss": "애곡하리니"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅이"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "가문"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "가문이"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "따로"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문이"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "따로"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "그들의 아내들이"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "따로"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문이"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄의"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "따로"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "그들의 아내들이"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "따로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:21:27.345332817Z",
+  "model": "glm-5.2"
+}

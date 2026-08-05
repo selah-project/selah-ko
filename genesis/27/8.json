@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그러니 이제 내 아들아, 내가 너에게 명령하는 ⟨것⟩에 따라 내 목소리를 들으라.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그러니 이제"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들아"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "내 목소리를"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "따라"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "명령하는"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:57.247788226Z",
+  "model": "glm-5.2"
+}

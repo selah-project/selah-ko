@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그 집에서 자는 자는 ⟨את⟩ 자기 옷을 빨고, 그 집에서 먹는 자도 ⟨את⟩ 자기 옷을 빤다.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "그리고 자는 자는"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "그 집에서"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "빤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 옷을"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "그리고 먹는 자도"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "그 집에서"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "빤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 옷을"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:32.716641837Z",
+  "model": "glm-5.2"
+}

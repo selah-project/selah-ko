@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그러므로 너는 낮에 비틀거리고, 나비도 밤에 너와 함께 비틀거릴 것이다. 나는 네 어미를 끊어 침묵시키리라.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "너는 비틀거리고"
+    },
+    {
+      "surface": "היום",
+      "gloss": "낮에"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "비틀거리고"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "나비"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "나는 끊어 침묵시키리라"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "네 어미를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:32.313352288Z",
+  "model": "glm-5.2"
+}

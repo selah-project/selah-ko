@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 5:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 내가 그것을 황무지로 만들리라. 그것이 깎이지 아니하고, 그것이 갈리지 아니하리니, 가시질려와 샤잇이 올라오리라. 그리고 내가 구름들에게 명령하리라, 그 위에 비를 내리지 말라고.",
+  "tokens": [
+    {
+      "surface": "ואשיתהו",
+      "gloss": "그리고 내가 그것을 … 만들리라"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "황무지로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יזמ르",
+      "gloss": "깎이지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "יעדר",
+      "gloss": "갈리지"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "올라오리니"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "가시질려가"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "그리고 샤잇이"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 … 에"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "구름들"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "명령하리라"
+    },
+    {
+      "surface": "מהמטיר",
+      "gloss": "비를 내리지"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "비를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:50.607338647Z",
+  "model": "glm-5.2"
+}

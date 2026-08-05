@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 5:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그가 말하였다. \"내가 그의 앞에 서 있는 야훼의 삶으로 맹세합니다, 내가 받지 않겠습니다.\" 그가 받으라고 그에게 강권하자, 그가 거절하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "חי",
+      "gloss": "삶으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "내가"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "서 있는"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그의 앞에"
+    },
+    {
+      "surface": "אם",
+      "gloss": "맹세합니다"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "내가 받지 않겠습니다"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "강권하자"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "받으라고"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "거절하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:06.436896227Z",
+  "model": "glm-5.2"
+}

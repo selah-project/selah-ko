@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "모든 과부와 고아를 억압하지 말아라.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אַלְמָנָ֥ה",
+      "gloss": "과부"
+    },
+    {
+      "surface": "וְיָת֖וֹם",
+      "gloss": "와 고아"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תְעַנּֽוּן",
+      "gloss": "억압하지 말아라"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:59.061059681Z",
+  "model": "glm-5.2"
+}

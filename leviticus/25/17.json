@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너희는 서로 ⟨아무도⟩ ⟨את⟩ ⟨그의⟩ 동료를 억압하지 말 것이며, 너희는 너희 엘로힘을 두려워하라. 이는 나 야훼가 너희 엘로힘이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …하지 말 것이다"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "너희는 억압하지"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 동료"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "그의 동료"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "그리고 너는 두려워하라"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "너의 엘로힘을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희의 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:11.800809889Z",
+  "model": "glm-5.2"
+}

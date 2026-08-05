@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "내가 네게 보여 주는 모든 것에 따라 — ⟨את⟩ 미쉬칸의 모형과 ⟨את⟩ 그 모든 기구들의 모형을 — 그와 같이 너희가 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "…의 모든 것에 따라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "보여 주는"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미쉬칸의 모형"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "모형"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "미쉬칸의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 모든 기구들의 모형"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "모형"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "그 기구들의"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "너희가 만들 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:06.418620742Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 8:2",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "핀하스의 아들들 중에서 게르솜; 이타마르의 아들들 중에서 다니엘; 다윗의 아들들 중에서 하투쉬.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "아들들 중에서"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "핀하스의"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "게르솜"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "아들들 중에서"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "이타마르의"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "다니엘"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "아들들 중에서"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "하투쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T12:33:30.445455690Z",
+  "model": "glm-5.2"
+}

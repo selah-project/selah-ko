@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "다윗이 샤울에게 말하였다. \"아무의 마음도 ⟨그⟩에게 떨어지지 않게 하십시오. 당신의 종이 가서 이 블레셋 사람과 싸우겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…지 않게"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "떨어지게"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음도"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "아무의"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨그⟩에게"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종이"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "싸우겠습니다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와\/과"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "블레셋 사람"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:19.009171438Z",
+  "model": "glm-5.2"
+}

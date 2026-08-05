@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "너는 그것을 먹지 말라. 땅 위에 물같이 그것을 쏟을 것이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "∼하지 말라"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "너는 그것을 먹지"
+    },
+    {
+      "surface": "על",
+      "gloss": "∼위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "너는 그것을 쏟을 것이다"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "물같이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:08.919600854Z",
+  "model": "glm-5.2"
+}

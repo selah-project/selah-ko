@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "다윗의 시, 그가 유다 광야에 있을 때에",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "시는"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "בִּהְיוֹתוֹ",
+      "gloss": "그가 있을 때에"
+    },
+    {
+      "surface": "בְּמִדְבַּר",
+      "gloss": "광야에"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:00.934163755Z",
+  "model": "glm-5.2"
+}

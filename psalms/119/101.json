@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "모든 악한 길에서 내 발을 막아 세웠다 — ⟨그리하여⟩ 내가 주의 말씀을 지키기 위함이다.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "모든 …에서"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "길"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "막아 세웠다"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "내 발을"
+    },
+    {
+      "surface": "למען",
+      "gloss": "위함이다"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "내가 지키기"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "주의 말씀을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:40.175258760Z",
+  "model": "glm-5.2"
+}

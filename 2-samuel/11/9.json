@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "우리야가 왕의 집 입구에서, ⟨그의⟩ 주인의 모든 종들과 함께 누웠고, 자기 집으로 내려가지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "누웠고"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우리야가"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구에서"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "내려가지"
+    },
+    {
+      "surface": "אל",
+      "gloss": "로"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자기 집"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:21.171180682Z",
+  "model": "glm-5.2"
+}

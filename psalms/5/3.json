@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "나의 부르짖음의 소리에 귀를 기울이소서, 나의 왕이시요 나의 엘이시여, 내가 당신에게 기도하오니.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "귀를 기울이소서"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "소리에"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "나의 부르짖음의"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "나의 왕이시요"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "나의 엘이시여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "기도하오니"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:46.268394087Z",
+  "model": "glm-5.2"
+}

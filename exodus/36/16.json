@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 그는 ⟨את⟩ 다섯 휘장을 따로, 그리고 ⟨את⟩ 여섯 휘장을 따로 이어 붙였다.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "그리고 그는 이어 붙였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다섯 휘장을"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "휘장을"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "따로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "여섯 휘장을"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "휘장을"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "따로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:51.147754261Z",
+  "model": "glm-5.2"
+}

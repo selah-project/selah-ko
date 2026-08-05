@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "너가 포로들 가운데서 용모가 아름다운 여인을 보고 그녀를 사모하여 너를 위해 아내로 취하고자 하면,",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "보고"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "포로들 가운데서"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "여인을"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "아름다운"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "용모가"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "사모하여"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그녀를"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "취하고자 하면"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:45.410862236Z",
+  "model": "glm-5.2"
+}

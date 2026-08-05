@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "포도주를 마시며 금과 은, 놋쇠와 쇠, 나무와 돌의 신들을 찬양하였다.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "마시며"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "찬양하였다"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "신들을"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "금"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "은"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "놋쇠와"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "쇠"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "나무와"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "돌"
+    }
+  ],
+  "timestamp": "2026-08-05T14:07:05.474863167Z",
+  "model": "glm-5.2"
+}

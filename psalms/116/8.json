@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "이는 주께서 내 네페쉬를 사망에서, ⟨את⟩ 내 눈을 눈물에서, ⟨את⟩ 내 발을 넘어짐에서 건져내셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "건져내셨기"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬를"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "사망에서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 눈을"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈을"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "눈물"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 발을"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "내 발을"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "넘어짐에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:52.397493389Z",
+  "model": "glm-5.2"
+}

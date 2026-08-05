@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "너의 온 마음으로 야훼를 신뢰하라, 그리고 너의 깨달음에 기대지 말라.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "신뢰하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨에게⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ⟨에게⟩"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "깨달음에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "기대"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:58.929669091Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "모욕하는 자와 모독하는 자의 목소리 때문에, 원수와 복수하는 자의 얼굴 앞에서이다.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "목소리 때문에"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "모욕하는 자의"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "그리고 모독하는 자의"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "얼굴 앞에서"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수의"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "그리고 복수하는 자의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:45.851742741Z",
+  "model": "glm-5.2"
+}

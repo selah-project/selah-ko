@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "지친 자에게 물을 마시게 하지 아니하며, 주린 자에게 ⟨서⟩ 떡을 빼앗는구나.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하며"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "지친 자에게"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "마시게 하다"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "그리고 주린 자에게 ⟨서⟩"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "빼앗는구나"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:07:13.991634230Z",
+  "model": "glm-5.2"
+}

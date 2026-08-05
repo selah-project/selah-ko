@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 제라흐 자손에게서 ⟨온 자는⟩ 여우엘과 그의 형제들, 육백 구십 명이었다.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에게서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "제라흐"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "여우엘"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "그리고 그들의 형제들"
+    },
+    {
+      "surface": "שש",
+      "gloss": "육"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "그리고 구십"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:49.234719928Z",
+  "model": "glm-5.2"
+}

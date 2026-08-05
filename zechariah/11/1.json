@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "레바논아, 네 문들을 열어라. 그리하면 불이 네 백향목들을 삼킬 것이다.",
+  "tokens": [
+    {
+      "surface": "פְּתַ֥ח",
+      "gloss": "열어라"
+    },
+    {
+      "surface": "לְבָנ֖וֹן",
+      "gloss": "레바논아"
+    },
+    {
+      "surface": "דְּלָתֶ֑יךָ",
+      "gloss": "네 문들을"
+    },
+    {
+      "surface": "וְתֹאכַ֥ל",
+      "gloss": "그리하면 삼킬 것이다"
+    },
+    {
+      "surface": "אֵ֖שׁ",
+      "gloss": "불이"
+    },
+    {
+      "surface": "בַּאֲרָזֶֽיךָ",
+      "gloss": "네 백향목들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:21:03.500429443Z",
+  "model": "glm-5.2"
+}

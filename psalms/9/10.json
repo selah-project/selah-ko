@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼는 억눌린 자에게 높은 요새가 되시리니, 환난의 때에 높은 요새가 되신다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨…⟩ 되시리니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "높은 요새가"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "억눌린 자에게"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "높은 요새가"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "…의 때에"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "환난의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:54.161442117Z",
+  "model": "glm-5.2"
+}

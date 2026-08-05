@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 ⟨그⟩ 암소를 그의 눈앞에서 태울 것이다. ⟨את⟩ 그것의 가죽과 ⟨את⟩ 그것의 살과 ⟨את⟩ 그것의 피를, 그것의 배설물 위에서 태울 것이다.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "그리고 태울 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 암소를"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "그 암소"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "그의 눈앞에서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 가죽을"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "그것의 가죽"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 살을"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "그것의 살"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 피를"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "그것의 피"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "그것의 배설물"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "태울 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:05:55.186045344Z",
+  "model": "glm-5.2"
+}

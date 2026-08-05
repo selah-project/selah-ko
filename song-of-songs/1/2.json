@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 ⟨나⟩ ⟨를⟩ 그의 입의 입맞춤들로 입맞추시기를 — 당신의 사랑들이 포도주보다 나음 ⟨이기 때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "יִשָּׁקֵ֨נִי֙",
+      "gloss": "그가 입맞추시기를"
+    },
+    {
+      "surface": "מִנְּשִׁיק֣וֹת",
+      "gloss": "입맞춤들로"
+    },
+    {
+      "surface": "פִּ֔יהוּ",
+      "gloss": "그의 입의"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "טוֹבִ֥ים",
+      "gloss": "나음"
+    },
+    {
+      "surface": "דֹּדֶ֖יךָ",
+      "gloss": "당신의 사랑들이"
+    },
+    {
+      "surface": "מִיָּֽיִן",
+      "gloss": "포도주보다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:41.374153797Z",
+  "model": "glm-5.2"
+}

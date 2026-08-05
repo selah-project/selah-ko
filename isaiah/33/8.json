@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "대로들이 황폐되었고, 길을 지나는 자가 쉬었으니, 브리트를 깨뜨렸고, 도시들을 멸시하였으매, 사람을 헤아리지 않았다.",
+  "tokens": [
+    {
+      "surface": "נָשַׁמּוּ",
+      "gloss": "황폐되었고"
+    },
+    {
+      "surface": "מְסִלּוֹת",
+      "gloss": "대로들이"
+    },
+    {
+      "surface": "שָׁבַת",
+      "gloss": "쉬었으니"
+    },
+    {
+      "surface": "עֹבֵר",
+      "gloss": "지나는"
+    },
+    {
+      "surface": "אֹרַח",
+      "gloss": "길을"
+    },
+    {
+      "surface": "הֵפֵר",
+      "gloss": "깨뜨렸고"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "브리트를"
+    },
+    {
+      "surface": "מָאַס",
+      "gloss": "멸시하였으매"
+    },
+    {
+      "surface": "עָרִים",
+      "gloss": "도시들을"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "חָשַׁב",
+      "gloss": "헤아렸다"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "사람을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:54.507629127Z",
+  "model": "glm-5.2"
+}

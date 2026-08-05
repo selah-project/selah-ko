@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "모르드개는 왕의 문으로 돌아갔고, 하만은 ⟨그⟩ 자기 집으로 급히 몰려갔다, 애곡하며, ⟨그리고⟩ 머리가 가리워진 채로.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔고"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "하만은"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "급히 몰려갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자기 집"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "애곡하며"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "가리워진"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    }
+  ],
+  "timestamp": "2026-08-05T18:29:37.650287752Z",
+  "model": "glm-5.2"
+}

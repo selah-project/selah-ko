@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 131,
+  "translation": "아니, 내가 평평하게 하지 아니하였다면 — 그리고 내 네페쉬를 고요하게 하지 아니하였다면 — 젖떼는 아이가 ⟨그⟩ 어미 품에 있음 같이, 젖떼는 아이 같이 내 ⟨안의⟩ 네페쉬가 내게 있다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "아니…면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다면"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "평평하게"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "고요하게"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬를"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "젖떼는 아이"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "품에"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "어미"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "젖떼는 아이"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 ⟨안의⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "네페쉬가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:37.178886403Z",
+  "model": "glm-5.2"
+}

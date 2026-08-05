@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "이스라엘의 아들들이 길갈에 진을 치고, 열넷째 달의 열넷째 날 저녁에 예리코의 평원에서 ⟨את⟩ 유월절을 지켰다.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 치고"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "길갈에"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "지켰다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유월절"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "유월절을"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "넷"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "달의"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "저녁에"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "평원에서"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "예리코의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:03:48.990345582Z",
+  "model": "glm-5.2"
+}

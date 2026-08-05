@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "아슈르 왕이 온 땅에 올라왔고, 쇼메론으로 올라가서 그것을 삼 년간 포위하였다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "올라왔고"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "올라가서"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "쇼메론으로"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "포위하였다"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "삼"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년간"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:32.203259651Z",
+  "model": "glm-5.2"
+}

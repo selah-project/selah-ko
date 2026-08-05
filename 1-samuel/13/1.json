@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "샤울이 왕이 되었을 때 한 해의 아들이었고, 그리고 이 해를 두 해 이스라엘 위에서 다스렸다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들이었다"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "한 해의"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울은"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "왕이 되었을 때"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "그리고 두"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "해를"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "다스렸다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T17:13:52.778719890Z",
+  "model": "glm-5.2"
+}

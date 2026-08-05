@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리하여 내가 미련한 자들 가운데서 보았고, 아들들 가운데서 깨달았다 — 마음이 빠진 젊은이를.",
+  "tokens": [
+    {
+      "surface": "וָאֵ֤רֶא",
+      "gloss": "그리하여 내가 보았다"
+    },
+    {
+      "surface": "בַּפְּתָאיִ֗ם",
+      "gloss": "미련한 자들 가운데서"
+    },
+    {
+      "surface": "אָבִ֘ינָ֤ה",
+      "gloss": "깨달았다"
+    },
+    {
+      "surface": "בַּבָּנִ֗ים",
+      "gloss": "아들들 가운데서"
+    },
+    {
+      "surface": "נַ֣עַר",
+      "gloss": "젊은이를"
+    },
+    {
+      "surface": "חֲסַר",
+      "gloss": "빠진"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:14.222305Z",
+  "model": "glm-5.2"
+}

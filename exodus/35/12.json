@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "⟨את⟩ 아론과 ⟨את⟩ 그것의 채, ⟨את⟩ 카포레트와 ⟨את⟩ 가림막의 휘장,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아론"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 채"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "그것의 채"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "카포레트"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "카포레트"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "가림막"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "가림막"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "휘장"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:04.910412067Z",
+  "model": "glm-5.2"
+}

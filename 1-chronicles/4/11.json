@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "켈룹 — 슈하의 형제 — 가 ⟨את⟩ 메히르를 낳았으니, 그는 에쉬톤의 아버지이다.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "그리고 켈룹"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "슈하의"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "메히르를"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "메히르"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "에쉬톤의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:07.247423603Z",
+  "model": "glm-5.2"
+}

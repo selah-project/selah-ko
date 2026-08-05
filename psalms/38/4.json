@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "주의 진노로 말미암아 내 살에 건강이 없고, 내 죄로 말미암아 내 뼈에 샬롬이 없다.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "건강이"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "내 살에"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "말미암아"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "주의 진노로"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "내 뼈에"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "말미암아"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "내 죄로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:41.894620099Z",
+  "model": "glm-5.2"
+}

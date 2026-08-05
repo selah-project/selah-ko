@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "보라, 내가 그에게 루아흐(바람\/영)를 넣으리니, 그가 소문을 듣고 자기 땅으로 돌아가리라. 내가 그를 그의 땅에서 칼로 쓰러뜨리리라.'\"",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "내가 넣으리니"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐를"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "소문을"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "돌아가리라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "자기 땅"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "내가 쓰러뜨리리라"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼로"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "그의 땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:04.145877130Z",
+  "model": "glm-5.2"
+}

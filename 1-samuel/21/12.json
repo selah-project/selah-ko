@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 21:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "아키쉬의 종들이 그에게 말하였다. \"이 사람이 땅의 왕 다윗이 아닙니까? 무도에서 그들에게 이렇게 부르며 화답하지 않았습니까: '샤울은 그의 천 명을 치고, 다윗은 그의 만 명을 쳤다'라고.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들이"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "아키쉬의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아닙니까"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이 사람이"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아닙니까"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "이에게"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "화답하지"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "무도에서"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울은"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "그의 천 명을"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "그의 만 명을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:14.844398084Z",
+  "model": "glm-5.2"
+}

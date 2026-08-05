@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 야훼께서 그들을 너희 앞에 넘겨주실 것인즉, 너희는 그들에게 내가 너희에게 명한 ⟨그⟩ 모든 명령대로 행하여야 한다.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "그리고 그들을 넘겨주실 것인즉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "너희 앞에"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "너희는 행하여야 한다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 …대로"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "명령"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "내가 명한"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:21.430438394Z",
+  "model": "glm-5.2"
+}

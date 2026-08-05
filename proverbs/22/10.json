@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "조롱하는 자를 쫓아내라, 그러면 다툼이 나가리니, 판결과 수치도 그치리라.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "쫓아내라"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "조롱하는 자를"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "그러면 … 나가리니"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "다툼이"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "… 그치리라"
+    },
+    {
+      "surface": "דין",
+      "gloss": "판결과"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "수치도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:36.009261199Z",
+  "model": "glm-5.2"
+}

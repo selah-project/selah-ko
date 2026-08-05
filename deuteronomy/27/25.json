@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "저주를 받을 자는 무죄한 피의 네페쉬를 치려고 뇌물을 받는 자이다. 그리고 온 백성이 아멘 하라고 ⟨할 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받을 자는"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "받는"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "뇌물을"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "치려고"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피의"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "무죄한"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 …하라고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:27.492157749Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 왕이 말하였다. “나에게 칼을 가져오라.” 그리고 그들이 칼을 왕 앞으로 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "가져오라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼을"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "가져왔다"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "칼을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    }
+  ],
+  "timestamp": "2026-08-05T09:45:58.087180410Z",
+  "model": "glm-5.2"
+}

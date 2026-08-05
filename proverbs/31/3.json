@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "네 힘을 여자들에게 주지 말라, 그리고 네 길들을 왕들을 멸하는 ⟨것⟩에게 ⟨주지 말라⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "주지"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "여자들에게"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "네 힘을"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "그리고 네 길들을"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "멸하는"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "왕들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:04.284976991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "바다에 내려가는 자들, 배들 안에서, 많은 물에서 일하는 자들. ",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "내려가는 자들"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다에"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "배들 안에서"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "일하는 자들"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일을"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에서"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:48.403744065Z",
+  "model": "glm-5.2"
+}

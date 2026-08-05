@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "함정이다, 사람이 거룩한 것을 경솔히 바치고, 그 후에 ⟨그⟩ 서원들을 살피는 것이. ",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "함정이다"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "경솔히 바치고"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한 것을"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "서원들을"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "살피는 것이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:21.665058361Z",
+  "model": "glm-5.2"
+}

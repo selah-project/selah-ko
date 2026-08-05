@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 140,
+  "translation": "야훼, 아도나이, 나의 구원의 힘이시여, ⟨그⟩ 무장의 날에 내 머리를 덮으셨다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "עז",
+      "gloss": "힘이시여"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "나의 구원의"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "덮으셨다"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "내 머리를"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "무장의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:35.871439611Z",
+  "model": "glm-5.2"
+}

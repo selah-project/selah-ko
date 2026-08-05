@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 요나탄이 다윗에게 알려 주며 말하였다. \"나의 아비 샤울이 ⟨당신⟩을 죽이려 한다. 그러니 이제 아침에 스스로 조심하시고 숨은 곳에 머물며 숨으시오.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "그리고 …이 알려 주었다"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "요나탄"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "찾고 있다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "나의 아비"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "당신을 죽이려"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "조심하시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "그리고 머물며"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "숨은 곳에"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "그리고 숨으시오"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:49.207622810Z",
+  "model": "glm-5.2"
+}

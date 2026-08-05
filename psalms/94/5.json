@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "야훼여, 그들이 ⟨당신의⟩ 백성을 짓밟고, ⟨당신의⟩ 기업을 억압하였다.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "짓밟고"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "당신의 기업을"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "억압하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:35.312307136Z",
+  "model": "glm-5.2"
+}

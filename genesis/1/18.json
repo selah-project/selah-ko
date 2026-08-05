@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 낮과 밤을 다스리기 위하여, 그리고 빛과 어둠 사이를 구별하기 위하여 ⟨활동하심⟩이었다. 엘로힘이 보셨는데, 보시기에 좋았다.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "그리고 다스리기 위하여"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "낮을"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "그리고 밤을"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "그리고 구별하기 위하여"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "האור",
+      "gloss": "빛과"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "어둠"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보셨는데"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "보시기에"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋았다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:23.893192161Z",
+  "model": "glm-5.2"
+}

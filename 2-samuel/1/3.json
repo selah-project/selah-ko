@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 다윗이 그에게 말하였다: \"어디에서 당신은 오는가?\" 그가 그에게 말하였다: \"이스라엘의 진에서 내가 도망하였다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אי",
+      "gloss": "어디에서"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "에서"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "당신은 오는가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "진에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "내가 도망하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:23.589024378Z",
+  "model": "glm-5.2"
+}

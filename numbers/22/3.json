@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "모압이 ⟨그⟩ 백성 때문에 심히 두려워하였으니, 그들이 많았기 때문이다. 그리고 모압이 이스라엘 아들들 때문에 근심하였다.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "두려워하였으니"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압이"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨그⟩ 백성"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많았으니"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "근심하였다"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압이"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T18:42:41.285039288Z",
+  "model": "glm-5.2"
+}

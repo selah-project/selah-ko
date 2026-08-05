@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨את⟩ 두 콩팥과, ⟨את⟩ 그것들 위의, 곧 허리 위의 기름과, ⟨את⟩ 간 위의 덧개를 — 콩팥과 함께 그것을 제거할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "두 콩팥"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "콩팥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "기름"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "기름"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "그것들 위에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "허리"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "덧개"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "덧개"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "간"
+    },
+    {
+      "surface": "על",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "콩팥"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "그것을 제거할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:00.005187877Z",
+  "model": "glm-5.2"
+}

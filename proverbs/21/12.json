@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "의로운 이는 악인의 집을 살피시어, 악인들을 재앙으로 뒤엎으신다.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "살피시어"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 이는"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인의"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "뒤엎으신다"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들을"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "재앙으로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:21.679799166Z",
+  "model": "glm-5.2"
+}

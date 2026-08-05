@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 그가 ⟨את⟩ 그들이 만든 송아지를 취하여, 불태웠다 — 불 속에서. 그리고 갈았다 — 그것이 고운 가루가 될 때까지. 그리고 물의 면 위에 뿌렸다. 그리고 이스라엘의 아들들에게 ⟨את⟩ 마시게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "송아지"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "송아지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것을"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "그들이 만든"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "그리고 불태웠다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불 속에서"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "그리고 갈았다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…때에"
+    },
+    {
+      "surface": "דק",
+      "gloss": "고운 가루가 되다"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "그리고 뿌렸다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물의"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "그리고 마시게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:50.766635790Z",
+  "model": "glm-5.2"
+}

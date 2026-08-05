@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그녀가 말하였다. “저 보리 여섯 ⟨단위⟩를 ⟨그⟩ 사람이 나에게 주었습니다. ‘네 시어머니에게 빈손으로 가지 말라’고 하셨기 때문입니다.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "보리"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었습니다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "가"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "빈손으로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "네 시어머니"
+    }
+  ],
+  "timestamp": "2026-08-05T18:29:29.896691605Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "물의 강줄기들이 내 눈에서 흘러내리니, 까닭은 그들이 ⟨당신의⟩ 토라를 지키지 아니함이다.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "강줄기들이"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물의"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "흘러내리니"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "…까닭은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니함이다"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "그들이 지키"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "당신의 토라를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:14.332343584Z",
+  "model": "glm-5.2"
+}

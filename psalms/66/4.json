@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "온 땅이 주께 엎드려 경배하고, 주께 노래하리이다. 주의 이름을 노래하리이다. 셀라.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "엎드려 경배하고"
+    },
+    {
+      "surface": "לך",
+      "gloss": "주께"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "노래하리이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "주께"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "노래하리이다"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "주의 이름을"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:25.805683585Z",
+  "model": "glm-5.2"
+}

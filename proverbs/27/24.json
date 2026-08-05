@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "대저 부(富)가 영원히 있지 아니하고, 면류관이 세대에서 세대로 ⟨남아 있겠는가⟩?",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "חֹסֶן",
+      "gloss": "부(富)가"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "נֶזֶר",
+      "gloss": "면류관이"
+    },
+    {
+      "surface": "לְדוֹר",
+      "gloss": "세대에서"
+    },
+    {
+      "surface": "דוֹר",
+      "gloss": "세대로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:33.905272112Z",
+  "model": "glm-5.2"
+}

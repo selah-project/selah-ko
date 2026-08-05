@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 물이 땅 위에 50일과 100일 동안 강하게 퍼져 있었다.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "그리고 강하게 퍼져 있었다"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "50일"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "그리고 100일"
+    },
+    {
+      "surface": "יום",
+      "gloss": "동안"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:10.332288823Z",
+  "model": "glm-5.2"
+}

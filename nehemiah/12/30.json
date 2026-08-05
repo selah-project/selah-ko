@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "코헨들과 레위인들이 정결하게 되었고, 그들이 ⟨את⟩ 백성과 ⟨את⟩ 성문들과 ⟨את⟩ 성벽을 정결하게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "정결하게 되었고"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "그리고 레위인들이"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "정결하게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "성문들"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "성문들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "성벽"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "성벽"
+    }
+  ],
+  "timestamp": "2026-08-05T12:39:35.656277612Z",
+  "model": "glm-5.2"
+}

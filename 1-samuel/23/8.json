@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "샤울이 ⟨את⟩ 온 백성을 전쟁을 위해 소집하였다. 케일라로 내려가 다윗과 그의 사람들을 포위하기 위함이었다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "소집하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 백성을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "전쟁을 위해"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "내려가"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "케일라로"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "포위하기"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗과"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "그의 사람들을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:24.132095728Z",
+  "model": "glm-5.2"
+}

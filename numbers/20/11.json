@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "모셔가 ⟨את⟩ 손을 들어올려, ⟨את⟩ 바위를 자기 지팡이로 두 번 치니, 물이 많이 흘러나와서 회중과 그들의 짐승이 마셨다.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "들어올려"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셔가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "손"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "치니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바위"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "바위를"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "자기 지팡이로"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "두 번"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "흘러나와서"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많이"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "마셨다"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중과"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "그들의 짐승이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:40:55.134230504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼가 그 물고기에게 말씀하시자, 그것이 ⟨את⟩ 요나를 마른 땅 위로 토해 내었다.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "말씀하시자"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "לַדָּ֑ג",
+      "gloss": "그 물고기에게"
+    },
+    {
+      "surface": "וַיָּקֵ֥א",
+      "gloss": "토해 내었다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "요나를"
+    },
+    {
+      "surface": "יוֹנָ֖ה",
+      "gloss": "요나를"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הַיַּבָּשָֽׁה",
+      "gloss": "마른 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:16.141699740Z",
+  "model": "glm-5.2"
+}

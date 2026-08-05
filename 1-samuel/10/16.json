@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 10:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "샤울이 자기 아저씨에게 말하였다. \"그가 분명히 우리에게 알려 주었습니다. 암나귀들이 발견되었다고.\" 그러나 쉬무엘이 말한 ⟨את⟩ 왕권의 일은 그에게 알려 주지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "자기 아저씨"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "분명히"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "알려"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "라고"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "발견되었다"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "암나귀들이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "왕권의 일"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "왕권의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "알려"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "말한"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "쉬무엘이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:44:47.378900423Z",
+  "model": "glm-5.2"
+}

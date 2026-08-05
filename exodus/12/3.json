@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "이스라엘 온 회중에게 말하여 이르기를, 이 달 열째에 그들이 각자 한 마리 양을, 조상 집안별로, 집마다 한 마리 양을 취하라 하라.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "회중"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "열째에"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "달"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 취하라"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨자기들을⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "שה",
+      "gloss": "한 마리 양을"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집안별로"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "조상"
+    },
+    {
+      "surface": "שה",
+      "gloss": "한 마리 양을"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집마다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:53.503989277Z",
+  "model": "glm-5.2"
+}

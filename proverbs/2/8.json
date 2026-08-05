@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "공평의 길들을 지키시며, 그의 하시딤의 길을 보존하신다.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "지키시며"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "길들을"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "공평의"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "그리고 …길을"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "그의 하시딤의"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "보존하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:39.934521689Z",
+  "model": "glm-5.2"
+}

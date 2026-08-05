@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "야훼는 바르심을 알리기 위함이니, 그는 나의 반석이시오 그 안에 불의가 없으시다.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "알리기 위함이니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "바르심을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "나의 반석이시오"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "없으시다"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "불의가"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:38.358521303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 샤울이 다윗 앞을 두려워하였으니, 이는 야훼가 그와 함께 계셨고, 샤울에게서 떠나셨기 때문이었다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "두려워하였으니"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "앞을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이었다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "계셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "그리고 …에게서"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "סר",
+      "gloss": "떠나셨기"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:09.443505287Z",
+  "model": "glm-5.2"
+}

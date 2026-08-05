@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 8:9",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 네헤먀야 — ⟨그가⟩ 곧 티르샤타 — 와 에즈라 ⟨그⟩ 코헨 ⟨그⟩ 서기관과 레위 사람들, ⟨그⟩ 백성에게 깨닫게 하는 자들이, ⟨전체⟩ 백성에게 말하였다. “오늘은 너희 엘로힘 야훼께 거룩한 날이다. 슬퍼하지 말며 울지 말라.” 온 백성이 토라의 말씀 ⟨את⟩을 들을 때에 울었기 때문이었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "네헤먀야"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그가⟩"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "티르샤타"
+    },
+    {
+      "surface": "ועזרא",
+      "gloss": "와 에즈라"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨그⟩ 코헨"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "⟨그⟩ 서기관"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "와 레위 사람들"
+    },
+    {
+      "surface": "המבינים",
+      "gloss": "깨닫게 하는 자들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨전체⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘은"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "낮이다"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지"
+    },
+    {
+      "surface": "תתאבלו",
+      "gloss": "슬퍼하지 말며"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "하지"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "울지 말라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이었다"
+    },
+    {
+      "surface": "בוכים",
+      "gloss": "울고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "들을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "토라의 말씀"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:38:04.103779653Z",
+  "model": "glm-5.2"
+}

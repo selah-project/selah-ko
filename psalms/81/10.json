@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 81,
+  "translation": "너에게 낯선 엘이 없게 하라. 그리고 낯선 엘에게 절하지 말라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "없게 하라"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있어서는"
+    },
+    {
+      "surface": "בך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "זר",
+      "gloss": "낯선"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …말라"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "절하지"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "엘에게"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "낯선"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:07.452329338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "네가 야훼 네 엘로힘과 함께 온전한 자이기를 ⟨하라⟩.",
+  "tokens": [
+    {
+      "surface": "תָּמִ֣ים",
+      "gloss": "온전한"
+    },
+    {
+      "surface": "תִּֽהְיֶ֔ה",
+      "gloss": "네가 …이기를"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֱלֹהֶֽיךָ",
+      "gloss": "네 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:21.831959301Z",
+  "model": "glm-5.2"
+}

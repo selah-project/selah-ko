@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그가 행하신 ⟨그의⟩ 기사를 기억하라, ⟨그의⟩ 이적들과 ⟨그의⟩ 입의 심판들을.",
+  "tokens": [
+    {
+      "surface": "זִכְר֗וּ",
+      "gloss": "기억하라"
+    },
+    {
+      "surface": "נִפְלְאֹתָיו֙",
+      "gloss": "그의 기사를"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "⟨그가⟩ 행하신"
+    },
+    {
+      "surface": "עָשָׂ֔ה",
+      "gloss": "⟨행하신⟩"
+    },
+    {
+      "surface": "מֹפְתָ֖יו",
+      "gloss": "그의 이적들과"
+    },
+    {
+      "surface": "וּמִשְׁפְּטֵי",
+      "gloss": "심판들을"
+    },
+    {
+      "surface": "פִֽיהוּ",
+      "gloss": "그의 입의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:14.665182448Z",
+  "model": "glm-5.2"
+}

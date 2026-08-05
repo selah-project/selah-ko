@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "여호수아와 온 이스라엘이 그들 앞에서 밀려나는 듯하였고, 광야 길로 도주하였다.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "밀려나는 듯하였고"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아와"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "그들 앞에서"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "도주하였다"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "광야"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:15.430666521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "이 사람이 누구인가, 야훼를 경외하는 자인가? ⟨그⟩ ⟨자신을⟩ ⟨그가⟩ 택할 ⟨그⟩ 길로 가르치시리라.",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "누구인가"
+    },
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "이"
+    },
+    {
+      "surface": "הָ֭אִישׁ",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "יְרֵ֣א",
+      "gloss": "경외하는"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "י֝וֹרֶ֗נּוּ",
+      "gloss": "가르치시리라"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "길로"
+    },
+    {
+      "surface": "יִבְחָֽר",
+      "gloss": "택할"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:30.965001079Z",
+  "model": "glm-5.2"
+}

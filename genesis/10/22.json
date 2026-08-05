@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "셈의 아들들은 엘람과 아쉬르와 아르파크샷과 룻과 아람이다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈의"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "엘람"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "와 아쉬르"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "와 아르파크샷"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "와 룻"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "와 아람"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:18.793395108Z",
+  "model": "glm-5.2"
+}

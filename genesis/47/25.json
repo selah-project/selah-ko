@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "그들이 말하였다. “당신은 우리를 살리셨습니다. 우리 주의 눈에 헨을 얻게 해 주십시오. 우리는 파르오의 종이 되겠습니다.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "당신은 우리를 살리셨습니다"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "⟨우리가⟩ 얻게 되었다"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "우리 주의"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "우리는 되겠습니다"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "종이"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:35.813885078Z",
+  "model": "glm-5.2"
+}

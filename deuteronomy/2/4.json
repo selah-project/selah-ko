@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 ⟨את⟩ 백성에게 명령하여 이르기를, '너희는 세이르에 사는 너희 형제 에사우의 자손의 영토를 지나가는 중이다. 그들이 너희를 두려워할 것이니, 그러므로 너희는 크게 스스로 삼가라.'",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "צו",
+      "gloss": "명령하여"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희는"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "지나가는 중이다"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "영토를"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "형제"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사우"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "사는"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "세이르에"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "두려워할 것이니"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "스스로 삼가라"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:22.195268864Z",
+  "model": "glm-5.2"
+}

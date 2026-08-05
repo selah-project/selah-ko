@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "다만 ⟨את⟩ 사슴과 ⟨את⟩ 노루를 먹듯이 그것을 먹을 것이다. 부정한 자와 정결한 자가 함께 그것을 먹을 것이다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "다만"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "∼듯이"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사슴"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "사슴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "노루"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "노루"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "너는 그것을 먹을 것이다"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "부정한 자가"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "정결한 자"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "그것을 먹을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:08.919371515Z",
+  "model": "glm-5.2"
+}

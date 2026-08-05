@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 4:43",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "삼십 세 이상부터 오십 세까지, 만남의 장막에서 일하러 군사 편제에 들어오는 모든 자들이다.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "세"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "이상"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 ~까지"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "세"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "들어오는 자들"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "군사 편제에"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "일하러"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "장막에서"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:51.646467929Z",
+  "model": "glm-5.2"
+}

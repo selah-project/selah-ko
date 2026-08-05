@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "온 회중이 그렇게 하자고 말하였다. 그 말이 온 백성의 눈에 옳았기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨것⟩을 하자고"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "옳았기"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 말이"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:16.838754755Z",
+  "model": "glm-5.2"
+}

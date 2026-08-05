@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 내가 말하였다. \"나의 끝은 망하였고, 나의 소망은 야훼에게서 ⟨떨어졌다⟩.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 내가 말하였다"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "망하였다"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "나의 끝은"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "나의 소망은"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "야훼에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:14.895953057Z",
+  "model": "glm-5.2"
+}

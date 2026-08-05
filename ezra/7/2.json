@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "샬룀의 아들이요, 차독의 아들이요, 아히툽의 아들이었다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬룀"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "차독"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "아히툽"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:36.466475545Z",
+  "model": "glm-5.2"
+}

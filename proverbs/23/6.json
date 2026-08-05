@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "악한 눈의 ⟨את⟩ 빵을 먹지 말며, 그의 진미를 탐내지 말라.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "네가 먹으리"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "빵을"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈의"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 말라"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "네가 탐내리"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "그의 진미를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:16.553382108Z",
+  "model": "glm-5.2"
+}

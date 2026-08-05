@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "저는 당신의 종입니다. 저를 깨닫게 하셔서, 당신의 증거들을 알게 하소서.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종"
+    },
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "저를 깨닫게 하셔서"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "알게 하소서"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "당신의 증거들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:36.021539810Z",
+  "model": "glm-5.2"
+}

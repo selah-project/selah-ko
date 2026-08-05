@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "진통하기 전에 그녀가 낳았고, 산고가 그녀에게 이르기 전에 그녀가 사내아이를 낳았다.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "~전에"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "진통하기"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "그녀가 낳았고"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "~전에"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "이르기"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "산고가"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "그녀가 낳았다"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "사내아이를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:28.163750083Z",
+  "model": "glm-5.2"
+}

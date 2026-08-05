@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "신중한 자의 지혜는 ⟨자신의⟩ 길을 깨닫는 것이나, 어리석은 자들의 어리석음은 속임이다.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "지혜는"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "신중한 자의"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "깨닫는"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "길을"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "그러나 어리석음은"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "어리석은 자들의"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속임이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:09.215023134Z",
+  "model": "glm-5.2"
+}

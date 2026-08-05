@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "개가 자기 토한 것으로 돌아가는 것같이, 어리석은 자는 자기 어리석음을 되풀이한다.",
+  "tokens": [
+    {
+      "surface": "כְּ֭כֶלֶב",
+      "gloss": "개가"
+    },
+    {
+      "surface": "שָׁ֣ב",
+      "gloss": "돌아가는 것같이"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨…⟩으로"
+    },
+    {
+      "surface": "קֵא֑וֹ",
+      "gloss": "자기 토한 것"
+    },
+    {
+      "surface": "כְּ֝סִ֗יל",
+      "gloss": "어리석은 자는"
+    },
+    {
+      "surface": "שׁוֹנֶ֥ה",
+      "gloss": "되풀이한다"
+    },
+    {
+      "surface": "בְאִוַּלְתּֽוֹ",
+      "gloss": "자기 어리석음을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:26.052305067Z",
+  "model": "glm-5.2"
+}

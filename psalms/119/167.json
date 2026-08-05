@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "나의 네페쉬가 당신의 에다옷을 지켰고, 나는 그것들을 매우 사랑한다.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "지켰고,"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬가"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "당신의 에다옷을"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "나는 그것들을 사랑한다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:00.415743297Z",
+  "model": "glm-5.2"
+}

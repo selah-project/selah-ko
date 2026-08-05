@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "칼렙이 ⟨את⟩ 그 백성을 모셰에게 잠잠하게 하고, 말하였다. \"올라가자, 우리가 올라가서 그것을 차지하리니, 우리가 능히 그것을 이길 수 있기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "그리고 잠잠하게 하고"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "칼렙이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라가자"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "우리가 올라가서"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "그리고 차지하리니"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "능히"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "우리가 이길 수 있"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:53.433791560Z",
+  "model": "glm-5.2"
+}

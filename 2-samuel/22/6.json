@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "셰올의 밧줄이 나를 둘러쌌다. 죽음의 올무들이 나를 맞아섰다.",
+  "tokens": [
+    {
+      "surface": "חֶבְלֵ֥י",
+      "gloss": "…의 밧줄이"
+    },
+    {
+      "surface": "שְׁא֖וֹל",
+      "gloss": "셰올"
+    },
+    {
+      "surface": "סַבֻּ֑נִי",
+      "gloss": "나를 둘러쌌다"
+    },
+    {
+      "surface": "קִדְּמֻ֖נִי",
+      "gloss": "나를 맞아섰다"
+    },
+    {
+      "surface": "מֹֽקְשֵׁי",
+      "gloss": "…의 올무들이"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "죽음"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:30.091266273Z",
+  "model": "glm-5.2"
+}

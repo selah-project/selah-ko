@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 땅의 모든 백성들이 볼 것인데, 야훼의 이름이 당신 위에 불렸음을; 그리고 그들이 당신을 두려워할 것이다.",
+  "tokens": [
+    {
+      "surface": "וְרָאוּ",
+      "gloss": "그리고 그들이 볼 것인데"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עַמֵּי",
+      "gloss": "백성들이"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "─을"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "이름이"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "נִקְרָא",
+      "gloss": "불렸음을"
+    },
+    {
+      "surface": "עָלֶיךָ",
+      "gloss": "당신 위에"
+    },
+    {
+      "surface": "וְיָרְאוּ",
+      "gloss": "그리고 그들이 두려워할 것이다"
+    },
+    {
+      "surface": "מִמֶּךָּ",
+      "gloss": "당신을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:23.818803566Z",
+  "model": "glm-5.2"
+}

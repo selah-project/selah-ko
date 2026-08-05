@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야훼의 소리가 암사슴들을 잉태하게 하시고 숲들을 벗기시며, 그분의 성전에서 ⟨그것의⟩ 모든 것이 \"영광\"이라 말한다.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "야훼의 소리가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "잉태하게 하시고"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "암사슴들을"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "벗기시며"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "숲들을"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "그분의 성전에서"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "그것의 모든 것이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:56.444265954Z",
+  "model": "glm-5.2"
+}

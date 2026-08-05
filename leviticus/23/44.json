@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 모셰가 야훼의 절기를 ⟨את⟩ 이스라엘의 아들들에게 선포하였다.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "선포하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "절기를"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "절기를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:18.904829331Z",
+  "model": "glm-5.2"
+}

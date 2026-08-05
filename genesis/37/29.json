@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "르우벤이 그 구덩이에게로 돌아갔는데, 보아라, 요셉이 그 구덩이에 없었다. 그가 ⟨את⟩ 자기 옷을 찢었다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔는데"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "르우벤이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "그 구덩이"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보아라"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "그 구덩이에"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "찢었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 옷"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:28.794307298Z",
+  "model": "glm-5.2"
+}

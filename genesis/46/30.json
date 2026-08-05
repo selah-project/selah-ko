@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "이스라엘이 요셉에게 말하였다. “이제 나는 ⟨את⟩ 당신의 얼굴을 보았으니 죽겠습니다. 당신이 여전히 살아 있기 때문입니다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …말하였다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "죽겠습니다"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "이제"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…한 후에"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "내가 …보았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 얼굴"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "당신의 얼굴"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "당신이 여전히"
+    },
+    {
+      "surface": "חי",
+      "gloss": "살아 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:01.948698780Z",
+  "model": "glm-5.2"
+}

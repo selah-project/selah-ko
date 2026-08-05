@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그분께서 그분의 말씀을 보내사 그들을 고치시고, 그들의 함정들에서부터 건지셨다.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "그분께서 보내사"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "그분의 말씀을"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "그들을 고치시고"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "건지셨다"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "그들의 함정들에서부터"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:05.295634769Z",
+  "model": "glm-5.2"
+}

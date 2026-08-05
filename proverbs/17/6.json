@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "노인들의 면류관은 자손의 자녀들이요, 자녀들의 영광은 그들의 아비들이다.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "면류관은"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "노인들의"
+    },
+    {
+      "surface": "בני",
+      "gloss": "～의 자녀"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "그리고 영광은"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "자녀들의"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "그들의 아비들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:17.001040038Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 128,
+  "translation": "네 아내는 네 집의 안쪽들에 열매 맺는 포도나무 같고, 네 아들들은 네 상 주위에 올리나무 묘목들 같으리라.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "네 아내는"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "포도나무 같고"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "열매 맺는"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "안쪽들에"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "네 집의"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "네 아들들은"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "묘목들 같으리라"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "올리나무"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "주위에"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "네 상"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:14.658424012Z",
+  "model": "glm-5.2"
+}

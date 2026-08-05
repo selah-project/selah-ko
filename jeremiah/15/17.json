@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 15:17",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "나는 웃는 자들의 모임에 앉지 아니하였고, 환호하지도 아니하였다. 주의 손 때문에 홀로 앉아 있었으니, 주의 분노가 나를 가득 채우셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "앉지"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "모임에"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "웃는 자들의"
+    },
+    {
+      "surface": "ואעלז",
+      "gloss": "환호하지도"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "주의 손"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "앉아 있었으니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "분노가"
+    },
+    {
+      "surface": "מלאתני",
+      "gloss": "나를 가득 채우셨기"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:16.455192372Z",
+  "model": "glm-5.2"
+}

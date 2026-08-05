@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그러나 너희가 거절하고 반역하면, 칼이 너희를 먹을 것이니, 이는 야훼의 입이 말씀하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만약(~하면)"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "너희가 거절하고"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "반역하면"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼이"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희를 먹을 것이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는(~ 때문이다)"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨기"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:02.982623352Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 12:8",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "아니면 땅에 말을 걸어라, 그것이 너를 가르치리라. 바다의 물고기들도 네게 말해 주리라.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "말을 걸어라"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "그것이 너를 가르치리라"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "말해 주리라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "물고기들도"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:27.986569799Z",
+  "model": "glm-5.2"
+}

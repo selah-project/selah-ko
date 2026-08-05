@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 20:30",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "남은 자들은 아페카 성읍으로 도망하였고, 성벽이 남은 이만 칠천 명 위에 무너졌다. 벤-하다드는 도망하여, 그 성읍으로, 방 안의 방으로 들어갔다.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "도망하였고"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "남은 자들은"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "아페카"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "무너졌다"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "성벽이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "이십"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "칠"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "남은"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "벤-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하다드는"
+    },
+    {
+      "surface": "נס",
+      "gloss": "도망하여"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "방"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "방 안의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:54:48.551151214Z",
+  "model": "glm-5.2"
+}

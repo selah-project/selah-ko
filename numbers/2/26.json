@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그의 군대와 그들의 점검된 자들은 62,000명과 700명이다.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "그의 군대와"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "그들의 점검된 자들은"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "2"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "60"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "7"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:02.278440205Z",
+  "model": "glm-5.2"
+}

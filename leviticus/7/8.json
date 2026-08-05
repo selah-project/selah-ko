@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 그 코헨이 — 누군가의 올라 제물 ⟨את⟩ 드리는 자 — 그 올라 제물의 가죽, 자기가 드린 그것, 그 코헨에게 그의 것이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "그리고 그 코헨이"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "드리는 자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "올라 제물을"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "올라 제물"
+    },
+    {
+      "surface": "איש",
+      "gloss": "누군가의"
+    },
+    {
+      "surface": "עור",
+      "gloss": "가죽"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "그 올라 제물의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~한"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "드린"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "그 코헨에게"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그의"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "될 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:30.826479092Z",
+  "model": "glm-5.2"
+}

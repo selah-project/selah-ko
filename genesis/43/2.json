@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그리고 그들이 미츠라임에서 가져온 ⟨그⟩ 곡식을 다 먹어버렸을 때, 그들의 아버지가 그들에게 말하였다. \"돌아가서 우리를 위하여 양식을 조금 사 오라.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ─가 일어났다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "┌─할 때"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "그들이 다 썼을"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 곡식을"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "그 곡식"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "그들이 가져온"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ─가 말하였다"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "그들의 아버지가"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "사 오라"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위하여"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "양식을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:04.276630138Z",
+  "model": "glm-5.2"
+}

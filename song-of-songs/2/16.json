@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "나의 사랑하는 이는 나의 것이요, 나는 그의 것이다. 그가 백합화 가운데서 양 떼를 먹이는 자이다.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "나의 사랑하는 이는"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의 것이요"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그의 것이다"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "양 떼를 먹이는 자이다"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "백합화 가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:24.317561972Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "대전 ⟨당신의⟩ 뜰에서의 하루가 천 날보다 나으니, ⟨저는⟩ 택하였습니다, ⟨저의⟩ 엘의 집 문지방에 서 있는 것을, 악의 장막에 거하는 것보다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대전"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "나으니"
+    },
+    {
+      "surface": "יום",
+      "gloss": "하루가"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "⟨당신의⟩ 뜰에서의"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "천 날보다"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "⟨저는⟩ 택하였습니다"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "서 있는 것을"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨저의⟩ 엘의"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "거하는 것보다"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "장막에"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:19.131268727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "모셰와 아하론이 파르오 앞에서 ⟨את⟩ 이 모든 징표들을 행하였으나, 야훼께서 ⟨את⟩ 파르오의 마음을 굳게 하셨으므로, 그가 ⟨את⟩ 이스라엘의 아들들을 그의 땅에서 보내지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "모셰와"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행하였으나"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 징표들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "징표들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "굳게 하셨으므로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오의 마음을"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "그의 땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:19.748063915Z",
+  "model": "glm-5.2"
+}

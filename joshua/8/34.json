@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그 후에 그가 ⟨את⟩ 토라의 모든 말씀 — 축복과 저주 — 를 읽었으니, 토라 책에 기록된 모든 것대로였다.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 … 후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "읽었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "축복"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "그리고 저주"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것대로"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "기록된"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "책에"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:22.999364242Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 너는 ⟨את⟩ 미쉬칸을 세우되, 산에서 네게 보이신 그것의 규례대로 하라.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "그리고 너는 세우되"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "미쉬칸을"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "그것의 규례대로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "보이신"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:30.495667723Z",
+  "model": "glm-5.2"
+}

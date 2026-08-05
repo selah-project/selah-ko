@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "나는 누워 잠들었고, 깨어났다 — 야훼께서 나를 붙드셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "누워"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "잠들었고"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "깨어났다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "나를 붙드셨기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:24.108513496Z",
+  "model": "glm-5.2"
+}

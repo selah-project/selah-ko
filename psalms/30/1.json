@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "미즈모르, 노래, 집의 봉헌을 위한, 다윗의.",
+  "tokens": [
+    {
+      "surface": "מִזְמ֡וֹר",
+      "gloss": "미즈모르"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "חֲנֻכַּ֖ת",
+      "gloss": "봉헌을 위한"
+    },
+    {
+      "surface": "הַבַּ֣יִת",
+      "gloss": "집의"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:38.928391772Z",
+  "model": "glm-5.2"
+}

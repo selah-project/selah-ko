@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "미츠라임 사람들이 뒤쫓아, 파르오의 모든 말과 그의 병거와 그의 기병과 함께 그들 뒤로 바다 한가운데로 들어갔다.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "뒤쫓아"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임 사람들이"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "그들 뒤로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "말과"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "그의 병거와"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "그의 기병과 함께"
+    },
+    {
+      "surface": "אל",
+      "gloss": "로"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:00.939865734Z",
+  "model": "glm-5.2"
+}

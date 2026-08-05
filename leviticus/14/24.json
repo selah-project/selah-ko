@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 코헨은 ⟨את⟩ 아쉬람의 어린 양과 ⟨את⟩ 기름의 로그를 취하고, 코헨은 그것들을 야훼 앞에서 흔듦으로 헌신제물로 드릴 것이다.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "그리고 취하고"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아쉬람의 어린 양"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "어린 양"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "아쉬람의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "기름의 로그"
+    },
+    {
+      "surface": "לג",
+      "gloss": "로그"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "기름의"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "그리고 흔듦으로 드릴 것이다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 그것들을",
+      "marks": "그것들"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨은"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "헌신제물로"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:40.631348140Z",
+  "model": "glm-5.2"
+}

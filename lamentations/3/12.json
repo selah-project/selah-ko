@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "⟨그가⟩ ⟨את⟩ 그의 활을 당기시고, ⟨את⟩ 나를 화살의 표적으로 세우셨다.",
+  "tokens": [
+    {
+      "surface": "דָּרַךְ",
+      "gloss": "당기시고"
+    },
+    {
+      "surface": "קַשְׁתּוֹ",
+      "gloss": "그의 활을"
+    },
+    {
+      "surface": "וַיַּצִּיבֵנִי",
+      "gloss": "나를 세우셨다"
+    },
+    {
+      "surface": "כַּמַּטָּרָא",
+      "gloss": "표적으로"
+    },
+    {
+      "surface": "לַחֵץ",
+      "gloss": "화살의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:12.227371434Z",
+  "model": "glm-5.2"
+}

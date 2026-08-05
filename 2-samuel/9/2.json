@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "샤울의 집에 한 종이 있었는데, 그의 이름은 찌바였다. 그들이 그를 다윗에게 부르니, 왕이 그에게 말씀하셨다. \"당신이 찌바인가?\" 찌바가 말하였다. \"종입니다.\"",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "의 집에"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종이"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "그의 이름은"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "찌바였다"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "부르니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "찌바인가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "종입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:59.218101448Z",
+  "model": "glm-5.2"
+}

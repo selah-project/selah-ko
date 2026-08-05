@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그래서 내가 보았으나 아무도 없었다, 그들 중에서도 조언자가 없었다; 내가 그들에게 물었으나 그들이 말로 대답하는 자가 없었다.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "그래서 내가 보았다"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그런데 없었다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "그들 중에서도"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "조언자"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "내가 그들에게 물었으나"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "그들이 대답하다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:33.179066065Z",
+  "model": "glm-5.2"
+}

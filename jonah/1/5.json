@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 1:5",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 선원들은 두려워하였고, 각자 자기의 엘에게 부르짖었으며, 배 안에 있는 ⟨את⟩ 짐들을 바다로 던졌으니, 그것들을 가볍게 하려 함이었다. 그리고 요나는 ⟨그⟩ 배의 깊은 곳으로 내려가 누워 깊이 잠들었다.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "두려워하였고"
+    },
+    {
+      "surface": "המלחים",
+      "gloss": "선원들은"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "부르짖었으며"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "אל",
+      "gloss": "자기의"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "엘에게"
+    },
+    {
+      "surface": "ויטלו",
+      "gloss": "던졌으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "짐들을"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "짐들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "באניה",
+      "gloss": "배 안에 있는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "가볍게 하려"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "함이었다"
+    },
+    {
+      "surface": "ויונה",
+      "gloss": "그리고 요나는"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "내려가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "깊은 곳"
+    },
+    {
+      "surface": "הספינה",
+      "gloss": "배의"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "누워"
+    },
+    {
+      "surface": "וירדם",
+      "gloss": "깊이 잠들었다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:26:34.635498559Z",
+  "model": "glm-5.2"
+}

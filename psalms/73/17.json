@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "내가 엘의 성소들에 들어갈 때까지, 그제야 내가 그들의 끝을 깨달았다.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אָ֭בוֹא",
+      "gloss": "내가 들어가"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מִקְדְּשֵׁי",
+      "gloss": "성소들"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "אָ֝בִ֗ינָה",
+      "gloss": "깨달았다"
+    },
+    {
+      "surface": "לְאַחֲרִיתָֽם",
+      "gloss": "그들의 끝을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:34.272863204Z",
+  "model": "glm-5.2"
+}

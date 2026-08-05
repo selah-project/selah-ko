@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "엘로힘이 ⟨את⟩ 야펫에게 넓히시기를, 그가 셈의 천막들에 거할 것이며, 그리고 케나안은 그들의 종이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "넓히시기를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야펫"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "야펫에게"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "그리고 ⟨그가⟩ 거할 것이다"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "의 천막들에"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨그가⟩ 될 것이다"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "케나안은"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:07.253952671Z",
+  "model": "glm-5.2"
+}

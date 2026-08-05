@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "죄인들을 재앙이 뒤쫓으나, 의인들에게는 ⟨את⟩ 좋은 것을 갚아주신다.",
+  "tokens": [
+    {
+      "surface": "חַ֭טָּאִים",
+      "gloss": "죄인들을"
+    },
+    {
+      "surface": "תְּרַדֵּ֣ף",
+      "gloss": "뒤쫓으나"
+    },
+    {
+      "surface": "רָעָ֑ה",
+      "gloss": "재앙이"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "의인들을"
+    },
+    {
+      "surface": "צַ֝דִּיקִ֗ים",
+      "gloss": "의인들에게는"
+    },
+    {
+      "surface": "יְשַׁלֵּ֥ם",
+      "gloss": "갚아주신다"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "좋은 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:34.303017227Z",
+  "model": "glm-5.2"
+}

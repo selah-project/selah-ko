@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "야훼께서 ⟨את⟩ 아이오브에게 대답하시고 말씀하셨다.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아이오브"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "아이오브"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:14.949744602Z",
+  "model": "glm-5.2"
+}

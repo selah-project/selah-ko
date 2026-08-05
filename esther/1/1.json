@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "아하수에로의 날들에 — 그는 곧 인도에서 쿠쉬에 이르기까지, 일곱이 스물과 백, ⟨곧 127⟩ 지방을 다스리던 아하수에로다 —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이었다"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "…의 날들에"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "아하수에로"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "아하수에로"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "인도에서"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 …에 이르기까지"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "쿠쉬"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "그리고 스물"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "그리고 백"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "지방"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:29.613699107Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "네가 보고 있는 모든 땅을 내가 네게 주리니, 네 씨에게 영원히 ⟨그리하리라⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "또는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 땅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨…⟩하는"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보고 있는"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "내가 주리니"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "그리고 네 씨에게"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:29.158599702Z",
+  "model": "glm-5.2"
+}

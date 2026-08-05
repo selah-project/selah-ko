@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "악을 선으로 되갚는 자, 그의 집에서 악이 떠나지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "되갚는 자"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신하여"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "선을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "떠나지"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악이"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "그의 집에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:41.881658441Z",
+  "model": "glm-5.2"
+}

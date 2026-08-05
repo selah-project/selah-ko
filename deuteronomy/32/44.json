@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "모셰가 와서 ⟨את⟩ 이 노래의 모든 말씀을 ⟨그⟩ 백성의 귀에 말하였으니, 그와 호셰아 눈의 아들이었다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 … 와서"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "그리고 … 말하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 노래의 모든 말씀을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "이 노래의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "귀에"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "그리고 호셰아"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נון",
+      "gloss": "눈의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:58.809858943Z",
+  "model": "glm-5.2"
+}

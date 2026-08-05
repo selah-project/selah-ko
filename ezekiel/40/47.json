@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그가 ⟨את⟩ 뜰을 측정하니 — 길이가 백 큐빗, 너비가 백 큐빗으로, 네모지며 — 그리고 그 제단은 집 앞에 있었다.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "그가 측정하니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "뜰을"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "길이가"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "큐빗"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "너비가"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "큐빗"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "네모지며"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "그리고 그 제단은"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:16.413437432Z",
+  "model": "glm-5.2"
+}

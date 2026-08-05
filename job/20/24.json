@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그가 무기에서 도망하면 놋쇠 화살이 그를 꿰뚫으리라.",
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "도망하면"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "무기에서"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "그를 꿰뚫으리라"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "활"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "놋쇠"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:55.622363905Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "야곱은 아람 들판으로 도망하였고, 이스라엘은 아내 때문에 섬겼고, 아내 때문에 지켰다.",
+  "tokens": [
+    {
+      "surface": "ובריח",
+      "gloss": "도망하였고"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "들판으로"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "섬겼고"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "아내 때문에"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "아내 때문에"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지켰다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:44.588416816Z",
+  "model": "glm-5.2"
+}

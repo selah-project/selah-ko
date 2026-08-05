@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "의로운 자는 ⟨그⟩ 자신의 네페쉬의 만족을 위하여 먹지만, 악인들의 배는 부족하다.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자는"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹지만"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "만족을 위하여"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "그 자신의 네페쉬의"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "배는"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "부족하다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:06.362980686Z",
+  "model": "glm-5.2"
+}

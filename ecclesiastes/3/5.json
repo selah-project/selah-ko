@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "돌을 던질 때가 있고, 돌을 모을 때가 있다. 끌어안을 때가 있고, 끌어안음에서 멀어질 때가 있다.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "던질"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "돌을"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "모을"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "돌을"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "끌어안을"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "멀어질"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "끌어안음에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:29.778786739Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "눈의 높음과 마음의 넓음 — 악인의 밭갈이는 죄이다.",
+  "tokens": [
+    {
+      "surface": "רוּם",
+      "gloss": "높음"
+    },
+    {
+      "surface": "עֵ֭ינַיִם",
+      "gloss": "눈의"
+    },
+    {
+      "surface": "וּרְחַב",
+      "gloss": "넓음"
+    },
+    {
+      "surface": "לֵ֑ב",
+      "gloss": "마음의"
+    },
+    {
+      "surface": "נִ֖ר",
+      "gloss": "밭갈이"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "악인의"
+    },
+    {
+      "surface": "חַטָּֽאת",
+      "gloss": "죄이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:35.798420044Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "아브라함은 백 살이었는데, ⟨그에게⟩ ⟨את⟩ 이삭 ⟨그의⟩ 아들이 태어났을 때이다.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "아브라함은"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "태어났을 때"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이삭"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨그의⟩ 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:55.617473202Z",
+  "model": "glm-5.2"
+}

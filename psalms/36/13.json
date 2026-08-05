@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "거기 ⟨에⟩ 악을 행하는 자들이 넘어졌다 — 밀려났고, 일어설 ⟨수⟩ 없다.",
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "넘어졌다"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "행하는 자들이"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "악을"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "밀려났고"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "없다"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "할"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "일어설"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:48.053568386Z",
+  "model": "glm-5.2"
+}

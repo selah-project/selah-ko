@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 17:6",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 이스라엘 아들들의 온 회중이 이튿날 모셰와 아론에게 원망하며 말하기를, '당신들이 야훼의 백성 ⟨את⟩ 을 죽였다' 하였다.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "그리고 원망하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "이튿날"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "당신들이"
+    },
+    {
+      "surface": "המתם",
+      "gloss": "죽였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:05:21.422996615Z",
+  "model": "glm-5.2"
+}

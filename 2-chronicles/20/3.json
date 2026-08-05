@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "여호샤팟이 두려워하여 ⟨את⟩ 그의 얼굴을 야훼를 구하려라 ⟨고정하였다⟩; 그리고 온 유다에 금식을 선포하였다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "두려워하여"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "⟨고정하였다⟩"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "여호샤팟이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 얼굴을"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "구하려라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 선포하였다"
+    },
+    {
+      "surface": "צום",
+      "gloss": "금식을"
+    },
+    {
+      "surface": "על",
+      "gloss": "∼에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:04.261911898Z",
+  "model": "glm-5.2"
+}

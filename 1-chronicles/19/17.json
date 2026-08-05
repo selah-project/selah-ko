@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그것이 다윗에게 알려지매 그가 ⟨את⟩ 온 이스라엘을 모으시고 요르단을 건너 그들에게 나아가 그들 맞은편에 진을 갖추었고, 다윗이 아람과 맞서 전쟁 진영을 갖추자 그들이 그와 더불어 싸웠다.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알려지매"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "모으시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "건너"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "진영을 갖추었고"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들 맞은편에"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "진영을 갖추자"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "맞서"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "싸웠다"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 더불어"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:15.983481825Z",
+  "model": "glm-5.2"
+}

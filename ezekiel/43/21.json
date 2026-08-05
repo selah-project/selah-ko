@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그리고 네가 ⟨את⟩ 속죄제 수소를 취하여, 그것을 성소 밖 집의 지정된 곳에서 불사르리라.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "그리고 네가 취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "속죄제 수소"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "수소를"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "속죄제의"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "그리고 불사르리라"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "지정된 곳에서"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "바깥에"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "성소의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:03:18.305423124Z",
+  "model": "glm-5.2"
+}

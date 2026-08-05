@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "새가 땅의 덫에 떨어지리오, 그리고 ⟨그것에게⟩ 미끼가 없이? 덫이 땅에서 올라가리오, 그리고 포획하지 않고는 잡지 아니하리이까?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "떨어지리오"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "새가"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "פח",
+      "gloss": "덫"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "그리고 미끼"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨그것에게⟩"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "올라가리오"
+    },
+    {
+      "surface": "פח",
+      "gloss": "덫이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "~에서"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "그리고 포획"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "잡지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:09:42.049022348Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 아론에게 ⟨את⟩ 나답과 ⟨את⟩ 아비후, ⟨את⟩ 엘아자르와 ⟨את⟩ 이타마르가 태어났다.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "그리고 태어났다"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아론에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나답을"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "나답과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아비후를"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "아비후,"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘아자르를"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "이타마르를"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "이타마르가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:44:21.581636536Z",
+  "model": "glm-5.2"
+}

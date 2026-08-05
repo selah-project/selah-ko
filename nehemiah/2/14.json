@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 2:14",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 나는 샘 문으로, 그리고 왕의 못으로 지나가니, 내 아래 있는 짐승이 지나갈 자리가 없었다.",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "나는 지나갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문"
+    },
+    {
+      "surface": "העין",
+      "gloss": "샘"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~로"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "못"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "자리가"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "짐승에게"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "지나갈"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "내 아래"
+    }
+  ],
+  "timestamp": "2026-08-05T12:35:52.070270579Z",
+  "model": "glm-5.2"
+}

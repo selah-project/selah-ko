@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 95,
+  "translation": "사십 년을 내가 그 세대를 싫어하여 말하였다 — 마음이 방황하는 백성, 그들이요, 그들이 내 길들을 알지 못한다.",
+  "tokens": [
+    {
+      "surface": "אַרְבָּ֘עִ֤ים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "שָׁנָ֨ה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "אָ֘ק֤וּט",
+      "gloss": "내가 싫어하여"
+    },
+    {
+      "surface": "בְּד֗וֹר",
+      "gloss": "그 세대를"
+    },
+    {
+      "surface": "וָאֹמַ֗ר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "עַ֤ם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "תֹּעֵ֣י",
+      "gloss": "방황하는"
+    },
+    {
+      "surface": "לֵבָ֣ב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "הֵ֑ם",
+      "gloss": "그들이요"
+    },
+    {
+      "surface": "וְהֵ֗ם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יָדְע֥וּ",
+      "gloss": "알지"
+    },
+    {
+      "surface": "דְּרָכָֽי",
+      "gloss": "내 길들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:12.897134755Z",
+  "model": "glm-5.2"
+}

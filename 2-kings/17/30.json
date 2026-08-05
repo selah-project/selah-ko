@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "바벨 사람들은 ⟨את⟩ 수코트 브노트를 만들었고, 쿠트 사람들은 ⟨את⟩ 네르갈을 만들었고, 하맛 사람들은 ⟨את⟩ 아쉬마를 만들었다.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "그리고 … 사람들은"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "수코트 브노트"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "수코트"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "브노트"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "그리고 … 사람들은"
+    },
+    {
+      "surface": "כות",
+      "gloss": "쿠트"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네르갈"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "네르갈"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "그리고 … 사람들은"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "하맛"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아쉬마"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "아쉬마"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:31.604317604Z",
+  "model": "glm-5.2"
+}

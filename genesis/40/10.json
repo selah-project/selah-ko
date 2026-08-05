@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그 포도나무에 세 덩굴이 있었고, ⟨그것은⟩ 새싹이 나듯 그 꽃이 올라왔으며, 그 포도송이들은 익은 포도를 맺었다.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "그 포도나무에"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "세"
+    },
+    {
+      "surface": "שריגים",
+      "gloss": "덩굴이"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "새싹이 나듯"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "올라왔으며"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "그 꽃이"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "익게 하였다"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "그 포도송이들은"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "포도를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:47.066112438Z",
+  "model": "glm-5.2"
+}

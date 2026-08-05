@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 5:25",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그들이 그들의 조상들의 엘로힘을 향해 배신하였고, 그 땅의 백성들의 엘로힘들을 따라 음란하였으니, 그 백성들은 엘로힘이 그들의 면전에서 멸하신 자들이었다.",
+  "tokens": [
+    {
+      "surface": "וימעלו",
+      "gloss": "배신하였고"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "엘로힘을 향해"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "그들의 조상들의"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "음란하였으니"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "따라"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘들을"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "백성들의"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "자들이었다"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "멸하신"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "그들의 면전에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:29.382755225Z",
+  "model": "glm-5.2"
+}

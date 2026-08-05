@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "이와 같이 ⟨את⟩ ⟨그의⟩ 이웃을 속이고서 말하는 사람이다. “나 농담하는 것이 아니냐?”",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이다"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "속이고서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이웃"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "이웃"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "말하는"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "…아니냐?"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "농담하는"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:16.342864834Z",
+  "model": "glm-5.2"
+}

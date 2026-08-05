@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 2:36",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "왕이 보내어 ⟨את⟩ 시므이를 부르시고 그에게 말씀하셨다. \"너를 위해 예루샬라임에 집을 짓고 거기에 거주하여라. 그리고 거기에서 이리저리 나가지 말라.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "부르시고"
+    },
+    {
+      "surface": "לשמעי",
+      "gloss": "시므이를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "지어라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "거주하여라"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 말라"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "나가지"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기에서"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "이리"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "저리"
+    }
+  ],
+  "timestamp": "2026-08-05T09:45:47.901331436Z",
+  "model": "glm-5.2"
+}

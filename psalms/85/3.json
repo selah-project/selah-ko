@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "당신은 당신 백성의 죄악을 거두어 들이셨다. 그들의 모든 죄를 덮으셨다. 셀라.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "거두어 들이셨다"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악을"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신 백성의"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "덮으셨다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "그들의 죄를"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:24.528035478Z",
+  "model": "glm-5.2"
+}

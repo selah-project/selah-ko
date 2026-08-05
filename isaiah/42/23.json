@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "너희 가운데 누가 이것에 귀를 기울이며, 주의를 드고 뒤에 올 일을 듣겠는가?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "너희 가운데"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "귀를 기울이며"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것에"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "주의를 드고"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "듣겠는가"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "뒤에 올 일을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:46.898788274Z",
+  "model": "glm-5.2"
+}

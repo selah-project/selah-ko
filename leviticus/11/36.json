@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "오직 샘과 우물, 물이 모인 곳은 정할 것이요, 그것들의 사체에 ⟨닿⟩는 자는 부정해질 것이다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "샘"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "그리고 우물"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "모인 곳"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "…이다"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "정하다"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "그리고 닿다"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "그것들의 사체에"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "부정해지다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:16:17.247205303Z",
+  "model": "glm-5.2"
+}

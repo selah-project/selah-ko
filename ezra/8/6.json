@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 8:6",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 아딘의 아들들 중에서 — 요나단의 아들 에베드, 그와 함께 남자 오십 명.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "그리고 …의 아들들 중에서"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "아딘"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "에베드"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "요나단"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "남자들"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:59.518201513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "또 내가 부르짖고 도움을 탄원할 때에도 ⟨그가⟩ 나의 기도를 막으셨다.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "또"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "…때에도"
+    },
+    {
+      "surface": "אֶזְעַק֙",
+      "gloss": "내가 부르짖고"
+    },
+    {
+      "surface": "וַאֲשַׁוֵּ֔עַ",
+      "gloss": "도움을 탄원할"
+    },
+    {
+      "surface": "שָׂתַ֖ם",
+      "gloss": "막으셨다"
+    },
+    {
+      "surface": "תְּפִלָּתִֽי",
+      "gloss": "나의 기도를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:10.372875901Z",
+  "model": "glm-5.2"
+}

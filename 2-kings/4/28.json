@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그녀가 말하였다. “제가 내 주인에게서 아들을 구하였습니까? 제가 '나를 속이지 마옵소서' 하지 않았습니까?”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "구하였습니까"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주인"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "아닙니까"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "하였습니까"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "속이지"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:18.052560219Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "코헨이 ⟨את⟩ 병변을 보고, 그 병변을 이레 동안 가두어 두어야 한다.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "병변"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "병변을"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "가두어 두어야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "병변"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "병변을"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "이레"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "동안"
+    }
+  ],
+  "timestamp": "2026-08-05T08:17:20.751374330Z",
+  "model": "glm-5.2"
+}

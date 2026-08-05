@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "그와 함께 전차도, 기병도 올라갔고, 그 진영은 매우 무거웠다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "전차"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "기병"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨그것은⟩ …이었다"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "그 진영"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "무거웠다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    }
+  ],
+  "timestamp": "2026-08-05T13:35:13.546994162Z",
+  "model": "glm-5.2"
+}

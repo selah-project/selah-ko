@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "아브라함이 늙어 날들에 들어왔고, 야훼께서 ⟨את⟩ 아브라함을 모든 것으로 축복하셨다.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "늙어"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "날들에"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브라함"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함을"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든 것으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:28.932028344Z",
+  "model": "glm-5.2"
+}

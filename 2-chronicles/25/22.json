@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "유다가 이스라엘 앞에서 패하매, 각 사람이 ⟨그의⟩ 천막으로 도망하였다.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "패하매"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다가"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각 사람이"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "그의 천막으로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:00:59.157779214Z",
+  "model": "glm-5.2"
+}

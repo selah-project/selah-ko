@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 5:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "아람 왕이 “가라, 가서 내가 이스라엘 왕에게 편지를 보내겠다” 하고 말하니, ⟨그가⟩ 가서 손에 은 열 달란트와 금 육천 ⟨개⟩와 의복 열 벌을 가져갔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "하고 말하니"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "בא",
+      "gloss": "가서"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "내가 보내겠다"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "편지를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가니"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "가져갔다"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "손에"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "달란트"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "육천"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "벌"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "의복"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:53.052832792Z",
+  "model": "glm-5.2"
+}

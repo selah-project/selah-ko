@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그 날에 아키쉬가 그에게 ⟨את⟩ 치클라그를 주었다. 그러므로 치클라그는 오늘 이 날까지 유다의 왕들의 것이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "아키쉬가"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "치클라그를"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "치클라그"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "치클라그는"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "왕들의"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이 날"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:14.706046469Z",
+  "model": "glm-5.2"
+}

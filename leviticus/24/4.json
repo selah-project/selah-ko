@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그가 ⟨את⟩ 등불들을 순결한 мено라 위에, 야훼 앞에서 끊임없이 진열할 것이다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "메노라"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "순결한"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "진열할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "등불들을"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "등불들을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "끊임없이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:48.408151787Z",
+  "model": "glm-5.2"
+}

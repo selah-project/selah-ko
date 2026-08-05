@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이튿날이 되자, 그가 ⟨그⟩ 덮개를 가져다 물에 적시어 그의 얼굴 위에 펴니, 그가 죽었다. 하자엘이 그를 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "되자"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "이튿날이"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "가져다"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "덮개를"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "적시어"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "펴니"
+    },
+    {
+      "surface": "על",
+      "gloss": "—위에"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "하자엘이"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:40.615168788Z",
+  "model": "glm-5.2"
+}

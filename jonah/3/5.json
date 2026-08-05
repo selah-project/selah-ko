@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 니느웨 사람들이 엘로힘을 믿었고, 금식을 선포하였고, 거친 베옷을 입었으니, ⟨그⟩ 큰 자부터 ⟨그⟩ 작은 자까지였다.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "그리고 믿었고"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "니느웨"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "그리고 선포하였고"
+    },
+    {
+      "surface": "צום",
+      "gloss": "금식을"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "그리고 입었으니"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "거친 베옷을"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "큰 자부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "작은 자"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:39.063003380Z",
+  "model": "glm-5.2"
+}

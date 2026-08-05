@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "야훼께서 예루샬라임을 세우시며, 이스라엘의 쫓겨난 자들을 모으신다.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "세우시며"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "쫓겨난 자들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "모으신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:10.543156457Z",
+  "model": "glm-5.2"
+}

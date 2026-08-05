@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "라브 샤케가 돌아가서, 아슈르 왕이 리브나와 싸우고 있는 것을 발견하였다. 그가 라키쉬에서 떠났다는 소식을 들었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아가서"
+    },
+    {
+      "surface": "רב",
+      "gloss": "라브"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "샤케가"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "발견하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아슈르 왕을"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "싸우고 있는"
+    },
+    {
+      "surface": "על",
+      "gloss": "와"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "리브나"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들었기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "떠났다는"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "라키쉬에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:04.146024979Z",
+  "model": "glm-5.2"
+}

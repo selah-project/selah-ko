@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "왕이 ⟨그의⟩ 자리에 앉아 있는 동안, 나의 발라름이 ⟨그것의⟩ 향기를 내뿜었다.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "동안"
+    },
+    {
+      "surface": "שֶׁ֤הַמֶּ֨לֶךְ֙",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "בִּמְסִבּ֔וֹ",
+      "gloss": "⟨그의⟩ 자리에 앉아 있는"
+    },
+    {
+      "surface": "נִרְדִּ֖י",
+      "gloss": "나의 발라름이"
+    },
+    {
+      "surface": "נָתַ֥ן",
+      "gloss": "내뿜었다"
+    },
+    {
+      "surface": "רֵיחֽוֹ",
+      "gloss": "⟨그것의⟩ 향기를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:03.602882438Z",
+  "model": "glm-5.2"
+}

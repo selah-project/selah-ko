@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 데비르의 입구를 위하여, 올리브나무 문들과 ⟨문⟩ 기둥 문지방들을 만들었다 — 다섯째 부분 ⟨만큼⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "데비르의 입구를"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구를"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "데비르의"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "문들"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "올리브"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "기둥"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "문지방들을"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "다섯째 부분"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:54.860893671Z",
+  "model": "glm-5.2"
+}

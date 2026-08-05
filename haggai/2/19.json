@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "haggai 2:19",
+  "book": "haggai",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "씨가 아직도 곳간에 있는가? 그리고 포도나무와 무화과나무와 석류나무와 올리브나무가 ⟨아직⟩ 결실하지 못하였다 — 이 날에서부터 나는 너희를 축복하겠다.",
+  "tokens": [
+    {
+      "surface": "העוד",
+      "gloss": "아직도 … ⟨있는가⟩"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "씨가"
+    },
+    {
+      "surface": "במגורה",
+      "gloss": "곳간에"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 … ⟨이르기까지⟩"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "포도나무"
+    },
+    {
+      "surface": "והתאנה",
+      "gloss": "그리고 무화과나무"
+    },
+    {
+      "surface": "והרמון",
+      "gloss": "그리고 석류나무"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "그리고 나무"
+    },
+    {
+      "surface": "הזית",
+      "gloss": "올리브"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "결실하지 못하였다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "היום",
+      "gloss": "날"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "나는 … 축복하겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:49.758650862Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그의 종 아브라함의 씨, 야곱의 아들들 그의 택하신 자들",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "씨"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함의"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "그의 종"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "그의 택하신 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:11.119605059Z",
+  "model": "glm-5.2"
+}

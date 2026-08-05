@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "모셰와 아하론은 파르오에게 나아가, 야훼께서 명령하신 대로 그리 하였다. 아하론은 ⟨את⟩ 자기 지팡이를 파르오 앞과 그의 신하들 앞에 던졌더니, 그것이 큰 뱀이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰와"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "아하론은"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "그리 하였다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "던졌더니"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 지팡이를"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "자기 지팡이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "그리고 앞에"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 신하들"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "큰 뱀이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:42.290471315Z",
+  "model": "glm-5.2"
+}

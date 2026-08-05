@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "야훼는 ⟨나의⟩ 돕는 자들 가운데 계시니, 내가 ⟨나를⟩ 미워하는 자들을 볼 것이다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "돕는 자들 가운데 계시니"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "볼 것이다"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "나를 미워하는 자들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:51.478859798Z",
+  "model": "glm-5.2"
+}

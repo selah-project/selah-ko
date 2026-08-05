@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 35:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그런데 ⟨지금⟩ 그것이 없으므로, 그분께서 그분의 진노를 심판하셨고, 그분은 크게 ⟨그⟩ 반역을 알지 못하신다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그런데 ⟨지금⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "심판하셨고"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "그분의 진노를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "않으신다"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "בפש",
+      "gloss": "반역을"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:57.109763392Z",
+  "model": "glm-5.2"
+}

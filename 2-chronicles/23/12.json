@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "아탈리야가 ⟨את⟩ 달려오며 왕을 찬양하는 백성의 소리를 듣고, 백성에게로, 야훼의 집으로 들어갔다.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "아탈리야가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소리를"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "달려오며"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "찬양하는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕을"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게로"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:10:38.662303410Z",
+  "model": "glm-5.2"
+}

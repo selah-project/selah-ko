@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "어찌하여 모태에서 죽지 않았는가, 배에서 나와 숨을 거두지 않았는가?",
+  "tokens": [
+    {
+      "surface": "לָ֤מָּה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "…않"
+    },
+    {
+      "surface": "מֵרֶ֣חֶם",
+      "gloss": "모태에서"
+    },
+    {
+      "surface": "אָמ֑וּת",
+      "gloss": "죽지"
+    },
+    {
+      "surface": "מִבֶּ֖טֶן",
+      "gloss": "배에서"
+    },
+    {
+      "surface": "יָצָ֣אתִי",
+      "gloss": "나와"
+    },
+    {
+      "surface": "וְאֶגְוָֽע",
+      "gloss": "숨을 거두지 않았는가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:04.271438878Z",
+  "model": "glm-5.2"
+}

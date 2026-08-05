@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "기름진 것들의 올라 제물들을 ⟨당신에게⟩ 드리겠나이다, 숫양들의 향과 함께 소를 만들겠나이다, 숫염소들과 함께. 셀라.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "올라 제물들을"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "기름진 것들의"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "…드리겠나이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨당신에게⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "향"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "숫양들의"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "…만들겠나이다"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "소를"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "숫염소들"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:30.899131906Z",
+  "model": "glm-5.2"
+}

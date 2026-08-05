@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "가련한 자를 살피는 자, 복이 있도다. 악의 날에 야훼가 그를 건지신다.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있도다"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "살피는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "자"
+    },
+    {
+      "surface": "דל",
+      "gloss": "가련한"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악의"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "건지신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:00.433451394Z",
+  "model": "glm-5.2"
+}

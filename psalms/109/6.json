@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그 위에 악인을 임명하소서, 그리고 사탄이 ⟨그⟩의 오른편에 서게 하소서.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "임명하소서"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인을"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "그리고 사탄이"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "서게 하소서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "그의 오른편에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:49.718521019Z",
+  "model": "glm-5.2"
+}

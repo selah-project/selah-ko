@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 11:2",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 길아다의 아내가 그에게 아들들을 낳았다. 그리고 그 여인의 아들들이 자라나서, 야프타흐를 쫓아내며 그에게 말하였다. \"너는 우리 아버지의 집에서 유업을 받지 못할 것이다. 너는 다른 여인의 아들이기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "그리고 낳았다"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내가"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길아다의"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "ויגדלו",
+      "gloss": "그리고 자라나서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여인의"
+    },
+    {
+      "surface": "ויגרשו",
+      "gloss": "그리고 쫓아내며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야프타흐를"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "야프타흐를"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "너는 유업을 받을"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "∼의 집에서"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "우리 아버지의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인의"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "다른"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    }
+  ],
+  "timestamp": "2026-08-05T09:18:16.782159672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "이들이 이스마엘의 아들들이요, 그리고 이것들은 그들의 이름이니, 그들의 촌락들과 그들의 영채들에 의한 것이다. 그들의 민족들에 따라 열두 족장이더라.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨그들⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이요"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "이스마엘의"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것들은"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "그들의 이름이니"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "그들의 촌락들에"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "그리고 그들의 영채들에"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "족장이더라"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "그들의 민족들에 따라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:32.550407856Z",
+  "model": "glm-5.2"
+}

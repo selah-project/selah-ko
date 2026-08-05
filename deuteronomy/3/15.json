@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 마키르에게 나는 ⟨את⟩ 길르앗을 주었다.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "그리고 마키르에게"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "길르앗"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "길르앗"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:22.349577312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "말에게는 채찍, 당나귀에게는 재객, 그리고 어리석은 자들의 등에게는 매이다.",
+  "tokens": [
+    {
+      "surface": "שׁ֣וֹט",
+      "gloss": "채찍"
+    },
+    {
+      "surface": "לַ֭סּוּס",
+      "gloss": "말에게"
+    },
+    {
+      "surface": "מֶ֣תֶג",
+      "gloss": "재객"
+    },
+    {
+      "surface": "לַחֲמ֑וֹר",
+      "gloss": "당나귀에게"
+    },
+    {
+      "surface": "וְ֝שֵׁ֗בֶט",
+      "gloss": "그리고 매"
+    },
+    {
+      "surface": "לְגֵ֣ו",
+      "gloss": "등에게"
+    },
+    {
+      "surface": "כְּסִילִֽים",
+      "gloss": "어리석은 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:09.399474406Z",
+  "model": "glm-5.2"
+}

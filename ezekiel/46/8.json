@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그리고 나시가 들어올 때에는 그 문 현관의 길로 들어오고, 자기 길로 나갈 것이요.",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "그리고 …때에는"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "그 나시가"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "현관의"
+    },
+    {
+      "surface": "השער",
+      "gloss": "그 문"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "들어오고"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "그리고 자기 길로"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나갈 것이요"
+    }
+  ],
+  "timestamp": "2026-08-05T11:04:21.708500220Z",
+  "model": "glm-5.2"
+}

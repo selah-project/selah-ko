@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그의 왼손이 내 머리 아래에 있고, 그의 오른손이 나를 안아주리라.",
+  "tokens": [
+    {
+      "surface": "שְׂמֹאלוֹ֙",
+      "gloss": "그의 왼손이"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "…아래에"
+    },
+    {
+      "surface": "רֹאשִׁ֔י",
+      "gloss": "내 머리"
+    },
+    {
+      "surface": "וִֽימִינ֖וֹ",
+      "gloss": "그의 오른손이"
+    },
+    {
+      "surface": "תְּחַבְּקֵֽנִי",
+      "gloss": "나를 안아주리라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:23.356106767Z",
+  "model": "glm-5.2"
+}

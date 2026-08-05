@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 예르미야후는 백성 가운데 들어가고 나왔다 — 그들이 ⟨את⟩ 그를 감옥 집에 넣지 아니하였으므로.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "그리고 예르미야후는"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어가고"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나왔다"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 아니하였으므로"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "넣"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "그 감옥"
+    }
+  ],
+  "timestamp": "2026-08-05T10:40:22.544381715Z",
+  "model": "glm-5.2"
+}

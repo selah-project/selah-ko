@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 ⟨그것은⟩ 백향목으로 덮였는데, ⟨그⟩ 기둥들 위에 있는 사십오 개의 ⟨그⟩ 측실들 위를 덮었다 — 한 줄에 열다섯이다.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "덮였다"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "백향목으로"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "그 측실들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "그 기둥들"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "오"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "그 줄"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:59.166805652Z",
+  "model": "glm-5.2"
+}

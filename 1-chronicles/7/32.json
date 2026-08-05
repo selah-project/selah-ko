@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 헤벨은 ⟨את⟩ 야플렛과 ⟨את⟩ 쇼메르와 ⟨את⟩ 호탐을 낳았고, ⟨또한⟩ ⟨את⟩ 그들의 자매 슈아를 ⟨낳았다⟩.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "그리고 헤벨"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야플렛"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "야플렛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "쇼메르"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "쇼메르"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "호탐"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "호탐"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "슈아"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "슈아"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "그들의 자매"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:42.831578328Z",
+  "model": "glm-5.2"
+}

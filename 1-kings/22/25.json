@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 22:25",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "미카야후가 말하였다. \"보라, 그 날에 네가 방에서 방으로 들어가 숨으려 할 때에 네가 보게 될 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "미카야후가"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "네가 보게 될 것이다"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "때에"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "네가 들어가"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "방에서"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "방으로"
+    },
+    {
+      "surface": "להחבה",
+      "gloss": "숨으려"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:39.051511470Z",
+  "model": "glm-5.2"
+}

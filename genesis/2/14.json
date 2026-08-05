@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 세 번째 강의 이름은 힛데겔이다. 그것은 아쉬르 앞쪽으로 가는 것이다. 그리고 네 번째 강, 그것은 프라트이다.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "그리고 …의 이름은"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "그 강의"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "세 번째"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "힛데겔"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "가는 것이다"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "앞쪽으로"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아쉬르"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "그리고 그 강은"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "네 번째"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "프라트"
+    }
+  ],
+  "timestamp": "2026-08-05T19:33:57.823783631Z",
+  "model": "glm-5.2"
+}

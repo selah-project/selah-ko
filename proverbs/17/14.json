@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 17:14",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "물을 놓아 보내는 것은 다툼의 시작이니, ⟨그⟩ 다툼이 터지기 전에 그만두어라.",
+  "tokens": [
+    {
+      "surface": "פוטר",
+      "gloss": "놓아 보내는 것"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "시작이니"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "다툼의"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "~전에"
+    },
+    {
+      "surface": "התגלע",
+      "gloss": "터지다"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "⟨그⟩ 다툼을"
+    },
+    {
+      "surface": "נטוש",
+      "gloss": "그만두어라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:41.881944641Z",
+  "model": "glm-5.2"
+}

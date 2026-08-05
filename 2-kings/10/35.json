@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 예후가 그의 조상들과 함께 누우니, 그들이 ⟨את⟩ 그를 슈므론에 묻었다. 그의 아들 여호아하즈가 그를 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "그리고 누우니"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "예후가"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "그의 조상들"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "그들이 묻었다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "슈므론에"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "그리고 왕이 되었다"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "여호아하즈가"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:52.452140824Z",
+  "model": "glm-5.2"
+}

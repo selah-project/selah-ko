@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 19:7",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "요나단이 다윗을 불렀고, 요나단이 그에게 ⟨את⟩ 이 모든 말들을 알려 주었다. 요나단이 ⟨את⟩ 다윗을 샤울에게 데려오니, 그가 어제와 그저께처럼 그 앞에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀고"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "요나단이"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "알려 주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "요나단이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 말들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "데려오니"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "요나단이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그 앞에"
+    },
+    {
+      "surface": "כאתמול",
+      "gloss": "어제와"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "그저께처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:33.993220973Z",
+  "model": "glm-5.2"
+}

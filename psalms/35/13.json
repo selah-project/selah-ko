@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "나는 — 그들이 병들었을 때 — 나의 옷은 거칠은 천이었다. 금식으로 나의 네페쉬를 괴롭게 하였고, 나의 기도는 나의 품으로 돌아왔다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "그들이 병들었을 때"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "나의 옷은"
+    },
+    {
+      "surface": "שק",
+      "gloss": "거칠은 천"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "괴롭게 하였고"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "금식으로"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬를"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "나의 기도는"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨…⟩에"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "나의 품"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "돌아왔다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:24.482796184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 39:3",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "네 왼손에서 네 활을 치리라. 그리고 ⟨내가⟩ 네 오른손에서 네 화살들을 떨어뜨리리라.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "그리고 ⟨내가⟩ …을(를) 치리라"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "네 활"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "네 왼손"
+    },
+    {
+      "surface": "וחציך",
+      "gloss": "그리고 네 화살들"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "네 오른손"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "떨어뜨리리라"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:11.568786984Z",
+  "model": "glm-5.2"
+}

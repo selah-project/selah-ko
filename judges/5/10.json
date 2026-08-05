@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "흰 암나귀 타는 자들, ⟨양탄자⟩ 위에 앉는 자들, 길 위를 걷는 자들, 노래하라.",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "타는 자들"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "암나귀"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "흰"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "앉는 자들"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "⟨양탄자⟩"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "걷는 자들"
+    },
+    {
+      "surface": "על",
+      "gloss": "위를"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "노래하라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:14:14.361304207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "나의 사랑 대신에 그들이 나를 대적하였고, 나는 ⟨곧⟩ 기도입니다.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "나의 사랑"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "그들이 나를 대적하였고"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "기도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:08.383263528Z",
+  "model": "glm-5.2"
+}

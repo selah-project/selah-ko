@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 13:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그 나비의 말이나 그 꿈 꾸는 자의 말을 듣지 말라. 야훼 너희 엘로힘께서 너희를 시험하심은, 너희가 온 마음과 온 네페쉬로 야훼 너희 엘로힘을 사랑하는지 알고자 하심이라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "듣지"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼의"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말을"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비의"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "או",
+      "gloss": "또는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼의"
+    },
+    {
+      "surface": "חולם",
+      "gloss": "꾸는 자의"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "꿈을"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다 ∼라"
+    },
+    {
+      "surface": "מנסה",
+      "gloss": "시험하심은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘께서"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를",
+      "marks": "시험하심"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "알고자 하심"
+    },
+    {
+      "surface": "הישכם",
+      "gloss": "너희가 ∼인지"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "사랑하는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘을"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "네페쉬로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:15.770670637Z",
+  "model": "glm-5.2"
+}

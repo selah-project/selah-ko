@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그가 ⟨그⟩ 자신의 모든 뼈를 지키신다 — 그것들 중 하나도 부러지지 아니한다.",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵ֥ר",
+      "gloss": "지키신다"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עַצְמוֹתָ֑יו",
+      "gloss": "그의 뼈를"
+    },
+    {
+      "surface": "אַחַ֥ת",
+      "gloss": "하나도"
+    },
+    {
+      "surface": "מֵ֝הֵ֗נָּה",
+      "gloss": "그것들 중"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "נִשְׁבָּֽרָה",
+      "gloss": "부러지지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:38.308140104Z",
+  "model": "glm-5.2"
+}

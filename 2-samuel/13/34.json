@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 13:34",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "아브샬롬은 도망하였다. 파수꾼 소년이 ⟨את⟩ 그의 눈을 들어 보니, 보라, 많은 무리가 그의 뒤를 따라 산비탈 길로 오고 있었다.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬은"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "들어"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "소년이"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "파수꾼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 눈"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "그의 눈을"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보니"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עם",
+      "gloss": "무리가"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많은"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "오고 있었다"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그의 뒤를 따라"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "산비탈"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:58.947504027Z",
+  "model": "glm-5.2"
+}

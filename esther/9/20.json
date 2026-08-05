@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "모르드개는 ⟨את⟩ 이 말들을 기록하고, 아하수에로 왕의 모든 지방에 있는 모든 유대인에게, 가까운 자와 먼 자에게, 편지를 보냈다.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "그리고 기록하였다"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 말들을"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보냈다"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "편지들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "유대인"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "지방에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "아하수에로"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "가까운 자"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "그리고 먼 자"
+    }
+  ],
+  "timestamp": "2026-08-05T12:25:07.682823382Z",
+  "model": "glm-5.2"
+}

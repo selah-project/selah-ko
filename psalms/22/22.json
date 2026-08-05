@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "사자의 입에서 ⟨나를⟩ 구원하소서. 그리고 들소의 뿔에서 ⟨나를⟩ 응답하셨나이다.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "⟨나를⟩ 구원하소서"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "입에서"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "사자의"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "그리고 뿔에서"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "들소의"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "⟨나를⟩ 응답하셨나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:03.759739969Z",
+  "model": "glm-5.2"
+}

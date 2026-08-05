@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그들의 얼굴을 두려워하지 말아라. 이는 내가 너와 함께하여 너를 건져 내기 때문이다 — 야훼의 선언이다.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "…말아라"
+    },
+    {
+      "surface": "תִּירָ֖א",
+      "gloss": "네가 두려워하지"
+    },
+    {
+      "surface": "מִפְּנֵיהֶ֑ם",
+      "gloss": "그들의 얼굴을"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אִתְּךָ֥",
+      "gloss": "너와 함께"
+    },
+    {
+      "surface": "אֲנִ֛י",
+      "gloss": "내가 …이다"
+    },
+    {
+      "surface": "לְהַצִּלֶ֖ךָ",
+      "gloss": "너를 건져 내기"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "선언이다"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:47.121585830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "성 안을 두루 도는 파수꾼들이 나를 찾아냈다 — 내 네페쉬가 사랑하는 그를 ⟨את⟩ 너희가 보았느냐?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "나를 찾아냈다"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "파수꾼들이"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "두루 도는"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성 안을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 네페쉬가 사랑하는 그"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "사랑하는"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "너희가 보았느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:18.699118916Z",
+  "model": "glm-5.2"
+}

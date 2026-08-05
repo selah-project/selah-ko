@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 27:36",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "민족들 가운데의 상인들이 너를 향해 쉬파람을 불었다. 너는 공포가 되었고, 영원히 다시는 존재하지 않을 것이다.",
+  "tokens": [
+    {
+      "surface": "סחרים",
+      "gloss": "상인들이"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "민족들 가운데의"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "쉬파람을 불었다"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "너를 향해"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "공포가"
+    },
+    {
+      "surface": "היית",
+      "gloss": "되었고"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "다시는 존재하지 않을 것이다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "~까지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:56:11.702338073Z",
+  "model": "glm-5.2"
+}

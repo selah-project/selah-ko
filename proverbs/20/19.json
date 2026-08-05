@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 20:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "소문을 퍼뜨리며 다니는 자는 비밀을 드러낸다. 그러니 입술을 여는 자와 어울리지 말라.",
+  "tokens": [
+    {
+      "surface": "גולה",
+      "gloss": "드러낸다"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "비밀을"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "다니는"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "소문을 퍼뜨리며"
+    },
+    {
+      "surface": "ולפתה",
+      "gloss": "여는 자와"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "입술을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "어울리지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:16.831521125Z",
+  "model": "glm-5.2"
+}

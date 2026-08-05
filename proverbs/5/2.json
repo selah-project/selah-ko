@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "신중함을 지키기 위함이며, 지식이 네 입술을 지킬 것이다.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "지키기 위함이며"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "신중함을"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "지식이"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "네 입술을"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "지킬 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:29.358009910Z",
+  "model": "glm-5.2"
+}

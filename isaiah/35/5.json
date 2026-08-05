@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그때에 소경의 눈이 열리고 귀머거리의 귀가 뚫릴 것이다.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "열릴 것이다"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "소경의"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "귀가"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "귀머거리의"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "뚫릴 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:17:21.141175346Z",
+  "model": "glm-5.2"
+}

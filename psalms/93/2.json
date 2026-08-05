@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 93,
+  "translation": "⟨그⟩ 왕좌가 그때부터 견고히 섰다, 영원부터 ⟨당신은⟩ 계셨다.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "견고히 섰다"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "왕좌가"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "그때부터"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "영원부터"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:03.307732148Z",
+  "model": "glm-5.2"
+}

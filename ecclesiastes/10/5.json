@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "내가 태양 아래에서 본 악이 ⟨있다⟩ — 다스리는 자 앞에서 나오는 실수와 ⟨같은 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "있다"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 …보았다"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에서"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "태양"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "실수와 같은"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "나오는"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "다스리는 자"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:07.178097978Z",
+  "model": "glm-5.2"
+}

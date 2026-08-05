@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "일어나라, 그리고 밤에 올라가자, 그리고 그녀의 성채들을 파괴하자.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "일어나라"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "그리고 올라가자"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "그리고 파괴하자"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "그녀의 성채들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:28:28.907545795Z",
+  "model": "glm-5.2"
+}

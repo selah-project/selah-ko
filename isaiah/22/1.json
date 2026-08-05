@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "짐이다, 환상 골짜기의. 무슨 일이냐, 그리하여 너 온통 지붕들로 올라갔느냐?",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֖א",
+      "gloss": "짐"
+    },
+    {
+      "surface": "גֵּ֣יא",
+      "gloss": "골짜기"
+    },
+    {
+      "surface": "חִזָּי֑וֹן",
+      "gloss": "환상"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "무엇이냐"
+    },
+    {
+      "surface": "לָּ֣ךְ",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "אֵפ֔וֹא",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "…가"
+    },
+    {
+      "surface": "עָלִ֥ית",
+      "gloss": "올라갔느냐"
+    },
+    {
+      "surface": "כֻּלָּ֖ךְ",
+      "gloss": "너 온통"
+    },
+    {
+      "surface": "לַגַּגּֽוֹת",
+      "gloss": "지붕들로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:22.809143910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "⟨내가⟩ 야훼께 말하였다 — '아도나이, 당신이시다. 나의 좋음은 당신을 향하지 않음이니이다.'",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이시다"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "나의 좋음은"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아님"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "당신을 향하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:39.195195292Z",
+  "model": "glm-5.2"
+}

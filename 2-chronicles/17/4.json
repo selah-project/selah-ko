@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "이는 그가 그의 아버지의 엘로힘께 구하였고, 그의 계명들에서 걸어갔으며, 이스라엘의 행위 같이 하지 아니하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "…의 엘로힘께"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "구하였고"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "그리고 그의 계명들에서"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걸어갔으며"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…아니하였기"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "…의 행위 같이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:56:06.698065717Z",
+  "model": "glm-5.2"
+}

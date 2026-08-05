@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "셸로모가 엘로힘께 말하였다. \"당신이 내 아버지 다윗과 함께 크신 헤세드를 행하셨고, 그를 대신하여 나를 왕으로 세우셨습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모가"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘께"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "행하셨고"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드를"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크신"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "왕으로 세우셨습니다"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T12:51:58.122639053Z",
+  "model": "glm-5.2"
+}

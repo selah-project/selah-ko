@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그가 이스라엘 왕들의 길을 걸었고, 또 ⟨את⟩ 그의 아들을 불 가운데로 지나가게 하였으니, 이는 야훼께서 ⟨את⟩ 그들을 이스라엘 자손들의 면전에서 쫓아내신 그 민족들의 가증한 것들과 같았다.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "그리고 걸었고"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들을"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "지나가게 하였다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불 가운데로"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "…와 같이"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "쫓아내신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…의 면전에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:02:22.517026150Z",
+  "model": "glm-5.2"
+}

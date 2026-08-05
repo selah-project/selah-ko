@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "풀이 마르고 꽃이 시드다 — 그러나 우리 엘로힘의 말씀은 영원히 서리라.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "마르고"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "풀이"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "시드다"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "꽃이"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "그러나 — 말씀은"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘의"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "서리라"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:05.364814632Z",
+  "model": "glm-5.2"
+}

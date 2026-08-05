@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "아침에 준비를 갖추고, 아침에 시내 산으로 올라가, 그 산 꼭대기에서 거기서 내 앞에 서라.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "⟨있으라⟩"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "준비를 갖추고"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "올라가"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "시내"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "서라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내 앞에"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "꼭대기"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:09.731769043Z",
+  "model": "glm-5.2"
+}

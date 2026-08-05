@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 20:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "엘로힘이 밤의 꿈에 아비멜렉에게 오시어 그에게 말씀하셨다. \"보라, 너는 네가 데려간 저 여자로 인해 죽는다. 그리고 ⟨그⟩녀는 남편이 있는 ⟨여자⟩이다.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "오시어"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "꿈에"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽는다"
+    },
+    {
+      "surface": "על",
+      "gloss": "…로 인해"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "저 여자"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "네가"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "데려간"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "남편이 있는"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "남편"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:12.868498083Z",
+  "model": "glm-5.2"
+}

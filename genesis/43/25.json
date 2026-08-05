@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그들이 ⟨את⟩ ⟨그⟩ 선물을 예비하였으니, 요셉이 정오에 오기까지였다. 그들이 듣자 하니, 그 곳에서 떡을 먹을 ⟨것⟩이었다.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "그들이 예비하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "선물을"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "선물"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "오기"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "정오에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "그들이 듣자 하니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그 곳에서"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "먹을"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:14.837819098Z",
+  "model": "glm-5.2"
+}

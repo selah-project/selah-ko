@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "큰 빛들을 만드신 분에게, 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "만드신 분에게"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "빛들을"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "큰"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:04.246533365Z",
+  "model": "glm-5.2"
+}

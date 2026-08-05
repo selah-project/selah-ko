@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그가 ⟨엘리야의⟩ 뒤에서 돌아와 ⟨את⟩ 소 두 마리를 끌어다 잡고, 소의 기구들로 그 고기를 삶아 백성에게 주니 그들이 먹었다. 그리고 그는 일어나 엘리야를 따라가 그를 섬겼다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아왔다"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "그의 뒤에서"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "끌어다 잡고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소 두 마리를"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "짝"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "소"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "잡고"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "그리고 … 기구들로"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "소의"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "삶아"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "고기를"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주니"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "그들이 먹었다"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "따라"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "엘리야를"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "그를 섬겼다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:05.652978144Z",
+  "model": "glm-5.2"
+}

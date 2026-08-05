@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "이튿날이 되어, 모셰가 ⟨את⟩ 백성을 재판하려고 앉으니, 백성이 아침부터 저녁까지 모셰 곁에 서 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "이르니"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "이튿날이"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "앉으니"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "재판하려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "서 있었다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "על",
+      "gloss": "곁에"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "מן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "저녁"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:39.137711239Z",
+  "model": "glm-5.2"
+}

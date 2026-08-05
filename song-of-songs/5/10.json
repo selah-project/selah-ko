@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "내 사랑하는 이는 눈부시고 붉으며, 만 명 위에 ⟨범상하여⟩ 드러나 있다.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "내 사랑하는 이는"
+    },
+    {
+      "surface": "צח",
+      "gloss": "눈부시고"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "붉으며"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "⟨범상하여⟩ 드러나 있다"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "만 명 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:45.280466866Z",
+  "model": "glm-5.2"
+}

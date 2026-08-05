@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "오호라, 죄를 짓는 나라, 죄악으로 무거운 백성, 악을 행하는 자들의 씨, 부패한 아들들. 그들이 ⟨את⟩ 야훼를 버렸고, 이스라엘의 거룩한 이를 ⟨את⟩ 멸시했으며, 뒤로 물러났다.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "오호라"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "나라"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "죄를 짓는"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "무거운"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악으로"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "악을 행하는 자들"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "부패한"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "버렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "멸시했다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "거룩한 이"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "물러났다"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "뒤로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:39.178608645Z",
+  "model": "glm-5.2"
+}

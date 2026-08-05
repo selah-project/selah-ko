@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 이렇게 되었다: 다윗이 에돔과 함께 ⟨있을⟩ 때, 군대 장관 요아브가 올라가 ⟨את⟩ 죽은 자들을 장사하려 하였는데, 그가 에돔에서 모든 남자를 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 이렇게 되었다"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "~일 때"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "올라가"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "שר",
+      "gloss": "장관"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "군대"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "장사하려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "죽은 자들을"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "죽은 자들을"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "그리고 쳤다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자를"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "에돔에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:09.688231348Z",
+  "model": "glm-5.2"
+}

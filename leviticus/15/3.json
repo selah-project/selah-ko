@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "이것이 그의 흐름에서의 부정이다: 그의 몸이 ⟨את⟩ 그의 흐름을 흘려보내거나, 그의 몸이 그의 흐름에서 막히거나, 그것이 곧 그의 부정이다.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "이다"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "그의부정"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "그의흐름에서의"
+    },
+    {
+      "surface": "רר",
+      "gloss": "흘려보내거나"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "그의몸이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 흐름을"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "그의흐름을"
+    },
+    {
+      "surface": "או",
+      "gloss": "또는"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "막히거나"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "그의몸이"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "그의흐름에서"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "그의부정이다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:42.470256426Z",
+  "model": "glm-5.2"
+}

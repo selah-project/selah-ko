@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 예호나탄의 아들은 메리브바알이며, 메리바알은 ⟨את⟩ 미카를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "그리고 아들은"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "예호나탄의"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "메리브"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "바알이며"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "메리"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "바알은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미카"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "미카를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:56.388345592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "아비멜렉이 ⟨את⟩ 온 백성에게 명령하여 말하기를, \"이 사람과 이 사람의 아내를 범하는 자는 반드시 죽임을 당하리라\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "명령하여"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 백성"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "범하는 자는"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "이 사람"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "이 사람의 아내를"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음으로"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽임을 당하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:27.918871522Z",
+  "model": "glm-5.2"
+}

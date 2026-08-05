@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 브두엘은 ⟨את⟩ 리브카를 낳았다. 이 여덟은 밀카가 아브라함의 형제 나홀에게 낳은 자들이다.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "그리고 브두엘은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "리브카를"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "리브카"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "여덟"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "밀카가"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "나홀에게"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…의 형제"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:30.804093668Z",
+  "model": "glm-5.2"
+}

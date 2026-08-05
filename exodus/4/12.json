@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "\"그러니 이제 가라, 내가 네 입과 함께 있으며, 내가 네가 말할 것을 가르치리라.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그러니 이제"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "있으며"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "네 입"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "내가 가르치리라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...것을"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "네가 말할"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:59.855139560Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그들이 말하였다. \"소녀를 부르고, 그녀의 입에 ⟨את⟩ 것을 물어봅시다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "부르고"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "소녀를"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "물어봅시다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 입"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "그녀의 입에 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:29.904477989Z",
+  "model": "glm-5.2"
+}

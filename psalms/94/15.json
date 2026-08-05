@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "판단이 의로이 돌아올 것임이니, 그리고 그 뒤로 마음이 곧은 자들 전원 ⟨이 있을 것임이니⟩.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "~이니"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "צֶ֭דֶק",
+      "gloss": "의"
+    },
+    {
+      "surface": "יָשׁ֣וּב",
+      "gloss": "돌아올 것임이니"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "판단이"
+    },
+    {
+      "surface": "וְ֝אַחֲרָ֗יו",
+      "gloss": "그리고 그 뒤로"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "יִשְׁרֵי",
+      "gloss": "곧은"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "마음"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:55.277815960Z",
+  "model": "glm-5.2"
+}

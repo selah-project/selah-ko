@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 44:14",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그가 자기를 위하여 백향목을 베고, 편백나무와 떡갈나무를 취하고, 숲의 나무들 가운데서 자기를 위해 ⟨한 그루를⟩ 튼튼하게 한다. 그가 소나무를 심고, 비가 ⟨그것을⟩ 자라게 한다.",
+  "tokens": [
+    {
+      "surface": "לכרת",
+      "gloss": "베고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위하여"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "백향목을"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 취하고"
+    },
+    {
+      "surface": "תרזה",
+      "gloss": "편백나무"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "떡갈나무를"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "그리고 튼튼하게 한다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위해"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "나무들"
+    },
+    {
+      "surface": "יער",
+      "gloss": "숲의"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "심고"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "소나무를"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "비가"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "자라게 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:48.860786427Z",
+  "model": "glm-5.2"
+}

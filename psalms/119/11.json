@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "주의 말씀을 내 마음에 감추었나이다. ⟨이는⟩ 주를 향하여 죄를 짓지 아니하려 함이니이다.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "내 마음에"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "감추었나이다"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "주의 말씀을"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨이는⟩ … 위하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "죄를 짓"
+    },
+    {
+      "surface": "לך",
+      "gloss": "주를 향하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:16.220568238Z",
+  "model": "glm-5.2"
+}

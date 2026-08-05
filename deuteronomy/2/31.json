@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼께서 내게 말씀하셨다. \"보아라. 내가 네 앞에 ⟨아트⟩ 시혼과 ⟨את⟩ 그의 땅을 넘겨주기 시작하였다. 소유하기 시작하여라 — 그의 땅을 소유하려고 ⟨את⟩ 그의 땅을.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보아라"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "내가 …시작하였다"
+    },
+    {
+      "surface": "תת",
+      "gloss": "넘겨주기"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "네 앞에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "시혼과"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "시혼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 땅을"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "그의 땅"
+    },
+    {
+      "surface": "החל",
+      "gloss": "시작하여라"
+    },
+    {
+      "surface": "רש",
+      "gloss": "소유하기"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "소유하려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 땅을"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "그의 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:53.771907380Z",
+  "model": "glm-5.2"
+}

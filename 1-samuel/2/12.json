@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "엘리의 아들들은 벨리야알의 아들이라 — 그들이 ⟨את⟩ 야훼를 알지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "엘리의"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들이라"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "벨리야알의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "알지"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "못하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:21:51.742463611Z",
+  "model": "glm-5.2"
+}

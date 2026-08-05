@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 七일 동안 네 모든 영토 안에 누룩이 네게 보이지 않을 것이요, 네가 첫째 날 저녁에 잡아 바치는 그 고기에서 아침까지 남는 것이 없을 것이다.",
+  "tokens": [
+    {
+      "surface": "וְלֹא",
+      "gloss": "그리고 …아닐"
+    },
+    {
+      "surface": "יֵרָאֶה",
+      "gloss": "보이지"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "네게"
+    },
+    {
+      "surface": "שְׂאֹר",
+      "gloss": "누룩이"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גְּבֻלְךָ",
+      "gloss": "네 영토 안에"
+    },
+    {
+      "surface": "שִׁבְעַת",
+      "gloss": "七"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "天 동안"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "그리고 …아닐"
+    },
+    {
+      "surface": "יָלִין",
+      "gloss": "남는 것이"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הַבָּשָׂר",
+      "gloss": "고기"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "그"
+    },
+    {
+      "surface": "תִּזְבַּח",
+      "gloss": "잡아 바치는"
+    },
+    {
+      "surface": "בָּעֶרֶב",
+      "gloss": "저녁에"
+    },
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "날"
+    },
+    {
+      "surface": "הָרִאשׁוֹן",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "לַבֹּקֶר",
+      "gloss": "아침까지"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:55.641454947Z",
+  "model": "glm-5.2"
+}

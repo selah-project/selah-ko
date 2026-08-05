@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "야훼 앞에서 고요히 잠잠하고 그분을 향해 인내로 기다리라. 그의 길에서 번성하는 자, 곧 음모를 꾸미는 사람 때문에 분을 품지 말라.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "고요히 잠잠하고"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼 앞에서"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "그리고 인내로 기다리라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그분을 향해"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "분을 품"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "번성하는 자 때문에"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "그의 길에서"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "곧 사람 때문에"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "꾸미는"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "음모를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:08.081323598Z",
+  "model": "glm-5.2"
+}

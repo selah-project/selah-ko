@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "아브라함이 엘로힘께 기도하였더니, 엘로힘께서 ⟨את⟩ 아비멜렉과 ⟨את⟩ 그의 아내와 그의 여종들을 고치셨고, 그들이 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "기도하였더니"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "고치셨고"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아비멜렉을"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아내를"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "그의 여종들을"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "낳았다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:02.941318612Z",
+  "model": "glm-5.2"
+}

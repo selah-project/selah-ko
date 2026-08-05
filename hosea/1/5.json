@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그 날에 일어날 일이 이것이다 — 내가 이스라엘의 활을 부러뜨리시되, 이즈르에엘 골짜기에서 부러뜨리실 것이다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ⟨일어날 일이다⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…에 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "그리고 내가 부러뜨리시겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "활"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "활"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "…에서 골짜기"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "이즈르에엘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:19.925148808Z",
+  "model": "glm-5.2"
+}

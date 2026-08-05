@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 로탄의 아들들은 호리와 헤맘이었고, 로탄의 누이는 팀나였다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "그리고 ~이었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "로탄의"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "호리"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "그리고 헤맘"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "그리고 누이"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "로탄의"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "팀나"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:08.190545726Z",
+  "model": "glm-5.2"
+}

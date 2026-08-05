@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 7:9",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그 밤에 일어난 일이다 — 야훼께서 그에게 말씀하셨다. \"일어나, 그 진영으로 내려가라. 내가 그것을 네 손에 넘겼기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨그것이⟩ 일어났다"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "그 밤에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "קום",
+      "gloss": "일어나라"
+    },
+    {
+      "surface": "רד",
+      "gloss": "내려가라"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "그 진영으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "내가 그것을 주었다"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "네 손에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:15:34.723190328Z",
+  "model": "glm-5.2"
+}

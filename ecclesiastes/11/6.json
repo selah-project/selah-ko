@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "아침에 ⟨את⟩ 네 씨를 뿌리고 저녁에는 네 손을 쉬게 하지 말라 — 네가 알지 못하기 때문이다, 이것 아니면 저것 중 어느 쪽이 성공할지, 혹은 둘 다 함께 좋을지.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "뿌리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 씨를"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 씨를"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "저녁에는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "쉬게"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— …하기 때문이다"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "네가 … 아니다(알지 못한다)"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "אי",
+      "gloss": "어느"
+    },
+    {
+      "surface": "זה",
+      "gloss": "쪽이"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "성공할지"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "או",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "זה",
+      "gloss": "저것"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "둘 다"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "함께"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "좋을지"
+    }
+  ],
+  "timestamp": "2026-08-05T18:29:39.037135363Z",
+  "model": "glm-5.2"
+}

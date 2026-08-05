@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "시초부터 끝을 알리시고, 아직 이루어지지 아니한 것을 옛적부터 ⟨알리시는 이⟩, 나의 계획은 서고 나의 모든 기뻐하시는 바를 내가 이루리라 ⟨말씀하신다⟩.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "알리시고"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "시초부터"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "끝을"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "옛적부터"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아직 … 아니한"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "이루어지지"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "나의 계획은"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "서고"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "기뻐하시는 바를"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 이루리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:39.093761190Z",
+  "model": "glm-5.2"
+}

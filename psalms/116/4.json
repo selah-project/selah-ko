@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "그리고 야훼의 이름으로 부르리다 — '오, 야훼여, 제 네페쉬를 건져주소서.'",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "그리고 이름으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "부르리다"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "오"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "건져주소서"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "제 네페쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:57.372415281Z",
+  "model": "glm-5.2"
+}

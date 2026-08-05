@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼가 이스라엘 자손에게 말씀하셨다. \"미츠라임에서, 그리고 아모리에게서, 그리고 암몬 자손에게서, 그리고 필리쉬티임에게서 ⟨내가 너희를 건져낸 것이 아니냐⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "…가 아니냐"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 …에서"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 …에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 …에서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "필리쉬티임"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:24.602935209Z",
+  "model": "glm-5.2"
+}

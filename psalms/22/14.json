@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그들이 내 위로 입을 벌렸다, 찢고 으르렁거리는 사자 ⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "פָּצ֣וּ",
+      "gloss": "벌렸다"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "내 위로"
+    },
+    {
+      "surface": "פִיהֶ֑ם",
+      "gloss": "그들의 입을"
+    },
+    {
+      "surface": "אַ֝רְיֵ֗ה",
+      "gloss": "사자"
+    },
+    {
+      "surface": "טֹרֵ֥ף",
+      "gloss": "찢고"
+    },
+    {
+      "surface": "וְשֹׁאֵֽג",
+      "gloss": "으르렁거리는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:17.927229811Z",
+  "model": "glm-5.2"
+}

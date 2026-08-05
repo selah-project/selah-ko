@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 120,
+  "translation": "나에게 화가로다, 내가 메셰크에 머물렀기에, 내가 케다르의 천막들과 함께 거하였기에.",
+  "tokens": [
+    {
+      "surface": "אֽוֹיָה",
+      "gloss": "화가로다"
+    },
+    {
+      "surface": "לִ֭י",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "…(이기)에"
+    },
+    {
+      "surface": "גַ֣רְתִּי",
+      "gloss": "내가 머물렀"
+    },
+    {
+      "surface": "מֶ֑שֶׁךְ",
+      "gloss": "메셰크에"
+    },
+    {
+      "surface": "שָׁ֝כַ֗נְתִּי",
+      "gloss": "내가 거하였"
+    },
+    {
+      "surface": "עִֽם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "אָהֳלֵ֥י",
+      "gloss": "천막들"
+    },
+    {
+      "surface": "קֵדָֽר",
+      "gloss": "케다르의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:43.019476876Z",
+  "model": "glm-5.2"
+}

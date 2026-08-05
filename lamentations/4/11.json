@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "야훼께서 ⟨את⟩ 그의 진노를 다하셨다, 그의 분노를 쏟으셨다, 그리고 불을 쯔온에 붙이셨으니, ⟨그것이⟩ 그녀의 기초들을 삼켰다.",
+  "tokens": [
+    {
+      "surface": "כִּלָּ֤ה",
+      "gloss": "다하셨다"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 진노를"
+    },
+    {
+      "surface": "חֲמָת֔וֹ",
+      "gloss": "그의 진노"
+    },
+    {
+      "surface": "שָׁפַ֖ךְ",
+      "gloss": "쏟으셨다"
+    },
+    {
+      "surface": "חֲר֣וֹן",
+      "gloss": "분노"
+    },
+    {
+      "surface": "אַפּ֑וֹ",
+      "gloss": "그의"
+    },
+    {
+      "surface": "וַיַּצֶּת",
+      "gloss": "붙이셨으니"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "불을"
+    },
+    {
+      "surface": "בְּצִיּ֔וֹן",
+      "gloss": "쯔온에"
+    },
+    {
+      "surface": "וַתֹּ֖אכַל",
+      "gloss": "삼켰다"
+    },
+    {
+      "surface": "יְסוֹדֹתֶֽיהָ",
+      "gloss": "그녀의 기초들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:51.800206986Z",
+  "model": "glm-5.2"
+}

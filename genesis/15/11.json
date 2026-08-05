@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 맹금들이 그 사체들 위로 내려오자, 아브라함이 ⟨את⟩ 그것들을 쫓아냈다.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "내려왔다"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "맹금들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "그 사체들"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "쫓아냈다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:24.338580993Z",
+  "model": "glm-5.2"
+}

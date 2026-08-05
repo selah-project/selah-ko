@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "내가 부르짖는 가난한 자를 건지고, ⟨그리고⟩ 도움을 줄 이가 없는 고아를 ⟨건졌음이라⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "내가 건지고"
+    },
+    {
+      "surface": "עני",
+      "gloss": "가난한 자를"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "부르짖는"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "그리고 고아를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 없는"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "도움을 줄 이가"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:08:36.383666291Z",
+  "model": "glm-5.2"
+}

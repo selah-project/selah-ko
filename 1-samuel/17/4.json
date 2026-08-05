@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 펠리쉬티인인들의 진영들에서 사이의 사람이 나왔으니, 갓 출신 골리아드, 그의 이름이었다; 그의 키가 여섯 아마와 한 뼘이었다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나왔으니"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "사이의"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "진영들에서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "펠리쉬티인인들의"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "골리아드"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름이었다"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "갓 출신"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "그의 키가"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마"
+    },
+    {
+      "surface": "וזר트",
+      "gloss": "그리고 한 뼘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:19.008495586Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"네가 말한 ⟨את⟩ 이 말씀도 내가 행하겠다. 네가 내 눈에 헨을 얻었고, 내가 이름으로 너를 알기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 말씀"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것을⟩"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "네가 말한"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 행하겠다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "네가 얻었고"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "내 눈에"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "내가 너를 안다"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:06:05.623005556Z",
+  "model": "glm-5.2"
+}

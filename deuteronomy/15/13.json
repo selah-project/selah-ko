@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 네가 그를 자유롭게 네게서 보낼 때에, 너는 그를 빈손으로 보내지 않을 것이다.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "그리고 …할 때에"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "네가 그를 보낼"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "자유롭게"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "네게서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "네가 그를 보낼"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "빈손으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:26.198684635Z",
+  "model": "glm-5.2"
+}

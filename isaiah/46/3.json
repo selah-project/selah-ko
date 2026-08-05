@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "나를 들으라, 야곱의 집과 이스라엘의 집의 모든 남은 자여, 태에서부터 실려 온 이들, 모태에서부터 안겨 온 이들이여.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "남은 자"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "실려 온 이들"
+    },
+    {
+      "surface": "מני",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "태"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "안겨 온 이들"
+    },
+    {
+      "surface": "מני",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "모태"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:50.061376309Z",
+  "model": "glm-5.2"
+}

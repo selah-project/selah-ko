@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "백발의도 우리 가운데 있고 아주 늙은 자도 우리 가운데 있으니, 네 아버지보다 날수가 많은 자들이라.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "שב",
+      "gloss": "백발의"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "아주 늙은 자"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "우리 가운데 있으니"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "많은"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "네 아버지보다"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날수가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:05:18.906200823Z",
+  "model": "glm-5.2"
+}

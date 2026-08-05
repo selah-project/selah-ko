@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 112,
+  "translation": "좋은 ⟨사람⟩ ⟨이⟩ 은혜를 베풀며 꾸어주는 자이다. 그가 자신의 일들을 미쉬파트로 지탱한다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "은혜를 베푸는"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "꾸어주는"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "지탱한다"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "자신의 일들을"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "미쉬파트로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:35.475143488Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 15:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 ⟨그가⟩ 그에게 말씀하셨다. \"나는 야훼이다. ⟨내가⟩ 너를 카스딤의 우르에서 이끌어 낸 ⟨이⟩로, ⟨내가⟩ ⟨את⟩ 이 땅을 네게 주어, 네가 그것을 차지하게 하려 함이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨이⟩로"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "이끌어 낸"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "카스딤의 우르"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주어"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "차지하게 하려 함이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:20.485629110Z",
+  "model": "glm-5.2"
+}

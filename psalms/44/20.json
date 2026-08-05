@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "오직 우리를 타락한 자들의 자리에서 부수셨고, 죽음의 그늘로 우리를 덮으셨다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "우리를 부수셨다"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "자리에서"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "타닌들의"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "그리고 덮으셨다"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리를"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "죽음의 그늘로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:45.852218071Z",
+  "model": "glm-5.2"
+}

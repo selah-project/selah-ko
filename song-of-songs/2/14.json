@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 2:14",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "바위 틈새에, 계단의 은밀한 곳에 있는 나의 비둘기야, ⟨את⟩ 네 모습을 내게 보여 다오. ⟨את⟩ 네 소리를 내게 들려 다오. 네 소리는 달콤하고, 네 모습은 아름답기 때문이다.",
+  "tokens": [
+    {
+      "surface": "יונתי",
+      "gloss": "나의 비둘기야"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "틈새에"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "바위"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "은밀한 곳에"
+    },
+    {
+      "surface": "המדרגה",
+      "gloss": "계단의"
+    },
+    {
+      "surface": "הראיני",
+      "gloss": "내게 보여 다오"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 모습을"
+    },
+    {
+      "surface": "מראיך",
+      "gloss": "네 모습을"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "내게 들려 다오"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 소리를"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "네 소리를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "네 소리는"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "달콤하고"
+    },
+    {
+      "surface": "ומראיך",
+      "gloss": "네 모습은"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "아름답기"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:24.317288828Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "그가 백성의 가난한 자들을 심판하시고, 에비온의 아들들을 구원하시며, 억압하는 자를 짓밟으시리이다.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "그가 심판하시고"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "가난한 자들을"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "구원하시며"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "에비온의"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "짓밟으시리이다"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "억압하는 자를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:29.473093640Z",
+  "model": "glm-5.2"
+}

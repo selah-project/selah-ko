@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "이스라엘은 종인가, 집에서 태어난 노예인가? 어찌하여 ⟨그가⟩ 노리개가 되었는가?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "종인가"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…인가"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "노예"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "היה",
+      "gloss": "되었는가"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "노리개가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:26:33.045498840Z",
+  "model": "glm-5.2"
+}

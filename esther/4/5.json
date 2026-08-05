@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "에스더가 왕의 사환들 가운데서 그녀 앞에 세워 놓은 하타크를 부르며, 그에게 모르드개에 관해 명하여 이것이 무엇이며, 어찌하여 이것인지 알아보게 하였다.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "부르며"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더가"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "하타크를"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "사환들 가운데서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "세워 놓은"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "그녀 앞에"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "명하여"
+    },
+    {
+      "surface": "על",
+      "gloss": "관해"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개에"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "알아보게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것인지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:29.633290032Z",
+  "model": "glm-5.2"
+}

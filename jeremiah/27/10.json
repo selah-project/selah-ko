@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "거짓을 예언하고 있기 때문이다 — 그들이 너희를 너희 땅에서 멀리 옮기려 하며, 그래서 내가 너희를 쫓아내어 너희가 멸망할 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "거짓을 ~기 때문이다"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "예언하고 있기"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "למען",
+      "gloss": "~하려 하며"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "멀리 옮기"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "너희 땅"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "그래서 내가 쫓아내어"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "너희가 멸망할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:36:13.419479846Z",
+  "model": "glm-5.2"
+}

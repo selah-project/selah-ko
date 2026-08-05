@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 18:1",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "야훼께서 아론에게 말씀하셨다. \"너와 네 아들들과 너와 함께 있는 네 아버지의 집이 ⟨את⟩ 성소의 죄악을 짊어질 것이요, 너와 너와 함께 있는 네 아들들이 ⟨את⟩ 너희 코헨직의 죄악을 짊어질 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "네 아들들과"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "집이"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "네 아버지의"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너와 함께 있는"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "짊어질 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "성소의 죄악을"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "성소의"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "네 아들들"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너와 함께 있는"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "짊어질 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "코헨직의 죄악을"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악"
+    },
+    {
+      "surface": "כהנתכם",
+      "gloss": "너희 코헨직의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:11:21.607831695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 ⟨어떤⟩ 사람이 사람의 네페쉬를 쳐서 죽이면, 그는 반드시 죽임을 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 사람"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…하면"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "쳐서 죽이면"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽임을"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "당할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:52.889896592Z",
+  "model": "glm-5.2"
+}

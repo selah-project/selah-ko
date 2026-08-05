@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 왕이 다마셰크에서 와서, 왕이 ⟨את⟩ 그 제단을 보고, 왕이 그 제단에 가까이 다가가 그것에 올라갔다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 …이 와서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "다마셰크에서"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "그리고 …이 보고"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 제단"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단을"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "그리고 …이 다가가"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단에"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 …이 올라갔다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그것에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:02:34.776077142Z",
+  "model": "glm-5.2"
+}

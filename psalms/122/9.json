@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 122,
+  "translation": "야훼 우리 엘로힘의 집을 위하여, 내가 ⟨너의⟩ 선을 구하겠다.",
+  "tokens": [
+    {
+      "surface": "לְ֭מַעַן",
+      "gloss": "⟨…⟩ 위하여"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֱלֹהֵ֑ינוּ",
+      "gloss": "우리 엘로힘"
+    },
+    {
+      "surface": "אֲבַקְשָׁ֖ה",
+      "gloss": "내가 구하겠다"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "선"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "⟨너의⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T19:38:55.641815412Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "그리고 내가 바벨에 타국인들을 보내리니, 그들이 그것을 키질하고, 그들이 ⟨את⟩ 그 땅을 비우리라. 이는 그들이 재앙의 날에 그것을 사방에서 에워싸고 있었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "그리고 내가 보내리니"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "바벨에"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "타국인들을"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "그들이 그것을 키질하고"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "그들이 비우리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅을"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 –기 때문이다"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었기"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "사방에서 에워싸고"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "–의 날에"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "재앙"
+    }
+  ],
+  "timestamp": "2026-08-05T13:58:14.969383075Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "어떤 일의 끝이 그 시작보다 낫고, 영이 길-함이 영이 높-음보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫고"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "끝이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "어떤 일의"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "그 시작보다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "길-함이"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "영이"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "높-음보다"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "영이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:09.386459673Z",
+  "model": "glm-5.2"
+}

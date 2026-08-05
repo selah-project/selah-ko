@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 46:17",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그곳에서 그들이 부르짖었다. 미츠라임의 왕 파르오는 소란뿐이다. 정한 때가 지나갔다.",
+  "tokens": [
+    {
+      "surface": "קָרְא֖וּ",
+      "gloss": "그들이 부르짖었다"
+    },
+    {
+      "surface": "שָׁ֑ם",
+      "gloss": "그곳에서"
+    },
+    {
+      "surface": "פַּרְעֹ֤ה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מִצְרַ֨יִם֙",
+      "gloss": "미츠raim의"
+    },
+    {
+      "surface": "שָׁא֔וֹן",
+      "gloss": "소란"
+    },
+    {
+      "surface": "הֶעֱבִ֖יר",
+      "gloss": "지나갔다"
+    },
+    {
+      "surface": "הַמּוֹעֵֽד",
+      "gloss": "정한 때가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:42:37.651845748Z",
+  "model": "glm-5.2"
+}

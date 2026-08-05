@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 그 안에 있는 ⟨את⟩ 모든 네페쉬를 칼날로 쳤다 — 헤렘으로 바쳤다, 숨 쉬는 것은 하나도 남지 않았다. 그리고 ⟨את⟩ 하초르를 불로 살랐다.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "그리고 … 쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 네페쉬"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "… 인"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에 있는"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "… 날로"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "헤렘으로 바쳤다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "남지 않았다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "… 하나도"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "숨 쉬는 것은"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하초르"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "하초르를"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "살랐다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:09:29.546484997Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "다윗이 아브너에게 말하였다. \"당신은 ⟨한⟩ 사내가 아니십니까? 그리고 이스라엘에서 당신과 같은 자가 누구입니까? 그런데 어찌하여 당신은 당신의 주 왕을 지키지 아니하였습니까? 백성 중 하나가 들어와 당신의 주 왕을 멸하려 하였기 때문입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브너에게"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아니십니까"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사내가"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은 …이"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "그리고 누구"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "당신과 같은 자가"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에서"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "그런데 어찌하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "지키"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨없음⟩"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "당신의 주"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어와"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나가"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성 중"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "멸하려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "당신의 주"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:06.427204083Z",
+  "model": "glm-5.2"
+}

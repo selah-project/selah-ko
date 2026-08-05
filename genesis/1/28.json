@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 ⟨את⟩ 그들을 축복하셨다. 엘로힘이 그들에게 말씀하셨다. \"열매를 맺고 번성하여 ⟨את⟩ 땅을 채우고 그것을 정복하라. 바다의 물고기와 하늘의 새와 땅 위를 기어 다니는 모든 생물을 다스이라.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "열매를 맺고"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "번성하여"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "채우고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "정복하라"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "다스이라"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "바다의 물고기와"
+    },
+    {
+      "surface": "הים",
+      "gloss": "—"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "하늘의 새와"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "—"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "생물을"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "기어 다니는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위를"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:39.640581346Z",
+  "model": "glm-5.2"
+}

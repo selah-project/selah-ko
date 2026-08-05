@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "나의 마음이 주의 규례들 안에서 온전하게 하소서. 부끄러워하지 않게 하기 위함이다.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "있게 하소서"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "나의 마음이"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "온전"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "주의 규례들 안에서"
+    },
+    {
+      "surface": "למען",
+      "gloss": "위함이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "부끄러워하지"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:10.463471600Z",
+  "model": "glm-5.2"
+}

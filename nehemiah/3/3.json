@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨את⟩ 어물문을 건축한 ⟨이들은⟩ 하스나아의 아들들이, 그들이 그것을 들보얹었다, 그리고 그것의 문짝들과 그것의 빗장들과 그것의 가로장들을 세웠다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "어물문"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "물고기"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "건축한"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "하스나아"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "그것을 들보얹었다"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "그리고 그들이 세웠다"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "그것의 문짝들"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "그것의 빗장들"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "그리고 그것의 가로장들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:35:33.559909538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "노래하라, 시온에 계신 야훼께; 백성들 가운데에 그의 행적들을 알리라.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "계신"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온에"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "알리라"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "백성들 가운데에"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "그의 행적들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:54.161644123Z",
+  "model": "glm-5.2"
+}

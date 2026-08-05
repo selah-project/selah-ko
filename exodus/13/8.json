@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 너는 그 날에 네 아들에게 알려 주어 이르기를, '이것은 내가 미츠라임에서 나올 때에 야훼께서 나를 위하여 행하신 것 ⟨이다⟩' 할 것이다.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "그리고 너는 알려 줄 것이다"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "네 아들에게"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…에 날"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "…때문에"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "내가 나올 때에"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:52:28.716794889Z",
+  "model": "glm-5.2"
+}

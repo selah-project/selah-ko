@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그⟩ 빳빳의 ⟨그⟩ 상 위에 푸른색 천을 펼 것이며, 그 위에 ⟨את⟩ ⟨그⟩ 대접들과 ⟨את⟩ ⟨그⟩ 손바닥들과 ⟨את⟩ ⟨그⟩ 붓는 것들의 ⟨그⟩ 주전자들과 ⟨את⟩ 제주의 ⟨그⟩ 잔들을 놓을 것이며, 항존하는 빵이 그 위에 있을 것이다.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ~위에"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "상"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "빳빳의"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "펼 것이며"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "천을"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "푸른색"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "그리고 놓을 것이며"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "대접들"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "대접들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "손바닥들"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "손바닥들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "주전자들"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "주전자들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "잔들"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "잔들"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "제주의"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "그리고 빵"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "항존하는"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:59.436442283Z",
+  "model": "glm-5.2"
+}

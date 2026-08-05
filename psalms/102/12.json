@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "나의 날들은 기울어진 그림자 같고, 나는 마른 풀처럼 시들었다.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "나의 날들은"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "그림자 같고"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "기울어진"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "풀처럼"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "시들었다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:29.823370446Z",
+  "model": "glm-5.2"
+}

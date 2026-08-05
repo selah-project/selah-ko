@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 모셰가 ⟨את⟩ 백성을 이끌어 내어 엘로힘을 맞이하러 진영에서 나왔고, 그들이 산 아래에 서 있었다.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "이끌어 내어"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "맞이하러"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "그들이 서 있었다"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "아래에"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:42.270370855Z",
+  "model": "glm-5.2"
+}

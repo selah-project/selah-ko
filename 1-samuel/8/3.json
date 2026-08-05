@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그의 아들들이 그의 길들 안에서 걷지 않았고, 그들이 탐욕을 따라 기울어져 뇌물을 취하고 판결을 굽게 하였다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~하지 않았고"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "걷지"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들이"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "그의 길들 안에서"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "그들이 기울어져"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "~을 따라"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "탐욕"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 취하고"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "뇌물을"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "굽게 하였다"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "판결을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:35.008761882Z",
+  "model": "glm-5.2"
+}

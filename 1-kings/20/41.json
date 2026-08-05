@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그가 서둘러 ⟨את⟩ 그 재를 그의 눈에서 치우니, 이스라엘 왕이 ⟨그⟩를 알아보았다 — 그가 나비들 중에서 온 자임을.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "그가 서둘러"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "치우니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 재"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "그 재를"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "—에서"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "그의 눈"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "알아보았다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨그⟩를"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—임을"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "나비들 중에서"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "온 자"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:46.704298667Z",
+  "model": "glm-5.2"
+}

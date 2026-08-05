@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이스라엘 자손의 초태남에게서 ⟨그가⟩ ⟨את⟩ ⟨그⟩ 은을 취하였으니, 성소 세겔로 천삼백육십오 세겔이었다.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "초태남"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "취하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "은"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "그리고 육십"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "그리고 셋"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "그리고 천"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "세겔로"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "성소"
+    }
+  ],
+  "timestamp": "2026-08-05T08:27:58.974013756Z",
+  "model": "glm-5.2"
+}

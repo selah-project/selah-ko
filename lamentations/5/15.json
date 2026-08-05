@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "우리 마음의 기쁨이 그치고 우리의 춤은 애곡으로 바뀌었다.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "그치고"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "기쁨이"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "우리 마음의"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "바뀌었다"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "애곡으로"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "우리의 춤은"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:26.575261031Z",
+  "model": "glm-5.2"
+}

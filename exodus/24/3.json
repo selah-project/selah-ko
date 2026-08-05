@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 모셰가 와서 백성에게 야훼의 모든 말씀과 ⟨את⟩ 모든 규례를 알려 주었다. 그러자 온 백성이 한 목소리로 응답하며 말하였다. \"야훼께서 말씀하신 모든 말씀을 우리가 행하겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 …이 왔다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "그리고 알려 주었다"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 규례를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든 규례를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "규례"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "그리고 응답하며"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "קול",
+      "gloss": "목소리로"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "행하겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:45.904131883Z",
+  "model": "glm-5.2"
+}

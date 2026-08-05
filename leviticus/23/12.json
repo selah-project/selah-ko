@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "너희는 ⟨את⟩ 그 오메르를 흔드는 날에, 온전한 일 년 된 수양 한 마리를 올라로서 야훼를 위해 드려야 한다.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "너희는 드려야 한다"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "흔드는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 오메르"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "그 오메르"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "수양 한 마리"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "온전한"
+    },
+    {
+      "surface": "בן",
+      "gloss": "된"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "일 년"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "올라로서"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:11.753748009Z",
+  "model": "glm-5.2"
+}

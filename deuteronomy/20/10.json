@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "네가 한 성읍에 가까이 이르러 그것과 싸우려 할 때, 너는 그것에 샬롬을 선포할 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "네가 이르러"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "싸우려"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것과"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "너는 선포할 것이다"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "샬롬을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:02.411714229Z",
+  "model": "glm-5.2"
+}

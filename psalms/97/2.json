@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 97,
+  "translation": "구름과 짙은 어둠이 ⟨그⟩ 둘레에 있고, 체데크와 미쉬파트이 ⟨그⟩ 왕좌의 기반이다.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "구름"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "짙은 어둠"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "체데크"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "미쉬파트"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "기반이다"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "왕좌의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:22.760363711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그가 “어느 길로 올라갈까?” 하니, 그가 “에돔 광야의 길로” 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 그가 말하였다"
+    },
+    {
+      "surface": "אי",
+      "gloss": "어디"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "그 길이냐"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "우리가 올라갈까"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 그가 말하였다"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야의"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:30.616758697Z",
+  "model": "glm-5.2"
+}

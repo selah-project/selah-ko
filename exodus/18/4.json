@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 ⟨또 하나⟩의 이름은 엘리에제르였으니 — 이는 '내 아버지의 엘이 나의 도움이시며, 나를 파르오의 칼에서 건져 주셨다' 하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름은"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "엘리에제르였으니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘이"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지의"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "나의 도움이시며"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "건져 주셨다"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "칼에서"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:13.539651780Z",
+  "model": "glm-5.2"
+}

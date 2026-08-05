@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그의 종들이 그를 전차에 태워 예루샬라임으로 데려갔고, 그의 조상들과 함께 그의 묘실에, 다윗의 성에 묻었다.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "태워"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들이"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "예루샬라임으로"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "묻었다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "그의 묘실에"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "그의 조상들"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성에"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    }
+  ],
+  "timestamp": "2026-08-05T13:51:59.240397067Z",
+  "model": "glm-5.2"
+}

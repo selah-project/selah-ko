@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "그리고 당신은 그분 ⟨이시며⟩, 당신의 해들은 끝나지 아니하리이다.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 당신은"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그분"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "당신의 해들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…아니하리이다"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "끝나지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:24.119711515Z",
+  "model": "glm-5.2"
+}

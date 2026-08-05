@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그가 네 아들을 ⟨את⟩ 나를 따르는 것에서 돌이키고 그들이 다른 엘로힘을 섬길 것이기 때문이다. 그러면 야훼의 진노가 너희에게 타오르고, 너를 속히 멸하실 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "돌이키고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 아들을"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "네 아들을"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "나를 따르는 것에서"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "섬길 것이기"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "타오르고"
+    },
+    {
+      "surface": "אף",
+      "gloss": "진노가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "멸하실 것이다"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "속히"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:56.194757859Z",
+  "model": "glm-5.2"
+}

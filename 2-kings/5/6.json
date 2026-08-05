@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "⟨그가⟩ 그 편지를 이스라엘 왕에게 가져오니, 이렇게 쓰여 있었다. “이제 이 편지가 ⟨당신⟩에게 도착하거든, 보라, 내가 내 종 ⟨את⟩ 나아만을 ⟨당신⟩에게 보내었으니, ⟨당신⟩이 그의 나병을 낫게 하라.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "가져오니"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "그 편지를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이렇게 쓰여 있었다"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "도착하거든"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "그 편지가"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "내가 보내었으니"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나아만을"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "나아만을"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "내 종"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "낫게 하라"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "그의 나병을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:53.053101217Z",
+  "model": "glm-5.2"
+}

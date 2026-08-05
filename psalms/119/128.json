@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "그러므로 모든 당신의 규례를 내가 곧게 여깁니다. 거짓의 모든 길을 내가 미워합니다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "당신의 규례를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "곧게"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "여깁니다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "길을"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓의"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "미워합니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:36.021892240Z",
+  "model": "glm-5.2"
+}

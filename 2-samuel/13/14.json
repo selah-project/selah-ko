@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그러나 그는 그녀의 목소리를 듣기를 원하지 아니하였고, 그녀보다 힘이 세어 그녀를 능욕하고, 그녀와 ⟨את⟩ 동침하였다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그러나 아니"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "원하였다"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "듣기를"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "그녀의 목소리를"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "그가 힘이 세어"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "그녀보다"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "그가 그녀를 능욕하고"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "그가 동침하였다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:05.425885236Z",
+  "model": "glm-5.2"
+}

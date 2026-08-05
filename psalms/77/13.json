@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "그리고 온갖 행사를 묵상하며, 당신의 행적을 헤아리겠다.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "그리고 묵상하겠다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온갖"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "당신의 행사를"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "그리고 당신의 행적을"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "헤아리겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:58.331445634Z",
+  "model": "glm-5.2"
+}

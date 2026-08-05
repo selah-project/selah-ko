@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "nehemiah 7:64",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이들은 족보에 등재된 그들의 기록을 찾았으나 찾아지지 않았으므로, 그들은 코하나 직분에서 제외되었다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들은"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "찾았다"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "그들의 기록을"
+    },
+    {
+      "surface": "המתיחשים",
+      "gloss": "족보에 등재된"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 …아니었다"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "찾아졌다"
+    },
+    {
+      "surface": "ויגאלו",
+      "gloss": "그래서 그들은 제외되었다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "~에서"
+    },
+    {
+      "surface": "הכהנה",
+      "gloss": "코하나 직분"
+    }
+  ],
+  "timestamp": "2026-08-05T12:37:18.563170141Z",
+  "model": "glm-5.2"
+}

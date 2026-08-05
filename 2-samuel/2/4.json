@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 유다의 사람들이 와서, 거기서 그들이 ⟨את⟩ 다윗을 유다 집안 위에 왕으로 기름부었다. 그리고 그들이 다윗에게 알려 말하기를, 그것이 ⟨את⟩ 샤울을 장사지낸 야베쉬 길앗의 사람들이라 하였다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 … 왔다"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…의 사람들이"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "그리고 그들이 기름부었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕으로"
+    },
+    {
+      "surface": "על",
+      "gloss": "… 위에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집안"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "그리고 그들이 알려 … 하였다"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…의 사람들이"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "야베쉬"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길앗"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "그들이 장사지낸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤울"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    }
+  ],
+  "timestamp": "2026-08-05T18:10:41.434880067Z",
+  "model": "glm-5.2"
+}

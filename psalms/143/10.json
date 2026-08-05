@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 143,
+  "translation": "주의 뜻을 행하도록 나를 가르치소서. 오직 주는 나의 엘이심 ⟨입니다⟩. 주의 루아흐는 선하시니, 나를 평탄한 땅으로 인도하소서.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "나를 가르치소서"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하도록"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "주의 뜻을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "주는"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "나의 엘이심"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "주의 루아흐는"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "선하시니"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "나를 인도하소서"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "평탄한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:02.807496536Z",
+  "model": "glm-5.2"
+}

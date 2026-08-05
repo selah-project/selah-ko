@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "네가 내 눈에 귀하였고, 네가 존귀하였기에, 그리고 내가 너를 사랑하였기에, 내가 사람들을 너 대신에, 백성들을 네 네페쉬 대신에 주었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "네가 귀하였고"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "내 눈에"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "네가 존귀하였기에"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "그리고 내가"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "너를 사랑하였기에"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "내가 주었기 때문이다"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람들을"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "너 대신에"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "백성들을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "네 네페쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:28.482345527Z",
+  "model": "glm-5.2"
+}

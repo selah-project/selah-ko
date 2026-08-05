@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 그가 그를 데려다가 그의 어미에게 데려왔고, 그가 정오까지 그녀의 무릎 위에 앉아 있다가 죽었다.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "데려다가"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "데려왔고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨에게⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "그의 어미"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "앉아 있다가"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "그녀의 무릎"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "정오"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:05.887258876Z",
+  "model": "glm-5.2"
+}

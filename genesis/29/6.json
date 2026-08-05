@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그들이 ⟨그들에게⟩ 말하였다. \"그에게 샬롬이 있습니까?\" 그들이 ⟨대답하여⟩ 말하였다. \"샬롬입니다. 그런데 보라, 라헬 그의 딸이 양 떼와 함께 오고 있습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그런데 보라"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "그의 딸"
+    },
+    {
+      "surface": "באה",
+      "gloss": "오고 있습니다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:48.195503746Z",
+  "model": "glm-5.2"
+}

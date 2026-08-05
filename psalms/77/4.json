@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "엘로힘을 내가 기억하면 신음하리니, 묵상하면 나의 루아흐가 ⟨더할 나위 없이⟩ 지쳐 쓰러진다. 셀라.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "내가 기억하면"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "신음하리니"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "묵상하면"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "지쳐 쓰러진다"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "나의 루아흐가"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:22.676896987Z",
+  "model": "glm-5.2"
+}

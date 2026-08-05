@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리고 그들의 천막 안에서 불평하였으니, 야훼의 목소리에 순종하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "그리고 불평하였으니"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "그들의 천막 안에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "순종하지 하였다"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "목소리에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:42.576519804Z",
+  "model": "glm-5.2"
+}

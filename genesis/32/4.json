@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야곱이 ⟨그의⟩ 앞에 사자들을 보내었다 — ⟨그의⟩ 형 에사우에게, 세이르 땅으로, 에돔의 들판으로.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내었다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "사자들을"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그의 앞에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사우"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "…땅으로"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "세이르"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "들의"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:06.038946427Z",
+  "model": "glm-5.2"
+}

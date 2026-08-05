@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "죽음의 줄이 저를 두르고, 셰올의 좁은 골짜기가 저를 찾아왔으니, 고통과 슬픔을 저는 만났습니다.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "저를 두르고"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "줄"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음의"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "그리고 좁은 골짜기"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "셰올의"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "저를 찾아왔으니"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "고통"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "그리고 슬픔"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "저는 만났습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:57.372301779Z",
+  "model": "glm-5.2"
+}

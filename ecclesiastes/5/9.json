@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "은을 사랑하는 자는 음으로 만족하지 못하고, 풍부함을 사랑하는 자는 ⟨수확이⟩ 그치지 않으니, 이것도 헤벨이다.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "사랑하는 자는"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "만족하지"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "음으로"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "그리고 ⟨누가⟩"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하는 자는"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "풍부함을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "수확이"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헤벨이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:42.082818554Z",
+  "model": "glm-5.2"
+}

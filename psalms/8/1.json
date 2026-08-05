@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "지휘자에게, 깃딧 ⟨악기⟩에 맞추어. 다윗의 시편.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에 맞추어"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "깃딧"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:28.212837349Z",
+  "model": "glm-5.2"
+}

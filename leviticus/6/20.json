@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그것의 살 것에 닿는 모든 것은 거룩해질 것이요, 그것의 피가 어떤 옷에 튀면, 그것이 튄 위의 것을 거룩한 곳에서 빨아야 한다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든 것은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יגע",
+      "gloss": "닿는"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "그것의 살 것에"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "거룩해질 것이다"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 ~한 것"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "튀면"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "그것의 피가"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "그 옷"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יזה",
+      "gloss": "튄"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것 위의"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "빨아야 한다"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:12:22.231744092Z",
+  "model": "glm-5.2"
+}

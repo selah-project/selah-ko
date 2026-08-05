@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "샬롬으로 ⟨함께⟩ 누우리니 잠들리이다. 오직 당신이시다, 야훼, 홀로 안전히 ⟨나를⟩ 거하게 하시는 ⟨이⟩.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "샬롬으로"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨함께⟩"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "누우리니"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "잠들리이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "안전히"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "거하게 하시는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:02.418577020Z",
+  "model": "glm-5.2"
+}

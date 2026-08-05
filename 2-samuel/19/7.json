@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 19:7",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "당신의 미운 자들을 사랑하고 당신의 사랑하는 자들을 미워하면서. 당신이 오늘 ⟨자신⟩에게 지도자들도 없고 종들도 없음을 밝혔으니, 오늘 내가 아노니 — 아브샬롬이 살아 있고 우리 모두가 오늘 죽었더라도 그것이 당신의 눈에 옳았을 것임을.\"",
+  "tokens": [
+    {
+      "surface": "לאהבה",
+      "gloss": "사랑하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 미운 자들"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "당신의 미운 자들을"
+    },
+    {
+      "surface": "ולשנא",
+      "gloss": "그리고 미워하면서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 사랑하는 자들"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "당신의 사랑하는 자들을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다,"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "당신이 밝혔으니"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없음을"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨당신⟩에게"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "지도자들도"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "그리고 종들도"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 아노니"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "만약"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬이"
+    },
+    {
+      "surface": "חי",
+      "gloss": "살아 있고"
+    },
+    {
+      "surface": "וכלנו",
+      "gloss": "그리고 우리 모두가"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "죽었더라도"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אז",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "옳았을 것임을"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "당신의 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:43.875764463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "보라, 이 자들이 멀리서 오리라. 그리고 보라, 이 자들이 북쪽과 바다에서, 그리고 이 자들이 시님 땅에서 오리라.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이 자들이"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "멀리서"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "오리라"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이 자들이"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "북쪽과"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "바다에서"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이 자들이"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "~땅에서"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "시님"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:21.909737290Z",
+  "model": "glm-5.2"
+}

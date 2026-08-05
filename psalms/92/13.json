@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "의인은 야자나무처럼 무성하리니, 레바논의 백향목처럼 우뚝 솟으리라.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "의인은"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "야자나무처럼"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "무성하리니"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "백향목처럼"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "레바논의"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "우뚝 솟으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:38.358144976Z",
+  "model": "glm-5.2"
+}

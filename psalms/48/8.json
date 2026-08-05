@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "동풍으로 타르쉬쉬의 배들을 부수셨다.",
+  "tokens": [
+    {
+      "surface": "בְּר֥וּחַ",
+      "gloss": "바람으로"
+    },
+    {
+      "surface": "קָדִ֑ים",
+      "gloss": "동"
+    },
+    {
+      "surface": "תְּ֝שַׁבֵּ֗ר",
+      "gloss": "부수셨다"
+    },
+    {
+      "surface": "אֳנִיּ֥וֹת",
+      "gloss": "배들을"
+    },
+    {
+      "surface": "תַּרְשִֽׁישׁ",
+      "gloss": "타르쉬쉬의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:46.990727625Z",
+  "model": "glm-5.2"
+}

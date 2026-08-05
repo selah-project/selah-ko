@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "큰 방패와 작은 방패를 잡으시고, 일어나 나를 도우소서.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "잡으시고"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "큰 방패"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "작은 방패"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "나를 도우소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:26.581681852Z",
+  "model": "glm-5.2"
+}

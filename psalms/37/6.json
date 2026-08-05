@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그분께서 너의 체데크를 빛처럼 끌어내시며, 너의 판단을 정오처럼 밝히 드러내실 것이다.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "그리고 끌어내시며"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "빛처럼"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "너의 체데크를"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "그리고 너의 판단을"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "정오처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:08.081211709Z",
+  "model": "glm-5.2"
+}

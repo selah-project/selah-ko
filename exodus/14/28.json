@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "물이 돌아와서 ⟨את⟩ 병거와 ⟨את⟩ 기병들을 덮었다 — 바다로 그들 뒤를 따라 들어간 파르오의 모든 군대를. 그들 중 한 명까지도 남지 않았다.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "돌아와서"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "병거"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "기병들을"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "기병들을"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "군대를"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "들어간"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "그들 뒤를 따라"
+    },
+    {
+      "surface": "בים",
+      "gloss": "바다로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "남지 않았다"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들 중"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지도"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:27.335290154Z",
+  "model": "glm-5.2"
+}

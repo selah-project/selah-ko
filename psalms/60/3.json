@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "엘로힘이시여, 당신이 우리를 버리셨고, 우리를 부수셨으며, 노하셨으니 — 우리에게로 돌아오소서.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "당신이 우리를 버리셨고"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "우리를 부수셨으며"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "노하셨으니"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "돌아오소서"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:45.153092392Z",
+  "model": "glm-5.2"
+}

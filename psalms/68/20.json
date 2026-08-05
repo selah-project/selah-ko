@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "찬송받으실 분, 아도나이 — 날마다 날마다 우리에게 짐을 지워주시는 이, 우리 구원의 그 엘이시다. 셀라.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "찬송받으실"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날마다"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "짐을 지워주시는 이"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "האל",
+      "gloss": "그 엘"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "우리 구원의"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:43.557589077Z",
+  "model": "glm-5.2"
+}

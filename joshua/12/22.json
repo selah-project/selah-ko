@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "케데쉬의 왕 한 명, 카르멜에 속한 옉네암의 왕 한 명.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "케데쉬의"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "옉네암의"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "카르멜에 속한"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:47.507815430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그들이 바람 앞 까끄라기 같게 되고, 야훼의 사자가 밀어내시게 ⟨되기를⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "그들이 … 같게 되고"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "까끄라기 같이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "그리고 사자가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "밀어내시게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:27.747307961Z",
+  "model": "glm-5.2"
+}

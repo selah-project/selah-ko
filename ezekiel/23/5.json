@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 23:5",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 아홀라는 내 아래에서 음란하였고, 그녀의 연인들을 향해 동경하였다 — 아슈르인, 가까운 자들을.",
+  "tokens": [
+    {
+      "surface": "ותזן",
+      "gloss": "그리고 음란하였다"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "아홀라는"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "내 아래에서"
+    },
+    {
+      "surface": "ותעגב",
+      "gloss": "그리고 동경하였다"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을(를) 향해"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "그녀의 연인들"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르인"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "가까운 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T10:55:02.603604805Z",
+  "model": "glm-5.2"
+}

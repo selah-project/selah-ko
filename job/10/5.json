@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "당신의 날들이 인간의 날들과 같으신가, 당신의 해들이 전사의 날들과 같으신가?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "…와 같으신가"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "인간"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "당신의 날들이"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…인가"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "당신의 해들이"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "…의 날들과 같으신가"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "전사"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:46.954824434Z",
+  "model": "glm-5.2"
+}

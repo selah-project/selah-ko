@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "화, 아비에게 \"무엇을 낳으시나이까?\" 말하는 자, 그리고 여인에게 \"무엇을 해산하시나이까?\" ⟨라고 하는 자⟩!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하는 자"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "아비에게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "낳으시나이까"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "그리고 여인에게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "해산하시나이까"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:29.504631593Z",
+  "model": "glm-5.2"
+}

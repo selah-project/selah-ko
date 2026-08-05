@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "악인에게 반역이 신탁하나, ⟨그것은⟩ 내 마음속 ⟨것⟩이다 — 엘로힘을 두려워함이 그의 눈앞에 없다.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "신탁하나"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "반역이"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "악인에게"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "속에"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "두려워함이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "그의 눈"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:00.378291314Z",
+  "model": "glm-5.2"
+}

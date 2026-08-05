@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "야훼여, ⟨내⟩ 기도를 들어주소서. ⟨그리고⟩ ⟨내⟩ 부르짖음이 ⟨주⟩께 오게 하소서.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "들어주소서"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "내 기도를"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "그리고 내 부르짖음이"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "주께"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "오게 하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:27.606549491Z",
+  "model": "glm-5.2"
+}

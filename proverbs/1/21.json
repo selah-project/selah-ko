@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "소란스러운 곳들의 머리에서 ⟨그녀가⟩ 부르시니, 문들어귀에서, 성읍 안에서 ⟨그녀의⟩ 말들이 선포된다.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "머리에서"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "소란스러운 곳들의"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "그녀가 부르시니"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "문들어귀에서"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "문들의"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성읍 안에서"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "그녀의 말들이"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "선포된다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:20.267379367Z",
+  "model": "glm-5.2"
+}

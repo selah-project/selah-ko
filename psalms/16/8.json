@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "내가 야훼를 내 앞에 항상 두었으니, ⟨그⟩분은 내 오른편에 계시므로 나는 흔들리지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "내가 두었으니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "내 앞에"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "항상"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "내 오른편에"
+    },
+    {
+      "surface": "בל",
+      "gloss": "결코"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "아니하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:53.942721729Z",
+  "model": "glm-5.2"
+}

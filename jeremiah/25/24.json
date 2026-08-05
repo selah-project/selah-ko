@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 ⟨את⟩ 아라브의 모든 왕들과 ⟨את⟩ 광야에 거주하는 섞인 무리의 모든 왕들을",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아라브의 모든 왕들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "아라브"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "섞인 무리의 모든 왕들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "섞인 무리의"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "거주하는"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:40.062910885Z",
+  "model": "glm-5.2"
+}

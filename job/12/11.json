@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "귀가 말들을 시험하지 아니하며, 입천장이 음식을 스스로 맛보지 아니하느냐",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "아니하느냐"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "귀가"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "시험하지"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "그리고 입천장이"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "음식을"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "맛보지"
+    },
+    {
+      "surface": "לו",
+      "gloss": "스스로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:50.872577160Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "이스라엘의 집아, ⟨את⟩ 야훼를 찬송하라. 아론의 집아, ⟨את⟩ 야훼를 찬송하라.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "찬송하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "찬송하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:00.532544226Z",
+  "model": "glm-5.2"
+}

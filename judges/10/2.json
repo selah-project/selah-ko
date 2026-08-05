@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "⟨그⟩가 ⟨את⟩ 이스라엘을 스물세 해 재판하였다. ⟨그⟩가 죽어 샤미르에 묻혔다.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "스물"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "셋"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "묻혔다"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "샤미르에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:53.429407157Z",
+  "model": "glm-5.2"
+}

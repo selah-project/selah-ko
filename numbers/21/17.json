@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그때에 이스라엘이 ⟨את⟩ ⟨그⟩ 노래 ⟨이것⟩을 노래하였다. \"우물아, 솟아올라라, 그것에게 노래하여라.\"",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "יָשִׁיר",
+      "gloss": "노래하였다"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 노래 이것"
+    },
+    {
+      "surface": "הַשִּׁירָה",
+      "gloss": "그 노래"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "이것"
+    },
+    {
+      "surface": "עֲלִי",
+      "gloss": "솟아올라라"
+    },
+    {
+      "surface": "בְאֵר",
+      "gloss": "우물아"
+    },
+    {
+      "surface": "עֱנוּ",
+      "gloss": "노래하여라"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "그것에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:40:16.437539672Z",
+  "model": "glm-5.2"
+}

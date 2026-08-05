@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "나는 고난받았기에 ⟨그것이⟩ 나에게 좋다 — ⟨그리하여⟩ ⟨당신의⟩ 규례들을 내가 배운다.",
+  "tokens": [
+    {
+      "surface": "טֽוֹב",
+      "gloss": "좋다"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "כִֽי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עֻנֵּ֑יתִי",
+      "gloss": "고난받았기에"
+    },
+    {
+      "surface": "לְ֝מַ֗עַן",
+      "gloss": "⟨그리하여⟩"
+    },
+    {
+      "surface": "אֶלְמַ֥ד",
+      "gloss": "배운다"
+    },
+    {
+      "surface": "חֻקֶּֽיךָ",
+      "gloss": "규례들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:29.428846115Z",
+  "model": "glm-5.2"
+}

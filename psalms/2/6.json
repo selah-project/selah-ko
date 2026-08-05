@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "\"나는 내 왕을 설정하였다, 시온 곧 내 거룩한 산 위에.\"",
+  "tokens": [
+    {
+      "surface": "וַ֭אֲנִי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "נָסַ֣ךְתִּי",
+      "gloss": "설정하였다"
+    },
+    {
+      "surface": "מַלְכִּ֑י",
+      "gloss": "내 왕을"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "צִ֝יּ֗וֹן",
+      "gloss": "시온"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "산"
+    },
+    {
+      "surface": "קָדְשִֽׁי",
+      "gloss": "내 거룩한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:45.795613062Z",
+  "model": "glm-5.2"
+}

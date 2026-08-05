@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 날이 되어 엘카나가 제물을 잡아 바칠 때, 그는 피닌나—자기 아내—와 그녀의 모든 아들들과 딸들에게 몫을 주었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 … 되어"
+    },
+    {
+      "surface": "היום",
+      "gloss": "날이"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "잡아 바칠 때"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "엘카나가"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "그리고 주었다"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "피닌나에게"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "자기 아내"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "그리고 … 모든"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "그녀의 아들들"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "그리고 그녀의 딸들에게"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "몫들을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:22:25.709517178Z",
+  "model": "glm-5.2"
+}

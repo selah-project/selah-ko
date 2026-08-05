@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 43:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "엘 샤다이가 그 사람 앞에서 너희에게 자비를 주시기를, 그가 너희 다른 형제와 ⟨את⟩ 베냐민을 너희에게 보내게 하시기를. 나는 잃어버린다면 잃어버리는 것이다.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 엘"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이가"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주시기를"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "자비를"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "~앞에서"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "보내게 하시기를"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 다른 형제와 베냐민을"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "너희 형제를"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "베냐민을"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "베냐민을"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~라면"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "잃어버린다면"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "잃어버리는 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:07.111198590Z",
+  "model": "glm-5.2"
+}

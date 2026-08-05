@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "나를 향하여 돌이키라, 그리고 구원을 얻으라, 땅의 모든 끝들이여, 내가 엘이요 다른 이가 없기 때문이다.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "돌이키라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를 향하여"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "그리고 구원을 얻으라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "끝들이여"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이요"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 … 없다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다른 이가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:32.791468058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그들에게 ⟨일이⟩ 있을 때 ⟨그것이⟩ 내게로 오면, 나는 ⟨한⟩ 사람과 그의 이웃 사이를 심판하고, 엘로힘의 규례들과 ⟨את⟩ 그의 토라들을 알게 하옵니다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일이"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오면"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "심판하고"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이를"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람과"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "⟨그리고⟩ …⟨사이⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "그의 이웃"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "알게 하옵니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 토라들을"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "규례들"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 토라들을"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "그의 토라들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:40.829243656Z",
+  "model": "glm-5.2"
+}

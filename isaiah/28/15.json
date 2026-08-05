@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "너희가 말하기를, '우리는 ⟨את⟩ 죽음과 브리트을 맺고, 셰올과 합의를 하여, 범람하는 채찍이 지나갈 때 우리에게 오지 않을 것이다 — 우리는 거짓을 우리의 피신처로 삼고, 거짓됨 아래 숨었다'고 하였으므로.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…⟨으므로⟩"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "너희가 말하기를"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "우리는 … 맺고"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "죽음"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "…과"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "셰올"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "우리는 … 하여"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "합의를"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "채찍"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "범람하는"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "지나갈"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "오 것이다 우리에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…⟨므로⟩"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "우리는 삼으므로"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "우리의 피신처로"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "그리고 거짓됨 아래"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "숨었다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:10.746727062Z",
+  "model": "glm-5.2"
+}

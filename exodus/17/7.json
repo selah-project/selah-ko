@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 그가 그 곳의 이름을 마싸(시험)와 므리바(다툼)라 불렀으니, 이스라엘 자손의 다툼 때문이며, 그들이 ⟨את⟩ 야훼를 시험하며 말하였기 때문이다. “야훼께서 우리 가운데 계신가, 아니 계시지 않은가?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 불렀으니"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "그 곳의"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "마싸"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "그리고 므리바"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문이며"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "다툼"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 때문이다"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "시험하며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였기"
+    },
+    {
+      "surface": "היש",
+      "gloss": "계신가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "우리 가운데"
+    },
+    {
+      "surface": "אם",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אין",
+      "gloss": "계시지 않은가"
+    }
+  ],
+  "timestamp": "2026-08-05T07:55:23.215727257Z",
+  "model": "glm-5.2"
+}

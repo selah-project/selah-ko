@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 32:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 레위의 아들들이 모셰의 말씀대로 행하니, 그 날에 백성 중에서 약 삼천 명이 쓰러졌다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그리고 행하니"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "레위"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말씀대로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "그리고 쓰러졌다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "약 삼"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:56.393456286Z",
+  "model": "glm-5.2"
+}

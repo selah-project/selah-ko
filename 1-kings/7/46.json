@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "왕이 그것들을 요르단 평야에서, 숙곳과 차르탄 사이의 점토 땅에서 부어 만들었다.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "…평야에서"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "부어 만들었다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "…점토"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…사이에서"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "숙곳"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 …사이의"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "차르탄"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:01.603531314Z",
+  "model": "glm-5.2"
+}

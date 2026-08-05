@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 51:20",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "너는 나의 전쟁 무기, 도끼이다. 내가 너로 민족들을 부수고, 내가 너로 왕국들을 멸망시키리라.",
+  "tokens": [
+    {
+      "surface": "מַפֵּץ",
+      "gloss": "도끼이다"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "나의"
+    },
+    {
+      "surface": "כְּלֵ֖י",
+      "gloss": "무기"
+    },
+    {
+      "surface": "מִלְחָמָ֑ה",
+      "gloss": "전쟁"
+    },
+    {
+      "surface": "וְנִפַּצְתִּ֤י",
+      "gloss": "부수고"
+    },
+    {
+      "surface": "בְךָ֙",
+      "gloss": "너로"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "민족들을"
+    },
+    {
+      "surface": "וְהִשְׁחַתִּ֥י",
+      "gloss": "멸망시키리라"
+    },
+    {
+      "surface": "בְךָ֖",
+      "gloss": "너로"
+    },
+    {
+      "surface": "מַמְלָכֽוֹת",
+      "gloss": "왕국들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:46:14.957419516Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "만일 네 쫓김을 당한 자가 하늘 끝에 있다 하더라도, 거기로부터 네 엘로힘 야훼가 너를 모으실 것이요, 거기로부터 너를 데려오실 것이다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있다 하더라도"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "네 쫓김을 당한 자가"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "끝에"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기로부터"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "모으실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "그리고 거기로부터"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "데려오실 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:30.461858079Z",
+  "model": "glm-5.2"
+}

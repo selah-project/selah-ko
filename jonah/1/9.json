@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 그들에게 말하였다. \"저는 히브리 사람입니다. 그리고 ⟨את⟩ 야훼를, 하늘의 엘로힘을, 내가 경외합니다 — ⟨그분이⟩ ⟨את⟩ 바다와 ⟨את⟩ 뭍을 만드신 분이십니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "히브리 사람"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "경외한다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만드신"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바다를"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "뭍을"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "뭍"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:21.256810563Z",
+  "model": "glm-5.2"
+}

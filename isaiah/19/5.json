@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 물이 바다에서 말라, 강은 황폐해지고 말라버릴 것이다.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "그리고 말라"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "바다에서"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "강은"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "황폐해지고"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "말라버릴 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:45.879430094Z",
+  "model": "glm-5.2"
+}

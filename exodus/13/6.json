@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "칠 일 동안 너는 누룩 없는 빵을 먹을 것이요, 일곱째 날에는 야훼께 ⟨위한⟩ 절기가 될 것이다.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "칠 …의"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일 동안 날들"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "너는 먹을 것이다"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "누룩 없는 빵"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "그리고 …날에"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "חג",
+      "gloss": "절기"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    }
+  ],
+  "timestamp": "2026-08-05T07:52:28.716619416Z",
+  "model": "glm-5.2"
+}

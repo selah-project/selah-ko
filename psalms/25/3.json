@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "과연 당신을 기다리는 모든 ⟨이⟩ 부끄러움을 당하지 않으리니 — 까닭 없이 배신하는 자들이 부끄러움을 당하리이다.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "과연"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "당신을 기다리는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "부끄러움을 당하"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "부끄러움을 당하리이다"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "배신하는 자들이"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "까닭 없이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:55.014005197Z",
+  "model": "glm-5.2"
+}

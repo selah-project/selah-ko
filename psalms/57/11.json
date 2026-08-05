@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "⟨당신의⟩ 헤세드가 하늘까지 크사, ⟨당신의⟩ 에메트가 구름들에 이르나이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "크사"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨당신의⟩ 헤세드가"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "이르나이다"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "구름들"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "⟨당신의⟩ 에메트가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:26.896509263Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그가 자기 마음 ⟨속⟩에서 말하였다: \"엘이 잊으셨다, ⟨그가⟩ 자기 얼굴을 숨기셨다, 영원히 보지 않으신다.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "자기 마음 속에서"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "잊으셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "숨기셨다"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "자기 얼굴을"
+    },
+    {
+      "surface": "בל",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보지 않으신다"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:57.578566546Z",
+  "model": "glm-5.2"
+}

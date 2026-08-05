@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "그리고 내가 나의 모든 산들을 길로 만들 것이며, 나의 대로들은 높아지리라.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "그리고 내가 ~만들 것이며"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "나의 산들을"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "나의 대로들은"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "높아지리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:21.909661752Z",
+  "model": "glm-5.2"
+}

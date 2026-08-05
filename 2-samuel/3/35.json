@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 3:35",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 온 백성이 낮인 동안에 다윗에게 ⟨את⟩ 떡을 먹이려고 왔다. 다윗이 맹세하여 말하기를, \"엘로힘이 내게 이같이 하시고 이같이 더하시기를, 해가 지기 전에 내가 떡이나 그 밖의 어떤 것도 맛보지 않으면.\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 왔다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "להברות",
+      "gloss": "먹이려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡을"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "~인 동안에"
+    },
+    {
+      "surface": "היום",
+      "gloss": "낮"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "그리고 맹세하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "하시기를"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "그리고 이같이"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "더하시기를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "if"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לפני",
+      "gloss": "~전에"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "지"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해가"
+    },
+    {
+      "surface": "אטעם",
+      "gloss": "내가 맛보지"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡이나"
+    },
+    {
+      "surface": "או",
+      "gloss": "또는"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "어떤 것도"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:03.036421503Z",
+  "model": "glm-5.2"
+}

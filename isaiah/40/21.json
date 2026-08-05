@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "너희가 알지 못하였느냐, 듣지 못하였느냐, 처음부터 너희에게 선포되지 아니하였느냐, 땅의 기초들을 깨닫지 못하였느냐",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "알지 못하였느냐"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "너희가 모르다"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "듣지 못하였느냐"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "너희가 듣다"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "선포되지 아니하였느냐"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "선포되다"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "처음부터"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "깨닫지 못하였느냐"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "너희가 깨닫다"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "기초들을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:08.504946106Z",
+  "model": "glm-5.2"
+}

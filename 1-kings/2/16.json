@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 이제 내가 당신에게 하나의 청원을 요청하오니, ⟨나의⟩ ⟨את⟩ 얼굴을 돌이키지 마소서.\" 그녀가 그에게 말하였다. \"말하소서.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "청원을"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "요청하오니"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "돌이키지 마소서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 얼굴을"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:52.739007550Z",
+  "model": "glm-5.2"
+}

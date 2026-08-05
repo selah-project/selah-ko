@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 15:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 ⟨그가⟩ 자신에게 집들을 지었는데, 다윗 성에서. 그리고 ⟨그가⟩ 엘로힘의 궤를 위하여 자리를 마련하였고, ⟨그가⟩ 그것을 위하여 장막을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 지었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자신에게"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "집들을"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "~의 성에서"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": "그리고 마련하였다"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "자리를"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "~의 궤를 위하여"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "그리고 쳤다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것을 위하여"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:39.774863973Z",
+  "model": "glm-5.2"
+}

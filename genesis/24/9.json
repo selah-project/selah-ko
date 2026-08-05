@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그 종이 ⟨아브라함⟩ ⟨그의⟩ 주인의 넓적다리 아래에 ⟨את⟩ 자기 손을 두고, 이 일에 관하여 그에게 맹세하였다.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "두고"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "그 종이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 손을"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…아래에"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "넓적다리"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인의"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "맹세하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에 관하여"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 일"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:30.845979742Z",
+  "model": "glm-5.2"
+}

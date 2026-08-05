@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ 온 회중을 둘째 달의 첫째 날에 소집하였다. 그들이 그들의 가족들에 따라, 그들의 조상의 집에 따라 이름의 수로 계보를 밝혔으니, 스무 살부터 그 위로, 그들의 두수(頭數)로.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "온"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중을"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "소집하였다"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "첫째 날에"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "달의"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "계보를 밝혔으니"
+    },
+    {
+      "surface": "על",
+      "gloss": "따라"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "그들의 가족들에"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "그들의 조상의"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "수로"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름의"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "스무"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "살"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "그 위로"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "그들의 두수(頭數)로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:27:16.257277833Z",
+  "model": "glm-5.2"
+}

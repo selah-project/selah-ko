@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "고난받기 전에 저는 방황하였습니다, 그러나 이제는 당신의 말씀을 지켰습니다.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "∼전에"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "고난받기"
+    },
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "방황하였습니다"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "그러나 이제는"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "당신의 말씀을"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "지켰습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:32.419111989Z",
+  "model": "glm-5.2"
+}

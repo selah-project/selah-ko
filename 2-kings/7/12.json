@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 7:12",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "왕이 밤에 일어나 그의 종들에게 말하였다. \"내가 이제 ⟨아라⟩ ⟨את⟩ 그들이 우리에게 한 일을 알리겠다. 아람이 우리가 주리고 있음을 알고 진에서 나와 들에서 숨은 채, 말하기를 '그들이 성에서 나오면 우리가 그들을 산 채로 사로잡고 성으로 들어가자' 한 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "내가 알리겠다"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들이 우리에게 한 일"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "그들이 한"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람이"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "알고"
+    },
+    {
+      "surface": "כי",
+      "gloss": "것을"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "주리고"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "나와"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진"
+    },
+    {
+      "surface": "להחבה",
+      "gloss": "숨은 채"
+    },
+    {
+      "surface": "בהשדה",
+      "gloss": "들에서"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "그들이 나오면"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "ונתפשם",
+      "gloss": "우리가 그들을 사로잡자"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "산 채로"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "우리가 들어가자"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:56.516147750Z",
+  "model": "glm-5.2"
+}

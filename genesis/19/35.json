@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그 밤에도 그들은 ⟨את⟩ 그들의 아버지에게 포도주를 마시게 하였다. 그러자 막내가 일어나 그와 함께 누웠으나, 그는 ⟨그녀가⟩ 누울 때에도 일어날 때에도 알지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "마시게 하였다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "그 밤에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 아버지"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "그들의 아버지"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "막내가"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "누웠으나"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "알지 못하였다"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지 못하였다"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "누울 때에도"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "일어날 때에도"
+    }
+  ],
+  "timestamp": "2026-08-05T17:08:31.777055478Z",
+  "model": "glm-5.2"
+}

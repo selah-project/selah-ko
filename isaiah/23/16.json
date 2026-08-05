@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "수금을 취하여라, 잊혀진 창녀야, ⟨그⟩ 성을 두루 돌아라. 타는 노래를 잘하여라, 노래를 많이 하여라, 그리하여 네가 기억되게 하여라.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "취하여라"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "수금을"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "두루 돌아라"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성을"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "창녀야"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "잊혀진"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "잘하여라"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "타는 것을"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "많이 하여라"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래를"
+    },
+    {
+      "surface": "למען",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "네가 기억되게 하여라"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:28.930096628Z",
+  "model": "glm-5.2"
+}

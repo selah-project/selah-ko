@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그것들 중 하나에서 한 뿔이 작은 것에서 나왔고, 남쪽으로, 그리고 동쪽으로, 그리고 아름다운 땅으로 크게 자라났다.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에서"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그것들 중"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나왔고"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "뿔이"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "작은 것에서"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "크게 자라났다"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "크게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~으로"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "남쪽"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~으로"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~으로"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "아름다운 ⟨것⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T12:28:30.697234145Z",
+  "model": "glm-5.2"
+}

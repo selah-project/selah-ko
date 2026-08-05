@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "여호수아가 코헨들에게 말하여 이르기를, “⟨את⟩ 브리트의 궤를 들어 백성 앞에서 건너가라” 하였다. 그들이 ⟨את⟩ 브리트의 궤를 들어 백성 앞에서 걸어갔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "들어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "브리트의 궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "브리트의"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "건너가라"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "브리트의 궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "브리트의"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "걸어갔다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    }
+  ],
+  "timestamp": "2026-08-05T18:08:37.183762530Z",
+  "model": "glm-5.2"
+}

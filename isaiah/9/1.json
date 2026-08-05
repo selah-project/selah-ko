@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "어둠 속을 걷던 ⟨그⟩ 백성이 큰 빛을 보았다. 죽음의 그늘 땅에 사는 자들 위로 빛이 비취었다.",
+  "tokens": [
+    {
+      "surface": "הָעָם֙",
+      "gloss": "⟨그⟩ 백성이"
+    },
+    {
+      "surface": "הַהֹלְכִ֣ים",
+      "gloss": "걷던"
+    },
+    {
+      "surface": "בַּחֹ֔שֶׁךְ",
+      "gloss": "어둠 속을"
+    },
+    {
+      "surface": "רָא֖וּ",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "א֣וֹר",
+      "gloss": "빛을"
+    },
+    {
+      "surface": "גָּד֑וֹל",
+      "gloss": "큰"
+    },
+    {
+      "surface": "יֹשְׁבֵי֙",
+      "gloss": "사는 자들"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "צַלְמָ֔וֶת",
+      "gloss": "죽음의 그늘"
+    },
+    {
+      "surface": "א֖וֹר",
+      "gloss": "빛이"
+    },
+    {
+      "surface": "נָגַ֥הּ",
+      "gloss": "비취었다"
+    },
+    {
+      "surface": "עֲלֵיהֶֽם",
+      "gloss": "위로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:14.254054249Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "온 백성이 그들의 귀에 있던 ⟨את⟩ 금 귀걸이를 빼어 아하론에게 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "빼어"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "금 귀걸이를"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "귀걸이를"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "그들의 귀에 있던"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "가져왔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:14.808477285Z",
+  "model": "glm-5.2"
+}

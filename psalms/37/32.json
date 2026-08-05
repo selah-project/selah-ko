@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "라샤가 체다크를 지켜보며, ⟨그를⟩ 죽이려고 찾는다.",
+  "tokens": [
+    {
+      "surface": "צוֹפֶה",
+      "gloss": "지켜보며"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "라샤가"
+    },
+    {
+      "surface": "לַצַּדִּיק",
+      "gloss": "체다크를"
+    },
+    {
+      "surface": "וּמְבַקֵּשׁ",
+      "gloss": "찾는다"
+    },
+    {
+      "surface": "לַהֲמִיתוֹ",
+      "gloss": "죽이려고"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:23.185186382Z",
+  "model": "glm-5.2"
+}

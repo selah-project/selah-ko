@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "무려 여섯 달 동안 요아브와 온 이스라엘이 거기 머물렀다 — 에돔에서 모든 남자를 진멸할 때까지.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "무려"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "달 동안"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "머물렀다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브와"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "진멸할"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자를"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "에돔에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:09.688352054Z",
+  "model": "glm-5.2"
+}

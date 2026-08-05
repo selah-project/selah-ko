@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 22:15",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 너와 함께 많은 일꾼들이 있으니, 돌을 깎는 자들과 돌과 나무를 다루는 기술자들, 그리고 온갖 일에 능통한 모든 숙련공이 있다.",
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "그리고 너와 함께"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "많이"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "일꾼들"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일하는"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "깎는 자들"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "그리고 다루는 자들"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "그리고 나무"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "능통한"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온갖"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:50.049297328Z",
+  "model": "glm-5.2"
+}

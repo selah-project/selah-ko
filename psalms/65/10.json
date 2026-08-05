@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "땅을 돌아보시어 그것을 흠뻑 적시시니, 그것을 크게 부요하게 하시나이다. 엘로힘의 수로가 물로 가득하니, 그들의 곡식을 준비하시나이다. 그리하실 때에 그것을 준비하시나이다.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "돌아보시어"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "흠뻑 적시시니"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "크게"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "부요하게 하시나이다"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "수로가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "가득하니"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물로"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "준비하시나이다"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "그들의 곡식을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그리하실"
+    },
+    {
+      "surface": "כן",
+      "gloss": "때에"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "그것을 준비하시나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:45.745714968Z",
+  "model": "glm-5.2"
+}

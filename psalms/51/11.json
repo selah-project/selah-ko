@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "주의 얼굴을 내 죄들에게서 숨기시고, 내 모든 죄악들을 도말하소서.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "숨기시고"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "주의 얼굴을"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "내 죄들에게서"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 ⟨나의⟩ 모든"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "죄악들을"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "도말하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:58.363774396Z",
+  "model": "glm-5.2"
+}

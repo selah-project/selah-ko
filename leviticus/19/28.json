@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 네페쉬를 위하여 베어낸 상처를 너희 살에 내지 말며, ⟨그리고⟩ 자국을 새긴 문신을 너희에게 두지 말라. 나는 야훼이다.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "그리고 베어낸 상처를"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "네페쉬를 위하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "너희는 내지"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "너희 살에"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "그리고 문신을"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "자국을 새긴"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "너희는 두지"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:18.905367239Z",
+  "model": "glm-5.2"
+}

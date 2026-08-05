@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 엿세 동안 너는 ⟨את⟩ 네 땅에 씨를 뿌리고, ⟨그리고⟩ ⟨את⟩ 그것의 소출을 거두어들여라.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "그리고 엿세"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "너는 씨를 뿌리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 땅"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "네 땅"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "그리고 거두어들여라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 소출"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "그것의 소출"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:14.075805885Z",
+  "model": "glm-5.2"
+}

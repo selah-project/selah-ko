@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 이제 이 땅을 ⟨את⟩ 아홉 지파에게 유산으로 나누어라, 그리고 므나쎄 지파의 절반 ⟨으로⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "나누어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "유산으로"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "아홉"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "지파에게"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "그리고 절반"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "지파"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "므나쎄"
+    }
+  ],
+  "timestamp": "2026-08-05T09:08:15.344736745Z",
+  "model": "glm-5.2"
+}

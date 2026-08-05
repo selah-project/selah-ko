@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "나는 죽지 아니하리니, 오히려 살겠고, 야의 행하신 일들을 전하리라.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אָמ֥וּת",
+      "gloss": "내가 죽으리니"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "오히려"
+    },
+    {
+      "surface": "אֶֽחְיֶ֑ה",
+      "gloss": "내가 살겠고"
+    },
+    {
+      "surface": "וַ֝אֲסַפֵּ֗ר",
+      "gloss": "내가 전하리라"
+    },
+    {
+      "surface": "מַֽעֲשֵׂ֥י",
+      "gloss": "행하신 일들을"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "야"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:56.451551448Z",
+  "model": "glm-5.2"
+}

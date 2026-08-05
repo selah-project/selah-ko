@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "함께 나에 대해 속삭인다, 나를 미워하는 모든 자가. 나에 대해 악을 꾀한다 — 나에게.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "함께"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나에 대해"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "속삭인다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "나를 미워하는 자가"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나에 대해"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "꾀한다"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:37.271812538Z",
+  "model": "glm-5.2"
+}

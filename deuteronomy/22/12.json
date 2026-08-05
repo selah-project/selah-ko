@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "네가 덮는 옷의 네 날개 위에 네가 ⟨그것으로⟩ 덮는 너를 위하여 술들을 만들라.",
+  "tokens": [
+    {
+      "surface": "גְּדִלִ֖ים",
+      "gloss": "술들을"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֥ה",
+      "gloss": "만들라"
+    },
+    {
+      "surface": "לָּ֑ךְ",
+      "gloss": "너를 위하여"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "אַרְבַּ֛ע",
+      "gloss": "네"
+    },
+    {
+      "surface": "כַּנְפ֥וֹת",
+      "gloss": "날개"
+    },
+    {
+      "surface": "כְּסוּתְךָ֖",
+      "gloss": "옷"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "…의"
+    },
+    {
+      "surface": "תְּכַסֶּ֖ה",
+      "gloss": "덮는"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "⟨그것으로⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:59.156695797Z",
+  "model": "glm-5.2"
+}

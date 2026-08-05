@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "아이가 자라서 그녀가 그를 파르오의 딸에게 데려가니, 그가 그녀에게 아들이 되었다. 그녀가 그의 이름을 모셰라 불렀는데, 이는 그녀가 말하기를 \"물에서 내가 그를 끌어냈기 때문이다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "자라서"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "아이가"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "데려가니"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "딸에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰라"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "내가 그를 끌어냈다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:41.615954515Z",
+  "model": "glm-5.2"
+}

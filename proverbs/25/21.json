@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "네가 미워하는 자가 주리거든 그에게 떡을 먹이고, 그가 목마르거든 그에게 물을 마시워라.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "주리거든"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "네가 미워하는 자가"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "먹이고"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡을"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "목마르거든"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "마시워라"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:21.170853271Z",
+  "model": "glm-5.2"
+}

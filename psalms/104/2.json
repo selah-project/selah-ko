@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "⟨그⟩분은 빛을 옷처럼 두르시고, 하늘을 휘장처럼 펴시는 ⟨이시다⟩.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "두르시고"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛을"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "옷처럼"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "펴시는"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘을"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "휘장처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:55.891686419Z",
+  "model": "glm-5.2"
+}

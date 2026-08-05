@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "내가 바다 위에 그의 손을, 강들 위에 그의 오른손을 두리라.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "내가 … 두리라"
+    },
+    {
+      "surface": "בים",
+      "gloss": "바다 위에"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "강들 위에"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "그의 오른손을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:41.989081269Z",
+  "model": "glm-5.2"
+}

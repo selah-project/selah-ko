@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 요셉의 주인이 ⟨את⟩ 그를 취하여 ⟨그⟩ 감옥으로 넣었으니, 그곳은 왕의 갇힌 자들이 갇혀 있는 곳이었다. 그리고 그가 거기 ⟨그⟩ 감옥 안에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 ⟨그가⟩ 취하였다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "…주인이"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉의"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "그리고 ⟨그가⟩ 그를 넣었다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…집"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "그 감옥"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "그곳은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…곳"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "…갇힌 자들"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "갇혀 있는"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨그가⟩ 있었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…집 안에"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "그 감옥"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:59.777618837Z",
+  "model": "glm-5.2"
+}

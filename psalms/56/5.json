@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "엘로힘을 향하여 나는 ⟨그분의⟩ 말씀을 찬양하리라, 엘로힘에게 내가 의지하였으니, 나는 두려워하지 않으리라 — 육체가 나에게 무엇을 할 수 있으랴.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "엘로힘을 향하여"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "나는 찬양하리라"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨그분의⟩ 말씀을"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "엘로힘에게"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "내가 의지하였으니"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "나는 두려워하리라"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "할 수 있으랴"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "육체가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:49.079032479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 내가 ⟨את⟩ 이 성의 거민과 ⟨את⟩ 사람과 ⟨את⟩ 짐승을 치리니 — 큰 역병으로 그들이 죽으리라.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "그리고 내가 치리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 성의 거민"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "거민"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "이 성의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "사람"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "짐승"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "역병으로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "그들이 죽으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T13:57:05.457704466Z",
+  "model": "glm-5.2"
+}

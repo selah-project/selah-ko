@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 33:24",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 아셀에게 말씀하셨다. 아들들 중에서 아셀은 복받을지어다. 그가 그의 형제들에게 기쁘게 받아들여지고, 그의 발을 기름에 담글지어다.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "그리고 아셀에게"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "복받을지어다"
+    },
+    {
+      "surface": "מבנים",
+      "gloss": "아들들 중에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "아셀은"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "그가 ~일지어다"
+    },
+    {
+      "surface": "רצוי",
+      "gloss": "기쁘게 받아들여지고"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들에게"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "담글지어다"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "기름에"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "그의 발을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:37.151812054Z",
+  "model": "glm-5.2"
+}

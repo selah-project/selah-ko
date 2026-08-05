@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 15:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그가 야훼의 눈에 바른 것을 행하였으니, 그의 아비 아마쯔야후가 행한 모든 것과 같았다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가 행하였다"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "그 바른 것을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "~의 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것과 같이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "∼한 것"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "아마쯔야후가"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아비"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:27.484390069Z",
+  "model": "glm-5.2"
+}

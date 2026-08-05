@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 20:18",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 여호나탄이 그에게 말하였다. \"내일은 초승달이니, 네 자리가 점검될 것임이라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "내일은"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "초승달이니"
+    },
+    {
+      "surface": "ונפקדת",
+      "gloss": "점검될 것이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "점검될 것이다"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "네 자리가"
+    }
+  ],
+  "timestamp": "2026-08-05T19:36:04.065444910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 내가 ⟨את⟩ 나의 브리트를 너와 세우리니, 너는 ⟨את⟩ 방주로 들어가리라 — 너와 너의 아들들, 너의 아내, 그리고 너의 아들들의 아내들이 너와 함께.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "그리고 내가 세우리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 브리트"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "나의 브리트"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너와"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "그리고 너는 들어가리라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "그리고 너의 아들들"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "그리고 너의 아내"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "그리고 아내들"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "너의 아들들의"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:49.802376215Z",
+  "model": "glm-5.2"
+}

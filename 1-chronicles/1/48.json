@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "삼라가 죽으매, 강의 르호봇에서 온 샤울이 ⟨그⟩ 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽으매"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "삼라가"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨그⟩ 대신하여"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "르호봇에서 ⟨온⟩"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "강의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:31.253083323Z",
+  "model": "glm-5.2"
+}

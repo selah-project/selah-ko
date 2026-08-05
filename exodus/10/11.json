@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "아니다, 그렇지 않다. 가라, 청하건대 장정들만, 야훼를 섬겨라. 너희가 구하는 것은 ⟨את⟩ 그것이기 때문이다.\" 그가 ⟨그⟩ 사람들을 파르오의 면전에서 쫓아내었다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇지"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "가라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "장정들"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "섬겨라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "구하는"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "쫓아내었다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 그 사람들을",
+      "marks": "그 사람들을"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면전"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:05.578666443Z",
+  "model": "glm-5.2"
+}

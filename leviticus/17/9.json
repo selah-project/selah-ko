@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 만회의 장막 입구로 그것을 가져오지 않고 야훼를 위해 그것을 행하지 않는 자, 그 사람은 자기 백성에게서 끊어질 것이다.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …로(向)"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "그가 그것을 가져오지(안) 것이다"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하려고"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것을",
+      "marks": "그것(제물)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 위해"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "그리고 끊어질( 것이다)"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "자기 백성에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:48.324366701Z",
+  "model": "glm-5.2"
+}

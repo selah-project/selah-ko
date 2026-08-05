@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 ⟨그가⟩ 내 입에 ⟨곧⟩ 우리 엘로힘께 찬양이 되는 새 노래를 놓으셨다 — 많은 ⟨사람이⟩ 보고 경외하며, 야훼를 신뢰할 것이다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 놓으셨다"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "내 입에"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래를"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "새"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "찬양"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "우리 엘로힘께"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "보고"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "그리고 경외하며"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "그리고 신뢰할 것이다"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:03.609745090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 23:18",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 아비새 — 요아브의 형제, 체루야의 아들 — 그는 셋의 우두머리였다. 그리고 그는 자기의 ⟨את⟩ 창을 들어 올렸다, 삼백 살상된 자들을 향하여. 그리고 그에게는 셋 안에서 이름이 있었다.",
+  "tokens": [
+    {
+      "surface": "ואבישי",
+      "gloss": "그리고 아비새"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "체루야"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "우두머리였다"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "셋의"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 그는"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "들어 올렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기의 창을"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "자기의 창을"
+    },
+    {
+      "surface": "על",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "삼"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "살상된 자들을"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "그리고 그에게는"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름이"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "셋 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:30.825097903Z",
+  "model": "glm-5.2"
+}

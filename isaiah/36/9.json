@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그런데 어찌 그대가 내 주인의 종들 중 가장 작은 자들인 한 명의 총독의 얼굴을 ⟨את⟩ 돌려 물리치겠는가? 그리고 그대가 미츠라임(이집트)에, 병거와 기병을 위해 의지하였는가?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "그런데 어찌"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "돌려 물리치겠는가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "총독의 얼굴"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "총독"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명의"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들 중"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주인의"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "가장 작은 자들인"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "그리고 의지하였는가"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대가"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임(이집트)"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "병거를 위해"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "그리고 기병을 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T10:17:09.003837571Z",
+  "model": "glm-5.2"
+}

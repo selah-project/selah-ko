@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 남은 것은 고기와 빵에서, 불에 태울 것이다.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "그리고 남은 것은"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "고기와"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "그리고 빵에서"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "태울 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:27.866429099Z",
+  "model": "glm-5.2"
+}

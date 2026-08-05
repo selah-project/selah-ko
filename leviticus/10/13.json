@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 너희는 거룩한 곳에서 ⟨את⟩ 그것을 먹으라. 이는 불 제물 중에서 야훼의 것으로, 그것이 너의 분깃이자 너 아들들의 분깃이기 때문이다. 이같이 내가 명령을 받았다.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "그리고 너희는 먹으라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "거룩한 곳에서"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "너의 분깃이자"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "그리고 분깃"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "너 아들들의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "불 제물 중에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "כן",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "내가 명령을 받았다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:19.767621861Z",
+  "model": "glm-5.2"
+}

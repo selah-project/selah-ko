@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그 편지에 이렇게 썼다. “⟨את⟩ 우찌야를 전쟁의 거센 전면에 놓고, ⟨너희는⟩ 그의 뒤에서 물러나라. 그리하면 그가 맞아 죽을 것이다.”",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "썼다"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "그 편지에"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "놓아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우찌야를"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우찌야"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼로"
+    },
+    {
+      "surface": "מול",
+      "gloss": "맞은편"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면의"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "전쟁"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "거센"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "물러나라"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "그의 뒤에서"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "맞아"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "죽을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:33.615658810Z",
+  "model": "glm-5.2"
+}

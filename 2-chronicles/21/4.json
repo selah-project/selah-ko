@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 여호람이 ⟨그의⟩ 아버지의 왕국 위에 일어섰고, 스스로 힘을 굳게 한 뒤, 칼로 ⟨את⟩ 모든 ⟨그의⟩ 형제들을 죽였으며, 또한 이스라엘의 방백들 중 ⟨몇을 죽였다⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어섰고"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "여호람이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "왕국"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "스스로 힘을 굳게 한 뒤"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "죽였으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 형제들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "형제들을"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼로"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "방백들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:04.446639753Z",
+  "model": "glm-5.2"
+}

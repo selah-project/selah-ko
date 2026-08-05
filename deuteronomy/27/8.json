@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 너는 그 돌들 위에 ⟨את⟩ 이 토라의 모든 말씀을 새기되, 아주 분명하게 새길 것이다.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "그리고 쓸 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "그 돌들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 토라의 모든 말씀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "이 토라의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "באר",
+      "gloss": "새길 것이다"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "아주 분명하게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:22.610829058Z",
+  "model": "glm-5.2"
+}

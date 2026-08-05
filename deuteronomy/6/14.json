@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "너희 ⟨주변⟩에 있는 백성들의 엘로힘들 중에서 ⟨다른⟩ 엘로힘들을 따라가지 말아라. ⟨곧⟩ 다른 엘로힘들의 뒤를 걷지 말아라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…아니하다"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "너희는 걷지"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…의 뒤를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘들을"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "…중에서, …의 엘로힘들"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "백성들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "너희 주변에 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:38.616657943Z",
+  "model": "glm-5.2"
+}

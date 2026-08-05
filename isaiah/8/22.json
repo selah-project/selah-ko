@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 땅을 향하여 바라보면, 보라, 고통과 어두움, 고통의 암흑이요, 쫓겨난 어둠이라.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~을 향하여"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "바라보면"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "고통과"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "어두움,"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "암흑이요,"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "고통의"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "어둠이라."
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "쫓겨난"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:28.117732767Z",
+  "model": "glm-5.2"
+}

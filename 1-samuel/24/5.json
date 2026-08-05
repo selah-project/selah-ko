@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 24:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "다윗의 사람들이 그에게 말하였다. \"보라, 야훼께서 ⟨그대⟩에게 말씀하신 ⟨그⟩ 날이다. 보라, 내가 ⟨את⟩ ⟨그대⟩의 원수를 ⟨그대⟩의 손에 넘기고, ⟨그대⟩가 ⟨그⟩ 눈에 좋아 보이는 대로 ⟨그⟩에게 행하리라.\" 다윗이 일어나 ⟨그⟩ 뒤에서 ⟨את⟩ 샤울의 외투의 가장자리를 잘랐다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "היום",
+      "gloss": "날이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨그대⟩에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "넘기고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "원수를"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "⟨그대⟩의 원수"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "⟨그대⟩의 손에"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "행하리라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그⟩에게"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "יטב",
+      "gloss": "좋아 보이는"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "⟨그⟩ 눈에"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "잘랐다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가장자리를"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "가장자리"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "외투의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "뒤에서"
+    }
+  ],
+  "timestamp": "2026-08-05T18:11:04.867267004Z",
+  "model": "glm-5.2"
+}

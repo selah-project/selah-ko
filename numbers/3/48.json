@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 3:48",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 너는 그 은을 아론과 그의 아들들에게 주어야 한다 — 그들 안에서 초과하는 자들의 속전으로.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "그리고 너는 …주어야 한다"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "그 은을"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아론에게"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "그리고 그의 아들들에게"
+    },
+    {
+      "surface": "פדויי",
+      "gloss": "속전으로"
+    },
+    {
+      "surface": "העדפים",
+      "gloss": "초과하는 자들의"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T18:04:51.670225536Z",
+  "model": "glm-5.2"
+}

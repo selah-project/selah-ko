@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "야훼께 감사하라, ⟨그의⟩ 이름으로 부르라, 민족들 가운데 ⟨그의⟩ 행하신 일들을 알게 하라.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "감사하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "부르라"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "⟨그의⟩ 이름으로"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "알게 하라"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "민족들 가운데"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "⟨그의⟩ 행하신 일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:18.084618413Z",
+  "model": "glm-5.2"
+}

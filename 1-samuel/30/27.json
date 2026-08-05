@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "벳엘에 있는 자들에게, 그리고 네겝의 라못에 있는 자들에게, 그리고 앗티르에 있는 자들에게.",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "⟨…⟩에게"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "벳에 있는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "그리고 ⟨…⟩에게"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "라못에 있는"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "네겝의"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "그리고 ⟨…⟩에게"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "앗티르에 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:01.758379743Z",
+  "model": "glm-5.2"
+}

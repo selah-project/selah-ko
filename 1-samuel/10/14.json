@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "샤울의 아저씨가 그에게와 그의 사환에게 말하였다. \"당신들은 어디로 갔습니까?\" 그가 말하였다. \"암나귀들을 찾으러 ⟨갔습니다⟩. 그런데 ⟨그것들이⟩ 보이지 아니하여 쉬무엘에게 왔습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "아저씨가"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "및"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "그의 사환에게"
+    },
+    {
+      "surface": "אן",
+      "gloss": "어디로"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "갔습니까"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "찾으러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "암나귀들을"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "암나귀들을"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "보이지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그런데"
+    },
+    {
+      "surface": "אין",
+      "gloss": "아니하여"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "왔습니다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "쉬무엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:44:47.378625806Z",
+  "model": "glm-5.2"
+}

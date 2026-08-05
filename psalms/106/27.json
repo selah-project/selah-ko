@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리고 그들의 씨를 민족들 가운데 쓰러뜨리며, 그들의 자손을 여러 땅에 흩으시려 하셨다.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "그리고 쓰러뜨리며"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "그들의 씨를"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "민족들 가운데"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "그리고 흩으시며"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "여러 땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:42.576873687Z",
+  "model": "glm-5.2"
+}

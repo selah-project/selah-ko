@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "다윗이 ⟨את⟩ 창과 ⟨את⟩ 물병을 샤울의 머리맡에서 가져가니, 그들이 ⟨각자 자기⟩ 길을 갔다. 보는 자도 없고, 아는 자도 없고, 깨는 자도 없었으니, 그들이 모두 잠들어 있었기 때문이다. 야훼의 깊은 잠이 그들 위에 내렸기 ⟨때문⟩이다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "가져가니"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "창"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "창"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "물병"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "물병"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "머리맡에서"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보는 자도"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "아는 자도"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없었으니"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "깨는 자도"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "모두"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "잠들어 있었기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "깊은 잠이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "내렸기"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:21.694494299Z",
+  "model": "glm-5.2"
+}

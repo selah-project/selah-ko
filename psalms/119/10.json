@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "온 마음을 다하여 ⟨나는⟩ 주를 찾았나이다. 주의 미츠봇에서 ⟨나를⟩ 헤매지 말게 하소서.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "마음을 다하여"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "주를 찾았나이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨부정 명령⟩"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "헤매지 말게 하소서"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "주의 미츠봇에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:16.220415039Z",
+  "model": "glm-5.2"
+}

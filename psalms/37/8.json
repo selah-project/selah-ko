@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "노여움에서 멈추고 분노를 버리라. 분을 풂으로 오직 악을 행하는 데로 치닫지 말라.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "멈추고"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "노여움에서"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "그리고 버리라"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "분노를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "분을 품"
+    },
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "악을 행하는 데로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:08.081425618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "\"우리 모두 한 사람의 아들들입니다. 우리는 정직한 자들이며, 종들은 정탐군이 아닙니다.\"",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "우리 모두"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들입니다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "우리는"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "정직한 자들"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닙니다"
+    },
+    {
+      "surface": "היו",
+      "gloss": "이었다"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "종들은"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "정탐군"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:09.228615949Z",
+  "model": "glm-5.2"
+}

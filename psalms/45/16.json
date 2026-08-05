@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "그들은 환희와 기쁨으로 인도되리니, 왕의 궁전에 들어가리라.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "인도되리니"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "환희와"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "기쁨으로"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "들어가리라"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "궁전에"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:04.205567946Z",
+  "model": "glm-5.2"
+}

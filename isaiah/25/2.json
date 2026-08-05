@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "⟨이는⟩ ⟨당신이⟩ 성을 돌무더기로 만드셨고, 요새화된 성을 무너뜨림으로 만드셨기 때문입니다 — 낯선 자들의 성채가 성에서 ⟨끊겨⟩ 영원히 건축되지 아니할 것입니다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩ … 때문입니다"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "⟨당신이⟩ 만드셨"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "성을"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "돌무더기로"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "성을"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "요새화된"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "무너뜨림으로"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "성채가"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "낯선 자들의"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "성에서"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "건축되지 … 것입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:01.567762489Z",
+  "model": "glm-5.2"
+}

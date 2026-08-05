@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 62,
+  "translation": "오직 그분만 ⟨이⟩ 나의 반석이시며 나의 구원이시다. 나의 높은 요새이시니, 나는 흔들리지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그분만"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "나의 반석이시며"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "나의 구원이시다"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "나의 높은 요새이시니"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "흔들리지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:35.944954182Z",
+  "model": "glm-5.2"
+}

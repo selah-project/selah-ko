@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 네 동료의 아내에게 네 동침을 씨를 뿌리려고 주지 마라 — 그녀로 인해 부정하게 되려고.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "네 동료의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 마라"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "주"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "네 동침을"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "씨를 뿌리려고"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "부정하게 되려고"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그녀로 인해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:22.949590621Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 가서 ⟨את⟩ 고메르를 취하니, 곧 디블라임의 딸이었다. 그녀가 임신하고 그에게 아들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그가 가고"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "취하니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "고메르를"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "고메르"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "디블라임의"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "그녀가 임신하고"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:34.225447977Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 30:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "혹시 내가 배불리 먹고 ⟨야훼⟩를 부인하며, '야훼가 누구신가?' 말하게 될까 하여, 혹시 내가 가난하여 도둑질하고 내 엘로힘의 이름을 모독하게 될까 하심이라.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "혹시 …할까 하여"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "내가 배불리 먹고"
+    },
+    {
+      "surface": "וכחשתי",
+      "gloss": "부인하며"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "말하게 될까 하여"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구신가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "혹시 …할까 하여"
+    },
+    {
+      "surface": "אורש",
+      "gloss": "내가 가난하여"
+    },
+    {
+      "surface": "וגנבתי",
+      "gloss": "도둑질하고"
+    },
+    {
+      "surface": "ותפשתי",
+      "gloss": "모독하게 될까 하여"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "내 엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:57.704061998Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "코헨들이 그 구름 앞에 서서 섬기지 못하였으니, 이는 야훼의 영광이 ⟨את⟩ 야훼의 집에 가득하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …못하였으니"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "능하였다"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들이"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "서서"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "섬기"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "그 구름"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "가득하였기"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:54.480290916Z",
+  "model": "glm-5.2"
+}

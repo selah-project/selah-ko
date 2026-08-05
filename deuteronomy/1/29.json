@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "내가 너희에게 말하였다. \"너희는 두려워하지 말며, 그들로 인해 무서워하지 말라.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "내가 말하였다"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "너희는 두려워하지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "너희는 무서워하지"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그들로 인해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:08.434645293Z",
+  "model": "glm-5.2"
+}

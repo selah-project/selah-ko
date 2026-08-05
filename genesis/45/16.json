@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "그리고 그 소리가 파르오의 집에서 들렸다 — “요셉의 형제들이 왔다.” 그것이 파르오의 눈에, 그리고 그의 종들의 눈에 좋았다.",
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "그리고 그 소리가"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "들렸다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "באו",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제들이"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉의"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "그리고 ~의 눈에"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:31.352155834Z",
+  "model": "glm-5.2"
+}

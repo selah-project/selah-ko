@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "나 야훼는 변하지 않았기 때문에, 너희 야곱의 자손들은 멸절되지 않았다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "변하였"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "너희"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들은"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "멸절되"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:13.237385002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 르아야 — 쇼발의 아들 — 가 ⟨את⟩ 야핫을 낳았고, 야핫이 ⟨את⟩ 아후마이와 ⟨את⟩ 라핫을 낳았다. 이들이 츠로아티 가문들이다.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "그리고 르아야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "쇼발의"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야핫을"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "야핫"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "그리고 야핫이"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아후마이를"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "아후마이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "라핫을"
+    },
+    {
+      "surface": "להד",
+      "gloss": "라핫"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "가문들이다"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "츠로아티"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:13.094297054Z",
+  "model": "glm-5.2"
+}

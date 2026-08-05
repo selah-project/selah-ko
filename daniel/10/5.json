@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "나는 ⟨את⟩ 내 눈을 들어 보았고, 보니, 한 사람이 아마포를 입고, 그의 허리는 우파즈의 순금으로 띠를 매고 있었다.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 눈"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보니"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "입고"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "아마포"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "그의 허리"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "띠를 매고"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "순금으로"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "우파즈"
+    }
+  ],
+  "timestamp": "2026-08-05T12:29:08.605553578Z",
+  "model": "glm-5.2"
+}

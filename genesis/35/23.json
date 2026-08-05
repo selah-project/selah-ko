@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 35:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "레아의 아들들은 야곱의 맏아들 르우벤, 시므온, 레위, 유다, 잇사갈, 스불론이더라.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "레아의"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "맏아들"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "르우벤,"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "시므온,"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "레위,"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "유다,"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "잇사갈,"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "스불론"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:57.174009752Z",
+  "model": "glm-5.2"
+}

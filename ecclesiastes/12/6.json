@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "은줄이 아직 끊어지지 않고, 황금 그릇이 아직 부서지지 않으며, 샘 위의 항아리가 아직 깨어지지 않고, 도르래가 아직 우물로 부서지지 않기 전이다.",
+  "tokens": [
+    {
+      "surface": "עַ֣ד",
+      "gloss": "전"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "때"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "아직 아닌"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "끊어지지"
+    },
+    {
+      "surface": "חֶ֣בֶל",
+      "gloss": "줄이"
+    },
+    {
+      "surface": "הַכֶּ֔סֶף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וְתָרֻ֖ץ",
+      "gloss": "부서지지"
+    },
+    {
+      "surface": "גֻּלַּ֣ת",
+      "gloss": "그릇이"
+    },
+    {
+      "surface": "הַזָּהָ֑ב",
+      "gloss": "황금"
+    },
+    {
+      "surface": "וְתִשָּׁ֤בֶר",
+      "gloss": "깨어지지"
+    },
+    {
+      "surface": "כַּד֙",
+      "gloss": "항아리가"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위"
+    },
+    {
+      "surface": "הַמַּבּ֔וּעַ",
+      "gloss": "의 샘"
+    },
+    {
+      "surface": "וְנָרֹ֥ץ",
+      "gloss": "부서지지"
+    },
+    {
+      "surface": "הַגַּלְגַּ֖ל",
+      "gloss": "도르래가"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "הַבּֽוֹר",
+      "gloss": "우물"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:01.142091652Z",
+  "model": "glm-5.2"
+}

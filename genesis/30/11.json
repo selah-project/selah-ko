@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "르아가 말하였다. “복이 오는구나!” 그리하여 ⟨את⟩ 그의 이름을 가드라 불렀다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "르아가"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "복이 오는구나"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "גד",
+      "gloss": "가드"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:05.087390521Z",
+  "model": "glm-5.2"
+}

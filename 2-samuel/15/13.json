@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 ⟨그⟩ 전달자가 다윗에게 와서 말하였다. \"이스라엘 사람들의 마음이 아살롬 뒤에 있다.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 …이 왔다"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "전달자가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있다"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…뒤에"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아살롬"
+    }
+  ],
+  "timestamp": "2026-08-05T09:40:06.615604014Z",
+  "model": "glm-5.2"
+}

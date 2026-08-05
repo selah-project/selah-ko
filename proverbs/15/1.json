@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "부드러운 대답은 노를 돌이키고, 아프게 하는 말은 분노를 일으킨다.",
+  "tokens": [
+    {
+      "surface": "מַֽעֲנֶה",
+      "gloss": "대답은"
+    },
+    {
+      "surface": "רַּ֭ךְ",
+      "gloss": "부드러운"
+    },
+    {
+      "surface": "יָשִׁ֣יב",
+      "gloss": "돌이키고"
+    },
+    {
+      "surface": "חֵמָ֑ה",
+      "gloss": "노를"
+    },
+    {
+      "surface": "וּדְבַר",
+      "gloss": "말은"
+    },
+    {
+      "surface": "עֶ֝֗צֶב",
+      "gloss": "아프게 하는"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "일으킨다"
+    },
+    {
+      "surface": "אָֽף",
+      "gloss": "분노를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:53.911223470Z",
+  "model": "glm-5.2"
+}

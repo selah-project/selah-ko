@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 나의 네페쉬는 몹시 두려워 떱니다. 그러나 야훼여, ⟨당신은⟩ ⟨את⟩ 언제까지이십니까?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "그리고 나의 네페쉬는"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "두려워 떱니다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "몹시"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그러나 ⟨당신은⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:48.470833436Z",
+  "model": "glm-5.2"
+}

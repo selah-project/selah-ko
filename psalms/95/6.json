@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 95,
+  "translation": "오라, 우리가 엎드려 경배하고 무릎 꿇자, 우리를 만드신 야훼 앞에서.",
+  "tokens": [
+    {
+      "surface": "בֹּ֭אוּ",
+      "gloss": "오라"
+    },
+    {
+      "surface": "נִשְׁתַּחֲוֶ֣ה",
+      "gloss": "엎드려 경배하고"
+    },
+    {
+      "surface": "וְנִכְרָ֑עָה",
+      "gloss": "무릎 꿇자"
+    },
+    {
+      "surface": "נִבְרְכָ֗ה",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "לִֽפְנֵי",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "עֹשֵֽׂנוּ",
+      "gloss": "우리를 만드신"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:26.354047501Z",
+  "model": "glm-5.2"
+}

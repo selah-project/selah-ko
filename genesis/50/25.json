@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "그리고 요셉은 ⟨את⟩ 이스라엘의 아들들에게 맹세하게 하여 말하였다. \"엘로힘이 반드시 너희를 돌아보시리니, 너희는 내 뼈들을 이곳에서 올려가라.\"",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "맹세하게 하셨다"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "돌아보시되"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "반드시 돌아보시리니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "너희는 올려가라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 뼈들을"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "내 뼈들을"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "이곳에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:49.459226520Z",
+  "model": "glm-5.2"
+}

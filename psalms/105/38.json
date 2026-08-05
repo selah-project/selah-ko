@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "미츠라임이 그들이 나갈 때에 기뻐하였으니, 그들의 두려움이 그들 위에 떨어졌기 때문이다.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "기뻐하였으니"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임이"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "그들이 나갈 때에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "떨어졌기"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "그들의 두려움이"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:07.897149589Z",
+  "model": "glm-5.2"
+}

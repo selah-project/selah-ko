@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 그 사람들이 그들의 양식을 취하였으나, ⟨את⟩ 야훼의 입을 묻지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "그리고 … 취하였다"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들이"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "그들의 양식을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 입"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "묻지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:06:12.064851149Z",
+  "model": "glm-5.2"
+}

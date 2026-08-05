@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "너 사람의 아들아, ⟨את⟩ 이 집을 이스라엘에게 알려 주어라. 그리하면 그들이 자기 죄악들에서 부끄러워할 것이요, 그들이 ⟨את⟩ 그 치수를 잴 것이다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "알려 주어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "그리하면 부끄러워할 것이요"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "자기 죄악들에서"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "그들이 잴 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 치수"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "그 치수"
+    }
+  ],
+  "timestamp": "2026-08-05T11:03:09.894540912Z",
+  "model": "glm-5.2"
+}

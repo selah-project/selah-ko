@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "이제 ⟨너⟩는 정녕 떠나갔으니, 네 아버지의 집을 간절히 사모하였음이라. 그런데 왜 ⟨את⟩ 내 엘로힘을 도둑질하였는가?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "정녕"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "떠나갔으니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…임이라"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "간절히"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "사모하였"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "네 아버지의"
+    },
+    {
+      "surface": "למה",
+      "gloss": "왜"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "도둑질하였는가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 엘로힘을"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "내 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:55.723368695Z",
+  "model": "glm-5.2"
+}

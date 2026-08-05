@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "내가 광야에 백향목과 아카시아와 먹향나무와 기름진 나무를 주겠고, 아라바에 편백나무과 전나무와 박달나무를 함께 심겠다.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "내가 주겠다"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "백향목을"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "아카시아와"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "그리고 먹향나무와"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "그리고 나무를"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름진"
+    },
+    {
+      "surface": "아שים",
+      "gloss": "내가 심겠다"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "아라바에"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "편백나무을"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "전나무와"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "그리고 박달나무를"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:33.975908391Z",
+  "model": "glm-5.2"
+}

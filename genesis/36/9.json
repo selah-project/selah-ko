@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "이것들이 에사브의 족보이다 — 에돔의 아버지, 스에일 산에서.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "족보이다"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브의"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔의"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에서"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "스에일"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:03.625851407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "지휘자에게, '부파하지 마라', 다윗의 미크탐, 샤울이 보내어 ⟨그⟩ 집을 감시하여 그를 죽이게 하였을 때.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "부파하지 마라 (제목)"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "—"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "미크탐"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "감시하였을 때"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "그를 죽이게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:54.885529040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "거칠게 말하는 자 ⟨가⟩ ⟨있으니⟩, 칼의 찌름 같고, 지혜로운 자들의 혀는 낫게 한다.",
+  "tokens": [
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "⟨있으니⟩"
+    },
+    {
+      "surface": "בּ֭וֹטֶה",
+      "gloss": "거칠게 말하는 자"
+    },
+    {
+      "surface": "כְּמַדְקְר֣וֹת",
+      "gloss": "찌름 같고"
+    },
+    {
+      "surface": "חָ֑רֶב",
+      "gloss": "칼의"
+    },
+    {
+      "surface": "וּלְשׁ֖וֹן",
+      "gloss": "혀는"
+    },
+    {
+      "surface": "חֲכָמִ֣ים",
+      "gloss": "지혜로운 자들의"
+    },
+    {
+      "surface": "מַרְפֵּֽא",
+      "gloss": "낫게 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:04.557281024Z",
+  "model": "glm-5.2"
+}

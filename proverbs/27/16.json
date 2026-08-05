@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그녀를 숨기는 자는 바람을 숨기는 것이요, 그리고 그의 오른손의 기름은 스스로를 부른다.",
+  "tokens": [
+    {
+      "surface": "צֹפְנֶיהָ",
+      "gloss": "그녀를 숨기는 자"
+    },
+    {
+      "surface": "צָפַן",
+      "gloss": "숨기는 것"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "바람을"
+    },
+    {
+      "surface": "וְשֶׁמֶן",
+      "gloss": "그리고 …의 기름"
+    },
+    {
+      "surface": "יְמִינוֹ",
+      "gloss": "그의 오른손"
+    },
+    {
+      "surface": "יִקְרָא",
+      "gloss": "스스로를 부른다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:25.751876811Z",
+  "model": "glm-5.2"
+}

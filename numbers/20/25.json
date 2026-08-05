@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "아하론과 그의 아들 엘아자르를 데리고 그들을 호르 산으로 올라가라. ⟨아하론을⟩ ⟨아하론⟩, ⟨엘아자르를⟩ ⟨엘아자르⟩, ⟨그들을⟩ ⟨그들⟩.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "데리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아하론을"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "엘아자르를"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르를"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "그리고 올라가라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "הר",
+      "gloss": "호르"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    }
+  ],
+  "timestamp": "2026-08-05T08:39:20.882369117Z",
+  "model": "glm-5.2"
+}

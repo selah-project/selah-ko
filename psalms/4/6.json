@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "체데크의 제물을 제물로 바치라, 그리고 야훼를 신뢰하라.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "바치라"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "제물을"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "체데크의"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "그리고 신뢰하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:14.322135132Z",
+  "model": "glm-5.2"
+}

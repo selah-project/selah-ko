@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "찬송받으실 이는 야훼, 이스라엘의 엘로힘이시다. 영원부터 영원까지. 아멘, 그리고 아멘.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "찬송받으실 이는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이시다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "영원부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 ⟨…까지⟩"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "그리고 아멘"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:00.943120984Z",
+  "model": "glm-5.2"
+}

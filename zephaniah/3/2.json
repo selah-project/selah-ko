@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "소리를 듣지 아니하였고, 훈계를 받아들이지 아니하였고, 야훼를 신뢰하지 아니하였고, 자기 엘로힘에게 가까이 나아가지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "받아들이고"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "훈계를"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "신뢰하고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "자기 엘로힘"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "가까이 나아갔다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:18.866488253Z",
+  "model": "glm-5.2"
+}

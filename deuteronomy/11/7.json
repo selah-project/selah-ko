@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "오직 너희 눈은 야훼의 모든 위대한 행적를 — ⟨그⟩ 보았으니, ⟨그분이⟩ ⟨את⟩ 하신.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "너희 눈은"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "보았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든(כָּל)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "행적를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "위대한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것을⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "하신"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:55.456605015Z",
+  "model": "glm-5.2"
+}

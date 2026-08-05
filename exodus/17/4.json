@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "모셰가 야훼께 부르짖어 말씀드렸다. \"제가 ⟨이⟩ 백성에게 무엇을 하오리까? 아주 조금만 더하면 그들이 저를 돌로 치겠나이다.\"",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "부르짖어"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀드렸다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "하오리까"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더하면"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금만"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "돌로 치겠나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:49.603705277Z",
+  "model": "glm-5.2"
+}

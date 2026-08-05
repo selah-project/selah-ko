@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "바락이 빌암에게 말하였다. \"저주도 그를 저주하지 말며, 축복도 그를 축복하지 마라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "바락이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "קב",
+      "gloss": "저주"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "그를 저주하지"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "축복"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "그를 축복하지"
+    }
+  ],
+  "timestamp": "2026-08-05T08:43:30.883213457Z",
+  "model": "glm-5.2"
+}

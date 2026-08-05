@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "나흐쉬온은 ⟨את⟩ 살마를 낳았고, 살마는 ⟨את⟩ 보아즈를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "그리고 나흐쉬온은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "살마를"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "살마"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "그리고 살마는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "보아즈를"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "보아즈"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:05.295450269Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 115,
+  "translation": "하늘, 하늘들은 야훼의 것이요, 땅은 ⟨그가⟩ 사람의 아들들에게 주셨다.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들은"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "땅은"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:34.046467549Z",
+  "model": "glm-5.2"
+}

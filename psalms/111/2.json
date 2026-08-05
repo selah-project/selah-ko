@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 111,
+  "translation": "야훼의 행적들은 크사, 그것들을 갈망하는 모든 이 ⟨에게⟩ 탐구되는 것이기 ⟨때문⟩이다.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "크사"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "행적들은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "탐구되는 것이기"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든 이"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "그것들을 갈망하는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:51.937955376Z",
+  "model": "glm-5.2"
+}

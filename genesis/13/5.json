@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 또 롯에게도 — ⟨את⟩ 아브람과 함께 걷던 ⟨이⟩에게 — 양 떼와 소 떼와 천막들이 있었다.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "롯에게도"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "걷던"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브람"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브람과"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양 떼와"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "소 떼와"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "천막들이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:09.692032741Z",
+  "model": "glm-5.2"
+}

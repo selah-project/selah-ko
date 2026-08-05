@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "우리의 물을 은으로 마셨고, 우리의 나무는 값을 내고 들어온다.",
+  "tokens": [
+    {
+      "surface": "מֵימֵ֨נוּ֙",
+      "gloss": "우리의 물을"
+    },
+    {
+      "surface": "בְּכֶ֣סֶף",
+      "gloss": "은으로"
+    },
+    {
+      "surface": "שָׁתִ֔ינוּ",
+      "gloss": "마셨고"
+    },
+    {
+      "surface": "עֵצֵ֖ינוּ",
+      "gloss": "우리의 나무는"
+    },
+    {
+      "surface": "בִּמְחִ֥יר",
+      "gloss": "값을 내고"
+    },
+    {
+      "surface": "יָבֹֽאוּ",
+      "gloss": "들어온다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:47.569508320Z",
+  "model": "glm-5.2"
+}

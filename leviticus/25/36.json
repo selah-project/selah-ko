@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "너는 그에게서 네페쉬와 타르비트를 취하지 말고, 네 엘로힘을 경외하여라. 그리고 네 형제가 너와 함께 살 것이다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "너는 취하지 말고"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "그에게서"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "그리고 타르비트를"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "그리고 경외하여라"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "네 엘로힘을"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "그리고 살 것이다"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제가"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:12.561583501Z",
+  "model": "glm-5.2"
+}

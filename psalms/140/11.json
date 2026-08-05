@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 140,
+  "translation": "불붙은 숯덩이들이 그들 위에 쏟아지기를, 불 속으로 그들을 던지시고, 깊은 구덩이 속으로, 그들이 다시 일어나지 못하게 하소서.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "쏟아지기를"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "숯덩이들이"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불 속으로"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "그들을 던지시고"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "깊은 구덩이 속으로"
+    },
+    {
+      "surface": "בל",
+      "gloss": "못하게"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "그들이 일어나다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:37.082334160Z",
+  "model": "glm-5.2"
+}

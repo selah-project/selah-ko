@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "부러뜨림 대신 부러뜨림, 눈 대신 눈, 이빨 대신 이빨 — 그가 사람에게 흠을 낸 대로, 그에게 그렇게 주어질 것이다.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "부러뜨림"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "부러뜨림"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈"
+    },
+    {
+      "surface": "שן",
+      "gloss": "이빨"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "שן",
+      "gloss": "이빨"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 대로"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주었다면"
+    },
+    {
+      "surface": "מום",
+      "gloss": "흠을"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "주어질 것이다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:52.890341895Z",
+  "model": "glm-5.2"
+}

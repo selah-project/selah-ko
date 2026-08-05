@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "게르숌의 아들들에게서: 요엘이 우두머리이고, ⟨그의⟩ 형제들이 백삼십 명이었다.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "~의 아들들에게서"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "게르숌"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "요엘"
+    },
+    {
+      "surface": "השר",
+      "gloss": "우두머리"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "그리고 ⟨그의⟩ 형제들"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "그리고 삼십"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:01.715527723Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그는 ⟨את⟩ 그 집의 벽들을 안쪽에서 백향목 널빤지로 건축하였다 — 그 집 바닥에서 천장 벽들까지 — 안쪽을 나무로 입혔고, 그 집 바닥을 ⟨את⟩ 편백나무 널빤지로 입혔다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 건축하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집의 벽들"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "벽들을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집의"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "안쪽에서"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "널빤지로"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "백향목"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "바닥에서"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "벽들"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "천장의"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "입혔다"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무로"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "안쪽을"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "그리고 입혔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집 바닥"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "바닥을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집의"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "널빤지로"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "편백나무"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:24.018330968Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "아도나이 야훼께서 이같이 말씀하신다. 내가 미츠라임의 무리를 바벨 왕 느부캐드레차르의 손으로 그치게 하리라.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "그치게 하리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "무리"
+    },
+    {
+      "surface": "המון",
+      "gloss": "무리를"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "느부캐드레차르"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:52.654515023Z",
+  "model": "glm-5.2"
+}

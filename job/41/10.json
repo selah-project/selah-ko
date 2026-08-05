@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 41:10",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그의 재채기에서 빛이 비치고, 그의 눈은 새벽의 속눈썹 같다.",
+  "tokens": [
+    {
+      "surface": "עטישתיו",
+      "gloss": "그의 재채기에서"
+    },
+    {
+      "surface": "תהל",
+      "gloss": "비치다"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "그리고 그의 눈"
+    },
+    {
+      "surface": "כעפעפי",
+      "gloss": "~의 속눈썹 같다"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "새벽"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:41.257651027Z",
+  "model": "glm-5.2"
+}

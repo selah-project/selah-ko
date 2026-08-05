@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "바다가 바벨 위로 올라왔다, 그 파도의 많음으로 덮였다.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "올라왔다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다가"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "많음으로"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "그 파도의"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "덮였다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:46:37.286891828Z",
+  "model": "glm-5.2"
+}

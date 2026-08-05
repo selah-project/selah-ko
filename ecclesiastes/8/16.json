@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "내가 ⟨את⟩ 내 마음을 지혜를 알고 ⟨את⟩ 땅 위에서 행해지는 수고를 보는 데에 쏟았을 때 — 곧 낮에도 밤에도 그의 눈이 잠을 보지 못함에도 —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "—할 때"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "나는 쏟았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 마음"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음을"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "알"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜를"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "그리고 보"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "수고"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "수고를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "행해지"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곳"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "낮에도"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "밤에도"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "잠을"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "그의 눈이"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:32.618135365Z",
+  "model": "glm-5.2"
+}

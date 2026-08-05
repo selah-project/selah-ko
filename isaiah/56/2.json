@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 56:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "이것을 행하는 사람은 복이 있고, 그것을 굳게 잡는 인생의 아들은 복이 있다. 샤밧을 지켜 더럽히지 아니하며, 자기 손을 지켜 모든 악을 행하지 아니하는 자는.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있고"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하는"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "⟨그리고⟩ …의 아들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "인생"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "굳게 잡는"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지키는"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "샤밧"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "더럽히지 아니하며"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "⟨그리고⟩ 지키는"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손을"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "행하지 아니하는"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악"
+    }
+  ],
+  "timestamp": "2026-08-05T10:23:05.056505237Z",
+  "model": "glm-5.2"
+}

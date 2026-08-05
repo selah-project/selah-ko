@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 16:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그가 말하였다. \"하갈, 사라이의 여종, 당신은 어디에서 왔으며, 또 어디로 가는가?\" 그녀가 말하였다. \"나의 여주인 사라이의 면전에서 도망하는 중입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "하갈"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "여종"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사라이의"
+    },
+    {
+      "surface": "אי",
+      "gloss": "어디에서"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "부터"
+    },
+    {
+      "surface": "באת",
+      "gloss": "왔으며"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "또 어디로"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "가는가"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사라이"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "나의 여주인"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "도망하는 중입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:53.908484133Z",
+  "model": "glm-5.2"
+}

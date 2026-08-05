@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "그들이 하늘에 ⟨그⟩ 입을 두었으니, ⟨그⟩ 혀가 땅에서 걸어 다닌다.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "그들이 두었으니"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "하늘에"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "그들의 입을"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "그리고 그들의 혀가"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "걸어 다닌다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:30.925396141Z",
+  "model": "glm-5.2"
+}

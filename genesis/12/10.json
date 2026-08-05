@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그 땅에 기근이 들었으므로, 아브라함이 거기에서 거류하려고 미츠라임으로 내려갔다 — 그 땅의 기근이 무거웠기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨그리고⟩ …이었다"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "기근이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "그 땅에"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "내려갔다"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "미츠라임으로"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "거류하려고"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— 때문이다"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "무거웠기"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "그 기근이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "그 땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:10.890459716Z",
+  "model": "glm-5.2"
+}

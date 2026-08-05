@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 ⟨그녀의⟩ 두 아들도 — 그 ⟨아들들⟩ 중 하나의 이름은 게르쇼름이니, 이는 그가 말하기를 '나는 낯선 땅에서 나그네였다' 하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "두 아들"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "아들도"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름은"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "게르쇼름이니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "גר",
+      "gloss": "나그네"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "—였다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "낯선"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:13.539528529Z",
+  "model": "glm-5.2"
+}

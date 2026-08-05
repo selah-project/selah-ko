@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 101,
+  "translation": "다윗의 시편. 헤세드와 미쉬팟을 노래하리니, 야훼, 당신께 ⟨내가⟩ 악장을 ⟨만들리이다⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "그리고 미쉬팟"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "노래하리니"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "악장을 만들리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:25.322589735Z",
+  "model": "glm-5.2"
+}

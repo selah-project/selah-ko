@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그러자 사탄이 야훼께 대답하며 ⟨את⟩ 야훼를 향해 말하였다. “아이욥이 까닭 없이 엘로힘을 경외한단 말입니까?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하며"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "사탄이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "까닭 없이"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "경외한단 말입니까"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "아이욥이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:48.000290095Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼여, 언제까지입니까? 제가 부르짖어도 들어주지 않으시고, 폭력이라 부르짖어도 구원하지 않으십니다.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "언제"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "제가 부르짖어도"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하시고"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "들어주지"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "부르짖어도"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨당신께⟩"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력이라"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하십니다"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "구원하지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:09.036352337Z",
+  "model": "glm-5.2"
+}

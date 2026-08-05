@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 ⟨아담이⟩ 말하였다. \"이것이 ⟨바로⟩ ⟨나의⟩ 뼈 중에서 뼈이고, ⟨나의⟩ 살 중에서 살이다. 이것을 여자라 부르리니, 이것이 남자에게서 취해졌기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "아담이"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "바로"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "뼈이고"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "나의 뼈 중에서"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "살이다"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "나의 살 중에서"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "부르리니"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여자라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "남자에게서"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "취해졌기"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:48.251908879Z",
+  "model": "glm-5.2"
+}

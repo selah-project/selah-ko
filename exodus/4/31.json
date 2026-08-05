@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "백성이 믿었고, 야훼께서 ⟨את⟩ 이스라엘 자손들을 돌아보셨으며 그들의 고난을 보셨음을 들었을 때, 그들이 머리를 숙이고 엎드려 절하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "믿었고"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "들었을 때"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "돌아보셨음을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손들을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "⟨그리고 ⟨그⟩⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보셨음을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 고난을"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "고난을"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "머리를 숙이고"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "엎드려 절하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:28.464345151Z",
+  "model": "glm-5.2"
+}

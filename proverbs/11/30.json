@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "의로운 자의 열매는 생명 나무이며, 네페쉬들을 취하는 자는 지혜로운 자이다.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "열매는"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자의"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무이며"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "생명"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "취하는 자는"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "네페쉬들을"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운 자이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:45.255602172Z",
+  "model": "glm-5.2"
+}

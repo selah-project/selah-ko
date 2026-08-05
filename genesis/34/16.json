@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그러면 우리가 ⟨את⟩ 우리의 딸들을 당신들에게 주고, ⟨את⟩ 당신들의 딸들을 우리가 취하리니, 우리가 당신들과 함께 거하고 한 백성이 되리라.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "그러면 우리가 주고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "בנתינו"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "우리의 딸들을"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "당신들에게"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "בנתיכם"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "당신들의 딸들을"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "우리가 취하리니"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "우리가 거하고"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "당신들과 함께"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "되리라"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:02.580446897Z",
+  "model": "glm-5.2"
+}

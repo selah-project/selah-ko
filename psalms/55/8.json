@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "보라, 내가 멀리 날아가리라, 광야에 머물리라. 셀라.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "내가 멀리"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "날아가리라"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "머물리라"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:00.780885223Z",
+  "model": "glm-5.2"
+}

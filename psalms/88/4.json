@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "나의 네페쉬는 재앙으로 가득 차 있고, 나의 생명은 셰올에 이르렀기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…기 때문이다"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "가득 차 있고"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "재앙으로"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬는"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "나의 생명은"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "셰올에"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "이르렀기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:50.255309757Z",
+  "model": "glm-5.2"
+}

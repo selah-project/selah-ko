@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 1:11",
+  "book": "haggai",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "내가 가뭄을 땅 위에, 산들 위에, 곡식과 새 포도주와 기름 위에, 땅이 내어놓는 모든 것 위에, 사람과 짐승 위에, 그리고 손의 모든 수고 위에 선포하였다.",
+  "tokens": [
+    {
+      "surface": "ואקרא",
+      "gloss": "선포하였다"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "가뭄을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "산들"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "곡식"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "새 포도주"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "기름"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—which"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "내어놓는"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "수고"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "손의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:47.374185458Z",
+  "model": "glm-5.2"
+}

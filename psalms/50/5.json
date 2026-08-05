@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "나의 하시드들을 내게 모으라 ⟨את⟩ 나의 브리트를 맺은 자들을 제물 위에서.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "모으라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "나의 하시드들을"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "맺은 자들을"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "나의 브리트를"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제물"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:22.316769553Z",
+  "model": "glm-5.2"
+}

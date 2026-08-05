@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 ⟨그의⟩ 자매인 하몰레켓은 ⟨את⟩ 이쉬훗과 ⟨את⟩ 아비에셀과 ⟨את⟩ 마흘라를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "그리고 ⟨그의⟩ 자매"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "하몰레켓"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이쉬훗"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "이쉬훗"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아비에셀"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "아비에셀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "마흘라"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "마흘라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:47.475356809Z",
+  "model": "glm-5.2"
+}

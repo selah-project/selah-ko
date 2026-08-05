@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "⟨이는⟩ ⟨내⟩ 날들이 연기 같이 소멸되고, ⟨내⟩ 뼈들이 숯 같이 타올랐음이니이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "소멸되고"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "연기 같이"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "내 날들이"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "그리고 내 뼈들이"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "…같이"
+    },
+    {
+      "surface": "קד",
+      "gloss": "숯"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "타올랐음이니이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:27.606800213Z",
+  "model": "glm-5.2"
+}

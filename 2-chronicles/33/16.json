@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그가 ⟨את⟩ 야훼의 제단을 세우고 그 위에 화평 제물과 감사 제물을 제물로 드렸다. 그리고 야훼, 이스라엘의 엘로힘을 섬기라고 유다에게 말하였다.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "세우고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 제단을"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "드렸다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "제물로"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "화평"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "그리고 감사"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "유다에게"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "섬기라고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:02:53.296140211Z",
+  "model": "glm-5.2"
+}

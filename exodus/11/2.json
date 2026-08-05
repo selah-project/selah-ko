@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "이제 백성의 귀에 말하라. 남자는 그의 동료에게서, 여자는 그의 동료에게서, 은 그릇과 금 그릇을 ⟨구하라⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "귀에"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "그리고 ⟨그들이⟩ 구하라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자는"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "그의 동료"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "그리고 여자는"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "그의 동료"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "그릇"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "그리고 그릇"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:52.378607982Z",
+  "model": "glm-5.2"
+}

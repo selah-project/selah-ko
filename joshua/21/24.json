@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "⟨את⟩ 아얄론과 ⟨את⟩ 그것의 초지, ⟨את⟩ 가트 림몬과 ⟨את⟩ 그것의 초지를 — 네 도시이다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아얄론"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "아얄론"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 초지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가트 림몬"
+    },
+    {
+      "surface": "גת",
+      "gloss": "가트"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "림몬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 초지"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "도시들"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "넷"
+    }
+  ],
+  "timestamp": "2026-08-05T09:10:45.595659540Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 1:46",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "후샘이 죽으매, 모압 들에서 ⟨את⟩ 미디안을 친 베닷의 아들 하닷이 ⟨그⟩ 대신하여 왕이 되었다. ⟨그의⟩ 도시 이름은 아윗이었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽으매"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "후샘이"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨그⟩ 대신하여"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하닷이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "베닷의"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "친"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미디안을"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "미디안을"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름은"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "⟨그의⟩ 도시"
+    },
+    {
+      "surface": "עיות",
+      "gloss": "아윗이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:31.252745329Z",
+  "model": "glm-5.2"
+}

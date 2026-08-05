@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "나를 가장 낮은 구덩이에 두셨다 — 어둠들 속에, 깊음들 속에.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "나를 두셨다"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "구덩이에"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "가장 낮은"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "어둠들 속에"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "깊음들 속에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:15.342992071Z",
+  "model": "glm-5.2"
+}

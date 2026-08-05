@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "환불 때에, 날이 저물 때에, 밤의 한복판과 어둠 속에",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "환불 때에"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "저물 때에"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날이"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "한복판에"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤의"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "그리고 어둠 속에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:00.180487359Z",
+  "model": "glm-5.2"
+}

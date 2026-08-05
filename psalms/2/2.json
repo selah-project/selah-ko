@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "땅의 왕들이 자리를 잡고, 통치자들이 함께 모여, 야훼와 ⟨그분의⟩ 마쉬아흐를 거역하여 나서는도다.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "자리를 잡고"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "통치자들이"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "함께 모여"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "함께"
+    },
+    {
+      "surface": "על",
+      "gloss": "거역하여"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼와"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "거역하여"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "마쉬아흐를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:42.291003302Z",
+  "model": "glm-5.2"
+}

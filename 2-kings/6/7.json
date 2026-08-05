@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그가 말씀하셨다. “집어 들어라.” 그가 ⟨자신의⟩ 손을 뻗어 ⟨그것을⟩ 집어들었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "집어 들어라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "뻗어"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "집어들었다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:51:49.954949763Z",
+  "model": "glm-5.2"
+}

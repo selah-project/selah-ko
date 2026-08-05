@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 2:3",
+  "book": "haggai",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "“너희 가운데 남은 자 중에 누가 ⟨את⟩ 이 집을 그 첫 영광으로 보았는가? 그런데 지금 너희가 그것을 어떻게 보고 있느냐? 너희 눈에 그것이 없는 것과 같지 않으냐?”",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "너희 가운데"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "남은 자"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보았는가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "이 집을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "그 영광으로"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그런데 어떻게"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "보고 있느냐"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "지금"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아니냐"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "그것이 ∼와 같"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "없는 것"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "너희 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:18:01.101310090Z",
+  "model": "glm-5.2"
+}

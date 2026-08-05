@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "슐로모는 쯔돈 사람들의 엘로힘인 아쉬토레트를 따라갔고, 암몬 사람들의 가증함인 밀콤을 따라갔다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "따라갔다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모는"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "아쉬토레트를"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘인"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "쯔돈 사람들의"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 뒤에"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "밀콤을"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "가증함인"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "암몬 사람들의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:28.542333946Z",
+  "model": "glm-5.2"
+}

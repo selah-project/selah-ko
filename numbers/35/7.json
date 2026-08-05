@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "너희가 레위 사람들에게 줄 모든 성읍은 마흔여덟 성읍이다 — ⟨את⟩ 그것들과 ⟨את⟩ 그것들의 미그라쉬를 함께.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "성읍은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "너희가 줄"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "레위 사람들에게"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "마흔"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "그리고 여덟"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성읍이다"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ 그것들을",
+      "marks": "그것들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것들의 미그라쉬"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "그것들의 미그라쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:19.514441678Z",
+  "model": "glm-5.2"
+}

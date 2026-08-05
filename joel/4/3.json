@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨아스라엘의⟩ 내 백성에게 제비를 던져, 소년은 창녀에게 주고, 소녀는 포도주에 팔아 마셨다.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "던졌다"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "제비를"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "그리고 주었다"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "소년을"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "창녀에게"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "그리고 소녀를"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "팔았다"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "포도주에"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "그리고 마셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:24:39.463880633Z",
+  "model": "glm-5.2"
+}

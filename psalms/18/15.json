@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 ⟨그⟩ 화살들을 보내사 그들을 흩으셨으며, 번개들을 쏘아 그들을 혼란에 빠뜨리셨다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내사"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "⟨그⟩ 화살들을"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "그리고 그들을 흩으셨으며"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "번개들을"
+    },
+    {
+      "surface": "רב",
+      "gloss": "쏘아"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "그리고 그들을 혼란에 빠뜨리셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:19.092414517Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그들이 ⟨את⟩ 그 도시 안에 있는 모든 것을 바침으로 멸하였다 — 남자부터 여자까지, 어린아이부터 노인까지, 그리고 소와 양과 나귀를 칼날로.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "그들이 바침으로 멸하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 도시 안에 있는 모든 것"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "그 도시 안에"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "남자부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여자"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "어린아이부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "노인"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 …까지"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "그리고 양"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "그리고 나귀"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "…로"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼날"
+    }
+  ],
+  "timestamp": "2026-08-05T09:05:38.885882122Z",
+  "model": "glm-5.2"
+}

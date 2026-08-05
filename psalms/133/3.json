@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 133,
+  "translation": "헤르몬의 이슬 같으니, 그것이 Ṯ이온의 산들 위로 내려오는 것과 같다. 거기서 Ṯ야훼께서 ⟨את⟩ 축복을 명하셨다—영원까지의 생명을.",
+  "tokens": [
+    {
+      "surface": "כְּטַל",
+      "gloss": "이슬 같으니"
+    },
+    {
+      "surface": "חֶרְמ֗וֹן",
+      "gloss": "헤르몬의"
+    },
+    {
+      "surface": "שֶׁיֹּרֵד֮",
+      "gloss": "내려오는 것"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הַרְרֵ֪י",
+      "gloss": "산들"
+    },
+    {
+      "surface": "צִ֫יּ֥וֹן",
+      "gloss": "Ṯ이온의"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "대저"
+    },
+    {
+      "surface": "שָׁ֨ם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "명하셨다"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "축복"
+    },
+    {
+      "surface": "הַבְּרָכָ֑ה",
+      "gloss": "축복을"
+    },
+    {
+      "surface": "חַ֝יִּ֗ים",
+      "gloss": "생명"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הָעוֹלָֽם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:45.161471553Z",
+  "model": "glm-5.2"
+}

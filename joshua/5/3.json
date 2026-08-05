@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 예호슈아가 자기를 위하여 돌칼들을 만들고, 이스라엘 자손들 ⟨את⟩을 할례하였다 — 할례받지 않은 자들의 언덕에서.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위하여"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호슈아가"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "칼들을"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "돌의"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "그리고 할례하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손들을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "언덕의"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "할례받지 않은 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:05:30.236856825Z",
+  "model": "glm-5.2"
+}

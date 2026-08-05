@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "모든 날에 내가 주를 송축하며, 주의 이름을 영원히 송축하겠나이다.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "내가 주를 송축하며"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "그리고 내가 찬양하겠나이다"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "주의 이름을"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:39.594361281Z",
+  "model": "glm-5.2"
+}

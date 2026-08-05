@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "땅에서는 그것으로부터 양식이 나오나, 그 아래는 불같이 뒤집히었다.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "땅은"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "그것으로부터"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나오나"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "양식이"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "그 아래는"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "뒤집히었다"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "같이"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:55.632768470Z",
+  "model": "glm-5.2"
+}

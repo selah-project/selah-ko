@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "당신의 것은 낮이요, 또한 당신의 것은 밤이다; 당신이 ⟨그⟩ 빛과 태양을 준비하셨다.",
+  "tokens": [
+    {
+      "surface": "לְךָ",
+      "gloss": "당신의 것은"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "낮이요"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "또한"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "당신의 것은"
+    },
+    {
+      "surface": "לַיְלָה",
+      "gloss": "밤이다"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "הֲכִינוֹתָ",
+      "gloss": "준비하셨다"
+    },
+    {
+      "surface": "מָאוֹר",
+      "gloss": "빛"
+    },
+    {
+      "surface": "וָשָׁמֶשׁ",
+      "gloss": "태양과"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:55.523598697Z",
+  "model": "glm-5.2"
+}

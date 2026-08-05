@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 아하즈가 ⟨את⟩ 야라를 낳았고, 야라가 ⟨את⟩ 알레메트와 ⟨את⟩ 아즈마벳과 ⟨את⟩ 짐리를 낳았고, 짐리가 ⟨את⟩ 모차를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "그리고 아하즈가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야라를"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "야라를"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "그리고 야라가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "알레메트와 아즈마벳과 짐리를"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "알레메트와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아즈마벳을"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "아즈마벳과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "짐리를"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "짐리를"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "그리고 짐리가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모차를"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "모차를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:36.505071144Z",
+  "model": "glm-5.2"
+}

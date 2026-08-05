@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "대저 야훼께서 ⟨그의⟩ 백성을 심판하시며, ⟨그의⟩ 종들 위에는 긍휼을 베푸시리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "심판하시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성을"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 … 위에는"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "긍휼을 베푸시리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:44.313403983Z",
+  "model": "glm-5.2"
+}

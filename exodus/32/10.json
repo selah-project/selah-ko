@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 이제 나를 가만 두어라. 그리하면 나의 노가 그들에게 타오르며 내가 그들을 멸할 것이다. 그리고 나는 너를 ⟨את⟩ 큰 민족으로 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "가만 두어라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "타오르면"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "나의 노"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "그들을 멸할 것이다"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "그리고 나는 만들 것이다"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "너를 큰 민족으로"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "민족"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:39.800860767Z",
+  "model": "glm-5.2"
+}

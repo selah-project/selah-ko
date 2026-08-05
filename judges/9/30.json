@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 자불, ⟨그⟩ 성읍의 관리가 ⟨את⟩ 가알 에베드의 아들의 말을 듣고, 그의 노가 타올랐다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "그리고 듣고"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "자불"
+    },
+    {
+      "surface": "שר",
+      "gloss": "관리"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가알 에베드의 아들의 말"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말"
+    },
+    {
+      "surface": "געל",
+      "gloss": "가알"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "에베드"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "타올랐다"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "그의 노"
+    }
+  ],
+  "timestamp": "2026-08-05T18:36:45.597394256Z",
+  "model": "glm-5.2"
+}

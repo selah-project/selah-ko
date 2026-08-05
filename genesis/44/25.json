@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 우리 아버지가 말씀하셨다. \"돌아가서 우리를 위해 조금의 양식을 사 오라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하셨다"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "우리 아버지가"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "사라(곡물을 구하라)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위해"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금의"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "양식을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:38.473184956Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 우지가 ⟨את⟩ 제라흐야를 낳았고, 제라흐야가 ⟨את⟩ 메라요트를 낳았으며,",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "그리고 우지가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제라흐야를"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "제라흐야"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "그리고 제라흐야가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "메라요트를"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "메라요트"
+    }
+  ],
+  "timestamp": "2026-08-05T19:39:47.055150470Z",
+  "model": "glm-5.2"
+}

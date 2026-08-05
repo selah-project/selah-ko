@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그녀 뒤에 ⟨את⟩ 마아가를 맞이하였으니 — 압살롬의 딸 — 그녀가 그에게 낳았으니 ⟨את⟩ 아비야와 ⟨את⟩ 앗대와 ⟨את⟩ 시사와 ⟨את⟩ 슐로밋.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "그녀 뒤에"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "맞이하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "마아가"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "마아가"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "압살롬"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳았으니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아비야"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "아비야"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "앗대"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "앗대"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "시사"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "시사"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "슐로밋"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "슐로밋"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:35.379938860Z",
+  "model": "glm-5.2"
+}

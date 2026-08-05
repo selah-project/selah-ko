@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "당신의 에다웃의 길에서 내가 기뻐하였다, 모든 재물에 대한 것처럼.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "길에서"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "당신의 에다웃의"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "내가 기뻐하였다"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "~에 대한 것처럼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הון",
+      "gloss": "재물"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:05.979086218Z",
+  "model": "glm-5.2"
+}

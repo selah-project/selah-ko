@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "모든 사람이 그것을 보았고, 인간이 멀리서 ⟨그것을⟩ 바라본다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "보았고"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "인간이"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "바라본다"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "멀리서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:11:04.347970186Z",
+  "model": "glm-5.2"
+}

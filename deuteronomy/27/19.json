@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "저주를 받을 자는 거류인과 고아와 과부의 재판을 굽히는 자이다. 그리고 온 백성이 아멘이라고 말할 것이다.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받을 자는"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "굽히는 자이다"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "재판을"
+    },
+    {
+      "surface": "גר",
+      "gloss": "거류인과"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "고아와"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "과부의"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 말할 것이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘이라고"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:22.289606414Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 코헨이 명하여 ⟨את⟩ 그 새 한 마리를 질그릇 안, ⟨생⟩ 물 위에서 잡게 하였다.",
+  "tokens": [
+    {
+      "surface": "וְצִוָּה֙",
+      "gloss": "그리고 명하여"
+    },
+    {
+      "surface": "הַכֹּהֵ֔ן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "וְשָׁחַ֖ט",
+      "gloss": "잡게 하였다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 새 한 마리를"
+    },
+    {
+      "surface": "הַצִּפֹּ֣ר",
+      "gloss": "그 새를"
+    },
+    {
+      "surface": "הָאֶחָ֑ת",
+      "gloss": "한 마리를"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "안"
+    },
+    {
+      "surface": "כְּלִי־",
+      "gloss": "그릇"
+    },
+    {
+      "surface": "חֶ֖רֶשׂ",
+      "gloss": "질그릇"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "물"
+    },
+    {
+      "surface": "חַיִּֽים",
+      "gloss": "생"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:20.436336465Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 내가 네 안에 남겨 둘 것이니, 곧 억눌리고 가난한 백성이며, 그들이 야훼의 이름에 피난할 것이다.",
+  "tokens": [
+    {
+      "surface": "וְהִשְׁאַרְתִּ֣י",
+      "gloss": "그리고 내가 남겨 둘 것이니,"
+    },
+    {
+      "surface": "בְקִרְבֵּ֔ךְ",
+      "gloss": "네 안에"
+    },
+    {
+      "surface": "עַ֥ם",
+      "gloss": "백성이며,"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "억눌리고"
+    },
+    {
+      "surface": "וָדָ֑ל",
+      "gloss": "가난한"
+    },
+    {
+      "surface": "וְחָס֖וּ",
+      "gloss": "피난할"
+    },
+    {
+      "surface": "בְּשֵׁ֥ם",
+      "gloss": "이름에"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:16:58.455648991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "헤벨, 헤벨들이라, 코헬렛이 말하였다. 전부가 헤벨이다.",
+  "tokens": [
+    {
+      "surface": "הֲבֵ֧ל",
+      "gloss": "헤벨"
+    },
+    {
+      "surface": "הֲבָלִ֛ים",
+      "gloss": "헤벨들이라"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הַקּוֹהֶ֖לֶת",
+      "gloss": "코헬렛이"
+    },
+    {
+      "surface": "הַכֹּ֥ל",
+      "gloss": "전부가"
+    },
+    {
+      "surface": "הָֽבֶל",
+      "gloss": "헤벨이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:01.142327413Z",
+  "model": "glm-5.2"
+}

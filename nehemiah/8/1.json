@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "온 백성이 한 사람처럼 물문 앞에 있는 넓은 광장으로 모였다. 그들이 기록하는 자 에스라에게 모셰의 토라 책을 가져다 달라고 말하니, 그것은 야훼께서 ⟨את⟩ 이스라엘에게 명하신 것이었다.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "모였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "한 사람처럼"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼으로"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "넓은 광장"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "∼앞에 있는"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하니"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "에스라에게"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "기록하는 자"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "가져오다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰의 토라 책"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "책"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "토라"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것으로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T14:09:11.282072313Z",
+  "model": "glm-5.2"
+}

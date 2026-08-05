@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "오직 ⟨내⟩ 땅과 ⟨내⟩ 친족에게로 가서, 내 아들 이쯔하크의 아내를 데려오라.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "내 땅"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "내 친족"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "데려오라"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "이쯔하크의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:28.932624976Z",
+  "model": "glm-5.2"
+}

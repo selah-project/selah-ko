@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "벌거벗은 채로 옷 없이 밤을 지내며, 추위에 덮을 것이 없다.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "벌거벗은 채로"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "밤을 지내며"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "옷"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "덮을 것"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "추위에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:07:55.221449661Z",
+  "model": "glm-5.2"
+}

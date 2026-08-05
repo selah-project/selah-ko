@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "다윗의. 내 네페쉬야, ⟨את⟩ 야훼를 송축하여라, 그리고 내 안의 모든 것이 ⟨את⟩ 그의 거룩한 이름을 송축하여라.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "송축하여라"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬야"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든 것이"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "내 안의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 거룩한 이름"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "그의 거룩한"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:03.894451034Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨그가⟩ 내게 말씀하셨다. \"사람의 아들아, 내가 네게 말할 ⟨그⟩ 모든 나의 말씀을, 네 마음으로 받고, 네 귀로 들어라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 나의 말씀을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "나의 말씀을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "내가 말할 것이다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "קח",
+      "gloss": "받아라"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "네 마음으로"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "그리고 네 귀로"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들어라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:48:16.345848335Z",
+  "model": "glm-5.2"
+}

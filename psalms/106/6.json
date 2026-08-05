@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "우리가 우리 조상들과 함께 범죄하였고, 그르쳤으며, 악을 행하였나이다.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "우리가 범죄하였고"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "우리 조상들이"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "그르쳤으며"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "악을 행하였나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:56.537649296Z",
+  "model": "glm-5.2"
+}

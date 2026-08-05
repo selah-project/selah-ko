@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "아미나다브가 ⟨את⟩ 나흐숀을 낳았고, 나흐숀이 ⟨את⟩ 살마를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "아미나다브가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나흐숀을"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "나흐숀을"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "나흐숀이"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "살마를"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "살마를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:40.379413069Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "그에게 악의 날들로부터 고요함을 주시려, 악인을 위하여 구덩이가 파질 때까지.",
+  "tokens": [
+    {
+      "surface": "לְהַשְׁקִ֣יט",
+      "gloss": "고요하게 하시려"
+    },
+    {
+      "surface": "ל֭וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מִ֣ימֵי",
+      "gloss": "~로부터"
+    },
+    {
+      "surface": "רָ֑ע",
+      "gloss": "악"
+    },
+    {
+      "surface": "עַ֤ד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "יִכָּרֶ֖ה",
+      "gloss": "파질 때"
+    },
+    {
+      "surface": "לָרָשָׁ֣ע",
+      "gloss": "악인을 위하여"
+    },
+    {
+      "surface": "שָֽׁחַת",
+      "gloss": "구덩이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:55.277516454Z",
+  "model": "glm-5.2"
+}

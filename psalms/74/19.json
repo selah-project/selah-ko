@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "당신의 비둘기의 네페쉬를 들짐승에게 넘기지 마소서. 당신의 가난한 자들의 ⟨무리⟩를 영원히 잊지 마소서.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "넘기"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "들짐승에게"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "당신의 비둘기의"
+    },
+    {
+      "surface": "חית",
+      "gloss": "들짐승에게"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "당신의 가난한 자들의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "잊지"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:14.604094590Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 16:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그러나 그들이 모셰의 말에 순종하지 아니하였고, 사람들 중 몇이 아침까지 ⟨그것⟩을 남겨 두었더니, 구더기가 생기고 악취가 나더라. 모셰가 그들에게 노하였다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그러나 … 아니하였고"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "순종하지"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…의 말에"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויותרו",
+      "gloss": "남겨 두었더니"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람들 중 몇이"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨그것⟩을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "생기고"
+    },
+    {
+      "surface": "תולעים",
+      "gloss": "구더기가"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "악취가 나더라"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "노하였다"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:19.789164834Z",
+  "model": "glm-5.2"
+}

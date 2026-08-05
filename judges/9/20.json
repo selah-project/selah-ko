@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그러나 그렇지 아니하면, 아비멜렉에게서 불이 나와서 ⟨את⟩ 세겜의 주인들과 ⟨את⟩ 밀로의 집을 삼키고, 세겜의 주인들에게서와 밀로의 집에게서 불이 나와서 ⟨את⟩ 아비멜렉을 삼킬 것이다.'",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만일"
+    },
+    {
+      "surface": "אין",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "나와서"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "아비멜렉에게서"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "그리고 삼키고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "세겜의 주인들을"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "주인들"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "세겜의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "밀로의 집을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "밀로의"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "그리고 나오며"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "주인들에게서"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "세겜의"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "그리고 집에게서"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "밀로의"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "그리고 삼킬 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아비멜렉을"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:45.198625955Z",
+  "model": "glm-5.2"
+}

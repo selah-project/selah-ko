@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 그가 ⟨아트⟩ 번제 단을 만들었는데, 시틈 나무로 — 그 길이가 다섯 아마이고, 그 너비가 다섯 아마이며, 네모 모양이고, 그 높이가 세 아마이다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만들었는데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "번제 단을"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "단을"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "번제"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무로"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "시틈"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마이고"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그 길이가"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "그리고 다섯"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마이며"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그 너비가"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "네모 모양이고"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "그리고 세"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마이다"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "그 높이가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:11.469785838Z",
+  "model": "glm-5.2"
+}

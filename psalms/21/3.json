@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그의 마음의 갈망을 ⟨당신⟩은 그에게 주셨고, 그의 입술의 요청을 ⟨당신⟩은 결코 막지 않으셨다. 셀라.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "갈망을"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음의"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "당신은 주셨고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "그리고 요청을"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "그의 입술의"
+    },
+    {
+      "surface": "בל",
+      "gloss": "결코"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "막지 않으셨다"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라."
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:00.232307646Z",
+  "model": "glm-5.2"
+}

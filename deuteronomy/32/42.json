@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "내가 ⟨나의⟩ 화살들을 피로 취하게 하고, ⟨나의⟩ 칼이 살을 먹으리니 — 죽임당한 자의 피와 포로들로부터, 원수의 우두머리들의 머리로부터.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "취하게 하리니"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "나의 화살들을"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "피로"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "그리고 나의 칼이"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "먹으리니"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "살을"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "피로부터"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "죽임당한 자의"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "그리고 포로들"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "머리로부터"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "우두머리들의"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:58.809670976Z",
+  "model": "glm-5.2"
+}

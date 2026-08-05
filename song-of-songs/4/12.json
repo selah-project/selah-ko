@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "잠긴 동산이로구나, 나의 누이여, 신부여. 잠긴 샘, 봉인된 물귀원.",
+  "tokens": [
+    {
+      "surface": "גַּן",
+      "gloss": "동산이로구나"
+    },
+    {
+      "surface": "נָעוּל",
+      "gloss": "잠긴"
+    },
+    {
+      "surface": "אֲחֹתִי",
+      "gloss": "나의 누이여"
+    },
+    {
+      "surface": "כַלָּה",
+      "gloss": "신부여"
+    },
+    {
+      "surface": "גַּל",
+      "gloss": "잠긴"
+    },
+    {
+      "surface": "נָעוּל",
+      "gloss": "잠긴 … (샘)"
+    },
+    {
+      "surface": "מַעְיָן",
+      "gloss": "… 샘, … 물귀원"
+    },
+    {
+      "surface": "חָתוּם",
+      "gloss": "봉인된"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:36.595523782Z",
+  "model": "glm-5.2"
+}

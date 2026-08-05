@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "가난한 ⟨자는⟩ 그의 이웃에게도 미움을 받고, 부자의 사랑하는 ⟨자들은⟩ 많다.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "그의 이웃에게"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "미움을 받고"
+    },
+    {
+      "surface": "רש",
+      "gloss": "가난한"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "그리고 사랑하는"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "부자의"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:12.701910724Z",
+  "model": "glm-5.2"
+}

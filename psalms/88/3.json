@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "나의 기도가 당신 면전에 들어가게 하시고, 당신 귀를 나의 부르짖음으로 기울이소서.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "들어가게 하시고"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "당신 면전에"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "나의 기도"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "기울이소서"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "당신 귀를"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "나의 부르짖음으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:50.255197236Z",
+  "model": "glm-5.2"
+}

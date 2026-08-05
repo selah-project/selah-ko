@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "그들이 물처럼 나를 에워쌌고, 온 종일 함께 나를 둘러쌌다.",
+  "tokens": [
+    {
+      "surface": "סַבּ֣וּנִי",
+      "gloss": "나를 에워쌌고"
+    },
+    {
+      "surface": "כַ֭מַּיִם",
+      "gloss": "물처럼"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "종일"
+    },
+    {
+      "surface": "הִקִּ֖יפוּ",
+      "gloss": "둘러쌌다"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "나를"
+    },
+    {
+      "surface": "יָֽחַד",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:35.480643919Z",
+  "model": "glm-5.2"
+}

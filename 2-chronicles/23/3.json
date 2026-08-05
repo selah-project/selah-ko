@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 23:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "온 회중이 엘로힘의 집에서 왕과 브리트를 맺었다. 그가 그들에게 말하였다. \"보라, 왕의 아들이 왕위에 오를 것이다. 야훼께서 다윗의 아들들에 관하여 말씀하신 것과 같이.\"",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "맺었다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트를"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…의 집에서"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "왕위에 오를 것이다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…과 같이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에 관하여"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:57.500815009Z",
+  "model": "glm-5.2"
+}

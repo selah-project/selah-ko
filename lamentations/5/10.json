@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "우리의 피부가 아궁이처럼 달아올랐다, 굶주림의 불길 앞에서.",
+  "tokens": [
+    {
+      "surface": "עוֹרֵ֨נוּ֙",
+      "gloss": "우리의 피부가"
+    },
+    {
+      "surface": "כְּתַנּ֣וּר",
+      "gloss": "아궁이처럼"
+    },
+    {
+      "surface": "נִכְמָ֔רוּ",
+      "gloss": "달아올랐다"
+    },
+    {
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "זַלְעֲפ֥וֹת",
+      "gloss": "불길"
+    },
+    {
+      "surface": "רָעָֽב",
+      "gloss": "굶주림의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:02.978457195Z",
+  "model": "glm-5.2"
+}

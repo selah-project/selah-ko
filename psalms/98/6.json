@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 98,
+  "translation": "나팔과 쇼파르 소리로 왕 야훼 앞에서 크게 외치라.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "나팔과"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "쇼파르"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "크게 외치라"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:52.532736137Z",
+  "model": "glm-5.2"
+}

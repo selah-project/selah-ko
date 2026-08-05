@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "아담의 날들은 ⟨את⟩ 셰트를 낳은 후에 800년이었고, ⟨그가⟩ 아들들과 딸들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "이었고"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날들은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "아담의"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셰트를"
+    },
+    {
+      "surface": "שת",
+      "gloss": "셰트를"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "800"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "0"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들과"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "딸들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:12.043308603Z",
+  "model": "glm-5.2"
+}

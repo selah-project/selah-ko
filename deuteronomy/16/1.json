@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "아빕월을 지키고, 야훼 네 엘로힘께 ⟨את⟩ 페사흐를 행하여라. 이는 아빕월에 야훼 네 엘로힘이 너를 미츠라임에서 밤에 인도하여 내셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "שָׁמוֹר",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "아빕월을"
+    },
+    {
+      "surface": "חֹדֶשׁ",
+      "gloss": "월을"
+    },
+    {
+      "surface": "הָאָבִיב",
+      "gloss": "아빕"
+    },
+    {
+      "surface": "וְעָשִׂיתָ",
+      "gloss": "행하여라"
+    },
+    {
+      "surface": "פֶּסַח",
+      "gloss": "페사흐를"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "בְּחֹדֶשׁ",
+      "gloss": "월에"
+    },
+    {
+      "surface": "הָאָבִיב",
+      "gloss": "아빕"
+    },
+    {
+      "surface": "הוֹצִיאֲךָ",
+      "gloss": "인도하여 내셨기"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "מִמִּצְרַיִם",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "לָיְלָה",
+      "gloss": "밤에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:07:03.657860911Z",
+  "model": "glm-5.2"
+}

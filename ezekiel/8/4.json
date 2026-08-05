@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 보라, 거기에 이스라엘의 엘로힘의 영광이 ⟨있었다⟩ — 내가 평야에서 보았던 그 모양 같았다.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "모양 같았다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "보았던"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "평야에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:49:13.334086746Z",
+  "model": "glm-5.2"
+}

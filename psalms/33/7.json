@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그는 바닷물을 더미처럼 모으신다 — 깊은 곳(테호모트)을 저장소에 두신다.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "모으신다"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "더미처럼"
+    },
+    {
+      "surface": "מי",
+      "gloss": "물을"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "두신다"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "저장소에"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "깊은 곳(테호모트)을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:43.174041443Z",
+  "model": "glm-5.2"
+}

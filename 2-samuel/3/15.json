@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이쉬-보셋이 보내어 그녀를 데려왔으니, 그녀의 남편에게서, 팔티엘 라이쉬의 아들에게서였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "איש",
+      "gloss": "이쉬-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "보셋이"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "데려왔으니"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남편"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "팔티엘"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "라이쉬의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:25.847334757Z",
+  "model": "glm-5.2"
+}

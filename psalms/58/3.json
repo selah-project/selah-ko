@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 58,
+  "translation": "아니, 오히려 마음속에서 불의를 행하며, 땅에서 너희 손의 폭력을 펴는도다.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "아니, 오히려"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "마음속에서"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "불의를"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "행하며"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력을"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "너희 손의"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "펴는도다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:58.518683168Z",
+  "model": "glm-5.2"
+}

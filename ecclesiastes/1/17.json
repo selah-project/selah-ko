@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "나는 내 마음을 주어 지혜를 알고자 하였고, 미친 것과 어리석은 것도 알고자 하였다. 내가 안 것은, 이것 역시 루아흐의 헛된 욕망이라는 것이었다.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "나는 주었다"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음을"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "알고자"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜를"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "그리고 알고자"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "미친 것을"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "그리고 어리석은 것을"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 알았다"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "that even"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨이다⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "욕망이라는 것을"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐(바람)의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:03.527154796Z",
+  "model": "glm-5.2"
+}

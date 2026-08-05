@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "나의 엘, 나의 엘, 어찌하여 저를 버리셨나이까, 저의 구원에서 멀리, 저의 부르짖음의 말들⟨이⟩멀리 계시나이까.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "나의 엘"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나의 엘"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "저를 버리셨나이까"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "멀리"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "저의 구원에서"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "저의 부르짖음의 말들"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "저의 부르짖음"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:17.066226802Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 이제, 보라, 내가 아노니 왕이 왕으로 통치하시고 이스라엘 왕국이 왕의 손에 세워질 것이다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 아노니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "통치하시고"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "…가 세워질 것이다"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "왕의 손에"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "왕국이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:39.791125487Z",
+  "model": "glm-5.2"
+}

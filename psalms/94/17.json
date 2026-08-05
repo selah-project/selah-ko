@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "야훼가 나의 도움이 아니셨다면, 내 네페쉬가 거의 침묵에 깃들었으리라.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "아니었다면"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "도움이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "거의"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "깃들었으리라"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "침묵에"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:45.483370738Z",
+  "model": "glm-5.2"
+}

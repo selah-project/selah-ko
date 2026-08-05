@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 만일 그에게 딸이 없으면, 너희는 ⟨את⟩ 그의 유산을 그의 형제들에게 줄 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으면"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "너희는 줄 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 유산"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "그의 유산"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "그의 형제들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:43.148844363Z",
+  "model": "glm-5.2"
+}

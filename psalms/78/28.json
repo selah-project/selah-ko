@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그것이 그의 진 가운데로, 그의 거처들 둘레로 떨어지게 하셨다.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "떨어지게-하셨다"
+    },
+    {
+      "surface": "בקר브",
+      "gloss": "가운데로"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "그의-진-"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레로"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "그의-거처들-"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:36.347832420Z",
+  "model": "glm-5.2"
+}

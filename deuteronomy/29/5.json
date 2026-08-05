@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "빵을 먹지 아니하였고, 포도주와 독주를 마시지 아니하였다 — 이는 너희가 나 야훼가 너희 엘로힘임을 알게 하려 하심이었다.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "먹지"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "포도주와"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "독주를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "마시지"
+    },
+    {
+      "surface": "למען",
+      "gloss": "하려 하심이었다"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "알게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘임을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:06.240980454Z",
+  "model": "glm-5.2"
+}

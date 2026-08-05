@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 33:49",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그들이 ⟨그⟩ 요르단 강가에 진을 쳤는데, 벳 하예시못에서부터 아벨 하쉬팀까지, 모압의 아라바에 ⟨이르렀다⟩.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "그들이 진을 쳤는데"
+    },
+    {
+      "surface": "על",
+      "gloss": "~강가에"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "벳에서부터"
+    },
+    {
+      "surface": "הישמת",
+      "gloss": "하예시못"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "아벨"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "하쉬팀"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "~의 아라바에"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    }
+  ],
+  "timestamp": "2026-08-05T08:47:41.930894622Z",
+  "model": "glm-5.2"
+}

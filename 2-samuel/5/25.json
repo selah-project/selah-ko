@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "다윗이 그같이 행하였다 — 야훼가 그에게 명령하신 대로 — 그리고 그가 ⟨את⟩ 블레셋 사람들을 쳤다, 미그바에서부터 ⟨네가⟩ 게젤에 이르기까지.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "— 대로"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "블레셋 사람들을"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들을"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "미그바에서부터"
+    },
+    {
+      "surface": "עד",
+      "gloss": "— 에 이르기까지"
+    },
+    {
+      "surface": "באך",
+      "gloss": "⟨네가⟩ 이르"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "게젤에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:20.204792334Z",
+  "model": "glm-5.2"
+}

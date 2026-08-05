@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 1:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "예샤야후 아모츠의 아들의 환상, 그가 유다와 예루샬라임에 대해 본 것, 유다의 왕들 — 우지야후, 요탐, 아하즈, 예히즈키야후의 날들에.",
+  "tokens": [
+    {
+      "surface": "חזון",
+      "gloss": "환상"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "예샤야후"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "아모츠"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그가⟩ 본 것"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "על",
+      "gloss": "≈에 대해"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "그리고 예루샬라임"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "≈의 날들에"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "우지야후"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "요탐"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "아하즈"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "예히즈키야후"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:39.178035013Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "기도이다. 하바쿠의, 그 나비의, 그의 흩어진 시들 위한.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "기도이다"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "하바쿠의"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "그 나비의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위한"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "그의 흩어진 시들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:37.457044133Z",
+  "model": "glm-5.2"
+}

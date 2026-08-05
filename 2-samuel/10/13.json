@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 10:13",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "요아브와 그와 함께 한 백성이 아람과의 전투를 향해 나아갔고, 그들이 그의 앞에서 도망하였다.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "그리고 백성은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "전투를 향해"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "아람과의"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "그들이 도망하였다"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "그의 앞에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:13.167297362Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 ⟨את⟩ 홀론과 ⟨את⟩ 그것의 목초지를, 그리고 ⟨את⟩ 드비르와 ⟨את⟩ 그것의 목초지를.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "홀론"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "홀론"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 목초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 목초지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "드비르"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "드비르"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 목초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 목초지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:11:04.347606471Z",
+  "model": "glm-5.2"
+}

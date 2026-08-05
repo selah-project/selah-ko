@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 130,
+  "translation": "야, ⟨만약⟩ 죄악들을 지키신다면, 아도나이, 누가 서겠습니까.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만약"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "죄악들을"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "지키신다면"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "서겠습니까"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:14.565622776Z",
+  "model": "glm-5.2"
+}

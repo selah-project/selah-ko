@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 25:30",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "야훼께서 ⟨그대⟩의 주에게 ⟨그대⟩에 관하여 말씀하신 모든 선한 것을 행하시고, ⟨את⟩ 그를 이스라엘 위에 수령자로 세우실 때에, 일어날 일이다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "일어날 일이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때에"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨그대⟩의 주에게"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "선한 것을"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "선한"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨그대⟩에 관하여"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "세우실"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "수령자로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:49.768954527Z",
+  "model": "glm-5.2"
+}

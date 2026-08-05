@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "너는 훈계를 미워하며, 내 말들을 네 뒤로 내던졌다.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "미워하며"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "훈계를"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "내던졌다"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말들을"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "네 뒤로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:24.750598278Z",
+  "model": "glm-5.2"
+}

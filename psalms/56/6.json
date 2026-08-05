@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "온종일 그들이 내 말을 꼬아 잡으니, 그들의 모든 생각이 악을 향하여 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말을"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "그들이 꼬아 잡으니"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나를 향하여"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "그들의 생각이"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "악을 향하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:49.079222451Z",
+  "model": "glm-5.2"
+}

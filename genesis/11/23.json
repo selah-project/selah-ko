@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "스룩은 나홀을 낳은 후에 이백 년을 살았고, 아들들과 딸들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "살았고"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "스룩은"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나홀을"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "나홀"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "이백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들과"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "딸들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:07.612113868Z",
+  "model": "glm-5.2"
+}

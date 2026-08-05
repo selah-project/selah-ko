@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 2:15",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그래서 나는 내 마음에 말하였다. \"어리석은 자에게 우연이 덮치듯, 나에게도 덮칠 것이다. 그렇다면 내가 어찌하여 더 지혜롭게 행하였는가?\" 그리고 나는 내 마음에 아뢰었다 — 이것 또한 허블(헛됨)이라고.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "그래서 나는 말하였다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "내 마음에"
+    },
+    {
+      "surface": "כמקרה",
+      "gloss": "…의 우연처럼"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "어리석은 자"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יקרני",
+      "gloss": "덮칠 것이다"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "그렇다면 어찌하여"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "내가 지혜롭게 행하였는가"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אז",
+      "gloss": "그때"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "더"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "나는 아뢰었다"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "내 마음에"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "…이라고, 이것 또한"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "허블"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:50.344075919Z",
+  "model": "glm-5.2"
+}

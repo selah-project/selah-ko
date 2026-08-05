@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 2:31",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 임금이 ⟨그⟩에게 말씀하셨다. \"그가 말한 대로 행하고 그에게 달려들어 그를 묻어라. 그리하면 요아브가 까닭 없이 흘린 피를 나에게서, 그리고 내 아버지의 집에서부터 옮겨 버릴 것이기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "임금이"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하고"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~한 대로"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말한"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "그리고 달려들어"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "וקברתו",
+      "gloss": "그리고 그를 묻어라"
+    },
+    {
+      "surface": "והסירת",
+      "gloss": "그리고 옮길 것이다"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "피를"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "까닭 없이 흘린"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~것"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "흘린"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "그리고 ~에서부터"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:12:37.431189735Z",
+  "model": "glm-5.2"
+}

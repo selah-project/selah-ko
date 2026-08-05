@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 여섯째는 이트르암이니, 데이드의 아내 에글라에게서이다. 이들이 다윗에게서 헤브론에서 태어났다.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "그리고 여섯째는"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "이트르암"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "에글라에게서"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "태어났다"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게서"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "헤브론에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:03.359746400Z",
+  "model": "glm-5.2"
+}

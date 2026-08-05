@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "사로잡혀 갔던 자들에게서 ⟨이것을⟩ 받되 — 헬다이에게서, 토비야에게서, 그리고 예다야에게서 — 그리고 너는 그 날에 ⟨그곳에⟩ 와서, 바벨에서 온 스바냐의 아들 여시야의 집에 들어가라.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "받아라"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⋯에게서"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "사로잡혀 갔던 자들의"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "헬다이에게서"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "그리고 ⟨את⟩ ⋯에게서",
+      "marks": "토비야"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "토비야"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "그리고 ⟨את⟩ ⋯에게서",
+      "marks": "예다야"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "예다야"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "그리고 너는 와서"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⋯에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그 날"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "그리고 들어가라"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⋯의 집에"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "여시야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⋯의 아들"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "스바냐"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "באו",
+      "gloss": "온"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "바벨에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:18:43.632596941Z",
+  "model": "glm-5.2"
+}

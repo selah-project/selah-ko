@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 125,
+  "translation": "이는 악의 홀이 의로운 자들의 몫 위에 쉬지 아니할 것임이니, 이는 의로운 자들이 그들의 손을 불의에 내미르 아니하게 하려 함이라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "쉬지"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "홀이"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "악의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "몫"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "의로운 자들의"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…하게 하려 함이라"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "내미르"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "의로운 자들이"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "불의에"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "그들의 손을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:16.579419938Z",
+  "model": "glm-5.2"
+}

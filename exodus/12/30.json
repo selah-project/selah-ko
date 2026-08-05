@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 파르오가 밤에 일어났다 — 그와 그의 모든 종들과 모든 미츠라임 사람이. 그리고 큰 부르짖음이 미츠라임에 있었다. 거기 죽은 자가 없는 집이 없었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "그리고 …이 일어났다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들과"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임 사람이"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그리고 …이 있었다"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "부르짖음이"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "큰"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "미츠라임에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽은 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:42.202217390Z",
+  "model": "glm-5.2"
+}

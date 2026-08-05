@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "이 셋이 노아의 아들들이었다. 그리고 이들에게서 ⟨온⟩ 땅이 흩어졌다.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "셋"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이었다"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아의"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "그리고 이들에게서"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "흩어졌다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:23.496457984Z",
+  "model": "glm-5.2"
+}

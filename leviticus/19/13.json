@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "너는 너의 동료를 억압하지 말며, 빼앗지 말라. 품꾼의 삯이 너와 함께 아침까지 머물지 못하게 하라.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תַעֲשֹׁ֥ק",
+      "gloss": "억압하지"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "너의 동료를"
+    },
+    {
+      "surface": "רֵֽעֲךָ֖",
+      "gloss": "너의 동료"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "…하지 말며"
+    },
+    {
+      "surface": "תִגְזֹ֑ל",
+      "gloss": "빼앗지"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "…못하게 하라"
+    },
+    {
+      "surface": "תָלִ֞ין",
+      "gloss": "머물"
+    },
+    {
+      "surface": "פְּעֻלַּ֥ת",
+      "gloss": "노동의"
+    },
+    {
+      "surface": "שָׂכִ֛יר",
+      "gloss": "품꾼"
+    },
+    {
+      "surface": "אִתְּךָ֖",
+      "gloss": "너와 함께"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בֹּֽקֶר",
+      "gloss": "아침"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:10.942356901Z",
+  "model": "glm-5.2"
+}

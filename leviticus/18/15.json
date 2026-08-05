@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "네 며느리의 벌거벗음을 드러내지 말라. 그는 네 아들의 아내이기 때문이다. 그의 벌거벗음을 드러내지 말라.",
+  "tokens": [
+    {
+      "surface": "עֶרְוַ֥ת",
+      "gloss": "벌거벗음"
+    },
+    {
+      "surface": "כַּלָּֽתְךָ֖",
+      "gloss": "네 며느리"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תְגַלֵּ֑ה",
+      "gloss": "드러내지"
+    },
+    {
+      "surface": "אֵ֤שֶׁת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "בִּנְךָ֙",
+      "gloss": "네 아들"
+    },
+    {
+      "surface": "הִ֔וא",
+      "gloss": "그이"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תְגַלֶּ֖ה",
+      "gloss": "드러내지"
+    },
+    {
+      "surface": "עֶרְוָתָֽהּ",
+      "gloss": "그의 벌거벗음"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:23.307619094Z",
+  "model": "glm-5.2"
+}

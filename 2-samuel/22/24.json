@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 22:24",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "나는 그에게 타밈하였고, 나는 내 죄악으로부터 나를 지켰다.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "나는 …하였고"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "온전하였"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ואשתמרה",
+      "gloss": "나는 …지켰다"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "내 죄악으로부터"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:14.493308955Z",
+  "model": "glm-5.2"
+}

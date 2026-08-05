@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "오직 엘로힘의 궤는 다윗이 키르얏 여아림에서 올려왔던 것이니, 다윗이 그것을 위해 준비하였던 것이었으니, 그가 예루샬라임에 그것을 위해 천막을 쳤으므로.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "오직"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤는"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올려왔던 것이니"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "키르얏"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "여아림에서"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "준비하였던 것이었으니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것을 위해"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "것이었으니, 쳤으므로"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "쳤으므로"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것을 위해"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "천막을"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:51:47.974661303Z",
+  "model": "glm-5.2"
+}

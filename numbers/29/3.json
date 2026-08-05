@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 그들의 곡물제물은 기름에 섞은 고운 가루로: 수소에는 십분의 셋, 숫양에는 십분의 둘이요.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "그리고 그들의 곡물제물은"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "고운 가루로"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "섞은"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "기름에"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "셋,"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "십분의"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "수소에는"
+    },
+    {
+      "surface": "שני",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "십분의"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "숫양에는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:45:15.760232603Z",
+  "model": "glm-5.2"
+}

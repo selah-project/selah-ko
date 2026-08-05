@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 그의 아샴을 야훼께로, 만남의 천막 입구로 가져올 것이니, 곧 아샴을 위한 숫양이다.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "그리고 가져올 것이니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아샴을"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "그의 아샴을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "איל",
+      "gloss": "숫양"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "아샴"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:26.635826792Z",
+  "model": "glm-5.2"
+}

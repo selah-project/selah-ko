@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 4:9",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "엘로힘이 요나에게 말씀하셨다. \"네가 ⟨그⟩ 박넝무리 때문에 이렇게 불타는 것이 옳으냐?\" 그가 말하였다. \"내가 죽음까지 불타는 것이 옳습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "옳으냐"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "불타는 것이"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네가"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "박넝무리"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "옳습니다"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "불타는 것이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음"
+    }
+  ],
+  "timestamp": "2026-08-05T18:25:34.313234691Z",
+  "model": "glm-5.2"
+}

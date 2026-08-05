@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "그리하여 ⟨네⟩ 발이 피에 박힐 것임이니, 원수들로부터 네 개들의 혀가 ⟨그것을 핥으리라⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "박힐 것임이니"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "발이"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "피에"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀가"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "개들의"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "원수들로부터"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:58.167487948Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "왕이 입으신 왕복을 가져오게 하고, 왕이 타신 말과, 왕이 그 머리에 씌워 주신 왕관을 ⟨가져오게 하라⟩.",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "가져오게 하고"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "왕복을"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "입으신"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "말과"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "타신"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 ⟨것⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "씌워 주신"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "왕관을"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "그 머리에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:23.820899577Z",
+  "model": "glm-5.2"
+}

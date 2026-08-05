@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 137,
+  "translation": "내 혀가 내 입천장에 들러붙기를, 만일 내가 너를 기억하지 아니하면, 만일 내가 예루샬라임을 ⟨את⟩ 내 기쁨의 머리 위에 올리지 아니하면.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "들러붙기를"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "내 혀가"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "내 입천장에"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "내가 너를 기억하지"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "내가 올리지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "내 기쁨의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:23:09.551809880Z",
+  "model": "glm-5.2"
+}

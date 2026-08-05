@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "자기 반역들을 가리는 자는 성공하지 못하고, ⟨그것을⟩ 인정하고 버리는 자는 긍휼을 입는다.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "가리는"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "자기 반역들을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "성공한다"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "그리고 인정하는 자는"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "그리고 버리는 자는"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "긍휼을 입는다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:02.495336677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "마시고 ⟨그의⟩ 가난을 잊으며, ⟨그의⟩ 고난을 다시 기억하지 않는 것이다.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "마시고"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "잊으며"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "가난을"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "고난을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "기억하는"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:44.104110254Z",
+  "model": "glm-5.2"
+}

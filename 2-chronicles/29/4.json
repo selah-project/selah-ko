@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그가 ⟨את⟩ 코하닌들과 ⟨את⟩ 레위인들을 데려오고, 그들을 동쪽 넓은 곳에 모았다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그가 데려오고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "코하닌들"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코하닌들과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "레위인들"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위인들을"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "그들을 모았다"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "넓은 곳에"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "동쪽"
+    }
+  ],
+  "timestamp": "2026-08-05T13:01:11.957952750Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "코헨들 가운데 모든 남자가 ⟨את⟩ 그것을 먹을 수 있다. 그것은 거룩 중의 거룩이다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "코헨들 가운데"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹을 수 있다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩들"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:11:58.160371842Z",
+  "model": "glm-5.2"
+}

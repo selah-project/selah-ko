@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "깨어나라, 깨어나라, 일어서라, 예루샬라임아, 네가 야훼의 손에서 그분의 진노의 잔 ⟨את⟩을 마셨다. 네가 ⟨את⟩ 뒤흔드는 잔의 잔 깊은 잔을 마시고, 그것을 짜서 마셨다.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "깨어나라"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "깨어나라"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "일어서라"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임아"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "마셨다"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "진노의 잔"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "잔"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "그분의 진노의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "뒤흔드는 잔의 깊은 잔"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "깊은 잔"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "잔"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "뒤흔드는"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "마시고"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "짜서 마셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:56.325959844Z",
+  "model": "glm-5.2"
+}

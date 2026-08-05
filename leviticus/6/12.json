@@ -1,0 +1,919 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 야훼께서 모셰에게 말씀하셨다, 이르시기를 ⟨…⟩.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": ""
+    },
+    {
+      "surface": "ושוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ושאר",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": ""
+    },
+    {
+      "surface": "מקרא",
+      "gloss": ""
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": ""
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": ""
+    },
+    {
+      "surface": "באש",
+      "gloss": ""
+    },
+    {
+      "surface": "והשארת",
+      "gloss": ""
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "מבשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מלח",
+      "gloss": ""
+    },
+    {
+      "surface": "מנחה",
+      "gloss": ""
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "והאוכל",
+      "gloss": ""
+    },
+    {
+      "surface": "בבית",
+      "gloss": ""
+    },
+    {
+      "surface": "ממנו",
+      "gloss": ""
+    },
+    {
+      "surface": "ואכל",
+      "gloss": ""
+    },
+    {
+      "surface": "זר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "ושאר",
+      "gloss": ""
+    },
+    {
+      "surface": "ממנה",
+      "gloss": ""
+    },
+    {
+      "surface": "באש",
+      "gloss": ""
+    },
+    {
+      "surface": "תשרף",
+      "gloss": ""
+    },
+    {
+      "surface": "וביום",
+      "gloss": ""
+    },
+    {
+      "surface": "הביא",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "המנחה",
+      "gloss": ""
+    },
+    {
+      "surface": "בקררים",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "השאר",
+      "gloss": ""
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "המנחה",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "קודש",
+      "gloss": ""
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "והנותרת",
+      "gloss": ""
+    },
+    {
+      "surface": "ממנה",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "ובניו",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "מצות",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "במקום",
+      "gloss": ""
+    },
+    {
+      "surface": "קדש",
+      "gloss": ""
+    },
+    {
+      "surface": "בחצר",
+      "gloss": ""
+    },
+    {
+      "surface": "אהל",
+      "gloss": ""
+    },
+    {
+      "surface": "מועד",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכלוה",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "굽지"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "누룩을"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "그들의 몫으로"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 주었느니라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것(=제물)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "나의 불 제물에게서"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩한 것들의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "속죄제 같이"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "그리고 속건제 같이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "아들들 중"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론의"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "그것을 먹을 것이니"
+    },
+    {
+      "surface": "חק",
+      "gloss": "규례이니라"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨영원한⟩"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "너희 대대로"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "불 제물에게서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "자가"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "닿는"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그것들에"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "거룩하여질 것이니라"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": ""
+    },
+    {
+      "surface": "מצות",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "המצות",
+      "gloss": ""
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": ""
+    },
+    {
+      "surface": "במועד",
+      "gloss": ""
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    },
+    {
+      "surface": "בחדש",
+      "gloss": ""
+    },
+    {
+      "surface": "הראשון",
+      "gloss": ""
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": ""
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": ""
+    },
+    {
+      "surface": "בערב",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "מצות",
+      "gloss": ""
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": ""
+    },
+    {
+      "surface": "האחד",
+      "gloss": ""
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": ""
+    },
+    {
+      "surface": "בערב",
+      "gloss": ""
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "המצות",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בעצם",
+      "gloss": ""
+    },
+    {
+      "surface": "היום",
+      "gloss": ""
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "צבאתיכם",
+      "gloss": ""
+    },
+    {
+      "surface": "מארץ",
+      "gloss": ""
+    },
+    {
+      "surface": "מצרים",
+      "gloss": ""
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "היום",
+      "gloss": ""
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": ""
+    },
+    {
+      "surface": "חקת",
+      "gloss": ""
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    },
+    {
+      "surface": "בחדש",
+      "gloss": ""
+    },
+    {
+      "surface": "השביעי",
+      "gloss": ""
+    },
+    {
+      "surface": "בעשור",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": ""
+    },
+    {
+      "surface": "תנו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ביום",
+      "gloss": ""
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "יכפר",
+      "gloss": ""
+    },
+    {
+      "surface": "עליכם",
+      "gloss": ""
+    },
+    {
+      "surface": "לטהר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתכם",
+      "gloss": ""
+    },
+    {
+      "surface": "מכל",
+      "gloss": ""
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": ""
+    },
+    {
+      "surface": "לפני",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": ""
+    },
+    {
+      "surface": "והיתה",
+      "gloss": ""
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    },
+    {
+      "surface": "לחקת",
+      "gloss": ""
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    },
+    {
+      "surface": "ובעשור",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": ""
+    },
+    {
+      "surface": "השביעי",
+      "gloss": ""
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "והנותרת",
+      "gloss": ""
+    },
+    {
+      "surface": "ממנה",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "ובניו",
+      "gloss": ""
+    },
+    {
+      "surface": "מצות",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "במקום",
+      "gloss": ""
+    },
+    {
+      "surface": "קדש",
+      "gloss": ""
+    },
+    {
+      "surface": "בחצר",
+      "gloss": ""
+    },
+    {
+      "surface": "אהל",
+      "gloss": ""
+    },
+    {
+      "surface": "מועד",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכלוה",
+      "gloss": ""
+    },
+    {
+      "surface": "ושאר",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "ובניו",
+      "gloss": ""
+    },
+    {
+      "surface": "מצות",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "במקום",
+      "gloss": ""
+    },
+    {
+      "surface": "קדש",
+      "gloss": ""
+    },
+    {
+      "surface": "בחצר",
+      "gloss": ""
+    },
+    {
+      "surface": "אהל",
+      "gloss": ""
+    },
+    {
+      "surface": "מועד",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכלוה",
+      "gloss": ""
+    },
+    {
+      "surface": "והנותר",
+      "gloss": ""
+    },
+    {
+      "surface": "ממנה",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "ובניו",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "ובני",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "ובניו",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "זכר",
+      "gloss": ""
+    },
+    {
+      "surface": "בבני",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "ובניו",
+      "gloss": ""
+    },
+    {
+      "surface": "מצות",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": ""
+    },
+    {
+      "surface": "במקום",
+      "gloss": ""
+    },
+    {
+      "surface": "קדש",
+      "gloss": ""
+    },
+    {
+      "surface": "בחצר",
+      "gloss": ""
+    },
+    {
+      "surface": "אהל",
+      "gloss": ""
+    },
+    {
+      "surface": "מועד",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכלוה",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "굽지"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "누룩을"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "그들의 몫으로"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 주었느니라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것(=제물)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "나의 불 제물에게서"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩한 것들의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "속죄제 같이"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "그리고 속건제 같이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "아들들 중"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론의"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "그것을 먹을 것이니"
+    },
+    {
+      "surface": "חק",
+      "gloss": "규례이니라"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨영원한⟩"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "너희 대대로"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "불 제물에게서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "자가"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "닿는"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그것들에"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "거룩하여질 것이니라"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "그리고 ⟨…⟩ 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:09.999650548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "셰산이 자기 종 야르하에게 ⟨את⟩ 자기 딸을 아내로 주었고, 그녀가 그에게 ⟨את⟩ 아타이를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주었고"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "셰산이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 딸을"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "자기 딸"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "야르하에게"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "자기 종"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아타이를"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "아타이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:42.742660134Z",
+  "model": "glm-5.2"
+}

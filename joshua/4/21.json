@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 4:21",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그가⟩ 이스라엘 자손에게 말씀하여 이르시기를, \"내일 너희 아들들이 자기 아버지들에게 ⟨את⟩ 물어 말하기를 '이 돌들은 무엇이냐' 할 때에",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "때에"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "묻다"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "너희 아들들이"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아버지들"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "자기 아버지들에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이냐"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "이 돌들은"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:47.718171182Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 그가 ⟨את⟩ 채들을 싯팀 나무로 만들고, ⟨את⟩ 그것들을 금으로 입혔다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가 만들고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "채들을"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "그 채들"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "싯팀"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "입혔다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 그것들을",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:35.562432857Z",
+  "model": "glm-5.2"
+}

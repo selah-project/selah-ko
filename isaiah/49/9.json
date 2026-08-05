@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "말하기를, 갇힌 자들에게 \"나가라\", 어둠 속에 있는 자들에게 \"드러나라\" 하라. 그들이 길들 위에서 풀을 뜯고, 모든 민둥산이 그들의 목장이 되리라.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "갇힌 자들에게"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "나가라"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "자들에게"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "어둠 속에 있는"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "드러나라"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "길들"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "풀을 뜯고"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "민둥산이"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "그들의 목장이 되리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:21.909360462Z",
+  "model": "glm-5.2"
+}

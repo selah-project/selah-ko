@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "백성이 모셰와 다투며 말하여 이르기를, '우리 형제들이 야훼 앞에서 죽었을 때 우리도 죽었더라면!' 하였다.",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "다투며"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "～와"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "오, ～라면"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "죽었더라면"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "죽었을 때"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "형제들이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:34.954562568Z",
+  "model": "glm-5.2"
+}

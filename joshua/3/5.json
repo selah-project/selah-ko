@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "여호수아가 백성에게 말하였다. “스스로 거룩하게 하라. 내일 야훼가 너희 가운데서 놀라운 일들을 행하실 것이다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "스스로 거룩하게 하라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대신"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "너희 가운데서"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "놀라운 일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:08:37.183563059Z",
+  "model": "glm-5.2"
+}

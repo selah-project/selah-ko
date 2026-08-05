@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "요나가 그 성읍에 들어가기 시작하였으니 하룻길이었다. 그가 외치며 말하였다. “아직 사십 일이면 니느웨가 뒤집어진다.”",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "시작하였다"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나가"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "들어가기"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성읍에"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "길이었다"
+    },
+    {
+      "surface": "יום",
+      "gloss": "하룻"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "—"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "외치며"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일이면"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "니느웨가"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "뒤집어진다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:57.063112771Z",
+  "model": "glm-5.2"
+}

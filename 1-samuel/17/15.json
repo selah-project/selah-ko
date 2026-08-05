@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 다윗은 샤울에게서 가고 돌아오며, 베이트 레헴에서 ⟨그⟩ 아버지의 양 ⟨את⟩ 떼를 치고 있었다.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "그리고 다윗은"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "돌아오며"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "—에게서"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "떼를 치고 있었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "양"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "레헴"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:23.998516742Z",
+  "model": "glm-5.2"
+}

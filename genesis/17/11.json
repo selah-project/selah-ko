@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "\"너희는 ⟨את⟩ 너희 포피의 살을 할례하라. 그것이 나와 너희 사이의 브리트의 표징이 될 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "너희는 할례하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 포피의 살을"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "살을"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "너희 포피의"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그것이 될 것이다"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "표징이"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트의"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "나와"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "너희 사이의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:04.619746417Z",
+  "model": "glm-5.2"
+}

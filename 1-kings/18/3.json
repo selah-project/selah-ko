@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "아하압이 그 집을 관할하는 오바댜후를 불렀다. ⟨그리고⟩ 오바댜후는 ⟨את⟩ 야훼를 심히 경외하였다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하압이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "오바댜후를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그런데⟩ ⟨그는⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "관할하는"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집을"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "그리고 오바댜후는"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨이었다⟩"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "경외하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:16.246472438Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 코헨이 야훼 앞에 ⟨그것들을⟩ 가져올 것이다. 그리고 ⟨את⟩ 그의 하타트와 ⟨את⟩ 그의 올라가는 제물을 행할 것이다.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "그리고 가져올 것이다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 행할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 하타트"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "그의 하타트"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 올라가는 제물을"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "그의 올라가는 제물을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:01.000328241Z",
+  "model": "glm-5.2"
+}

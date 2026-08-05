@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그녀가 자기 여주인에게 말하였다. \"아, 나의 주인께서 그 샤론에 계신 나비 앞에 계셨더라면, 그가 ⟨את⟩ 그를 그의 나병에서 거두어 주셨을 것을!\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "자기 여주인"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "아, …하였더라면"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "나의 주인"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩ ⟨것이⟩"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "샤론에"
+    },
+    {
+      "surface": "אז",
+      "gloss": "그때"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "거두어 주셨을"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "그의 나병에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:24.292367389Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "악을 행하는 자들은 끊어질 것이니, 야훼를 기다리는 자들은 그들이 땅을 상속할 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "악을 행하는 자들은"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "끊어질 것이니"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "그리고 기다리는 자들은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "상속할 것이다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:40.696258300Z",
+  "model": "glm-5.2"
+}

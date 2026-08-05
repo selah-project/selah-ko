@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그녀가 다시 낳았으니 ⟨그의⟩ 형제 ⟨את⟩ 하벨을. 하벨은 양 떼를 치는 자였고, 카인은 땅을 갈는 자였다.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "다시 낳았으니"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "낳기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "형제"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하벨"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "하벨"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "였고"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "하벨은"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "치는 자"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양 떼를"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "카인은"
+    },
+    {
+      "surface": "היה",
+      "gloss": "였다"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "갈는 자"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:16.049246035Z",
+  "model": "glm-5.2"
+}

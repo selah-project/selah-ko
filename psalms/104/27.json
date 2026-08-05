@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "그들 모두가 당신을 향해 바라며, 때에 맞추어 그들에게 먹이를 주시기를 ⟨기다린다⟩.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "그들 모두가"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신을 향해"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "바라며"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주시기를"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "먹이를"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "때에 맞추어"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:51.575628359Z",
+  "model": "glm-5.2"
+}

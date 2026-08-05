@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨את⟩ 돼지는 — 그것은 굽을 가르나 새김질을 하지 않으므로, 그것은 너희에게 부정하다. 그 고기를 먹지 말며, 그 주검을 만지지 말라.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "돼지"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "그 돼지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대체로"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "가르나"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "굽을"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 ~아니"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "새김질을"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "부정한"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "그 고기를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희는 먹을 것이다"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "그리고 그 주검을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "너희는 만질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:37.353831578Z",
+  "model": "glm-5.2"
+}

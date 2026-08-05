@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨그⟩ 사람이 자기 아내의 이름을 하와라 불렀으니, 그가 모든 생명의 어미였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 불렀다"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨그⟩ 사람이"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "자기 아내의"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "하와라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "불순종하였으므로"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "이었다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "어미"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חי",
+      "gloss": "생명의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:50.666747356Z",
+  "model": "glm-5.2"
+}

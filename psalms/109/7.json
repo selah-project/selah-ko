@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "판결받을 때에 ⟨그가⟩ 악인으로 나가게 하시고, 그의 기도가 죄가 되게 하소서.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "판결받을 때에"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나가게 하시고"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인으로"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "그의 기도가"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "되게 하소서"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "죄가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:49.718635503Z",
+  "model": "glm-5.2"
+}

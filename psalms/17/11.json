@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "우리의 걸음 — 이제 그들이 나를 에워쌌다 — 그들의 눈이 땅으로 기울이려고 정하였다.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "우리의 걸음"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "그들이 나를 에워쌌다"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "그들의 눈이"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "정하였다"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "기울이려고"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:33.317541110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 뜰의 너비는 동쪽, 해 뜨는 쪽으로 오십 규빗이다.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "그리고 너비는"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰의"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "…쪽으로"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "해 뜨는 쪽"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "규빗이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:29.820030344Z",
+  "model": "glm-5.2"
+}

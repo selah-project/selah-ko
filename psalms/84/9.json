@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "야훼 엘로힘 체바옷, ⟨저의⟩ 기도를 들으소서. 들어 주소서, 야곱의 엘이시여. 셀라.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "체바옷 (만군)"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "들으소서"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "⟨저의⟩ 기도를"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "들어 주소서"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘이시여"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:19.131025039Z",
+  "model": "glm-5.2"
+}

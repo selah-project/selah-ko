@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "이스라엘 자손에게 명하여 그들이 너에게 ⟨순결한⟩ 찧은 올리브 기름을 등불을 위해 가져오게 하라 — ⟨그것으로⟩ 네가 ⟨את⟩ 등불을 끊임없이 밝히게 하려 함이다.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "명하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 가져오게 하라"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름을"
+    },
+    {
+      "surface": "זית",
+      "gloss": "올리브"
+    },
+    {
+      "surface": "זך",
+      "gloss": "순결한"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "찧은"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "등불을 위해"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "밝히게 하려 함"
+    },
+    {
+      "surface": "נר",
+      "gloss": "등불을"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "끊임없이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:48.407955493Z",
+  "model": "glm-5.2"
+}

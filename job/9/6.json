@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 9:6",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "⟨그분은⟩ 땅을 그 자리에서 흔드시며, 그것의 기둥들이 떨리게 하신다.",
+  "tokens": [
+    {
+      "surface": "המרגיז",
+      "gloss": "흔드시는 ⟨그분⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "그 자리에서"
+    },
+    {
+      "surface": "ועמודיה",
+      "gloss": "그리고 그것의 기둥들이"
+    },
+    {
+      "surface": "יתפלצון",
+      "gloss": "떨리게 하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:37.542749536Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "슈무엘이 일어나 길갈에서 베냐민의 기브아로 올라갔다. 그리고 샤울은 자기와 함께 있는 ⟨את⟩ 백성을 점검하였으니 — ⟨약⟩ 육백 명이었다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘이"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "길갈"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "기브아로"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "베냐민의"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "점검하였으니"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "있는"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "자기와 함께"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "약"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:26:22.567137577Z",
+  "model": "glm-5.2"
+}

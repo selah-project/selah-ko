@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그가 자기 마음에 말하되, \"나는 흔들리지 아니하리니, 대대로 재앙에 있지 아니하리라\" ⟨한다⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "자기 마음에"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "흔들리지"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "대대로"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "이리하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "재앙에 있지"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:43.167252364Z",
+  "model": "glm-5.2"
+}

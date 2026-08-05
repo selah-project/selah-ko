@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그가 말하였다. \"당신을 사랑합니다, 야훼, 나의 힘이시여.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "당신을 사랑합니다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "나의 힘이시여"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:09.340796080Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 16:25",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "모든 길머리에 너는 네 높은 곳을 세웠고, 너는 ⟨את⟩ 네 아름다움을 가증하게 만들었으며, 지나가는 모든 자에게 너는 ⟨את⟩ 네 다리를 벌렸고, 너는 ⟨את⟩ 네 음란을 늘렸다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "בנית",
+      "gloss": "세웠다"
+    },
+    {
+      "surface": "רמתך",
+      "gloss": "네 높은 곳"
+    },
+    {
+      "surface": "ותתעבי",
+      "gloss": "가증하게 만들었으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 아름다움을"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "네 아름다움"
+    },
+    {
+      "surface": "ותפשקי",
+      "gloss": "벌렸으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 다리를"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "네 다리"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "…에 모든"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "지나가는 자"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "늘렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 음란을"
+    },
+    {
+      "surface": "תזנתך",
+      "gloss": "네 음란"
+    }
+  ],
+  "timestamp": "2026-08-05T10:51:47.971030554Z",
+  "model": "glm-5.2"
+}

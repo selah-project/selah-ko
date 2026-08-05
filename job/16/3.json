@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 16:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "바람의 말들에 끝이 ⟨있느냐⟩? 아니면 무엇이 너를 재촉하기에 네가 대답하느냐?",
+  "tokens": [
+    {
+      "surface": "הקץ",
+      "gloss": "끝이"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "…의 말들에"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람(루아흐)의"
+    },
+    {
+      "surface": "או",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "ימריצך",
+      "gloss": "너를 재촉하기에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…이기에"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "네가 대답하느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:03.599996705Z",
+  "model": "glm-5.2"
+}

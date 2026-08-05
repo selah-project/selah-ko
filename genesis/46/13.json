@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그리고 잇사스카르의 아들들은 톨라와 푸바와 요브와 시므론이다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 …의 아들들"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "잇사스카르"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "톨라"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "그리고 푸바"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "그리고 요브"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "그리고 시므론"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:20.748843595Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 아하론이 ⟨את⟩ 속죄 제물 수소를 — 자신의 것을 — 가까이 가져갈 것이며, 그리고 그가 자신과 자신의 집안을 위하여 속죄할 것이다.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "그리고 가까이 가져갈 것이다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "속죄 제물 수소를"
+    },
+    {
+      "surface": "פר",
+      "gloss": "수소를"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "속죄 제물의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자신의 것을"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "그리고 속죄할 것이다"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "자신을 위하여"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "그리고 ~을 위하여"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자신의 집안을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:12.612425716Z",
+  "model": "glm-5.2"
+}

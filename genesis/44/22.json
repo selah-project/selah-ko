@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 우리가 내 주에게 말씀드리기를, “그 젊은이가 ⟨את⟩ 자기 아버지를 떠날 수 없나이다. 만일 ⟨그가⟩ ⟨את⟩ 자기 아버지를 떠나면, ⟨그가⟩ 죽으리이다” 하였나이다.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "그리고 우리가 말하였기"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "능히 할 수"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "그 젊은이가"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "떠나는 것을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아버지를"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지를"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "그리고 떠나면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아버지를"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지를"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "그리고 죽으리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:36.226536002Z",
+  "model": "glm-5.2"
+}

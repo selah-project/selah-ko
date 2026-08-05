@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리하여 하난야 ⟨그⟩ 나비가 예레미야 ⟨그⟩ 나비의 목에서 ⟨את⟩ 그 멍에를 취하고, 그것을 부러뜨렸다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리하여 … 취하고,"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "하난야"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨그⟩ 나비가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 멍에를"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "그 멍에를"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "목"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "예레미야"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨그⟩ 나비의"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "그것을 부러뜨렸다."
+    }
+  ],
+  "timestamp": "2026-08-05T18:38:25.612589085Z",
+  "model": "glm-5.2"
+}

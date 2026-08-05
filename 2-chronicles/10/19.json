@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 이스라엘이 다윗의 집을 거역하였다, 이 날까지.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "그리고 거역하였다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…의 집을"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "이 날"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:15.737233687Z",
+  "model": "glm-5.2"
+}

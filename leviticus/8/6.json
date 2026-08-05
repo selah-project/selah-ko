@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "모셰가 ⟨את⟩ 아하론과 ⟨את⟩ 그의 아들들을 가까이 데려오고, 물로 그들을 씻겼다.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "가까이 데려오고"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아하론"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들을"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "씻겼다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:07.007038402Z",
+  "model": "glm-5.2"
+}

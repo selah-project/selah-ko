@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "만일 그가 자기의 코르반으로 어린 양을 가까이 가져오는 자라면, 그것을 야훼의 면전으로 가까이 가져온다.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "כֶּ֥שֶׂב",
+      "gloss": "어린 양"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "מַקְרִ֖יב",
+      "gloss": "가까이 가져오는 자"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "자기의 코르반"
+    },
+    {
+      "surface": "קָרְבָּנ֑וֹ",
+      "gloss": "자기의 코르반"
+    },
+    {
+      "surface": "וְהִקְרִ֥יב",
+      "gloss": "그리고 가까이 가져온다"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩ 그것을",
+      "marks": "그것"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "면전으로"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:11:32.356762631Z",
+  "model": "glm-5.2"
+}

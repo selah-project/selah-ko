@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "너의 태생을 두고 말하자면, 네가 태어나던 날에 ⟨את⟩ 너를 낳을 때에 네 탯줄을 자르지 아니하였고, 물로 씻기지 아니하였으며, 청결하게 함을 위하여, 소금으로 문지르지 아니하였고, 천으로 싸지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "너의 태생을"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "태어나던"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "너를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "자르지"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "네 탯줄을"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "물로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였으며"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "씻기지"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "청결하게 함을 위하여"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "소금으로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "문지르지"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "천으로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "싸지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:51:14.233239285Z",
+  "model": "glm-5.2"
+}

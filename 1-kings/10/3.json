@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "셸로모가 그녀에게 ⟨את⟩ 그녀의 모든 말을 알려주었는데, 왕께서 그녀에게 알려주지 않으신 ⟨것⟩으로 왕께서 숨기신 말이 하나도 없었다.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알려주셨다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 모든 말을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "그녀의 말을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말이"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "숨겨진"
+    },
+    {
+      "surface": "מן",
+      "gloss": "으로부터"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩으로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "알려주셨다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:43.328601573Z",
+  "model": "glm-5.2"
+}

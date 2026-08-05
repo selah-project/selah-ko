@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그 가는 이삭들이 ⟨את⟩ 일곱 좋은 이삭들을 삼켰다. 그리고 내가 술객들에게 말하였으나, 내게 알려 주는 자가 없었다.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "그리고 그것들이 삼켰다"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "이삭들이"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "가는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "일곱 좋은 이삭들을"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "이삭들을"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 내가 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～에게"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "술객들"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 ～없었다"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "알려 주는 자"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:57.707691739Z",
+  "model": "glm-5.2"
+}

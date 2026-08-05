@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 야완의 아들들: 엘리샤, 타르쉬샤, 키티, 로다님.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 아들들"
+    },
+    {
+      "surface": "יון",
+      "gloss": "야완"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "엘리샤"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "타르쉬샤"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "키티"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "로다님"
+    }
+  ],
+  "timestamp": "2026-08-05T12:39:59.145001749Z",
+  "model": "glm-5.2"
+}

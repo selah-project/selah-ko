@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "아도나이 우리 엘로힘께 ⟨는⟩ 긍휼과 사죄가 속하시나, 우리가 그에게 반역하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לאדני",
+      "gloss": "아도나이께"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘"
+    },
+    {
+      "surface": "הרחמים",
+      "gloss": "긍휼들"
+    },
+    {
+      "surface": "והסלחות",
+      "gloss": "그리고 사죄들"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מרדנו",
+      "gloss": "우리가 반역하였다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:29:13.648189149Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "지휘자에게. 야훼의 종 다윗에게.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "종에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:00.378120059Z",
+  "model": "glm-5.2"
+}

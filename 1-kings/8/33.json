@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 8:33",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "당신의 백성 이스라엘이 — 그들이 당신께 죄를 지었으므로 — 적 앞에서 치임을 당할 때에, 그들이 당신께로 돌아와 ⟨את⟩ 당신의 이름을 찬양하고, 이 ⟨이⟩ 성전에서 당신께 기도하며 간구하면",
+  "tokens": [
+    {
+      "surface": "בהנגף",
+      "gloss": "치임을 당할 때에"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "적"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יחטאו",
+      "gloss": "그들이 죄를 지었으므로"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신께"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "그들이 돌아와"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신께로"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "찬양하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 이름"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "당신의 이름을"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "기도하며"
+    },
+    {
+      "surface": "והתחננו",
+      "gloss": "간구하면"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신께"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "성전에서"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:00.463513456Z",
+  "model": "glm-5.2"
+}

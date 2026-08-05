@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "새벽이 밝아올 때 말라킴들이 롯을 재촉하여 말하기를 일어나 ⟨את⟩ 아내와 ⟨את⟩ 두 딸, 거기 있는 ⟨자들을⟩ 데리고 가라, 그렇지 않으면 그 도시의 죄악에서 네가 쓸려가리라 하였다.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "때에"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "새벽이"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "밝아올"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "재촉하여"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "말라킴들이"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "롯을"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "קום",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "קח",
+      "gloss": "데리고 가라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아내"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "아내와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "두 딸"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "딸,"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "거기 있는"
+    },
+    {
+      "surface": "פן",
+      "gloss": "그렇지 않으면"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "쓸려가리라"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "죄악에서"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "도시의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:42:45.171747596Z",
+  "model": "glm-5.2"
+}

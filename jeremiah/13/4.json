@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "\"네가 사서 허리에 두른 ⟨את⟩ 그 띠를 가져, 일어나 페라트(유브라데)로 가서, 거기 바위 틈새에 그것을 숨겨라.\"",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "가져"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 띠를"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "그 띠"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "를"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "네가 산"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "네 허리"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "페라트로"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "숨겨라"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "틈새에"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "바위"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:44.486493776Z",
+  "model": "glm-5.2"
+}

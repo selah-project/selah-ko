@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "몫대로 몫을 먹을 것이다 — 그의 조상들 ⟨에 관한⟩ 그의 팔린 것들과는 별도로.",
+  "tokens": [
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "몫"
+    },
+    {
+      "surface": "כְּחֵ֖לֶק",
+      "gloss": "몫대로"
+    },
+    {
+      "surface": "יֹאכֵ֑לוּ",
+      "gloss": "먹을 것이다"
+    },
+    {
+      "surface": "לְבַ֥ד",
+      "gloss": "별도로"
+    },
+    {
+      "surface": "מִמְכָּרָ֖יו",
+      "gloss": "그의 팔린 것들과는"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨에 관한⟩"
+    },
+    {
+      "surface": "הָאָבֽוֹת",
+      "gloss": "조상들"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:00.671308155Z",
+  "model": "glm-5.2"
+}

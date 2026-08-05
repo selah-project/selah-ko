@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 14:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 츠르의 왕 히람이 사자들을 다윗에게 보내었고, 레바 나무와 돌장이들과 나무장이들을 보내어 그를 위해 집을 짓게 하였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내었다"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "히람이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "צר",
+      "gloss": "츠르의"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "사자들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～에게"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "그리고 ～의 나무"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "레바"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "그리고 장이들"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "돌"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "그리고 장이들"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "나무"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "짓게 하려고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를 위해"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:01.198371608Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 미츠라임은 ⟨את⟩ 루딤과 ⟨את⟩ 아나밈과 ⟨את⟩ 레하빔과 ⟨את⟩ 납투힘을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "그리고 미츠라임은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "루딤"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "루딤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아나밈"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "아나밈"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "레하빔"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "레하빔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "납투힘"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "납투힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:36.432527132Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그가 말하였다. \"그녀를 부르라.\" 그가 그녀를 부르니, 그녀가 문어귀에 서 있었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "부르라"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀를"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그가 부르니"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀를"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "그녀가 서 있었다"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "문어귀에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:20.276814641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들은 엘로힘의 브리트를 지키지 아니하였고, 그의 토라 안에서 걷기를 거부하였다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "지키지"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "그의 토라 안에서"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "거부하였다"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "걷기를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:27.115119022Z",
+  "model": "glm-5.2"
+}

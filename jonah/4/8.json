@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 4:8",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "해가 떠오를 때에 엘로힘이 질풍 동풍을 지정하셨고, 해가 요나의 머리를 치니 그가 실신하여 ⟨자기⟩ ⟨את⟩ 네페쉬를 구하여 죽기를 원하였다. 그가 말하였다. '내 죽음이 내 삶보다 낫다.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "～때에"
+    },
+    {
+      "surface": "כזרח",
+      "gloss": "떠오를"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해가"
+    },
+    {
+      "surface": "וימן",
+      "gloss": "지정하셨고"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람을"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "동풍"
+    },
+    {
+      "surface": "חרישית",
+      "gloss": "질풍"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "치니"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해가"
+    },
+    {
+      "surface": "על",
+      "gloss": "～을"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나의"
+    },
+    {
+      "surface": "ויתעלף",
+      "gloss": "실신하여"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "구하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네페쉬"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "למות",
+      "gloss": "죽기를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "내 죽음이"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "내 삶보다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:59.947245200Z",
+  "model": "glm-5.2"
+}

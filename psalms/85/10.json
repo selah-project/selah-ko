@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "진실로 ⟨그의⟩ 구원은 그를 경외하는 자들에게 가깝고, 영광이 우리 땅에 머물기 위함이다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "진실로"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "가깝고"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "그를 경외하는 자들에게"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "그의 구원은"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "머물기 위함이다"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "우리 땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:16.417723731Z",
+  "model": "glm-5.2"
+}

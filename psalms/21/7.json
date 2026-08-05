@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "당신이 그를 영원한 복들로 세우시기 때문이다. 당신의 ⟨את⟩ 얼굴(임현)로 기쁨을 그에게 주셨다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "당신이 그를 세우시기"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "복들로"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "기쁨을 주셨다"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "기쁨으로 (중복 강조)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 얼굴(임현)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "당신의 얼굴(임현)"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:02.110338638Z",
+  "model": "glm-5.2"
+}

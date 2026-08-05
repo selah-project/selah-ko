@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "야훼, ⟨그가⟩ 만민을 심판하신다. 나를 심판하소서, 야훼, 나의 의와 나의 온전함에 따라 ⟨그것이⟩ 나 위에.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "심판하신다"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "만민을"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "나를 심판하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "나의 의에 따라"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "그리고 나의 온전함에"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:43.997472017Z",
+  "model": "glm-5.2"
+}

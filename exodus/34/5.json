@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야훼께서 구름 가운데 내려오셔서, 그와 함께 거기에 서시고, 야훼의 이름으로 부르셨다.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "내려오셔서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "구름 가운데"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "서시고"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "부르셨다"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:57.447309586Z",
+  "model": "glm-5.2"
+}

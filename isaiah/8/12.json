@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "너희는 '음모'라고 말하지 말라, 이 백성이 '음모'라고 말하는 모든 것에 대하여. 그리고 ⟨את⟩ 그것의 두려움을 너희는 두려워하지 말며, 그리고 떨지 말라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "너희는 말하지"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "음모"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든 것에 대하여"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…라는"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "말하는"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "음모"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 두려움을"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "그것의 두려움"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "너희는 두려워하지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "너희는 떨지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:22.501335105Z",
+  "model": "glm-5.2"
+}

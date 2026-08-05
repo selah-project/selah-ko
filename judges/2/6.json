@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 여호수아가 ⟨את⟩ 백성을 보내매, 이스라엘의 아들들이 각기 자기 기업으로 가서 ⟨את⟩ 그 땅을 차지하였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내매"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "그리고 가서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각기"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "자기 기업으로"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "차지하려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:17.707634066Z",
+  "model": "glm-5.2"
+}

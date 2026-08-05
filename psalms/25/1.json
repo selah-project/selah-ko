@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "다윗의 ⟨시⟩. 야훼여, ⟨제⟩ 네페쉬를 ⟨아버시나이다⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨아버시나이다⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨제⟩ 네페쉬를"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "⟨아버시나이다⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:55.013719388Z",
+  "model": "glm-5.2"
+}

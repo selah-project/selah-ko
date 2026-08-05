@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그것은 아브라함이 내 음성을 들었고 나의 지킴을 지켰기 때문이다 — 나의 미츠바이, 나의 후카이, 나의 토라이.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "그것은 … 때문이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들었고"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "내 음성을"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "지켰기"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "나의 지킴을"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "나의 미츠바이"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "나의 후카이"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "나의 토라이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:15.181433936Z",
+  "model": "glm-5.2"
+}

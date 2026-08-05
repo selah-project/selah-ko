@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "다윗이 그 날에 ⟨את⟩ 야훼를 두려워하였다. 그가 말하기를, \"어찌 야훼의 언약궤가 내게로 오랴?\" 하였다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "두려워하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "איך",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "오랴"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "언약궤가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:24.466684960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 113,
+  "translation": "누가 야훼 우리 엘로힘 같은가, 높이 앉으시려고 ⟨그⟩ 자리를 드높이시는 그분?",
+  "tokens": [
+    {
+      "surface": "מִ֭י",
+      "gloss": "누가"
+    },
+    {
+      "surface": "כַּיהוָ֣ה",
+      "gloss": "야훼 같은가"
+    },
+    {
+      "surface": "אֱלֹהֵ֑ינוּ",
+      "gloss": "우리 엘로힘"
+    },
+    {
+      "surface": "הַֽמַּגְבִּיהִ֥י",
+      "gloss": "드높이시는"
+    },
+    {
+      "surface": "לָשָֽׁבֶת",
+      "gloss": "앉으시려고"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:51.350628746Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "내가 그에게 ⟨⟨수만⟩⟩으로 나의 토라의 것들을 기록하였으나, 낯선 것으로 여겨졌다.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "내가 기록하였다"
+    },
+    {
+      "surface": "ל֔וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "수만으로"
+    },
+    {
+      "surface": "תּֽוֹרָתִ֑י",
+      "gloss": "나의 토라의"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "…처럼"
+    },
+    {
+      "surface": "זָ֖ר",
+      "gloss": "낯선 것"
+    },
+    {
+      "surface": "נֶחְשָֽׁבוּ",
+      "gloss": "여겨졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:24:16.340682907Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 너는 이것들로부터 만들어져 야훼께 드리는 ⟨את⟩ 그 민하를 가져오고, ⟨그것을⟩ 코헨에게로 가져가며, ⟨그것을⟩ 제단으로 가져다 놓아야 한다.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "그리고 너는 가져오고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 민하를"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "그 민하를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "만들어져"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "이것들로부터"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "그리고 가져가며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "그리고 가져다 놓아야 한다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:32.890008978Z",
+  "model": "glm-5.2"
+}

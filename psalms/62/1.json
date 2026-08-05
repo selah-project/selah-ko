@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 62,
+  "translation": "지휘자에게, 옌두툰에 맞추어. 다윗의 미즈모르.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에 맞추어"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "옌두툰"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "미즈모르"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:30.349795966Z",
+  "model": "glm-5.2"
+}

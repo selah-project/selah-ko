@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "보라, 축복을 내가 받았으니, 그가 축복하셨으므로 나는 그것을 거두지 못한다.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "축복을"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "내가 받았으니"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "그가 축복하셨으므로"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "못한다"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "나는 그것을 거두지"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:17.509795044Z",
+  "model": "glm-5.2"
+}

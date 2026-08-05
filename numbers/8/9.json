@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 너는 ⟨את⟩ 레위인들을 만남의 장막 앞으로 가까이 가져오고, 온 이스라엘 자손들의 회중을 모아야 한다.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "가까이 가져오고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레위인들을"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위인들을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막의"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "모아야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 회중을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "회중을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:32:47.712577609Z",
+  "model": "glm-5.2"
+}

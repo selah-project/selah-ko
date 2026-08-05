@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "내가 쇼메론과 그것의 우상들에게 행한 것 같이, 예루샬라임과 그것의 우상들에게도 그같이 행하지 아니하겠느냐?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "…아니겠느냐"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 것같이"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "내가 행한"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "쇼메론과"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "그것의 우상들에게"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "행하지"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "예루샬라임과"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "그것의 우상들에게도"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:22.829797953Z",
+  "model": "glm-5.2"
+}

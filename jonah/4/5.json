@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 4:5",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "요나가 그 성에서 나가 성 동쪽에 앉아 거기 자기를 위하여 숙를 만들고, ⟨그⟩ 그늘 아래 앉아 ⟨그⟩ 성에 무슨 일이 일어나는지 보기까지 ⟨기다리였다⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나가"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나가"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "앉아"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "동쪽에"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "성 ～의"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "만들고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위하여"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "סכה",
+      "gloss": "숙를"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "앉아"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "그 아래"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "그늘"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～까지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～하는"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "보기"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무슨"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "일어나는지"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:59.946794437Z",
+  "model": "glm-5.2"
+}

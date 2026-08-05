@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "야훼께서 이스라엘을 향해 진노하시어, 그들을 아람 왕 하사엘의 손에, 그리고 하사엘의 아들 벤하닷의 손에, 모든 날 동안 내주셨다.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "진노하셨다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "노여움이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘을 향해"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "그들을 내주셨다"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…의 손에"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "하사엘"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "그리고 …의 손에"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하닷"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "하사엘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날들"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:50.343553333Z",
+  "model": "glm-5.2"
+}

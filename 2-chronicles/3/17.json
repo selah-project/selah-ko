@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그가 ⟨את⟩ 기둥들을 성전 앞면에 세웠다 — 하나는 오른편에, 하나는 왼편에. 오른편 것의 이름을 야킨이라 하고, 왼편 것의 이름을 보아즈라 하였다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "그가 세웠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기둥들을"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "기둥들을"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "앞면에"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "성전"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나는"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "오른편에"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "하나는"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "왼편에"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그가 이름을 …라 하였다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "오른편 것의"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "야킨"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "왼편 것의"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "보아즈"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:41.484114141Z",
+  "model": "glm-5.2"
+}

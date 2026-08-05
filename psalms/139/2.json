@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "⟨당신은⟩ 나의 앉음과 나의 일어남을 아시고, 나의 생각을 멀리서부터 분별하셨다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "⟨당신은⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아시고"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "나의 앉음을"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "나의 일어남을"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "분별하셨다"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "나의 생각을"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "멀리서부터"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:26.854338640Z",
+  "model": "glm-5.2"
+}

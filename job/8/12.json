@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "⟨그것이⟩ 아직 푸를 때에 꺾이지 아니하여도, 온갖 풀보다 먼저 마른다.",
+  "tokens": [
+    {
+      "surface": "עֹדֶ֣נּוּ",
+      "gloss": "아직"
+    },
+    {
+      "surface": "בְ֭אִבּוֹ",
+      "gloss": "푸를 때에"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니하여도"
+    },
+    {
+      "surface": "יִקָּטֵ֑ף",
+      "gloss": "꺾이지"
+    },
+    {
+      "surface": "וְלִפְנֵ֖י",
+      "gloss": "먼저"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "온갖"
+    },
+    {
+      "surface": "חָצִ֣יר",
+      "gloss": "풀보다"
+    },
+    {
+      "surface": "יִיבָֽשׁ",
+      "gloss": "마른다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:24.099268942Z",
+  "model": "glm-5.2"
+}

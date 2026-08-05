@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "엘리야후가 ⟨את⟩ 자기의 아데렛을 취하여 그것을 말아 ⟨쥐고⟩, ⟨את⟩ 그 물을 쳤더니, 이리저리 갈라졌다. 그리고 ⟨그⟩ 둘이 마른 땅으로 건너갔다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "엘리야후가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기의 아데렛을"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "자기의 아데렛을"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "그것을 말아"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "쳤더니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 물을"
+    },
+    {
+      "surface": "המים",
+      "gloss": "그 물을"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "갈라졌다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "이리"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "저리"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "건너갔다"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "⟨그⟩ 둘이"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "마른 땅으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:20:02.082581454Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"나는 ⟨את⟩ 이 백성을 보았는데, 보라, 목이 뻣뻣한 백성이다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "나는 보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "뻣뻣한"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "목"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨이다⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:39.800668450Z",
+  "model": "glm-5.2"
+}

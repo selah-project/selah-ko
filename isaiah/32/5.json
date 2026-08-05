@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "더 이상 네발에게 관대한 자라 불리지 않으며, 옹졸한 자에게 고귀하다 불리지 않는다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "불리지 않는다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더 이상"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "네발에게"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "관대한 자"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "그리고 옹졸한 자에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "말해지지 않는다"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "고귀하다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:01.832491467Z",
+  "model": "glm-5.2"
+}

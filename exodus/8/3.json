@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "술객들이 그들의 비술로 그같이 행하여, ⟨את⟩ 개구리들이 미츠라임 땅 위로 올라오게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "행하여"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "술객들이"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "그들의 비술로"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "올라오게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "개구리들이"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "개구리들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:56.137682340Z",
+  "model": "glm-5.2"
+}

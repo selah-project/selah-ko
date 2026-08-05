@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "어찌하여 그녀의 울타리들을 뚫어버리셨습니까, 그리하여 길을 지나가는 모든 자가 그녀를 뜯어먹게 되었습니까?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "뚫어버리셨습니까"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "그녀의 울타리들을"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "그리하여 뜯어먹게 되었습니까"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "지나가는"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:17.231159404Z",
+  "model": "glm-5.2"
+}

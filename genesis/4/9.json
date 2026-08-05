@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "야훼께서 카인에게 말씀하셨다. \"네 형제 헤벨은 어디 있느냐?\" 그가 말하였다. \"모릅니다. 제가 제 형제의 지키는 자입니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "קין",
+      "gloss": "카인"
+    },
+    {
+      "surface": "אי",
+      "gloss": "어디"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헤벨"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "알았다"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "지키는 자"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "제 형제"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "저입니까"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:07.618891285Z",
+  "model": "glm-5.2"
+}

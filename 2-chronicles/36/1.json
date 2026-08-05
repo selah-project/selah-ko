@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 그 땅의 백성이 ⟨את⟩ 예호아하즈를 — 요시야후의 아들 — 취하여, 그의 아버지 대신 예루샬라임에서 그를 왕으로 세웠다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "그리고 …취하였다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예호아하즈를"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "예호아하즈"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "요시야후의"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "그리고 …왕으로 세웠다"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:04:16.703110208Z",
+  "model": "glm-5.2"
+}

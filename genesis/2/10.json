@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "강 하나가 에덴에서 흘러나와 동산을 물대기 위하여 ⟨את⟩ 그것을 적시고, 거기서부터 갈라져 네 갈래가 되었다.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "그리고 강"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "흘러나와"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "에덴에서"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "물대기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "동산"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "동산"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "그리고 거기서부터"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "갈라져"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "네"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "갈래"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:46.983984264Z",
+  "model": "glm-5.2"
+}

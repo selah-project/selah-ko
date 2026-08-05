@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "거기서 그들이 ⟨את⟩ 아브라함과 ⟨את⟩ 그의 아내 사라를 묻었고, 거기서 그들이 ⟨את⟩ 이쯔하크와 ⟨את⟩ 그의 아내 리브카를 묻었고, 그리고 거기서 내가 ⟨את⟩ 레아를 묻었다.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "그들이 묻었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브라함"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "사라"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "사라를"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "그들이 묻었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이쯔하크"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이쯔하크를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "리브카"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "리브카를"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "그리고 거기서"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "내가 묻었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레아"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "레아를"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:07.004896398Z",
+  "model": "glm-5.2"
+}

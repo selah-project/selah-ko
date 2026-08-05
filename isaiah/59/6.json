@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "그들의 거미줄은 옷이 되지 못하고, 그들은 자기 행위로 덮이지 못한다. 그들의 행위는 불의한 행위이고, 폭력의 행위가 그들의 손에 있다.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "그들의 거미줄"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "되다"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "옷으로"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니다"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "덮이다"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "그들의 행위로"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "그들의 행위는"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "행위"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "그리고 행위"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "그들의 손에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:37.370213610Z",
+  "model": "glm-5.2"
+}

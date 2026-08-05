@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "그분의 힘을, 당신에게 나는 지키리다; 엘로힘은 나의 높은 요새이시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "그분의 힘을"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "나는 지키리다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘은"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "나의 높은 요새이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:20.019697943Z",
+  "model": "glm-5.2"
+}

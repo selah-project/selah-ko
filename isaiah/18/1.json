@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "오, 날개 치는 소리의 땅이여, 쿠쉬의 강들 너머에 있는 ⟨곳이여⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "오"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이여"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "치는 소리의"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "날개"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그곳에⟩ 있는"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "너머에"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "강들"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "쿠쉬의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:27.336131016Z",
+  "model": "glm-5.2"
+}

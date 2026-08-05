@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "나를 눈동자같이 지키시고, 주의 날개 그늘 ⟨아래⟩ 나를 숨기소서.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "나를 … 지키시고"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "눈동자같이"
+    },
+    {
+      "surface": "בת",
+      "gloss": "… 의"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "그늘 ⟨아래⟩"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "주의 날개"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "나를 숨기소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:46.235698570Z",
+  "model": "glm-5.2"
+}

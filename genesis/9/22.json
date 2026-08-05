@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "쿠쉬의 아버지 케나안이 ⟨את⟩ ⟨그의⟩ 아버지의 벌거벗음을 보고, 바깥에서 ⟨그의⟩ 두 형제에게 알렸다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보고"
+    },
+    {
+      "surface": "חם",
+      "gloss": "쿠쉬"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "케나안"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "벌거벗음"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "벌거벗음"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "알렸다"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "두 …에게"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "형제"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "바깥에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:19.527813371Z",
+  "model": "glm-5.2"
+}

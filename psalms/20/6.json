@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "우리가 당신의 구원을 두리고 기뻐하며, 우리 엘로힘의 이름을 내세우리니, 야훼께서 당신의 모든 청원을 채우시기를.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "우리가 두리고 기뻐하며"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "당신의 구원을"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "그리고 ~의 이름을"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘의"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "내세우리니"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "채우시기를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "당신의 청원을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:04.760635676Z",
+  "model": "glm-5.2"
+}

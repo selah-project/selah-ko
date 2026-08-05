@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "왜냐하면 나는 이 땅에서 죽고, 나는 ⟨את⟩ 하르덴을 건너지 않음이라. 그러나 너희는 건너가서 ⟨את⟩ 그 좋은 땅을 차지할 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽고"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "이 땅에서"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "나는 …아님"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "건너다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하르덴을"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "하르덴"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "그러나 너희는"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "건너가서"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "차지할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:38.737055395Z",
+  "model": "glm-5.2"
+}

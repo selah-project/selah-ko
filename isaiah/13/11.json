@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리하여 내가 세계의 악을 벌하며, 악인들의 죄악을 벌하고, 오만한 자들의 거만을 그치게 하며, 폭군들의 오만을 낮추 것이다.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "벌하며"
+    },
+    {
+      "surface": "על",
+      "gloss": "∼을"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계의"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "∼을"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "죄악을"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "그치게 하며"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "거만을"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "오만한 자들의"
+    },
+    {
+      "surface": "וגאות",
+      "gloss": "오만을"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "폭군들의"
+    },
+    {
+      "surface": "אשפיל",
+      "gloss": "낮추 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:22.775477535Z",
+  "model": "glm-5.2"
+}

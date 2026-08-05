@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "아이가 자라서 젖을 떼었다. 아브라함이 ⟨את⟩ 이삭이 젖을 떼는 날에 큰 잔치를 베풀었다.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "자라서"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "아이가"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "젖을 떼었다"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "베풀었다"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "잔치를"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…날에"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "젖을 떼는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이삭"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:55.617825862Z",
+  "model": "glm-5.2"
+}

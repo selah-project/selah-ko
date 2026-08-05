@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그가 바락에게 말하였다. \"당신의 올라 옆에 이렇게 서 계십시오. 나도 이렇게 만나러 가겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "바락"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "서 계십시오"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "על",
+      "gloss": "옆에"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "당신의 올라"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "나도"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "만나러 가겠습니다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:43:21.560084894Z",
+  "model": "glm-5.2"
+}

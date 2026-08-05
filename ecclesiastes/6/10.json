@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "이미 있었던 것은 무엇이든 그 이름이 불렸고, 그가 사람임이 알려졌으니 — 그는 자기보다 강한 이와 ⟨함께⟩ 다툴 수 없다.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무엇이든"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "이미 있었던 것은"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "이미"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "불렸고"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그 이름이"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "알려졌으니"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람임이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨수⟩ 없다"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "수 있다"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "다툴"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨함께⟩"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "강한 이와"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "자기보다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:45.509897863Z",
+  "model": "glm-5.2"
+}

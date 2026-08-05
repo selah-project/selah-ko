@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리하여 야훼께서 모셰에게 명하신 것같이 미디안을 향해 군대를 출정시켰고, 모든 남자를 죽였다.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "그리하여 군대를 출정시켰고"
+    },
+    {
+      "surface": "על",
+      "gloss": "(향해)"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "미디안"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "것같이"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰에게"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "그리고 죽였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:46:08.934628980Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 17:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "구리 투구가 그의 머리 위에 있었고 비늘 갑옷이 그가 입고 있었으며 그 갑옷의 무게는 오천 셰켈 구리였다.",
+  "tokens": [
+    {
+      "surface": "וכובע",
+      "gloss": "투구가"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "구리"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "그의 머리"
+    },
+    {
+      "surface": "ושריון",
+      "gloss": "갑옷이"
+    },
+    {
+      "surface": "קשקשים",
+      "gloss": "비늘"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "입고 있었으며"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "무게는"
+    },
+    {
+      "surface": "השריון",
+      "gloss": "그 갑옷의"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "오천"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "⟨천⟩"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "셰켈"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "구리"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:01.529081645Z",
+  "model": "glm-5.2"
+}

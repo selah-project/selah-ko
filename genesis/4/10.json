@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "⟨그가⟩ 말씀하셨다. \"네가 무엇을 하였느냐? 네 형제의 피들의 소리가 땅에서부터 나에게 부르짖고 있다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "하였느냐"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "피들의"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제의"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "부르짖고 있다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:07.619202097Z",
+  "model": "glm-5.2"
+}

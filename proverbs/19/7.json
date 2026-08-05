@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "가난한 자의 모든 형제들이 그를 미워하며, 하물며 그의 벗들은 그에게서 멀리 떠났다. 그가 말로 ⟨그들을⟩ 쫓아가 ⟨불평해도⟩ 그들은 ⟨없다⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제들이"
+    },
+    {
+      "surface": "רש",
+      "gloss": "가난한 자의"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "그를 미워하며"
+    },
+    {
+      "surface": "אף",
+      "gloss": "하물며"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "그의 벗들은"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "멀리 떠났다"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그에게서"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "쫓아가"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "말로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨없다⟩"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:47.808640525Z",
+  "model": "glm-5.2"
+}

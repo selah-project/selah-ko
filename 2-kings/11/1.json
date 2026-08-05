@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 아탈야가, 아하즈야후의 어머니가, 그녀의 아들이 죽은 것을 보고, 일어나서 ⟨את⟩ 왕국의 모든 씨를 멸하였다.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "그리고 아탈야가"
+    },
+    {
+      "surface": "אם",
+      "gloss": "어머니가"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "아하즈야후의"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽은 것을"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "그녀의 아들이"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "일어나서"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "멸하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕국의 모든 씨"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "왕국의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:00:11.568765021Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ 아르왓 사람을, 그리고 ⟨את⟩ 스말 사람을, 그리고 ⟨את⟩ 하맛 사람을. 그 후에 크나안 사람의 족속들이 흩어졌다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아르왓 사람"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "아르왓 사람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "스말 사람"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "스말 사람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하맛 사람"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "하맛 사람"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "그리고 후에"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "흩어졌다"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "족속들이"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "크나안 사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:25.232394382Z",
+  "model": "glm-5.2"
+}

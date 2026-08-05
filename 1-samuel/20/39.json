@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "소년은 아무것도 알지 못하였다 — 오직 여호나탄과 다윗만이 ⟨את⟩ 그 일을 알고 있었다.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "소년은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "아무것도"
+    },
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄과"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "다윗만이"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "알고 있었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 일"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 일을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:50.749453176Z",
+  "model": "glm-5.2"
+}

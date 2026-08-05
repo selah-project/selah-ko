@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "보십시오, 당신의 원수들이 떠들고, 당신을 미워하는 자들이 머리를 들었나이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨대개⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "당신의 원쉬들이"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "떠들"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "그리고 당신을 미워하는 자들이"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "들었나이다"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:40.426026886Z",
+  "model": "glm-5.2"
+}

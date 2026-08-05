@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "의로운 자들의 빛은 밝게 빛나고, 악한 자들의 등불은 꺼진다.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "빛"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들의"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "밝게 빛나고"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "등불은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악한 자들의"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "꺼진다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:22.324299404Z",
+  "model": "glm-5.2"
+}

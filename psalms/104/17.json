@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "거기 새들이 둥지를 틀며, 학이 편백나무들에 ⟨그것의⟩ 집을 둔다.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "거기"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "צִפֳּרִים",
+      "gloss": "새들이"
+    },
+    {
+      "surface": "יְקַנֵּנוּ",
+      "gloss": "둥지를 틀며"
+    },
+    {
+      "surface": "חֲסִידָה",
+      "gloss": "학이"
+    },
+    {
+      "surface": "בְּרוֹשִׁים",
+      "gloss": "편백나무들에"
+    },
+    {
+      "surface": "בֵּיתָהּ",
+      "gloss": "집을 둔다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:51.231679196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "불이 끊임없이 제단 위에서 타야 한다, 꺼지지 않을 ⟨것이다⟩.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "끊임없이"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "탈 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에서"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단"
+    },
+    {
+      "surface": "לא",
+      "gloss": "~아니다"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "꺼질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:12:17.389269616Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨את⟩ 두 콩팥과, ⟨את⟩ 그것들 위에 있는, 곧 허리 위에 있는 기름과, ⟨את⟩ 간 위에 덮개를 — 콩팥과 함께 그것을 제거할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "두 콩팥을"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "콩팥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "기름을"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "기름"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "그것들 위에 있는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에 있는"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "허리"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "덮개를"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "덮개"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "간"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "콩팥"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "그것을 제거할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:14.889958349Z",
+  "model": "glm-5.2"
+}

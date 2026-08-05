@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "곧 주님 때문에 우리가 온종일 죽임을 당하였고, 우리가 도살의 양 떼 같이 헤아려졌기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "주님 때문에"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "우리가 죽임을 당하였고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온종일"
+    },
+    {
+      "surface": "היום",
+      "gloss": "(매일)"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "우리가 헤아려졌기"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "양 떼 같이"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "도살의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:43.438053762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "너는 그들의 샬롬과 그들의 선함을 구하지 말라, 네 모든 날 동안 영원히.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "구하지"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "그들의 샬롬을"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "그리고 그들의 선함을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "…동안"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "네 모든 날"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:21.674545368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 더 이상 ⟨그⟩ 그를 숨길 수 없었으므로, 그리고 ⟨그녀가⟩ 그에게 갈대 상자를 하나 취하고, 그것을 진흙과 역청으로 바르고, 그리고 ⟨그녀가⟩ 거기에 ⟨את⟩ ⟨그⟩ 아이를 담아, 그것을 갈대밭에 강 기슭에 두었다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 못하였으므로"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "… 수 있었다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더 이상"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "⟨그⟩ 그를 숨기"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "그리고 … 취하고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "… 상자를"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "갈대"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "그리고 … 바르고"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "진흙과"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "역청으로"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "그리고 … 담아"
+    },
+    {
+      "surface": "בה",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨그⟩ 아이를"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "⟨그⟩ 아이를"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "그리고 … 두었다"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "갈대밭에"
+    },
+    {
+      "surface": "על",
+      "gloss": "… 위에"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "… 기슭"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "강의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:01.890894500Z",
+  "model": "glm-5.2"
+}

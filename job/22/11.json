@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "혹은 어둠, ⟨그래서⟩ 보이지 않는 것이, 그리고 넘치는 물들이 너를 덮는 것이 아닌가?",
+  "tokens": [
+    {
+      "surface": "אוֹ",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "חֹ֥שֶׁךְ",
+      "gloss": "어둠"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תִרְאֶ֑ה",
+      "gloss": "보이는 것"
+    },
+    {
+      "surface": "וְֽשִׁפְעַת",
+      "gloss": "그리고 넘치는"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "תְּכַסֶּֽךָּ",
+      "gloss": "너를 덮는 것"
+    }
+  ],
+  "timestamp": "2026-08-05T12:07:25.462156661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "왕이 말하였다. \"옆으로 돌아서 ⟨여기⟩ 서 있으라.\" ⟨그가⟩ 돌아서서 서 있었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "סב",
+      "gloss": "옆으로 돌아서"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "서 있으라"
+    },
+    {
+      "surface": "כה",
+      "gloss": "여기"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "돌아서서"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "서 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:41:51.750263990Z",
+  "model": "glm-5.2"
+}

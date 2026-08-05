@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "영원히, 야훼여, ⟨당신의⟩ 말씀이 하늘에 세워져 있다.",
+  "tokens": [
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "דְּ֝בָרְךָ֗",
+      "gloss": "당신의 말씀이"
+    },
+    {
+      "surface": "נִצָּ֥ב",
+      "gloss": "세워져 있다"
+    },
+    {
+      "surface": "בַּשָּׁמָֽיִם",
+      "gloss": "하늘에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:58.238818637Z",
+  "model": "glm-5.2"
+}

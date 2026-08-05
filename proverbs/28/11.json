@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "부자는 ⟨자기⟩ 눈에 지혜로운 사람이나, 가난한 깨닫는 자는 ⟨그⟩를 샅샅이 살핀다.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "자기 눈에"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "부자"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "그러나 가난한 자는"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "깨닫는"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "살핀다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:14.214416969Z",
+  "model": "glm-5.2"
+}

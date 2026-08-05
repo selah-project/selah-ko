@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그들이 ⟨את⟩ 그 채색옷을 보내어 그들의 아버지에게 가져오고 말하였다. \"이것을 우리가 찾았습니다. 바로 그 옷이 ⟨당신⟩ 아들의 것인지 아닌지 확인하십시오.\"",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "그들이 보내어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 채색옷"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "겉옷을"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "그 채색"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "가져오고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "그들의 아버지"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "우리가 찾았습니다"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "확인하십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "바로"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "그 옷이"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "아들의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "것인지"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…인지"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닌지"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:28.794687943Z",
+  "model": "glm-5.2"
+}

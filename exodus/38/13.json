@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 동쪽 ⟨측면⟩은, 해 뜨는 쪽으로, 오십 큐빗이었다.",
+  "tokens": [
+    {
+      "surface": "וְלִפְאַ֛ת",
+      "gloss": "그리고 …⟨측면⟩에는"
+    },
+    {
+      "surface": "קֵ֥דְמָה",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "מִזְרָ֖חָה",
+      "gloss": "해 뜨는 쪽으로"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "אַמָּֽה",
+      "gloss": "큐빗"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:02.512166199Z",
+  "model": "glm-5.2"
+}

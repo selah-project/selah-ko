@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 네 이웃에 ⟨대하여⟩ 거짓 증인이 되지 ⟨하라⟩.",
+  "tokens": [
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "그리고 …하지"
+    },
+    {
+      "surface": "תַעֲנֶ֥ה",
+      "gloss": "응답하다"
+    },
+    {
+      "surface": "בְרֵֽעֲךָ֖",
+      "gloss": "네 이웃에"
+    },
+    {
+      "surface": "עֵ֥ד",
+      "gloss": "증인"
+    },
+    {
+      "surface": "שָֽׁוְא",
+      "gloss": "거짓"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:36.087901441Z",
+  "model": "glm-5.2"
+}

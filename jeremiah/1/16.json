@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "내가 그들과 함께 나의 심판들을 말하리니, 그들이 나를 버리고 다른 엘로힘에게 분향하며 자기 손들의 행위에 절하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "내가…말하리니"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "나의 심판들을"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "על",
+      "gloss": "대하여"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "그들의 악에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "그들이 나를 버리고"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "분향하며"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘에게"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "절하였기"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "행위에"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "그들의 손들의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:56:47.656821756Z",
+  "model": "glm-5.2"
+}

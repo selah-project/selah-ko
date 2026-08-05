@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 모셰의 장인 예트로가 ⟨את⟩ 모셰의 아내 치포라를 ─ 그녀를 보낸 뒤에 ─ 데려갔다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 데려갔다"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "예트로가"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "장인"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "치포라를"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "치포라를"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "그녀를 보낸"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:40.081373200Z",
+  "model": "glm-5.2"
+}

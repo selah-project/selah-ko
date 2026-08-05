@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "너희가 너희의 천막에서 원망하며 말하였다. \"야훼께서 우리를 미워하시므로 우리를 미츠라임 땅에서 이끌어 내사 ⟨את⟩ 우리를 아모리 족속의 손에 넘겨 우리를 멸망시키려 하신다.\"",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "너희가 원망하며"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "너희의 천막에서"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "미워하시므로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "우리를"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "이끌어 내사"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "넘겨"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "우리를"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리 족속의"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "우리를 멸망시키려"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:41.926029973Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 나는 듣지 못하는 귀머거리 같고, 입을 열지 않는 벙어리 같다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "귀머거리 같고"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하는"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "듣는 자"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "벙어리 같다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하는"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "여는 자"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "그의 입을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:37.794077939Z",
+  "model": "glm-5.2"
+}

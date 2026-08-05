@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "그리고 주의 의는, 엘로힘이여, 높은 곳에까지 ⟨이르며⟩ — 주께서 큰 일들을 행하셨나이다. 엘로힘이여, 주와 같은 자가 누구입니까?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "그리고 주의 의는"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "높은 곳에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "행하셨나이다"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "큰 일들을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구입니까"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "주와 같은 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:13.364638989Z",
+  "model": "glm-5.2"
+}

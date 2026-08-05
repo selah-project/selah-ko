@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 둘째 어깨에는 십오의 휘장이요, 그것들의 기둥은 셋이고 그것들의 받침은 셋이다.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "그리고 …어깨에는"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "오"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "십의"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "휘장이요"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "그것들의 기둥은"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "셋이고"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "그것들의 받침은"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "셋이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:29.820488861Z",
+  "model": "glm-5.2"
+}

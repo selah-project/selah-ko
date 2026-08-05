@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그의 뒤에 즈불론 사람 엘론이 ⟨את⟩ 이스라엘을 재판하였고, 그가 ⟨את⟩ 이스라엘을 십 년 동안 재판하였다.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "재판하였고"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그의 뒤에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "엘론"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "즈불론 사람"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "십"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:47.624378046Z",
+  "model": "glm-5.2"
+}

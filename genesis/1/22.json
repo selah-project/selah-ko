@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 ⟨את⟩ 그것들을 축복하셨다. 말씀하시기를 \"열매를 맺고 번성하여 바다들 ⟨안의⟩ 물들 ⟨את⟩ 채우고, 새는 땅 ⟨위에서⟩ 번성하라.\" 하셨다.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하시기를"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "열매를 맺고"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "번성하여"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "채우고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "물들"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "바다들"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "새는"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "번성하라"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T17:08:37.640670651Z",
+  "model": "glm-5.2"
+}

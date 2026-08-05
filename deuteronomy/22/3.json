@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 22:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "이와 같이 너는 그의 나귀에게 하고, 이와 같이 그의 겉옷에 하고, 이와 같이 네 형제의 잃어버린 모든 것에 하라. 그것이 그에게서 잃어버려졌는데 네가 그것을 찾았거든. 눈을 감지 못하여야 한다.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 하라"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "그의 나귀에게"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 하라"
+    },
+    {
+      "surface": "לשמלתו",
+      "gloss": "그의 겉옷에"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 하라"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "잃어버린 것에"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "잃어버려졌는데"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그에게서"
+    },
+    {
+      "surface": "ומצאתה",
+      "gloss": "네가 찾았거든"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "할 수가"
+    },
+    {
+      "surface": "להתעלם",
+      "gloss": "눈을 감"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:38.997759998Z",
+  "model": "glm-5.2"
+}

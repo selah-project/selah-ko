@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨그녀는⟩ ⟨그녀의⟩ 집 문턱에 앉아, 도시의 높은 곳에 있는 좌석 ⟨위에 있다⟩.",
+  "tokens": [
+    {
+      "surface": "וְֽיָשְׁבָה",
+      "gloss": "앉아"
+    },
+    {
+      "surface": "לְפֶ֣תַח",
+      "gloss": "문턱에"
+    },
+    {
+      "surface": "בֵּיתָ֑הּ",
+      "gloss": "⟨그녀의⟩ 집"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨위에 있다⟩"
+    },
+    {
+      "surface": "כִּ֝סֵּ֗א",
+      "gloss": "좌석"
+    },
+    {
+      "surface": "מְרֹ֣מֵי",
+      "gloss": "높은 곳에 있는"
+    },
+    {
+      "surface": "קָֽרֶת",
+      "gloss": "도시의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:40.715656652Z",
+  "model": "glm-5.2"
+}

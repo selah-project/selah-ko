@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 16:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼께서 샤무엘에게 말씀하셨다. \"네가 언제까지 샤울을 슬퍼하겠느냐 — 나는 그를 이스라엘 위에서 왕 노릇하는 것을 내버리셨다. 네 뿔에 기름을 채우고 가거라. 내가 너를 베이트-라흐미 이쉬에게 보내겠다 — 내가 그의 아들들 가운데서 내게 왕을 보았기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "슬퍼하겠느냐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "를"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "מאסתיו",
+      "gloss": "내버리셨다"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "왕 노릇하는 것에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "채우거라"
+    },
+    {
+      "surface": "קרנך",
+      "gloss": "네 뿔에"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름을"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "가거라"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "내가 너를 보내겠다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이쉬"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트-"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "라흐미"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았기에"
+    },
+    {
+      "surface": "בבניו",
+      "gloss": "그의 아들들 가운데서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:26.872565003Z",
+  "model": "glm-5.2"
+}

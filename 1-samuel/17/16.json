@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 ⟨그⟩ 블레셋 사람이 아침에 그리고 저녁에 다가왔고, 사십 일을 서 있었다.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "다가왔고"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "블레셋 사람이"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "그리고 저녁에"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "서 있었다"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:23.998602109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 이스라엘 아들들의 젊은이들을 보내매, 그들이 올라를 드리고, 야훼께 화평 제물들인 수소들을 잡아 드렸다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내매"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 아들들의 젊은이들을"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "젊은이들의"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "그들이 드리고"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "올라를"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "그들이 잡아 드리고"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "제물들"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "화평의"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "수소들"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:56.339299057Z",
+  "model": "glm-5.2"
+}

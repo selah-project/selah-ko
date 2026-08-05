@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그 물들이 울부짖고 뒤끓으니, 산들이 그 거만함으로 흔들린다. 셀라.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "울부짖고"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "뒤끓으니"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "그 물들이"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "흔들린다"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들이"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "그 거만함으로"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:47.947954251Z",
+  "model": "glm-5.2"
+}

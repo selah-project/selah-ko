@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "아브샬롬이 말하였다. \"청하건대 후새 ⟨이라 하는⟩ 아르키도 부르고, 그의 입에 무슨 말이 있는지 우리도 들을 수 있게 하라. 그도 마찬가지이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬이"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "부르고"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "후새를"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "아르키를"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "우리가 듣자"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "그의 입에"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:41:20.147337954Z",
+  "model": "glm-5.2"
+}

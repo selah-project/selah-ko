@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "바위 하나는 북쪽에, 미쯔마스 맞은편에 솟아 있고, 다른 하나는 남쪽에, 게바 맞은편에 있었다.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "바위는"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나는"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "솟아 있고"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "북쪽에"
+    },
+    {
+      "surface": "מול",
+      "gloss": "맞은편에"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "미쯔마스"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "그리고 다른 하나는"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "남쪽에"
+    },
+    {
+      "surface": "מול",
+      "gloss": "맞은편에"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "게바"
+    }
+  ],
+  "timestamp": "2026-08-05T09:26:34.627323439Z",
+  "model": "glm-5.2"
+}

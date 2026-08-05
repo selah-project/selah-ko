@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 97,
+  "translation": "불이 ⟨그⟩ 앞서 나아가고, ⟨그⟩ 원수들 주변을 태우리라.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "앞서"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "나아가고"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "태우리라"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "주변을"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "원수들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:22.760447014Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "모셰의 장인이 그에게 말하였다. \"네가 하고 있는 이 일이 좋지 않다.\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "말하셨다"
+    },
+    {
+      "surface": "חֹתֵן",
+      "gloss": "장인이"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "그 일이"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨that which⟩"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "עֹשֶׂה",
+      "gloss": "하고 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:43.059054515Z",
+  "model": "glm-5.2"
+}

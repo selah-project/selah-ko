@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 아르파크샷은 ⟨את⟩ 셀라를 낳았고, 셀라는 ⟨את⟩ 에벨을 낳았다.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "그리고 아르파크샷은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셀라를"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "셀라"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "셀라는"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에벨을"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "에벨"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:18.793649208Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 97,
+  "translation": "⟨그의⟩ 번개들이 세계를 비추었고, 땅이 보고 떨었다.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "비추었고"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "번개들이"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계를"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "떨었다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:22.760523694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그러나 만약 그것이 너와 샬롬을 맺지 않고 너와 전쟁을 행하면, 너는 그것을 포위할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만약"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "맺지 않고"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "행하면"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁을"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "너는 포위할 것이다"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:02.411952555Z",
+  "model": "glm-5.2"
+}

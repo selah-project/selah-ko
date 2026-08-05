@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 블레셋의 초소가 미크마쉬의 건널목으로 나아갔다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "그리고 나아갔다"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "초소가"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "건널목"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "미크마쉬의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:50.510491718Z",
+  "model": "glm-5.2"
+}

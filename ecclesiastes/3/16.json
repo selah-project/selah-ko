@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 나는 해 아래서 더 보았다. 재판의 자리에 거기에 악이 있고, 의의 자리에도 거기에 악이 있다는 것을.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "그리고 더"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "나는 보았다"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래서"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "자리에"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "재판의"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "악이"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "자리에도"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "의의"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "악이"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:38.220239022Z",
+  "model": "glm-5.2"
+}

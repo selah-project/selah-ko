@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그의 규례들을 지키고 그의 토라들을 지키기 위함이라. 야를 할렐하라.",
+  "tokens": [
+    {
+      "surface": "בַּעֲב֤וּר",
+      "gloss": "위함이라"
+    },
+    {
+      "surface": "יִשְׁמְר֣וּ",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "חֻ֭קָּיו",
+      "gloss": "그의 규례들을"
+    },
+    {
+      "surface": "וְתוֹרֹתָ֥יו",
+      "gloss": "그의 토라들을"
+    },
+    {
+      "surface": "יִנְצֹ֗רוּ",
+      "gloss": "지키기"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "야를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:54.474170773Z",
+  "model": "glm-5.2"
+}

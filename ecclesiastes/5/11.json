@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "일하는 자의 잠은 달다, 적게 먹든 많이 먹든; 그러나 부자의 배부름은 그로 하여금 자지 못하게 한다.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "달다"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "잠은"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "일하는 자의"
+    },
+    {
+      "surface": "אם",
+      "gloss": "든"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "적게"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 많이"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "먹든"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹든"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "그러나 배부름은"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "부자의"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "자지 못하게"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그로 하여금"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "자기를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:42.083099543Z",
+  "model": "glm-5.2"
+}

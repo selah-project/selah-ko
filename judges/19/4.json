@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그의 장인, 그 젊은 여자의 아버지가 그를 붙들어 잡았고, 그가 그와 함께 사흘을 머물렀다. 그들이 먹고 마시고 거기서 유숙하였다.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "붙들어 잡았다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "그의 장인"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "그 젊은 여자의"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "머물렀다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "사흘을"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "마시고"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "유숙하였다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:20:40.610421405Z",
+  "model": "glm-5.2"
+}

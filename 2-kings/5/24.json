@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그는 ⟨그⟩ 언덕에 이르러 그것을 그들의 손에서 취해 ⟨그⟩ 집에 쌓아 두고, ⟨את⟩ 그 사람들을 보내니 그들이 가 버렸다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그는 이르렀다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "그 언덕"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "그는 취했다"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "그들의 손에서"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "그는 쌓아 두었다"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "그 집에"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "그는 보냈다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람들을"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "그들이 가 버렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:41.571105611Z",
+  "model": "glm-5.2"
+}

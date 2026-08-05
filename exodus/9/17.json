@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "아직도 네가 내 백성에게 거스러 올라 자처하면서 그들을 보내지 않으려 하는가.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "아직도 네가"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "거스러 올라 자처하면서"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "내 백성에게"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "...하지 않으려"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "그들을 보내"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:38.924884731Z",
+  "model": "glm-5.2"
+}

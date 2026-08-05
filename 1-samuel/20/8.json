@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 20:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그러므로 당신은 당신의 종에게 헤세드를 베푸시오. 당신이 야훼의 브리트 안에서 ⟨את⟩ 당신의 종을 당신에게 데려왔기 때문입니다. 그런데 만일 내게 죄악이 있거든, 당신이 직접 나를 죽이시오. 당신의 아버지에게까지 왜 나를 데려가십니까?",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "베푸시오"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드를"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "브리트 안에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "데려왔기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종을"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종을"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있거든"
+    },
+    {
+      "surface": "בי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악이"
+    },
+    {
+      "surface": "המיתני",
+      "gloss": "나를 죽이시오"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이 직접"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "당신의 아버지에게"
+    },
+    {
+      "surface": "למה",
+      "gloss": "왜"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "תביאני",
+      "gloss": "나를 데려가십니까"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:24.318272256Z",
+  "model": "glm-5.2"
+}

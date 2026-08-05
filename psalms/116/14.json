@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "나의 서원들을 야훼께 ⟨나는⟩ 갚으리이다. ⟨그것을⟩ 모든 ⟨그의⟩ 백성 앞에서 ⟨내가 갚으리이다⟩.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "나의 서원들을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "⟨나는⟩ 갚으리이다"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "⟨그것을⟩ ∙ 앞에서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "과연"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨그의⟩ 백성"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:38.810206773Z",
+  "model": "glm-5.2"
+}

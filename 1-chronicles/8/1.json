@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 비야민은 ⟨את⟩ 벨라를 ⟨그의⟩ 맏아들을 낳았다 — 아쉬벨 ⟨은⟩ 둘째, 아흐라흐 ⟨는⟩ 셋째이다.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "그리고 비야민은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "벨라를"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "벨라"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "⟨그의⟩ 맏아들"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "아쉬벨"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "그리고 아흐라흐"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "셋째"
+    }
+  ],
+  "timestamp": "2026-08-05T18:31:38.370120592Z",
+  "model": "glm-5.2"
+}

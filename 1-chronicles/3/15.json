@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 요시야후의 아들들: 맏아드 요하난, 둘째 여호야킴, 셋째 체드키야후, 넷째 샬룸.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 …의 아들들"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "요시야후"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "맏아드"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "요하난"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "여호야킴"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "셋째"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "체드키야후"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "넷째"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬룸"
+    }
+  ],
+  "timestamp": "2026-08-05T12:41:39.926946101Z",
+  "model": "glm-5.2"
+}

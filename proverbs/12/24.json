@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "부지런한 자들의 손은 다스리나, 나태함은 조공이 된다.",
+  "tokens": [
+    {
+      "surface": "יַד",
+      "gloss": "손은"
+    },
+    {
+      "surface": "חָרוּצִים",
+      "gloss": "부지런한 자들의"
+    },
+    {
+      "surface": "תִּמְשׁוֹל",
+      "gloss": "다스리나"
+    },
+    {
+      "surface": "וּרְמִיָּה",
+      "gloss": "그리고 나태함은"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "되다"
+    },
+    {
+      "surface": "לָמַס",
+      "gloss": "조공이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:53.131841952Z",
+  "model": "glm-5.2"
+}

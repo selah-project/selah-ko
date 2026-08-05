@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "야훼께서 그에게 말씀하셨다. \"가라, 네 길로 돌아가 다마섹 광야로 ⟨향하라⟩. 그리고 너는 가서 ⟨את⟩ 하자엘에게 기름을 부어 아람 위에 왕으로 ⟨세우라⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "네 길로"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "광야로 ⟨향하라⟩"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "다마섹"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "그리고 너는 가서"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "기름을 부어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하자엘에게"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "하자엘에게"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕으로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    }
+  ],
+  "timestamp": "2026-08-05T09:54:11.017164675Z",
+  "model": "glm-5.2"
+}

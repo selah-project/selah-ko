@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼 ⟨는⟩ 나의 분깃과 나의 잔이시니, ⟨그⟩분은 나의 제비를 붙드신다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "분깃"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "나의 유업"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "그리고 나의 잔"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨그⟩분은"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "붙드신다"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "나의 제비"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:53.942333349Z",
+  "model": "glm-5.2"
+}

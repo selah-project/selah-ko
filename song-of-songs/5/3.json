@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "나는 ⟨את⟩ 내 겉옷을 벗었다, 어찌 다시 입으랴? 나는 ⟨את⟩ 내 발을 씻었다, 어찌 더럽히랴?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "벗었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 겉옷을"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "내 겉옷을"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "다시 입으랴"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "씻었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 발을"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "내 발을"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "더럽히랴"
+    }
+  ],
+  "timestamp": "2026-08-05T12:14:16.211919197Z",
+  "model": "glm-5.2"
+}

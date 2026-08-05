@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "네 눈이 그것을 날아가려 하는가, 그것은 없나니, 그가 자기에게 날개를 만드는 까닭이다, 독수리처럼, 하늘을 향해 날아가리라.",
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "네가 날아가게 하리냐"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "네 눈이"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "그리고 ⟨그것⟩은 없나니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만드는"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "그가 만들 것이다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기에게"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "날개를"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "독수리처럼"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "그리고 날아가리라"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:16.553186085Z",
+  "model": "glm-5.2"
+}

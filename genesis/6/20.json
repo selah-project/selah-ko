@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 6:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그 종류대로 날짐승에서부터, 그리고 그 종류대로 가축에서부터, 땅의 모든 기어다니는 것에서부터 그 종류대로 — 모든 것에서 둘씩이 너에게로 올 것이니, 살리기 위함이라.",
+  "tokens": [
+    {
+      "surface": "מהעוף",
+      "gloss": "날짐승에서부터"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "그 종류대로"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에서부터"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "가축"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "그 종류대로"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "기어다니는 것"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "그 종류대로"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘씩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 것에서"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "올 것이니"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "너에게로"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "살리기 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:49.802683049Z",
+  "model": "glm-5.2"
+}

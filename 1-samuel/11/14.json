@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "슈무엘이 백성에게 말하였다. \"가자, 그리고 우리는 길갈로 가서, 거기서 왕권을 새롭게 하자.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "가자"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "우리는 가서"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "길갈로"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "새롭게 하자"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "왕권을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:09.860359944Z",
+  "model": "glm-5.2"
+}

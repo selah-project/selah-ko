@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리고 야훼의 진노가 그의 백성을 향해 타올랐고, 그는 ⟨את⟩ 그의 기업을 역겨워하셨다.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "그리고 …이 타올랐다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "진노(코\/분노)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "그의 백성을 향해"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "그리고 그는 …을 역겨워하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 기업"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "그의 기업"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:29.753233615Z",
+  "model": "glm-5.2"
+}

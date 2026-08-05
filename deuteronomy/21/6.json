@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 그 도시의 모든 장로들이, 죽은 자에게 가까이 ⟨있는 자들이⟩, 자기들의 손을 ⟨את⟩ 골짜기에서 목 꺾인 암송아지 위에서 씻을 것이다.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로들이"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 도시의"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "저"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "가까이 있는 자들이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "죽은 자"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "씻을 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기들의 손"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "자기들의 손"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "암송아지"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "목 꺾인"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "골짜기에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:14.314860123Z",
+  "model": "glm-5.2"
+}

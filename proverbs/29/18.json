@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "환상이 없으면 백성이 방종하되 토라를 지키는 자는 행복하다.",
+  "tokens": [
+    {
+      "surface": "בְּאֵין",
+      "gloss": "없으면"
+    },
+    {
+      "surface": "חָזוֹן",
+      "gloss": "환상이"
+    },
+    {
+      "surface": "יִפָּרַע",
+      "gloss": "방종하되"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "וְשֹׁמֵר",
+      "gloss": "지키는 자는"
+    },
+    {
+      "surface": "תּוֹרָה",
+      "gloss": "토라를"
+    },
+    {
+      "surface": "אַשְׁרֵהוּ",
+      "gloss": "행복하다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:17.272840528Z",
+  "model": "glm-5.2"
+}

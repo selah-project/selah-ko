@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그리고 ⟨את⟩ 향료와 ⟨את⟩ 기름을 — 등불을 위하여, 그리고 기름 부음의 기름과 향료의 향을 위하여.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "향료와"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "향료와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "기름을"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "기름을"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "등불을 위하여,"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "그리고 기름"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "부음의 기름과"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "그리고 향을"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "향료의 향을 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:16.109841253Z",
+  "model": "glm-5.2"
+}

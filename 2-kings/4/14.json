@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 4:14",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그가 말하였다. \"그렇다면 그녀를 위하여 무엇을 하여야 하겠는가?\" 기하지가 대답하였다. \"참으로 그녀에게는 아들이 없고, 그녀의 남편은 늙었나이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그렇다면 무엇"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "하기 위하여"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "대답하였다"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "기하지"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "그녀의 남편은"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "늙었나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:20.276693484Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그러므로 ⟨내가⟩ 엘리의 집에게 맹세하였다 — 만일 엘리의 집의 죄악이 제물과 ⟨제물⟩ 곡물제물로 영원히 속함을 얻게 된다면 ⟨라면⟩.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "내가 맹세하였다"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집에게"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "엘리의"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "속함을 얻게 된다면"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악이"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "엘리의"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "제물로"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "그리고 곡물제물로"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:03.149398255Z",
+  "model": "glm-5.2"
+}

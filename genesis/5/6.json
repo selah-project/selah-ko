@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "셋이 십오 년과 백 년을 살고 ⟨את⟩ 에노쉬를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "…이 살고"
+    },
+    {
+      "surface": "שת",
+      "gloss": "셋이"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "그리고 백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에노쉬"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "에노쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:01.863738856Z",
+  "model": "glm-5.2"
+}

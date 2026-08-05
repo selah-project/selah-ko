@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 86,
+  "translation": "환난의 날에 당신을 부르리니, 당신께서 저에게 응답하시기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "날에"
+    },
+    {
+      "surface": "צָ֭רָתִ֥י",
+      "gloss": "환난의"
+    },
+    {
+      "surface": "אֶקְרָאֶ֗ךָּ",
+      "gloss": "당신을 부르리니"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "תַעֲנֵֽנִי",
+      "gloss": "저에게 응답하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:27.315784110Z",
+  "model": "glm-5.2"
+}

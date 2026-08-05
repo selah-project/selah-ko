@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "엘리샤는 그에게 사자를 보내어 이르기를, \"가서 요르단에서 일곱 번 씻으십시오. 당신의 살이 당신에게 회복되고, 당신은 정결하게 될 것입니다.\" 하였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤는"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "사자를"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "씻으십시오"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "번"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "요르단에서"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "회복되고"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "당신의 살이"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "정결하게 될 것입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:49.220749645Z",
+  "model": "glm-5.2"
+}

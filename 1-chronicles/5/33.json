@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "므라욧이 ⟨את⟩ 아마르야를 낳았고, 아마르야가 ⟨את⟩ 아히툽을 낳았다.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "므라욧이"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아마르야를"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "아마르야가"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "아마르야가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아히툽을"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "아히툽을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:40.701096339Z",
+  "model": "glm-5.2"
+}

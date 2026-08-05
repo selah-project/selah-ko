@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그가 환난의 날에 초막에서 나를 숨기시리니, 그의 장막 은밀한 곳에 나를 감추시리라; 반석 위에 나를 높이시리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "숨기시리니"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "초막에서"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "환난의"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "감추시리라"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "은밀한 곳에"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "그의 장막"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "반석 위에"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "나를 높이시리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:34.549970699Z",
+  "model": "glm-5.2"
+}

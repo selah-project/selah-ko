@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그는 두렵고 무서운 자이다. 그에게서 ⟨그⟩ 자기의 판단과 ⟨그⟩ 자기의 위엄이 나올 것이다.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "두렵고"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "무서운"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그에게서"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "자기의 판단이"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "그리고 자기의 위엄이"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나올 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:25.555545635Z",
+  "model": "glm-5.2"
+}

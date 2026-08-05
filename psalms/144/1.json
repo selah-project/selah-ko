@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 144,
+  "translation": "다윗의 ⟨시⟩. 찬송한다, 야훼를, 나의 반석이시며 내 손을 전투 ⟨위로⟩ 가르치시고 내 손가락을 전쟁 ⟨위로⟩ 가르치시는 이.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "찬송한다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "나의 반석이시며"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "가르치시는 이"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손을"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "전투 ⟨위로⟩"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "내 손가락을"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "전쟁 ⟨위로⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:14.164135184Z",
+  "model": "glm-5.2"
+}

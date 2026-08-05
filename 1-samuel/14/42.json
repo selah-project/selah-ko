@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 샤울이 말하였다. \"나와 내 아들 요나탄 사이에 ⟨제비를⟩ 던지십시오.\" 그리고 요나탄이 잡혔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …말하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "던지십시오"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "나와"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…사이에"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "요나탄"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "그리고 잡혔다"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "요나탄이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:03.119248231Z",
+  "model": "glm-5.2"
+}

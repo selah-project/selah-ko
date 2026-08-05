@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그의 누이가 멀리 서서, 그에게 무슨 일이 행해질지 알기 위해 ⟨지켜보았다⟩.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "서서"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "그의 누이가"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "멀리"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "알기 위해"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무슨"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행해질지"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:29.446468722Z",
+  "model": "glm-5.2"
+}

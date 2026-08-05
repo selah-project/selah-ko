@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "사람의 아들아, 수수께끼를 풀어 내고, 이스라엘의 집에 마샬을 들려주어라 —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들이여"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "풀어 내고"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "수수께끼를"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "들려주어라"
+    },
+    {
+      "surface": "משל",
+      "gloss": "마샬을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨…⟩에게"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:58:24.558231848Z",
+  "model": "glm-5.2"
+}

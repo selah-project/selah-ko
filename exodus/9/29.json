@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 9:29",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "모셰가 그에게 말하였다. \"내가 ⟨את⟩ 그 성에서 나감에 내 손바닥 ⟨두 손⟩을 야훼께로 펴면 그 소리들이 그치고 우박은 더 이상 없을 것입니다. 그대가 알기 위함입니다. 땅은 야훼의 것임을.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "כצאתי",
+      "gloss": "내가…나감에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 성"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성에서"
+    },
+    {
+      "surface": "אפרש",
+      "gloss": "펴면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 손바닥 두 손"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "내 손바닥 두 손"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "그 소리들이"
+    },
+    {
+      "surface": "יחדלון",
+      "gloss": "그치고"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "우박은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…위함입니다"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "그대가 알기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…임을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼의 것"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅은"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:11.941408238Z",
+  "model": "glm-5.2"
+}

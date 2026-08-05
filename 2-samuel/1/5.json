@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "다윗이 자기에게 알려 주는 그 젊은이에게 말하였다. \"그대가 어떻게 알았는가, 곧 샤울과 그의 아들 여호나탄이 죽었다는 것을?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "그 젊은이"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "알려 주는"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기에게"
+    },
+    {
+      "surface": "איך",
+      "gloss": "어떻게"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "알았는가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울과"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T13:48:20.082024481Z",
+  "model": "glm-5.2"
+}

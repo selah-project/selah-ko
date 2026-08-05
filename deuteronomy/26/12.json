@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 26:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "네가 삼 년 곧 십일조의 해에 네 소출의 모든 십일조를 십일조하기를 마치거든, 너는 그것을 레위인과 거류민과 고아와 과부에게 주어라. 그리하면 그들이 네 성문 안에서 먹고 배부르리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…할 때"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "네가 마치거든"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "십일조하기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 십일조"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "십일조"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "네 소출"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "…해에"
+    },
+    {
+      "surface": "השלישת",
+      "gloss": "셋째"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "…해"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "그 십일조"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "그리고 너는 주어라"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "레위인에게"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "거류민에게"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "고아에게"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "그리고 과부에게"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "그리고 그들이 먹고"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "네 성문 안에서"
+    },
+    {
+      "surface": "ושבעו",
+      "gloss": "그리고 배부르리라"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:22.485452342Z",
+  "model": "glm-5.2"
+}

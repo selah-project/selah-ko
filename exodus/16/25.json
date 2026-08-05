@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "모셰가 말하였다. \"그것을 오늘 먹어라. 오늘은 야훼께 샤밧이기 때문이다. 오늘 너희가 그것을 들에서 찾지 못할 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "그것을 먹어라"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "샤밧이"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘은"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "너희가 그것을 찾다"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:41.706234817Z",
+  "model": "glm-5.2"
+}

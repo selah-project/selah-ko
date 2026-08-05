@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야곱이 라헬을 위하여 일곱 해를 섬겼다. 그가 그녀를 ⟨את⟩ 사랑하였으므로, 그것들이 그의 눈에 몇 날들 같았다.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "섬겼다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "라헬을 위하여"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "해를"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "같았다"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "그의 눈에"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "날들"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "몇"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "그가 사랑하였으므로"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀를"
+    }
+  ],
+  "timestamp": "2026-08-05T18:42:41.937970863Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼의 말씀이 하깨 ⟨그⟩ 나비의 손을 통해 임하였다, ⟨이르시기를⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 있었다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손을 통해"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "하깨"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "그 나비"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:23.677803479Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "너희는 재판에서 부정의를 행하지 말 것이다. 길이의 단위에서, 무게의 단위에서, 그리고 용량의 단위에서 ⟨도⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "하지 말 것이다"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "행하지"
+    },
+    {
+      "surface": "עול",
+      "gloss": "부정의를"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "재판에서"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "길이의 단위에서"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "무게의 단위에서"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "그리고 용량의 단위에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:06.476685566Z",
+  "model": "glm-5.2"
+}

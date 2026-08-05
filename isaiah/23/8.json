@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 23:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "누가 이것을 쯔르에 대해 모의하였느냐, 면류관을 씌우는 자, 그녀의 상인들이 방백들이요 그녀의 가나안 사람들이 땅의 귀인들인 그것이?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "모의하였느냐"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에 대해"
+    },
+    {
+      "surface": "צר",
+      "gloss": "쯔르"
+    },
+    {
+      "surface": "המעטירה",
+      "gloss": "면류관을 씌우는 자"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~인 그것이"
+    },
+    {
+      "surface": "סחריה",
+      "gloss": "그녀의 상인들이"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "방백들이요"
+    },
+    {
+      "surface": "כנעניה",
+      "gloss": "그녀의 가나안 사람들이"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "귀인들인"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:54.046788796Z",
+  "model": "glm-5.2"
+}

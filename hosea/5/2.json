@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 학살의 죄악은 깊어졌으며, 나는 그들 모두의 징벌이 되었도다.",
+  "tokens": [
+    {
+      "surface": "וְשַׁחֲטָה",
+      "gloss": "그리고 학살은"
+    },
+    {
+      "surface": "שֵׂטִים",
+      "gloss": "죄악이"
+    },
+    {
+      "surface": "הֶעְמִיקוּ",
+      "gloss": "깊어졌으며"
+    },
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "מוּסָר",
+      "gloss": "징벌이"
+    },
+    {
+      "surface": "לְכֻלָּם",
+      "gloss": "그들 모두의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:39.586138785Z",
+  "model": "glm-5.2"
+}

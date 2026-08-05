@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 37:23",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "네가 ⟨את⟩ 누구를 모욕하였고, 누구를 훼방하였는가? 네가 누구를 향해 ⟨את⟩ 소리를 높였으며, 높이 네 눈을 들었는가 — 이스라엘의 거룩한 이를 향하여!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "누구를"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구를"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "모욕하였고"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "훼방하였는가"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "향해"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "הרימותה",
+      "gloss": "높였으며"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "들었는가"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "높이"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "네 눈을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩한 이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:07.822956765Z",
+  "model": "glm-5.2"
+}

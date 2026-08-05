@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 113,
+  "translation": "모든 민족들 위에 높이신 분, 야훼시다. 그의 영광은 하늘들 위에 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "높이신 분"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼시다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘들"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "그의 영광은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:35.790186766Z",
+  "model": "glm-5.2"
+}

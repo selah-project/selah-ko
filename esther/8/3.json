@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 에스더가 다시 말하여 왕 앞에서 말하고, 그의 발 앞에 엎드려 울며 그에게 간구하였으니, 하만 아각인의 악행과 그가 유다인들에게 도모한 도모를 거두어 없애 주기를 위함이었다.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "그리고 다시"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더가"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "엎드려"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "그의 발"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "울며"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "간구하였으니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "거두어 없애 주기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "악행"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "악행을"
+    },
+    {
+      "surface": "המן",
+      "gloss": "하만"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "아각인의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "도모"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "도모를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "도모한"
+    },
+    {
+      "surface": "על",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "유다인들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:36.850797286Z",
+  "model": "glm-5.2"
+}

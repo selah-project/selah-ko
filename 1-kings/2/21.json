@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그녀가 말하였다. ⟨את⟩ 아비샤그 ⟨그⟩ 수넴 여인을 그대의 형제 아도니야후에게 아내로 주어지게 ⟨하소서⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주어지게 하소서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아비샤그"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "아비샤그"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "수넴 여인"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "아도니야후에게"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "그대의 형제"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:45:26.130882742Z",
+  "model": "glm-5.2"
+}

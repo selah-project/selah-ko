@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "유다와 이스라엘은 많았다, 바다 위에 있는 모래 같이 많았다. 먹으며 마시며 기뻐하였다.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "유다와"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많았다"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "모래 같이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에 있는"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "많았다"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "먹으며"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "마시며"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "기뻐하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:33.524350553Z",
+  "model": "glm-5.2"
+}

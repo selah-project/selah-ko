@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "오직 이것들이 악한 자의 거처이다. 그리고 ⟨이것은⟩ 엘을 알지 못하는 자의 처소이다.",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "מִשְׁכְּנֹות",
+      "gloss": "거처이다"
+    },
+    {
+      "surface": "עַוָּל",
+      "gloss": "악한 자의"
+    },
+    {
+      "surface": "וְזֶה",
+      "gloss": "그리고 ⟨이것은⟩"
+    },
+    {
+      "surface": "מָקֹום",
+      "gloss": "처소이다"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "알지 못하는"
+    },
+    {
+      "surface": "יָדַע",
+      "gloss": "—"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:05:27.113026018Z",
+  "model": "glm-5.2"
+}

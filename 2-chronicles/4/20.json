@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "⟨그리고⟩ ⟨את⟩ 메노라와 그것들의 등불들 — 규례대로 더비르 앞에서 태우기 위한 — 정금(精金)으로.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨그리고⟩ ⟨את⟩",
+      "marks": "메노라를"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "메노라"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "그것들의 등불들"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "태우기 위한"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "규례대로"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "더비르"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "닫힌"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:35.065005009Z",
+  "model": "glm-5.2"
+}

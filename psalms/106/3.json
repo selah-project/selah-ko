@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "복이 ⟨있다⟩, 공의를 지키는 ⟨자들에게⟩, 모든 때에 체다카를 행하는 ⟨자에게⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복이"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "지키는"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "공의를"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하는"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "체다카를"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:37.868822157Z",
+  "model": "glm-5.2"
+}

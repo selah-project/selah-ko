@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 40:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "동쪽 문의 방들이 이쪽에 셋, 저쪽에 셋이었는데, 그 셋에 대한 치수가 하나였고, 이쪽과 저쪽의 기둥들에 대한 치수도 하나였다.",
+  "tokens": [
+    {
+      "surface": "ותאי",
+      "gloss": "그리고 방들"
+    },
+    {
+      "surface": "השער",
+      "gloss": "문의"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "쪽"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "동"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "셋"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "이쪽에서"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "그리고 셋"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "이쪽에서"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "치수"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나"
+    },
+    {
+      "surface": "לשלשתם",
+      "gloss": "그 셋에 대한"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "그리고 치수"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "기둥들에 대한"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "이쪽에서"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "그리고 저쪽에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:01.804117450Z",
+  "model": "glm-5.2"
+}

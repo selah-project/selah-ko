@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 16:10",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "델릴라가 심숀에게 말하였다. \"보라, 그대가 나를 속였고 나에게 거짓말들을 하였다. 이제 부디 나에게 말해 주세요 — 무엇으로 묶일 수 있는지를.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "델릴라가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "심숀"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "התלת",
+      "gloss": "그대가 속였고"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "그리고 ⟨…⟩ 하였다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "거짓말들을"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "말해 주세요"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "במה",
+      "gloss": "무엇으로"
+    },
+    {
+      "surface": "תאסר",
+      "gloss": "묶일 수 있는지를"
+    }
+  ],
+  "timestamp": "2026-08-05T18:43:33.057095396Z",
+  "model": "glm-5.2"
+}

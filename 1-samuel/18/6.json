@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 18:6",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그들이 돌아올 때, 다윗이 ⟨את⟩ 그 블레셋 사람을 치고 돌아오매, 여인들이 이스라엘의 모든 성읍에서 나와 노래하며 춤추며 샤울 왕을 맞이하였다. 소리 나며, 기쁨으로, 삼현금으로.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었는데"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "그들이 돌아올 때"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "돌아오매"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "치고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 블레셋 사람"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "블레셋 사람을"
+    },
+    {
+      "surface": "ותצאנה",
+      "gloss": "나왔다"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "여인들이"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성읍에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "노래하며"
+    },
+    {
+      "surface": "והמחלות",
+      "gloss": "춤추며"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "맞이하러"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "소리 나며"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "기쁨으로"
+    },
+    {
+      "surface": "ובשלשים",
+      "gloss": "삼현금으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:38.856246364Z",
+  "model": "glm-5.2"
+}

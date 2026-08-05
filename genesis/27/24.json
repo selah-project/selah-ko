@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그가 말하였다. \"네가 정말 내 아들 에사브냐?\" 그가 말하였다. \"내가 그렇습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "זה",
+      "gloss": "정말"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브냐"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가 그렇습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:20.783276004Z",
+  "model": "glm-5.2"
+}

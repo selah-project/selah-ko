@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "야훼께서 말씀을 빌암의 입에 두시고 말씀하셨다. \"빌암아, 발락에게로 돌아가거라. 그리고 이렇게 말하여라.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "두시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "입에"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "돌아가거라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "발락"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "말하여라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:43:32.584209226Z",
+  "model": "glm-5.2"
+}

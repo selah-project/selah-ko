@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "나의 네페쉬가 주를 따라 밀착하니, 주의 오른손이 나를 붙드신다.",
+  "tokens": [
+    {
+      "surface": "דָּבְקָ֣ה",
+      "gloss": "밀착하니"
+    },
+    {
+      "surface": "נַפְשִׁ֣י",
+      "gloss": "나의 네페쉬가"
+    },
+    {
+      "surface": "אַחֲרֶ֑יךָ",
+      "gloss": "주를 따라"
+    },
+    {
+      "surface": "בִּ֝֗י",
+      "gloss": "나를"
+    },
+    {
+      "surface": "תָּמְכָ֥ה",
+      "gloss": "붙드신다"
+    },
+    {
+      "surface": "יְמִינֶֽךָ",
+      "gloss": "주의 오른손이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:44.707653838Z",
+  "model": "glm-5.2"
+}

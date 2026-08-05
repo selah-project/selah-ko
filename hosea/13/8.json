@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 13:8",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "새끼를 잃은 곰 같이 내가 그들을 만나고, 그들의 가슴을 찢고, 거기서 암사자 같이 그들을 삼키리니, 들짐승이 그들을 가르리라.",
+  "tokens": [
+    {
+      "surface": "אפגשם",
+      "gloss": "내가 그들을 만나고"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "곰 같이"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "새끼를 잃은"
+    },
+    {
+      "surface": "ואקרע",
+      "gloss": "찢고"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "가슴을"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "그들의"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "그들을 삼키리니"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "암사자 같이"
+    },
+    {
+      "surface": "חית",
+      "gloss": "짐승이"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들"
+    },
+    {
+      "surface": "תבקעם",
+      "gloss": "그들을 가르리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:21.963261194Z",
+  "model": "glm-5.2"
+}

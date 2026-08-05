@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 26:18",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "우리가 임신하였고 진통하였으며, 바람을 낳은 것 같았다. 땅에 구원을 베풀지 못하였으니, 세상의 거주자들이 쓰러지지 아니하였도다.",
+  "tokens": [
+    {
+      "surface": "הרינו",
+      "gloss": "우리가 임신하였다"
+    },
+    {
+      "surface": "חלנו",
+      "gloss": "우리가 진통하였다"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "…처럼"
+    },
+    {
+      "surface": "ילדנו",
+      "gloss": "우리가 낳았다"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람을"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "구원을"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "우리가 만들었다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "그들이 쓰러졌다"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들이"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세상의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:50.863161895Z",
+  "model": "glm-5.2"
+}

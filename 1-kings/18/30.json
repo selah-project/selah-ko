@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "엘리야후가 온 백성에게 말하였다. \"내게로 가까이 오라.\" 온 백성이 그에게 가까이 오니, 그가 무너진 야훼의 ⟨את⟩ 제단을 회복하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "엘리야후가"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "가까이 오라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "가까이 오니"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "회복하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제단을"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "무너진"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:51.872626050Z",
+  "model": "glm-5.2"
+}

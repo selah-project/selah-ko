@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "여덟째 날에 ⟨그의⟩ 포피의 살이 할례받을 것이다.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "여덟째"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "할례받을 것이다"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "살이"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "그의 포피의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:49.458839750Z",
+  "model": "glm-5.2"
+}

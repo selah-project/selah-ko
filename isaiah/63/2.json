@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "어찌하여 당신의 의복은 붉고, 당신의 옷들은 포도즙 틀을 밟는 자의 것 같습니까?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "붉고"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "당신의 의복은"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "당신의 옷들은"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "밟는 자의 것 같습니까"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "포도즙 틀을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:29.173548955Z",
+  "model": "glm-5.2"
+}

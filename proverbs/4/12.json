@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "네가 걸을 때에 네 걸음이 좁아지지 아니하리라. 네가 달리면 넘어지지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "네가 걸을 때에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "좁아지지"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "네 걸음이"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "네가 …하면"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "달리"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "넘어지"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:05.888708083Z",
+  "model": "glm-5.2"
+}

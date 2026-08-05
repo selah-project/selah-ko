@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "나의 입술이 열었던 것들, 그리고 나의 입이 나의 곤경 중에 말하였던 것들,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "…것들"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "열었던"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "나의 입술이"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "그리고 …말하였던"
+    },
+    {
+      "surface": "פי",
+      "gloss": "나의 입이"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "나의 곤경 중에"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:30.899017943Z",
+  "model": "glm-5.2"
+}

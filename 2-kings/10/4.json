@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그들이 심히 심히 두려워하며 말하였다. '보라, 두 왕이 그 앞에 서지 못하였는데, 우리가 어떻게 서겠는가?'",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "두려워하였다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "왕"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "서"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그 앞에"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "그런데 어찌"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "서겠는가"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:35.295027352Z",
+  "model": "glm-5.2"
+}

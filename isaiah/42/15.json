@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "내가 산들과 언덕들을 황무지로 만들고, 그들의 온 풀을 말리며, 강들을 섬들로, 못들을 말리리라.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "황무지로 만들고"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들과"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "언덕들을"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그들의 온"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "풀을"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "말리며"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "만들며"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "강들을"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "섬들로"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "못들을"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "말리리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:02.551123680Z",
+  "model": "glm-5.2"
+}

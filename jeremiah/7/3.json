@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이처럼 말씀하셨다 — 만군의 야훼께서, 이스라엘의 엘로힘이 — '너희의 길과 너희의 행실을 좋게 하라. 그리하면 내가 ⟨את⟩ 너희를 ⟨이⟩ 곳에 거하게 하리라.'",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이처럼"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "좋게 하라"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "너희의 길"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "너희의 행실을"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "거하게 하리라"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 너희를",
+      "marks": "이 곳에"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:28:41.955630948Z",
+  "model": "glm-5.2"
+}

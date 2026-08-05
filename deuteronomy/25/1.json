@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "사람들 사이에 분쟁이 있어 그들이 재판 앞으로 나아오면, 판관들이 그들을 재판하고 ⟨את⟩ 의로운 자를 의롭다 하며 ⟨את⟩ 악한 자를 악하다 하여야 한다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…하면"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있으면"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "분쟁"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람들"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "나아오면"
+    },
+    {
+      "surface": "אל",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "재판"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "재판하고"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "의롭다 하여야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "의로운 자"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "의로운 자"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "악하다 하여야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "악한 자"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "악한 자"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:02.590329504Z",
+  "model": "glm-5.2"
+}

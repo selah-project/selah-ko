@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "내가 당신의 하늘들, 당신의 손가락들의 일을 보오니 — 달과 별들, 당신이 견고히 세우신 것들을.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "~오니"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "내가 보"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "당신의 하늘들"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "일을"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "당신의 손가락들의"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "달과"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "별들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~신 것들을"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "당신이 견고히 세우"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:28.213380933Z",
+  "model": "glm-5.2"
+}

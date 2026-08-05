@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "이들이 ⟨아래⟩ 것들이다 — 너희가 ⟨את⟩ 하르-게리짐 산 위에서 백성을 축복하기 위하여, ⟨את⟩ 야르덴을 건널 때에 설 자들: 시므온, 레위, 유다, 잇사갈, 요셉, 베냐민.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "설 자들"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "축복하기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "하르-게리짐"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "너희가 건널 때에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야르덴"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "야르덴을"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "시므온"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "레위"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "잇사갈"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "베냐민"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:52.410333216Z",
+  "model": "glm-5.2"
+}

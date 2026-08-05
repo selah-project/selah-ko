@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 2:1",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "어찌하여 아도나이께서 그의 진노로 ⟨את⟩ 딸 시온을 구름으로 덮으셨는가. 그가 하늘에서 땅으로 이스라엘의 영광을 내던지셨으며, 그의 진노의 날에 자기 발의 받침을 기억하지 아니하셨다.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "יעיב",
+      "gloss": "구름으로 덮으셨는가"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "그의 진노로"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "딸 시온"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온을"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "내던지셨으며"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "하늘에서"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "영광을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하셨다"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "기억하지"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "받침을"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "자기 발의"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "그의 진노의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:23.716362082Z",
+  "model": "glm-5.2"
+}

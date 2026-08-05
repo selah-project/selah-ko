@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "온전한 자를 지키고 바른 자를 보아라. 온전한 자의 끝은 평화이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "תם",
+      "gloss": "온전한 자를"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "보아라"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "바른 자를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "끝은"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "그 사람의"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "평화"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:23.492045628Z",
+  "model": "glm-5.2"
+}

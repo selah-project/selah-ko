@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "만군의 야훼가 이같이 말씀하시기에, 아직 한 번, 그것은 작은 것이니, 내가 ⟨את⟩ 하늘과 ⟨את⟩ 땅과 ⟨את⟩ 바다와 ⟨את⟩ 메마른 땅을 진동시키리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하시기에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한 번"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "작은 것이니"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "진동시키리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하늘을"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "와 ⟨את⟩",
+      "marks": "땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "와 ⟨את⟩",
+      "marks": "바다를"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "와 ⟨את⟩",
+      "marks": "메마른 땅을"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "메마른 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:46.818344636Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 99,
+  "translation": "구름 기둥에서 ⟨그분은⟩ 그들에게 말씀하셨다 ─ 그들은 ⟨그분의⟩ 증거들을 지켰고 ⟨그분은⟩ 그들에게 ⟨하의⟩ 규례를 주셨다.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "기둥에서"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "구름"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "지켰고"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "⟨그분의⟩ 증거들을"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "⟨하의⟩ 규례를"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:05.477167142Z",
+  "model": "glm-5.2"
+}

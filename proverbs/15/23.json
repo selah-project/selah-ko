@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "입의 대답으로 말미암아 사람에게 기쁨이 있고, 그때를 만난 말씀은 얼마나 좋은고!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "기쁨이"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "대답으로 말미암아"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "입의"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "말씀은"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "그때를 만난"
+    },
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은고"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:35.993783643Z",
+  "model": "glm-5.2"
+}

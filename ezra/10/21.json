@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 10:21",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 하림의 아들들 중에서: 마아세야, 엘리야, 쉐마야, 여히엘, 우찌야.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "그리고 …의 아들들 중에서"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "하림"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "마아세야"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "엘리야"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "쉐마야"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "여히엘"
+    },
+    {
+      "surface": "ועזיה",
+      "gloss": "우찌야"
+    }
+  ],
+  "timestamp": "2026-08-05T12:33:49.712286078Z",
+  "model": "glm-5.2"
+}

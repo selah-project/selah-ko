@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 요셉을 축복하시며 말씀하셨다. “나의 조상들 아브라함과 이삭이 ⟨그⟩ 앞에서 행하였던 그 엘로힘, 나를 어느 때부터 오늘까지 먹이신 그 엘로힘이시여,",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "축복하시며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉을"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "그 엘로힘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—인"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "행하였던"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "나의 조상들"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그 앞에서"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함과"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "이삭이"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "그 엘로힘"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "먹이신"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "나의 어느 때부터"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:33.326275819Z",
+  "model": "glm-5.2"
+}

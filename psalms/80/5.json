@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "야훼, 엘로힘 체바옷, 언제까지 당신은 당신 백성의 기도에烟雾를 내리실 작정이십니까?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "체바옷"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "烟雾를 내리셨나이까"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "기도에"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신 백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:39.250703544Z",
+  "model": "glm-5.2"
+}

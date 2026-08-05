@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼의 천사가 ⟨그⟩녀에게 말씀하셨다. \"너의 여주인에게 돌아가고, 그녀의 손 아래에서 낮아져라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "천사가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "너의 여주인"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "낮아져라"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "~아래에서"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "그녀의 손"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:50.140556948Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "⟨את⟩ 상과 그 채와 그 모든 기구와 ⟨את⟩ 진설병을",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "상"
+    },
+    {
+      "surface": "הַשֻּׁלְחָן",
+      "gloss": "상"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 채"
+    },
+    {
+      "surface": "בַּדָּיו",
+      "gloss": "그 채"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 모든 기구"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כֵּלָיו",
+      "gloss": "그 기구"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "진설병"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "הַפָּנִים",
+      "gloss": "면"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:17.674605225Z",
+  "model": "glm-5.2"
+}

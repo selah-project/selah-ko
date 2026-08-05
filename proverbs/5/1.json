@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "내 아들아, 나의 지혜에 귀를 기울이고, 나의 명철에 네 귀를 기울여라.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "내 아들아"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "나의 지혜에"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "귀를 기울이고"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "나의 명철에"
+    },
+    {
+      "surface": "הט",
+      "gloss": "기울여라"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "네 귀를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:29.357749289Z",
+  "model": "glm-5.2"
+}

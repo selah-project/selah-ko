@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "사람을 쳐서 죽게 하는 자는 반드시 죽임을 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "치는 자"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "그리하여 죽으면"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음으로"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽임을 당할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:38.615825960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "만일 ⟨그가⟩ 그와 다투기를 원한다면, 천 가지 중 하나도 그에게 대답하지 못하실 것이다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "원한다면"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "다투기를"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "대답하지 못하실 것이다"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나도"
+    },
+    {
+      "surface": "מני",
+      "gloss": "중"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천 가지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:35.505769488Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그들이 바마에서 내려와 도시에 ⟨이르렀고⟩, ⟨그⟩가 샤울과 지붕에서 대화하였다.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "내려왔다"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "바마에서"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "도시에"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "대화하였다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "과"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "지붕"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:02.361022664Z",
+  "model": "glm-5.2"
+}

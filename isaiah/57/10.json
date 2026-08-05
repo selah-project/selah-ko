@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "네 길의 많음으로 말미암아 네가 지쳤으나, 포기했다고 말하지 않았다. 네 손의 활력을 되찾았으므로, 그러므로 약해지지 않았다.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "~의 많음으로 말미암아"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "네 길"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "네가 지쳤으나"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "네가 말했다"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "포기했다"
+    },
+    {
+      "surface": "חית",
+      "gloss": "활력을"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손의"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "네가 되찾았으므로"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러하므로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "네가 약해졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:18:00.911229722Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "너는 내가 네게 명하는 ⟨את⟩ 모든 것을 말하고, 네 형 아하론은 파르오에게 말하여, ⟨그⟩가 ⟨את⟩ 이스라엘의 아들들을 그의 땅에서 보내게 하라.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "내가 네게 명하는"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "그리고 아하론은"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "보내게 하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "그의 땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:12.346714241Z",
+  "model": "glm-5.2"
+}

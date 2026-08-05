@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "다윗이 당신에게 영광을 위하여 무엇을 더 말하오리까 — 당신의 종에게 ⟨영광을⟩. 그리고 당신은 당신의 종 ⟨את⟩을 아십니다.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "더 말하오리까"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "영광을 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 당신은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아십니다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:15.896657966Z",
+  "model": "glm-5.2"
+}

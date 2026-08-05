@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그가 돌들로 ⟨את⟩ 다윗과 ⟨את⟩ 왕 다윗의 모든 종들을 던졌는데, 온 백성과 모든 용사들이 그의 오른편과 왼편에 있었다.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויסקל",
+      "gloss": "던졌는데"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "돌들로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "왕 다윗의 모든 종"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들을"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성과"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "용사들이"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "그의 오른편과"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "왼편에 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:36.763163608Z",
+  "model": "glm-5.2"
+}

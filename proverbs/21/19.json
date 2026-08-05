@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "광야 땅에 사는 것이 다투는 아내와 분노하는 ⟨여자⟩와 ⟨함께 하는 것⟩보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "사는 것이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "…보다 아내와"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "다투는"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "그리고 분노하는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:30.433185336Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "순식간에 내가 한 민족과 한 왕국에 대하여 말하여, 뽑아내고 무너뜨리고 멸하기로 하면,",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "순식간에"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "내가 말하면"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨무엇에⟩ 대하여"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "민족"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ⟨...에⟩ 대하여"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "왕국"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "뽑아내고"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "무너뜨리고"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "멸하기로 하면"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:03.018139647Z",
+  "model": "glm-5.2"
+}

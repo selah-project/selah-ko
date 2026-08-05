@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨그것이⟩ 미츠라임 진영과 이스라엘 진영 사이에 들어섰다. 그리하여 ⟨그⟩ 구름과 어둠이 ⟨있었으나⟩, ⟨그것이⟩ ⟨את⟩ 밤을 비추었다. 그리하여 이쪽이 저쪽에 가까이 오지 못하였다 — 그 밤 내내.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "들어섰다"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 … 사이에"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리하여 … 있었으나"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "구름"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "그리고 어둠"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "비추었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "밤"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 못하였다"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "가까이 오"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이쪽이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "זה",
+      "gloss": "저쪽에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "내내"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "그 밤"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:00.495658970Z",
+  "model": "glm-5.2"
+}

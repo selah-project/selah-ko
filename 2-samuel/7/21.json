@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "당신의 말씀 때문에, 그리고 당신의 마음에 따라, 당신은 ⟨아도나이 야훼가⟩ ⟨את⟩ 이 모든 위대함을 행하셨으니, 당신의 종에게 ⟨את⟩ 알리시려 하셨다.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "당신의 말씀"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "그리고 당신의 마음에 따라"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "행하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 위대함"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "위대함"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "알리려 하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:49.312734408Z",
+  "model": "glm-5.2"
+}

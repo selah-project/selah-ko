@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "아름다움의 완전함인 시온에서 엘로힘께서 빛나셨다.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "시온에서"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "완전함인"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "아름다움의"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "빛나셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:48.644180725Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "강한 손으로, 그리고 펴신 팔로 — 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "강한"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "그리고 팔로"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "펴신"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:54.174007880Z",
+  "model": "glm-5.2"
+}

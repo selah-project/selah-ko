@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 너희가 ⟨את⟩ 그 도시를 점령하면, 너희는 ⟨את⟩ 그 도시를 불로 태워야 한다. 야훼의 말씀대로 너희는 행해야 한다. 보라, 내가 너희에게 명령하였다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ⟨그것이 일어날 것이다⟩"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "너희가 점령하면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 도시를"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 도시를"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "너희는 태워야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 도시를"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 도시를"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "…의 말씀대로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "너희는 행해야 한다"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보라"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "내가 명령하였다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:11.017272753Z",
+  "model": "glm-5.2"
+}

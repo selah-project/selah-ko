@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그분의 땅의 사람 사는 곳에서 즐거워하였고, ⟨את⟩ 사람의 아들들이 나의 기쁨이었다 —",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "즐거워하였다"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "사람 사는 곳에서"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "그분의 땅의"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "나의 기쁨이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람의 아들들을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:47.295220187Z",
+  "model": "glm-5.2"
+}

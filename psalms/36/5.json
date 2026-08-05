@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그의 잠자리에서 악을 도모하며 좋지 않은 길에 스스로 서되, 악을 미워하지 않는다",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "악을"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "도모하며"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "그의 잠자리"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "스스로 서되"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닌"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "미여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:02.032421829Z",
+  "model": "glm-5.2"
+}

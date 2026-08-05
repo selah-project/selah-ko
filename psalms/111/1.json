@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 111,
+  "translation": "할렐루, 야! 온 마음으로 야훼께 감사하리라, 곧은 자들의 비밀 모임과 회중 ⟨에서⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "할렐루"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야!"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "감사하리라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "비밀 모임과"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "곧은 자들의"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "회중"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:51.937752208Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "만일 ⟨그의⟩ 아들들이 나의 토라를 버리고, 나의 규례들 안에서 걷지 아니하면,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "버리고"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들이"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "나의 토라를"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "나의 규례들 안에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "걷지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:37.835340793Z",
+  "model": "glm-5.2"
+}

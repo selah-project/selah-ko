@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "당신은 불의를 기뻐하시는 엘이 아니시기에, 악이 당신과 함께 거류하지 못하리이다.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "아니시기에"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "חָפֵ֘ץ",
+      "gloss": "기뻐하시는"
+    },
+    {
+      "surface": "רֶ֥שַׁע",
+      "gloss": "불의를"
+    },
+    {
+      "surface": "אָ֑תָּה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "못하리이다"
+    },
+    {
+      "surface": "יְגֻרְךָ֣",
+      "gloss": "거류하지"
+    },
+    {
+      "surface": "רָֽע",
+      "gloss": "악이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:02.507784235Z",
+  "model": "glm-5.2"
+}

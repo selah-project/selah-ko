@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "그들은 저녁에 되돌아오고 개처럼 울부짖으며 성을 두루 돈다.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "그들은 되돌아오고"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "저녁에"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "울부짖으며"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "개처럼"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "두루 돈다"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:05.535565226Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "오직 당신이 ⟨את⟩ 내 콩팥들을 지으셨으니, 어미 태 속에서 나를 엮어 덮으셨다.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אַ֭תָּה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "קָנִ֣יתָ",
+      "gloss": "지으셨으니"
+    },
+    {
+      "surface": "כִלְיֹתָ֑י",
+      "gloss": "내 콩팥들을"
+    },
+    {
+      "surface": "תְּ֝סֻכֵּ֗נִי",
+      "gloss": "엮어 덮으셨다"
+    },
+    {
+      "surface": "בְּבֶ֣טֶן",
+      "gloss": "태 속에서"
+    },
+    {
+      "surface": "אִמִּֽי",
+      "gloss": "어미"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:59.878362032Z",
+  "model": "glm-5.2"
+}

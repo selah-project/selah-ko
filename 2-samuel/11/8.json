@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 다윗이 우르야에게 말하였다. \"네 집으로 내려가서 네 발을 씻어라.\" 그리고 우르야가 왕의 집에서 나가니, 왕의 음식이 그의 뒤를 따라 나갔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "우르야에게"
+    },
+    {
+      "surface": "רד",
+      "gloss": "내려가서"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "네 집으로"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "씻어라"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "네 발을"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나가니"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우르야가"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "나갔다"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그의 뒤를 따라"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "음식이"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:29.569562327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "북쪽 입구 ⟨앞에⟩ 길이가 백 암마였고, 너비는 오십 암마였다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "∼로"
+    },
+    {
+      "surface": "פני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "길이"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "암마"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "그 백"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "그 북쪽"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "그리고 그 너비"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "암마"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:45.552621041Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "⟨그는⟩ 빵을 위하여 방황한다 — 어디 있는가? ⟨그는⟩ 안다, 어둠의 날이 ⟨그의⟩ 손에 준비되어 있음을.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "방황한다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "빵을 위하여"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디 있는가"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "안다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "준비되어 있다"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "손에"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날이"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:22.556380775Z",
+  "model": "glm-5.2"
+}

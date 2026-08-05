@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "내 주여, 나를 들어 주십시오. 땅이 은 사백 세겔이온데, 나와 당신 사이에 그것이 무엇이옵니까? 당신의 죽은 자를 ⟨את⟩ 묻으십시오.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "내 주여"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "나를 들어 주십시오"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "사"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "백"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "세겔"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "나와"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "당신 사이에"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "있습니까"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 죽은 자"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "당신의 죽은 자를"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "묻으십시오"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:51.880402289Z",
+  "model": "glm-5.2"
+}

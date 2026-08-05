@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "지혜로운 자의 눈은 그의 머리에 있고, 어리석은 자는 어둠 속을 걷는다. 그런데 나는 또한 알았다 — 하나의 우연이 그들 ⟨את⟩ 모두를 덮친다는 것을.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "지혜로운 자"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "그의 눈은"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "그의 머리에(있고)"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "어리석은 자는"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "어둠 속을"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "걷는다"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "나는 알았다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "…이라는 것을"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "우연이 덮친다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들 모두"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "그들 모두를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:50.343976534Z",
+  "model": "glm-5.2"
+}

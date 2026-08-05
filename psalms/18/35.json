@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "⟨그가⟩ 내 손을 전쟁에 익히시고, 놋활이 내 팔에 의해 내려지다.",
+  "tokens": [
+    {
+      "surface": "מְלַמֵּד",
+      "gloss": "익히시고"
+    },
+    {
+      "surface": "יָדַי",
+      "gloss": "내 손을"
+    },
+    {
+      "surface": "לַמִּלְחָמָה",
+      "gloss": "전쟁에"
+    },
+    {
+      "surface": "וְנִחֲתָה",
+      "gloss": "그리고 내려지다"
+    },
+    {
+      "surface": "קֶשֶׁת",
+      "gloss": "활이"
+    },
+    {
+      "surface": "נְחוּשָׁה",
+      "gloss": "놋"
+    },
+    {
+      "surface": "זְרוֹעֹתָי",
+      "gloss": "내 팔에 의해"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:17.076779700Z",
+  "model": "glm-5.2"
+}

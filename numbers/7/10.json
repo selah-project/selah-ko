@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 족장들이 ⟨את⟩ 제단의 봉헌을 그것이 기름 부음 받은 날에 가까이 가져왔다. 그리고 족장들이 ⟨את⟩ 그들의 코르반을 제단 앞에 가까이 가져왔다.",
+  "tokens": [
+    {
+      "surface": "וקריבו",
+      "gloss": "그리고 가까이 가져왔다"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "족장들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제단의 봉헌"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "봉헌"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "~에 날에"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "기름 부음"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "וקריבו",
+      "gloss": "그리고 가까이 가져왔다"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "족장들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 코르반"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "그들의 코르반"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "~앞에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    }
+  ],
+  "timestamp": "2026-08-05T08:31:38.792867084Z",
+  "model": "glm-5.2"
+}

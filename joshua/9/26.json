@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그가 ⟨그렇게⟩ 그들에게 행하였고, 이스라엘 자손들의 손에서 ⟨את⟩ 그들을 건져내셨으므로, 그들이 그들을 죽이지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가 행하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "그리고 그가 건져내셨다"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "그들이 그들을 죽였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:05:41.837740747Z",
+  "model": "glm-5.2"
+}

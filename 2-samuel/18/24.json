@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 18:24",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "다윗은 두 성문 사이에 앉아 있었다. 파수꾼이 성문 지붕으로, 성벽 쪽으로 올라가 ⟨את⟩ 자기 눈을 들어 보니, 보라, 한 사람이 홀로 달려오고 있었다.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "앉아 있었다"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "성문"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "파수꾼이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "로"
+    },
+    {
+      "surface": "גג",
+      "gloss": "지붕"
+    },
+    {
+      "surface": "השער",
+      "gloss": "성문"
+    },
+    {
+      "surface": "אל",
+      "gloss": "쪽으로"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "들어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 눈을"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "자기 눈을"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보니"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "달려오고 있었다"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "홀로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:05.373678564Z",
+  "model": "glm-5.2"
+}

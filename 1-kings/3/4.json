@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 그 왕은 그곳에서 제사 드리러 기브온으로 갔다. 왜냐하면 그곳이 가장 큰 바마이기 때문이다. 천 올라가는 제물들을 셸로모가 그 제단 위로 올렸다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그리고 갔다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕은"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "기브온으로"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "제사 드리러"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그곳은"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "그 바마는"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "가장 큰"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "올라가는 제물들을"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "올렸다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모가"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위로"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:20.705463576Z",
+  "model": "glm-5.2"
+}

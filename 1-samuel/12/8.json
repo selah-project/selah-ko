@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "야곱이 미츠라임에 들어왔을 때, 너희 조상들이 야훼께 부르짖었으므로, 야훼가 ⟨את⟩ 모셰와 ⟨את⟩ 아하론을 보내시니, 그들이 ⟨את⟩ 너희 조상들을 미츠라임에서 데려내어 이 곳에 거하게 하였다.”",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "때"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임에"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "부르짖었으므로"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "너희 조상들이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아하론"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "데려내어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 조상들"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "너희 조상들"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "거하게 하였다"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:26:30.040469564Z",
+  "model": "glm-5.2"
+}

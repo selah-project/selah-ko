@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "진영이 ⟨나⟩에게 대항하여 진을 칠지라도 ⟨나의⟩ 마음은 두려워하지 아니하리라; 전쟁이 ⟨나⟩에게 일어날지라도, 나는 이것을 확신하리라.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "…할지라도"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "진을 칠"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나에게 대항하여"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하리라"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "나의 마음은"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…할지라도"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "일어날"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁이"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "확신하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:39.362684281Z",
+  "model": "glm-5.2"
+}

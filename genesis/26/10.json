@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "아비멜렉이 말하였다. \"그대가 우리에게 무엇을 하였는가? 거의 ⟨안 되었⟩느니, 백성 중 하나가 ⟨את⟩ 그대의 아내와 잠자리에 들었을 것이며, 그대가 우리 위에 죄과를 가져왔으리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉이"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "그대가 하였는가"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "거의"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "잠자리에 들었"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나가"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성 중"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그대의 아내"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "그대의 아내"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "그대가 가져왔으리라"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리 위에"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "죄과를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:27.918774141Z",
+  "model": "glm-5.2"
+}

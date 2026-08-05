@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "만일 당신이 우리 형제를 우리와 함께 보내신다면, 우리가 내려가서 당신을 위하여 양식을 사 오겠다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "당신이 ─하신다면"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "보내신다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리 형제를"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "우리 형제를"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "우리와 함께"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "우리가 내려가서"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "그리고 사 오겠다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신을 위하여"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "양식을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:04.278794283Z",
+  "model": "glm-5.2"
+}

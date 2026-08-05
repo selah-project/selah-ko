@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "섬들이 보고 두려워하며, 땅의 끝들이 떨고, 가까이 다가와서 왔다.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "보고"
+    },
+    {
+      "surface": "איים",
+      "gloss": "섬들이"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "두려워하며"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "끝들이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "떨고"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "가까이 다가와서"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "왔다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:24.208863546Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "나는 헛된 자들과 함께 앉지 아니하였고, 숨은 자들과 함께 들어가지 아니하겠습니다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "앉지"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "자들과"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "헛된"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "숨은 자들과"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "들어가겠습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:28.839045943Z",
+  "model": "glm-5.2"
+}

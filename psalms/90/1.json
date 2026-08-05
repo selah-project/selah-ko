@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 90,
+  "translation": "기도, 모셰의, 엘로힘의 사람. 아도나이, ⟨당신은⟩ 우리의 거처이셨다, 세대와 세대에.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "기도"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "거처"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "היית",
+      "gloss": "이셨다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리의"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "세대에"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "그리고 세대"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:33.846395653Z",
+  "model": "glm-5.2"
+}

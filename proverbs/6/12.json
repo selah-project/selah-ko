@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "무가치한 자, 악을 일삼는 사람, 그는 구부러진 입으로 다닌다.",
+  "tokens": [
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "자"
+    },
+    {
+      "surface": "בְּ֭לִיַּעַל",
+      "gloss": "무가치한"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "사람"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "악을 일삼는"
+    },
+    {
+      "surface": "ה֝וֹלֵ֗ךְ",
+      "gloss": "다닌다"
+    },
+    {
+      "surface": "עִקְּשׁ֥וּת",
+      "gloss": "구부러진"
+    },
+    {
+      "surface": "פֶּֽה",
+      "gloss": "입으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:50.943502954Z",
+  "model": "glm-5.2"
+}

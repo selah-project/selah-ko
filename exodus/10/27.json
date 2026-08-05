@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 야훼께서 ⟨את⟩ 파르오의 마음을 굳게 하셨으므로, ⟨그가⟩ 그들을 보내는 것을 원하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "굳게 하셨으므로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오의 마음을"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "원하지"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "그들을 보내는 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:09.819883239Z",
+  "model": "glm-5.2"
+}

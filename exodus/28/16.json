@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그것은 네모지고 겹쳐져 있어야 한다. 한 뼘의 길이와 한 뼘의 너비가 되어야 한다.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "네모지고"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "그것은 ～이어야 한다"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "겹쳐져"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "한 뼘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그것의 길이"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "그리고 한 뼘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그것의 너비"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:01.726492439Z",
+  "model": "glm-5.2"
+}

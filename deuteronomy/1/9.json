@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨그⟩ 때에 ⟨내가⟩ 너희에게 말씀하여 이르기를, 나 혼자서는 ⟨את⟩ 너희를 감당할 수 없다 하였다.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "능하다"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "나 혼자서"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "감당함"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:01.128445781Z",
+  "model": "glm-5.2"
+}

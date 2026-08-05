@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "아하브가 죽을 때에 모아브 왕이 이스라엘 왕에게 반역하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨그것이⟩ 일어났다"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "죽을 때에"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브가"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "반역하였다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브의"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "왕에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:30.616348785Z",
+  "model": "glm-5.2"
+}

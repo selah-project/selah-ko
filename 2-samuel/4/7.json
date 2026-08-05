@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "집에 들어갔으니, ⟨그가⟩ 그의 침상 위에, 그의 침실 안에 누워 있었다. 그들이 그를 쳐서 죽이고, ⟨את⟩ 그의 머리를 옮겼다. 그리고 ⟨את⟩ 그의 머리를 가져가, ⟨⟨그⟩ 아라바의⟩ 길로 밤새도록 갔다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "들어갔으니"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "누워 있었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "∼위에"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "그의 침상"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "∼안에"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "그의 침실"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "그를 쳐서"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "죽이고"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "옮겼다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 머리"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "그의 머리"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "가져가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 머리"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "그의 머리"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "아라바의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "밤새도록"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤"
+    }
+  ],
+  "timestamp": "2026-08-05T13:48:43.882114738Z",
+  "model": "glm-5.2"
+}

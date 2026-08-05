@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "다윗의 시편. 야훼의 것, ⟨이⟩ 땅과 그 안에 가득한 것, 세계와 그 안에 사는 자들이라.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼의 것"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "그리고 그 가득한 것"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "그리고 사는 자들"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:47.647830500Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "슬픔으로 나의 생명이 다하였고, 한숨으로 나의 해들이 ⟨다하였다⟩. 나의 죄악으로 나의 힘이 비틀거리고, 나의 뼈들이 쇠하였다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(인과 접속)"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "다하였다"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "슬픔으로"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "나의 생명이"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "나의 해들이"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "한숨으로"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "비틀거리고"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "나의 죄악으로"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "나의 힘이"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "나의 뼈들이"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "쇠하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:18.162460585Z",
+  "model": "glm-5.2"
+}

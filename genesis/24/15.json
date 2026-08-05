@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 24:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 말을 마치기 전에 — 보라, 리브카가 나왔다. 그녀는 아브라함의 형 나홀의 아내 밀카의 아들 브두엘에게서 태어난 자이며, 그녀의 항아리가 그녀의 어깨 위에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …였다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "전에"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "마치"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "말을"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "리브카가"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "나왔다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "לבתואל",
+      "gloss": "브두엘에게서"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "밀카의"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "나홀의"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함의"
+    },
+    {
+      "surface": "וכדה",
+      "gloss": "그리고 그녀의 항아리가"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "그녀의 어깨"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:48.167398522Z",
+  "model": "glm-5.2"
+}

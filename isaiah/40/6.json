@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "소리가 있다. 말하기를, “외쳐라!” 하고, ⟨그가⟩ 말하기를, “내가 무엇을 외치리이까?” 하니, “모든 육체는 풀이요, 그 모든 헤세드는 들의 꽃과 같다.”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "외쳐라"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "하고 ⟨그가⟩ 말하기를"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "외치리이까"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "육체는"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "풀이요"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 그 모든"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "헤세드는"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "꽃과 같다"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:05.364642716Z",
+  "model": "glm-5.2"
+}

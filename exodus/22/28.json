@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "네 수확의 충만함과 네 틀의 누름물을 미루지 마라. 네 아들들의 맏아들을 내게 드려라.",
+  "tokens": [
+    {
+      "surface": "מְלֵאָתְךָ",
+      "gloss": "네 수확의 충만함을"
+    },
+    {
+      "surface": "וְדִמְעֲךָ",
+      "gloss": "그리고 네 틀의 누름물을"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "하지 마라"
+    },
+    {
+      "surface": "תְאַחֵר",
+      "gloss": "미루"
+    },
+    {
+      "surface": "בְּכוֹר",
+      "gloss": "맏아들을"
+    },
+    {
+      "surface": "בָּנֶיךָ",
+      "gloss": "네 아들들의"
+    },
+    {
+      "surface": "תִּתֵּן",
+      "gloss": "드려라"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "내게"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:57.978330284Z",
+  "model": "glm-5.2"
+}

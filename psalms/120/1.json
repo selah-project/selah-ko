@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 120,
+  "translation": "올라가는 노래 시편이다. 곤경 중에 내가 야훼께 부르짖었더니, 그가 내게 응답하셨다.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는 것들의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "곤경에서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "내가 부르짖었더니"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "그가 내게 응답하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:51.634113659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "그가 ⟨그⟩ 황폐한 자의 기도로 얼굴을 돌리시며, ⟨את⟩ 그들의 기도를 멸시하지 않으셨도다.",
+  "tokens": [
+    {
+      "surface": "פָּ֭נָה",
+      "gloss": "얼굴을 돌리시며"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "～로"
+    },
+    {
+      "surface": "תְּפִלַּ֣ת",
+      "gloss": "기도"
+    },
+    {
+      "surface": "הָעַרְעָ֑ר",
+      "gloss": "황폐한 자의"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "～하지 않으셨으며"
+    },
+    {
+      "surface": "בָ֝זָ֗ה",
+      "gloss": "멸시"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 기도"
+    },
+    {
+      "surface": "תְּפִלָּתָֽם",
+      "gloss": "그들의 기도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:45.018372026Z",
+  "model": "glm-5.2"
+}

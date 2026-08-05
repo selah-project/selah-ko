@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 26:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "숯은 불씨에, 나무는 불에, 그리고 다투는 자는 갈등을 지피는 것과 같다.",
+  "tokens": [
+    {
+      "surface": "פחם",
+      "gloss": "숯은"
+    },
+    {
+      "surface": "לגחלים",
+      "gloss": "불씨에"
+    },
+    {
+      "surface": "ועצים",
+      "gloss": "나무는"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 ⟨사람은⟩"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "다투는"
+    },
+    {
+      "surface": "לחרחר",
+      "gloss": "지피는 것에"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "갈등을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:24.933851039Z",
+  "model": "glm-5.2"
+}

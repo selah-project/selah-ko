@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 모든 문들과 문지방들은 네모지고, 틈새창이었으며, 그리고 맞은편에 창이 창을 마주보았으니, 세 차례였다.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "그 문들"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "그리고 그 문지방들"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "네모진"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "틈새창"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "그리고 맞은편에"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "창"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "창"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "세"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "차례"
+    }
+  ],
+  "timestamp": "2026-08-05T13:50:24.505538662Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "원수가 ⟨나의⟩ 네페쉬를 쫓아 잡고, ⟨나의⟩ 생명을 땅에 짓밟으며, ⟨나의⟩ 영광을 먼지에 거하게 하라. 셀라.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "쫓으라"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수가"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨나의⟩ 네페쉬를"
+    },
+    {
+      "surface": "ושג",
+      "gloss": "잡고"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "짓밟으라"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "⟨나의⟩ 생명을"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "⟨나의⟩ 영광을"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "먼지에"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "거하게 하라"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:08.460695701Z",
+  "model": "glm-5.2"
+}

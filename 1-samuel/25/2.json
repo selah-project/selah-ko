@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 25:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 마온에 한 사람이 있었는데, 그의 사업장은 카르멜에 있었다. 그 사람은 매우 큰자로, 양 삼천과 염소 일천이 그에게 있었다. 그리고 카르멜에서 ⟨את⟩ 그의 양 떼를 깎을 때에 일어난 일이었다.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 한 사람이"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "마온에"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "그의 사업장은"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "카르멜에"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "그리고 그 사람은"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰자로"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "삼"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "그리고 일천"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "염소가"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "일어난 일이었다"
+    },
+    {
+      "surface": "בגזז",
+      "gloss": "깎을 때에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 양 떼를"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "그의 양 떼를"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "카르멜에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:42.309652786Z",
+  "model": "glm-5.2"
+}

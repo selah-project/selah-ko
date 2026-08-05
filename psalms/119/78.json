@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "거만한 자들이 부끄러워하게 하소서. 그들이 거짓으로 나를 굽게 하였음 ⟨이라⟩. 나는 주의 훈계들을 묵상하리다.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "부끄러워하게 하소서"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "거만한 자들이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이라"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓으로"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "나를 굽게 하였음"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "묵상하리다"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "주의 훈계들을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:10.463199147Z",
+  "model": "glm-5.2"
+}

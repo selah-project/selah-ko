@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그리고 감사의 제물들을 제물로 드리라, 그리고 그의 행하신 일들을 노래로 이야기하라!",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "그리고 … 제물로 드리라"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "…의 제물들을"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "감사"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "그리고 … 이야기하라"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "그의 행하신 일들을"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "노래로"
+    }
+  ],
+  "timestamp": "2026-08-05T19:47:56.717456083Z",
+  "model": "glm-5.2"
+}

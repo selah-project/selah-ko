@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "샤울이 요나단의 목소리에 귀를 기울였고, 샤울이 맹세하였다. \"야훼의 삶으로, 그가 죽임을 당하지 아니하리라.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "귀를 기울였고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "목소리에"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "요나단의"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "맹세하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "חי",
+      "gloss": "삶으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽임을 당하지 아니하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:33.993135596Z",
+  "model": "glm-5.2"
+}

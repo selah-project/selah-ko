@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "굽은 마음은 좋은 것을 찾지 못하고, 혀를 뒤집는 자는 재앙에 빠진다.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "굽은"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하고"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "찾지"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것을"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "뒤집는"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "혀를"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "빠진다"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "재앙에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:23.983123432Z",
+  "model": "glm-5.2"
+}

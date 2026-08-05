@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 그들이 케뎀에서 떠나 ⟨이동할 때⟩, 그들은 샤나르의 땅에 있는 평지를 찾아내고, 거기에 거하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 되었다"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "그들이 떠나 ⟨이동할 때⟩"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "케뎀에서"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "그들은 찾아내고"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "평지를"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "샤나르의"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:54.405715035Z",
+  "model": "glm-5.2"
+}

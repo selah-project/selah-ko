@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "나는 ⟨את⟩ 야훼를 송축하리니, ⟨그⟩분이 나를 권면하셨다. 밤들에도 나의 콩팥들이 나를 징계하는도다.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "나는 송축하리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩분이"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "권면하셨다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "또한"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "밤들에"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "나를 징계하는도다"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "나의 콩팥들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:53.942625370Z",
+  "model": "glm-5.2"
+}

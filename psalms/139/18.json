@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "내가 그것들을 세어 보면, 모래보다 많아지리니 — 내가 깨어나도, 나는 여전히 ⟨당신⟩과 함께 있나이다.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "내가 그것들을 세어 보면"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "모래보다"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "많아지리니"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "내가 깨어나도"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "나는 여전히"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신과 함께 있나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:51.659440229Z",
+  "model": "glm-5.2"
+}

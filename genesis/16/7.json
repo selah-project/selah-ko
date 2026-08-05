@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼의 사자가 그녀를 만났는데, 광야의 물샘 곁에서, 수르 길 위의 샘 곁에서였다.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "만났는데"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "על",
+      "gloss": "곁에서"
+    },
+    {
+      "surface": "עין",
+      "gloss": "샘"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위의"
+    },
+    {
+      "surface": "העין",
+      "gloss": "그 샘"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "שור",
+      "gloss": "수르"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:53.908334619Z",
+  "model": "glm-5.2"
+}

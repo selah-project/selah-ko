@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 너는 이스라엘의 통치자들에 대해 애가를 들어 올이라.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너는"
+    },
+    {
+      "surface": "שא",
+      "gloss": "들어 올이라"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "애가를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⋯⟩에 대해"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "통치자들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:53:13.927160351Z",
+  "model": "glm-5.2"
+}

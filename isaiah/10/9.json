@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "카르케미쉬와 같지 아니하냐 칼노가, 아르팟과 같지 아니하냐 하맛이, 다메섹와 같지 아니하냐 쇼메론이?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "…가 같지 아니하냐"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "카르케미쉬와 같이"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "칼노가"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "같지 아니하냐"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "아르팟과 같이"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "하맛이"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "같지 아니하냐"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "다메섹와 같이"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "쇼메론이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:22.829556350Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 44:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 우리가 내 주께 말하였습니다. '저희에게 늙은 아버지가 있고, 노년에 낳은 작은 아이가 있습니다. 그리고 그의 형은 죽었으므로, 그가 어미에게만 홀로 남았고, 그의 아버지가 그를 사랑하였습니다.'",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "그리고 우리가 … 말하였습니다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨…⟩께"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있습니다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "저희에게"
+    },
+    {
+      "surface": "אב",
+      "gloss": "아버지가"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "늙은"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "그리고 … 아이가"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "노년에"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "작은"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "그리고 그의 형은"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽었으므로"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "남았고"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "어미에게만"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "그의 아버지가"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "그를 사랑하였습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:45.801380762Z",
+  "model": "glm-5.2"
+}

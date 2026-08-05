@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 41:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "동쪽에서 의를 누가 일으키셨는가? 그를 자기 발 앞으로 부르셨고, 민족들을 그 앞에 내주시며, 왕들을 그가 다스리게 하셨다. 그의 칼은 그들을 먼지 같게, 그의 활은 바람에 흩날리는 짚 같게 만들었다.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "일으키셨는가"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "동쪽에서"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "의를"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "그를 부르셨고"
+    },
+    {
+      "surface": "לרגלו",
+      "gloss": "자기 발 앞으로"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "내주시며"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그 앞에"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들을"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "왕들을"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "다스리게 하셨다"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "먼지 같게"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "그의 칼은"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "짚 같게"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "바람에 흩날리는"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "그의 활은"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:54.793661720Z",
+  "model": "glm-5.2"
+}

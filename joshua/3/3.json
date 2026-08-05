@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "관리들이 ⟨את⟩ 백성에게 명령하여 이르기를, 너희가 ⟨את⟩ 야훼 너희 엘로힘의 브리트(언약) 궤를 — 레위 코헨(제사장)들이 그것을 메고 있는 것을 — 보거든, 너희는 너희 자리에서 떠나 그 뒤를 걸어가라, 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "명령하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "보거든"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤를"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트(언약)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘의"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "코헨(제사장)들이"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "메고 있는"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "너희는"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "너희 자리에서"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "걸어가라"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그 뒤를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:03:53.182687106Z",
+  "model": "glm-5.2"
+}

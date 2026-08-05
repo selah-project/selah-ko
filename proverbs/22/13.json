@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "나태한 자가 말하였다. \"밖에 사자가 있다. 광장 한복판에서 내가 살해당하리라.\"",
+  "tokens": [
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "עָ֭צֵל",
+      "gloss": "나태한 자가"
+    },
+    {
+      "surface": "אֲרִ֣י",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "בַח֑וּץ",
+      "gloss": "밖에"
+    },
+    {
+      "surface": "בְּת֥וֹךְ",
+      "gloss": "한복판에서"
+    },
+    {
+      "surface": "רְחֹב֗וֹת",
+      "gloss": "광장"
+    },
+    {
+      "surface": "אֵֽרָצֵֽחַ",
+      "gloss": "살해당하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:38.771132139Z",
+  "model": "glm-5.2"
+}

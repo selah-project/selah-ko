@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "아도나이께서 시온 딸들의 더러움을 ⟨את⟩ 씻어 내시며, 예루샬라임의 피를 ⟨את⟩ 그 한가운데서 밀어 내실 때에 — 심판의 루아흐로, 그리고 소멸의 루아흐로.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "씻어 내실 때에"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "시온 딸들의 더러움을"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "더러움을"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸들의"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임의 피를"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "피를"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임의"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "밀어 내시며"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "그 한가운데서"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "루아흐로"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "심판의"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "그리고 루아흐로"
+    },
+    {
+      "surface": "בער",
+      "gloss": "소멸의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:55.151598814Z",
+  "model": "glm-5.2"
+}

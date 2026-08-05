@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼께서 그에게 말씀하셨다. \"그의 이름을 이즈르엘이라 불러라. 아직 조금이면 내가 이즈르엘의 피들을 집 예후 위에 방문하여, 이스라엘 집의 왕국을 그치게 할 것임이라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "불러라"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "이즈르엘이라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금이면"
+    },
+    {
+      "surface": "ופק드תי",
+      "gloss": "방문하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "피들을"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "피들을"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "이즈르엘의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "예후"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "그치게 할 것임이라"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "왕국을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T18:24:24.041344814Z",
+  "model": "glm-5.2"
+}

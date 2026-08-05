@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 이제 이스라엘아, 내가 너희에게 가르쳐 ⟨안식하는⟩ ⟨규례들⟩과 ⟨법도들⟩을 들어라, ⟨그것들을⟩ 행하기 위하여, 너희가 살고 들어가서 ⟨את⟩ 땅을 차지하기 위함이다, 그것은 너희 조상들의 엘로힘 야훼께서 너희에게 주시는 것이다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에(귀를)"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "그 규례들"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~에"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "그 법도들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "가르친다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하기 위하여"
+    },
+    {
+      "surface": "למען",
+      "gloss": "~하기 위함이다"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "너희가 살고"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "들어가서"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "차지하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "~의 엘로힘"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "너희 조상들"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주시는"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:28.457405306Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "왜냐하면 육체의 네페쉬는, 그 피 안에 있기 때문이다. 그리고 나는 그것을 너희에게 제단 위에 주어, 너희 네페쉬들을 위해 속하게 하려고 한 것이다. 왜냐하면 그 피가, 네페쉬 안에서, 속하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "그 육체"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "…그 피 안에"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이다"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "내가 그것을 주(셌)다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "속하게 하려고"
+    },
+    {
+      "surface": "על",
+      "gloss": "…를 위해"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "너희 네페쉬들"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "그 피"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이다"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "…네페쉬 안에서"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "속하기( 때문이다)"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:48.324703161Z",
+  "model": "glm-5.2"
+}

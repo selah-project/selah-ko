@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "내가 ⟨את⟩ 그 땅을 보았더니, 보라, 혼돈과 공허였고, ⟨את⟩ 그 하늘들을 보았더니, 그 빛이 없었다.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았더니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "혼돈과"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "공허였고"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨보았더니⟩ …에게로"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "그 하늘들을"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "그들의 빛이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:27:14.124858177Z",
+  "model": "glm-5.2"
+}

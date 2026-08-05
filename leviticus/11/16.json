@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 타조와 ⟨את⟩ 쏙독새와 ⟨את⟩ 갈매기를, 그리고 ⟨את⟩ 매를 그것의 종류대로.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "타조를"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "타조"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "쏙독새를"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "쏙독새"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "갈매기를"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "갈매기"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "매를"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "매"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "그것의 종류대로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:07.819822944Z",
+  "model": "glm-5.2"
+}

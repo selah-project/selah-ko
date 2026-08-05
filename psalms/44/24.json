@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "깨어 주소서, 어찌 잠을 주무르시나이까, 아도나이여. 일어나 주소서, 영원히 우리를 버리지 마소서.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "깨어 주소서"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "잠을 주무르시나이까"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이여"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "일어나 주소서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼하지 마소서"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "우리를 버리"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:43.438178416Z",
+  "model": "glm-5.2"
+}

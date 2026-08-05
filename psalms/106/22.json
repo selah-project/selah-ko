@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "함의 땅에서 기이한 일들, 수(葦)의 바다 위에 두려운 일들을.",
+  "tokens": [
+    {
+      "surface": "נִ֭פְלָאות",
+      "gloss": "기이한 일들"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "함의"
+    },
+    {
+      "surface": "נ֝וֹרָא֗וֹת",
+      "gloss": "두려운 일들을"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יַם",
+      "gloss": "바다"
+    },
+    {
+      "surface": "סֽוּף",
+      "gloss": "수(葦)의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:15.102083859Z",
+  "model": "glm-5.2"
+}

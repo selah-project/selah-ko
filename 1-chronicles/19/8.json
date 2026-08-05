@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "다윗이 듣고 ⟨את⟩ 요압과 ⟨את⟩ 용사들의 모든 군대를 보내셨다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요압"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요압"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "용사들의 모든 군대"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "군대"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "용사들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:05.754472759Z",
+  "model": "glm-5.2"
+}

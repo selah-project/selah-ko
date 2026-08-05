@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그가 말씀하셨다. \"이것은 악함이다.\" 그리고 그녀를 ⟨את⟩ 그 에파의 한가운데로 던지시고, 납의 돌을 ⟨את⟩ 그것의 입으로 던지셨다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것은"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "악함이다"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "던지시고"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "그 에파의"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "던지셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "납의 돌을"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌을"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "납의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "그것의 입"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:41.399357260Z",
+  "model": "glm-5.2"
+}

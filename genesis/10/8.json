@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 쿠쉬가 ⟨את⟩ 니므롯을 낳았다 — 그가 땅에서 용사가 되기 시작하였다.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "그리고 쿠쉬가"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "니므롯을"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "니므롯"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "החל",
+      "gloss": "시작하였다"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "되기"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "용사"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:20.822167096Z",
+  "model": "glm-5.2"
+}

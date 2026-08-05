@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 이제 들으라, 야곱 내 종아, 그리고 ⟨내가⟩ 선택한 이스라엘아.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "내 종아"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "그리고 이스라엘"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "선택하였다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:24.970567838Z",
+  "model": "glm-5.2"
+}

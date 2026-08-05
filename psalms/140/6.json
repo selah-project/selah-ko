@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 140,
+  "translation": "거만한 자들이 나를 위해 올가미를 숨겼고, 밧줄들로 그물을 펴 길 곁에 벌였으며, 나를 위해 덫들을 놓았다. 셀라.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "숨겼다"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "거만한 자들이"
+    },
+    {
+      "surface": "פח",
+      "gloss": "올가미를"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "밧줄들로"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "펴"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "그물을"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "곁에"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "길"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "덫들을"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "놓았다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:35.871233407Z",
+  "model": "glm-5.2"
+}

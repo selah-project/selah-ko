@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "야훼의 집에 심기우고, 우리 엘로힘의 뜰에서 무성하리라.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "심기우고"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "뜰에서"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘의"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "무성하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:38.358326802Z",
+  "model": "glm-5.2"
+}

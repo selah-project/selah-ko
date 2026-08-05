@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 예호수아가 ⟨그⟩ 백성의 ⟨את⟩ 소리를 외침으로 듣고, 모셰에게 말하였다. “진영 안에 전쟁의 소리⟨이다⟩.”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "그리고 … 듣고"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호수아가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소리"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "외침으로"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 … 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁의"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "진영 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:46.169533034Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 대답하여 말할 것이다. \"우리의 손이 ⟨את⟩ 이 피를 쏟지 아니하였고 우리의 눈이 보지 못하였다.\"",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "그리고 대답하여"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "말할 것이다"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "우리의 손이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "쏟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 피"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "그리고 우리의 눈이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보았다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:14.315045065Z",
+  "model": "glm-5.2"
+}

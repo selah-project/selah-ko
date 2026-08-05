@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 12:9",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그에게 아들 삼십 명과 딸 삼십 명이 있었는데, ⟨그가⟩ 딸 삼십 명을 밖으로 보내고, 아들들을 위해 딸 삼십 명을 밖에서 데려왔다. 그가 ⟨את⟩ 이스라엘을 칠 년 동안 재판하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었는데"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "와 삼십"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내고"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "밖으로"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "그리고 삼십"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "데려왔다"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "아들들을 위해"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "밖"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "칠"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:47.624065893Z",
+  "model": "glm-5.2"
+}

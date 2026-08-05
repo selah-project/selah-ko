@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "젊었고 또 늙었으나, 체데크인이 버림받고 ⟨그의⟩ 씨가 떡을 구하는 것을 보지 못하였다.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "젊었고"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "늙었으나"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "보지 못하였다"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "보지 못하였다"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "체데크인이"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "버림받고"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "그의 씨가"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "구하는"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:24.317577288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그들이 번성한 것 같이 내게 죄를 지었으니, 나는 그들의 영광을 수치로 바꾸리라.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "그들이 번성한 것 같이"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그처럼"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "죄를 지었으니"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "그들의 영광을"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "수치로"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "바꾸리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:32.313676964Z",
+  "model": "glm-5.2"
+}

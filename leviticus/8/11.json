@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 거기서부터 ⟨그것을⟩ 제단 위에 일곱 번 뿌렸고, ⟨את⟩ 제단과 ⟨את⟩ 그 모든 기구들과 ⟨את⟩ 대야와 ⟨את⟩ 그 받침을 기름부어 — 그것들을 거룩하게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "그리고 뿌렸고"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "거기서부터"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "번"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "그리고 기름부어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제단을"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "기구들과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "대야를"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "대야와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "받침을"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "그 받침을"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "그것들을 거룩하게 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:03.275782246Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 142,
+  "translation": "오른편을 살펴보고 보아 주십시오. 그러나 나를 아는 ⟨이가⟩ 없고, 피난처가 나에게서 사라졌으며, ⟨아무도⟩ 내 네페쉬를 찾아 주는 ⟨이가⟩ 없습니다.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "살펴보고"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른편을"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "보아 주십시오"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그러나 없고"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "아는"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "사라졌으며"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "피난처가"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없습니다"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "찾아 주는"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "내 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:13.625457407Z",
+  "model": "glm-5.2"
+}

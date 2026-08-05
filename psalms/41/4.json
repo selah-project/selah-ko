@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "야훼가 병든 침상에서 그를 붙드신다. 그의 누움을 온통 그의 병중에서 뒤집으셨다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "그를 붙드신다"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "침상"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "병든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온통"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "그의 누움을"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "뒤집으셨다"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "그의 병중에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:00.433679170Z",
+  "model": "glm-5.2"
+}

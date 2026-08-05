@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그들이 무릎을 꿇고 넘어졌으나, 우리는 일어나 ⟨곧게⟩ 서 있다.",
+  "tokens": [
+    {
+      "surface": "הֵ֭מָּה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "כָּרְע֣וּ",
+      "gloss": "무릎을 꿇고"
+    },
+    {
+      "surface": "וְנָפָ֑לוּ",
+      "gloss": "넘어졌으나"
+    },
+    {
+      "surface": "וַאֲנַ֥חְנוּ",
+      "gloss": "우리는"
+    },
+    {
+      "surface": "קַּ֝מְנוּ",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "וַנִּתְעוֹדָֽד",
+      "gloss": "⟨곧게⟩ 서 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:12.116979412Z",
+  "model": "glm-5.2"
+}

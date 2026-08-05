@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 아담이 다시 ⟨את⟩ 그의 아내를 알았고, 그녀가 아들을 낳았으며, 그녀가 ⟨את⟩ 그의 이름을 셋이라 불렀다. “엘로힘이 ⟨아벨⟩ 대신에 다른 씨를 나에게 놓으셨기 때문이다 — 카인이 그를 죽였으므로.”",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "알았고"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "아담이"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아내를"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내를"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳았으며"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "שת",
+      "gloss": "셋이라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שת",
+      "gloss": "놓으셨다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨를"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "아벨"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "그를 죽였으므로"
+    },
+    {
+      "surface": "קין",
+      "gloss": "카인이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:55.982264663Z",
+  "model": "glm-5.2"
+}

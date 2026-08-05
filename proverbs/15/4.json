@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "치료하는 혀는 생명 나무이고, 그 안의 비틀림은 루아흐 안의 부서짐이다.",
+  "tokens": [
+    {
+      "surface": "מַרְפֵּ֣א",
+      "gloss": "치료하는"
+    },
+    {
+      "surface": "לָ֭שׁוֹן",
+      "gloss": "혀는"
+    },
+    {
+      "surface": "עֵ֣ץ",
+      "gloss": "나무이고"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "생명"
+    },
+    {
+      "surface": "וְסֶ֥לֶף",
+      "gloss": "비틀림은"
+    },
+    {
+      "surface": "בָּ֝֗הּ",
+      "gloss": "그 안의"
+    },
+    {
+      "surface": "שֶׁ֣בֶר",
+      "gloss": "부서짐이다"
+    },
+    {
+      "surface": "בְּרֽוּחַ",
+      "gloss": "루아흐 안의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:53.911621559Z",
+  "model": "glm-5.2"
+}

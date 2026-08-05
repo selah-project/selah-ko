@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 모션이 온 이스라엘 회중의 귀에 ⟨את⟩ 이 노래의 이 말씀들을 끝까지 말하였다.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "מֹשֶׁ֗ה",
+      "gloss": "모션이"
+    },
+    {
+      "surface": "בְּאָזְנֵי֙",
+      "gloss": "…의 귀에"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "קְהַ֣ל",
+      "gloss": "회중"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이 말씀들"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "…의 말씀들을"
+    },
+    {
+      "surface": "הַשִּׁירָ֖ה",
+      "gloss": "그 노래"
+    },
+    {
+      "surface": "הַזֹּ֑את",
+      "gloss": "이"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "תֻּמָּֽם",
+      "gloss": "끝"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:58.020401090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그의 뒤에 아브돈 빌렐의 아들 하프르아토니가 ⟨את⟩ 이스라엘을 재판하였다.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그의 뒤에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "아브돈"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "빌렐의"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "하프르아토니"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:45.995992120Z",
+  "model": "glm-5.2"
+}

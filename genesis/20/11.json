@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 20:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "아브라함이 말하였다. \"내가 말하기를, 다만 이곳에는 엘로힘을 두려워함이 없고 그들이 내 아내 때문에 나를 죽일 것이라 하였습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "내가 말하기를"
+    },
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "두려워함이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "이곳에는"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "והרגוני",
+      "gloss": "그들이 ~ 죽일 것이라"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일로"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "내 아내의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:00.837242030Z",
+  "model": "glm-5.2"
+}

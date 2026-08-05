@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 53,
+  "translation": "거기서 그들은 두려움을 두려워하였다, 두려움이 없었건만. 곧 엘로힘께서 ⟨그⟩ 진 친 자의 뼈들을 흩으셨음이라. 네가 그들을 수치스럽게 하셨다. 곧 엘로힘께서 그들을 버리셨음이라.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "그들은 두려워하였다"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "두려움을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "두려움이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘께서"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "흩으셨음이라"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "뼈들을"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "⟨그⟩ 진 친 자의"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "수치스럽게 하셨다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘께서"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "그들을 버리셨음이라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:41.349760395Z",
+  "model": "glm-5.2"
+}

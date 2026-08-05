@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "왕이 명하셨다 — 코헨 힐키야와, 샤판의 아들 아히캄과, 미카야의 아들 아크보르와, 소페르 샤판과, 왕의 종 아사야에게 ⟨את⟩ 힐키야를, ⟨את⟩ 아히캄을, ⟨את⟩ 아크보르를, ⟨את⟩ 샤판을, ⟨את⟩ 아사야를 — 이르기를.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "명하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "힐키야"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "힐키야를"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아히캄"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "아히캄과"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "샤판의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아크보르"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "아크보르와"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "미카야의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "샤판"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "샤판과"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "소페르"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아사야"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "아사야에게"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:25:56.022626419Z",
+  "model": "glm-5.2"
+}

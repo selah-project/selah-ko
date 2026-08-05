@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "지혜로운 ⟨자⟩는 두려워하고 악에서 물러나거늘, 미련한 ⟨자⟩는 성내며 ⟨的自己를⟩ 의뢰한다.",
+  "tokens": [
+    {
+      "surface": "חָכָם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "יָרֵא",
+      "gloss": "두려워하고"
+    },
+    {
+      "surface": "וְסָר",
+      "gloss": "물러나거늘"
+    },
+    {
+      "surface": "מֵרָע",
+      "gloss": "악에서"
+    },
+    {
+      "surface": "וּכְסִיל",
+      "gloss": "미련한"
+    },
+    {
+      "surface": "מִתְעַבֵּר",
+      "gloss": "성내며"
+    },
+    {
+      "surface": "וּבוֹטֵחַ",
+      "gloss": "의뢰한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:55.087984904Z",
+  "model": "glm-5.2"
+}

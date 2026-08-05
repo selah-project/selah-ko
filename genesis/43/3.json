@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그리고 예후다가 그에게 말하며 이르기를: \"그 사람이 우리에게 엄히 증언하여 이르기를: '너희가 너희 형제를 너희와 함께 데리고 오지 않으면 너희가 내 얼굴을 보지 못하리라' 하였다.\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ─가 말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다가"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "העד",
+      "gloss": "엄히"
+    },
+    {
+      "surface": "העד",
+      "gloss": "증언하여"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "너희가 보리라"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴을"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "┌─하지 않으면"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "너희 형제가"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:04.277766016Z",
+  "model": "glm-5.2"
+}

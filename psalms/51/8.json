@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "보라, 당신은 속된 곳에서 진실을 원하시고, 감추어진 곳에서 지혜를 내게 알려 주신다.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "진실을"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "당신은 원하시고"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "속된 곳에서"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "감추어진 곳에서"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜를"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "내게 알려 주신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:57.398359197Z",
+  "model": "glm-5.2"
+}

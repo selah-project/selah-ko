@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "헤세드와 에메트가 너를 떠나지 않게 하라 — ⟨그것들⟩을 네 목에 매고, ⟨그것들⟩을 네 마음의 판에 새겨라.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "헤세드와"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "에메트가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~않게 하라"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "너를 떠나지"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "⟨그것들⟩을 ~매고"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "네 목"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "⟨그것들⟩을 ~새겨라"
+    },
+    {
+      "surface": "על",
+      "gloss": "~의"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "판에"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:29.621498654Z",
+  "model": "glm-5.2"
+}

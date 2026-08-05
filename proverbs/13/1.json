@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "지혜로운 아들은 아비의 훈계를 ⟨들이 받으나⟩, 조롱자는 꾸짖음을 듣지 아니한다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들은"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "훈계를"
+    },
+    {
+      "surface": "אב",
+      "gloss": "아비의"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "조롱자는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "듣지"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "꾸짖음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:11.213949448Z",
+  "model": "glm-5.2"
+}

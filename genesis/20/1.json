@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "아브라함이 거기서 떠나 네게브 땅으로 가며, 카데스와 슈르 사이에 거하였고, 게라르에서 거류하였다.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "네게브"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "거하였고"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "카데스와"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…와"
+    },
+    {
+      "surface": "שור",
+      "gloss": "슈르"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "거류하였다"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "게라르에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:12.868138927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "화, 피의 도성, 그 전체가 거짓과 약탈로 가득하며, 사냥감이 떠나지 않는다.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "도성"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "피의"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "그 전체가"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "거짓과"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "약탈로"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "가득하며"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하는"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "사냥감이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:02.718759428Z",
+  "model": "glm-5.2"
+}

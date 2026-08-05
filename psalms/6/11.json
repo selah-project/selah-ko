@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "수치를 당하고 크게 당황할 것이다, 나의 모든 원수들이; 돌아설 것이다, 순식간에 수치를 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "수치를 당할 것이다"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "당황할 것이다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "나의 원수들이"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "돌아설 것이다"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "수치를 당할 것이다"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "순식간에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:08.091316983Z",
+  "model": "glm-5.2"
+}

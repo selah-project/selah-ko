@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "즈루밧벨에게, 즉 유다의 총독에게 말하여 이르기를, 나는 ⟨את⟩ 하늘들과 ⟨את⟩ 땅을 뒤흔들고 있다, ⟨라고⟩ 하여라.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "즈루밧벨"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "총독"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "뒤흔들고 있다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하늘들"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:42.105368636Z",
+  "model": "glm-5.2"
+}

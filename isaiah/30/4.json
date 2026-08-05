@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "이는 그의 방백들이 초안에 있고, 그의 사자들이 하네스에 이르렀음이라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있고"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "초안에"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "그의 방백들이"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "그의 사자들이"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "하네스에"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "이르렀음이라"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:52.300852639Z",
+  "model": "glm-5.2"
+}

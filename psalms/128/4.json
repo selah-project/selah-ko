@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 128,
+  "translation": "보라, 참으로 이같이 야훼를 경외하는 ⟨그⟩ 남자가 복을 받으리라.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "복을 받으리라"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "경외하는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:14.658544889Z",
+  "model": "glm-5.2"
+}

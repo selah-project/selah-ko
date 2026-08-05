@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "야훼 경외는 정결하여 영원히 서 있고, 야훼의 판단들은 에메트이며, 함께 의롭다.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "경외는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "정결하여"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "서 있고"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "판단들은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "에메트이며"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "의롭다"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:18.985573670Z",
+  "model": "glm-5.2"
+}

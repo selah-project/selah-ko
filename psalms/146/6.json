@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 146,
+  "translation": "하늘과 땅을, ⟨את⟩ 바다와 ⟨את⟩ 그 안에 있는 모든 것을 만드신 이, 에메트를 영원토록 지키시는 이.",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֤ה",
+      "gloss": "만드신 이"
+    },
+    {
+      "surface": "שָׁ֘מַ֤יִם",
+      "gloss": "하늘을"
+    },
+    {
+      "surface": "וָאָ֗רֶץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "바다"
+    },
+    {
+      "surface": "הַיָּ֥ם",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 안에 있는 모든 것"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…⟨것⟩"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "그 안에 있는"
+    },
+    {
+      "surface": "הַשֹּׁמֵ֖ר",
+      "gloss": "지키시는 이"
+    },
+    {
+      "surface": "אֱמֶ֣ת",
+      "gloss": "에메트를"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "영원토록"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:03.956675742Z",
+  "model": "glm-5.2"
+}

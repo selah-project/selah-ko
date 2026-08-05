@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "남으로 가고 북으로 돌며, 계속 돌고 도는데, 루아흐가 가고 ⟨그⟩ 순환들 위로 루아흐가 돌아온다.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "남"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "그리고 돌며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "북"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "돌고"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "도는데"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "루아흐가"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ~위로"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "그 순환들"
+    },
+    {
+      "surface": "שב",
+      "gloss": "돌아온다"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "루아흐가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:14.304351585Z",
+  "model": "glm-5.2"
+}

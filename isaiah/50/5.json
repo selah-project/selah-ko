@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "아도나이 야훼께서 내 귀를 여셨으나 나는 거역하지 아니하였고 뒤로 물러서지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֤י",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יְהוִה֙",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "פָּתַֽח",
+      "gloss": "여셨으나"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "אֹ֔זֶן",
+      "gloss": "귀를"
+    },
+    {
+      "surface": "וְאָנֹכִ֖י",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "מָרִ֑יתִי",
+      "gloss": "거역하였다"
+    },
+    {
+      "surface": "אָח֖וֹר",
+      "gloss": "뒤로"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נְסוּגֹֽתִי",
+      "gloss": "물러서다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:21:56.509091700Z",
+  "model": "glm-5.2"
+}

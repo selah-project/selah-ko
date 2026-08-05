@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 128,
+  "translation": "네 손들의 수고를 네가 먹으리니, 네 복이 되고 ⟨그것이⟩ 네게 좋으리라.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "수고를"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "네 손들의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "네가 먹으리니"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "네 복이 되고"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "좋으리라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:14.658310921Z",
+  "model": "glm-5.2"
+}

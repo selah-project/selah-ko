@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "그리고 의인들은 기뻐하며, 엘로힘 앞에서 환호하고, 즐거움으로 뛰놀리라.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "그리고 의인들은"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "기뻐하며"
+    },
+    {
+      "surface": "יעל즄",
+      "gloss": "환호하고"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "뛰놀리라"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "즐거움으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:44.555862025Z",
+  "model": "glm-5.2"
+}

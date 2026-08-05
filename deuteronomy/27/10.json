@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 너는 야훼 네 엘로힘의 소리에 순종하며, ⟨את⟩ 그의 계명들과 ⟨את⟩ 그의 규례들을 행하라, 내가 오늘 너에게 명하는 것들을.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "그리고 너는 순종하며"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "소리에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘의"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 행하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 계명들"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "그의 계명들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 규례들"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "그의 규례들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것들을"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "명하는"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:52.410163414Z",
+  "model": "glm-5.2"
+}

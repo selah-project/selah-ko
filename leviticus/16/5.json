@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 이스라엘 자손의 회중에게서 ⟨그가⟩ ⟨את⟩ 두 숫염소를 — 하타트(속죄 제물)를 위하여 —, 그리고 한 숫양을 올라(올라가는 제물)를 위하여 취할 것이다.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "그리고 ~에게서"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "회중의"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "취할 것이다"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "숫염소를"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "염소"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "하타트(속죄 제물)를 위하여"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "그리고 숫양을"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "올라(올라가는 제물)를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:12.612221235Z",
+  "model": "glm-5.2"
+}

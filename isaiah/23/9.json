@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 23:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "만군의 야훼가 ⟨그것⟩을 계획하셨다 — 모든 영광의 기를 더럽히시려, 땅의 모든 존귀한 자들을 경멸하게 하시려.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "יְעָצָ֑הּ",
+      "gloss": "계획하셨다",
+      "marks": "그것을"
+    },
+    {
+      "surface": "לְחַלֵּל֙",
+      "gloss": "더럽히시려"
+    },
+    {
+      "surface": "גְּא֣וֹן",
+      "gloss": "기(威)를"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "צְבִ֔י",
+      "gloss": "영광의"
+    },
+    {
+      "surface": "לְהָקֵ֖ל",
+      "gloss": "경멸하게 하시려"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נִכְבַּדֵּי",
+      "gloss": "존귀한 자들을"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:01.369423519Z",
+  "model": "glm-5.2"
+}

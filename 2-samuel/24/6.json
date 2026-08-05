@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 24:6",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그들이 길앗드에, 그리고 타흐띰-홋쉬의 땅에 이르렀고, 그들이 다안으로, 그리고 둘러 스돈으로 갔다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 이르렀다"
+    },
+    {
+      "surface": "הגלעדה",
+      "gloss": "길앗드에"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ⟨…⟩으로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "타흐띰"
+    },
+    {
+      "surface": "חדשי",
+      "gloss": "홋쉬의"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 갔다"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "다안으로"
+    },
+    {
+      "surface": "יען",
+      "gloss": "⟨다안⟩"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "둘러"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨…⟩으로"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "스돈"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:31.092425536Z",
+  "model": "glm-5.2"
+}

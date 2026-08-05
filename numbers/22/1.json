@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 22:1",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "이스라엘의 아들들이 출발하였고, 모아브의 아라봇에서, 예리코 맞은편 요르단 건너편에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "출발하였고"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "아라봇에서"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브의"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "건너편에"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "예리코"
+    }
+  ],
+  "timestamp": "2026-08-05T08:41:30.482898529Z",
+  "model": "glm-5.2"
+}

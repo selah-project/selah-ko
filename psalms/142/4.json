@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 142,
+  "translation": "나의 루아흐(영)가 내 안에서 ⟨내⟩ 쇠진할 때에, ⟨그러나⟩ ⟨당신은⟩ 나의 길을 아셨나이다 — 내가 걷는 이 길에 그들이 나를 위해 올무를 숨겼나이다.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "… 쇠진할 때에"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 안에서"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "나의 루아흐(영)가"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "⟨그러나⟩ ⟨당신은⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아셨나이다"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "나의 길을"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "… 길에"
+    },
+    {
+      "surface": "זו",
+      "gloss": "이"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "내가 걷는"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "그들이 … 숨겼나이다"
+    },
+    {
+      "surface": "פח",
+      "gloss": "올무를"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:00.461112430Z",
+  "model": "glm-5.2"
+}

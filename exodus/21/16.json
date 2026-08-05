@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "사람을 훔쳐 ⟨그를⟩ 판 자, 혹은 ⟨그가⟩ 그의 수중에 발견된 자는 반드시 죽임을 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "훔친 자"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "그를 판"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "발견된"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 수중에"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽임을"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "당할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:44.987120829Z",
+  "model": "glm-5.2"
+}

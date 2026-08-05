@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "내가 사람을 순금보다 귀하게 만들고, 사람을 오비르의 정금보다 희귀하게 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "귀하게 만들고"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "순금보다"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "정금보다"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "오비르의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:22.775594925Z",
+  "model": "glm-5.2"
+}

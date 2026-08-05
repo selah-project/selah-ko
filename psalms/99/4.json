@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 99,
+  "translation": "왕의 힘은 — 판결을 사랑하시는 ⟨그⟩, ⟨그⟩는 곧음을 세우셨다. 판결과 체다카를 야아코브 안에서, ⟨그⟩가 행하셨다.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "그리고 힘은"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "판결을"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하시는"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "세우셨다"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "곧음을"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "판결과"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "체다카를"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "야아코브 안에서"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "행하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:20.372200039Z",
+  "model": "glm-5.2"
+}

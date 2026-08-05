@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 샤울이 ⟨את⟩ 셰무엘에게 다가갔다, 문 안에서. 그리고 말하였다, \"제게 알려 주십시오, ⟨곳이 어디입니까⟩, 그 랍+(보는 자)의 집은.\"",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "그리고 다가갔다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셰무엘에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셰무엘에게"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "안에서"
+    },
+    {
+      "surface": "השער",
+      "gloss": "문"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "알려 주십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "אי",
+      "gloss": "어디"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집은"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "그 랍+(보는 자)의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:21.054804729Z",
+  "model": "glm-5.2"
+}

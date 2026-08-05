@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "그리하여 그들이 알게 하소서 — 오직 당신만이, 그 이름이 야훼이신 당신이, 온 땅 위에서 홀로 엘 엘리온이심을.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "그리하여 그들이 알게 하소서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신만이"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "그 이름이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이신"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "엘 엘리온이심을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:31.286775231Z",
+  "model": "glm-5.2"
+}

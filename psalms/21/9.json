@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "당신의 손이 모든 당신의 원수들을 찾아내고, 당신의 오른손이 당신을 미워하는 자들을 찾아내리이다.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "찾아내리이다"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "당신의 손이"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "당신의 원수들을"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "당신의 오른손이"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "찾아내고"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "당신을 미워하는 자들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:56.029886734Z",
+  "model": "glm-5.2"
+}

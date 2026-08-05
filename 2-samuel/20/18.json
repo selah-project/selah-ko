@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 20:18",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그녀가 말하여 이르기를, 옛적에 그들이 말하기를 이르기를, 아벨에서 묻고 묻는 것이 관례였다 — 그리하여 그것이 완료되었다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하여"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "옛적에"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "묻고 묻는 것이"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "그들이 묻는다"
+    },
+    {
+      "surface": "באבל",
+      "gloss": "아벨에서"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "התמו",
+      "gloss": "완료되었다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:11:47.279473196Z",
+  "model": "glm-5.2"
+}

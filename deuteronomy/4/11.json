@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "너희가 가까이 다가와서 그 산 아래에 서 있었고, 그 산은 하늘의 심장까지 불에 타고 있었으며 — 어둠, 구름, 그리고 짙은 어둠이었다.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "너희가 다가와서"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "서 있었고"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "그 산은"
+    },
+    {
+      "surface": "בער",
+      "gloss": "타고 있었으며"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "לב",
+      "gloss": "심장"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "구름"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "그리고 짙은 어둠이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:02.413971315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 그들이 ⟨את⟩ 도망한 자들의 남은 자를, 아말렉에게 속한, 쳤다. 그리고 그들이 오늘 이 날까지 거기에 거주한다.",
+  "tokens": [
+    {
+      "surface": "וַיַּכּּוּ",
+      "gloss": "그리고 쳤다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "남은 자"
+    },
+    {
+      "surface": "שְׁאֵרִית",
+      "gloss": "남은 자를"
+    },
+    {
+      "surface": "הַפְּלֵיטָה",
+      "gloss": "도망한 자들의"
+    },
+    {
+      "surface": "לַעֲמָלֵק",
+      "gloss": "아말렉에게 속한"
+    },
+    {
+      "surface": "וַיֵּשְׁבוּ",
+      "gloss": "그리고 거주한다"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "이 날"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:13.700520895Z",
+  "model": "glm-5.2"
+}

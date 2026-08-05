@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그들이 온 땅을 두루 돌았고, 아홉 달과 스무 날 끝에 예루샬라임으로 들어왔다.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "그들이 두루 돌았다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 들어왔다"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "끝에"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "아홉"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "달과"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "스무"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:31.092638102Z",
+  "model": "glm-5.2"
+}

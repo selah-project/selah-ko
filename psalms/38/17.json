@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "나는 말하였다 — 깨달아 주소서 — 그들이 나를 기뻐하지 못하게. 내 발이 비틀거릴 때 그들이 나에게 거대해졌다.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אָ֭מַרְתִּי",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "못하게"
+    },
+    {
+      "surface": "יִשְׂמְחוּ",
+      "gloss": "기뻐하지"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "나를"
+    },
+    {
+      "surface": "בְּמ֥וֹט",
+      "gloss": "비틀거릴 때"
+    },
+    {
+      "surface": "רַ֝גְלִ֗י",
+      "gloss": "내 발이"
+    },
+    {
+      "surface": "עָלַ֥י",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "הִגְדִּֽילוּ",
+      "gloss": "거대해졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:48.968043300Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 ⟨그⟩ 숫양을 그 토막들로 쪼개니, 모셰가 ⟨את⟩ 그 머리와 ⟨את⟩ 그 토막들과 ⟨את⟩ 그 기름을 태워 올렸다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 숫양"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "그 숫양"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "쪼개니"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "그 토막들로"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "그리고 태워 올렸다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 머리"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "그 머리"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 토막들"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "그 토막들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 기름"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "그 기름"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:35.649568353Z",
+  "model": "glm-5.2"
+}

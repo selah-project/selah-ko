@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "노아가 오백 년이었을 때, 노아가 ⟨את⟩ 셈과 ⟨את⟩ 함과 ⟨את⟩ 야벳을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…이었을 때"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아가"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "오"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셈을"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "함을"
+    },
+    {
+      "surface": "חם",
+      "gloss": "함"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "야벳을"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "야벳"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:39.452515818Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 아도라임과 ⟨את⟩ 라키쉬와 ⟨את⟩ 아제카를",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아도라임"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "아도라임"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "라키쉬"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "라키쉬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아제카"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "아제카"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:59.205240150Z",
+  "model": "glm-5.2"
+}

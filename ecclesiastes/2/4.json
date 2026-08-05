@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "나는 내 행위를 크게 하였다. 나를 위해 집들을 지었고, 나를 위해 포도원들을 심었다.",
+  "tokens": [
+    {
+      "surface": "הִגְדַּ֖לְתִּי",
+      "gloss": "나는 크게 하였다"
+    },
+    {
+      "surface": "מַעֲשָׂ֑י",
+      "gloss": "내 행위를"
+    },
+    {
+      "surface": "בָּנִ֤יתִי",
+      "gloss": "지었고"
+    },
+    {
+      "surface": "לִי֙",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "בָּתִּ֔ים",
+      "gloss": "집들을"
+    },
+    {
+      "surface": "נָטַ֥עְתִּי",
+      "gloss": "심었다"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "כְּרָמִֽים",
+      "gloss": "포도원들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:36.810323401Z",
+  "model": "glm-5.2"
+}

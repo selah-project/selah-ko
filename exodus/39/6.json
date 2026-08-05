@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 그들은 ⟨את⟩ 호담 돌들을 만들었으니, 금 박장식에 에워싸게 하고, 인장 새김으로 새겨, 이스라엘 아들들의 이름들 위에 하였다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그리고 그들은 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "호담 돌들"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "돌들"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "호담의"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "에워싸게"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "박장식에"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "새겨"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "새김"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "인장"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:38.349204Z",
+  "model": "glm-5.2"
+}

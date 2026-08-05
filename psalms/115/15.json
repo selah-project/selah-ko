@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 115,
+  "translation": "당신들은 야훼께 복 받은 자들이요, 하늘과 땅을 만드신 분 ⟨께⟩.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "복 받은 자들이요"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "당신들은"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만드신 분"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:34.046360930Z",
+  "model": "glm-5.2"
+}

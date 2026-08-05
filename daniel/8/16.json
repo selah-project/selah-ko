@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 내가 울라이 ⟨강⟩ 사이에서 사람의 소리를 들었는데, 그가 부르며 말하였다 — '가브리엘아, 이 사람에게 ⟨את⟩ 그 환상을 깨닫게 하라'",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "그리고 내가 들었는데"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에서"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "울라이"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 ⟨그가⟩ 부르며"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "가브리엘아"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "깨닫게 하라"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "이 사람에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 환상"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "그 환상을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:29:05.755793959Z",
+  "model": "glm-5.2"
+}

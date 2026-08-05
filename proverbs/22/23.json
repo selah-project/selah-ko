@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "대신 야훼께서 그들의 소송을 다투시리니, ⟨그리고⟩ ⟨את⟩ 그들을 억탈하는 자들의 네페쉬를 억탈하시리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "다투시리니"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "그들의 소송을"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "⟨그리고⟩ 억탈하시리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들을 억탈하는 자들의 네페쉬를"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "그들을 억탈하는 자들의"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:54.194296912Z",
+  "model": "glm-5.2"
+}

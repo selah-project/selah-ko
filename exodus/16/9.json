@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "모셰가 아하론에게 말하였다. \"이스라엘 아들들의 온 회중에게 말하여라. '야훼 앞으로 가까이 오라. 그분께서 ⟨את⟩ 너희의 불평을 들으셨기 때문이다.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "회중"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "가까이 오라"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들으셨기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희의 불평을"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "불평을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:45.990429398Z",
+  "model": "glm-5.2"
+}

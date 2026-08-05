@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 셰켬이 아버지 하모르에게 말하여 이르기를, \"나를 위하여 ⟨את⟩ 이 소녀를 아내로 취하라\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "셰켬이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "하모르"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "קח",
+      "gloss": "취하라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 소녀를"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "소녀"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:41.041853433Z",
+  "model": "glm-5.2"
+}

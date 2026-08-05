@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "그들이 요셉에게 사람을 보내어 말하게 하였다. \"당신의 아버지가 돌아가시기 전에 명령하셔서 이르시기를 —",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "명하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하게 하였다"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "당신의 아버지가"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하셨다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "전에"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "돌아가시기"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:46:23.162228195Z",
+  "model": "glm-5.2"
+}

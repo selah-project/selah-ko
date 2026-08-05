@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "⟨그러면⟩ 내가 범죄자들에게 당신의 길들을 가르치리니, 죄인들이 당신께로 돌아오리이다.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "가르치리니"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "범죄자들에게"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "당신의 길들을"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "그리고 죄인들이"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신께로"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "돌아오리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:08.284133973Z",
+  "model": "glm-5.2"
+}

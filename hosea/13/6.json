@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그들의 목장처럼 그들이 배불렸고, 배부르자 그들의 마음이 높아졌으니, 그러므로 그들이 나를 잊었다.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "그들의 목장처럼"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "그들이 배불렸고"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "배부르자"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "높아졌으니"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "그들의 마음이"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(그리하여)"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "그들이 나를 잊었다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:21.963062184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그가 ⟨את⟩ 집을 관할하는 엘야킴과 ⟨את⟩ 기록관 쉐브나와 ⟨את⟩ 코헨들의 장로들을 — 굵은 베로 옷을 입은 채 — 나비 아모츠의 아들 예샤야후에게 보냈다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보냈다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "집을 관할하는 엘야킴을"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "엘야킴"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩ …인"
+    },
+    {
+      "surface": "על",
+      "gloss": "관할하는"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "기록관 쉐브나를"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "쉐브나"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "기록관"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "코헨들의 장로들을"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로들을"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들의"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "입은 채"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "굵은 베(복수)로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "예샤야후"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "아모츠의"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비"
+    }
+  ],
+  "timestamp": "2026-08-05T10:17:24.316427764Z",
+  "model": "glm-5.2"
+}

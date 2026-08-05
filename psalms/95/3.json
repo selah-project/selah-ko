@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 95,
+  "translation": "크신 엘이 야훼이시기 때문이다, 모든 엘로힘 위에 큰 왕이시기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이시다"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "그리고 왕"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:12.077393285Z",
+  "model": "glm-5.2"
+}

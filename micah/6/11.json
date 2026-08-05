@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 6:11",
+  "book": "micah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "내가 악한 저울과, 속임의 추 돌들로 깨끗하다 하랴?",
+  "tokens": [
+    {
+      "surface": "האזכה",
+      "gloss": "내가 깨끗하다 하랴"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "저울과"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "ובכיס",
+      "gloss": "주머니와"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "돌들로"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속임의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:14:03.590830270Z",
+  "model": "glm-5.2"
+}

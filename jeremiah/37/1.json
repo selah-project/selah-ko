@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 37:1",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 왕 체드키야후, 요쉬야후의 아들이, 콘야후, 여호야킴의 아들 대신에 왕이 되었다. 그는 바벨 왕 네부캐드레차르가 유다 땅에서 왕으로 세운 자였다.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "체드키야후"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "요쉬야후"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "כניהו",
+      "gloss": "콘야후"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "여호야킴"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그를"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "왕으로 세운"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "네부캐드레차르"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:40:22.543908629Z",
+  "model": "glm-5.2"
+}

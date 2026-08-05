@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 만일 그에게 형제들이 없으면, 너희는 ⟨את⟩ 그의 유산을 그의 아버지의 형제들에게 줄 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으면"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "형제들"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "너희는 줄 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 유산"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "그의 유산"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "형제들에게"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지의"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:43.149169210Z",
+  "model": "glm-5.2"
+}

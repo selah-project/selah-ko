@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "이스라엘 집안의 ⟨어떤⟩ 사람이든지, 진 안에서 소나 어린 양이나 염소를 잡든지, 또는 진 밖에서 잡든지 —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…이든지"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…집안의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…⟨사람⟩"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "잡든지"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소나"
+    },
+    {
+      "surface": "או",
+      "gloss": "…나"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "어린 양이나"
+    },
+    {
+      "surface": "או",
+      "gloss": "…나"
+    },
+    {
+      "surface": "עז",
+      "gloss": "염소를"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "진 안에서"
+    },
+    {
+      "surface": "או",
+      "gloss": "또는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…⟨사람⟩"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "잡든지"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "…밖에서"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "진"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:02.423600821Z",
+  "model": "glm-5.2"
+}

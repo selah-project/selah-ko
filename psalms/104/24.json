@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "얼마나 많은가 야훼, ⟨그분의⟩ 행위들이! ⟨그⟩ 지혜로 ⟨당신이⟩ 그것들을 모두 만드셨다; 땅이 ⟨그분의⟩ 피조물로 가득하다.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "많은가"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "당신의 행위들이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "그것들을 모두"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "지혜로"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "만드셨다"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "가득하다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "당신의 피조물로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:45.258665953Z",
+  "model": "glm-5.2"
+}

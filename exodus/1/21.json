@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 산파들이 ⟨את⟩ 엘로힘을 경외하였기 ⟨때문에⟩, ⟨그분이⟩ 그들에게 집들을 세워 주셨다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 되었다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "경외하였기"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "산파들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "세워 주셨다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "집들을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:27.951081491Z",
+  "model": "glm-5.2"
+}

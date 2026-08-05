@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그가 ⟨את⟩ 이스라엘을 모욕하였고, 여호나탄이 시마의 아들 — 다윗의 형제 — 이 그를 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "모욕하였고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "시마의"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:07.553593992Z",
+  "model": "glm-5.2"
+}

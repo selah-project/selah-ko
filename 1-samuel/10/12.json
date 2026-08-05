@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "거기서 한 사람이 대답하여 말하였다. '그렇다면 그들의 아비가 누구인가?' 그러므로 속담이 되었다: '샤울도 나비들 중에 있는가?'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하였다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "누구인가"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "그들의 아비가"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "～가 되었다"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "속담"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "～도 또한"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "나비들 중에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:26:33.511939013Z",
+  "model": "glm-5.2"
+}

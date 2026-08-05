@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 9:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "파르오가 사람을 보내 모셰와 아하론을 부르고 그들에게 말하였다. \"내가 이번에 죄를 지었습니다. 야훼는 의로우시고, 나와 내 백성은 악합니다.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "부르고"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "모셰를"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "아하론과"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "죄를 지었습니다"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "이번에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "의로우시고"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "내 백성과"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "악합니다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:47.347773840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "아슈르 역시 그들과 연합하였으니, 그들은 롯의 아들들에게 팔이 되었다. 셀라.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "…역시"
+    },
+    {
+      "surface": "אַשּׁוּר",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "נִלְוָה",
+      "gloss": "연합하였으니"
+    },
+    {
+      "surface": "עִמָּם",
+      "gloss": "그들과"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "זְרוֹעַ",
+      "gloss": "팔"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "…의 아들들에게"
+    },
+    {
+      "surface": "לוֹט",
+      "gloss": "롯"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:36.296180661Z",
+  "model": "glm-5.2"
+}

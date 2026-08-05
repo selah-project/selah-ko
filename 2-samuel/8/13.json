@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "다윗이 이름을 얻었으니, 그가 ⟨את⟩ 아람을 소금 골짜기에서 치고 돌아왔을 때이다 — 만 팔천이었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "그가 돌아왔을 때"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "그가 치고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아람을"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람을"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "골짜기에서"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "소금"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "여덟"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:43.573811695Z",
+  "model": "glm-5.2"
+}

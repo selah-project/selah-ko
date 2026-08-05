@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "구리 정강이받이가 그의 다리 위에 있었고 구리 창이 그의 두 어깨 사이에 있었다.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "정강이받이가"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "구리"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "그의 다리"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "창이"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "구리"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "그의 두 어깨"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:01.529323759Z",
+  "model": "glm-5.2"
+}

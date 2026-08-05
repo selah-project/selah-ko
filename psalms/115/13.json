@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 115,
+  "translation": "야훼를 경외하는 자들을 ⟨그가⟩ 복 주시리니, 작은 자들과 큰 자들 ⟨함께⟩.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "복 주시리니"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "경외하는 자들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "작은 자들"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "큰 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:34.046044050Z",
+  "model": "glm-5.2"
+}

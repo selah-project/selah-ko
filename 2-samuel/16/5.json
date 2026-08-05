@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 16:5",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "다윗 왕이 바후림에 이르렀는데, 보라, 거기에서 사울의 집안 가문의 한 사람이 나오고 있었으니, 그의 이름은 게라의 아들 시므이였다. ⟨그가⟩ 나오며 나오고 저주하였다.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "이르렀는데"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "바후림에"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기에서"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "나오고 있었으니"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "가문의"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집안"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "사울의"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "그의 이름은"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "시므이였다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "게라의"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨그가⟩ 나오며"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "나오고"
+    },
+    {
+      "surface": "ומקלל",
+      "gloss": "저주하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:36.762897555Z",
+  "model": "glm-5.2"
+}

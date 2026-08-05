@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "곧 그의 종 이스라엘에게 ⟨주신⟩ 유산이었다. 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "유산이었다"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "이스라엘에게"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "그의 종"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그의"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:11.016670959Z",
+  "model": "glm-5.2"
+}

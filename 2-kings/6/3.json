@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "한 사람이 말하였다. \"부디 기꺼이 가십시오, ⟨את⟩ 당신의 종들과 함께.\" 그가 말하되 \"나도 가겠다.\" 하니",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "기꺼이"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "가십시오"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종들"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "당신의 종들"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나도"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "가겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:14.272399515Z",
+  "model": "glm-5.2"
+}

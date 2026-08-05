@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 20:1",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이스라엘 자손들이, 곧 온 회중이 첫째 달에 쯘 광야에 들어왔고, 백성이 카데시에 머물었다. 거기서 미르얌이 죽었고, 거기 묻혔다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야에"
+    },
+    {
+      "surface": "צן",
+      "gloss": "쯘"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "달에"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "머물었다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "카데시에"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "미르얌이"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "묻혔다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:34.954269064Z",
+  "model": "glm-5.2"
+}

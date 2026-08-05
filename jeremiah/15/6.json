@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "너 ⟨את⟩ 나를 버렸다 — 야훼의 말씀이라 — 너는 뒤로 걸어가며, 내가 ⟨את⟩ 내 손을 네 위에 펴서 너를 멸하였다. 나는 위로 받기에 지쳤다.",
+  "tokens": [
+    {
+      "surface": "אַתְּ",
+      "gloss": "너"
+    },
+    {
+      "surface": "נָטַשְׁתְּ",
+      "gloss": "버렸다"
+    },
+    {
+      "surface": "אֹתִי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "말씀이라"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אָחוֹר",
+      "gloss": "뒤로"
+    },
+    {
+      "surface": "תֵּלֵכִי",
+      "gloss": "걸어가며"
+    },
+    {
+      "surface": "וָאַט",
+      "gloss": "펴서"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "내 손을"
+    },
+    {
+      "surface": "יָדִי",
+      "gloss": "내 손을"
+    },
+    {
+      "surface": "עָלַיִךְ",
+      "gloss": "네 위에"
+    },
+    {
+      "surface": "וָאַשְׁחִיתֵךְ",
+      "gloss": "너를 멸하였다"
+    },
+    {
+      "surface": "נִלְאֵיתִי",
+      "gloss": "나는 지쳤다"
+    },
+    {
+      "surface": "הִנָּחֵם",
+      "gloss": "위로 받기에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:14.717856740Z",
+  "model": "glm-5.2"
+}

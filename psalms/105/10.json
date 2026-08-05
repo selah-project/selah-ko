@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그것을 야곱에게 규례로 세우시고, 이스라엘에게 영원한 브리트로 ⟨삼으셨다⟩ —",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲמִידֶהָ",
+      "gloss": "그것을 세우시고"
+    },
+    {
+      "surface": "לְיַעֲקֹב",
+      "gloss": "야곱에게"
+    },
+    {
+      "surface": "לְחֹק",
+      "gloss": "규례로"
+    },
+    {
+      "surface": "לְיִשְׂרָאֵל",
+      "gloss": "이스라엘에게"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "브리트로"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "영원한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:03.031420114Z",
+  "model": "glm-5.2"
+}

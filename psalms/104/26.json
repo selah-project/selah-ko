@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "그곳에 배들이 다니며, 리워야단이 있으니, 그것을 당신이 빚어 그 안에서 놀게 하셨다.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "배들이"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "다니며"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "리워야단이"
+    },
+    {
+      "surface": "זה",
+      "gloss": "있으니"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "빚어"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "놀게"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:51.575526740Z",
+  "model": "glm-5.2"
+}

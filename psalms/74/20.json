@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "브리트를 돌아보소서. 대신 땅의 어두운 곳들이 폭력의 거처로 가득하니이다.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "돌아보소서"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "브리트를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대신"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "가득하니이다"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "어두운 곳들이"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "거처로"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:14.604198173Z",
+  "model": "glm-5.2"
+}

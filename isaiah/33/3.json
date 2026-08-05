@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "요란한 소리에 백성들이 도망하고, ⟨주⟩의 높이 들리심에 열국이 흩어졌나이다.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "소리에"
+    },
+    {
+      "surface": "המון",
+      "gloss": "요란한"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "도망하고"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들이"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "주의 높이 들리심에"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "흩어졌나이다"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "열국이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:28.102383752Z",
+  "model": "glm-5.2"
+}

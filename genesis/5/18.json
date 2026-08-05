@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "야렛이 육십이 년과 백 년을 살고 ⟨את⟩ 하노크를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "살고"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "야렛이"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "이"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "와 육십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년과"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하노크를"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "하노크"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:09.899677210Z",
+  "model": "glm-5.2"
+}

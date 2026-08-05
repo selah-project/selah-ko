@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 백성이 이스라엘을 맞이하여 들판으로 나아갔고, 전투가 에프라임 수풀에서 벌어졌다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "그리고 나아갔다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "그 들판으로"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "맞이하여"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그리고 ⟨벌어졌다⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "전투가"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "수풀에서"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:40:43.580025704Z",
+  "model": "glm-5.2"
+}

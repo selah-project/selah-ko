@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너는 ⟨아론⟩ 그 증거를 아론 안에 넣을 것이다. 내가 네게 줄 ⟨그⟩ 것이다.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "너는 넣을 것이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨아론⟩"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 증거를"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "그 증거를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "내가 줄"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:00:06.746808378Z",
+  "model": "glm-5.2"
+}

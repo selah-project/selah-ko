@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "예후다의 아들들은 페레츠, 체츠론, 카르미, 후르, 쇼발이다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다의"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "페레츠"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "체츠론"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "그리고 카르미"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "그리고 후르"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "그리고 쇼발"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:13.094114285Z",
+  "model": "glm-5.2"
+}

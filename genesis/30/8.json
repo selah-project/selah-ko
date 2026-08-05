@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 30:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "라헬이 말하였다. \"엘로힘의 씨름으로 내가 누이와 씨름하였고, 이기었다.\" 그리고 그의 이름을 납달리라 불렀다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬이"
+    },
+    {
+      "surface": "נפתולי",
+      "gloss": "씨름으로"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "נפתלתי",
+      "gloss": "내가 씨름하였고"
+    },
+    {
+      "surface": "עם",
+      "gloss": "–"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "누이와"
+    },
+    {
+      "surface": "גם",
+      "gloss": "이기었다"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "⟨이기었다에 연결⟩"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "납달리라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:05.105658998Z",
+  "model": "glm-5.2"
+}

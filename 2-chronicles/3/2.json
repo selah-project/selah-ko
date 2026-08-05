@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨그가⟩ 건축하기 시작하였다, 둘째 달에, 둘째 ⟨날⟩에, 그의 통치 넷째 해에.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "그리고 시작하였다"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "건축하기"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "달에"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "둘째에"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "해에"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "넷째"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "그의 통치"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:27.197298312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "땅의 왕들과 ⟨모든⟩ 민족들, 고관들과 ⟨모든⟩ 땅의 재판관들이여,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨모든⟩"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "민족들"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "고관들"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨모든⟩"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "재판관들"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:51.463560367Z",
+  "model": "glm-5.2"
+}

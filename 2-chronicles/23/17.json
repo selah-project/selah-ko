@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 온 백성이 바알의 집에 들어가, ⟨그것을⟩ 허물고, ⟨את⟩ 그 제단들과 ⟨את⟩ 그 상들을 부수고, ⟨את⟩ 마탄—바알의 코헨—을 그 제단들 앞에서 죽였다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 … 들어갔다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "바알의"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "허물고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 제단들"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "그 제단들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 상들"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "그 상들을"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "부수고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "마탄"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "마탄을"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "바알의"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "죽였다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "그 제단들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:59:12.612627655Z",
+  "model": "glm-5.2"
+}

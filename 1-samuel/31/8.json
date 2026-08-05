@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 ⟨그⟩ 다음 날이 되자, 블레셋 사람들이 ⟨את⟩ 시체들을 벗기러 왔다. 그리고 ⟨그들이⟩ ⟨את⟩ 샤울과 ⟨את⟩ 그의 세 아들들을 발견하였다 — 길보아 산에 쓰러져 ⟨있는 것을⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 되자"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "다음 날"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 왔다"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들이"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "벗기러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "시체들을"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "시체들"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "그리고 발견하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤울을"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 세 아들들을"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "세"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "쓰러져"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "길보아"
+    }
+  ],
+  "timestamp": "2026-08-05T18:11:21.486560057Z",
+  "model": "glm-5.2"
+}

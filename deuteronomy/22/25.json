@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그러나 만일 그 남자가 들판에서 약혼된 소녀를 ⟨아트⟩ 발견하고, 그 남자가 그녀를 붙잡아 함께 잠자리를 하였다면, 그녀와 함께 잠자리를 한 그 남자만 죽어야 한다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만일"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들판에서"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "발견하면"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 남자가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "약혼된 소녀"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "소녀를"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "약혼된"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "붙잡고"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그녀를"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 남자가"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "잠자리를 하면"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "그녀와 함께"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "죽어야 한다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 남자가"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—한"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "잠자리를"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "그녀와"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "그 홀로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:03.237360402Z",
+  "model": "glm-5.2"
+}

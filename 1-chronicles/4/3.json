@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 이들은 아비 에이탐의 ⟨것들⟩: 이즈르엘, 이쉬마, 이드바쉬. 그리고 그들의 자매의 이름은 체렐포니이다.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이들은"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아비"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "에이탐의"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "이즈르엘"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "그리고 이쉬마"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "그리고 이드바쉬"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름은"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "그들의 자매의"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "체렐포니이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:13.094422290Z",
+  "model": "glm-5.2"
+}

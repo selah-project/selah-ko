@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그러나 노아는 야훼의 눈에 헨을 얻었다.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "그러나 노아는"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "얻었다"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…의 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:09.417806587Z",
+  "model": "glm-5.2"
+}

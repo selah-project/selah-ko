@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 8:19",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 말씀하셨다. \"보라, 내가 네게 ⟨את⟩ 분노의 마지막에 일어날 일을 알리리니, 이는 정해진 때가 끝이기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말씀하셨다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "보라, 내가"
+    },
+    {
+      "surface": "מודיעך",
+      "gloss": "네게 알리리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "분노의 마지막에 일어날 일"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "일어날"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "마지막에"
+    },
+    {
+      "surface": "הזעם",
+      "gloss": "분노의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "정해진 때가"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "끝이기 때문이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:28:32.545268750Z",
+  "model": "glm-5.2"
+}

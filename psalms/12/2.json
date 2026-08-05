@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "구원하소서, 야훼여, 경건한 자가 끊어졌으니, 신실한 자들이 사람의 아들들 가운데서 사라졌음이니이다.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "구원하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…하오니"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "끝이 났으니"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "경건한 자가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…함이니이다"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "사라졌으니"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "신실한 자들이"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…의 아들들 가운데서"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:05.973032873Z",
+  "model": "glm-5.2"
+}

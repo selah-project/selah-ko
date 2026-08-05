@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리하여 내가 야훼 앞에 ⟨את⟩ 사십 일과 ⟨את⟩ 사십 밤을 엎드렸으니, 내가 엎드렸던 ⟨것이⟩ 그것이었다. 이는 야훼께서 너희를 멸하려 하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "그리하여 내가 엎드렸으니"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사십 일"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "היום",
+      "gloss": "일"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "및 ⟨את⟩",
+      "marks": "사십 밤"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—한"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "내가 엎드렸던"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "멸하려"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:53.497877483Z",
+  "model": "glm-5.2"
+}

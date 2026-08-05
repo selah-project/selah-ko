@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "쯔온의 딸이 남아 있기를, 포도원의 초막 같이, 오이밭의 망루 같이, 포위된 성 같이 하였다.",
+  "tokens": [
+    {
+      "surface": "וְנוֹתְרָ֥ה",
+      "gloss": "남아 있기를"
+    },
+    {
+      "surface": "בַת",
+      "gloss": "딸이"
+    },
+    {
+      "surface": "צִיּ֖וֹן",
+      "gloss": "쯔온의"
+    },
+    {
+      "surface": "כְּסֻכָּ֣ה",
+      "gloss": "초막 같이"
+    },
+    {
+      "surface": "בְכָ֑רֶם",
+      "gloss": "포도원의"
+    },
+    {
+      "surface": "כִּמְלוּנָ֥ה",
+      "gloss": "망루 같이"
+    },
+    {
+      "surface": "בְמִקְשָׁ֖ה",
+      "gloss": "오이밭의"
+    },
+    {
+      "surface": "כְּעִ֥יר",
+      "gloss": "성 같이"
+    },
+    {
+      "surface": "נְצוּרָֽה",
+      "gloss": "포위된"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:42.269458066Z",
+  "model": "glm-5.2"
+}

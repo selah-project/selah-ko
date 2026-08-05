@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "레위의 아들들은 게르솜, 크핫, 그리고 므라리이다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "레위의"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "게르솜"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "크핫"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "그리고 므라리"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:41.787536055Z",
+  "model": "glm-5.2"
+}

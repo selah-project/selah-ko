@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "이스라엘 자손의 온 회중이 그 광야에서 모셰와 아하론에게 원망하였다.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "그들이 원망하니"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "과"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "그 광야에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:18:48.155470337Z",
+  "model": "glm-5.2"
+}

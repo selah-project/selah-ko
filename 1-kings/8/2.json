@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 이스라엘의 모든 남자가 쉴라모 왕에게 모였으니, 축제 때 곧 일곱째 달인 에타님 달이었다.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "모였으니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "쉴라모"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "달"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "에타님"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "축제 때"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "곧"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "달인"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:26.203161589Z",
+  "model": "glm-5.2"
+}

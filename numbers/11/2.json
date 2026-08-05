@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 그 백성이 모셰에게 부르짖으매, 모셰가 야훼께 기도하니, 그 불이 가라앉았다.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "그리고 부르짖으매"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "그리고 기도하니"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "그리고 가라앉았다"
+    },
+    {
+      "surface": "האש",
+      "gloss": "그 불이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:59.772653741Z",
+  "model": "glm-5.2"
+}

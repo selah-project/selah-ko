@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "야훼께서 그 날에 ⟨את⟩ 이스라엘을 구원하셨다. 그리고 전투는 ⟨את⟩ 베이트 아벤을 지나갔다.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "그리고 구원하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "그리고 전투는"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "지나갔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "베이트 아벤"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트"
+    },
+    {
+      "surface": "און",
+      "gloss": "아벤"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:35.830388085Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨그가⟩ 산 모든 날이 구백 년과 오십 년이었으니, 노아가 죽었다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "그리고 …이었으니"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날이"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아가"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "아홉"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ו חמשים",
+      "gloss": "그리고 쉰"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그리고 ⟨그가⟩ 죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:46.750769683Z",
+  "model": "glm-5.2"
+}

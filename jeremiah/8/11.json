@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그들이 내 백성의 딸의 상처를 가볍게 치유하며 말하기를 '샬롬, 샬롬' 하지만 샬롬이 없다 하였다.",
+  "tokens": [
+    {
+      "surface": "וַיְרַפּ֞וּ",
+      "gloss": "그리고 그들이 치유하였다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "상처를"
+    },
+    {
+      "surface": "שֶׁ֤בֶר",
+      "gloss": "상처를"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "딸의"
+    },
+    {
+      "surface": "עַמִּי֙",
+      "gloss": "내 백성의"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위를"
+    },
+    {
+      "surface": "נְקַלָּ֔ה",
+      "gloss": "가볍게"
+    },
+    {
+      "surface": "לֵאמֹ֖ר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "샬롬"
+    },
+    {
+      "surface": "שָׁל֑וֹם",
+      "gloss": "샬롬"
+    },
+    {
+      "surface": "וְאֵ֖ין",
+      "gloss": "하지만 없다"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "샬롬이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:29:30.083875089Z",
+  "model": "glm-5.2"
+}

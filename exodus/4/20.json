@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "모셰가 ⟨את⟩ 그의 아내와 ⟨את⟩ 그의 아들들을 데리고 가서, 그것들을 나귀 위에 태웠다. 그리고 미츠라임 땅으로 돌아갔다. 모셰가 ⟨את⟩ 엘로힘의 지팡이를 그의 손에 취하였다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아내"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 아들들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "그것들을 태웠다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "나귀"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "취하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "지팡이"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "지팡이"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:02.344844656Z",
+  "model": "glm-5.2"
+}

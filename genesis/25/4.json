@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 25:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "미디안의 아들들은 에파와 에펠과 하나크와 아비다와 엘다아이다. 이 모든 자들이 케투라의 아들이다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "미디안의"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "에파와"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "에펠과"
+    },
+    {
+      "surface": "וחנך",
+      "gloss": "하나크와"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "아비다와"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "엘다아이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들이다"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "케투라의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:34.431809992Z",
+  "model": "glm-5.2"
+}

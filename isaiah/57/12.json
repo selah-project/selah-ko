@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "나는 네 의를 선포하리니, ⟨את⟩ 네 행위들도 함께 — 그것들이 너를 유익하게 하지 못하리라.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "선포하리니"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "네 의를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "네 행위들"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "네 행위들"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "그것들이 너를 유익하게 하지 못하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:23:23.163062786Z",
+  "model": "glm-5.2"
+}

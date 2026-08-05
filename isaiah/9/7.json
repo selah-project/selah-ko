@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "하나의 다바르(말씀)를 아도나이가 보내셨다. 그것이 야곱 안으로. 그리고 그것은 이스라엘 안에 떨어졌다.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "다바르(말씀)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "야곱 안으로"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "그리고 떨어졌다"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:39.062583887Z",
+  "model": "glm-5.2"
+}

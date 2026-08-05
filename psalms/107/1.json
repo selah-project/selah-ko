@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "야훼께 감사하라, 그분은 선하시기 때문이다. 그분의 헤세드(인애)가 영원하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "הֹד֣וּ",
+      "gloss": "감사하라"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ט֑וֹב",
+      "gloss": "선하시다"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "חַסְדּֽוֹ",
+      "gloss": "그분의 헤세드"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:03.235112858Z",
+  "model": "glm-5.2"
+}

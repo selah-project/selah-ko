@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 그들이 ⟨את⟩ 그의 무구를 아쉬타롯의 집에 두고, ⟨את⟩ 그의 시신을 벳-션의 성벽에 걸었다.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "그들이 두고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 무구"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "그의 무구"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "아쉬타롯의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 시신"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "그의 시신"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "그들이 걸었다"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "성벽에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳-션의"
+    },
+    {
+      "surface": "שן",
+      "gloss": "벳-션의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:47.643735444Z",
+  "model": "glm-5.2"
+}

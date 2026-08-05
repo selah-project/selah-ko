@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그러면 내가 ⟨את⟩ 이 집을 실라(싸로) 같이 되게 하고, ⟨את⟩ 이 성을 모든 땅의 민족들에게 저주가 되게 주리라.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "그러면 내가 … 주리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "이 집을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "실라 같이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "이 성을"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "이 성을"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "이"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "주리라"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "저주가 되게"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "민족들에게"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:55:42.761402492Z",
+  "model": "glm-5.2"
+}

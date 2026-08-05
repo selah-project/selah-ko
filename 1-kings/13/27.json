@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 ⟨그가⟩ ⟨그의⟩ 아들들에게 말하여 이르기를 \"나를 위해 ⟨את⟩ 당나귀를 고삐어 매라\" 하니, 그들이 매었다.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "고삐어 매라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당나귀를"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "당나귀를"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "매었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:47.593201540Z",
+  "model": "glm-5.2"
+}

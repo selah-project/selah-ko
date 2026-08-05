@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "요셉이 그의 종들에게 — ⟨את⟩ 치료하는 자들에게 — 그의 아버지를 방부(防腐)하게 명령하니, 치료하는 자들이 ⟨את⟩ 이스라엘을 방부하였다.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "명령하니"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 종들"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "치료하는 자들"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "치료하는 자들"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "방부하게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아버지"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "방부하니"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "치료하는 자들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T07:46:28.689578466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 8:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이는 야훼께서 내게 이같이 말씀하셨기 때문이다 — 손의 힘으로, 그리고 ⟨그것으로⟩ 나를 이 백성의 길 가운데서 걷지 못하도록 훈계하셨다 — 하시기를,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "כחזקת",
+      "gloss": "…의 힘으로"
+    },
+    {
+      "surface": "היד",
+      "gloss": "손"
+    },
+    {
+      "surface": "ויסרני",
+      "gloss": "그리고 나를 훈계하셨다"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "걷지 못하도록"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길 가운데서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "하시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:22.501217524Z",
+  "model": "glm-5.2"
+}

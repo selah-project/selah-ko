@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 82,
+  "translation": "가난한 자와 고아를 판결하라; 억눌린 자와 궁핍한 자를 의롭게 하라.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "판결하라"
+    },
+    {
+      "surface": "דל",
+      "gloss": "가난한 자를"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "고아와"
+    },
+    {
+      "surface": "עני",
+      "gloss": "억눌린 자를"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "궁핍한 자를"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "의롭게 하라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:15.341897407Z",
+  "model": "glm-5.2"
+}

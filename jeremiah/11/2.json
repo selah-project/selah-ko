@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "이 브리트의 말씀들을 들으라. 그것들을 예후다 사람들과 예루샬라임의 거주자들에게 말하라.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 브리트의 말씀들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "이 브리트의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "그리고 너는 말하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람들에게"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들에게"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:57:04.334035587Z",
+  "model": "glm-5.2"
+}

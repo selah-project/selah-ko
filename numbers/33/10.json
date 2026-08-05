@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그들이 아일림에서 떠나 수프 바닷가에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "וַיִּסְעוּ",
+      "gloss": "그들이 떠나"
+    },
+    {
+      "surface": "מֵאֵילִם",
+      "gloss": "아일림에서"
+    },
+    {
+      "surface": "וַיַּחֲנוּ",
+      "gloss": "그들이 진을 쳤다"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…가에"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "바다"
+    },
+    {
+      "surface": "סוּף",
+      "gloss": "갈대"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:54.641985062Z",
+  "model": "glm-5.2"
+}

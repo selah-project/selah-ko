@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "제가 압니다 — 그대가 모든 것을 하실 수 있으시며, 그대에게서 어떤 계획도 가로막히지 않음을. 그리고 그대의 모든 경영이 실현됨을.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "제가 압니다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "하실 수 있으시며"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아니다"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "가로막히다"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "그대에게서"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "계획"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:05.100482926Z",
+  "model": "glm-5.2"
+}

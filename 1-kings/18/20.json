@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "아하브가 온 이스라엘 자손들 가운데 보내니, 그가 ⟨את⟩ 그 나비들을 카르멜 산으로 모았다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내니"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브가"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "그리고 모았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 나비들을"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "그 나비들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산으로"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "카르멜"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:27.830224300Z",
+  "model": "glm-5.2"
+}

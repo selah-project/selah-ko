@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "용사들의 활이 부서지고, 넘어지는 자들이 힘을 띠었다.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "활이"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "용사들의"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "부서지고"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "넘어지는 자들이"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "띠었다"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:03.510563110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "가시나무가 솥 아래 탈 때 우거지는 소리 같이, 미련한 자의 웃음도 그러하니, 이것 또한 헛되다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "∼의 소리 같이"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "가시나무의"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "솥의"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러하니"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "웃음도"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "미련한 자의"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헛되다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:09.386227529Z",
+  "model": "glm-5.2"
+}

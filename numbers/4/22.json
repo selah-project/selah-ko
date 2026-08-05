@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "게르쉰의 아들들의 머리를 ⟨아트⟩ 들어 올려라, 그들도, 그들의 조상 집안별로, 그들의 가문별로",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "…들어 올려라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "머리"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "בני",
+      "gloss": "의 아들들"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "게르쉰"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집안별로"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "그들의 조상"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "그들의 가문별로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:53.474010809Z",
+  "model": "glm-5.2"
+}

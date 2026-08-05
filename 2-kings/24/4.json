@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 또한 그가 흘린 무죄한 피, 곧 그가 ⟨את⟩ 예루샬라임을 무죄한 피로 가득 채운 것으로 말미암아, 야훼께서 사하여 주시기를 원하지 않으셨다.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "무죄한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "그가 흘린"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "그리고 그가 … 채운"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "무죄한"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 아니"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "원하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "사하여 주시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:12.671320701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 이스라엘 왕이 대답하여 말하였다. \"말하라 — 허리를 동이는 자가 허리를 푸는 자처럼 자랑하지 말지어다.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "그리고 대답하여"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말지어다"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "자랑하는"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "허리를 동이는 자가"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "허리를 푸는 자처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T13:50:50.980848937Z",
+  "model": "glm-5.2"
+}

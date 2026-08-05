@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "누가 주겠는가 — ⟨내가⟩ 알아 ⟨그⟩를 찾기만 하면, ⟨그⟩의 자리에까지 가겠다는 것을.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주겠는가"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "⟨내가⟩ 알아"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "⟨그⟩를 찾기만 하면"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "가겠다는 것을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "⟨그⟩의 자리에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:07:35.825204475Z",
+  "model": "glm-5.2"
+}

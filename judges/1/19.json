@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼는 예후다와 함께 하셨고, 그래서 그는 ⟨את⟩ ⟨그⟩ 산지를 차지하였다. 그러나 ⟨그는⟩ 골짜기 거주자들을 쫓아내지 못하였는데, 그들이 철 병거를 가지고 있었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "את",
+      "gloss": "함께",
+      "marks": "예후다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "그가 차지하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "산지"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "쫓아내기에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "골짜기 거주자들"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "골짜기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T19:47:03.143562636Z",
+  "model": "glm-5.2"
+}

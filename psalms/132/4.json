@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 132,
+  "translation": "만일 내가 내 눈에 잠을 주고, 내 눈꺼풀에 졸음을 주면 —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "주고"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "잠을"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "내 눈에"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "내 눈꺼풀에"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "졸음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:45.635709162Z",
+  "model": "glm-5.2"
+}

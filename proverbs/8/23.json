@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "영원부터 나가 부어졌으니, 머리에서, 땅의 앞서들부터.",
+  "tokens": [
+    {
+      "surface": "מֵ֭עוֹלָם",
+      "gloss": "영원부터"
+    },
+    {
+      "surface": "נִסַּ֥כְתִּי",
+      "gloss": "나가 부어졌으니"
+    },
+    {
+      "surface": "מֵרֹ֗אשׁ",
+      "gloss": "머리에서"
+    },
+    {
+      "surface": "מִקַּדְמֵי",
+      "gloss": "앞서들에서"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:19.747450925Z",
+  "model": "glm-5.2"
+}

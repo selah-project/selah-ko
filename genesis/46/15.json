@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "이들이 레아의 아들들이다, 레아가 바드안 아람에서 야곱에게 낳은 자들이요, ⟨그리고⟩ ⟨את⟩ 디나 그의 딸. 그의 아들들과 딸들의 모든 네페쉬는 셋이며 삼십이다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "레아"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "야곱에게"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "바드안에서"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "디나"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "디나"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "그의 딸"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "그리고 그의 딸들"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "그리고 셋"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:20.749467368Z",
+  "model": "glm-5.2"
+}

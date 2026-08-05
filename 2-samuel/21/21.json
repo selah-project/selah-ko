@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그가 ⟨את⟩ 이스라엘을 모욕하자, 시므이의 아들인 다윗의 형제 여호나단이 그를 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "모욕하자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "그를 쳤다"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "야호나탄"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "시므이의"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:12:20.001940679Z",
+  "model": "glm-5.2"
+}

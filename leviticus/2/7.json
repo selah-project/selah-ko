@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 만일 네 코르반이 냄비의 민하라면, 고운 가루가 기름으로 만들어져야 한다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "민하는"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "냄비의"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "네 코르반이"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "고운 가루가"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "기름으로"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "만들어져야 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:32.889918331Z",
+  "model": "glm-5.2"
+}

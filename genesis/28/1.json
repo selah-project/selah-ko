@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "이삭이 야곱을 불러 ⟨그⟩를 축복하시고 ⟨그⟩에게 명령하시어 그에게 말씀하셨다. “너는 가나안 딸들 중에서 아내를 취하지 말아라.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불러"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱을"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하시고"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "야곱"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "명령하시어"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 말아라"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "취하지"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "딸들 중에서"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:03.502639407Z",
+  "model": "glm-5.2"
+}

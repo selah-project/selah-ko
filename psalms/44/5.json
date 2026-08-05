@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "당신이시다, 나의 왕이신 엘로힘이시여, 야곱의 구원들을 명하소서.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "당신이시다"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨바로⟩ 그"
+    },
+    {
+      "surface": "מַלְכִּי",
+      "gloss": "나의 왕"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "צַוֵּה",
+      "gloss": "명하소서"
+    },
+    {
+      "surface": "יְשׁוּעֹת",
+      "gloss": "구원들을"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "야곱의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:23.929972501Z",
+  "model": "glm-5.2"
+}

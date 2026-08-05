@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 아자르야는 ⟨את⟩ 아마르야를 낳았고, 아마르야는 ⟨את⟩ 아히투브를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "그리고 …낳았다"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "아자르야는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아마르야를"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "아마르야를"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "그리고 아마르야는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아히투브를"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "아히투브를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:17.640068938Z",
+  "model": "glm-5.2"
+}

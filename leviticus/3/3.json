@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 샬림 제물에서 불 제물을 야훼께 드릴 것이다 — ⟨את⟩ 내장을 덮는 기름, 곧 내장 위에 있는 모든 기름을.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "그리고 드릴 것이다"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "샬림 제물"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "불 제물을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기름"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "기름"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "덮는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내장"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "내장을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든 기름"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "기름"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에 있는"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "내장"
+    }
+  ],
+  "timestamp": "2026-08-05T08:11:40.103745601Z",
+  "model": "glm-5.2"
+}

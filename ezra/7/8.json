@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 다섯째 달에 예루샬라임에 도착하였으니, 그것은 왕의 칠 년이었다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "도착하였다"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "…의 달에"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "다섯째"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "…의 연이었다"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:40.004313480Z",
+  "model": "glm-5.2"
+}

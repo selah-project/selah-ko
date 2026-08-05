@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 3:15",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 나는 ⟨그⟩ 포로된 자들에게로, 텔 아비브로, 케바르 강가에 앉아 있는 자들에게로 들어갔다. 그리고 그들이 거기에 머물러 있으므로, 나도 거기에서, 그들 가운데서 놀라며 칠 일을 머물렀다.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "그리고 나는 들어갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "그 포로된 자들에게"
+    },
+    {
+      "surface": "תל",
+      "gloss": "텔"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "아비브"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "앉아 있는 자들에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "강"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "케바르"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 …이므로"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "머물러 있다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "그리고 나는 머물렀다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에서"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일을"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "놀라며"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "그들 가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:48:22.938523711Z",
+  "model": "glm-5.2"
+}

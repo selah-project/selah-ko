@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "네 방위에 문지기들이 있었으니, 동쪽 서쪽 북쪽과 남쪽이었다.",
+  "tokens": [
+    {
+      "surface": "לְאַרְבַּ֣ע",
+      "gloss": "네"
+    },
+    {
+      "surface": "רוּח֔וֹת",
+      "gloss": "방위에"
+    },
+    {
+      "surface": "יִהְי֖וּ",
+      "gloss": "있었으니"
+    },
+    {
+      "surface": "הַשֹּׁעֲרִ֑ים",
+      "gloss": "문지기들이"
+    },
+    {
+      "surface": "מִזְרָ֥ח",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "יָ֖מָּה",
+      "gloss": "서쪽"
+    },
+    {
+      "surface": "צָפ֥וֹנָה",
+      "gloss": "북쪽"
+    },
+    {
+      "surface": "וָנֶֽגְבָּה",
+      "gloss": "그리고 남쪽"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:53.495776129Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "기다림, 기다렸다, 야훼를 — 그리고 ⟨그가⟩ ⟨나를⟩ 향해 몸을 기울이시어 내 부르짖음을 들으셨다.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "기다림"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "기다렸다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "그리고 몸을 기울이시어"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨나를⟩ 향해"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "들으셨다"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "내 부르짖음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:03.609538926Z",
+  "model": "glm-5.2"
+}

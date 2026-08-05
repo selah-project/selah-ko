@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 모셰는 ⟨את⟩ 그 수레들과 ⟨את⟩ 그 소들을 받아, 그것들을 레위 사람들에게 주었다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 받아"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 수레들(העגלת)"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "그 수레들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 소들(הבקר)"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "그 소들"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주었다"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ 그것들을",
+      "marks": "그것들"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들"
+    }
+  ],
+  "timestamp": "2026-08-05T08:30:58.080935401Z",
+  "model": "glm-5.2"
+}

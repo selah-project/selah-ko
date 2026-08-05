@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "소리다, 너의 파수꾼들의! 그들이 소리를 높였다, 함께 그들이 노래한다. ⟨이는⟩ 그들이 눈으로 눈을 마주 보기 때문이다. 야훼께서 시온으로 돌아오실 때에.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리다"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "너의 파수꾼들의"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "그들이 높였다"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "그들이 노래한다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩ …⟨때문이다⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈으로"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "눈을 마주"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "그들이 보기"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "돌아오실 때에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:13.709495007Z",
+  "model": "glm-5.2"
+}

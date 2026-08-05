@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "주의 피쿠딤들에서 내가 깨달으니, 그러므로 내가 모든 거짓 길을 미워하나이다.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "주의 피쿠딤들에서"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "내가 깨달으니"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "내가 미워하나이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "길을"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:12.317449662Z",
+  "model": "glm-5.2"
+}

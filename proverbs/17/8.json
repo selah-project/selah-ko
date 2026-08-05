@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "뇌물은 그 소유자들의 눈에 헨의 돌이니, 그가 향하는 모든 곳마다 깨달음을 얻는다.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "돌은"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨의"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "뇌물"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "～의 눈에"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "그 소유자들의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～곳마다"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "그가 향하는"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "깨달음을 얻는다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:17.001231283Z",
+  "model": "glm-5.2"
+}

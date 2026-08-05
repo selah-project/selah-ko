@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그 코헨이 ⟨את⟩ 그것을 좋은 것과 나쁜 것 사이에서 평가할 것이다. 코헨인 네가 평가하듯이, 그렇게 될 것이다.",
+  "tokens": [
+    {
+      "surface": "ויהיה",
+      "gloss": "그리고 ⟨그것이⟩ ⟨것⟩이다"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "네가 평가하듯이"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨인"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨것⟩일 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:00.498856897Z",
+  "model": "glm-5.2"
+}

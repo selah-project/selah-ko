@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 87,
+  "translation": "코라흐 아들들의 것, 시편, 노래. 그의 터는 거룩한 산들에 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "아들들의 것"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "그의 터"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "산들에"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:17.923801130Z",
+  "model": "glm-5.2"
+}

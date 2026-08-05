@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "너는 ⟨את⟩ 무교병의 절기를 지킬지니, 내가 네게 명령한 바와 같이 아빕 월 그 정한 때에 칠 일 동안 무교병을 먹을 것이니, 아빕 월에 네가 미츠라임에서 나왔음이라.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "무교병의 절기를"
+    },
+    {
+      "surface": "חג",
+      "gloss": "절기를"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "무교병의"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "너는 지킬지니"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일 동안"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "너는 먹을 것이니"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "무교병을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "바와 같이"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "내가 네게 명령한"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "정한 때에"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "월"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "아빕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이니"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "월에"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "아빕"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "네가 나왔음이라"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:06.276878386Z",
+  "model": "glm-5.2"
+}

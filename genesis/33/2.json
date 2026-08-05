@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그가 ⟨את⟩ 여종들과 ⟨את⟩ 그들의 아이들을 맨 앞에, ⟨את⟩ 레아와 그녀의 아이들을 중간에, ⟨את⟩ 라헬과 ⟨את⟩ 요셉을 맨 뒤에 두었다.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여종들을"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "여종들과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 아이들을"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "그들의 아이들을"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "맨 앞에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "레아와"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "레아와"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "그녀의 아이들을"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "중간에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "라헬과"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "요셉을"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉을"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "맨 뒤에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:01.920586471Z",
+  "model": "glm-5.2"
+}

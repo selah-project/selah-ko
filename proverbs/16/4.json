@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼께서 모든 것을 그 목적을 위해 만드셨으니, 악인도 악한 날을 위하여 ⟨그러하다⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "만드셨으니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "그 목적을 위해"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 …도"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "날을 위하여"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:10.082544912Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "청하매 그가 슬라브를 가져오셨고, 하늘의 빵으로 그들을 배부르게 하셨다.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "청하매"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그가 가져오셨고"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "슬라브를"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "그리고 빵으로"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "그들을 배부르게 하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:07.897350393Z",
+  "model": "glm-5.2"
+}

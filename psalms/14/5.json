@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "거기서 그들은 두려움을 두려워하였으니, 이는 엘로힘이 의로운 세대 안에 ⟨계시기⟩ ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "שָׁ֤ם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "פָּ֣חֲדוּ",
+      "gloss": "그들은 두려워하였으니"
+    },
+    {
+      "surface": "פָ֑חַד",
+      "gloss": "두려움을"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "בְּד֣וֹר",
+      "gloss": "세대 안에"
+    },
+    {
+      "surface": "צַדִּֽיק",
+      "gloss": "의로운"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:11.497422544Z",
+  "model": "glm-5.2"
+}

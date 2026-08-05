@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "왕국이 그에게 굳건해졌을 때, 그가 ⟨את⟩ 그의 신하들을 — 자기 아버지 왕을 쳤던 자들을 — 죽였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 … 하였다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…할 때"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "굳건해졌을"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "왕국이"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "그가 죽였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 신하들을"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 신하들을"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "쳤던 자들을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕을"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지"
+    }
+  ],
+  "timestamp": "2026-08-05T13:00:20.938379819Z",
+  "model": "glm-5.2"
+}

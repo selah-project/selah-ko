@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "그러므로 이제 이것을 들으라, 고통받는 자여, 그리고 포도주가 아닌 것에 취한 자여.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "고통받는 자여"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "그리고 취한 자여"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아닌"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "포도주가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:28.260307168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "나는 ⟨את⟩ 모든 수고와 ⟨את⟩ 모든 일의 성공을 보았다 — 그것은 이웃에 대한 질투이다. 이것도 허블이요, 루아흐를 쫓는 것이다.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "나는 보았다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "수고와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "성공을"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "일의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "질투이다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "이의"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "이웃에 대한"
+    },
+    {
+      "surface": "גם",
+      "gloss": "이것도"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "허블이요"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "쫓는 것이다"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:02.344067619Z",
+  "model": "glm-5.2"
+}

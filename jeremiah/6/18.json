@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그러므로 열방 들아, 귀를 기울여라. 그리고 회중아, ⟨את⟩ 그들 가운데 있는 것을 알아라.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "열방아"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "그리고 알아라"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "회중아"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들 가운데 있는 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것이 ~것"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T13:56:32.367660306Z",
+  "model": "glm-5.2"
+}

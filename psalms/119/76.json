@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "청컨대 주의 헤세드가 나를 위로하게 하소서. 주의 종에게 하신 말씀대로.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "하게 하소서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청컨대"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "주의 헤세드가"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "나를 위로"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "주의 말씀대로"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "주의 종에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:14.152326549Z",
+  "model": "glm-5.2"
+}

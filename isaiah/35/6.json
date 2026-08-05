@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그때에 저는 자가 사슴처럼 뛰고 벙어리의 혀가 노래할 것이니, 이는 광야에서 물이 터져 나오고 아라바에 시내들이 흐를 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "뛰고"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "사슴처럼"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "저는 자가"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "노래할 것이고"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀가"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "벙어리의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "터져 나오고"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "시내들이"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "아라바에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:17:21.141347824Z",
+  "model": "glm-5.2"
+}

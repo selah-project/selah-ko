@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "참으로 ⟨그들은⟩ 불의를 행하지 아니하며, ⟨그의⟩ 길들 안에서 걸었더라.",
+  "tokens": [
+    {
+      "surface": "אַ֭ף",
+      "gloss": "참로"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "아니하며"
+    },
+    {
+      "surface": "פָעֲל֣וּ",
+      "gloss": "행하지"
+    },
+    {
+      "surface": "עַוְלָ֑ה",
+      "gloss": "불의를"
+    },
+    {
+      "surface": "בִּדְרָכָ֥יו",
+      "gloss": "그의 길들 안에서"
+    },
+    {
+      "surface": "הָלָֽכוּ",
+      "gloss": "걸었더라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:39.144536181Z",
+  "model": "glm-5.2"
+}

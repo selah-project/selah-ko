@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 27:37",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "이삭이 대답하여 에서에게 말하였다. \"보라, 내가 그를 그대에게 주인으로 세웠고, ⟨את⟩ 그의 모든 형제를 내가 그에게 종으로 주었으며, 곡물과 포도주로 그를 뒷받침하였노니, 그렇다면 이제 내가 무엇을 하겠느냐, 내 아들아?\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "에서에게"
+    },
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "גביר",
+      "gloss": "주인으로"
+    },
+    {
+      "surface": "שמתיו",
+      "gloss": "세웠고"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 모든 형제"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제를"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었으며"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "종으로"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "곡물과"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "포도주로"
+    },
+    {
+      "surface": "סמכתיו",
+      "gloss": "뒷받침하였노니"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "그렇다면"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "하겠느냐"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들아"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:30.955453019Z",
+  "model": "glm-5.2"
+}

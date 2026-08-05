@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "⟨그에게⟩ 노래하라, ⟨그에게⟩ 찬양하라, ⟨그의⟩ 모든 기이한 일들을 묵상하라.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "묵상하라"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨그의⟩ 모든"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "기이한 일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:18.084824848Z",
+  "model": "glm-5.2"
+}

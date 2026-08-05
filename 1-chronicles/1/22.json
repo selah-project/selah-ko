@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ 에발, ⟨את⟩ 아비마엘, ⟨את⟩ 셰바.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "에발"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "에발"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아비마엘"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "아비마엘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "셰바"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "셰바"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:11.709571375Z",
+  "model": "glm-5.2"
+}

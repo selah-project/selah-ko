@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "아브라함이 천막을 옮겨 와서 마므레의 엘론 곧 헤브론에 있는 ⟨것⟩에 이르러 거기에 거주하였다. 그리고 그가 거기에 야훼께 제단을 쌓았다.",
+  "tokens": [
+    {
+      "surface": "ויאהל",
+      "gloss": "그리고 천막을 옮겨"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "와서"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "거주하였다"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "엘론에"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "마므레의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "헤브론에"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 쌓았다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:31.068572934Z",
+  "model": "glm-5.2"
+}

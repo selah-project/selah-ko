@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 9:14",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그러므로 만군의 야훼, 이스라엘의 엘로힘이 이같이 말씀하신다. 보라, 내가 ⟨את⟩ 이 백성에게 쑥을 먹이고, 그들에게 독의 물을 마시게 하리라.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מאכילם",
+      "gloss": "내가 …먹이고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "쑥을"
+    },
+    {
+      "surface": "והשקיתים",
+      "gloss": "그리고 그들에게 …마시게 하리라"
+    },
+    {
+      "surface": "מי",
+      "gloss": "물을"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "독의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:29:30.745394061Z",
+  "model": "glm-5.2"
+}

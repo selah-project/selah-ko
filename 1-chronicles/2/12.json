@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "보아즈는 ⟨את⟩ 오벳을 낳았고, 오벳은 ⟨את⟩ 이새를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "그리고 보아즈는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "오벳을"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "오벳"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "그리고 오벳은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이새를"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이새"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:05.295535727Z",
+  "model": "glm-5.2"
+}

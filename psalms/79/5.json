@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 79,
+  "translation": "언제까지, 야훼여, 분노하시려 하시나이까, 영원히이십니까? ⟨당신의⟩ 질투가 불처럼 탄단 말입니까?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "언제까지"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "…나이까"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "תֶּאֱנַף",
+      "gloss": "분노하시려"
+    },
+    {
+      "surface": "לָנֶצַח",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "תִּבְעַר",
+      "gloss": "탄단"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "처럼"
+    },
+    {
+      "surface": "אֵשׁ",
+      "gloss": "불"
+    },
+    {
+      "surface": "קִנְאָתֶךָ",
+      "gloss": "당신의 질투가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:43.812851696Z",
+  "model": "glm-5.2"
+}

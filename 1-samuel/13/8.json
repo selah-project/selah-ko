@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 샤울이 정한 날까지 칠 일을 기다렸으니, 셰무엘이 정한 것이었다. 그러나 셰무엘이 길갈로 오지 않았고, 백성이 그에게서 흩어졌다.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "그리고 ~이 기다렸으니"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일을"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "정한 날까지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~인"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셰무엘이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 ~않았고"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오지"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셰무엘이"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "길갈로"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "그리고 ~이 흩어졌다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "그에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:46.516117401Z",
+  "model": "glm-5.2"
+}

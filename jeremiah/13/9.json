@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "야훼께서 말씀하셨다. \"이와 같이 나는 ⟨את⟩ 유다의 교만과 ⟨את⟩ 예루샬라임의 큰 교만을 부패하게 하리라.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "부패하게 하리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다의 교만"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "교만"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임의 큰 교만"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "교만"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T13:57:41.942057329Z",
+  "model": "glm-5.2"
+}

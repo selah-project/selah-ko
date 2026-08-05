@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "보라, 야훼의 눈이 ⟨그⟩ 경외하는 자들을 향하시나니, ⟨곧⟩ ⟨그⟩ 헤세드를 바라는 자들이다.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עֵ֣ין",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "향하시나니"
+    },
+    {
+      "surface": "יְרֵאָ֑יו",
+      "gloss": "경외하는 자들을"
+    },
+    {
+      "surface": "לַֽמְיַחֲלִ֥ים",
+      "gloss": "바라는 자들에게"
+    },
+    {
+      "surface": "לְחַסְדּֽוֹ",
+      "gloss": "헤세드를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:02.836292012Z",
+  "model": "glm-5.2"
+}

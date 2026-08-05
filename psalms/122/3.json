@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 122,
+  "translation": "예루샬라임, 세워진 것 — 한 도시처럼, 그것이 함께 결합된.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "세워진 것"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "한 도시처럼"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "결합된"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:21.661514791Z",
+  "model": "glm-5.2"
+}

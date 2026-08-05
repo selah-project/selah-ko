@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 ⟨그⟩ 소를 만남의 천막 앞으로 끌어들이고, 아흐론과 그의 아들들이 ⟨את⟩ 그들의 손을 그 소의 머리 위에 얹게 하여라.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "그리고 …을 끌어들이고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "소"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…앞에"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "그리고 …이 얹고"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아흐론"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그리고 그의 아들들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 손"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "그들의 손"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "소의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:13.781244238Z",
+  "model": "glm-5.2"
+}

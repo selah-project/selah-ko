@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그러면 ⟨네⟩ 가난이 걷는 자처럼 오고, ⟨네⟩ 궁핍이 방패 든 자처럼 오리라.",
+  "tokens": [
+    {
+      "surface": "וּבָֽא",
+      "gloss": "오고"
+    },
+    {
+      "surface": "כִמְהַלֵּ֥ךְ",
+      "gloss": "걷는 자처럼"
+    },
+    {
+      "surface": "רֵאשֶׁ֑ךָ",
+      "gloss": "네 가난이"
+    },
+    {
+      "surface": "וּ֝מַחְסֹֽרְךָ֗",
+      "gloss": "네 궁핍이"
+    },
+    {
+      "surface": "כְּאִ֣ישׁ",
+      "gloss": "자처럼"
+    },
+    {
+      "surface": "מָגֵֽן",
+      "gloss": "방패 든"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:50.943392819Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "어찌하여 당신들이 ⟨את⟩ 야훼의 회중을 이 광야로 데려왔는가, 우리와 우리 가축이 거기서 죽게 하려고?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "데려왔는가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "회중을"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "회중을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～로"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "למות",
+      "gloss": "죽게 하려고"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리와"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "가축이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:34.954667543Z",
+  "model": "glm-5.2"
+}

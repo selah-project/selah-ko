@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 므나쎄 지파의 절반에서 ⟨את⟩ 아네르와 ⟨את⟩ 그것의 미그라쉬들과, ⟨את⟩ 빌암과 ⟨את⟩ 그것의 미그라쉬들을, 남아 있는 크하트 아들들의 가족 ⟨에게⟩ ⟨주었다⟩.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "그리고 …의 절반에서"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "지파"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "므나쎄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아네르"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "아네르"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 미그라쉬들"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "그것의 미그라쉬들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "빌암"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 미그라쉬들"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "그것의 미그라쉬들"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "…가족에게"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…아들들에게"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "크하트"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "남아 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:26.410453965Z",
+  "model": "glm-5.2"
+}

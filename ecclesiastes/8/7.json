@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "무엇이 될지를 ⟨그⟩가 알지 못하기 때문이니, 그것이 어떻게 될지를 누가 그에게 알려 주겠는가?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이니"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "알지"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "…못하기"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "될지를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…에는"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "어떻게 될지를"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "알려 주겠는가"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:01.170407867Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내가 야훼를 그의 의(義)에 따라 찬양하며, 지존자 야훼의 이름을 노래하리라.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "내가 찬양하며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "그의 의에 따라"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "노래하리라"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "지존자"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:14.597371646Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 3:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이들이 다윗의 아들들이었다. 헤브론에서 그에게 태어난 자들: 맏아들 암논은 아히노암 예즈르엘 여인에게서, 둘째 다니엘은 아비가일 카르멜 여인에게서이다.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "היו",
+      "gloss": "이었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "헤브론에서"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "맏아들"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "암논"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "아히노암에게서"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "예즈르엘 여인"
+    },
+    {
+      "surface": "שני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "다니엘"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "아비가일에게서"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "카르멜 여인"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:29.913763417Z",
+  "model": "glm-5.2"
+}

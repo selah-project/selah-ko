@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "말이 없고, 말씀들이 없이 — 그들의 소리가 들리지 않음에도,",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말이"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 없이"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "말씀들이"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "들리지 않음에도"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "그들의 소리가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:35.894190037Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "genesis 31:46",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "야곱이 자기 형제들에게 \"돌들을 모으라\" 하니, 그들이 돌들을 모아 갈을 만들고, 거기 그 갈 위에서 먹었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하니"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "자기 형제들에게"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "모으라"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "돌들을"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 모아"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "돌들을"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "만들고"
+    },
+    {
+      "surface": "גל",
+      "gloss": "갈을"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "먹었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "그 갈"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:42.445344503Z",
+  "model": "glm-5.2"
+}

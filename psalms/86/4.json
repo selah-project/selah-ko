@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 86,
+  "translation": "기쁘게 하소서, 당신의 종의 네페쉬를. 당신에게, 아도나이여, 나의 네페쉬를 내가 들어올리기입니다.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "기쁘게 하소서"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이여"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬를"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "내가 들어올리기입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:44.573481950Z",
+  "model": "glm-5.2"
+}

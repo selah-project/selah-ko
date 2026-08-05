@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "네 눈은 ⟨앞을⟩ 바로 보며, 네 속눈썹은 네 앞을 곧게하라.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "네 눈은"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "앞을"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "바로 보며"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "네 속눈썹은"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "곧게하라"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "네 앞을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:48.835427341Z",
+  "model": "glm-5.2"
+}

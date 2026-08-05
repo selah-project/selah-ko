@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 야훼께서 모셰에게 말씀하셨다. \"아침에 일찍 일어나 파르오 앞에 서서, 그에게 말하여라. '히브리 사람들의 엘로힘인 야훼가 말씀하셨다. ⟨את⟩ 내 백성을 보내라, 그들이 나를 섬기게 하라.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 … 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "일찍 일어나"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "그리고 서서"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "그리고 … 말하여라"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…의 엘로힘"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "히브리 사람들"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성을"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "그들이 나를 섬기게 하라"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:16.447417905Z",
+  "model": "glm-5.2"
+}

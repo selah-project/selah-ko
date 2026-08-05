@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 ⟨את⟩ 땅의 짐승을 그 종류대로, ⟨그리고⟩ ⟨את⟩ 가축을 그 종류대로, ⟨그리고⟩ ⟨את⟩ 땅의 모든 기어 다니는 것을 그 종류대로 만드셨다. 엘로힘이 보시니 좋았다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만드셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅의 짐승을"
+    },
+    {
+      "surface": "חית",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "그 종류대로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "가축을"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "가축"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "그 종류대로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든 기어 다니는 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "기어 다니는 것"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "그 종류대로"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보시니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋았다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:39.640048397Z",
+  "model": "glm-5.2"
+}

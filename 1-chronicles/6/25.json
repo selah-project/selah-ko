@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "미카엘의 아들, 바아세야의 아들, 말키야의 아들.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "미카엘"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "바아세야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "말키야"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:54.254966532Z",
+  "model": "glm-5.2"
+}

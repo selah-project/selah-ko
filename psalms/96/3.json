@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 96,
+  "translation": "민족들 가운데 그의 영광을 선포하라, 모든 백성들 가운데 그의 경이로운 일들을 알리라.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "선포하라"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "민족들 가운데"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "그의 영광을"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "백성들 가운데"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "그의 경이로운 일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:17.378707587Z",
+  "model": "glm-5.2"
+}

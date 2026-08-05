@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "에스더가 대답하여 말하였다. 나의 청원과 나의 요청은 ⟨이것⟩이다 —",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더가"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "나의 청원"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "나의 요청은"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:29.870614421Z",
+  "model": "glm-5.2"
+}

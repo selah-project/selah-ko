@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "네 마음에 그녀의 아름다움을 탐내지 말며, 그녀의 속눈썹이 ⟨너를⟩ 붙잡지 못하게 하라.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "탐내지"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "그녀의 아름다움을"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "네 마음에"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …말라"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "⟨너를⟩ 붙잡지"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "그녀의 속눈썹이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:59.350894632Z",
+  "model": "glm-5.2"
+}

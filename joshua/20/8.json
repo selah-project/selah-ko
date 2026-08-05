@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 그들은 요르단 건너편, 예리코 동쪽으로 르우벤 지파에서 광야 평원의 ⟨את⟩ 베체르를, 갓 지파에서 길르아드의 ⟨את⟩ 라못을, 므나쎄 지파에서 바산의 ⟨את⟩ 골란을 주었으니,",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "그리고 건너편"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "예리코"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "동쪽으로"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "그들은 주었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "베체르를"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "베체르를"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "평원의"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "지파에서"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "르우벤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "라못을"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "라못을"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "길르아드의"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "지파에서"
+    },
+    {
+      "surface": "גד",
+      "gloss": "갓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "골란을"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "골란을"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "바산의"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "지파에서"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "므나쎄"
+    }
+  ],
+  "timestamp": "2026-08-05T09:11:29.926819855Z",
+  "model": "glm-5.2"
+}

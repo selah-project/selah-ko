@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "후새가 또 말하였다. \"당신은 당신의 아버지와 그의 부하들을 아십니다. 그들은 장사들이며, 네페쉬가 괴로운 자들입니다. 들에서 새끼를 잃은 곰 같고, 당신의 아버지는 전쟁의 사람이라, ⟨את⟩ 백성과 함께 머물지 않을 것입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "후새가"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아십니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 아버지를"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "당신의 아버지를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 부하들을"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "그의 부하들을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "장사들이며"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "괴로운"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬가"
+    },
+    {
+      "surface": "המה",
+      "gloss": "자들이며"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "곰 같고"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "새끼를 잃은"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "당신의 아버지는"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이라"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "머물 것이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:41:20.147701326Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 24:1",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그의 날들에 바벨 왕 느부갓네살이 올라왔다. 야훼께서 그에게 ⟨계시니⟩ 여호야김이 삼 년 동안 종이 되었다. 그리고 그가 돌이켜 그를 배반하였다.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "그의 날들에"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라왔다"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "느부갓네살"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨계시니⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "여호야김"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "삼"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년(동안)"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그가 돌이켜"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "배반하였다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:12.670825121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "이 회중의 한가운데서 떨어져 나가라, 내가 ⟨את⟩ 그들을 순식간에 멸하겠다.",
+  "tokens": [
+    {
+      "surface": "הִבָּדְלוּ",
+      "gloss": "분리되어라"
+    },
+    {
+      "surface": "מִתּוֹךְ",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "הָעֵדָה",
+      "gloss": "회중의"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "וְאַכַּלֶּה",
+      "gloss": "그리고 멸하겠다"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "כְּרָגַע",
+      "gloss": "순식간에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:37:27.258970874Z",
+  "model": "glm-5.2"
+}

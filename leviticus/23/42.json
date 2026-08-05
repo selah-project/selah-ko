@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "초막에서 칠 일 동안 거주하라, 이스라엘에서 난 자는 ⟨모두⟩ 초막에서 거주할 것이다.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "초막에서"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "너희는 거주하라"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일 동안"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨모두⟩"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "난 자는"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에서"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "거주할 것이다"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "초막에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:18.904654198Z",
+  "model": "glm-5.2"
+}

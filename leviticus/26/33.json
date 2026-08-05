@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 ⟨아트⟩ 너희를 민족들 가운데 흩으시고, 너희 뒤로 칼을 뽑으시리니, 너희 땅이 황무지가 되고 너희 도시들이 폐허가 될 것임이다.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "그리고 ⟨את⟩ 너희를",
+      "marks": "너희"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "흩으시리니"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "민족들 가운데"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "그리고 뽑으시리니"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "너희 뒤로"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼을"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "그리고 ~이 될 것임이다"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "너희 땅이"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "황무지가"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "그리고 너희 도시들이"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "~이 될 것임이다"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "폐허가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:56.883729712Z",
+  "model": "glm-5.2"
+}

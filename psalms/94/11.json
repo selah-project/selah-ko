@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "야훼는 사람의 생각들을 아신다 그것들이 헛됨을",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "아신다"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "생각들을"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "∼임을"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그것들이"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헛됨"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:41.256928209Z",
+  "model": "glm-5.2"
+}

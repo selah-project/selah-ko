@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그가 야훼 이스라엘의 엘로힘을 신뢰하였다. 그의 뒤에도, 그리고 그보다 먼저 있었던 유다의 모든 왕들 가운데 그와 같은 자는 없었다.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "신뢰하였다"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "그리고 그의 뒤에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨없었다⟩"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "그와 같은 자"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들 가운데"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다의"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 ⟨그들⟩이"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었던"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그보다 먼저"
+    }
+  ],
+  "timestamp": "2026-08-05T10:02:33.791956132Z",
+  "model": "glm-5.2"
+}

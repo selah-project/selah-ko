@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 7:47",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 샬롬이 ⟨את⟩ 모든 기구들을 두었으니, 그것이 매우 매우 많았기 때문이다. 그 놋쇠의 무게는 조사되지 않았다.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "그리고…두었으니"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 기구들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "기구들을"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "…많았기 때문이다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…않았다"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "조사되지"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "…무게는"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "그 놋쇠의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:01.603635878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "나태한 자는 ⟨자신의⟩ 사냥감을 굽지 못한다. 그러나 사람의 재물은 부지런한 자에게 귀하다.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "못한다"
+    },
+    {
+      "surface": "יַחֲרֹ֣ךְ",
+      "gloss": "굽지"
+    },
+    {
+      "surface": "רְמִיָּ֣ה",
+      "gloss": "나태한 자는"
+    },
+    {
+      "surface": "צֵיד֑וֹ",
+      "gloss": "사냥감을"
+    },
+    {
+      "surface": "וְהוֹן",
+      "gloss": "재물은"
+    },
+    {
+      "surface": "אָדָ֖ם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "יָקָ֣ר",
+      "gloss": "귀하다"
+    },
+    {
+      "surface": "חָרֽוּץ",
+      "gloss": "부지런한 자에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:05.848333825Z",
+  "model": "glm-5.2"
+}

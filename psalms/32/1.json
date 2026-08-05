@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "다윗의 시. 마쉬킬. 반역함이 들려진 자, 허물이 가려진 자는 복이 있다.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "마쉬킬"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "들려진"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "반역함이"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "가려진"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "허물이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:22.117611214Z",
+  "model": "glm-5.2"
+}

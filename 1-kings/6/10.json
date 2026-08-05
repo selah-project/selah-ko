@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 그가 ⟨את⟩ 그 층을 온 집 위에 건축하였으니, 높이가 다섯 암마였다. 그리고 그가 ⟨את⟩ 그 집을 백향목 나무로 붙잡았다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "건축하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 층을"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "그 층을"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "암마"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "그 높이가"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "붙잡았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집을"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "나무로"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "백향목"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:49.840662607Z",
+  "model": "glm-5.2"
+}

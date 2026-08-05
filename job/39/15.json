@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 39:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그것은 발이 그것들을 밟을 수 있다는 것을 잊기 때문이요, 들짐승이 그것들을 짓밟기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ותשכח",
+      "gloss": "잊기 때문이요"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "발이"
+    },
+    {
+      "surface": "תזורה",
+      "gloss": "밟을 수 있다는 것을"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "들짐승이"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들의"
+    },
+    {
+      "surface": "תדושה",
+      "gloss": "짓밟기"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:26.919498358Z",
+  "model": "glm-5.2"
+}

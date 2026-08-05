@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "아내를 약혼하겠으나 다른 남자가 그녀와 동침하리라. 집을 짓겠으나 그 안에 거하지 못하리라. 포도원을 심겠으나 그것을 성별하여 즐기지 못하리라.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "약혼하겠으나"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "그녀와 동침하리라"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "짓겠으나"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…못하리라"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "거하지"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "포도원을"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "심겠으나"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…못하리라"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "성별하여 즐기지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:36.777509335Z",
+  "model": "glm-5.2"
+}

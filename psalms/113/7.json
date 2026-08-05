@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 113,
+  "translation": "먼지에서 가난한 자를 일으키시고, 재더미에서 궁핍한 자를 드시는 그분 —",
+  "tokens": [
+    {
+      "surface": "מְקִֽימִ֣י",
+      "gloss": "일으키시는"
+    },
+    {
+      "surface": "מֵעָפָ֣ר",
+      "gloss": "먼지에서"
+    },
+    {
+      "surface": "דָּ֑ל",
+      "gloss": "가난한 자를"
+    },
+    {
+      "surface": "מֵֽ֝אַשְׁפֹּ֗ת",
+      "gloss": "재더미에서"
+    },
+    {
+      "surface": "יָרִ֥ים",
+      "gloss": "드시는"
+    },
+    {
+      "surface": "אֶבְיֽוֹן",
+      "gloss": "궁핍한 자를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:51.350943592Z",
+  "model": "glm-5.2"
+}

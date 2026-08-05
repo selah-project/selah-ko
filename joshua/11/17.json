@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 11:17",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "매끄러운 산, 세일로 올라가는 곳에서부터 레바논 골짜기, 하르 하르몬 아래 바알 가드까지 — 그리고 ⟨את⟩ 그들의 모든 왕들을 사로잡고, 그들을 쳐서 죽였다.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨그⟩ 산"
+    },
+    {
+      "surface": "החלק",
+      "gloss": "매끄러운"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "올라가는"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "세일"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "바알"
+    },
+    {
+      "surface": "גד",
+      "gloss": "가드"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "골짜기에"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "레바논"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "하르몬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 모든 왕들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "그들의 왕들을"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "사로잡고"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "그들을 쳐서"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "죽였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:08:22.153597745Z",
+  "model": "glm-5.2"
+}

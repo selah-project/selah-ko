@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "파르오의 마음이 완고하여져서, 그가 ⟨את⟩ 이스라엘 자손을 보내지 아니하였으니, 야훼께서 모셰의 손을 통하여 말씀하신 것과 같았다.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "완고하여져서"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "같았다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손을 통하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:40.105482854Z",
+  "model": "glm-5.2"
+}

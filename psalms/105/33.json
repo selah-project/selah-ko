@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그들의 포도나무와 그들의 무화과나무를 치시고, 그들의 영토의 나무를 꺾으셨다.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "치시고"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "그들의 포도나무"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "그들의 무화과나무"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "꺾으셨다"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "그들의 영토"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:11.447149393Z",
+  "model": "glm-5.2"
+}

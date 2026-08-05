@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그 종이 그녀를 만나려고 달려가서 말하였다. \"제가 당신의 항아리에서 물을 조금 마시게 ⟨해 주십시오⟩.\"",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "달려가서"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "그 종이"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "그녀를 만나려고"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "마시게 ⟨해 주십시오⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "당신의 항아리에서"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:04.963637579Z",
+  "model": "glm-5.2"
+}

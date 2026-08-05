@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 그들이 ⟨את⟩ 그 제단의 재를 치우고, 그 위에 자주색 옷을 펴겠다.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "그리고 그들이 치우겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 제단"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단의 재를"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "그리고 펴겠다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "옷을"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "자주색"
+    }
+  ],
+  "timestamp": "2026-08-05T08:29:45.209087151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "야훼의 나무들이 배부르니, 곧 그가 심으신 레바논의 백향목들이다.",
+  "tokens": [
+    {
+      "surface": "יִשְׂבְּעוּ",
+      "gloss": "배부르니"
+    },
+    {
+      "surface": "עֲצֵי",
+      "gloss": "⟨…⟩ 나무들이"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "⟨…⟩ 백향목들이다"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "레바논의"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "נָטָע",
+      "gloss": "심으신"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:57.229751799Z",
+  "model": "glm-5.2"
+}

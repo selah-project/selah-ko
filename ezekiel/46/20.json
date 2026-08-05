@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 46:20",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그리고 ⟨그가⟩ 내게 말씀하셨다. \"이곳이 코헨들이 거기에서 ⟨את⟩ 속건제물과 ⟨את⟩ 속죄제물을 삶고, ⟨그⟩ 곧이물을 굽는 곳이다 — ⟨그⟩ 바깥 뜰로 내어가서 ⟨그⟩ 백성을 거룩하게 하지 않기 위하여.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 그가 말씀하셨다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "곳이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "삶고"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에서"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "속건제물"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "속건제물"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "속죄제물"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "속죄제물"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "יאפו",
+      "gloss": "굽는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "곧이물"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "곧이물"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "…하지 않기 위하여"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "내어가서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "바깥"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "거룩하게 하"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:23.469427920Z",
+  "model": "glm-5.2"
+}

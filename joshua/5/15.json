@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 5:15",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "야훼 군대의 사령관이 여호수아에게 말하였다. \"네 발에서 네 신을 벗으라. 네가 서 있는 곳은 거룩하기 때문이다.\" 여호수아가 그리하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שר",
+      "gloss": "사령관이"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "군대의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "≈"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아에게"
+    },
+    {
+      "surface": "של",
+      "gloss": "벗으라"
+    },
+    {
+      "surface": "נעלך",
+      "gloss": "네 신을"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "≈"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "네 발에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "곳은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "서 있는"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩하"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨것⟩이다"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "그리하였다"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그리"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:17.059569937Z",
+  "model": "glm-5.2"
+}

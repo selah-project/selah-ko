@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "왜냐하면 ⟨그가⟩ 죽을 때에 ⟨그가⟩ 모든 것을 가져가지 못하고, 그의 영광이 ⟨그가⟩ 죽은 뒤에 내려가지 않기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…못하고"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "그가 죽을 때에"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "가져가지"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…않기 때문이다"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "내려가지"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그가 죽은 뒤에"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "그의 영광이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:37.156711233Z",
+  "model": "glm-5.2"
+}

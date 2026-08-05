@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 67,
+  "translation": "민족들이 ⟨당신⟩을 찬양하리이다, 엘로님이여; 민족들이, 그 모든 자들이 ⟨당신⟩을 찬양하리이다.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "⟨당신⟩을 찬양하리이다"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로님이여"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "⟨당신⟩을 찬양하리이다"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "그 모든 자들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:28.374975829Z",
+  "model": "glm-5.2"
+}

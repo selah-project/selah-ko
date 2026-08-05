@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 132,
+  "translation": "야훼께서 다윗에게 에메트로 맹세하셨다, 그것에서 돌이키지 않으시리니, ⟨이르시기를⟩ “당신의 태의 열매로부터 내가 당신에게 왕좌를 세우리라.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "맹세하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "에메트로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하시리니"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "돌이키지"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "열매로부터"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "당신의 태의"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "내가 세우리라"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "왕좌를"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:40.052433530Z",
+  "model": "glm-5.2"
+}

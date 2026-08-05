@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "대저 터들이 허물어지니, 의인은 — 무엇을 행하였는가",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "터들이"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "허물어지니"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의인은"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "행하였는가"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:53.977305549Z",
+  "model": "glm-5.2"
+}

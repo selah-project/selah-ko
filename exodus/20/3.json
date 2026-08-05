@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "네게 다른 엘로힘이 내 앞에 있지 못할 것이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있지 못할 것이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 앞에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:43.920460650Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "내가 부르리이다 — 엘 엘리온에게, 나를 위해 완성하시는 엘에게.",
+  "tokens": [
+    {
+      "surface": "אֶ֭קְרָא",
+      "gloss": "내가 부르리이다"
+    },
+    {
+      "surface": "לֵֽאלֹהִ֣ים",
+      "gloss": "엘로힘에게 —"
+    },
+    {
+      "surface": "עֶלְי֑וֹן",
+      "gloss": "엘 엘리온에게"
+    },
+    {
+      "surface": "לָ֝אֵ֗ל",
+      "gloss": "엘에게"
+    },
+    {
+      "surface": "גֹמֵ֥ר",
+      "gloss": "완성하시는"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "나를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:00.355191042Z",
+  "model": "glm-5.2"
+}

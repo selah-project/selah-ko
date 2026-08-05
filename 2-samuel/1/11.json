@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그때 다윗이 자기 옷을 붙잡고 그것들을 찢었다. 그와 함께 있던 모든 사람들도 ⟨마찬가지였다⟩.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "붙잡았다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "그것들을 찢었다"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께 있던"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:51.606578162Z",
+  "model": "glm-5.2"
+}

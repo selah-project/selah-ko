@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "문들아, 열어라. 그리하여 의로운 민족, 신실함을 지키는 자가 들어오게 하라.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "열어라"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "문들아"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리하여 …이 들어오게 하라"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "민족이"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지키는 자"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "신실함을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:11.137502306Z",
+  "model": "glm-5.2"
+}

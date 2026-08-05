@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "샤울에게 알려졌다 — 다윗이 가드로 도주하였다고. 그리하여 그가 더 이상 그를 찾지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알려졌다"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "샤울에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…라고"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "도주하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "גת",
+      "gloss": "가드로"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "더 이상"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "그를 찾지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:17.022586070Z",
+  "model": "glm-5.2"
+}

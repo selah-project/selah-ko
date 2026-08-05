@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그의 양식에 남은 것이 없으니, 그러므로 그의 풍요가 끝까지 이르지 못한다.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "남은 것"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "그의 양식에"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "이르지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:55.621960917Z",
+  "model": "glm-5.2"
+}

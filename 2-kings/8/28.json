@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 ⟨아하브의 아들⟩ ⟨את⟩ 요람과 함께 아람 왕 하자엘에 맞서 라못 길아드에서 전쟁하러 갔더니, 아람 사람들이 ⟨את⟩ 요람을 쳤다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그가 갔더니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요람을"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "요람"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브의"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "전쟁하러"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "하자엘"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "라못에서"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길아드"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "아람 사람들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요람을"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "요람을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:51.997058497Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "물들에 ⟨그⟩분의 다락들을 들보로 얽으시고, 구름을 ⟨그⟩분의 탈것으로 삼으시며, 바람(루아흐)의 날개들 위를 걸어 다니시는 ⟨이시다⟩.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "들보로 얽으시는"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물들에"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "그분의 다락들을"
+    },
+    {
+      "surface": "השם",
+      "gloss": "삼으시며"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "구름을"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "그분의 탈것으로"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "걸어 다니시는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위를"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "날개들"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람(루아흐)의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:55.891798869Z",
+  "model": "glm-5.2"
+}

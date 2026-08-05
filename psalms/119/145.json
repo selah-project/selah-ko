@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "온 마음으로 부르짖었나이다 — 야훼여, ⟨저를⟩ 대답하소서; ⟨저는⟩ 주의 규례들을 지키리이다.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "부르짖었나이다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "대답하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "주의 규례들을"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "지키리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:43.260785566Z",
+  "model": "glm-5.2"
+}

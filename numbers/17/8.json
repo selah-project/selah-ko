@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "모셰와 아하론이 만남의 장막 앞으로 왔다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰와"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "פני",
+      "gloss": "앞"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:11:07.000069197Z",
+  "model": "glm-5.2"
+}

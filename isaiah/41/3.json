@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그들이 그들을 쫓아가며, 평안히 지나가리니, 그의 발로 밟지 않는 길을 ⟨그가⟩ 걸으리라.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "그들이 그들을 쫓아가며"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "지나가리니"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "평안히"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "길을"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "그의 발로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨아니라⟩"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "걸으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:54.793757537Z",
+  "model": "glm-5.2"
+}

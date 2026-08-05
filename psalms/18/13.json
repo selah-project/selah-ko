@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그의 맞은편의 빛남에서 그의 짙은 구름들이 지나갔으니, 우박과 불탄 숯이었다.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "빛남에서"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "그의 맞은편의"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "그의 짙은 구름들이"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "지나갔으니"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "우박"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "그리고 불탄 숯이"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:19.092120151Z",
+  "model": "glm-5.2"
+}

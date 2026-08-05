@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "들어 주소서, 야훼여, 그리고 ⟨나를⟩ 은혜 베푸소서. 야훼여, ⟨나의⟩ 돕는 자가 되어 주소서.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "들어 주소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "그리고 ⟨나를⟩ 은혜 베푸소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨나의⟩ 돕는 자가 되어 주소서"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "돕는 자"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:15.006299457Z",
+  "model": "glm-5.2"
+}

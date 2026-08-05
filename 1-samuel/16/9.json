@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 이쉬가 ⟨את⟩ 샤마를 지나가게 하였고, 그가 말하였다. \"이 자도 야훼가 택하지 않으셨다.\"",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "그리고 지나가게 하였고"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이쉬가"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨את⟩ 샤마를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "이에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "택하였다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:32.477009192Z",
+  "model": "glm-5.2"
+}

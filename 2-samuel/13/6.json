@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 13:6",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "암녀이 누워 병든 척하였다. 왕이 그를 보러 와서, 암녀이 왕에게 말하였다. “제 누이 타말이 오게 하시어서, 제 눈앞에서 두 개의 레바 케이크를 만들게 하시고, 제가 그녀의 손에서 먹게 하소서.”",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "누워"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "암녀이"
+    },
+    {
+      "surface": "ויתחל",
+      "gloss": "병든 척하였다"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "לראתו",
+      "gloss": "그를 보러"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "암녀이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "오게 하시어서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "타말이"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "누이"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "만들게 하시고"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "제 눈앞에서"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두 개의"
+    },
+    {
+      "surface": "לבבות",
+      "gloss": "레바 케이크를"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "먹게 하소서"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "그녀의 손에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:29.694134811Z",
+  "model": "glm-5.2"
+}

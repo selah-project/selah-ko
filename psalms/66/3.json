@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "엘로힘께 말하여라. “그분의 행적들이 얼마나 두려운가! 그분의 힘의 풍성함으로 그분의 원수들이 그분께 거짓으로 복종하리이다.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘께"
+    },
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "두려운가"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "그분의 행적들이"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "풍성함으로"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "그분의 힘의"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "거짓으로 복종하리이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그분께"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "그분의 원수들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:25.805568559Z",
+  "model": "glm-5.2"
+}

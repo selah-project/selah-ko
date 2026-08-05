@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 18:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "다윗은 샤울이 보내시는 모든 곳에 나아가 승리하였다. 샤울이 ⟨그⟩를 전사들 위에 세우니, 온 백성의 눈에, 그리고 샤울의 종들의 눈에도 좋았다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나아가매"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것에"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "그를 보내시는"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "승리하였다"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "그를 세우시니"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들의"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "전쟁"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들의"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:38.856043927Z",
+  "model": "glm-5.2"
+}

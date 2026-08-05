@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "불에 태워졌고 찍혔나니, 얼굴의 꾸짖으심에서 그들이 멸망하였다.",
+  "tokens": [
+    {
+      "surface": "שְׂרֻפָ֣ה",
+      "gloss": "불에 태워졌고"
+    },
+    {
+      "surface": "בָאֵ֣שׁ",
+      "gloss": "불에"
+    },
+    {
+      "surface": "כְּסוּחָ֑ה",
+      "gloss": "찍혔나니"
+    },
+    {
+      "surface": "מִגַּעֲרַ֖ת",
+      "gloss": "꾸짖으심에서"
+    },
+    {
+      "surface": "פָּנֶ֣יךָ",
+      "gloss": "얼굴의"
+    },
+    {
+      "surface": "יֹאבֵֽדוּ",
+      "gloss": "그들이 멸망하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:20.822781333Z",
+  "model": "glm-5.2"
+}

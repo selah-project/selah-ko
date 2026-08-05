@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "\"나를 건져 내십시오, 제가 아뢰오니, 나의 형의 손에서, 에사브의 손에서 건져 내십시오. 이는 내가 그를 두려워하옵니다. 그가 와서 나를 치고, 어미와 더불어 자식들을 치까 두려워하옵니다.\"",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "나를 건져 내십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제가 아뢰오니"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "~의 손에서"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "나의 형"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "~의 손에서"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "두려워하옵니다"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "פן",
+      "gloss": "~할까 두려워하여"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "그가 오면"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "그리고 나를 치고"
+    },
+    {
+      "surface": "אם",
+      "gloss": "어미를"
+    },
+    {
+      "surface": "על",
+      "gloss": "~와 더불어"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "자식들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:30.472132010Z",
+  "model": "glm-5.2"
+}

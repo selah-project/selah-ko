@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리하여 이스라엘이 다윗의 집을 향하여 반역하였다 — 이 날까지.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "반역하였다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…의 집을 향하여"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "이 날"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:12.981749785Z",
+  "model": "glm-5.2"
+}

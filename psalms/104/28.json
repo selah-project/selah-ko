@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "당신이 그들에게 주시면 그들이 거두어들이고, 당신이 당신의 손을 여시면 그들이 좋은 것으로 배부르다.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "주시면"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "거두어들이고"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "여시면"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "배부르다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것으로"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:51.575723575Z",
+  "model": "glm-5.2"
+}

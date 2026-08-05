@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "보라, ⟨이제⟩ ⟨내⟩ 입을 열었으니, ⟨내⟩ 혀가 ⟨내⟩ 입천장 안에서 말한다.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨이제⟩"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "열었으니"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨내⟩ 입을"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "⟨내⟩ 혀가"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "⟨내⟩ 입천장 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:04.090935996Z",
+  "model": "glm-5.2"
+}

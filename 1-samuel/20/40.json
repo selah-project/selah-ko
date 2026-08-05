@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "여호나탄이 ⟨את⟩ 자기 기구를 자기에게 있는 소년에게 주며, 그에게 말하였다. \"가서 성으로 가져가라.\"",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주며"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 기구"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "자기 기구를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "소년"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기에게 있는"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "가져가라"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:50.749577840Z",
+  "model": "glm-5.2"
+}

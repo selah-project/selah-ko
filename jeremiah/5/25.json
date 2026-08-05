@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "너희의 죄악들이 이것들을 돌이켰고, 너희의 죄들이 그 선한 것을 너희에게서 거두었다.",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "너희의 죄악들이"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "돌이켰고"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이것들을"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "너희의 죄들이"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "거두었다"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "그 선한 것을"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "너희에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:27:56.357575368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그래서 내가 말하였다. \"아도나이 야훼시여, 그만두시기를 구합니다. 야곱이 누가 일으키겠습니까? 그는 작기 때문입니다.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "그래서 내가 말하였다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "그만두시기를"
+    },
+    {
+      "surface": "נא",
+      "gloss": "구합니다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "일으키겠습니까"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "작기"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:20.604766889Z",
+  "model": "glm-5.2"
+}

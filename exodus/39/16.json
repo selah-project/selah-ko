@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그들이 금으로 물려 놓은 틀 둘과 금 고리 둘을 만들고, ⟨את⟩ 두 고리를 ⟨그⟩ 흉배의 두 끝에 놓았다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그들이 만들었다"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "둘"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "물려 놓은 틀"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "그리고 둘"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "고리"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "그들이 놓았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 고리를"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "그 고리"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "끝"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "그 흉배"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:22.883897621Z",
+  "model": "glm-5.2"
+}

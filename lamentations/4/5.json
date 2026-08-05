@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "미식을 즐기던 자들이 거리에서 황폐해졌다. 주홍으로 길러진 자들이 쓰레기 더미를 끌어안았다.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "미식을 즐기던 자들이"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": " delicacies를 위한"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "황폐해졌다"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "거리에서"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "주홍으로 길러진 자들이"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위에"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "벌레〈주홍〉"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "끌어안았다"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "쓰레기 더미를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:17.154485933Z",
+  "model": "glm-5.2"
+}

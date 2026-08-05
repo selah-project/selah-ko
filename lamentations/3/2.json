@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "⟨את⟩ 나를 몰아내시고, 어둠 속을 걷게 하셨다 — 빛이 아닌 곳을.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "몰아내시고"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "걷게 하셨다"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠 속을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아닌"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:10.721251511Z",
+  "model": "glm-5.2"
+}

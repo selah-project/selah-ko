@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그러나 당신은 거룩하시니, 이스라엘의 찬양들 위에 ⟨앉아⟩ 계신 이이시다.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그러나 당신은"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩하시니"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "앉아 계신 이"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "찬양들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:17.066439388Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "나는 내 형제들에게 나그네가 되었고, 내 어머니의 아들들에게 낯선 자가 되었다.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "나그네가"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "내 형제들에게"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "낯선 자가"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "내 어머니의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:52.584025933Z",
+  "model": "glm-5.2"
+}

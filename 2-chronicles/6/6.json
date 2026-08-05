@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "오직 내가 예루샬라임을 택하였다 — 내 이름이 거기 있기 위해 — 그리고 다윗을 택하였다 — 내 백성 이스라엘 위에 있기 위해.",
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "그리고 내가 택하였다"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임을"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "~이기 위해"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "내 이름"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "그리고 내가 택하였다"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "~위에 있기 위해"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:23.574555628Z",
+  "model": "glm-5.2"
+}

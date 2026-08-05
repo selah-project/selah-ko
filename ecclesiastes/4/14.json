@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그가 감옥에서 나와 왕이 되었기 때문이다. 비록 그의 왕국에서 가난하게 태어났을지라도.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…에서 (집)"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "감옥"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나오다"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕이 되다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "비록"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…하기도 하다"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "그의 왕국에서"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "태어나다"
+    },
+    {
+      "surface": "רש",
+      "gloss": "가난한"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:24.070126876Z",
+  "model": "glm-5.2"
+}

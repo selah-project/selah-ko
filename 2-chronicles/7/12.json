@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 야훼께서 밤에 셸모에게 나타나사, 그에게 말씀하셨다. \"나는 ⟨את⟩ 네 기도를 들었고, 이곳을 나를 위해 제사의 집으로 선택하였다.\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "그리고 나타나사"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸모"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 기도"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "네 기도를"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "그리고 선택하였다"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제사의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:44.888541873Z",
+  "model": "glm-5.2"
+}

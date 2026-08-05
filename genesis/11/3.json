@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 사람이 그의 동료에게 말하였다. \"왔다, 우리가 벽돌을 만들고 불에 굽자.\" 그리고 벽돌이 그들에게 돌이 되고, 역청이 그들에게 모르타르가 되었다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 …말하였다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "그의 동료"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "우리가 만들자"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "벽돌을"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "그리고 우리가 굽자"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "불에 구움으로"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그리고 …이 되었다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "벽돌이"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "돌이"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "그리고 역청이"
+    },
+    {
+      "surface": "היה",
+      "gloss": "…이 되었다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "모르타르가"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:54.405883026Z",
+  "model": "glm-5.2"
+}

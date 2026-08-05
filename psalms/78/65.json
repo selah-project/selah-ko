@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그리고 아도나이께서 잠자는 이처럼 깨셨으니, 포도주로 인하여 떠쳐 외치는 장사처럼 ⟨깨셨다⟩.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "그리고 깨셨으니"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "잠자는 이처럼"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "장사처럼"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "떠쳐 외치는"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "포도주로 인하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:43.713909012Z",
+  "model": "glm-5.2"
+}

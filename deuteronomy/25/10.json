@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 그의 이름이 이스라엘에서 신 벗긴 자의 집이라 불릴 것이다.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "그리고 불릴 것이다"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름이"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에서"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집이라"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "벗겨진 자의"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "신"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:59.449305948Z",
+  "model": "glm-5.2"
+}

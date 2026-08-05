@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "속이 빈 사람도 마음을 얻으면, 사람은 들나귀 새끼로 태어나는 것이로다.",
+  "tokens": [
+    {
+      "surface": "וְאִישׁ",
+      "gloss": "사람도"
+    },
+    {
+      "surface": "נָבוּב",
+      "gloss": "속이 빈"
+    },
+    {
+      "surface": "יִלָּבֵב",
+      "gloss": "마음을 얻으면"
+    },
+    {
+      "surface": "וְעַיִר",
+      "gloss": "새끼"
+    },
+    {
+      "surface": "פֶּרֶא",
+      "gloss": "들나귀"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "יִוָּלֵד",
+      "gloss": "태어나는 것이로다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:38.043488568Z",
+  "model": "glm-5.2"
+}

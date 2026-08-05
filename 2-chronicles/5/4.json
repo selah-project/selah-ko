@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 온 이스라엘 장로들이 왔고, 레위 사람들이 ⟨את⟩ 궤를 들어 올렸다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "들어 올렸다"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "궤"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "궤"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:55.879631477Z",
+  "model": "glm-5.2"
+}

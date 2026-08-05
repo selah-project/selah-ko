@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 내가 이스라엘 자손의 주검을 그들의 글루울들 앞에 ⟨את⟩ 내버려 두고, 너희의 제단들 둘레에 ⟨את⟩ 너희의 뼈들을 흩으리니",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 … 내버려 두리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손의 주검"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "주검"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "그들의 글루울"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "그리고 내가 흩으리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희의 뼈들"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "너희의 뼈들"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "너희의 제단들"
+    }
+  ],
+  "timestamp": "2026-08-05T10:47:46.138000580Z",
+  "model": "glm-5.2"
+}

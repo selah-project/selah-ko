@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 모셰 홀로 야훼에게 가까이 나아갈 것이요, 그들은 가까이 나아가지 못할 것이며, ⟨그리고⟩ 백성은 그와 함께 올라가지 못할 것이다.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "그리고 나아갈 것이다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그리고 그들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "나아갈 것이다"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "그리고 백성은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "올라갈 것이다"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:45.904018601Z",
+  "model": "glm-5.2"
+}

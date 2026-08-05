@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "다만 그의 살붙이 곧 그에게 가까운 자를 위해서는 — 어미를 위하여, 아비를 위하여, 아들을 위하여, 딸을 위하여, 형제를 위하여 —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "다만"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "그의 살붙이를 위하여"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "가까운"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "어미를 위하여"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "아비를 위하여"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "아들을 위하여"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "딸을 위하여"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "형제를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:51.234620089Z",
+  "model": "glm-5.2"
+}

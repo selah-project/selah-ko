@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "우리야의 아내가 우리야 그의 남편이 죽었음을 듣고, 그의 남편을 위하여 애곡하였다.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내가"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우리야의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽었음을"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우리야"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "그의 남편이"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "애곡하였다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "그의 남편을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:04.109441278Z",
+  "model": "glm-5.2"
+}

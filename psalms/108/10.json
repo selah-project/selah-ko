@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 108,
+  "translation": "모압은 내 목욕 단지, 에돔 위에 내 신을 던지리라, 블레셋 위에 내가 외치리라.",
+  "tokens": [
+    {
+      "surface": "מוֹאָב",
+      "gloss": "모압은"
+    },
+    {
+      "surface": "סִיר",
+      "gloss": "단지"
+    },
+    {
+      "surface": "רַחְצִי",
+      "gloss": "내 목욕"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "אֱדוֹם",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "אַשְׁלִיךְ",
+      "gloss": "던지리라"
+    },
+    {
+      "surface": "נַעֲלִי",
+      "gloss": "내 신"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פְּלֶשֶׁת",
+      "gloss": "블레셋"
+    },
+    {
+      "surface": "אֶתְרוֹעַע",
+      "gloss": "내가 외치리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:25.281803139Z",
+  "model": "glm-5.2"
+}

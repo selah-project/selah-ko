@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 아내 호데쉬에게서 ⟨את⟩ 요밥과 ⟨את⟩ 치브야와 ⟨את⟩ 메샤와 ⟨את⟩ 말캄을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "호데쉬"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "아내"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요밥"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "요밥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "치브야"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "치브야"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "메샤"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "메샤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "말캄"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "말캄"
+    }
+  ],
+  "timestamp": "2026-08-05T18:31:23.184306144Z",
+  "model": "glm-5.2"
+}

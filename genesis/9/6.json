@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "사람의 피를 쏟는 자, 사람에 의해 그의 피가 쏟아지리니, 이는 엘로힘의 형상대로 ⟨그가⟩ ⟨את⟩ 사람을 만들었음이라.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "쏟는 자"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람에 의해"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "그의 피가"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "쏟아지리니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "형상대로"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만들었음이라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:07.505108172Z",
+  "model": "glm-5.2"
+}

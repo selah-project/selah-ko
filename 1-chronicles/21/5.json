@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 21:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "요아브가 ⟨את⟩ 백성의 호적 조사의 수를 다윗에게 주었고, 온 이스라엘은 칼을 뽑는 자 백십만 명이었고, 유다는 칼을 뽑는 자 사십칠만 명이었다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주었고"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성의 호적 조사의 수를"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "수를"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "호적 조사의"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "이었고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "만"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "그리고 백"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명의"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "뽑는"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼을"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "그리고 유다는"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "사"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "그리고 칠십"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명의"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "뽑는"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:58.404853428Z",
+  "model": "glm-5.2"
+}

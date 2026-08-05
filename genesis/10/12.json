@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ 레센을, 니느웨와 켈라흐 사이에 — 그것은 큰 도시이다.",
+  "tokens": [
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "레센"
+    },
+    {
+      "surface": "רֶ֔סֶן",
+      "gloss": "레센"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "נִֽינְוֵ֖ה",
+      "gloss": "니느웨"
+    },
+    {
+      "surface": "וּבֵ֣ין",
+      "gloss": "그리고 ~사이에"
+    },
+    {
+      "surface": "כָּ֑לַח",
+      "gloss": "켈라흐"
+    },
+    {
+      "surface": "הִ֖וא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "הָעִ֥יר",
+      "gloss": "그 도시"
+    },
+    {
+      "surface": "הַגְּדֹלָֽה",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:02.223768395Z",
+  "model": "glm-5.2"
+}

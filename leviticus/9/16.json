@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨את⟩ 올라를 가까이 가져왔고, 그리고 규례대로 그것을 행하셨다.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "가까이 가져오셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "올라"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라를"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "행하셨다"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "규례대로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:34.099890838Z",
+  "model": "glm-5.2"
+}

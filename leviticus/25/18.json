@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너희는 ⟨את⟩ 나의 규례들을 행하며, ⟨את⟩ 나의 법도들을 지키고 그것들을 행하라. 그리하면 너희가 그 땅 위에서 안전하게 거할 것이다.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "그리고 너희는 행하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 규례들"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "나의 규례들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "나의 법도들"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "나의 법도들"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "너희는 지키라"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "그리고 너희는 행하라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그것들"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "그리하면 너희가 거할 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "안전하게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:11.801040160Z",
+  "model": "glm-5.2"
+}

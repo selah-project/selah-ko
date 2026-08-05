@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "나의 입이 당신의 의(體德)를 말하고, 온 종일 당신의 구원을 선포할 것이다. 나는 그것들의 셈을 알지 못하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "나의 입이"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "말할 것이다"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "당신의 의(體德)를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "당신의 구원을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 알지"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "그것들의 셈을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:14.865361079Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "술 폭음하는 자들 가운데 있지 말라, ⟨그들⟩이 ⟨함께⟩ 먹는 고기를 탐하는 자들 가운데 ⟨있지 말라⟩.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תְּהִי",
+      "gloss": "있게 되다"
+    },
+    {
+      "surface": "בְסֹבְאֵי",
+      "gloss": "폭음하는 자들 가운데"
+    },
+    {
+      "surface": "יָיִן",
+      "gloss": "술"
+    },
+    {
+      "surface": "בְּזֹלֲלֵי",
+      "gloss": "탐하는 자들 가운데"
+    },
+    {
+      "surface": "בָּשָׂר",
+      "gloss": "고기를"
+    },
+    {
+      "surface": "לָמוֹ",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:26.792757556Z",
+  "model": "glm-5.2"
+}

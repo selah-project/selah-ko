@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "지혜로운 자들의 면류관은 그들의 재물이며, 어리석은 자들의 어리석음은 어리석음이다.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "면류관은"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "지혜로운 자들의"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "그들의 재물이며"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "어리석음은"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "어리석은 자들의"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "어리석음이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:24.842148371Z",
+  "model": "glm-5.2"
+}

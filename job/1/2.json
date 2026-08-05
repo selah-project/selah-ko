@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그에게 일곱 아들과 셋 딸이 태어났다.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "태어났다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "⟨그리고⟩ 셋"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:01.015844551Z",
+  "model": "glm-5.2"
+}

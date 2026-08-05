@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그 경계가 서쪽으로 나아갔다. 북쪽의 미크메타에서부터 그 경계가 동쪽으로 돌아 타아낫-실로에 이르렀고, 동쪽의 야노아로부터 그것을 지나갔다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "그 경계가"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "서쪽으로"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "미크메타"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "북쪽의"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "돌아"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "그 경계가"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "동쪽으로"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "타아낫"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "실로"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "지나갔다"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "동쪽의"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "야노아로부터"
+    }
+  ],
+  "timestamp": "2026-08-05T09:09:40.224149617Z",
+  "model": "glm-5.2"
+}

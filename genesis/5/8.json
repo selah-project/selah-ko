@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리하여 셋의 모든 날이 구백십이 년이었고, 그가 죽었다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "그리하여 …이었다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "שת",
+      "gloss": "셋의"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "그리고 아홉"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그가 죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:01.863993698Z",
+  "model": "glm-5.2"
+}

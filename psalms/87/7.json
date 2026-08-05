@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 87,
+  "translation": "그리고 노래하는 자들도 피리 부는 자들처럼 ⟨말하리라⟩: 나의 모든 샘이들이 당신 안에 있다.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "그리고 노래하는 자들도"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "피리 부는 자들처럼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "샘이들이"
+    },
+    {
+      "surface": "בך",
+      "gloss": "당신 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:52.766295307Z",
+  "model": "glm-5.2"
+}

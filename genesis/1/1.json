@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "태초에 엘로힘이 ⟨את⟩ ⟨그⟩ 하늘과 ⟨את⟩ ⟨그⟩ 땅을 창조하셨다.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "태초에"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "창조하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 하늘"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:21.126769341Z",
+  "model": "glm-5.2"
+}

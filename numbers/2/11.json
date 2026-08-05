@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그의 군대와 그에게서 계수된 자는 사만 육천 오백이다.",
+  "tokens": [
+    {
+      "surface": "וּצְבָא֖וֹ",
+      "gloss": "그의 군대와"
+    },
+    {
+      "surface": "וּפְקֻדָ֑יו",
+      "gloss": "그에게서 계수된 자는"
+    },
+    {
+      "surface": "שִׁשָּׁ֧ה",
+      "gloss": "육"
+    },
+    {
+      "surface": "וְאַרְבָּעִ֛ים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "천"
+    },
+    {
+      "surface": "וַחֲמֵ֥שׁ",
+      "gloss": "오"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "백"
+    }
+  ],
+  "timestamp": "2026-08-05T08:27:50.442955155Z",
+  "model": "glm-5.2"
+}

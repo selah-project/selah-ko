@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 이것은 예루샬라임에서 그에게 태어난 자들의 이름들이다: 샴무아, 쇼바브, 나탄, 슐로모.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것은"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름들이다"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "태어난 자들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～의"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "샴무아"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "쇼바브"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "슐로모"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:01.198811942Z",
+  "model": "glm-5.2"
+}

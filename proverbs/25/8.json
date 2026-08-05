@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "급히 다툼에 나아가지 말라 — ⟨그렇지 않으면⟩ 마지막에 네가 무엇을 할 것인가? ⟨네⟩ 이웃이 ⟨את⟩ 너를 부끄럽게 할 때에.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "… 말라"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "나아가지"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "다툼에"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "급히"
+    },
+    {
+      "surface": "פן",
+      "gloss": "— ⟨그렇지 않으면⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "할 것인가?"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "마지막에"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "부끄럽게 할 때에"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "너를"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "⟨네⟩ 이웃이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:53.501383866Z",
+  "model": "glm-5.2"
+}

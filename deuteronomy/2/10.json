@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "(에임인이 옛적에 그곳에 거주하였다 — 크고 많고 키 큰 백성으로, 아나킴 같이.)",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "에임인이"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "옛적에"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "거주하였다"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성으로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크고"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "많고"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "키 큰"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "아나킴 같이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:42.318554971Z",
+  "model": "glm-5.2"
+}

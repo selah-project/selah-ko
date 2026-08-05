@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "내가 듣겠다, 엘 야훼께서 무엇을 말씀하시는지, 그가 ⟨곧⟩ ⟨자기⟩ 백성과 ⟨자기⟩ 경건한 자들에게 샬롬을 말씀하실 것이기 ⟨때문이다⟩, 그들이 어리석음으로 돌아가지 아니하도록.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "내가 듣겠다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말씀하시는지"
+    },
+    {
+      "surface": "האל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말씀하실 것이다"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "자기 백성"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "자기 경건한 자들"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…아니하도록"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "그들이 돌아가지"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "어리석음으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:16.417521605Z",
+  "model": "glm-5.2"
+}

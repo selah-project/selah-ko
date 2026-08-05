@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "계명을 지키는 자는 ⟨그의⟩ 네페쉬를 지키고, ⟨그의⟩ 길들을 멸시하는 자는 죽임을 당한다.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "지키는"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "계명"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지킨다"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨그의⟩ 네페쉬"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "멸시하는"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "⟨그의⟩ 길들"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽임을 당한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:57.396365403Z",
+  "model": "glm-5.2"
+}

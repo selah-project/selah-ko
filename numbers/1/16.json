@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "이들이 ⟨회중⟩ 가운데서 불린 자들이며, 그들의 조상들의 지파들의 수장들, 이스라엘 천인들의 머리들이다 — 그들이라.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "불린 자들이며"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨회중⟩"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "수장들"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "지파들의"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "그들의 조상들의"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "머리들이다"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "천인들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:26:49.743165292Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 150,
+  "translation": "할렐루, 야! 엘을 ⟨그분의⟩ 거룩한 ⟨곳에서⟩ 찬양하라. ⟨그분을⟩ ⟨그분의⟩ 궁창에서 찬양하라.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야!"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘을"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "⟨그분의⟩ 거룩한 ⟨곳에서⟩"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨그분을⟩ 찬양하라"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "⟨그분의⟩ 궁창에서"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "⟨그분의⟩ 능력의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:00.165884440Z",
+  "model": "glm-5.2"
+}

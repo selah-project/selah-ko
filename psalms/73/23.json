@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "그러나 나는 늘 ⟨당신⟩과 함께 있다. ⟨당신⟩이 내 오른손을 잡으셨다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그러나 나는"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "늘"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신과 함께"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "잡으셨다"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "내 오른"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:25.158304387Z",
+  "model": "glm-5.2"
+}

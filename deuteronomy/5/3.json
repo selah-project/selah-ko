@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "야훼께서 ⟨את⟩ 이 브리트(언약)을 ⟨את⟩ 우리 조상들과 세우지 않으시고 — 오직 우리와, 우리, 이들, 여기 오늘 살아 있는 우리 모두와 함께 세우셨다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리 조상들"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "우리 조상들"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "세우셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 브리트(언약)"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "이 브리트(언약)을"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "우리와"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들"
+    },
+    {
+      "surface": "פה",
+      "gloss": "여기"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "우리 모두"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "살아 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:07.534612442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 예호수아가 그 때에 돌아와 ⟨את⟩ 하초르를 점령하고, ⟨את⟩ 그 왕을 칼로 쳤다 — 하초르는 이전에 이 모든 왕국들의 머리였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "그리고 … 돌아와"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호수아가"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "… 때에"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "그"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "그리고 … 점령하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하초르"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "하초르를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 왕"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "그 왕을"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "… 때문이다"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "하초르는"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "이전에"
+    },
+    {
+      "surface": "היא",
+      "gloss": "… 이었다"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "왕국들의"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:09:29.546376915Z",
+  "model": "glm-5.2"
+}

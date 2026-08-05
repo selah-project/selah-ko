@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 52:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "이에 따라 그는 많은 민족들에게 뿌릴 것이요, 그를 인하여 왕들은 그들의 입을 닫으리니, 이는 그들에게 알려지지 않은 것을 그들이 보았음이요, 그들이 듣지 못한 것을 그들이 통찰하였음이다.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "이에 따라"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "그는 … 뿌릴 것이요"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들에게"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그를 인하여"
+    },
+    {
+      "surface": "יקפצו",
+      "gloss": "닫으리니"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "왕들은"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "그들의 입을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "알려지지 않은"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "알려지지 않은"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "그들이 보았음이요"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "듣지"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "못한"
+    },
+    {
+      "surface": "התבוננו",
+      "gloss": "그들이 통찰하였음이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:21:55.059633967Z",
+  "model": "glm-5.2"
+}

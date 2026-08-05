@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "⟨את⟩ 달과 별들을 밤에 다스리도록 ⟨하셨다⟩. 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "달"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "달"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "그리고 별들을"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "다스리도록"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:54.173552768Z",
+  "model": "glm-5.2"
+}

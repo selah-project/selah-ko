@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 32:20",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "말하리라, 그리하여 나에게 숨통이 트이리라. 내 입술을 열고 대답하리라.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "말하리라"
+    },
+    {
+      "surface": "וירוח",
+      "gloss": "그리하여 숨통이 트이리라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "열고"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "내 입술을"
+    },
+    {
+      "surface": "ואענה",
+      "gloss": "대답하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:56.372671766Z",
+  "model": "glm-5.2"
+}

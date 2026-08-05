@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 61,
+  "translation": "왕의 날들 위에 날들을 더하소서. ⟨그의⟩ 해를 세대와 세대 같이 ⟨되게 하소서⟩.",
+  "tokens": [
+    {
+      "surface": "יָמִ֣ים",
+      "gloss": "날들을"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "날들"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "תּוֹסִ֑יף",
+      "gloss": "더하소서"
+    },
+    {
+      "surface": "שְׁנוֹתָ֗יו",
+      "gloss": "⟨그의⟩ 해를"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "같이"
+    },
+    {
+      "surface": "דֹ֥ר",
+      "gloss": "세대와"
+    },
+    {
+      "surface": "וָדֹֽר",
+      "gloss": "세대"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:38.196562165Z",
+  "model": "glm-5.2"
+}

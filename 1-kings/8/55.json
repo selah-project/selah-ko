@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그가 서서 온 이스라엘 회중을 ⟨את⟩ 큰 소리로 축복하며 ⟨말하였다⟩,",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעְמֹ֕ד",
+      "gloss": "그리고 그가 서서"
+    },
+    {
+      "surface": "וַיְבָ֕רֶךְ",
+      "gloss": "축복하며"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘 회중을"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "קְהַ֣ל",
+      "gloss": "회중"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ק֥וֹל",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "גָּד֖וֹל",
+      "gloss": "큰"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "⟨말하였다⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:35.650661326Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "나의 헛됨의 날들에 ⟨את⟩ 모든 것을 내가 보았다 — 의로운 자가 그 의로움 가운데 망하고, 악한 자가 그 악함 가운데 오래 사는 경우가 있다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았다"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "날들에"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "나의 헛됨의"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있다"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "망하고"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "그 의로움 가운데"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "—"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악한 자"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "오래 사는"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "그 악함 가운데"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:23.804086087Z",
+  "model": "glm-5.2"
+}

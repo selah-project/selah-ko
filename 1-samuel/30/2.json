@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 그곳에 있던 여자들을 사로잡았으니, 어린 아이에서 큰 자에 이르기까지 아무도 죽이지 않고, 끌어가며 그들의 길을 갔다.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "사로잡았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 여자들"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "여자들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~하던"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "어린 아이에서"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "~에 이르기까지"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰 자"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "죽이고"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "끌어가며"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "그들의 길을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:48.075194341Z",
+  "model": "glm-5.2"
+}

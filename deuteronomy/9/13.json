@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 야훼께서 내게 말씀하여 이르시기를, 내가 ⟨את⟩ 이 백성을 보았는데, 보라, 그들은 목이 뻣뻣한 백성이다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "뻣뻣한"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "목"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:16.991487589Z",
+  "model": "glm-5.2"
+}

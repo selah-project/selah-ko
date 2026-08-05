@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "⟨את⟩ 바다 하나, 그리고 ⟨את⟩ 소 열둘 ⟨을⟩ 그 아래에.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바다"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "소"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "소"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그 아래에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:09.051826429Z",
+  "model": "glm-5.2"
+}

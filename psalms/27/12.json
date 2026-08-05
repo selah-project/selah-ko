@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "나를 내 억압하는 자들의 네페쉬에 넘기지 마옵소서. 거짓 증인들이 나를 향해 일어났으므로, 폭력을 내뿜으므로.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…지 마옵소서"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "넘기지"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "…네페쉬에"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "나를 억압하는 자들의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…므로"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "일어났"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를 향해"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "증인들이"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "그리고 내뿜으므로"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:18.700884647Z",
+  "model": "glm-5.2"
+}

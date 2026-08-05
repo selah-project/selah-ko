@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "너희 반죽의 처음 것, 한 떡을 트루마로 들어 올리라. 타작마당의 트루마 같이, 그와 같이 너희는 ⟨את⟩ 그것을 들어 올리라.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "처음 것"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "너희 반죽의"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "한 떡을"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "너희는 들어 올리라"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "트루마로"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "트루마 같이"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "타작마당의"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "너희는 들어 올리라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:36:52.605705098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "나태한 사람의 밭 곁을 지나가며, 마음이 빠진 사람의 포도원 곁을 ⟨지나갔더니⟩,",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "곁을"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "밭"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "나태한"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "나는 지나갔다"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "곁을"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "포도원"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "빠진"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:06.008004009Z",
+  "model": "glm-5.2"
+}

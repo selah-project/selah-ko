@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "하늘의 엘에게 감사하라, 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "감사하라"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "엘에게"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:53.788247885Z",
+  "model": "glm-5.2"
+}

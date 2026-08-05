@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 149,
+  "translation": "대저 야훼께서 ⟨그의⟩ 백성을 기뻐하시며, 구원 ⟨으로⟩ 온유한 자들을 아름답게 하신다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "기뻐하시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "⟨그의⟩ 백성을"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "아름답게 하신다"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "온유한 자들을"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "구원 ⟨으로⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:45.964549878Z",
+  "model": "glm-5.2"
+}

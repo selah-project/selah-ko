@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "람은 ⟨את⟩ 암미나다브를 낳았고, 암미나다브는 ⟨את⟩ 나흐쉬온을 낳았으니, 그는 유다 자손의 지도자였다.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "그리고 라m은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "암미나다브를"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "암미나다브"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "그리고 암미나다브는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나흐쉬온을"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "나흐쉬온"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "지도자"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 자손"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:05.295347007Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "십일조를 바칠지니, 네가 해마다 밭에서 나는 모든 수확물의 ⟨את⟩ 십분의 일을 바칠 것이다.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "십일조하다"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "네가 십일조하다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 수확물"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "수확물"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 씨의"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "…나오는"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "밭에서"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:17.206425190Z",
+  "model": "glm-5.2"
+}

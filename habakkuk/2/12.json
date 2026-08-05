@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "화, 피들로 성을 짓고 불의로 도시를 세우는 자여!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "짓고"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성을"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "피들로"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "그리고 … 세우는"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "도시를"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "불의로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:17.866022445Z",
+  "model": "glm-5.2"
+}

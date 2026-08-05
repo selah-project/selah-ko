@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "나, 곧 내가 ⟨그⟩ 너희를 위로하는 이다. 너는 누구이기에, ⟨את⟩ 네가 죽을 사람을 두려워하며, 풀처럼 주어지는 사람의 아들을 두려워하느냐?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "나"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "곧 내가"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "～이다"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "너희를 위로하는"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구이기에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네가"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "두려워하며"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽을"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "～의 아들을"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "풀처럼"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "주어지는"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:35.996153661Z",
+  "model": "glm-5.2"
+}

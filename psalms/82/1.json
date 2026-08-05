@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 82,
+  "translation": "아사프의 미즈모르. 엘로힘이 ⟨엘의⟩ 회중에 서시어, 엘로힘들 가운데서 판결하신다.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "미즈모르"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "아사프의"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "서시어"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "회중에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘들"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "판결하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:15.341657727Z",
+  "model": "glm-5.2"
+}

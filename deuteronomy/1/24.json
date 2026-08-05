@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그들이 돌이켜 그 산악으로 올라가 에쉬콜 골짜기까지 이르렀고, ⟨그것을⟩ 정탐하였다.",
+  "tokens": [
+    {
+      "surface": "וַיִּפְנוּ",
+      "gloss": "돌이켜"
+    },
+    {
+      "surface": "וַיַּעֲלוּ",
+      "gloss": "올라가"
+    },
+    {
+      "surface": "הָהָרָה",
+      "gloss": "그 산악으로"
+    },
+    {
+      "surface": "וַיָּבֹאוּ",
+      "gloss": "이르렀고"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "∼까지"
+    },
+    {
+      "surface": "נַחַל",
+      "gloss": "골짜기"
+    },
+    {
+      "surface": "אֶשְׁכֹּל",
+      "gloss": "에쉬콜"
+    },
+    {
+      "surface": "וַיְרַגְּלוּ",
+      "gloss": "정탐하였다"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:51.489358244Z",
+  "model": "glm-5.2"
+}

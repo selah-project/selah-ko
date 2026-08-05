@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그곳에서 백성이 물을 목말라하였고, 백성이 모셰에게 불평하며 말하였다. \"어찌하여 우리를 미츠라임에서 올라오게 하셨습니까? 나와 ⟨את⟩ 내 아들들과 ⟨את⟩ 내 가축을 목마름으로 죽이시려고.\"",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "목말라하였고"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "למים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "불평하며"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "올라오게 하셨습니까"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "죽이시려고"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 가축"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "내 가축"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "목마름으로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:49.603480196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "황폐가 그를 덮치되 그가 알지 못하게 ⟨하시고⟩, 그가 숨긴 그의 그물이 그를 잡게 ⟨하시며⟩, 황폐 안으로 그가 그 안에 빠지게 ⟨되기를⟩.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "그를 덮치되"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "황폐가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "그가 알지"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "그리고 그의 그물이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "숨긴"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "그를 잡게"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "황폐 안으로"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "그가 빠지게"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:27.747782670Z",
+  "model": "glm-5.2"
+}

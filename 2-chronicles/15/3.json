@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 날들이 많았다 — 이스라엘에게, 참된 엘로힘 없이, 가르치는 코헨 없이, 토라 없이.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 없이"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "참된"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "그리고 없이"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "가르치는"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "그리고 없이"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "토라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:27.905884617Z",
+  "model": "glm-5.2"
+}

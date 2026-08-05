@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨את⟩ 파르마쉬타, 그리고 ⟨את⟩ 아리사이, 그리고 ⟨את⟩ 아리다이, 그리고 ⟨את⟩ 바예자타.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "파르마쉬타"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "파르마쉬타"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아리사이"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "아리사이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아리다이"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "아리다이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "바예자타"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "바예자타"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:45.596274424Z",
+  "model": "glm-5.2"
+}

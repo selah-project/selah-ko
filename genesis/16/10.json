@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼의 천사가 ⟨그⟩녀에게 말씀하셨다. \"내가 크게 불려 ⟨את⟩ 네 씨를 번성하게 하리니, 그것이 그 많음으로 말미암아 셀 수 없을 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "천사가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "크게"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "번성하게 하리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 씨"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 씨를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "셀 수"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "많음으로 말미암아"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:50.140778524Z",
+  "model": "glm-5.2"
+}

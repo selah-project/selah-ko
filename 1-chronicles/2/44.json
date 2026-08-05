@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 샤마는 ⟨את⟩ 라하므을 낳았으니, 그는 요르케암의 아비이고, 레켐은 ⟨את⟩ 샤마이를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "그리고 샤마는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "라하므을"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "라하므을"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…의 아비이고"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "요르케암의"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "레켐은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤마이를"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "샤마이를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:11.666849292Z",
+  "model": "glm-5.2"
+}

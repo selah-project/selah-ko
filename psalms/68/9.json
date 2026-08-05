@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "땅이 흔들렸고, 심지어 하늘들도 엘로힘 앞에서, 이 시내 산이 엘로힘 앞에서, 이스라엘의 엘로힘 앞에서 물방울을 떨어뜨렸다.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "흔들렸고"
+    },
+    {
+      "surface": "אף",
+      "gloss": "심지어"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들도"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "물방울을 떨어뜨렸다"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "시내 산이"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:17.669103230Z",
+  "model": "glm-5.2"
+}

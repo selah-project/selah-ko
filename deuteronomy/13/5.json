@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "너희는 야훼 너희 엘로힘을 따라 걸어가고, ⟨את⟩ 그를 경외하며, ⟨את⟩ 그의 계명들을 지키고, 그의 음성에 순종하며, ⟨את⟩ 그를 섬기고, 그에게 붙어 있어라.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "~를 따라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "너희는 걸어가고"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ 그를",
+      "marks": "그를"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "경외하며"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 계명들을"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "그의 계명들을"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "그의 음성에"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "순종하며"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ 그를",
+      "marks": "그를"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "섬기고"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "붙어 있어라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:14.876030280Z",
+  "model": "glm-5.2"
+}

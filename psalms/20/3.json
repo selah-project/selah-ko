@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "거룩한 곳에서 ⟨그대⟩의 도움을 보내시고, 쯔온에서 ⟨그대⟩를 지지하시기를.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "보내시고"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "⟨그대⟩의 도움을"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "거룩한 곳에서"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "그리고 쯔온에서"
+    },
+    {
+      "surface": "יסע드ך",
+      "gloss": "⟨그대⟩를 지지하시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:54.470605993Z",
+  "model": "glm-5.2"
+}

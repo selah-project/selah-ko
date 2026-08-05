@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "반드시 그에게 주어라. 네가 그에게 줄 때에 네 마음이 아프지 않게 하라. 이 일로 인해 네 엘로힘 야훼께서 네 모든 행위와 네 손이 내미는 모든 일에서 너를 복 주시실 것이다.",
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "주어라"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "네가 주다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아니"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "아프다"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "네 마음이"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "네가 줄 때에"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "~로 인해"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "그분께서 너를 복 주시실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "네 행위에서"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "내미는"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:29.101245055Z",
+  "model": "glm-5.2"
+}

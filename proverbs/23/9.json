@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "어리석은 자의 귀에 말하지 말아라, 그리하면 ⟨그가⟩ 네 말의 지혜를 멸시할 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "בְּאָזְנֵ֣י",
+      "gloss": "~의 귀에"
+    },
+    {
+      "surface": "כְ֭סִיל",
+      "gloss": "어리석은 자"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "말아라"
+    },
+    {
+      "surface": "תְּדַבֵּ֑ר",
+      "gloss": "말하지"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יָ֝ב֗וּז",
+      "gloss": "멸시할 것이다"
+    },
+    {
+      "surface": "לְשֵׂ֣כֶל",
+      "gloss": "지혜를"
+    },
+    {
+      "surface": "מִלֶּֽיךָ",
+      "gloss": "네 말의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:02.311936583Z",
+  "model": "glm-5.2"
+}

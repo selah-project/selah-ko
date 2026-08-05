@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그 날에 내가 엘리에게 일으킬 것은, ⟨את⟩ 그의 집에 대하여 내가 말한 모든 것이다 — 시작하여 끝낼 것이다.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "내가 일으킬 것이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "엘리"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것을⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "내가 말한"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에 대하여"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "החל",
+      "gloss": "시작하여"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "끝낼 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:24.548056461Z",
+  "model": "glm-5.2"
+}

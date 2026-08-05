@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "⟨그가⟩ 우리 네페쉬를 생명 가운데 두셨고, 우리 발이 미끄러지지 않게 하셨다.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "두셨고"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "우리 네페쉬를"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "생명 가운데"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…하지 않게"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "하셨다"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "미끄러지"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "우리 발이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:05.725884139Z",
+  "model": "glm-5.2"
+}

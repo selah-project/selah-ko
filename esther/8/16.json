@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "유다인들에게는 빛과 기쁨, 그리고 환희와 존귀가 있었다.",
+  "tokens": [
+    {
+      "surface": "לַיְּהוּדִ֕ים",
+      "gloss": "유다인들에게는"
+    },
+    {
+      "surface": "הָֽיְתָ֥ה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "אוֹרָ֖ה",
+      "gloss": "빛과"
+    },
+    {
+      "surface": "וְשִׂמְחָ֑ה",
+      "gloss": "기쁨,"
+    },
+    {
+      "surface": "וְשָׂשֹׂ֖ן",
+      "gloss": "그리고 환희와"
+    },
+    {
+      "surface": "וִיקָֽר",
+      "gloss": "존귀가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:33.825676716Z",
+  "model": "glm-5.2"
+}

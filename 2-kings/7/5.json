@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그들이 새벽녘에 일어나 아람 진영으로 들어가다가, 아람 진영의 끝에 이르렀는데, 보라, 거기에 아무도 없었다.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "그들이 일어나"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "새벽녘에"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "들어가다가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 이르렀는데"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "끝"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:35.621166070Z",
+  "model": "glm-5.2"
+}

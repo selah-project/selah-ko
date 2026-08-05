@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그러므로 너는 야훼 너의 엘로힘을 사랑하고, ⟨את⟩ 그의 지키실 것과 그의 규례들과 그의 법규들과 그의 계명들을 지켜야 한다, 모든 날에.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "그러므로 너는 사랑하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "너의 엘로힘을"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "지켜야 한다"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "그의 지키실 것과"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "그의 규례들과"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "그의 법규들과"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "그의 계명들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:07:15.381968140Z",
+  "model": "glm-5.2"
+}

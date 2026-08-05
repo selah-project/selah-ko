@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 61,
+  "translation": "당신이 나에게 피난처가 되셨기 때문입니다, 원수의 면전에서 ⟨의⟩ 강한 망대.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "היית",
+      "gloss": "당신이 … 되셨기"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "피난처"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "망대"
+    },
+    {
+      "surface": "עז",
+      "gloss": "강한"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…의 면전에서"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:26.453213630Z",
+  "model": "glm-5.2"
+}

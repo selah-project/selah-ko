@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "엘로힘은 일어나시면, ⟨그⟩ 원수들은 흩어지고, ⟨그⟩를 미워하는 자들은 ⟨그⟩ 면전에서 도망하리라.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "일어나시면"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘은"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "흩어지고"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "원수들은"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "도망하리라"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "미워하는 자들은"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "그 면전에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:44.555650721Z",
+  "model": "glm-5.2"
+}

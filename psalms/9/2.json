@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼여, 온 마음으로 내가 ⟨아드나이⟩ 야훼께 감사하오며, 모든 기이한 일들을 내가 전하리이다.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "내가 감사하오며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "내가 전하리이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "기이한 일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:27.161412315Z",
+  "model": "glm-5.2"
+}

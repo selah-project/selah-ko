@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "엘리가 슈무엘 ⟨את⟩ 을 불렀다. 그리고 말하였다, \"슈무엘아, 내 아들아.\" 그가 말하였다, \"제가 여기 있습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 … 불렀다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "엘리가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "슈무엘"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 … 말하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘아,"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들아."
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다,"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다.\""
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:03.149623897Z",
+  "model": "glm-5.2"
+}

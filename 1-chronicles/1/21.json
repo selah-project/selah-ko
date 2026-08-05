@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ 하도람, ⟨את⟩ 우잘, ⟨את⟩ 디클라.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "하도람"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "하도람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "우잘"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "우잘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "디클라"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "디클라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:11.709366341Z",
+  "model": "glm-5.2"
+}

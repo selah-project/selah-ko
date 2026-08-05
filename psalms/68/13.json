@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "군대들의 왕들이 도망하고 도망하니, 집에 머무는 ⟨여자가⟩ 전리품을 나누었도다.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "군대들의"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "도망하고"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "도망하니"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "머무는"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "나누었도다"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "전리품을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:42.099130115Z",
+  "model": "glm-5.2"
+}

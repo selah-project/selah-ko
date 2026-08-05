@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "이것을 들으라, 모든 민족들아, 귀를 기울이라, 떠돌이 세상의 모든 거주자들아.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "민족들아"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "귀를 기울이라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들아"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "떠돌이 세상의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:11.771256365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "하만이 자신을 억눌렀고, 자기 집에 들어갔다. 그리고 보내어 ⟨את⟩ 자기 친구들과 ⟨את⟩ 자기 아내 제레쉬를 불러들였다.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "자신을 억눌렀고"
+    },
+    {
+      "surface": "המן",
+      "gloss": "하만이"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자기 집"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "불러들였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 친구들을"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "자기 친구들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아내 제레쉬를"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "제레쉬를"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "자기 아내"
+    }
+  ],
+  "timestamp": "2026-08-05T14:07:47.406562132Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "네 눈에 잠을 주지 말며, 네 눈꺼풀에 졸음을 주지 말아라.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "…말아라"
+    },
+    {
+      "surface": "תִּתֵּ֣ן",
+      "gloss": "주지 말며"
+    },
+    {
+      "surface": "שֵׁנָ֣ה",
+      "gloss": "잠을"
+    },
+    {
+      "surface": "לְעֵינֶ֑יךָ",
+      "gloss": "네 눈에"
+    },
+    {
+      "surface": "וּ֝תְנוּמָ֗ה",
+      "gloss": "졸음을"
+    },
+    {
+      "surface": "לְעַפְעַפֶּֽיךָ",
+      "gloss": "네 눈꺼풀에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:43.459372024Z",
+  "model": "glm-5.2"
+}

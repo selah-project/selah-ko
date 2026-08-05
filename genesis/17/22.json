@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그분과 말씀하시기를 마치시고, 엘로힘께서 아브라함 위에서 올라가셨다.",
+  "tokens": [
+    {
+      "surface": "והוא כלה לדבר אתו",
+      "gloss": "그리고 그분과 말씀하시기를 마치시고"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "올라가셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    }
+  ],
+  "timestamp": "2026-08-05T17:08:32.105064160Z",
+  "model": "glm-5.2"
+}

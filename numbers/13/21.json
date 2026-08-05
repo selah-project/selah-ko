@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그들이 올라가서 ⟨את⟩ 그 땅을 탐지하였다 — 친 광야에서부터, 르호봇으로, 하맛으로 들어가는 곳까지.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲל֖וּ",
+      "gloss": "그들이 올라가서"
+    },
+    {
+      "surface": "וַיָּתֻ֣רוּ",
+      "gloss": "탐지하였다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "מִמִּדְבַּר",
+      "gloss": "～에서부터 광야"
+    },
+    {
+      "surface": "צִ֥ן",
+      "gloss": "친"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "～까지"
+    },
+    {
+      "surface": "רְחֹ֖ב",
+      "gloss": "르호봇"
+    },
+    {
+      "surface": "לְבֹ֥א",
+      "gloss": "들어가는 곳"
+    },
+    {
+      "surface": "חֲמָֽת",
+      "gloss": "하맛"
+    }
+  ],
+  "timestamp": "2026-08-05T08:35:30.628537513Z",
+  "model": "glm-5.2"
+}

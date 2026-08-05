@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그들과 다투지 말라. 내가 너희에게 그들의 땅에서 발바닥이 딛는 것만큼도 주지 아니하리니, 이는 내가 셰이라 산을 ⟨את⟩ 소유로 에사우에게 주었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "다투지"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들과"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "주지"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "그들의 땅에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지도"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "디딛는 것"
+    },
+    {
+      "surface": "כף",
+      "gloss": "발바닥이"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "발"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "소유로"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "에사우에게"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셰이라 산을"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산을"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "셰이라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:45.898229789Z",
+  "model": "glm-5.2"
+}

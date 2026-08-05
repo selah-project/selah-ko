@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "내 날들이 적지 아니하니이까? 그치시고, 나를 내버려 두사, 내가 잠시나마 환해지겠나이다.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "아니하니이까"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "적지"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "내 날들이"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "그치시고"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "두사"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "내가 환해지겠나이다"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "잠시나마"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:30.797353242Z",
+  "model": "glm-5.2"
+}

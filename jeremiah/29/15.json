@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "너희가 말하였기 때문이다. \"야훼께서 우리를 위하여 바벨에 나비들을 일으키셨다\" 하고.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "너희가 말하였"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "일으키셨다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위하여"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "나비들을"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "바벨에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:37:20.963855668Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 그 ⟨도시⟩의 장로들이 ⟨그⟩ 남자를 데려다가 ⟨그⟩ ⟨것을⟩ 징계할 것이다.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "그리고 데려다가"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로들이"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "도시의"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 남자를"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "남자를"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "징계할 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:02.599939957Z",
+  "model": "glm-5.2"
+}

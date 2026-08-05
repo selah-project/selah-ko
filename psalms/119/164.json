@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "날마다 일곱 ⟨번⟩ 내가 그대를 찬양한다, 그대의 의로운 판결들 ⟨때문에⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "일곱 ⟨번⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날마다"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "내가 그대를 찬양한다"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨때문에⟩"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "판결들"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "그대의 의로운"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:13.944478448Z",
+  "model": "glm-5.2"
+}

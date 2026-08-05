@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "아람이 너를 향해 악한 것을 도모하였기 때문이다 — 에프라임과 르말야후의 아들이, 말하기를:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…하기"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "도모하였"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "너를 향해"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람이"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악한 것을"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임과"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "르말야후의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:02.362208657Z",
+  "model": "glm-5.2"
+}

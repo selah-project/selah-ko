@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 그 소녀의 아버지가 그 장로들에게 말하기를 “나의 ⟨את⟩ 딸을 내가 이 남자에게 아내로 주었으나, 그가 그녀를 미워하였다” 하면 —",
+  "tokens": [
+    {
+      "surface": "וְאָמַ֛ר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אֲבִ֥י",
+      "gloss": "아버지가"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "그 소녀의"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "～에게"
+    },
+    {
+      "surface": "הַזְּקֵנִ֑ים",
+      "gloss": "그 장로들"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "나의 딸을"
+    },
+    {
+      "surface": "בִּתִּ֗י",
+      "gloss": "나의 딸을"
+    },
+    {
+      "surface": "נָתַ֜תִּי",
+      "gloss": "내가 주었으나"
+    },
+    {
+      "surface": "לָאִ֥ישׁ",
+      "gloss": "남자에게"
+    },
+    {
+      "surface": "הַזֶּ֛ה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לְאִשָּׁ֖ה",
+      "gloss": "아내로"
+    },
+    {
+      "surface": "וַיִּשְׂנָאֶֽהָ",
+      "gloss": "미워하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:01.088861127Z",
+  "model": "glm-5.2"
+}

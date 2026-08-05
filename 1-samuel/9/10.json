@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그러자 샤울이 그의 사환에게 말하였다. \"네 말이 좋다. 자, 가자.\" 그리하여 그들은 엘로힘의 사람이 있는 그 성읍으로 갔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "그의 사환에게"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋다"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "네 말이"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "자"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "가자"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성읍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "있는"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:01.816247919Z",
+  "model": "glm-5.2"
+}

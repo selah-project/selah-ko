@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 126,
+  "translation": "올라가는 노래. 야훼께서 ⟨את⟩ 쯔욘의 돌아오심을 돌려놓으셨을 때, 우리는 꿈꾸는 자들 같았다.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는 것들의"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "돌이키셨을 때"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쯔욘의 돌아오심을"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "돌아오심"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "쯔욘의"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "우리는 ~였다"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "꿈꾸는 자들 같았다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:28.335866525Z",
+  "model": "glm-5.2"
+}

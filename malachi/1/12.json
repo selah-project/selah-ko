@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 너희는 ⟨את⟩ 그것을 더럽히고 있다, ⟨그것이⟩ '아도나이의 상이 더럽다'고 말하며, 그리고 그것의 소산, 그것의 음식은 멸시를 받는다.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "그리고 너희는"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "더럽히고 있다"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "상이"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이의"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "더럽다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "그리고 그것의 소산"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "멸시를 받는다"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "그것의 음식"
+    }
+  ],
+  "timestamp": "2026-08-05T11:21:38.642114631Z",
+  "model": "glm-5.2"
+}

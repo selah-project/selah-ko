@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 은은 회중에 계수된 자들의 ⟨것⟩이 백 달란트와 천 칠백 칠십오 세겔이었으니, 성소의 세겔로이다.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "그리고 은은"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "계수된 자들의"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "백"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "달란트"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "그리고 천"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "그리고 칠"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "그리고 오"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "그리고 칠십"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "세겔"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "세겔로"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "성소의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:24.248947771Z",
+  "model": "glm-5.2"
+}

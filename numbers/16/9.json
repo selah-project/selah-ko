@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 16:9",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "너희에게 작은 일이냐? 이스라엘의 엘로힘이 너희를 이스라엘의 회중에게서 구별하셨으니, 너희를 그에게 가까이 이끌어 ⟨את⟩ 미쉬칸의 야훼 섬기는 일을 행하게 하시며, 회중 앞에 서서 그들을 섬기게 하심이라.",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "작은 것이냐"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이냐"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "구별하셨으니"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "회중에게서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "가까이 이끌어"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "행하게 하시며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "섬기는 일을"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "섬기는 일"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "미쉬칸의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "서게 하시며"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중"
+    },
+    {
+      "surface": "לשרתם",
+      "gloss": "그들을 섬기게 하심이라"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:35.050151592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "나의 네페쉬를 대적하는 자들은 부끄러움을 당하고 멸망할 것이다. 나의 재앙을 구하는 자들은 모욕과 수치로 덮일 것이다.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "부끄러움을 당할 것이다"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "멸망할 것이다"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "나를 대적하는 자들은"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬를"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "덮일 것이다"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "모욕으로"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "그리고 수치로"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "구하는 자들이"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "나의 재앙을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:14.865060841Z",
+  "model": "glm-5.2"
+}

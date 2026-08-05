@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "고아들의 아버지, 과부들의 재판관이시니 — 엘로힘 ⟨이시다⟩ — 그분의 거룩한 거처에 계신다.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "고아들의"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "그리고 재판관이시니"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "과부들의"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "거처에"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "그분의 거룩한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:29.010533458Z",
+  "model": "glm-5.2"
+}

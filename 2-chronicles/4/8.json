@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 4:8",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 상 열을 만들고, 성전에 다섯은 오른편에, 다섯은 왼편에 두었다. 그리고 금 대접 백을 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 … 만들고"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "상"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "성전에"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "다섯은"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "오른편에"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "그리고 다섯은"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "왼편에"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 … 만들었다"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "대접"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:06.457465277Z",
+  "model": "glm-5.2"
+}

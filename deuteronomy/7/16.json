@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 너는 야훼 네 엘로힘께서 네게 주시는 모든 백성들인 ⟨את⟩ ⟨모든⟩ 백성들을 소진할 것이다. 네 눈이 그들을 불쌍히 여기지 말고, ⟨את⟩ 그들의 엘로힘들을 섬기지 말지니, 그것이 너에게 올무이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "그리고 너는 소진할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 백성들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "백성들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘께서"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주시는"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말고"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "불쌍히 여기지"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "네 눈이"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …말지니"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "섬기지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 엘로힘들을"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "그들의 엘로힘들을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "올무"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이 …이기"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:22.480723614Z",
+  "model": "glm-5.2"
+}

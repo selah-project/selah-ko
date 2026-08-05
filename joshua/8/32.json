@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그가 거기서 돌들 위에 ⟨את⟩ 모셰의 토라의 사본을 기록하였으니, 이스라엘 자손의 앞에서 기록한 것이었다.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "기록하였으니"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "돌들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰의 토라의 사본을"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "사본을"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "토라"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것이었다"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "기록한"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:18.217647243Z",
+  "model": "glm-5.2"
+}

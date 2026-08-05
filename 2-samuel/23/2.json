@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "야훼의 루아흐가 나를 통해 말씀하셨고, 그분의 말씀이 나의 혀 위에 있다.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "루아흐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨고"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를 통해"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "그리고 그분의 말씀이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "나의 혀"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:14.202083365Z",
+  "model": "glm-5.2"
+}

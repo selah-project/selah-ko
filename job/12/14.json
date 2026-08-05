@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "보라, 그분이 허시면 다시 세워지지 못하며, 그분이 사람을 가두시면 열리지 못한다.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "그분이 허시면"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "세워지며"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "그분이 가두시면"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "열린다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:03.831788862Z",
+  "model": "glm-5.2"
+}

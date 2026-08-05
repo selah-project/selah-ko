@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 악을 선으로 갚는 자들이 나를 대적하는 자들이다, 내가 선을 따르기 때문이다. (이 절은 38:20과 동일한 내용을 반복한다.)",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "그리고 갚는 자들이"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "선의"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "나를 대적하는 자들이다"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "내가 따르기"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "선을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:19.003740439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "누가 야훼의 산에 오를 수 있는가, 누가 그의 거룩한 곳에 설 수 있는가?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "오를 수 있는가"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "그리고 누가"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "설 수 있는가"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "그의 거룩한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:47.648247235Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 28:15",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "네가 완전하였다, 네 길에서. 네가 창조되던 날부터 억울함이 네 안에서 발견될 때까지.",
+  "tokens": [
+    {
+      "surface": "תָּמִים",
+      "gloss": "완전하였다"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "בִּדְרָכֶיךָ",
+      "gloss": "네 길에서"
+    },
+    {
+      "surface": "מִיּוֹם",
+      "gloss": "날부터"
+    },
+    {
+      "surface": "הִבָּרְאָךְ",
+      "gloss": "네가 창조되던"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "때까지"
+    },
+    {
+      "surface": "נִמְצָא",
+      "gloss": "발견될"
+    },
+    {
+      "surface": "עַוְלָתָה",
+      "gloss": "억울함이"
+    },
+    {
+      "surface": "בָּךְ",
+      "gloss": "네 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:57:37.892938083Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "나의 끝을 알게 하소서, 야훼여, 나의 날들의 척도가 무엇인지 ⟨알게 하소서⟩. 내가 덧없음을 알게 하소서.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "알게 하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "나의 끝을"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "그리고 척도가"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "나의 날들의"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇인지"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨그것이다⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "내가 알게 하소서"
+    },
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "덧없는지"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:09.779271569Z",
+  "model": "glm-5.2"
+}

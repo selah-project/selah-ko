@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "주께서 나에게 생명 길을 알게 하시리니, 주의 ⟨את⟩ 면전은 기쁨의 충만함이요, 주의 오른손에는 영원한 즐거움이 있나이다.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "주께서 나에게 알게 하시리니"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "길을"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "생명"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "충만함이요"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "기쁨의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "면전"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "주의 면전은"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "즐거움이"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "주의 오른손에는"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "영원한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:16.767722899Z",
+  "model": "glm-5.2"
+}

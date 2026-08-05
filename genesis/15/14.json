@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 또 ⟨아내가⟩ ⟨את⟩ 그 민족을 — 그들이 섬길 — 내가 심판하리니, 그리고 그 후에 그들이 큰 재물을 가지고 나오리라.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 민족을"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "그 민족을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…을"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "그들이 섬길"
+    },
+    {
+      "surface": "דן",
+      "gloss": "심판하리니"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 …후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "그들이 나오리라"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "재물을"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:46.327074294Z",
+  "model": "glm-5.2"
+}

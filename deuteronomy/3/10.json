@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "모든 평원의 도시들, 그리고 온 길르앗, 그리고 온 바산, 살카와 에드레이까지 — 바산에 있는 오그의 왕국의 도시들이었다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "도시들"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "평원의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "길르앗"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "바산"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "살카"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "그리고 에드레이"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "도시들이었다"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "왕국의"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "오그의"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "바산에 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T18:06:55.223203909Z",
+  "model": "glm-5.2"
+}

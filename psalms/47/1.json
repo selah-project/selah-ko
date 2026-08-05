@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "지휘자에게. 코라흐 자손에게. 시편.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "자손에게"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:07.852361744Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 2:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 또 너는 ⟨아래에⟩ 있는 것을 알고 있다 — ⟨곧⟩ 요아브 체루야의 아들이 내게 한 것을, ⟨곧⟩ 그가 이스라엘 군대의 두 사령관에게 한 것을, 넬의 아들 아브네르와 예테르의 아들 아마사에게, 그리고 그가 그들을 죽였고, 전쟁의 피를 평화의 때에 흘렸고, 전쟁의 피를 그의 허리에 띤 띠에, 그의 발에 신은 신에 두었음을.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "알고 있다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아래에 있는 것 (요아브가 내게 한 것)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨that which⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "한 것을"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "체루야"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨that which⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "한 것을"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "...의 두 ...에게"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사령관들"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "군대"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "아브네르에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נר",
+      "gloss": "넬"
+    },
+    {
+      "surface": "ולעמשא",
+      "gloss": "그리고 아마사에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "예테르"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "그리고 그가 그들을 죽였고"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "그리고 그가 ... 두었고"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "피"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁의"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "평화의 때에"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 그가 ... 두었고"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "피"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁의"
+    },
+    {
+      "surface": "בחגרתו",
+      "gloss": "그의 띤 띠에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨which was⟩"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "그의 허리에"
+    },
+    {
+      "surface": "ובנעלו",
+      "gloss": "그리고 그의 신에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨which were⟩"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "그의 발에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:04.155041714Z",
+  "model": "glm-5.2"
+}

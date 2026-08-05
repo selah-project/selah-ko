@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "이 자가 다윗이 아니냐? 그들이 춤추는 가운데 그에게 화답하며 말하기를, “샤울은 ⟨그의⟩ 수천을 쳤고 다윗은 ⟨그의⟩ 수만을 쳤다” ⟨하던⟩ 그 다윗이 아니냐?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "아니냐"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이 자가"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨하던⟩"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "그들이 화답하며"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "춤추는 가운데"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "쳤고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울은"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "⟨그의⟩ 수천을"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "⟨그의⟩ 수만을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:19.853738128Z",
+  "model": "glm-5.2"
+}

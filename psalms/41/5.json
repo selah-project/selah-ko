@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "나는 말하였다 — 야훼여, 나에게 헨을 베푸소서. 나의 네페쉬를 고치소서, 내가 당신에게 범죄하였기 때문입니다.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "나에게 헨을 베푸소서"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "고치소서"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "범죄하였기"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:37.271263342Z",
+  "model": "glm-5.2"
+}

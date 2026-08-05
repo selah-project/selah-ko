@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 기름부음받은 코헨이 ⟨그⟩ 황소의 피를 만남의 천막으로 가져올 것이다.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "그리고 가져올 것이다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "기름부음받은"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "황소의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:12:27.699100301Z",
+  "model": "glm-5.2"
+}

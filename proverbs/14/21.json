@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "이웃을 멸시하는 자는 죄를 짓는 자이며, 가난한 자들에게 은혜를 베푸는 자는 — ⟨그⟩ 복이 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "멸시하는 자는"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "이웃을"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "죄를 짓는 자이며"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "은혜를 베푸는 자는"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "가난한 자들에게"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "복이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:24.841699842Z",
+  "model": "glm-5.2"
+}

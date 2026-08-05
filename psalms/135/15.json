@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "列邦의 우상들은 은이요 금이요, 사람 손의 만듦이로다.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "우상들은"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列邦의"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은이요"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "그리고 금이요"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "만듦이로다"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "손의"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:44.313506112Z",
+  "model": "glm-5.2"
+}

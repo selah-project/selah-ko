@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 아브넬의 말이 이스라엘 장로들과 함께 있었으니, 이르기를 \"어제도, 그저께도, 너희는 ⟨את⟩ 다윗을 너희 위에 왕으로 구하였다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "그리고 …의 말이"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브넬"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었으니"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "어제"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "그저께"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "너희는 …하였다"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "구하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕으로"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "너희 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:06.413276965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들이 ⟨את⟩ 그의 손을 기억하지 아니하였다 — 그가 대적에게서 그들을 구속하신 날을.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "그들이 기억"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 손을"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "יום",
+      "gloss": "— 날을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "때에"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "그가 구속하신"
+    },
+    {
+      "surface": "מני",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "צר",
+      "gloss": "대적"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:44.858542348Z",
+  "model": "glm-5.2"
+}

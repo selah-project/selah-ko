@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "만민이 듣고 떨었으며, 진통이 펠레셋 거민들을 사로잡았다.",
+  "tokens": [
+    {
+      "surface": "שָֽׁמְע֥וּ",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "עַמִּ֖ים",
+      "gloss": "만민이"
+    },
+    {
+      "surface": "יִרְגָּז֑וּן",
+      "gloss": "떨었으며"
+    },
+    {
+      "surface": "חִ֣יל",
+      "gloss": "진통이"
+    },
+    {
+      "surface": "אָחַ֔ז",
+      "gloss": "사로잡았다"
+    },
+    {
+      "surface": "יֹשְׁבֵ֖י",
+      "gloss": "거민들을"
+    },
+    {
+      "surface": "פְּלָֽשֶׁת",
+      "gloss": "펠레셋의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:23.346321346Z",
+  "model": "glm-5.2"
+}

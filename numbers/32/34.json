@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "가드의 아들들이 ⟨את⟩ 디본과 ⟨את⟩ 아타롯과 ⟨את⟩ 아로에르를 건축하였다.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "건축하였다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "גד",
+      "gloss": "가드의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "디본을"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "디본"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아타롯을"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "아타롯"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아로에르를"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "아로에르"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:54.240045745Z",
+  "model": "glm-5.2"
+}

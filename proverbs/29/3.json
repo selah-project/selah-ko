@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "지혜를 사랑하는 사람은 ⟨그의⟩ 아버지를 기쁘게 하고, 창녀들과 어울리는 자는 재물을 멸한다.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하는"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜를"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "기쁘게 하고"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "아버지를"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "어울리는"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "창녀들과"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "멸한다"
+    },
+    {
+      "surface": "הון",
+      "gloss": "재물을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:13.804689648Z",
+  "model": "glm-5.2"
+}

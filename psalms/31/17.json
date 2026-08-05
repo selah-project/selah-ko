@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "주의 종 위에 주의 얼굴을 비추소서, 주의 헤세드로 저를 구원하소서.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "비추소서"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "주의 얼굴을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "주의 종"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "저를 구원하소서"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "주의 헤세드로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:38.716899033Z",
+  "model": "glm-5.2"
+}

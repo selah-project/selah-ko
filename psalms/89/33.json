@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "그리고 ⟨내가⟩ 그들의 반역을 막대기로 징벌하시며, 그들의 죄악을 재앙들로 징벌하시리라.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "그리고 징벌하시리라"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "막대기로"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "그들의 반역을"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "그리고 재앙들로"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "그들의 죄악을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:03.131518543Z",
+  "model": "glm-5.2"
+}

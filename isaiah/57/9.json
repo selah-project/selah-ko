@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 57:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "그리고 네가 기름을 가지고 왕에게 나아갔고, 네 향품을 더하였으며, 네 사신을 먼 곳까지 보내고, 셰올까지 낮아졌다.",
+  "tokens": [
+    {
+      "surface": "ותשרי",
+      "gloss": "그리고 네가 나아갔고"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕에게"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "기름을 가지고"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "그리고 네가 더하였으며"
+    },
+    {
+      "surface": "רקחיך",
+      "gloss": "네 향품을"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "그리고 네가 보내고"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "네 사신을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "먼 곳"
+    },
+    {
+      "surface": "ותשפילי",
+      "gloss": "그리고 네가 낮아졌다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "셰올"
+    }
+  ],
+  "timestamp": "2026-08-05T18:18:00.910750904Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "어리석음은 마음이 빠진 ⟨자에게⟩ 기쁨이요, 명철한 사람은 ⟨그⟩ 걸음을 곧게한다.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "어리석음은"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "기쁨이요"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "⟨자에게⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "명철한 사람은"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "명철한"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "곧게한다"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "걸음을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:44.466371050Z",
+  "model": "glm-5.2"
+}

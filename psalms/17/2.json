@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "당신 앞에서 나의 판결이 나오게 하시고, 당신의 눈이 곧음을 보게 하소서.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "당신 앞에서"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "나의 판결이"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나오게 하시고"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "당신의 눈이"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "보게 하소서"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "곧음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:56.160529882Z",
+  "model": "glm-5.2"
+}

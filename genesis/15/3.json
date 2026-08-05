@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "아브라임이 또 말하였다. \"보소서, 저에게 씨를 주지 아니하셨으니, 보소서, 제 집에서 태어난 자가 저를 상속할 것입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "הן",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "주지"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨를"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "בן",
+      "gloss": "태어난 자가"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "제 집에서"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "상속할 것입니다"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:51.458305032Z",
+  "model": "glm-5.2"
+}

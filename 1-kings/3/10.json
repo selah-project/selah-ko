@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그 말씀이 아도나이의 눈에 좋았으니, 이는 셸로모가 ⟨את⟩ ⟨그⟩ 이 말씀을 구하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "좋았으니"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 말씀이"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "구하였기"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 말씀을"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:32.058579898Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "깨어라, 취한 자들아, 그리고 울어라; 그리고 포도주를 마시는 모든 자들아, 울부짖어라 — 새 포도주 ⟨증〉으로 말미이다. 그것이 너희 입에서 끊어졌기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "깨어라"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "취한 자들아"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "그리고 울어라"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "그리고 울부짖어라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "마시는"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "새 포도주"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "끊어졌기"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "너희 입에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:08:17.238020523Z",
+  "model": "glm-5.2"
+}

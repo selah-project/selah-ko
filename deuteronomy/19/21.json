@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 네 눈이 아끼지 말 것이니 — 네페쉬는 네페쉬로, 눈은 눈으로, 이는 이로, 손은 손으로, 발은 발로.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "아끼지 말 것이니"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "네 눈이"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬는"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "네페쉬로"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈은"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "눈으로"
+    },
+    {
+      "surface": "שן",
+      "gloss": "이는"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "이로"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손은"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "발은"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "발로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:37.907934758Z",
+  "model": "glm-5.2"
+}

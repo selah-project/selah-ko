@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "나오미가 ⟨את⟩ 그 아이를 취하여 그를 자기 품에 두고, 그에게 유모가 되었다.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "나오미가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 아이를"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "그 아이를"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "두고"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "자기 품에"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "유모가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:06.354989931Z",
+  "model": "glm-5.2"
+}

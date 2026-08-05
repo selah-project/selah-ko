@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그들이 아카시아 나무로 궤를 만들 것이다. 그 길이는 두 큐빗 반이요, 그 너비는 한 큐빗 반이요, 그 높이는 한 큐빗 반이다.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "그들이 만들 것이다"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤를"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무로"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "아카시아"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "두 큐빗"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "그리고 반"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그 길이"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "그리고 한 큐빗"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "그리고 반"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그 너비"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "그리고 한 큐빗"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "그리고 반"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "그 높이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:06.419038551Z",
+  "model": "glm-5.2"
+}

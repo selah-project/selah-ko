@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "셰무엘이 ⟨את⟩ 이스라엘을 재판하였다, 그의 생애의 모든 날 동안.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셰무엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날 동안"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "그의 생애의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:57.218519888Z",
+  "model": "glm-5.2"
+}

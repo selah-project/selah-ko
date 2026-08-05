@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그가 들어와서 ⟨את⟩ 미츠라임 땅을 치리니, 죽음으로 정해진 자는 죽음으로, 사로잡힘으로 정해진 자는 사로잡힘으로, 칼로 정해진 자는 칼로.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "그가 들어와서"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "치리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미츠라임 땅을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "정해진 자는"
+    },
+    {
+      "surface": "למות",
+      "gloss": "죽음으로"
+    },
+    {
+      "surface": "למות",
+      "gloss": "죽음으로"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "정해진 자는"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "사로잡힘으로"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "사로잡힘으로"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "정해진 자는"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "칼로"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "칼로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:41:59.492011707Z",
+  "model": "glm-5.2"
+}

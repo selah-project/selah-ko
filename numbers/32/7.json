@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그런데 왜 당신들은 이스라엘 자손들의 마음을 ⟨את⟩ 돌리어, 야훼께서 그들에게 주신 그 땅으로 건너가지 못하게 합니까?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "그런데 왜"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "당신들은 돌리어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "마음"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "건너가지 못하게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주신"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:45:52.453169909Z",
+  "model": "glm-5.2"
+}

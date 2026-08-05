@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그들의 출생 차례대로, 여섯 이름을 한 돌 위에, 그리고 ⟨את⟩ 남은 여섯의 이름을 둘째 돌 위에 새기려니와",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "그들의 이름"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "남은 여섯의 이름을"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "여섯의"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "남은"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "그들의 출생 차례대로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:50.930083544Z",
+  "model": "glm-5.2"
+}

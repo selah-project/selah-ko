@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼의 말씀을 들어라, 야곱의 집아, 그리고 이스라엘의 집의 모든 가족들아.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집아"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "가족들아"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:27.910098246Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "야훼께서 ⟨את⟩ 그를 경외하는 자들을 기뻐하시며, ⟨את⟩ 그의 헤세드를 기다리는 자들을 기뻐하신다.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "기뻐하시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그를 경외하는 자들을"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "그를 경외하는 자들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 헤세드를 기다리는 자들을"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "…를 기다리는 자들"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "그의 헤세드"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:34.694584800Z",
+  "model": "glm-5.2"
+}

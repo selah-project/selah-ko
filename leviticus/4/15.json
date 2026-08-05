@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 회중의 장로들이 자기들의 손을 ⟨את⟩ 황소의 머리 위에, 야훼 앞에서 안수할 것이며, 그리고 누군가 ⟨את⟩ ⟨그⟩ 황소를 야훼 앞에서 잡을 것이다.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "그리고 안수할 것이며"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로들이"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기들의 손을"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "자기들의 손"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "황소의"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "그리고 잡을 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 황소를"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "황소"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T08:12:27.698977189Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "너희가 아는 것을 나도 안다. 나 역시 너희보다 떨어지지 않는다.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "너희가 아는 것을"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "나도 안다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "역시"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "떨어진다"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "너희보다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:12.586190871Z",
+  "model": "glm-5.2"
+}

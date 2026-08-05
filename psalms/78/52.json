@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그리고 자기 백성을 양 떼처럼 이끌어 내시어, 광야에서 떼처럼 인도하셨다.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "그리고 이끌어 내시어"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "양 떼처럼"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "자기 백성을"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "인도하셨다"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "떼처럼"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:39.660191591Z",
+  "model": "glm-5.2"
+}

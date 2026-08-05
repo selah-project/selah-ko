@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 127,
+  "translation": "용사의 손에 있는 화살 같이, 그렇게 젊은 시절의 아들들이다.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "화살 같이"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "용사의"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이다"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "젊은 시절의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:29.124546148Z",
+  "model": "glm-5.2"
+}

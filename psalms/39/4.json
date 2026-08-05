@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "내 속에서 내 마음이 뜨거웠고, ⟨내가⟩ 묵상할 때 ⟨그⟩ 불이 타올랐다 — 내가 내 혀로 말하였다.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "뜨거웠고"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "내 속에서"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "묵상할 때"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "타올랐다"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "내가 말하였다"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "내 혀로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:47.667825863Z",
+  "model": "glm-5.2"
+}

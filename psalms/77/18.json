@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "짙은 구름들이 물을 쏟아내었고, 구름들이 소리를 내었으며, 심지어 당신의 화살들이 다녔다.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "쏟아내었고"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "짙은 구름들이"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "내었으며"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "구름들이"
+    },
+    {
+      "surface": "אף",
+      "gloss": "심지어"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "당신의 화살들이"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "다녔다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:06.042984094Z",
+  "model": "glm-5.2"
+}

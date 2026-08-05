@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "악인의 범죄 안에는 함정이 ⟨있고⟩, 의인은 노래하며 즐거워한다.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "범죄 안에는"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…의"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악인"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "함정이"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "의인은"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "노래하며"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "즐거워한다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:28.532207404Z",
+  "model": "glm-5.2"
+}

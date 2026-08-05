@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 19:5",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그들이 바알의 바못들을 세워, 그들의 아들들을 불로 — 바알에게 올라 — 태우게 하였으니, 이는 내가 명하지 아니한 것이요, 내가 말하지 아니한 것이요, 내 마음에도 오르지 아니한 것이다.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "그들이 세웠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바못들을"
+    },
+    {
+      "surface": "במות",
+      "gloss": "바못들을"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "바알의"
+    },
+    {
+      "surface": "לשרף",
+      "gloss": "태우게 하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 아들들을"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "그들의 아들들을"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "올라(제물)로"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "바알에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "내가 명하지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "내가 말하지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "오르지"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:55.097701532Z",
+  "model": "glm-5.2"
+}

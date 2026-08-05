@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "모셰가 ⟨את⟩ 온 이스라엘 아들들의 회중을 모으고 그들에게 말하였다. \"야훼께서 행하라고 명령하신 ⟨את⟩ 것들은 이것들이니, ⟨너희가⟩ ⟨את⟩ 그것들을 행하라.\"",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "모으고"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 … 회중"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "회중을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "행하라고"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:08.971396204Z",
+  "model": "glm-5.2"
+}

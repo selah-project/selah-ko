@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그리하여 술 관원장이 ⟨את⟩ 파르오에게 말하였다. 이르기를: \"오늘 ⟨את⟩ 내 허물들을 내가 기억하나이다.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "그리하여 … 말하였다"
+    },
+    {
+      "surface": "שר",
+      "gloss": "관원장"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "술"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 허물들을"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "내 허물들을"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "기억하나이다"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:35:03.495991975Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 38:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "보라, 나는 아하즈의 계단들에서 해 위에 뒤로 내려갔던 계단들의 그림자를 십 계단 되돌리리라. 그리하여 해가, 내려갔던 계단들에서 십 계단 되돌아갔다.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "나는 되돌리리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그림자를"
+    },
+    {
+      "surface": "צל",
+      "gloss": "그림자를"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "계단들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~것"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "내려갔던"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "계단들에서"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "아하즈"
+    },
+    {
+      "surface": "בשמש",
+      "gloss": "해 위에"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "뒤로"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "십"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "계단"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "그리하여 되돌아갔다"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해가"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "십"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "계단"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "계단들에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~것"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "내려갔던"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:33.935721965Z",
+  "model": "glm-5.2"
+}

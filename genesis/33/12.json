@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "⟨그가⟩ 말하였다. \"출발하여 가고, 내가 당신 앞에서 가겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "출발하여"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "가고"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "내가 가겠다"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "당신 앞에서"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:04.235786867Z",
+  "model": "glm-5.2"
+}

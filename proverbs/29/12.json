@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "다스리는 자가 거짓 말에 귀를 기울이면, 그의 모든 섬기는 자들은 악인들이다.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "다스리는 자"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "귀를 기울이면"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "그의 섬기는 자들은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:56.649576600Z",
+  "model": "glm-5.2"
+}

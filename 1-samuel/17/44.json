@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 그 플리스티 사람이 다윗에게 말하였다. \"내게로 와라. 내가 네 살을 하늘의 새들과 들판의 짐승들에게 주겠다!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "그 플리스티 사람이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "와라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "내가 주겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 살을"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "네 살을"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "에게"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의 새들"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "그리고 … 짐승들에게"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들판의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:10.614001078Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 45:23",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "나를 두고 맹세하였으니, 내 입에서 의로운 말이 나갔나니, 그것은 돌이키지 않을 것이라, 곧 모든 무릎이 내게 꿇고 모든 혀가 맹세하리라는 것이라.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "나를 두고"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "맹세하였으니"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나갔나니"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "내 입에서"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "의로운"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그것은 … 않을 것이라"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "돌이키지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "תכרע",
+      "gloss": "꿇고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "무릎이"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "맹세하리라는 것이라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:32.791583524Z",
+  "model": "glm-5.2"
+}

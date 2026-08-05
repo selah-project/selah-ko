@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그가 그에게 좋은 말들을 하셨고, 그의 왕좌를 그와 함께 바벨에 있던 왕들의 왕좌들 위에 ⟨높여⟩ ⟨את⟩ 그것을 두셨다.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "그리고 말하셨다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "좋은 것들"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 두셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 왕좌"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "그의 왕좌를"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "왕좌"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "왕들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "바벨에 있던"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:07.147860653Z",
+  "model": "glm-5.2"
+}

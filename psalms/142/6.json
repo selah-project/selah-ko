@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 142,
+  "translation": "내가 야훼께 당신을 향해 부르짖었나이다. 내가 말하였나이다. '당신은 나의 피난처이시며, 살아 있는 자들의 땅에서 나의 몫이십니다.'",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "부르짖었나이다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신을 향해"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "말하였나이다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "나의 피난처이시며"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "나의 몫이십니다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "살아 있는 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:13.625850617Z",
+  "model": "glm-5.2"
+}

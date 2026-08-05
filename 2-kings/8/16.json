@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 8:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이스라엘 왕 아합의 아들 요람의 제5년에, ⟨곧⟩ 예호샤팟이 유다 왕이던 ⟨때에⟩ 예호샤팟의 아들 유다 왕 예호람이 왕위에 올랐다.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "—의 해에"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "다섯째"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "요람의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아합의"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "예호샤팟이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕위에 올랐다"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "예호람이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "예호샤팟의"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:40.615286088Z",
+  "model": "glm-5.2"
+}

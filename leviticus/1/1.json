@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 모셰를 부르셨다. 야훼께서 만남의 장막에서 그에게 말씀하셨다, 이르시기를 —",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "부르셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "장막에서"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:58.163234241Z",
+  "model": "glm-5.2"
+}

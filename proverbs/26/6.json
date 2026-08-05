@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 26:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "두 발을 잘라내고 폭력을 마시는 것, 어리석은 자의 손으로 말들을 보내는 자이다.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "잘라내고"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "두 발을"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력을"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "마시는 것"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내는 자이다"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "어리석은 자의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:05.559650363Z",
+  "model": "glm-5.2"
+}

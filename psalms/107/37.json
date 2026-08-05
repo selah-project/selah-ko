@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그들이 밭에 씨를 뿌리고 포도원을 심었으며, 소출의 열매를 맺었다.",
+  "tokens": [
+    {
+      "surface": "וַיִּזְרְעוּ",
+      "gloss": "그들이 … 씨를 뿌리고"
+    },
+    {
+      "surface": "שָׂדוֹת",
+      "gloss": "밭에"
+    },
+    {
+      "surface": "וַיִּטְּעוּ",
+      "gloss": "… 심었으며"
+    },
+    {
+      "surface": "כְרָמִים",
+      "gloss": "포도원을"
+    },
+    {
+      "surface": "וַיַּעֲשׂוּ",
+      "gloss": "그들이 … 맺었다"
+    },
+    {
+      "surface": "פְּרִי",
+      "gloss": "열매를"
+    },
+    {
+      "surface": "תְבוּאָה",
+      "gloss": "소출의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:15.602782996Z",
+  "model": "glm-5.2"
+}

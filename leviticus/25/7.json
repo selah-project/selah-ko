@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 네 가축에게와 네 땅에 있는 짐승에게 — 그것의 모든 소출이 먹을 것이 ⟨될 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "그리고 네 가축에게와"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "…짐승에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…있는"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "네 땅에"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "소출이"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹을 것"
+    }
+  ],
+  "timestamp": "2026-08-05T08:24:56.250856936Z",
+  "model": "glm-5.2"
+}

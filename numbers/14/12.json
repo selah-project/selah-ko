@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "내가 그들을 재앙으로 치고 그들을 멸하리라. 그리고 너를 ⟨את⟩ 크고 강한 민족이 되게 하리라 — 그들보다.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "내가 그들을 치리라"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "재앙으로"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "그리고 그들을 멸하리라"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "그리고 …하게 하리라"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "너"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "민족"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크고"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "강한"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그들보다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:59.324840664Z",
+  "model": "glm-5.2"
+}

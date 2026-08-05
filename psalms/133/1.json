@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 133,
+  "translation": "올라가는 노래, 다윗의. 보라, 얼마나 좋고 얼마나 즐거운가 — 형제들이 함께 모여 앉는 것이.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋고"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "즐거운가"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "모여 앉는 것이"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "형제들이"
+    },
+    {
+      "surface": "גם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "하나로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:27.519112844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 ⟨그가⟩ 나를 올리셨다 — 소란의 구덩이에서, 진흙 타락에서 — 그리고 ⟨그가⟩ 바위 위에 내 발을 세우시며, 내 걸음을 견고히 하셨다.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "그리고 나를 올리셨다"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "구덩이에서"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "소란의"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "진흙에서"
+    },
+    {
+      "surface": "היון",
+      "gloss": "타락의"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "그리고 세우시며"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "바위"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "내 발을"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "견고히 하셨다"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "내 걸음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:03.609640936Z",
+  "model": "glm-5.2"
+}

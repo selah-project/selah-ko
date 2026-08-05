@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 20:10",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "히즈키야후가 말하였다. \"그림자가 열 계단을 기울어지는 것은 쉬운 일이다. 아니다, 오히려 그림자가 열 계단을 뒤로 돌아가야 한다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "히즈키야후가"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "쉬운 일이다"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "그림자가"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "기울어지는"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "계단을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오히려"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "돌아가야 한다"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "그림자가"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "뒤로"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "계단을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:34.305910919Z",
+  "model": "glm-5.2"
+}

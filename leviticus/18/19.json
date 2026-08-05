@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 부정의 유출 중에 있는 여자에게 가까이하지 마라 — 그 벌거를 드러내려고.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여자"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "유출 중에"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "부정의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 마라"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "가까이"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "드러내려고"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "벌거를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:22.949507228Z",
+  "model": "glm-5.2"
+}

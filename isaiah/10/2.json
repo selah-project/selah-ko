@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "가난한 자들을 재판에서 몰아내려, 내 백성의 가난한 자들의 권리를 빼앗으려, 과부들이 ⟨그들의⟩ 전리품이 되게 하려, 그리고 ⟨את⟩ 고아들을 약탈하려.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "몰아내려"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "재판에서"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "가난한 자들을"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "그리고 빼앗으려"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "권리를"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "가난한 자들의"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성의"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "되게 하려"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "과부들이"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "전리품이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "고아들을"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "고아들을"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "약탈하려"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:07.490363510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그가 ⟨את⟩ 모아브 왕의 얼굴을 인도하시매, 그들이 다윗이 그 요새에 있는 모든 날 동안 그와 함께 거하였다.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "인도하시매"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모아브 왕의 얼굴"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날"
+    },
+    {
+      "surface": "היות",
+      "gloss": "동안"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "그 요새에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:01.021364116Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "치료가 너의 몸에, 그리고 윤기가 너의 뼈들에 ⟨있을 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "치료가"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨있을 것이다⟩"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "너의 몸에"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "그리고 윤기가"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "너의 뼈들에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:58.930070417Z",
+  "model": "glm-5.2"
+}

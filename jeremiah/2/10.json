@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 2:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "이는 깃티임의 섬들로 건너가서 보고, 케다르에 사람을 보내어 깊이 살펴보며, 이 같은 일이 있었는지 보라 하는 것이라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "건너가서"
+    },
+    {
+      "surface": "איי",
+      "gloss": "섬들로"
+    },
+    {
+      "surface": "כתיים",
+      "gloss": "깃티임의"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "보고"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "그리고 케다르에"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "והתבוננו",
+      "gloss": "살펴보며"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "깊이"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "보라"
+    },
+    {
+      "surface": "הן",
+      "gloss": "⟨보라⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "있었는지"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "이 같은 일이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:26:04.853553430Z",
+  "model": "glm-5.2"
+}

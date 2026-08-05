@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 미츠라임은 ⟨את⟩ 루딤과 ⟨את⟩ 아나밈과 ⟨את⟩ 레하빔과 ⟨את⟩ 납투힘을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "그리고 미츠라임은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "루딤을"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "루딤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아나밈을"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "아나밈"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "레하빔을"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "레하빔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "납투힘을"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "납투힘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:13.576311566Z",
+  "model": "glm-5.2"
+}

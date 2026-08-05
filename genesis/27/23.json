@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그가 그를 알아보지 못하였으니, 이는 그의 손들이 그의 형 에사브의 손들과 같았기 때문이다 — 털이 많은 손들이었다. 그래서 그가 그를 축복하였다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "알아보지 못하였으니"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "그가 그를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "היו",
+      "gloss": "같았기 때문이다"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "그의 손들이"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "손들과"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브의"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "털이 많은 손들이었다"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "그가 그를 축복하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:20.783159787Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 너희는 너희를 위해 샤밧 다음 날부터, 너희가 ⟨את⟩ 오메르 — 흔드는 제물 — 을 가져온 날부터 너희를 위해 셀 것이다: 온전한 일곱 샤밧이 ⟨될 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "그리고 너희는 셀 것이다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희를 위해"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "다음 날부터"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "그 샤밧의"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "그 날부터"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "너희가 가져온"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "오메르"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "오메르"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "흔드는 제물의"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "샤밧이"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "온전한"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨될 것이다⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T18:04:32.415767902Z",
+  "model": "glm-5.2"
+}

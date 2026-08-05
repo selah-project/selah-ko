@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "そしてモーセは神のもとに上った。ヤハウェが山から彼を呼んで言われた。「あなたはヤコブの家にこう語り、イスラエルの子らに告げよ。。",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "そしてモーセは"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上った"
+    },
+    {
+      "surface": "אל",
+      "gloss": "のもとに"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "神"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "呼んで"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "彼を"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ヤハウェが"
+    },
+    {
+      "surface": "מן",
+      "gloss": "から"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "言われた"
+    },
+    {
+      "surface": "כה",
+      "gloss": "こう"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "語り"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "家に"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ヤコブの"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "告げよ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "子らに"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:27.490785511Z",
+  "model": "glm-5.2"
+}

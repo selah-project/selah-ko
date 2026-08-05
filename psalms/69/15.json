@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "진흙에서 건져 내소서, 내가 가라앉지 않게 하소서. 나를 미워하는 자들에게서, 깊은 물들에게서 내가 구출되게 하소서.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "건져 내소서"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "진흙에서"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "하지 않게 하소서"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "내가 가라앉지"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "내가 구출되게 하소서"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "미워하는 자들에게서"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "깊은 물들에게서"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:55.590186806Z",
+  "model": "glm-5.2"
+}

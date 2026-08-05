@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "주의 이름을 아는 자들은 주를 신뢰하리니, 이는 주께서 주를 구하는 자들을 버리지 않으셨기 때문이다, 야훼여.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "…은 신뢰하리니"
+    },
+    {
+      "surface": "בך",
+      "gloss": "주를"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "아는 자들은"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "주의 이름을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 …기 때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "버리"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "주를 구하는 자들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:54.161541792Z",
+  "model": "glm-5.2"
+}

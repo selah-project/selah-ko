@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "가난한 자를 강탈하지 말라 — 그가 가난하기 때문이다. 그리고 문에서 곤고한 자를 짓밟지 말라.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "강탈하지"
+    },
+    {
+      "surface": "דל",
+      "gloss": "가난한 자를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "דל",
+      "gloss": "가난하고"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 말라"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "짓밟지"
+    },
+    {
+      "surface": "עני",
+      "gloss": "곤고한 자를"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "문에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:54.194174913Z",
+  "model": "glm-5.2"
+}

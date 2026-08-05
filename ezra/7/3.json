@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "아마르야의 아들이요, 아즈라야의 아들이요, 메라욧의 아들이었다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "아마르야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "아즈라야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "메라욧"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:36.466582705Z",
+  "model": "glm-5.2"
+}

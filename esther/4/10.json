@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 에스더가 하타크에게 말하고, 그에게 모르드개에게 ⟨전할⟩ 명령을 내렸다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 …이(가) 말하다"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더가"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "하타크에게"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "그리고 그에게 명령을 내렸다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:25.858879272Z",
+  "model": "glm-5.2"
+}

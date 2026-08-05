@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "이스라엘 집이 ⟨그⟩ 이름을 '만'이라 불렀다. 그것은 고수양하나 씨와 같고 희었으며, 그 맛은 꿀 섞은 과자 같았다.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 이름"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그 이름"
+    },
+    {
+      "surface": "מן",
+      "gloss": "만"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 그것은"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "씨와 같고"
+    },
+    {
+      "surface": "גד",
+      "gloss": "고수양하나"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "희었으며"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "그리고 그 맛은"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "과자 같았다"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "꿀 섞은"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:39.255171668Z",
+  "model": "glm-5.2"
+}

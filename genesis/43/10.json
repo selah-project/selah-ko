@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "만약 우리가 머뭇거리지 아니하였더라면, 진작 우리가 이 두 번째로 돌아왔으리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因为"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "만약 ~아니하였더라면"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "우리가 머뭇거리지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "진작"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "우리가 돌아왔으리라"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "두 번째로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:21.079530842Z",
+  "model": "glm-5.2"
+}

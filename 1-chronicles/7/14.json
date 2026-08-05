@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "므나쉐의 아들들은: 아스리엘 — 그녀가 낳았다; 그의 첩, 그 아람 여인이 ⟨את⟩ 마키르를 낳았으니, 그는 길르앗의 아버지이다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "므나쉐"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "아스리엘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "그의 첩이"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "그 아람 여인"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "마키르"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "마키르를"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길르앗"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:06.037227406Z",
+  "model": "glm-5.2"
+}

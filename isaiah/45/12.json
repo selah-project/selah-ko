@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "나 ⟨스스로⟩, 땅을 만들고 그 위에 인간을 창조하였다. 나, ⟨나의⟩ 두 손이 하늘들을 펼쳤고 그 모든 무리를 내가 명령하였다.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "나"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "만들고"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "그리고 인간을"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "창조하였다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨나의⟩ 두 손이"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "펼쳤고"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들을"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 그 모든"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "무리를"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "명령하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:29.504801245Z",
+  "model": "glm-5.2"
+}

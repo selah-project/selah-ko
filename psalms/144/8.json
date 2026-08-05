@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 144,
+  "translation": "그들의 입은 헛된 것을 말하고, 그들의 오른손은 거짓의 오른손이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "그들의 입은"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "헛된 것을"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "그들의 오른손은"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른손"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:12.664496056Z",
+  "model": "glm-5.2"
+}

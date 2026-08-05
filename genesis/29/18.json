@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 야곱은 ⟨את⟩ 라헬을 사랑하였다. 그가 말하였다. \"당신의 작은 딸 라헬을 위해 칠 년을 당신을 섬기겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "그리고 사랑하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "라헬"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "당신을 섬기겠습니다"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "칠"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년을"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "라헬을"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "당신의 딸"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "작은"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:30.852304943Z",
+  "model": "glm-5.2"
+}

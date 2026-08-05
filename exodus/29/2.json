@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 누룩 없는 빵과 기름에 반죽한 누룩 없는 과자와 기름 바른 누룩 없의 얇은 과자 — 고운 밀가루로 네가 ⟨את⟩ 그것들을 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "그리고 빵"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "누룩 없는"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "그리고 과자"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "누룩 없는"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "반죽한"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "기름에"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "그리고 얇은 과자"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "누룩 없는"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "바른"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "기름"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "고운 가루"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "밀"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "네가 만들 것이다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:32.823742960Z",
+  "model": "glm-5.2"
+}

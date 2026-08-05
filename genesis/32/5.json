@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 그들이 ⟨את⟩ ⟨그것을⟩ 말하기를 명하셨다. \"이렇게 말하라 — 나의 주 아도나이, 에서에게: '이렇게 너의 종 야곱이 말한다. 라반과 함께 나그네로 살았고, 이제까지 머물렀다.'\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 명하셨다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것을 (말하기를)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "너희가 말하라"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "나의 주 아도나이에게"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "에게, 에서"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "너의 종"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "나그네로 살았다"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "그리고 머물렀다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    }
+  ],
+  "timestamp": "2026-08-05T18:46:25.560679900Z",
+  "model": "glm-5.2"
+}

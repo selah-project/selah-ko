@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "⟨그⟩ 가지가 이새의 그루터기에서 나오고, ⟨그⟩ 순이 ⟨그의⟩ 뿌리들에서 자라 결실하리라.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나오고"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "⟨그⟩ 가지가"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "그루터기에서"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이새의"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "⟨그⟩ 순이"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "⟨그의⟩ 뿌리들에서"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "자라 결실하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:37:59.886032862Z",
+  "model": "glm-5.2"
+}

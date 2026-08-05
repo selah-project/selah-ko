@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 예호수아가 그들에게 야훼가 그에게 말씀하신 대로 행하였다 — ⟨את⟩ 그들의 말들의 힘줄을 끊고, ⟨את⟩ 그들의 병거들을 불로 살랐다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 … 행하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호수아가"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "… 한 대로"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 말들"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "그들의 말들의"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "힘줄을 끊고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그들의 병거들"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "그들의 병거들을"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "살랐다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:09:29.546185350Z",
+  "model": "glm-5.2"
+}

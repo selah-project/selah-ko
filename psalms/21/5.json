@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "생명을 당신에게서 구하매, 당신이 그에게 주셨다 — 영원무궁까지 날들의 길이를. (시 21:4와 표현이 겹친다)",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "생명을"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "구하매"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "당신에게서"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "길이를"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들의"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "무궁까지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:02.110048891Z",
+  "model": "glm-5.2"
+}

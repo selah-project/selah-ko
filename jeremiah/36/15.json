@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 36:15",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그들이 그에게 말하였다. “앉아서 우리의 귀에 읽어 주십시오.” 바룩이 그들의 귀에 읽어 주었다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שב",
+      "gloss": "앉아서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제"
+    },
+    {
+      "surface": "וקראנה",
+      "gloss": "읽어 주십시오"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "우리의 귀에"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "읽어 주었다"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "바룩이"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "그들의 귀에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:40:00.602261168Z",
+  "model": "glm-5.2"
+}

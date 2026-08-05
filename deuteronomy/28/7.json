@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "야훼께서 ⟨את⟩ 네게 일어나는 네 원수들을 네 앞에서 패주하게 하실 것이다. 한 길로 그들이 네게 나아오나, 일곱 길로 그들이 네 앞에서 도망할 것이다.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "주실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 원수들"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "네 원수들을"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "일어나는"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "패주하여"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "네 앞에서"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "한 길로"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "나아오나"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "그리고 일곱"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "길로"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "도망할 것이다"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "네 앞에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:22.812132515Z",
+  "model": "glm-5.2"
+}

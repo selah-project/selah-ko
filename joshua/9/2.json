@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "한 입처럼 함께 모여 여호수아와 이스라엘에 맞서 싸우고자 하였다",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "그리고 그들이 모였다"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "싸우기 위하여"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…에 맞서"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "그리고 …에 맞서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "פה",
+      "gloss": "입"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    }
+  ],
+  "timestamp": "2026-08-05T09:06:21.053892642Z",
+  "model": "glm-5.2"
+}

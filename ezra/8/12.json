@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 8:12",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 아즈가드의 아들들 중에서, 요하난, 하캇탄의 아들, 그리고 그와 함께 일백 십 명의 남자들이 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "그리고 …의 아들들 중에서"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "아즈가드"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "요하난"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "하캇탄"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "그리고 그와 함께"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "일백"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "그리고 열"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "남자들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:39.894761171Z",
+  "model": "glm-5.2"
+}

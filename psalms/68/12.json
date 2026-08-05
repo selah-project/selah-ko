@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "아도나이께서 말씀을 주셨다. 기쁜 소식을 전하는 여인들은 큰 군대이다.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "기쁜 소식을 전하는 여인들은"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "군대이다"
+    },
+    {
+      "surface": "רב",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:17.669488044Z",
+  "model": "glm-5.2"
+}

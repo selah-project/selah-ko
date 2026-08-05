@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그들이 ⟨את⟩ 요나를 들어 바다로 던지자, 바다가 그의 진노에서 멈추었다.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "그리고 들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요나"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나를"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "그리고 던졌다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "그리고 멈추었다"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다가"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "그의 진노에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:56.054001594Z",
+  "model": "glm-5.2"
+}

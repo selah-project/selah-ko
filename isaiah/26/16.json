@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "야훼여, 고난 중에 그들이 주님을 찾았나이다. 속삭임을 쏟아내었나이다. 주님의 훈계가 그들에게 내렸나이다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "고난 중에"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "그들이 주님을 찾았나이다"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "쏟아내었나이다"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "속삭임을"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "주님의 훈계가"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:25.528394471Z",
+  "model": "glm-5.2"
+}

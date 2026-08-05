@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "죽음과 생명이 혀의 손 안에 있으니, 그것을 사랑하는 자들은 그것의 열매를 먹을 것이다.",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "죽음이"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "그리고 생명이"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손 안에"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀의"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "그리고 그것을 사랑하는 자들은"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹을 것이다"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "그것의 열매를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:36.328206697Z",
+  "model": "glm-5.2"
+}

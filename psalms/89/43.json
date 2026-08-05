@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "그분은 그의 적들의 오른손을 높이셨고, 그의 모든 원수들을 기쁘게 하셨다.",
+  "tokens": [
+    {
+      "surface": "הֲ֭רִימוֹתָ",
+      "gloss": "높이셨고"
+    },
+    {
+      "surface": "יְמִ֣ין",
+      "gloss": "오른손을"
+    },
+    {
+      "surface": "צָר֑יו",
+      "gloss": "그의 적들의"
+    },
+    {
+      "surface": "הִ֝שְׂמַ֗חְתָּ",
+      "gloss": "기쁘게 하셨다"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אוֹיְבָֽיו",
+      "gloss": "그의 원수들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:43.758697088Z",
+  "model": "glm-5.2"
+}

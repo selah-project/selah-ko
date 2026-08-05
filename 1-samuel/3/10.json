@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼께서 오시어 서시고, 한때 한때처럼 \"샤무엘아, 샤무엘아\" 하고 부르셨다. 그리고 샤무엘이 말하였다. \"말씀하십시오, 당신의 종이 듣고 있으니이다.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "오시어"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "서시고"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "부르셨다"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "한때처럼"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "한때처럼"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘아"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘아"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하십시오"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "듣고 있다"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:24.547776703Z",
+  "model": "glm-5.2"
+}

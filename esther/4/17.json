@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리하여 모르드개는 지나가서, 에스더가 그에게 명령한 모든 것을 행하였다.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲבֹ֖ר",
+      "gloss": "그리하여 지나가서"
+    },
+    {
+      "surface": "מָרְדֳּכָ֑י",
+      "gloss": "모르드개는"
+    },
+    {
+      "surface": "וַיַּ֕עַשׂ",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "כְּכֹ֛ל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…⟨것⟩"
+    },
+    {
+      "surface": "צִוְּתָ֥ה",
+      "gloss": "명령한"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אֶסְתֵּֽר",
+      "gloss": "에스더가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:45.389721843Z",
+  "model": "glm-5.2"
+}

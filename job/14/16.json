@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 14:16",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "지금은 주께서 나의 걸음을 세시오니, 주께서는 나의 죄를 감시하지 아니하시나이다.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "지금은"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "지금"
+    },
+    {
+      "surface": "צְעָדַי",
+      "gloss": "나의 걸음을"
+    },
+    {
+      "surface": "תִּסְפּוֹר",
+      "gloss": "세시오니"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תִּשְׁמֹר",
+      "gloss": "감시하지"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "에"
+    },
+    {
+      "surface": "חַטָּאתִי",
+      "gloss": "나의 죄를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:05:26.960791292Z",
+  "model": "glm-5.2"
+}

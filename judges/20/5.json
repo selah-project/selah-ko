@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "기브아의 주인들이 일어나 밤에 나를 대적하고 ⟨את⟩ 집을 에워싸 ⟨את⟩ 나를 죽이려 하였고, ⟨את⟩ 내 첩을 능욕하니 그녀가 죽었다.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나를 대적하여"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "주인들이"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "기브아의"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "에워쌌다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나를 대적하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ 나를",
+      "marks": "나를"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "생각하였다"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "죽이려"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 첩을"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "내 첩을"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "능욕하니"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:20:36.896286636Z",
+  "model": "glm-5.2"
+}

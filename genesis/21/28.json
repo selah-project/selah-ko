@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 아브라함이 양 떼 암새 일곱 마리를 ⟨את⟩ 따로 세워두었다.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "그리고 세워두었다"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "양 떼 암새 일곱 마리를"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "암새"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "따로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:30.716387643Z",
+  "model": "glm-5.2"
+}

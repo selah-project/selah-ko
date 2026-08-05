@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 모든 가축과 도시들의 전리품을 우리가 우리를 위하여 노략하였다.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "הַבְּהֵמָ֛ה",
+      "gloss": "가축"
+    },
+    {
+      "surface": "וּשְׁלַ֥ל",
+      "gloss": "그리고 전리품"
+    },
+    {
+      "surface": "הֶעָרִ֖ים",
+      "gloss": "도시들의"
+    },
+    {
+      "surface": "בַּזּ֥וֹנוּ",
+      "gloss": "우리가 노략하였다"
+    },
+    {
+      "surface": "לָֽנוּ",
+      "gloss": "우리를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:00.962852935Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "내가 도기장이의 집으로 내려가니, 보라, 그가 돌림판 위에서 일을 하고 있었다.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "내려가니"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "도기장이의"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "보라 ⟨그가⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "하고 있었다"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "돌림판"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:03.323361896Z",
+  "model": "glm-5.2"
+}

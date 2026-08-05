@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "귀를 심으신 이가 듣지 못하시는가 눈을 빚으신 이가 보지 못하시는가",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "심으신"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "귀를"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "∼하지 아니하시는가"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "듣지"
+    },
+    {
+      "surface": "אם",
+      "gloss": "∼인 이가"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "빚으신"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈을"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "∼하지 아니하시는가"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "보지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:41.256613042Z",
+  "model": "glm-5.2"
+}

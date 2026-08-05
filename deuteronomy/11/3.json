@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "곧 미츠라임 한가운데서 파르오에게 — 미츠라임의 왕에게 — 와 그의 온 땅에 행하신 ⟨את⟩ 그의 표적들과 ⟨את⟩ 그의 행하신 것들을.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 표적들"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "그의 표적들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 행하신 것들"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "그의 행하신 것들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하신"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "파르오에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "그의 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:10.936198255Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "심판의 옥좌에 앉은 왕은 자기의 눈으로 모든 악을 체로 친다.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "앉은"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "옥좌"
+    },
+    {
+      "surface": "דין",
+      "gloss": "심판의"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "체로 친다"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "자기의 눈으로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:08.224153198Z",
+  "model": "glm-5.2"
+}

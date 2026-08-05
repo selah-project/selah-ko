@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "고엘이 보아즈에게 말하였다. \"네가 사라.\" 그리고 ⟨그가⟩ ⟨자기의⟩ 신을 벗었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "고엘이"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "보아즈에게"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "사라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네가"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "벗었다"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "자기의 신을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:06:04.803294262Z",
+  "model": "glm-5.2"
+}

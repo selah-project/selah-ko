@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 10:26",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 셸로모가 병거들과 기병들을 모았고, 그에게 천 사백 병거와 만 이천 기병이 있었다. 그리고 그가 그것들을 병거 도시들과 왕과 함께 예루샬라임에 배치하였다.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "그리고 모았다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모가"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "병거들을"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "그리고 기병들을"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 있었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "그리고 사백"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "그리고 십이"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "기병"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "그리고 배치하였다"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "도시들에"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "그리고 함께"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:29.082895607Z",
+  "model": "glm-5.2"
+}

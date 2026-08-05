@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼께서 바다 바람을, 매우 강한 ⟨것을⟩ 돌리시니, ⟨그것이⟩ ⟨את⟩ 메뚜기를 들어 옮겨 수(葦) 바다로 밀어 넣었다. 미츠라임의 모든 영토에 메뚜기가 하나도 남지 않았다.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "돌리시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람을"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "강한"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "들어 옮겨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "메뚜기를"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "메뚜기를"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "밀어 넣었다"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "바다로"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "수(葦)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "남지 않았다"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "메뚜기가"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나도"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "영토에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:30.561406126Z",
+  "model": "glm-5.2"
+}

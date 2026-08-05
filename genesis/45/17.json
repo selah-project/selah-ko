@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 45:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "파르오가 요셉에게 말하였다. \"너의 형제들에게 말하여라. 이것을 행하라. 너희 가축을 ⟨את⟩ 실어 싣고 가나안 땅으로 들어가라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하셨다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "형제들"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행하라"
+    },
+    {
+      "surface": "טענו",
+      "gloss": "싣고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가축"
+    },
+    {
+      "surface": "בעירכם",
+      "gloss": "가축을"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "가라"
+    },
+    {
+      "surface": "באו",
+      "gloss": "들어가라"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:53.934512820Z",
+  "model": "glm-5.2"
+}

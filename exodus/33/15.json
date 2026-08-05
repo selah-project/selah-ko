@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그가 그에게 말하였다. \"만일 주의 면전이 함께 가지 아니하시면, 우리를 이곳에서 올려 보내지 마십시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אין",
+      "gloss": "아니시면"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "주의 면전"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "함께 가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "마십시오"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "우리를 올려 보내지"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "이곳에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:06:07.638103686Z",
+  "model": "glm-5.2"
+}

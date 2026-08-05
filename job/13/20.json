@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "다만 두 가지를 부디 나에게 행하지 마십시오. 그리하면 당신의 면전에서 내가 숨지 않겠습니다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "다만"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "두 가지를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "부디 …마십시오"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "행하지"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "אז",
+      "gloss": "그리하면"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "당신의 면전에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…아니하다"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "내가 숨지 않겠습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:42.113551731Z",
+  "model": "glm-5.2"
+}

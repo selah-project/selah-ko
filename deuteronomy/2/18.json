@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "너는 오늘 ⟨את⟩ 모아브의 경계 곧 ⟨את⟩ 아르를 지나가라.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "지나가라"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모아브의 경계"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아르"
+    },
+    {
+      "surface": "ער",
+      "gloss": "아르"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:57.997178543Z",
+  "model": "glm-5.2"
+}

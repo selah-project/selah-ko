@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "낮은 자들을 붙드시는 이는 야훼이시다, 악인들을 땅 끝까지 낮추신다.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "붙드시는 이는"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "낮은 자들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이시다"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "낮추신다"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들을"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "끝까지"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:11.107632054Z",
+  "model": "glm-5.2"
+}

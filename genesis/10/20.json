@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "이들이 함의 아들들이니, 그들의 족속에 따라, 그들의 언어에 따라, 그들의 땅들에서, 그들의 민족들에서이다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이니"
+    },
+    {
+      "surface": "חם",
+      "gloss": "함의"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "그들의 족속에 따라"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "그들의 언어에 따라"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "그들의 땅들에서"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "그들의 민족들에서이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:25.232670695Z",
+  "model": "glm-5.2"
+}

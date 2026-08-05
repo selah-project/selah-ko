@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "네 은은 찌꺼기가 되었고, 네 포도주는 물에 타서 옅어졌다.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "네 은은"
+    },
+    {
+      "surface": "היה",
+      "gloss": "되었고"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "찌꺼기가"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "네 포도주는"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "타서"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:35.025403990Z",
+  "model": "glm-5.2"
+}

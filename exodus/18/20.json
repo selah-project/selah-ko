@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 그대는 그들에게 ⟨את⟩ 그 규례들과 ⟨את⟩ 그 토라들을 경계하여 가르치고, 그들이 그 안에서 걸어갈 ⟨את⟩ 그 길과 그들이 행할 ⟨את⟩ 그 일을 그들에게 알게 하십시오.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "경계하여 가르치고"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 규례들"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "그 규례들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 토라들을"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "그 토라들을"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "알게 하십시오"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 길"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "그 길"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "걸어갈"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에서"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 일"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "그 일"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…을"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "행할"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:48.854141882Z",
+  "model": "glm-5.2"
+}

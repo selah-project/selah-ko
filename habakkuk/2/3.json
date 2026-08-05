@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 2:3",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "확실히 아직 환상은 정한 때를 위한 것이며, 그 끝을 향해 숨을 쉬고 거짓말하지 않는다. 더디더라도 그것을 기다려라, 확실히 반드시 오리니 지체하지 않을 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "확실히"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "환상은"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "정한 때를 위한"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "그리고 숨을 쉰다"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "그 끝을 향해"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아니다"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "거짓말하지"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יתמהמה",
+      "gloss": "더디더라도"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "기다려라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "확실히"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오리니"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "반드시 오리니"
+    },
+    {
+      "surface": "לא",
+      "gloss": "~아니다"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "지체하지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:23.541332916Z",
+  "model": "glm-5.2"
+}

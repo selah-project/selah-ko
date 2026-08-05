@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "해와 달이 거처에 멈추었고, 당신의 화살들의 빛을 향해 걸어갔으며, 당신의 창의 번개빛을 향해 ⟨걸어갔다⟩.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "달"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "멈추었고"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "거처에"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "빛을 향해"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "당신의 화살들의"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "걸어갔으며"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "번개빛을 향해"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "번개의"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "당신의 창"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:45.755146125Z",
+  "model": "glm-5.2"
+}

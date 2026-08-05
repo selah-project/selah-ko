@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "내가 말하였다. “내 길들을 지키리니, ⟨그⟩ 내가 내 혀로 죄를 짓지 아니하게 하리라. 악인이 내 앞에 있는 동안 내 입에 재갈을 물리리라.”",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "내가 말하였다"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "내가 지키리니"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "내 길들을"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "죄를 짓지 아니하게"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "내 혀로"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "내가 물리리라"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "내 입에"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "재갈을"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "있는 동안"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인이"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "내 앞에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:47.667648606Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 98,
+  "translation": "바다와 그 안에 가득한 것들이 울부짖으라, 세계와 그 안에 사는 자들이.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "울부짖으라"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다와"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "그 안에 가득한 것들이"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계와"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "그 안에 사는 자들이"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그것에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:52.532838147Z",
+  "model": "glm-5.2"
+}

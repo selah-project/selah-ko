@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "내가 영원히 주를 감사하오리니, 주께서 이것을 행하셨음이니이다. 내가 주의 이름을 기다리오리니, 그것이 주의 헤시드들 앞에서 좋음이니이다.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "주를 감사하오리니"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "주께서 행하셨음이니이다"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "기다리오리니"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "주의 이름을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋음이니이다"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "주의 헤시드들"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:18.283818665Z",
+  "model": "glm-5.2"
+}

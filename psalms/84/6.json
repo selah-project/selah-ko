@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "그 사람은 복이 있다 — 그의 힘이 당신에게 있으며, 그들의 마음에 순례 길이 새겨져 있다.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "אָ֭דָם",
+      "gloss": "그 사람은"
+    },
+    {
+      "surface": "עֽוֹז",
+      "gloss": "힘이"
+    },
+    {
+      "surface": "ל֥וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בָ֑ךְ",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "מְסִלּ֗וֹת",
+      "gloss": "순례 길이"
+    },
+    {
+      "surface": "בִּלְבָבָֽם",
+      "gloss": "그들의 마음에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:18.921525841Z",
+  "model": "glm-5.2"
+}

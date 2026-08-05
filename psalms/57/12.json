@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "높이 올리어지소서, 하늘들 위에, 엘로힘이시여, ⟨당신의⟩ 영광이 온 땅 위에!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "높이 올리어지소서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "⟨당신의⟩ 영광이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:26.896612184Z",
+  "model": "glm-5.2"
+}

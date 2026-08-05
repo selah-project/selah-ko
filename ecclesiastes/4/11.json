@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "또한 만일 둘이 눕고 그들에게 온기가 있을지라도, 한 사람에게는 어찌 온기가 있으랴?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "눕고"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘이"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "온기가 있을지라도"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "한 사람에게는"
+    },
+    {
+      "surface": "איך",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "온기가 있으랴"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:12.947436511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "라반이 말하였다. \"내가 그녀를 ⟨את⟩ 네게 주는 것이, 내가 그녀를 ⟨את⟩ 다른 남자에게 주는 것보다 낫다. 나와 함께 머물러라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반이"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "내가 주는 것이"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀를"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "내가 주는 것보다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀를"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "남자에게"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "머물러라"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "나와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T18:42:41.937750481Z",
+  "model": "glm-5.2"
+}

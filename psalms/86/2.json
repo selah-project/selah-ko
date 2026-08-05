@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 86,
+  "translation": "나의 네페쉬를 지키소서. 온전한 자이기입니다. 당신의 종을 구원하소서. 나의 엘이신 당신이시여, ⟨당신에게⟩ ⟨그⟩ 신뢰하는 ⟨자⟩를.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "지키소서"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "온전한 자"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는 …이기입니다"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "구원하소서"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종을"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이시여"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘이신"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "신뢰하는 ⟨자⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨당신에게⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:44.573165070Z",
+  "model": "glm-5.2"
+}

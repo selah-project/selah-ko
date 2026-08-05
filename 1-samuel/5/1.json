@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 플리쉬티임이 ⟨את⟩ 엘로힘의 언약궤를 취하여, 그것을 에벤-하-에제르에서 아슈도드로 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "그리고 플리쉬티임이"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘의 언약궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "언약궤를"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "그리고 그것을 가져왔다"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "에벤-하-에제르"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "아슈도드로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:24:06.394210121Z",
+  "model": "glm-5.2"
+}

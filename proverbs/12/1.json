@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "훈계를 사랑하는 자는 지식을 사랑하나, 책망을 미워하는 자는 짐승같이 우둔하다.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "사랑하는 자는"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "훈계를"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하나"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식을"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "미워하는 자는"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "책망을"
+    },
+    {
+      "surface": "בער",
+      "gloss": "짐승같이 우둔하다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:02.704742827Z",
+  "model": "glm-5.2"
+}

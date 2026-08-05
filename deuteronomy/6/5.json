@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "너는 네 엘로힘이신 야훼를 ⟨את⟩ 사랑하되, 온 마음과 온 네페쉬와 온 힘을 다하여 사랑하하여라.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "너는 사랑하여라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이신"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "마음과"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "네페쉬와"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "힘을 다하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:25.634549839Z",
+  "model": "glm-5.2"
+}

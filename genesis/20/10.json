@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "아비멜렉이 아브라함에게 말하였다. \"당신이 무엇을 보았기에 ⟨את⟩ ⟨이⟩ 일을 행하였습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "보았기에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그⟩ ⟨때문에⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "행하였습니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨이⟩ 일"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:00.837108277Z",
+  "model": "glm-5.2"
+}

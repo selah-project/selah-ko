@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 내가 ⟨את⟩ 너희 조상 ⟨את⟩ 아브라함을 그 강 저편에서 취하여, 그를 온 케나안 땅으로 인도하시고, 그의 씨를 번성케 하시어, 그에게 ⟨את⟩ 이삭을 주셨다.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "그리고 내가 … 취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 조상"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "너희 조상"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브라함"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "저편에서"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "그 강"
+    },
+    {
+      "surface": "ויאלך",
+      "gloss": "그리고 … 인도하시고"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "케나안"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "그리고 … 번성케 하시어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 씨"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "그의 씨"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "그리고 … 주셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이삭"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭"
+    }
+  ],
+  "timestamp": "2026-08-05T18:36:38.224942042Z",
+  "model": "glm-5.2"
+}

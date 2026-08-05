@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "저는 깊은 진창에 빠져 발디딜 곳이 없습니다. 깊은 물들에 들어갔고, 홍수가 저를 휩쓸었습니다.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "저는 빠졌습니다"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "진창에"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "깊은"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없습니다"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "발디딜 곳"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "들어갔습니다"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "깊은 물들에"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "홍수가"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "저를 휩쓸었습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:11.585991867Z",
+  "model": "glm-5.2"
+}

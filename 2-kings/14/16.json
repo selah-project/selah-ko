@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "여호아쉬가 그의 조상들과 함께 누웠고, 샤마론에서 이스라엘 왕들과 함께 묻혔다. 그의 아들 야로브암이 그를 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "누웠고"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "여호아쉬"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "그의 조상들"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "묻혔다"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "샤마론에서"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "야로브암"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:35.387991149Z",
+  "model": "glm-5.2"
+}

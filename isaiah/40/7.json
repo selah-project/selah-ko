@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "풀이 마르고 꽃이 시드다, 이는 야훼의 루아흐가 그 위에 불었음이니, 참으로 ⟨그⟩ 백성은 풀이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "마르고"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "풀이"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "시드다"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "꽃이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "불었음이니"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "참로"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "풀이기"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨그⟩ 백성은"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:05.364732531Z",
+  "model": "glm-5.2"
+}

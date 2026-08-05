@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "온 땅의 왕이 엘로힘이시기 때문이다. 슬기롭게 노래하라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "슬기롭게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:25.725693431Z",
+  "model": "glm-5.2"
+}

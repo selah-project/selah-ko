@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 20:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 관리들이 백성에게 말하여 이르기를, 누가 ⟨그⟩ 사람인가, ⟨그⟩가 집을 새것으로 지었으나 ⟨그것을⟩ 입주하지 아니한 자? 그는 가서 자기 집으로 돌아갈지니, 전쟁에서 죽고 다른 사람이 ⟨그것을⟩ 입주하지 않도록.",
+  "tokens": [
+    {
+      "surface": "ודברו",
+      "gloss": "그리고 말할 것이다"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "관리들이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "지었으나"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "새것으로"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "חנכו",
+      "gloss": "입주하였다"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그리고 돌아갈 것이다"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "자기 집으로"
+    },
+    {
+      "surface": "פן",
+      "gloss": "…않도록"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽고"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "전쟁에서"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 사람"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "יחנכנו",
+      "gloss": "입주할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:35.059885086Z",
+  "model": "glm-5.2"
+}

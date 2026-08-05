@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 너는 ⟨את⟩ 브리트의 궤를 메는 코헨들에게 명령하여 이르기를, “너희가 요르단 물의 끝에 이르거든, 요르단 안에 서라” 하라.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너는"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "명령하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "브리트의 궤를 메는 코헨들"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들에게"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "메는"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "브리트의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "너희가 이르거든"
+    },
+    {
+      "surface": "עד",
+      "gloss": "에"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "끝"
+    },
+    {
+      "surface": "מי",
+      "gloss": "물의"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "요르단 안에"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "서라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:08:37.184044603Z",
+  "model": "glm-5.2"
+}

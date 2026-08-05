@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "그리고 ⟨그것이⟩ 야곱에게 알려졌다. 그리고 ⟨누군가⟩ 말하였다. \"보라, 네 아들 요셉이 네게 오고 있다.\" 이스라엘이 힘을 내어 침상 위에 앉았다.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알려졌다"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "야곱에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "네 아들"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오고 있다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "힘을 내어"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "앉았다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "침상"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:05.692783185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "내 마음이 방황하였다, 공포가 나를 압도하였다. ⟨את⟩ 내가 사랑하는 황혼이 나에게 떨림으로 자리잡았다.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "방황하였다"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "공포가"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "나를 압도하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내가 사랑하는 황혼"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "황혼이"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "내가 사랑하는"
+    },
+    {
+      "surface": "שם",
+      "gloss": "자리잡았다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "떨림으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:54.297069772Z",
+  "model": "glm-5.2"
+}

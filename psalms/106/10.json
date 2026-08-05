@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리하여 그가 그들을 미워하는 자의 손에서 구원하시고, 그들의 적의 손에서 ⟨그들을⟩ 고엘하셨다.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "그리하여 그가 그들을 구원하시고"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "미워하는 자의"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "그들을 고엘하셨다"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "적의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:34.563084201Z",
+  "model": "glm-5.2"
+}

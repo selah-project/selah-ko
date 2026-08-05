@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "요셉은 ⟨את⟩ 자기 형제들을 알아보았으나, 그들은 그를 알아보지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "알아보았다"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 형제들을"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "자기 형제들을"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "그를 알아보지"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:13.997480412Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joel 1:17",
+  "book": "joel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "날알들이 그들의 흙덩이 아래에서 썩어 버렸고, 곳간들은 황폐해졌으며, 창고들은 무너졌다. 곧 곡식이 말라 버렸기 때문이다.",
+  "tokens": [
+    {
+      "surface": "עבשו",
+      "gloss": "썩어 버렸고"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "날알들이"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에서"
+    },
+    {
+      "surface": "מגרפתיהם",
+      "gloss": "그들의 흙덩이"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "황폐해졌으며"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "곳간들은"
+    },
+    {
+      "surface": "נהרסו",
+      "gloss": "무너졌다"
+    },
+    {
+      "surface": "ממגרות",
+      "gloss": "창고들은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "말라 버렸으므로"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "곡식이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:08:47.057345893Z",
+  "model": "glm-5.2"
+}

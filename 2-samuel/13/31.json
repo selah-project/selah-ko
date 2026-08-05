@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 왕이 일어나 ⟨את⟩ 자기 옷을 찢고 땅에 누우매, 그의 종들 전체가 옷을 찢은 채 서 있었다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "그리고 …이 일어나"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "그리고 …이 찢고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 옷을"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "그리고 …이 누우매"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 …전체가"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들이"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "서 있었다"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "…을 찢은"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "옷"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:19.894594481Z",
+  "model": "glm-5.2"
+}

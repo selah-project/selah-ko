@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "굽은 길, 한 사람의 길이요 타인의 것이지만, 깨끗한 자의 행실은 곧은 것이다.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "굽은"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길은"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람의"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "그리고 타인의"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "그러나 깨끗한 자의"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "곧은 것이다"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "행실은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:17.315973997Z",
+  "model": "glm-5.2"
+}

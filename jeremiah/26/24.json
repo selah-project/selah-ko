@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "오직 샤판의 아들 아히캄의 손이 ⟨את⟩ 예르미야우와 함께하여, 그를 백성의 손에 넘겨 죽이지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손이"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "아히캄"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "샤판"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "함께하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예르미야우와"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야우"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "תת",
+      "gloss": "넘겨"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "죽이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:35:47.282799283Z",
+  "model": "glm-5.2"
+}

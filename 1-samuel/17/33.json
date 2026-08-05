@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 17:33",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 샤울이 다윗에게 말하였다. \"너는 ⟨그⟩ 이 플리쉬티에게로 가서 그와 싸울 수 없다. 네가 소년이고 그는 젊었을 때부터 전쟁꾼이기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …이 말하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하다 \/ 못하다"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "너는 능히 하다"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "가서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "그 플리쉬티"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "싸우기 위하여"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에 \/ 대"
+    },
+    {
+      "surface": "נער",
+      "gloss": "소년"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 그는"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람 \/ 전사"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁"
+    },
+    {
+      "surface": "מנעריו",
+      "gloss": "그의 젊었을 때부터"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:09.941899096Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "전복되어 악한 자들은 없어지고, 의로운 자들의 집은 서 있다.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "전복되어"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악한 자들은"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "없어지고"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "그리고 집은"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들의"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "서 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:03.621306595Z",
+  "model": "glm-5.2"
+}

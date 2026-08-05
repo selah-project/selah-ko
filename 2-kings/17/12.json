@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 그들이 ⟨그⟩ 가우울들을 섬겼으니, 야훼가 그들에게 말씀하셨던 것들이다. \"너희는 ⟨את⟩ ⟨그⟩ 일을 행하지 말라, 이것을.\"",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "그리고 섬겼다"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "가우울들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것들에 관해"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨으니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "너희는 행"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "일을"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이것을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:02:39.683839604Z",
+  "model": "glm-5.2"
+}

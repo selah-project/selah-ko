@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "보지 못하여야 한다. 네 형제의 소나, 혹은 ⟨את⟩ 그의 양이 밀려 나가 있는 것을 보고도 ⟨그것들⟩로부터 눈을 감아서는 안 된다. 반드시 그것들을 네 형제에게 되돌려 주어야 한다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "보지 못하여야 한다"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "⟨너는⟩ 보다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 형제의 소"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제의"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 양"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "그의 양"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "밀려 나가 있는 것을"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "눈을 감아서는 안 된다"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "⟨그것들⟩로부터"
+    },
+    {
+      "surface": "השב",
+      "gloss": "반드시"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "되돌려 주어야 한다"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "네 형제에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:38.997436495Z",
+  "model": "glm-5.2"
+}

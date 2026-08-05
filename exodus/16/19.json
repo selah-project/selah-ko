@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "모셰가 그들에게 말하였다. \"각자 ⟨그것⟩에서 남기지 말라, 아침까지.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "남기지"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨그것⟩에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:19.788232767Z",
+  "model": "glm-5.2"
+}

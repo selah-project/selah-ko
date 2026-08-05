@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "미츠라임의 왕이 그들에게 말하였다. \"모셰와 아하론아, 왜 너희가 ⟨את⟩ 백성을 그의 일에서 풀어주느냐? 너희의 무거운 짐으로 돌아가라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "למה",
+      "gloss": "왜"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰와"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "아하론아"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "너희가 풀어주느냐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "그의 일에서"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "가라"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "너희의 무거운 짐으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:09:43.832485612Z",
+  "model": "glm-5.2"
+}

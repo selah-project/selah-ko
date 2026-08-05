@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "새 포도주가 슬퍼하고, 포도나무가 시들었다. 마음이 기뻐하는 모든 자가 탄식한다.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "슬퍼하고"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "새 포도주가"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "시들었다"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "포도나무가"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "탄식한다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "기뻐하는"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:20.876013707Z",
+  "model": "glm-5.2"
+}

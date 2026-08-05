@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "죽일 때가 있고, 고칠 때가 있다; 허물 때가 있고, 세울 때가 있다.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "죽일"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "고칠"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "허물"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "세울"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:35.956329183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "나의 가르침은 비처럼 쏟아지고, 나의 말은 이슬처럼 흐르리라, 어린 풀 위에 소나기 같이, 풀 위에 빗방울 같이.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "쏟아지고"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "비처럼"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "나의 가르침은"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "흐르리라"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "이슬처럼"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "나의 말은"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "소나기 같이"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위에"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "어린 풀"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "빗방울 같이"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위에"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "풀"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:31.569099533Z",
+  "model": "glm-5.2"
+}

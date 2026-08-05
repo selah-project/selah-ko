@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "나는 나의 사랑하는 이의 것이요, 나의 사랑하는 이는 내 것이다. 백합들 ⟨가운데서⟩ 양 떼를 먹이시는 이시다.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "לְדוֹדִי",
+      "gloss": "나의 사랑하는 이의 것이요"
+    },
+    {
+      "surface": "וְדוֹדִי",
+      "gloss": "나의 사랑하는 이는"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "내 것이다"
+    },
+    {
+      "surface": "הָרֹעֶה",
+      "gloss": "양 떼를 먹이시는 이시다"
+    },
+    {
+      "surface": "בַּשׁוֹשַׁנִּים",
+      "gloss": "백합들 ⟨가운데서⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T12:14:12.064463732Z",
+  "model": "glm-5.2"
+}

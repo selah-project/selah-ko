@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 이제 내가 ⟨את⟩ 그녀의 수치를 그녀의 사랑하는 자들의 눈앞에 드러내시리니, 어떤 사람도 그녀를 내 손에서 건져내지 못하리라.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "내가 드러내시리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 수치를"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "그녀의 수치"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "눈앞에"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "그녀의 사랑하는 자들의"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "어떤 사람도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하리라"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "건져내지"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "내 손에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:39.972725671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "눈의 빛은 마음을 기쁘게 하고, 좋은 소식은 뼈를 살찌운다.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "빛은"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "눈의"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "기쁘게 하고"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "소식은"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "살찌운다"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "뼈를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:13.255362210Z",
+  "model": "glm-5.2"
+}

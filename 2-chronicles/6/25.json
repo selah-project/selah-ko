@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 6:25",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨당신은⟩ 하늘에서 들으시고 당신의 백성 이스라엘의 죄를 사하시며, 그들을 당신이 그들과 그들의 조상들에게 주신 땅으로 돌아오게 하시옵소서.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 ⟨당신은⟩"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "들으시고"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "사하시며"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "죄를"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "והשיבותם",
+      "gloss": "그들을 돌아오게 하시옵소서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩ which"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "주신"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ולאבתיהם",
+      "gloss": "그리고 그들의 조상들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:23.988111639Z",
+  "model": "glm-5.2"
+}

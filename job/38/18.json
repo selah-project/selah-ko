@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 38:18",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "네가 땅의 넓이들까지 깊이 헤아려 보았느냐, 전부를 알거든 말하여 보아라",
+  "tokens": [
+    {
+      "surface": "הִ֭תְבֹּנַנְתָּ",
+      "gloss": "깊이 헤아려 보았느냐"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "רַחֲבֵי",
+      "gloss": "넓이들을"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "הַגֵּ֗ד",
+      "gloss": "말하여 보아라"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יָדַ֥עְתָּ",
+      "gloss": "네가 안다면"
+    },
+    {
+      "surface": "כֻלָּֽהּ",
+      "gloss": "전부를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:07.520423101Z",
+  "model": "glm-5.2"
+}

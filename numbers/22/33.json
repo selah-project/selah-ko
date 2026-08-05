@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "암나귀가 나를 보고 내 앞에서 이 세 번 비켰기 때문에, 만일 그것이 내 앞에서 비키지 아니하였다면, 이제 나는 ⟨את⟩ 너를 죽였고 그것을 살려 두었을 것이다.",
+  "tokens": [
+    {
+      "surface": "ותראני",
+      "gloss": "나를 보고"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "암나귀가"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "비켰기 때문에"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "내 앞에서"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "세"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "번"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "נטתה",
+      "gloss": "비키지 아니하였다면"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "내 앞에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그렇다면⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨곧⟩"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "너"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "죽였고"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "החייתי",
+      "gloss": "살려 두었을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:42:56.042236865Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "야훼의 언약궤가 블레셋 사람들의 들판에 일곱 달 ⟨동안⟩ 있었다.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "אֲרוֹן",
+      "gloss": "궤가"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בִּשְׂדֵה",
+      "gloss": "들판에"
+    },
+    {
+      "surface": "פְלִשְׁתִּים",
+      "gloss": "블레셋 사람들의"
+    },
+    {
+      "surface": "שִׁבְעָה",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "חֳדָשִׁים",
+      "gloss": "달"
+    }
+  ],
+  "timestamp": "2026-08-05T09:24:34.330554776Z",
+  "model": "glm-5.2"
+}

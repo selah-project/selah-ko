@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 112,
+  "translation": "흩어 나누어 주셨다, 가난한 자들에게. ⟨그⟩ 의는 영원히 서 있다. ⟨그⟩ 뿔이 영광 중에 높이 들리리라.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "흩어"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나누어 주셨다"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "가난한 자들에게"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "의는"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "서 있다"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "뿔이"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "높이 들리리라"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "영광 중에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:20.832505571Z",
+  "model": "glm-5.2"
+}

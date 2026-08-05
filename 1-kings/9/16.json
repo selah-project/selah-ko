@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "미츠라임 왕 파르오가 올라와 ⟨את⟩ 게젤을 점령하고, 그것을 불태웠다. 그리고 ⟨그가⟩ 그 성에 거주하던 ⟨את⟩ 그 가나안 사람을 쳐죽이고, 그것을 그의 딸 셀롬오의 아내에게 보내물로 주었다.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라왔다"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "그리고 점령하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "게젤"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "게젤"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "그리고 그것을 불태웠다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 가나안 사람"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "그 가나안 사람을"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "거주하던"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성에"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "쳐죽이고"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "그리고 그것을 주었다"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "보내물로"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "그의 딸에게"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셀롬오의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:57.590467835Z",
+  "model": "glm-5.2"
+}

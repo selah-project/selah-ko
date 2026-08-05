@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그가 말씀하셨다. \"힘센 자들의 외침 소리가 아니요, 약한 자들의 외침 소리도 아니다 — 내가 듣는 것은 노래 부르는 소리이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말씀하셨다"
+    },
+    {
+      "surface": "אין",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "외침"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "힘센 자들의"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "…도 아니다"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "외침"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "약한 자들의"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "노래 부르는"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "듣는 것은"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:16.020224133Z",
+  "model": "glm-5.2"
+}

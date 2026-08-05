@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 51:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "깨어나라, 깨어나라, 힘을 입어라, 야훼의 팔이여! 깨어나라, 옛 날들처럼, 영원한 세대들처럼! ⟨너⟩ 아니냐, ⟨את⟩ 그녀가 라하브를 쪼갠 이, 타닌을 찌른 이!",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "깨어나라"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "깨어나라"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "입어라"
+    },
+    {
+      "surface": "עז",
+      "gloss": "힘을"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "팔이여"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "깨어나라"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "～의 날들처럼"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "옛"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "세대들처럼"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아니냐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀가"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀가"
+    },
+    {
+      "surface": "המחצבת",
+      "gloss": "쪼갠 이"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "라하브를"
+    },
+    {
+      "surface": "מחוללת",
+      "gloss": "찌른 이"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "타닌을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:35.995692348Z",
+  "model": "glm-5.2"
+}

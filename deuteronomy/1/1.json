@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "이것들은 모셰가 온 이스라엘에게 하신 그 말씀들이니, ⟨그것은⟩ 요르단 건너편, 광야에서, 아라바에서, 수프 맞은편, 파란과 토펠과 라반과 하체롯과 디 자하브 사이에서였다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이것들은"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "그 말씀들은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "건너편에서"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "아라바에서"
+    },
+    {
+      "surface": "מול",
+      "gloss": "맞은편"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "수프"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "파란"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 …사이에"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "토펠"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "그리고 라반"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "그리고 하체롯"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "그리고 디"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "자하브"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:57.511396639Z",
+  "model": "glm-5.2"
+}

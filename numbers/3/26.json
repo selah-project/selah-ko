@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 뜰의 휘장들, 미쉬칸과 제단 둘레에 있는 뜰 문 입구의 ⟨את⟩ 휘장, 그리고 그것의 모든 섬김을 위한 ⟨את⟩ 그 줄들이다.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "그리고 휘장들"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "휘장"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "휘장"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "문 입구의"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "미쉬칸"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 …위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 줄들"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "그것의 줄들"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든 …을 위한"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "그것의 섬김"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:29.240524938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "당신 눈이 내 덩어리를 보았고, 당신의 책에 모두 쓰였다 — 빚어질 날들이, 아직 그 중 하나도 없었을 때에.",
+  "tokens": [
+    {
+      "surface": "גָּלְמִ֤י",
+      "gloss": "내 덩어리를"
+    },
+    {
+      "surface": "רָ֘א֤וּ",
+      "gloss": "보았고"
+    },
+    {
+      "surface": "עֵינֶ֗יךָ",
+      "gloss": "당신 눈이"
+    },
+    {
+      "surface": "וְעַֽל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "סִפְרְךָ֮",
+      "gloss": "당신의 책"
+    },
+    {
+      "surface": "כֻּלָּ֪ם",
+      "gloss": "모두"
+    },
+    {
+      "surface": "יִכָּ֫תֵ֥בוּ",
+      "gloss": "쓰였다"
+    },
+    {
+      "surface": "יָמִ֥ים",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "יֻצָּ֑רוּ",
+      "gloss": "빚어질"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니했다"
+    },
+    {
+      "surface": "אֶחָ֣ד",
+      "gloss": "하나도"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "그 중"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:59.878703070Z",
+  "model": "glm-5.2"
+}

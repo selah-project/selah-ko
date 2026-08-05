@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 하늘의 군대에까지 자라났으며, 그 군대에서와 별들에서 ⟨것을⟩ 땅으로 떨어뜨리고 그것들을 밟았다.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "그리고 자라났으며"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~에까지"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "군대"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "떨어뜨리고"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "מן",
+      "gloss": "~에서"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "그 군대"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에서"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "별들"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "그것들을 밟았다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:28:30.697426161Z",
+  "model": "glm-5.2"
+}

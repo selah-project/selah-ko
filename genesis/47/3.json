@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "파르오가 그의 형제들에게 말하였다. \"너희의 일이 무엇이냐?\" 그들이 파르오에게 말하였다. \"당신의 종들은 양을 치는 자들입니다, 우리도, 우리의 조상들도.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이냐"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "너희의 일"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "치는 자들"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양을"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "당신의 종들은"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "우리의 조상들"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:45.781994727Z",
+  "model": "glm-5.2"
+}

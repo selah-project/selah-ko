@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "대신 그들은 악을 행하지 않으면 자지 못하고, 그들의 잠은 빼앗기니, 대신 그들이 남을 비틀거리게 하지 않으면 ⟨잠들지⟩ 못한다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "그들은 자지 못하고"
+    },
+    {
+      "surface": "אם",
+      "gloss": "대신"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "악을 행하지"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "그리고 빼앗기니"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "그들의 잠은"
+    },
+    {
+      "surface": "אם",
+      "gloss": "대신"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "그들이 남을 비틀거리게 하지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:13.733489194Z",
+  "model": "glm-5.2"
+}

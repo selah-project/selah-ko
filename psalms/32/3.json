@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "내가 입을 다물었을 때에 내 뼈들이 나의 부르짖음으로 온종일 쇠하였다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때에"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "내가 입을 다물었을"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "쇠하였다"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "내 뼈들이"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "나의 부르짖음으로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:22.117948664Z",
+  "model": "glm-5.2"
+}

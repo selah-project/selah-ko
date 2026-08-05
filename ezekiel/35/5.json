@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 35:5",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "네가 영원한 적의를 품고 ⟨את⟩ 이스라엘 자손을 칼의 손에 넘겼기 때문이다 — 그들의 재난의 때에, 그들의 죄악의 끝의 때에.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "היות",
+      "gloss": "품고"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네가"
+    },
+    {
+      "surface": "איבת",
+      "gloss": "적의를"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "ותגר",
+      "gloss": "넘겼다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "손"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼의"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "그들의 재난의"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악의"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "끝의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:00:07.624328143Z",
+  "model": "glm-5.2"
+}

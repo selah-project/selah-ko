@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 12:31",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "내가 ⟨את⟩ 유다의 방백들을 성벽 위로 올라가게 하였고, 내가 두 큰 감사의 무리와 행렬을 세웠다 — 오른쪽으로, 성벽 위로, 재문 쪽으로.",
+  "tokens": [
+    {
+      "surface": "ואעלה",
+      "gloss": "내가 …올라가게 하였고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다의 방백들"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "방백들을"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다의"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위로"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "내가 …세웠다"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "감사의 무리"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ותהלכת",
+      "gloss": "그리고 행렬을"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "오른쪽으로"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위로"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "…문 쪽으로"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "재"
+    }
+  ],
+  "timestamp": "2026-08-05T12:39:35.656387798Z",
+  "model": "glm-5.2"
+}

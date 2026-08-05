@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그가 마을들의 매복처에 앉아, 은밀한 곳들에서 무죄한 자를 죽이나니, 그의 눈들은 가련한 자를 향해 은밀히 엿본다.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "앉아"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "매복처에"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "마을들의"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "은밀한 곳들에서"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "죽이나니"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "무죄한 자를"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "그의 눈들은"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "가련한 자를 향해"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "은밀히 엿본다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:43.167472235Z",
+  "model": "glm-5.2"
+}

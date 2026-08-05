@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "이제 너는 저주를 받았으니, 네 손에서 네 형제의 피들을 받아 ⟨그⟩ 입을 벌린 ⟨그⟩ 땅에서부터이다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받았으니"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "벌린"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 입"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "그 입"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "받아"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 형제의 피들"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "피들을"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제의"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "네 손에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:07.619387672Z",
+  "model": "glm-5.2"
+}

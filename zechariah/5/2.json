@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그가 내게 말하였다. \"당신은 무엇을 보고 있습니까?\" 내가 말하였다. \"저는 날아가는 두루마리를 봅니다. 그것의 길이는 스무 아마이고, 그것의 너비는 열 아마입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보고 있습니까"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "봅니다"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "두루마리를"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "날아가는"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "그것의 길이는"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "스무"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "아마이고"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "그것의 너비는"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "아마입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:43.259288639Z",
+  "model": "glm-5.2"
+}

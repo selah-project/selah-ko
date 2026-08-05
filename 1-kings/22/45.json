@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 예호샤팟은 이스라엘 왕과 평화를 맺었다.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "그리고 평화를 맺었다"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "예호샤팟은"
+    },
+    {
+      "surface": "עם",
+      "gloss": "～과"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:33.868935468Z",
+  "model": "glm-5.2"
+}

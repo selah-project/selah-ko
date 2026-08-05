@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 모셰가 이스라엘의 장로들과 함께 ⟨את⟩ 백성에게 명하여 말하였다. \"내가 오늘 너희에게 명하는 ⟨את⟩ 모든 계명을 지켜라.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 명하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "그리고 장로들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성을"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지켜라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 계명"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "그 계명을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "명하는"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:32.035668234Z",
+  "model": "glm-5.2"
+}

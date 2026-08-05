@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "이것을 행하신 분은 누구인가? 처음부터 세대들을 부르신 이이다. 나는 야훼, 처음이며, ⟨את⟩ 마지막도 나 자신이이다.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누구인가"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "행하신"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 만드신"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "부르신"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "세대들을"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "처음부터"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "처음이며"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "마지막도"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "마지막도"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "자신이이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:54.793836081Z",
+  "model": "glm-5.2"
+}

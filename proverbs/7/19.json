@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "왜냐하면 ⟨그⟩ 사람이 ⟨그의⟩ 집에 없기 때문이다, 그가 먼 길을 떠났다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없기 때문이다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람이"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "그의 집에"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "떠났다"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "먼"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:27.504112725Z",
+  "model": "glm-5.2"
+}

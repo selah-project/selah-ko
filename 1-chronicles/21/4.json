@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그러나 왕의 말씀이 요압에게 강하였다. 그리하여 요압이 나가서, 온 이스라엘을 두루 다니다, 예루샬라임으로 돌아왔다.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "그러나 ⟨…⟩ 말씀이"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "강하였다"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨…⟩에게"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요압"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나가서"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요압이"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "두루 다니다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "돌아왔다"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:45.146019897Z",
+  "model": "glm-5.2"
+}

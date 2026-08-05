@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 옴리가 자기 조상들과 함께 눕고, ⟨그가⟩ 슈메론에 묻혔으며, 그의 아들 아하브가 그를 대신하여 왕위에 올랐다.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "눕고"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "옴리가"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "자기 조상들과"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "묻혔으며"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "슈메론에"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕위에 올랐다"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브가"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:52:47.461403448Z",
+  "model": "glm-5.2"
+}

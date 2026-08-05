@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "마른 조각 한 개가 거기에 평화로움 ⟨이⟩, 다툼의 제물로 가득 찬 집보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "פת",
+      "gloss": "조각"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "마른"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "평화로움"
+    },
+    {
+      "surface": "בה",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…보다 집"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "가득 찬"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "제물"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "다툼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:47.991899410Z",
+  "model": "glm-5.2"
+}

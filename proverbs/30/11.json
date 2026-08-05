@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "한 세대가 있으니, 그 아비를 저주하며 ⟨את⟩ 어미를 축복하지 않는다.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "세대가"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그 아비를"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "저주하며"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "어미"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "어미를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…하지 않는다"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "축복"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:57.704378187Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "너희는 야훼 너희 엘로힘께 그와 같이 행하지 ⟨말 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "너희는 행할 것이다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:49.354639394Z",
+  "model": "glm-5.2"
+}

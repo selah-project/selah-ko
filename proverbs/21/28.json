@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "거짓의 증인은 멸망하나, 듣는 사람은 영원토록 말한다.",
+  "tokens": [
+    {
+      "surface": "עֵד",
+      "gloss": "증인은"
+    },
+    {
+      "surface": "כְּזָבִ֥ים",
+      "gloss": "거짓의"
+    },
+    {
+      "surface": "יֹאבֵ֑ד",
+      "gloss": "멸망하나"
+    },
+    {
+      "surface": "וְאִ֥ישׁ",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "שׁ֝וֹמֵ֗עַ",
+      "gloss": "듣는"
+    },
+    {
+      "surface": "לָנֶ֥צַח",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "יְדַבֵּֽר",
+      "gloss": "말한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:27.478562728Z",
+  "model": "glm-5.2"
+}

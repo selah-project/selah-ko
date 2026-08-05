@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "너는 모든 백성들보다 복을 받을 것이다. 네게 — 너의 가축 가운데서도 — 잉태 못 하는 자나 잉태 못 하는 여자가 없을 것이다.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "복을 받은"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "너는 …일 것이다"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 …보다"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "백성들"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없을 것이다"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "…일 것이다"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "잉태 못 하는 자"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "그리고 잉태 못 하는 여자"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "그리고 너의 가축 가운데서도"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:22.480541177Z",
+  "model": "glm-5.2"
+}

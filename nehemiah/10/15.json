@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "백성의 우두머리들: 파로쉬, 파핫 모아브, 에일람, 자투, 바니",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "우두머리들"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "파로쉬"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "파핫"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "에일람"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "자투"
+    },
+    {
+      "surface": "בני",
+      "gloss": "바니"
+    }
+  ],
+  "timestamp": "2026-08-05T12:37:59.841503858Z",
+  "model": "glm-5.2"
+}

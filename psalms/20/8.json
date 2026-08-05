@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이들은 병거에 ⟨있고⟩, 그리고 이들은 말들에 ⟨있다⟩. 그러나 우리는 야훼 우리 엘로힘의 이름을 기억한다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들은"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "병거에"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이들은"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "말들에"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "그러나 우리는"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "~의 이름을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘의"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "기억한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:04.760852300Z",
+  "model": "glm-5.2"
+}

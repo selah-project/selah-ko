@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 너희 힘이 헛되이 소모되리라. 그리고 너희 땅은 ⟨את⟩ 그 소출을 내지 않고, 그 땅의 나무들은 그 열매를 내지 않으리라.",
+  "tokens": [
+    {
+      "surface": "וְתַם",
+      "gloss": "그리고 소모되리라"
+    },
+    {
+      "surface": "לָרִיק",
+      "gloss": "헛되이"
+    },
+    {
+      "surface": "כֹּחֲכֶם",
+      "gloss": "너희 힘이"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "그리고 아니하며"
+    },
+    {
+      "surface": "תִּתֵּן",
+      "gloss": "내지"
+    },
+    {
+      "surface": "אַרְצְכֶם",
+      "gloss": "너희 땅은"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 소출을"
+    },
+    {
+      "surface": "יְבוּלָהּ",
+      "gloss": "그 소출을"
+    },
+    {
+      "surface": "וְעֵץ",
+      "gloss": "그리고 나무들은"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "그 땅의"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니하리라"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "내지"
+    },
+    {
+      "surface": "פִּרְיוֹ",
+      "gloss": "그 열매를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:54.663605031Z",
+  "model": "glm-5.2"
+}

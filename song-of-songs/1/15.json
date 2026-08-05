@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "보아라, 아름답다, 나의 사랑하는 이여. 보아라, 아름답다. 네 눈들은 비둘기들 ⟨같다⟩.",
+  "tokens": [
+    {
+      "surface": "הִנָּ֤ךְ",
+      "gloss": "보아라"
+    },
+    {
+      "surface": "יָפָה",
+      "gloss": "아름답다"
+    },
+    {
+      "surface": "רַעְיָתִי",
+      "gloss": "나의 사랑하는 이여"
+    },
+    {
+      "surface": "הִנָּ֥ךְ",
+      "gloss": "보아라"
+    },
+    {
+      "surface": "יָפָה",
+      "gloss": "아름답다"
+    },
+    {
+      "surface": "עֵינַ֥יִךְ",
+      "gloss": "네 눈들은"
+    },
+    {
+      "surface": "יוֹנִֽים",
+      "gloss": "비둘기들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:12.616585005Z",
+  "model": "glm-5.2"
+}

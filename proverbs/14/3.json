@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "어리석은 자의 입에는 교만의 회초리가 있고, 지혜로운 자들의 입술은 그들을 지킨다.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "입에는"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "어리석은 자의"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "회초리가"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "교만의"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "입술은"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "지혜로운 자들의"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "그들을 지킨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:08.736711246Z",
+  "model": "glm-5.2"
+}

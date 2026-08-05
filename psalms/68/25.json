@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "그들이 보았다, 엘로힘이여, ⟨당신의⟩ 행차를 — 나의 엘, 나의 왕의 행차를, 거룩한 ⟨곳⟩에서.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "그들이 보았다"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "당신의 행차를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "행차를"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나의 엘"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "나의 왕의"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "거룩한 곳에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:48.132411840Z",
+  "model": "glm-5.2"
+}

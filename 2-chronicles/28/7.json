@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "에프라임의 용사 지크리가 ⟨את⟩ 왕의 아들 마아세야후와 ⟨את⟩ 그 집의 총리 아즈리캄과 ⟨את⟩ 왕의 제2인 엘카나를 죽였다.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "죽였다"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "지크리가"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "용사"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "마아세야후"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "마아세야후를"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아즈리캄"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "아즈리캄과"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "총리"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "엘카나"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "엘카나를"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "제2인"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:00:18.488568539Z",
+  "model": "glm-5.2"
+}

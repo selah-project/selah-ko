@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "그리고 그들의 땅을 ⟨유산으로⟩ 주셨다. 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "그들의 땅을"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "유산으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그의"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:11.016361884Z",
+  "model": "glm-5.2"
+}

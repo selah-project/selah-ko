@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 아하론의 아들들의 반차가 ⟨이러하다⟩. 아하론의 아들들은 나다브와 아비후, 엘아자르와 이타마르이다.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "그리고 …의 아들들에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "그들의 반차"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "나다브"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "그리고 아비후"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "그리고 이타마르"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:21.583111892Z",
+  "model": "glm-5.2"
+}

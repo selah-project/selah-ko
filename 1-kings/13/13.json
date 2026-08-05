@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그가 자기 아들들에게 말하였다. \"나에게 나귀를 안장하라.\" 그들이 ⟨그에게⟩ 나귀를 안장하니, 그가 그것을 타셨다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "자기 아들들"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "안장하라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "⟨그⟩ 나귀"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "안장하니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "⟨그⟩ 나귀"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "타셨다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:52.105580227Z",
+  "model": "glm-5.2"
+}

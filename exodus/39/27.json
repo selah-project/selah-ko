@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그들이 ⟨את⟩ 그 에봇 겉옷들의, 세마로 짠 것을, 아론과 그의 아들들을 위해 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그들이 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 겉옷들"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "그 겉옷들"
+    },
+    {
+      "surface": "שש",
+      "gloss": "세마로"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "것을"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "짠"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아론을"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "그리고 그의 아들들을 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:11.612481627Z",
+  "model": "glm-5.2"
+}

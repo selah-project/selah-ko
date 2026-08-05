@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그들이 ⟨그⟩ 책에서, 엘로힘의 토라에서 읽되, 분명하게 읽고, ⟨그⟩ 뜻을 풀어 주니, 백성이 그 읽는 것을 깨달았다.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "읽되"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "책에서"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "토라에서"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "분명하게 읽고"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "풀어 주니"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "뜻을"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "깨달았다"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "읽는 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:37:33.846799493Z",
+  "model": "glm-5.2"
+}

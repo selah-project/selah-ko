@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "야훼께서 내게 말씀하셨다. \"야훼다 사람들 가운데, 그리고 예루샬라임 거주민들 가운데 음모가 발견되었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "발견되었다"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "음모가"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "사람들 가운데"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "야훼다"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "그리고 거주민들 가운데"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    }
+  ],
+  "timestamp": "2026-08-05T10:30:10.369040715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "마할랄엘이 육십오 년을 살았고, ⟨את⟩ 야레드를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "살았고"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "마할랄엘이"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "오"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "그리고 육십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야레드"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "야레드를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:22.825043031Z",
+  "model": "glm-5.2"
+}

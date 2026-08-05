@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "다윗이 듣고 ⟨את⟩ 요압과 ⟨את⟩ 모든 용사의 군대를 보내셨다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요압을"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요압과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 용사의 군대를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "군대의"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "용사"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:59.981888331Z",
+  "model": "glm-5.2"
+}

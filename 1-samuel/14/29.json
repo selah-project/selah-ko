@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 14:29",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "요나탄이 말하였다. \"아버지가 ⟨את⟩ 이 땅을 어지럽게 하셨다. 보라, 부디, 내가 이 꿀을 조금 맛보았기에 내 눈이 밝아졌음을.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "요나탄이"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "어지럽게 하셨다"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "이 땅"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ארו",
+      "gloss": "밝아졌음을"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "טעמתי",
+      "gloss": "맛보았기에"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "꿀을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:19:35.541677014Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "엘에게서 오는 재앙이 ⟨나에게⟩ 두려움이기 때문이다, 그리고 그의 높으심 때문에 나는 견딜 수 없다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "두려움"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "איד",
+      "gloss": "재앙"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "그리고 그의 높으심"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "내가 견딜 수"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:00.831957550Z",
+  "model": "glm-5.2"
+}

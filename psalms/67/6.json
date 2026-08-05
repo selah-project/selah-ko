@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 67,
+  "translation": "백성들이 당신을 찬송하리이다, 엘로힘이여, 백성들이, 그들 모두가 당신을 찬송하리이다.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "당신을 찬송하리이다"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "당신을 찬송하리이다"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들이"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "그들 모두가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:23.559352147Z",
+  "model": "glm-5.2"
+}

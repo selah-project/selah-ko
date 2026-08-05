@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ 오발과 ⟨את⟩ 아비마엘과 ⟨את⟩ 셰바를",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "오발을"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "오발과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아비마엘을"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "아비마엘과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "셰바를"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "셰바"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:31.680215889Z",
+  "model": "glm-5.2"
+}

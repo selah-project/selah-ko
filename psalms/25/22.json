@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "엘로힘, ⟨את⟩ 이스라엘을 모든 그의 곤경에서 속량하소서.",
+  "tokens": [
+    {
+      "surface": "פְּדֵה",
+      "gloss": "속량하소서"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "צָרֹתָיו",
+      "gloss": "그의 곤경에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:32.099344027Z",
+  "model": "glm-5.2"
+}

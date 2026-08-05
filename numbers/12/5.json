@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 야훼께서 구름 기둥 안에서 내려오셔서 ⟨그⟩ 천막 입어귀에 서시고, 아론과 미리암을 부르시니 그 둘이 나왔다.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "그리고 내려오셔서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "기둥 안에서"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "구름"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "그리고 서시어"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입어귀에"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "그 천막"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 부르시니"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "그리고 미리암을"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "그리고 나왔다"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "그 둘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:35:32.038692428Z",
+  "model": "glm-5.2"
+}

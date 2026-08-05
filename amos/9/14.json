@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 9:14",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "내가 ⟨את⟩ 내 백성 이스라엘의 포로됨에서 돌아오게 하리니, 그들이 황폐한 도시들을 건축하고 거하며, 포도원을 심고 ⟨את⟩ 그 포도주를 마시며, 동산을 만들고 ⟨את⟩ 그 열매를 먹으리라.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "내가 돌아오게 하리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "포로됨"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "포로됨에서"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "건축하고"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "도시들을"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "황폐한"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "거하며"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "심고"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "포도원을"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "마시며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 포도주"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "그 포도주를"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "만들고"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "동산을"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "먹으리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 열매"
+    },
+    {
+      "surface": "פריהם",
+      "gloss": "그 열매를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:52.362347069Z",
+  "model": "glm-5.2"
+}

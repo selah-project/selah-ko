@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 모셰가 제단을 쌓고, 그 이름을 야훼 닛시(나의 깃발)라 불렀다.",
+  "tokens": [
+    {
+      "surface": "וַיִּבֶן",
+      "gloss": "쌓고"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "מִזְבֵּחַ",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "וַיִּקְרָא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "그 이름을"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "נִסִּי",
+      "gloss": "닛시"
+    }
+  ],
+  "timestamp": "2026-08-05T07:55:14.064113260Z",
+  "model": "glm-5.2"
+}

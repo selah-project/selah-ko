@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그가 파르오에게서부터 나아가, 야훼께 간구하였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "~에게서부터"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "간구하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:30.561320919Z",
+  "model": "glm-5.2"
+}

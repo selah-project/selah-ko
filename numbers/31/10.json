@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 ⟨את⟩ 그들의 모든 도시를 — 거주지들에 있는 — 그리고 ⟨את⟩ 그들의 모든 진영을 불로 살랐다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 도시"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "도시"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "거주지들에 있는"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 진영"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "진영"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "살랐다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:46:35.532381619Z",
+  "model": "glm-5.2"
+}

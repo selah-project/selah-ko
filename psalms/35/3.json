@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "⟨그⟩ 창을 빼어 드시고, 나를 쫓는 자들을 막아 서시려 ⟨길을⟩ 막으소서. ⟨את⟩ 내 네페쉬에게 '나는 네 구원이다' ⟨라고⟩ 말씀하소서.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "빼어 드시고"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "창"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "막아 서시고"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "맞서"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "나를 쫓는 자들을"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하소서"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "내 네페쉬에게"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "네 구원"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:26.581778932Z",
+  "model": "glm-5.2"
+}

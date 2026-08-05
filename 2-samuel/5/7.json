@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 다윗이 ⟨את⟩ 시온의 요새를 점령하였으니, 그것이 곧 다윗 성이다.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "점령하였으니"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "시온의 요새를"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "요새를"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온의"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성이"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    }
+  ],
+  "timestamp": "2026-08-05T17:25:43.334971191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "만일 힘으로라면, 보라, ⟨그는⟩ 강하시다. 만일 재판이라면, 누가 나를 부르겠는가?",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "לְכֹחַ",
+      "gloss": "힘으로라면"
+    },
+    {
+      "surface": "אַמִּיץ",
+      "gloss": "강하시다"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "לְמִשְׁפָּט",
+      "gloss": "재판이라면"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יוֹעִידֵנִי",
+      "gloss": "나를 부르겠는가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:45.084439862Z",
+  "model": "glm-5.2"
+}

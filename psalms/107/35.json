@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그가 광야를 물 웅덩이로 만드시며, 마른 땅을 물의 샘들로 만드신다.",
+  "tokens": [
+    {
+      "surface": "יָשֵׂם",
+      "gloss": "만드신다"
+    },
+    {
+      "surface": "מִדְבָּר",
+      "gloss": "광야를"
+    },
+    {
+      "surface": "לַאֲגַם",
+      "gloss": "웅덩이로"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "물"
+    },
+    {
+      "surface": "וְאֶרֶץ",
+      "gloss": "그리고 땅을"
+    },
+    {
+      "surface": "צִיָּה",
+      "gloss": "마른"
+    },
+    {
+      "surface": "לְמוֹצָאֵי",
+      "gloss": "샘들로"
+    },
+    {
+      "surface": "מָיִם",
+      "gloss": "물의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:12.041211293Z",
+  "model": "glm-5.2"
+}

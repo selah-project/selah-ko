@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 나답의 아들들은 셀렛과 아빠임이었다. 셀렛이 아들 없이 죽었다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 아들들은"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "나답의"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "셀렛"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "그리고 아빠임"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그리고 죽었다"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "셀렛이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없이"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:48.764136084Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 왕과 그의 방백들과 온 회중이 예루샬라임에서 의논하였으니, 둘째 달에 페사흐를 지키려 함이었다.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "그리고 의논하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "그리고 그의 방백들과"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "지키려"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "그 페사흐를"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "달에"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    }
+  ],
+  "timestamp": "2026-08-05T13:01:52.253076754Z",
+  "model": "glm-5.2"
+}

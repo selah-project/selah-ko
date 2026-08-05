@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 137,
+  "translation": "바벨의 딸, 황폐하게 된 자여, 너에게 갚아 줄 자는 복되도다 — 네가 우리에게 행한 ⟨את⟩ 네 갚음을!",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨의"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "황폐하게 된 자여"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "복되도다"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "갚아 줄 자는"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 갚음을"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "네 갚음을"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "행한"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:23:09.552182778Z",
+  "model": "glm-5.2"
+}

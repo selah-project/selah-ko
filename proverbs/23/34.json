@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 너는 바다 한가운데 누운 자 같고, 돛대 꼭대기에 누운 자 같을 것이다.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "그리고 너는 ~할 것이다"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "누운 자 같고"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "누운 자 같을 것이다"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "꼭대기에"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "돛대"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:21.393689468Z",
+  "model": "glm-5.2"
+}

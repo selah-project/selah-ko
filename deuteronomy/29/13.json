@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "오직 너희와 함께만 ⟨내가⟩ ⟨את⟩ 이 브리트와 ⟨את⟩ 이 저주를 세우는 것이 아니니",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고…아니다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희와"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨내가⟩"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "세우는 것이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 브리트"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "이 브리트"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "이 저주"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이 저주"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:08:03.082385205Z",
+  "model": "glm-5.2"
+}

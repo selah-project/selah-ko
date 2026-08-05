@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "요아브에게 알려졌다. \"보십시오, 왕이 우시며 아브샬롬을 애통해하십니다.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알려졌다"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "요아브에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "우시며"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "애통해하십니다"
+    },
+    {
+      "surface": "על",
+      "gloss": "을"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "아브샬롬"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:13.458669075Z",
+  "model": "glm-5.2"
+}

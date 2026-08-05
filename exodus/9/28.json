@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "\"엘로힘의 목소리들과 우박이 너무 많으니 야훼께 간구하십시오. 그러면 ⟨저는⟩ ⟨아트⟩ ⟨당신들을⟩ 보내겠습니다 — 더 이상 머물지 않아도 됩니다.\"",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "간구하십시오"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "많으니"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "할"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "목소리들"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "우박과"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "보내겠습니다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨아트⟩",
+      "marks": "당신들을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "더하"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "머물기를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:47.347883915Z",
+  "model": "glm-5.2"
+}

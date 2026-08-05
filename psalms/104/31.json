@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "야훼의 영광이 영원하기를! 야훼께서 그의 행사들에서 기뻐하시기를!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "…이기를"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "기뻐하시기를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "그의 행사들에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:01.889521752Z",
+  "model": "glm-5.2"
+}

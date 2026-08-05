@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야훼의 소리가 힘에 ⟨있다⟩, 야훼의 소리가 위엄에 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "힘에"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "위엄에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:16.647334409Z",
+  "model": "glm-5.2"
+}

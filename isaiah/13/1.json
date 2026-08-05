@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "바벨의 마싸, 곧 아모츠의 아들 예샤야후가 본 ⟨것⟩이다.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "마싸"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "본"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "예샤야후가"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "아모츠의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:40.286734436Z",
+  "model": "glm-5.2"
+}

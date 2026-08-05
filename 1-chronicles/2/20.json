@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 후르는 ⟨את⟩ 우리를 낳았고, 우리는 ⟨את⟩ 베찰렐을 낳았다.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "그리고 후르는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리를"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "우리를"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "그리고 우리는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "베찰렐을"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "베찰렐을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:34.936727908Z",
+  "model": "glm-5.2"
+}

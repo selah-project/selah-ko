@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "\"그리고 너희도 알거니와, 내가 온 힘으로 ⟨את⟩ 너희 아버지를 섬겼다.\"",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "그리고 너희도"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "알거니와"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "힘으로"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "섬겼다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 아버지"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "너희 아버지"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:45.762197240Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 18:18",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그들이 왕에게 부르니, 집을 관할하는 힐키야후의 아들 엘야킴과 서기관 셰브나와 기록관 아쌉의 아들 요아흐가 그들에게 나아갔다.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "부르니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "엘야킴"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "힐키야후의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "관할하는"
+    },
+    {
+      "surface": "על",
+      "gloss": "을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ושבנה",
+      "gloss": "셰브나"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "서기관"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "요아흐"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "아쌉의"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "기록관"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:44.258732923Z",
+  "model": "glm-5.2"
+}

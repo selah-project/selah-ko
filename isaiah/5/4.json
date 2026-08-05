@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "무엇을 내 포도원에 더 하여야 할 것이냐? 내가 그것에 하지 않은 것이 있느냐? 어찌하여 내가 포도 열매를 맺기를 기다렸는데, 그것은 들포도를 맺었는가?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "하여야 할 것이냐"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "내 포도원에"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "내가 하였느냐"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "내가 기다렸는데"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "맺기를"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "포도 열매를"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "그것은 맺었는가"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "들포도를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:06.629197862Z",
+  "model": "glm-5.2"
+}

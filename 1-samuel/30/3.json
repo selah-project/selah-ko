@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "다윗과 그의 사람들이 그 성읍에 이르렀는데, 보라, 불에 타 있었고, 그들의 아내들과 아들들과 딸들이 사로잡혀 있었다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "이르렀는데"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "그의 사람들이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성읍"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "타 있었고"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "그들의 아내들"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "그리고 그들의 아들들"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "그리고 그들의 딸들이"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "사로잡혀 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:48.075306721Z",
+  "model": "glm-5.2"
+}

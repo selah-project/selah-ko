@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "너희는 ⟨את⟩ 나의 규례를 행하고 ⟨את⟩ 나의 법도를 지켜 그 안에서 걸어라. 나는 너희의 엘로힘 야훼이다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 규례"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "나의 규례"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "너희는 행하고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "나의 법도"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "나의 법도"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "너희는 지켜"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "걸어라"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그 안에서"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희의 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:01.456625663Z",
+  "model": "glm-5.2"
+}

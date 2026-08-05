@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "해가 돌아올 때에 벤-하다드가 ⟨את⟩ 아람을 점열하였고, 이스라엘과 싸우려고 아페카로 올라갔다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리 되었다"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "돌아올 때에"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "해가"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "점열하였고"
+    },
+    {
+      "surface": "בן",
+      "gloss": "벤-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하다드가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아람을"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람을"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "아페카로"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "싸우려고"
+    },
+    {
+      "surface": "עם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘과"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:14.260626375Z",
+  "model": "glm-5.2"
+}

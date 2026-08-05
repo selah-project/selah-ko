@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "야훼는 ⟨그⟩ 모든 길에서 의로우시며, ⟨그⟩ 모든 행하심에서 헤세드(인애)이시다.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "의로우시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "길에서"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "헤세드(인애)이시다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "행하심에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:28.648664527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 그의 처녀 자매를 위하여, 그에게 가까운 자로서 남자에게 아직 속하지 않은 자를 위하여는, 그를 위하여 부정하게 될 수 있다.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "그리고 그의 자매를 위하여"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "처녀"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "가까운"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "속하다"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "남자에게"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그를 위하여"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "부정하게 되다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:51.234724724Z",
+  "model": "glm-5.2"
+}

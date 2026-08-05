@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "일어나소서, 야훼여 — 인생이 강하지 못하게 하소서. 민족들이 ⟨당신의⟩ 면전에서 심판받게 하소서.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "일어나소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "못하게 하소서"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "강하지"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "인생이"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "심판받게 하소서"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "당신의 면전"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:08.549333668Z",
+  "model": "glm-5.2"
+}

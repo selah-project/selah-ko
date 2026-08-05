@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그의 겉옷을 잡아라, 그가 낯선 자를 위하여 보증을 섰으므로. 낯선 자들을 위하여 그에게서 담보를 잡아라.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "잡아라"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "그의 겉옷"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…하므로"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "보증을 서다"
+    },
+    {
+      "surface": "זר",
+      "gloss": "낯선 자"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "…을 위하여"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "낯선 자들"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "그에게서 담보를 잡아라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:58.208061381Z",
+  "model": "glm-5.2"
+}

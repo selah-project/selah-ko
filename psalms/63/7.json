@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "내가 당신을 내 잠자리에서 기억하며, 야간 수직들에서 당신을 묵상하리이다.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "…할 때에"
+    },
+    {
+      "surface": "זְכַרְתִּ֥יךָ",
+      "gloss": "내가 당신을 기억하며"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "יְצוּעָ֑י",
+      "gloss": "내 잠자리"
+    },
+    {
+      "surface": "בְּ֝אַשְׁמֻר֗וֹת",
+      "gloss": "야간 수직들에서"
+    },
+    {
+      "surface": "אֶהְגֶּה",
+      "gloss": "묵상하리이다"
+    },
+    {
+      "surface": "בָּֽךְ",
+      "gloss": "당신을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:57.174174856Z",
+  "model": "glm-5.2"
+}

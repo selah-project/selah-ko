@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "요셉이 ⟨그들⟩을 자기 무릎에서부터 이끌어내고, 자기 얼굴을 땅에 대고 엎드렸다.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "그리고 이끌어내고"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "부터"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "자기 무릎"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "그리고 엎드렸다"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "자기 얼굴을"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:29.613785690Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "사람의 입의 말씀은 깊은 물 같고, 지혜의 샘은 솟아나는 시내 같다.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "깊은"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀은"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입의"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "시내"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "솟아나는"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "샘"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:29.924532050Z",
+  "model": "glm-5.2"
+}

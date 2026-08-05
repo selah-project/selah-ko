@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 114,
+  "translation": "유다가 ⟨그⟩의 거룩함이 되시고, 이스라엘이 ⟨그⟩의 다스림이 되셨다.",
+  "tokens": [
+    {
+      "surface": "הָיְתָה",
+      "gloss": "되시고"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "유다가"
+    },
+    {
+      "surface": "לְקָדְשׁוֹ",
+      "gloss": "그의 거룩함이"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "מַמְשְׁלוֹתָיו",
+      "gloss": "그의 다스림이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:15.359516556Z",
+  "model": "glm-5.2"
+}

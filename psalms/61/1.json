@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 61,
+  "translation": "⟨악사를 인도하는 자에게, 현악에 맞추어⟩, 다윗의",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨악사를 인도하는 자에게⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨…에 맞추어⟩"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "현악"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:26.452841701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "헛것들에게로 돌이키지 말라. 부어 만든 엘로힘을 너희를 위해 만들지 말라. 나 야훼 너희 엘로힘이다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "돌이키지"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "헛것들"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "그리고 엘로힘을"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "부어 만든"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "만들지"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희를 위해"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘이다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:44.001608957Z",
+  "model": "glm-5.2"
+}

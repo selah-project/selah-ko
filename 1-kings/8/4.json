@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그들이 야훼의 아론과 ⟨את⟩ 회막과, ⟨את⟩ 장막 안에 있는 모든 거룩한 기구들을 올렸고, 코헨들과 레위인들이 그것들을 올렸다.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "올렸고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아론"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "아론"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "회막"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "회막"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 거룩한 기구들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "기구들"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "장막 안에 있는"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "올렸다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "레위인들이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:26.203378324Z",
+  "model": "glm-5.2"
+}

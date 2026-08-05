@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "핀하스가 서서 중재하니, 역병이 멈추었다.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "서서"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "핀하스가"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "중재하니"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "멈추었다"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "역병이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:37.941727936Z",
+  "model": "glm-5.2"
+}

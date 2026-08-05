@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "악인들이 내게 올무를 놓았으나, 그대의 명령들에서 내가 빗나가지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "נָתְנ֬וּ",
+      "gloss": "놓았-다"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "악인들이"
+    },
+    {
+      "surface": "פַּ֣ח",
+      "gloss": "올무를"
+    },
+    {
+      "surface": "לִּ֑י",
+      "gloss": "내게"
+    },
+    {
+      "surface": "וּ֝מִפִּקּוּדֶ֗יךָ",
+      "gloss": "그대의 명령들에서"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תָעִֽיתִי",
+      "gloss": "빗나갔-다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:36.463564440Z",
+  "model": "glm-5.2"
+}

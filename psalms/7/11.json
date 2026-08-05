@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "나의 방패는 엘로힘 위에 ⟨있다⟩. 정직한 자들의 마음을 구원하시는 이시다.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "나의 방패는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "구원하시는 이시다"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "정직한 자들의"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:43.997764289Z",
+  "model": "glm-5.2"
+}

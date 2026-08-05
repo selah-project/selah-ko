@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 내가 ⟨את⟩ 나의 손바닥을 거두면, 너는 ⟨את⟩ 나의 뒤를 볼 것이다. 그러나 나의 얼굴은 보이지 아니할 것이다.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "그리고 내가 거두면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 손바닥"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "나의 손바닥"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "너는 볼 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 뒤"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "나의 뒤"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "나의 얼굴은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "보이지 ⟨것이다⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:49.701757024Z",
+  "model": "glm-5.2"
+}

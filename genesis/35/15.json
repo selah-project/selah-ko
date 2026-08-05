@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "야곱이 엘로힘이 ⟨그⟩와 말씀하신 곳의 이름을 ⟨את⟩ 부르니, ⟨그것은⟩ 베이트 엘이었다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "부르니"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이름을"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "곳의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩와"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨그⟩와"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨거기서⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:37.669522213Z",
+  "model": "glm-5.2"
+}

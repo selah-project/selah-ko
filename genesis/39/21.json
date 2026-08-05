@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 야훼는 ⟨את⟩ 요셉과 함께하셨고, 그에게 헤세드를 베푸셨으며, 옥의 관리자의 눈에 그의 헨을 주셨다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 되었다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "베푸셨다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "그의 헨"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…의 눈에"
+    },
+    {
+      "surface": "שר",
+      "gloss": "관리자"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "그 옥"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:26.253715496Z",
+  "model": "glm-5.2"
+}

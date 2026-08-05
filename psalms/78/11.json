@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그리고 그의 위업들과 그가 그들에게 보여 주신 그의 기이한 일들을 잊었다.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "잊었다"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "그의 위업들과"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "그의 기이한 일들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그가⟩"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "그들에게 보여 주신"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:27.115203959Z",
+  "model": "glm-5.2"
+}

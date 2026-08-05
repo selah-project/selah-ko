@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "화, 악을 좋다 하고 좋은 것을 악이라 말하는 자들에게! 어둠을 빛이라 하고 빛을 어둠이라 하는 자들에게! 쓴 것을 달다 하고 단 것을 쓰다 하는 자들에게!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "말하는 자들"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋다"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "그리고 좋은 것을"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악이라"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하는 자들"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠을"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "빛이라"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "그리고 빛을"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "어둠이라"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하는 자들"
+    },
+    {
+      "surface": "מר",
+      "gloss": "쓴 것을"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "달다"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "그리고 단 것을"
+    },
+    {
+      "surface": "למר",
+      "gloss": "쓰다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:18.363434578Z",
+  "model": "glm-5.2"
+}

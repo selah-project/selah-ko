@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 요야다는 ⟨את⟩ 요나탄을 낳았고, 요나탄은 ⟨את⟩ 야두아를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "그리고 요야다는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요나탄을"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "요나탄을"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "요나탄은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야두아를"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "야두아를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:38:58.815248854Z",
+  "model": "glm-5.2"
+}

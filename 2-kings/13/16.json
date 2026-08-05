@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그가 이스라엘 왕에게 말하였다. “당신의 손을 활 위에 얹으라.” 그가 자기 손을 얹자, 엘리샤가 자기 손들을 왕의 손들 위에 얹었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "얹으라"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "당신의 손을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "그 활"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "얹자"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손을"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "얹었다"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤가"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "자기 손들을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "손들"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:26.983039775Z",
+  "model": "glm-5.2"
+}

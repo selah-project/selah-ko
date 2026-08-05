@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "그가 살아 있을 때에 ⟨그의⟩ 네페쉬에게 복을 빌어 주었으니, ⟨사람들이⟩ '네가 네 자신에게 잘해 줄 때에' 너를 찬양할 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…이기 때문이다"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "그의 네페쉬에게"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "그가 살아 있을 때에"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "복을 빌어 주었으니"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "너를 찬양할"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "잘해 줄 때에"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네가 네 자신에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:37.156819686Z",
+  "model": "glm-5.2"
+}

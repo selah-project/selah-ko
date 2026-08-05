@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "다윗이 오르난에게 이르렀고, 오르난이 바라보다가 ⟨את⟩ 다윗을 보고 타작마당에서 나와 얼굴을 땅에 대고 다윗에게 엎드렸다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "이르렀고"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "에게"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "오르난"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "바라보다가"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "오르난이"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나와"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "타작마당"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "엎드렸다"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에 대고"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:07.639567769Z",
+  "model": "glm-5.2"
+}

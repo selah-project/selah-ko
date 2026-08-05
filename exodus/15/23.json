@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그들이 마라에 이르렀으나, 마라의 물을 마실 수 없었으니, 그것이 쓰기 때문이다. 그러므로 그 곳의 이름을 마라라 불렀다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "이르렀으나"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "마라에"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "~못"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "할 수"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "마실"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "마라의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "쓰다"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그 곳의"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "마라라"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:01.706468689Z",
+  "model": "glm-5.2"
+}

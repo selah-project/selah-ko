@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "다만 너희는 날아다니는 모든 작은 생물 중 네 발로 다니는 것 가운데서, 그 다리 위에 뛰는 다리가 있어 그것으로 땅 위에서 뛰는 것은 ⟨את⟩ 이것을 먹어도 된다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "다만"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이것"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희는 먹어도 된다"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 … 중에서"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "작은 생물"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "날아다니는"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "다니는"
+    },
+    {
+      "surface": "על",
+      "gloss": "~ 위에"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "네"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "∼이 있는"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "뛰는 다리"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "그것의 발"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "뛰기 위하여"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "그것들로"
+    },
+    {
+      "surface": "על",
+      "gloss": "~ 위에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:57.230544180Z",
+  "model": "glm-5.2"
+}

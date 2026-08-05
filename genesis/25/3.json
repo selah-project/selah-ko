@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "욕산은 ⟨את⟩ 쉐바와 ⟨את⟩ 데단을 낳았고, 데단의 아들들은 아슈림과 레투심과 레움밈이다.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "욕산은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쉐바"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "쉐바와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "데단"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "데단을"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "데단의"
+    },
+    {
+      "surface": "היו",
+      "gloss": "이다"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "아슈림과"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "레투심과"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "레움밈이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:34.431681179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 8:23",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 잡았다. 모셰가 그것의 피에서 취하여 아론의 오른쪽 귀의 뭉치와 그의 오른손의 엄지와 그의 오른발의 엄지 위에 주었다.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "그리고 잡았다"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "그것의 피에서"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위에"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "뭉치"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "귀"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ～위에"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "엄지"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ～위에"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "엄지"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "그의 발"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:43.828329316Z",
+  "model": "glm-5.2"
+}

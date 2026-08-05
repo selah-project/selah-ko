@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 야훼께서 므나쎄와 ⟨그의⟩ 백성에게 말씀하셨으나, 그들이 귀를 기울이지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하셨으나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "므나쎄"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ⟨에게⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "백성"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "귀를 기울이지"
+    }
+  ],
+  "timestamp": "2026-08-05T13:02:11.399606950Z",
+  "model": "glm-5.2"
+}

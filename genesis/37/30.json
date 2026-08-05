@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그가 자기 형제들에게로 돌아가서 말하였다. \"그 아이가 없습니다. 나는 어디로 가오리이까?\"",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아가서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "자기 형제들"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "그 아이가"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "없습니다"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "어디로"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "בא",
+      "gloss": "가오리이까"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:28.794507039Z",
+  "model": "glm-5.2"
+}

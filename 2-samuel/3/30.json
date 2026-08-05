@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "요아브와 그의 형제 아비새가 아브네르를 죽였으니, 이는 그가 그들의 형제 아사엘을 ⟨את⟩ 전쟁에서 기브온에서 죽였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "그리고 아비새가"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "죽였으니"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "아브네르를"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "이는"
+    },
+    {
+      "surface": "המית",
+      "gloss": "죽였기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아사엘"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "아사엘"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "그들의 형제"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "기브온에서"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "전쟁에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:19.515001527Z",
+  "model": "glm-5.2"
+}

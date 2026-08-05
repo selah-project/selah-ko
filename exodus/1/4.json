@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "단, 그리고 납달리, 갓, 그리고 아셀.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "단,"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "그리고 납달리,"
+    },
+    {
+      "surface": "גד",
+      "gloss": "갓,"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 아셀."
+    }
+  ],
+  "timestamp": "2026-08-05T07:45:40.001480518Z",
+  "model": "glm-5.2"
+}

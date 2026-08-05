@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "어찌하여 야훼, 저의 네페쉬를 내버리시며, 저에게서 ⟨그대의⟩ 얼굴을 숨기시나이까?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "내버리시며"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "저의 네페쉬를"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "숨기시나이까"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨그대의⟩ 얼굴을"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "저에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:57.432343776Z",
+  "model": "glm-5.2"
+}

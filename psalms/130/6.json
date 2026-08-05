@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 130,
+  "translation": "나의 네페쉬는 ⟨아도나이를 기다린다⟩, 아침을 지키는 자들보다 더, 아침을 지키는 자들을.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬는"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "아도나이께"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "지키는 자들보다"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "아침을"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "지키는 자들을"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "아침을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:21.301372205Z",
+  "model": "glm-5.2"
+}

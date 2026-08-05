@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 101,
+  "translation": "비뚤어진 마음은 나에게서 떠나리니, 악을 나는 알지 아니하리이다.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "비뚤어진"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "떠나리니"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하리이다"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "알지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:25.323040248Z",
+  "model": "glm-5.2"
+}

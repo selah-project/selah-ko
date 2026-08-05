@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 36:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 바룩이 그 책에서 ⟨את⟩ 예레미야의 말씀들을 읽었다, 야훼의 집에서, 서기관 샤판의 아들 그마랴의 방에서, 높은 뜰에서, 야훼의 집의 새 문 어귀에서, 온 백성의 귀에.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 …이 읽었다"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "바룩"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "그 책에서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예레미야의 말씀들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…의 말씀들을"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예레미야"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "…의 방에서"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "그마랴"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "샤판"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "서기관"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "…의 뜰에서"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "높은"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "…의 어귀에서"
+    },
+    {
+      "surface": "שער",
+      "gloss": "…의 문"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "새"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "…의 귀에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    }
+  ],
+  "timestamp": "2026-08-05T10:39:44.448437855Z",
+  "model": "glm-5.2"
+}

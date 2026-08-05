@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 너희가 나를 찾으면, ⟨나를⟩ 찾아내리라. 너희가 온 마음으로 나를 구할 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "그리고 너희가 찾으면"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "그리고 ⟨너희가⟩ 찾아내리라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "너희가 나를 구할 것이다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "마음으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:37:20.963535732Z",
+  "model": "glm-5.2"
+}

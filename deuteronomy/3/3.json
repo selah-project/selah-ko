@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼 우리 엘로힘께서 ⟨את⟩ 바산 왕 독과 ⟨את⟩ 그의 온 백성을 우리 손에 넘겨주셨다. 우리는 그를 쳐서 남겨진 자가 없기까지 치셨다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "넘겨주셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘이"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "우리 손에"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바산 왕 독을"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "독을"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "바산의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 온 백성을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성을"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "그래서 우리는 그를 쳤다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "⟨없기⟩"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "남겨둔"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "남겨진 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:47.024821333Z",
+  "model": "glm-5.2"
+}

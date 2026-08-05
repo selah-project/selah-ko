@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "대신 야훼께서 ⟨את⟩ 이스라엘의 고통을 보셨으니, 매우 쓰디쓴 것이었다 — 갇힌 자도, 놓인 자도 없었고, 이스라엘을 도울 자가 없었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대신"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보셨으니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 고통을"
+    },
+    {
+      "surface": "עני",
+      "gloss": "고통"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "쓰디쓴"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "없었고"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "갇힌 자도"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "없었고"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "놓인 자도"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없었기 때문이다"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "도울 자"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:02:10.303107959Z",
+  "model": "glm-5.2"
+}

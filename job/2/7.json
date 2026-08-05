@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리하여 사탄이 야훼의 면전에서 나가서, ⟨את⟩ 아이욥을 악성 종기로 쳤으니, 그의 발바닥부터 그의 정수리까지였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나가서"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "사탄이"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "에서"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면전"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "쳤으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아이욥을"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "아이욥을"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "종기로"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악성"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "발바닥부터"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "그의 발"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "그의 정수리"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:03.003040245Z",
+  "model": "glm-5.2"
+}

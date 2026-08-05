@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 파르오가 자신의 온 백성에게 명령하여 말하기를, \"나일 강에 태어나는 아들마다 너희는 그를 던져라. 그러나 딸마다는 살려 두어라\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 …이 명령하였다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "온 …에게"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "자신의 백성"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "…마다"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "태어나는"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "나일 강에"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "너희는 그를 던져라"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그러나 …마다"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "살려 두어라"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:27.951412518Z",
+  "model": "glm-5.2"
+}

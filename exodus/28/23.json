@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 ⟨너는⟩ 흉패 위에 금 고리 둘을 만들 ⟨것이다⟩, 그리고 ⟨너는⟩ ⟨את⟩ 그 고리 둘을 흉패의 두 끝에 ⟨놓을 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 만들 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "그 흉패"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "둘"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "고리"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "그리고 너는 놓을 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 고리 둘을"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "둘"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "그 고리를"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "끝"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "그 흉패의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:22.522677700Z",
+  "model": "glm-5.2"
+}

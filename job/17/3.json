@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "제게 보증을 놓아 주십시오 — 당신과 함께, 누가 ⟨그⟩입니까? 내 손에 ⟨보증의 손을⟩ 부딪을 자가.",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "놓아 주십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제게"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "보증을"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신과 함께"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "내 손에"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "부딪을 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:14.321241367Z",
+  "model": "glm-5.2"
+}

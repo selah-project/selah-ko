@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "이스라엘의 아들들이 마른 땅 위를 바다 한가운데로 들어갔다. 그리고 물들은 그들의 오른편과 왼편에城墙이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "마른 땅 위를"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "그리고 물들은"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들의"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "城墙이"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "오른편과"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "왼편에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:00.939776690Z",
+  "model": "glm-5.2"
+}

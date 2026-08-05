@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "어찌하여 유려해 하는가, 내 네페쉬야, 어찌하여 내 안에서 요동하는가. 엘로힘을 바라라, 내가 그를 찬양할 것임에, 그의 얼굴의 구원들을.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "유려해 하는가"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬야"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "어찌하여 요동하는가"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 안에서"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "바라라"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "—할 것임에"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "내가 그를 찬양할"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "구원들을"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:42.268756221Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 너는 ⟨את⟩ 그 남자, 그 사람, 혹은 ⟨את⟩ 그 여자, 그 사람을 — 곧 ⟨את⟩ 이 악한 일을 행한 자를 — 네 성문 밖으로 끌어내되, ⟨את⟩ 그 남자 혹은 ⟨את⟩ 그 여자를 끌어내고, 돌로 그들을 돌로 치라, 그리하면 그들이 죽으리라.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "그리고 너는 끌어내되"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 남자"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 남자를"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그 사람을"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 여자"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여자를"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그 사람을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 악한 일"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "이 악한"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "네 성문 밖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 남자"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 남자를"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 여자"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여자를"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "그리고 너는 돌로 치라"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "돌로"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "그리고 그들이 죽으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:14.908612509Z",
+  "model": "glm-5.2"
+}

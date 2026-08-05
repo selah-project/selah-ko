@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 그들이 아침에 일찍 일어났는데, 해가 그 물 위에 비추고, 모아브가 맞은편에서 ⟨את⟩ 그 물을 피 같이 붉은 것을 보았다.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "그리고 일찍 일어났는데"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "그리고 해가"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "비추고"
+    },
+    {
+      "surface": "על",
+      "gloss": "∼위에"
+    },
+    {
+      "surface": "המים",
+      "gloss": "그 물"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브가"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "맞은편에서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 물을"
+    },
+    {
+      "surface": "המים",
+      "gloss": "그 물을"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "붉은 것을"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "피 같이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:43.547804505Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "예루샬라임 위에 ⟨있는⟩ 네 성전에서 왕들이 ⟨너에게⟩ 예물을 가져올 것이다. 셀라.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "네 성전에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "가져올 것이다"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "שי",
+      "gloss": "예물을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:09.691998468Z",
+  "model": "glm-5.2"
+}

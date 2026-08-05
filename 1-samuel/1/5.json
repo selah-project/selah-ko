@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨그녀⟩ 한나에게는 몫 하나를 얼굴 몫으로 주었으니, 이는 그가 ⟨את⟩ 한나를 사랑하였기 때문이고, 야훼는 그녀의 자궁을 닫으셨다.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "그리고 한나에게는"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "몫"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "한나"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "한나를"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하였기 때문이고"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "그리고 야훼는"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "닫으셨다"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "그녀의 자궁을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:21:45.634461672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "모셰가 파르오에게서 ⟨את⟩ 그 성을 나와 자기 손바닥을 야훼를 향해 펼쳤더니, 천둥소리들과 우박이 그치고 비가 땅에 쏟아지지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나가"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 성을"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "펼쳤더니"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "자기 손바닥을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향해"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "그치고"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "천둥소리들이"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "우박이"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "비가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "쏟아지지"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:40.105184430Z",
+  "model": "glm-5.2"
+}

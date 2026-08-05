@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이스라엘 자손이 ⟨את⟩ 바알들과 ⟨את⟩ 아쉬타롯을 치워 버렸다. 그리고 그들은 야훼만을 섬겼다.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "치워 버렸다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바알들"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "바알들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아쉬타롯"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "아쉬타롯을"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "섬겼다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "만을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:24:35.659611688Z",
+  "model": "glm-5.2"
+}

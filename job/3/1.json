@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그 후에 아이욥이 ⟨את⟩ 자기 입을 열고 ⟨את⟩ 자기 날을 저주하였다.",
+  "tokens": [
+    {
+      "surface": "אַחֲרֵי",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "그"
+    },
+    {
+      "surface": "פָּתַח",
+      "gloss": "열고"
+    },
+    {
+      "surface": "אִיּוֹב",
+      "gloss": "아이욥이"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "자기 입을"
+    },
+    {
+      "surface": "פִּיהוּ",
+      "gloss": "자기 입을"
+    },
+    {
+      "surface": "וַיְקַלֵּל",
+      "gloss": "저주하였다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "자기 날을"
+    },
+    {
+      "surface": "יוֹמוֹ",
+      "gloss": "자기 날을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:21.416247707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "당신의 여종을 벨리알의 딸 같이 여기지 마십시오. 오직 저의 탄식과 저의 분노가 많음으로 인하여 제가 지금까지 말하였습니다.\"",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…마십시오"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "여기지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 여종을"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "당신의 여종을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…앞에"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "벨리알"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "…많음으로 인하여"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "저의 탄식"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "저의 분노가"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "말하였습니다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "지금"
+    }
+  ],
+  "timestamp": "2026-08-05T13:44:58.436632992Z",
+  "model": "glm-5.2"
+}

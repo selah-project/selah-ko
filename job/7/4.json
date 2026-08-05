@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내가 눕고, 내가 말한다, 내가 언제 일어나랴, 그리고 저녁이 재어졌고, 뒤척임으로 배부르니, 새벽바람까지.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "…하면"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "내가 눕고,"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "그리고 내가 말한다,"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "내가 일어나랴,"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "그리고 재어졌고,"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "저녁이"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "그리고 배부르니,"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "뒤척임으로"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "새벽바람"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:02.068239596Z",
+  "model": "glm-5.2"
+}

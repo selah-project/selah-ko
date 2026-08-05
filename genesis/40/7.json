@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그가 ⟨את⟩ 파르오의 내시들에게 — 그의 주인의 집 감옥에 그와 함께 있는 자들에게 — 물으며 말하였다. \"오늘 당신들의 얼굴이 어찌하여 침울한가?\"",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "그가 물었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오의 내시들"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "내시들"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "감옥에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "당신들의 얼굴이"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "침울한가"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:25.302607020Z",
+  "model": "glm-5.2"
+}

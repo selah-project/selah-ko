@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그 때에 여호수아가 야훼, 이스라엘의 엘로힘의 제단을 에발 산에 쌓았다.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "그 때에"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "쌓았다"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "에발"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:18.217445949Z",
+  "model": "glm-5.2"
+}

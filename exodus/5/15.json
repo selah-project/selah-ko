@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 이스라엘 아들들의 맡은 자들이 들어가서 파르오에게 부르짖으며 말하되, 어찌하여 그대는 당신의 종들에게 이같이 하십니까?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 들어가서"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "맡은 자들이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "부르짖으며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "하십니까"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "당신의 종들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:14.143701542Z",
+  "model": "glm-5.2"
+}

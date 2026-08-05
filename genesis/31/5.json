@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 그가 그들에게 말하였다. \"내가 ⟨את⟩ 아버지의 얼굴을 보니, 전처럼 나에게 호의적이지 않으시다. 그러나 내 아버지의 엘로힘은 나와 함께하셨다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "להן",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보니"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아버지의 얼굴"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "아니시다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "전처럼"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "(그리고 어제그제처럼)"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "그리고 엘로힘"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지의"
+    },
+    {
+      "surface": "היה",
+      "gloss": "함께하셨다"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "나와"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:45.761937622Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그녀가 말하였다. \"당신들의 말씀대로 그렇게 ⟨합니다⟩.\" 그녀는 그들을 보내니, 그들이 가고, 그녀는 ⟨את⟩ 붉은 줄을 창문에 매었다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "당신들의 말씀대로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이다"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "그녀는 그들을 보내니"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "그들이 가고"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "그녀는 매었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "붉은 줄을"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "줄"
+    },
+    {
+      "surface": "השני",
+      "gloss": "붉은"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "창문에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:04.648644740Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "요르단강 건너편, 모아브 땅에서 모셰가 ⟨את⟩ 이 토라를 설명하기를 시작하였다. 말씀하되,",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "건너편에서"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "∼하기를 시작하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "בא르",
+      "gloss": "설명하다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 토라"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하되"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:17.431070159Z",
+  "model": "glm-5.2"
+}

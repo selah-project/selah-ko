@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "가서, 그들에게 말하여라: '너희 장막으로 돌아가라.'",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "너희 장막으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:15.320667072Z",
+  "model": "glm-5.2"
+}

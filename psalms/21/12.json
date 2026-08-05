@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그들이 당신을 향해 악을 기울였기 때문에 — 그들은 꾀를 경영하였으나, 전혀 능히 하지 못하리이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "그들이 기울였기"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "당신을 향해"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "그들이 경영하였으나"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "꾀를"
+    },
+    {
+      "surface": "בל",
+      "gloss": "전혀"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "능히 하지 못하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:56.030350171Z",
+  "model": "glm-5.2"
+}

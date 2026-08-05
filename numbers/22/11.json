@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 22:11",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "'보라, 미츠라임에서 나온 그 백성이 땅의 눈을 덮으니, 이제 오라, 나를 위하여 그를 저주하라. 내가 어쩌면 그와 싸워서 그를 쫓아낼 수 있을까 하노라.'",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "나온"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "덮으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅의 눈을"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "오라"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "저주하라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "어쩌면"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "수 있을까"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "싸워서"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그와"
+    },
+    {
+      "surface": "וגרשתיו",
+      "gloss": "그를 쫓아낼"
+    }
+  ],
+  "timestamp": "2026-08-05T08:41:19.701734267Z",
+  "model": "glm-5.2"
+}

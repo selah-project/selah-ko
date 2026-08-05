@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "모셰가 손을 들면 이스라엘이 강하였고, 모셰가 손을 내리면 아말렉이 강하였다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리되었다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "때"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "들면"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "손을"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "강하였고"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "그리고 때"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "내리면"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "손을"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "강하였다"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "아말렉이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:04.483689264Z",
+  "model": "glm-5.2"
+}

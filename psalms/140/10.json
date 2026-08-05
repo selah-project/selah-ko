@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 140,
+  "translation": "나를 에워싼 자들의 머리 위에는, 그들의 입술의 재앙이 그들을 덮기를.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "나를 에워싼 자들의"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "재앙이"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "그들의 입술의"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "그들을 덮기를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:37.082195629Z",
+  "model": "glm-5.2"
+}

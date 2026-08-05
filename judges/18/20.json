@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "코헨의 마음이 기뻐하였다. 그가 ⟨את⟩ 에폿과 ⟨את⟩ 테라핌과 ⟨את⟩ 페셀을 가져서, 백성의 한가운데로 들어갔다.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "기뻐하였다"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨의"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "그가 가져서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에폿"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "에폿"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "테라핌"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "테라핌"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "페셀"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "페셀"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데로"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:13:08.447861220Z",
+  "model": "glm-5.2"
+}

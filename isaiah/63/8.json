@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "그리고 그가 말씀하셨다. \"진실로 그들은 내 백성이요, 거짓을 말하지 않는 아들들이라\" 하시니, 그가 그들에게 구원자가 되셨다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 그가 말씀하셨다"
+    },
+    {
+      "surface": "אך",
+      "gloss": "진실로"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성이"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "거짓을 말하는"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 그가 ～이 되셨다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "구원자가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:48.979568218Z",
+  "model": "glm-5.2"
+}

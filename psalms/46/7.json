@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "열방이 떠들썩하였고, 왕국들이 흔들렸다. ⟨그분이⟩ ⟨그⟩ 목소리를 내시매, 땅이 녹았다.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "떠들썩하였고"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "열방이"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "흔들렸다"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "왕국들이"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "내시매"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "⟨그⟩ 목소리를"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "녹았다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:53.802547590Z",
+  "model": "glm-5.2"
+}

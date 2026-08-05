@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "부디 내가 사람의 얼굴을 들어주지 않게 하시고, 사람에게 아첨하는 칭호를 붙이지 않겠다.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "말지"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "אֶשָּׂא",
+      "gloss": "내가 들어주지"
+    },
+    {
+      "surface": "פְנֵי",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "그리고 ⟨...에게⟩"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אֲכַנֶּה",
+      "gloss": "내가 칭호를 붙이겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:46.618541356Z",
+  "model": "glm-5.2"
+}

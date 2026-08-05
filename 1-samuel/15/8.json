@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 아말렉의 왕 아가그를 산 채로 붙잡고, ⟨את⟩ 온 백성은 칼날의 입으로 진멸하였다.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "붙잡고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아가그를"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "아가그"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "아말렉의"
+    },
+    {
+      "surface": "חי",
+      "gloss": "산 채로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "온 백성은"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성은"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "진멸하였다"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "…의 입으로"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼날"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:24.343092798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 2:33",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "어찌하여 너는 네 길을 곱게 꾸며 사랑을 구하느냐. 그러므로 ⟨곧⟩ ⟨את⟩ 악한 것들을 — 네 길들을 ⟨아울러⟩ 가르쳤다.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "תיטבי",
+      "gloss": "곱게 꾸미느냐"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "네 길을"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "구하느냐"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "사랑을"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "גם",
+      "gloss": "아울러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "악한 것들을"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "악한 것들을"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "가르쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 길들을"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "네 길들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:26:42.050311552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그가 야훼의 눈에 악을 행하였으나, 다만 자기보다 먼저 있었던 이스라엘 왕들 같지는 ⟨않았다⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "왕들 같이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…들이"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었던"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그보다 먼저"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:39.712147750Z",
+  "model": "glm-5.2"
+}

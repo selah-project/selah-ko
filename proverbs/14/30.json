@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "치유하는 마음은 살들의 생명이요, ⟨그리고⟩ 질투는 뼈들의 부식이다.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "생명"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "살들"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "치유하는"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "그리고 부식"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "뼈들"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "질투"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:21.732047176Z",
+  "model": "glm-5.2"
+}

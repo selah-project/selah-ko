@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 2:3",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 예리코의 왕이 라합에게 보내어 말하였다: \"나에게, 네 집에 들어온 그 사람들을 내어내라 — 그들이 ⟨את⟩ 온 땅을 탐지하러 왔기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내어"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "예리코의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "라합"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הוציאי",
+      "gloss": "내어내라"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들을"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "들어온"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "באו",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "네 집에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "탐지하러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 땅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "באו",
+      "gloss": "왔기"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:17.914251564Z",
+  "model": "glm-5.2"
+}

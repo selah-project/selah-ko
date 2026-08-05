@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 100,
+  "translation": "기쁨으로 ⟨את⟩ 야훼를 섬기고, 환호하며 ⟨그⟩ 앞에 나아가라.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "섬기고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "기쁨으로"
+    },
+    {
+      "surface": "באו",
+      "gloss": "나아가라"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨그⟩ 앞에"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "환호하며"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:05.792190186Z",
+  "model": "glm-5.2"
+}

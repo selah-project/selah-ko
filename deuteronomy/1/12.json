@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "내가 어찌 혼자서 너희의 무거운 짐과 너희의 짐과 너희의 다툼을 감당할 수 있으랴?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "감당하랴"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "나 혼자서"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "너희의 수고"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "너희의 짐"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "너희의 다툼"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:01.128807098Z",
+  "model": "glm-5.2"
+}

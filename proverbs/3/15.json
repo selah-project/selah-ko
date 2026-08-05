@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 3:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그녀는 산호보다 귀중하다, 네가 바라는 ⟨모든⟩ 것들이 그녀와 ⟨견줄 수⟩ 없기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "יְקָ֣רָה",
+      "gloss": "귀중하다"
+    },
+    {
+      "surface": "הִ֭יא",
+      "gloss": "그녀는"
+    },
+    {
+      "surface": "מִפְּנִינִּֽים",
+      "gloss": "산호보다"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חֲ֝פָצֶ֗יךָ",
+      "gloss": "네가 바라는 것들이"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "없기"
+    },
+    {
+      "surface": "יִֽשְׁווּ",
+      "gloss": "견줄 수"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "그녀와"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:15.132549793Z",
+  "model": "glm-5.2"
+}

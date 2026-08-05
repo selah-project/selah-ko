@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "악인들 위에 불과 유황과 맹렬한 돌개바람의 그물을 비처럼 내리실 것임이 ⟨그것이⟩ 그들의 잔의 몫이다.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "비처럼 내리실 것임이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "그물을"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불과"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "유황과"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "바람"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "맹렬한 돌개바람의"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "몫이다"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "그들의 잔의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:37.373080691Z",
+  "model": "glm-5.2"
+}

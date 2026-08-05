@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 32:9",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 나는 ⟨아버지의 형제의⟩ 아들인 하나멜에게서 ⟨את⟩ 그 밭을 샀으니, 그것은 아나톳에 있는 것이었다. 그리고 나는 그에게 ⟨את⟩ 그 은을 달아 주었으니, 일곱 세겔과 열 ⟨세겔의⟩ 은이었다.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "그리고 나는 샀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 밭을"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "그 밭"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "~에게서"
+    },
+    {
+      "surface": "חנמאל",
+      "gloss": "하나멜"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "나의 아버지의 형제"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은 ~에 있는"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "아나톳"
+    },
+    {
+      "surface": "ואשקלה",
+      "gloss": "그리고 나는 달아 주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 은을"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "그 은"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "세겔"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "그리고 열"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은"
+    }
+  ],
+  "timestamp": "2026-08-05T10:38:31.444891572Z",
+  "model": "glm-5.2"
+}

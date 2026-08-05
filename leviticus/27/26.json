@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "오직 처음 난 것은 — 가축 중에서 야훼께 처음 날 것이 — 아무도 ⟨את⟩ 그것을 거룩하게 구별하지 못한다: 소이든 양이든, 그것은 야훼의 것이다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "처음 난 것은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "처음 날 것이"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "가축 중에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "거룩하게 구별하지"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "אם",
+      "gloss": "이든"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소"
+    },
+    {
+      "surface": "אם",
+      "gloss": "이든"
+    },
+    {
+      "surface": "שה",
+      "gloss": "양"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:26:33.929455030Z",
+  "model": "glm-5.2"
+}

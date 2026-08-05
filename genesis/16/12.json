@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 16:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "\"그는 들나귀 같은 사람이 되리니, 그의 손이 모든 것을 향하고, 모든 사람의 손이 그를 향하며; 그는 모든 형제들의 얼굴 앞에 거하리라.\"",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "되리니"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "들나귀"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손이"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든 것을 향하고"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "그리고 ~의 손이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 사람의"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를 향하며"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ~위에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "형제들의"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "거하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:50.141051341Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "지휘자에게, 코라흐 자손에게, 알라모트에 따라, 노래.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "자손에게"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "על",
+      "gloss": "따라"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "알라모트"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:47.947556042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 나는 ⟨את⟩ 그것이 마지막 날들에 당신의 백성에게 일어날 일을 당신에게 깨닫게 하려고 왔으니, 이는 아직 날들을 위한 환상이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "그리고 나는 왔다"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "당신에게 깨닫게 하려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것이 … 일어날 일(관계절 내용 전체)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "일어날 일을"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "당신의 백성에게"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "마지막에"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날들의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "환이다"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "날들을 위한"
+    }
+  ],
+  "timestamp": "2026-08-05T12:30:05.640651117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 28:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "이자와 ⟨그리고⟩ 고리대금으로 ⟨그⟩ 재물을 늘이는 자, ⟨그것⟩을 가난한 ⟨사람⟩에게 은혜를 베푸는 자를 위해 거두어들인다.",
+  "tokens": [
+    {
+      "surface": "מרבה",
+      "gloss": "늘이는"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "그의 재물을"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "이자로"
+    },
+    {
+      "surface": "ובתרבית",
+      "gloss": "그리고 고리대금으로"
+    },
+    {
+      "surface": "לחונן",
+      "gloss": "은혜 베푸는 자를 위해"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "가난한"
+    },
+    {
+      "surface": "יקבצנו",
+      "gloss": "거두어들인다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:49.664204414Z",
+  "model": "glm-5.2"
+}

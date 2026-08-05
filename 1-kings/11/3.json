@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그에게 왕비 칠백 명과 첩 삼백 명이 있었으니, 그의 아내들이 ⟨את⟩ 그의 마음을 기울였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 있었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "여인들이"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "왕비들"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "그리고 첩들이"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "셋"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "그리고 기울였다"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "그의 아내들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 마음"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:29.298840654Z",
+  "model": "glm-5.2"
+}

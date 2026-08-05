@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "네게 있는데도 네 이웃에게 \"가라, 그리고 돌아오라, 내일 내가 주겠다\" 하고 말하지 말라.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תֹּ֘אמַ֤ר",
+      "gloss": "말하지"
+    },
+    {
+      "surface": "לְרֵעֶ֒ךָ֒",
+      "gloss": "네 이웃에게"
+    },
+    {
+      "surface": "לֵ֣ךְ",
+      "gloss": "가라"
+    },
+    {
+      "surface": "וָשׁ֗וּב",
+      "gloss": "그리고 돌아오라"
+    },
+    {
+      "surface": "וּמָחָ֤ר",
+      "gloss": "그리고 내일"
+    },
+    {
+      "surface": "אֶתֵּ֨ן",
+      "gloss": "내가 주겠다"
+    },
+    {
+      "surface": "וְיֵ֣שׁ",
+      "gloss": "그리고 있다"
+    },
+    {
+      "surface": "אִתָּֽךְ",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:09.594787248Z",
+  "model": "glm-5.2"
+}

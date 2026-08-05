@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "오직 확고히 하라 — 피를 먹지 않도록. 피가 곧 네페쉬이기 때문이다. 그러므로 네페쉬를 고기와 함께 먹지 말라.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "오직"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "확고히 하라"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "∼하지 않도록"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹는 것을"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "그 피를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "그 피가"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "곳"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "그 네페쉬이다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "∼하지 말라"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "너는 먹지"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "그 네페쉬를"
+    },
+    {
+      "surface": "עם",
+      "gloss": "∼과 함께"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "그 고기"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:08.919482592Z",
+  "model": "glm-5.2"
+}

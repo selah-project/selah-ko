@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼의 말씀, 곧 요엘에게 — 브두엘의 아들 — 임하였던 것이 ⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "דְּבַר",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "הָיָ֔ה",
+      "gloss": "임하였던"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יוֹאֵ֖ל",
+      "gloss": "요엘"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "פְּתוּאֵֽל",
+      "gloss": "브두엘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:08:18.897356805Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 20:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "다윗이 예호나탄에게 말하였다. \"보라, 내일은 초하루⟨달⟩이고, 나는 왕과 함께 앉아 먹어야 합니다. 그러니 ⟨나를⟩ 보내 주시오, 그러면 내가 셋째 저녁까지 들에서 숨어 있겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "예호나탄"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "초하루달이고"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "내일은"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "앉아"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "앉아야"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕과"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "먹어야"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "보내 주시오"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "숨어 있겠습니다"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "저녁"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "셋째"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:24.317830811Z",
+  "model": "glm-5.2"
+}

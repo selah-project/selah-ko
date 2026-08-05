@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "요셉이 파르오를 위해 ⟨את⟩ 미츠라임의 모든 땅을 샀으니, 이는 미츠라임 사람들이 각자 자기 밭을 팔았기 때문이다 — 그들 위에 기근이 맹렬하였으므로 — 그리하여 그 땅이 파르오의 것이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "그가 샀다"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 땅을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "…의 땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "파르오를 위해"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "그들이 팔았다"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임 사람들이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "자기 밭을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "맹렬하였다"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "기근이"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그리하여 …이 되었다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:35:47.064378228Z",
+  "model": "glm-5.2"
+}

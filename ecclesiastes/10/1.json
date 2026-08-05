@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "죽은 파리들이 향유 만드는 이의 기름에서 악취를 솟아나게 하듯, 적은 어리석음이 지혜와 영광보다 귀하다.",
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "파리들이"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽은"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "악취를 내다"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "솟아나게 하다"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "향유 만드는 이"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "귀하다"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "지혜보다"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "영광보다"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "어리석음"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "적은"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:05.183524351Z",
+  "model": "glm-5.2"
+}

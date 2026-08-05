@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼 엘로힘이 ⟨את⟩ 그 사람을 데려가시어, 에덴 동산에 두시어 그것을 섬기고 그것을 지키게 하셨다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "데려가셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "그 사람을"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "두시어"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "동산에"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "에덴"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "그것을 섬기게"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "그리고 그것을 지키게"
+    }
+  ],
+  "timestamp": "2026-08-05T19:33:57.823877785Z",
+  "model": "glm-5.2"
+}

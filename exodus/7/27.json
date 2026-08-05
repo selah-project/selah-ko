@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "\"그리고 만일 네가 보내기를 거절하면, 보라, 내가 ⟨את⟩ 네 온 영토를 개구리들로 치리라.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "거절하면"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "보내기를"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "치리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 온 영토"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "네 영토"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "개구리들로"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:53.791030191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "제가 부르다 지쳐, 목이 타들어가고, 눈이 다 쇠하여, 제 엘로힘을 기다립니다.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "저는 지쳤습니다"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "부르다"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "타들어가고"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "목이"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "다 쇠하여"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "기다립니다"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "제 엘로힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:11.586085590Z",
+  "model": "glm-5.2"
+}

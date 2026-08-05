@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 15:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그들이 아일림에 이르렀다. 거기에 물샘 열둘과 종려나무 칠십 그루가 있었다. 그들이 거기 물들 곁에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 이르렀다"
+    },
+    {
+      "surface": "אילמה",
+      "gloss": "아일림에"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 거기에"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "열둘"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(십이)"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "물샘"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "그리고 칠십"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "종려나무"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "그들이 진을 쳤다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "על",
+      "gloss": "곁에"
+    },
+    {
+      "surface": "המים",
+      "gloss": "그 물들"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:12.705274236Z",
+  "model": "glm-5.2"
+}

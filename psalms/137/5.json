@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 137,
+  "translation": "만일 내가 너를 잊으면, 예루샬라임아, 내 오른손이 잊기를.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "내가 너를 잊으면"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임아"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "잊기를"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "내 오른손이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:23:09.551579560Z",
+  "model": "glm-5.2"
+}

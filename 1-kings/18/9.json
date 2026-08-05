@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그가 말하였다. \"내가 무엇을 잘못하였기에, 당신이 ⟨את⟩ 당신의 종을 아합의 손에 넘겨 죽이게 하십니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "내가 잘못하였기에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "넘겨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종을"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종을"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아합의"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "죽이게 하십니까"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:20.707933491Z",
+  "model": "glm-5.2"
+}

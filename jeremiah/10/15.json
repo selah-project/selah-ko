@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "허블, 그들은 속임의 작품이다. 그들이 처벌받을 때에 그들은 멸망할 것이다.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "허블"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "작품이다"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "속임의"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "그들이 처벌받을"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "그들은 멸망할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:30:03.634101687Z",
+  "model": "glm-5.2"
+}

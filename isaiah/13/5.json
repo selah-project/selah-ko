@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "먼 땅에서, 하늘 끝에서 오는 자들, 야훼와 ⟨그분의⟩ 진노의 도구들이 온 땅을 황폐하게 하려고 ⟨오노라⟩.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "오는 자들"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "먼"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "끝에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "그리고 도구들"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "그분의 진노"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "황폐하게 하려고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:19.153209041Z",
+  "model": "glm-5.2"
+}

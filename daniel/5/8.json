@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그때 왕의 모든 현인들이 들어왔으나, 그들은 그 글을 읽을 수도, 왕에게 그 해석을 알려 줄 수도 없었다.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "그때"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "현인들이"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 ~못했다"
+    },
+    {
+      "surface": "כהלין",
+      "gloss": "할 수 있었다"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "글을"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "읽을"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "그리고 해석을"
+    },
+    {
+      "surface": "להודעה",
+      "gloss": "알려 줄"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "왕에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:26:45.232622987Z",
+  "model": "glm-5.2"
+}

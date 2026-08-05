@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "폭풍을 고요히 세워 놓으시니, 그들의 파도는 잠잠하여졌다.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "세우셨다"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "폭풍을"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "고요히"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "잠잠하여졌다"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "그들의 파도는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:12.172008558Z",
+  "model": "glm-5.2"
+}

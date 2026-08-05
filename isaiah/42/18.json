@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "귀먹은 자들아, 들으라. 그리고 눈먼 자들아, 보려고 눈을 들어라.",
+  "tokens": [
+    {
+      "surface": "הַחֵרְשִׁ֖ים",
+      "gloss": "귀먹은 자들아"
+    },
+    {
+      "surface": "שְׁמָ֑עוּ",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "והַעִוְרִ֖ים",
+      "gloss": "그리고 눈먼 자들아"
+    },
+    {
+      "surface": "הַבִּ֥יטוּ",
+      "gloss": "눈을 들어라"
+    },
+    {
+      "surface": "לִרְאֽוֹת",
+      "gloss": "보려고"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:36.611129320Z",
+  "model": "glm-5.2"
+}

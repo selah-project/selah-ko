@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 이들이 가문대로 게르손의 아들들의 이름이니, 리브니와 시므이이다.",
+  "tokens": [
+    {
+      "surface": "וְאֵ֛לֶּה",
+      "gloss": "그리고 이들이"
+    },
+    {
+      "surface": "שְׁמ֥וֹת",
+      "gloss": "이름이니"
+    },
+    {
+      "surface": "בְּֽנֵי",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "גֵרְשֹׁ֖ן",
+      "gloss": "게르손의"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָ֑ם",
+      "gloss": "가문대로"
+    },
+    {
+      "surface": "לִבְנִ֖י",
+      "gloss": "리브니"
+    },
+    {
+      "surface": "וְשִׁמְעִֽי",
+      "gloss": "그리고 시므이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:35.500516292Z",
+  "model": "glm-5.2"
+}

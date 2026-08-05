@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "모든 때에 네 옷은 희어라. 그리고 네 머리 위에서 기름이 모자라지 말라.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "──"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "네 옷은"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "희어라"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "그리고 기름이"
+    },
+    {
+      "surface": "על",
+      "gloss": "── 위에서"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "네 머리"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "모자라지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:07.356755959Z",
+  "model": "glm-5.2"
+}

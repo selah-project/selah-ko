@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 듣는 자가 ⟨את⟩ 쇼파르 소리를 듣고도 주의를 받지 아니하였으면, 칼이 와서 그를 데려가면, 그의 피는 그의 머리에 있을 것이다.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "그리고 …이 듣고"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "듣는 자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쇼파르 소리"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "쇼파르"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…아니하였으면"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "주의를 받"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "그리고 …이 오면"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "그리고 …이 그를 데려가면"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "그의 피"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "그의 머리에"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:23:02.564462523Z",
+  "model": "glm-5.2"
+}

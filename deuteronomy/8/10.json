@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 네가 먹어 배부르면, 너는 야훼 네 엘로힘을 ⟨את⟩ 그 좋은 땅으로 인해, 그가 네게 주신 그 땅으로 인해, 축복하라.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "그리고 네가 먹어"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "배부르면"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "너는 축복하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘을"
+    },
+    {
+      "surface": "על",
+      "gloss": "인해"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "그 좋은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주신"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T18:07:07.962515439Z",
+  "model": "glm-5.2"
+}

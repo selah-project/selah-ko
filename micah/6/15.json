@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "너는 뿌리되 거두지 못하고, 너는 올리브를 밟되 기름을 바르지 못하며, 포도즙 — 마시지 못하리라, 포도주를.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "뿌리되"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "거두지 못하고"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "밟되"
+    },
+    {
+      "surface": "זית",
+      "gloss": "올리브를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "바르지 못하며"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름을"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "포도즙"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "마시지 못하리라"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:44.563229070Z",
+  "model": "glm-5.2"
+}

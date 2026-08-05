@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "기억하소서, 오직 나의 생명은 한숨이니, 나의 눈이 좋은 것을 보러 돌아오지 아니할 것임을.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "기억하소서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "한숨이니"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "나의 생명은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "돌아오지"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "나의 눈이"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보러"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:39.061422229Z",
+  "model": "glm-5.2"
+}

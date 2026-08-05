@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 60:20",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "다시는 네 해가 지지 아니하고, 네 달이 거두어지지 아니하리라. 이는 야훼가 네게 영원한 빛이 되시고, 네 애도의 날들이 완성될 것임이라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "오리라"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시는"
+    },
+    {
+      "surface": "שמשך",
+      "gloss": "네 해가"
+    },
+    {
+      "surface": "וירחך",
+      "gloss": "그리고 네 달이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "거두어지리라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 ~이기 때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "~이 되실 것이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "빛이"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "그리고 ~이 완성될 것이다"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "אבלך",
+      "gloss": "네 애도의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:50.778456593Z",
+  "model": "glm-5.2"
+}

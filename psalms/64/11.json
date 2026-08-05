@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "의로운 자가 야훼 안에서 기뻐하고, 그 안에서 피난하라. 그리고 마음이 바른 모든 자가 자랑하라.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "기뻐하고"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자가"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼 안에서"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "그리고 피난하라"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에서"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "그리고 자랑하라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "바른"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:46.572625729Z",
+  "model": "glm-5.2"
+}

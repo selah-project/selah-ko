@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 101,
+  "translation": "내 눈은 이 땅의 신실한 자들에게 향하여, 그들이 나와 함께 거하기 위함이다. 온전한 길로 걷는 자, 그가 나를 섬길 것이다.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "내 눈이"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "신실한 자들에게"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "거하기 위하여"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걷는 자"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길에서"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "온전한"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "나를 섬길 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:43.518080894Z",
+  "model": "glm-5.2"
+}

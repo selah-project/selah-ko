@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 만일 누구에게 사형에 해당하는 죄가 있어 그가 죽임을 당하고 네가 그를 나무에 달았으면",
+  "tokens": [
+    {
+      "surface": "וְכִֽי",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "있어"
+    },
+    {
+      "surface": "בְאִ֗ישׁ",
+      "gloss": "누구에게"
+    },
+    {
+      "surface": "חֵ֛טְא",
+      "gloss": "죄가"
+    },
+    {
+      "surface": "מִשְׁפַּט",
+      "gloss": "판결에 해당하는"
+    },
+    {
+      "surface": "מָ֖וֶת",
+      "gloss": "사형"
+    },
+    {
+      "surface": "וְהוּמָ֑ת",
+      "gloss": "그가 죽임을 당하고"
+    },
+    {
+      "surface": "וְתָלִ֥יתָ",
+      "gloss": "네가 달았으면"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "עֵֽץ",
+      "gloss": "나무"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:30.576326966Z",
+  "model": "glm-5.2"
+}

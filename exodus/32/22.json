@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "아론이 말하였다. \"내 주의 노가 타오르지 마십시오. 당신은 ⟨את⟩ 이 백성을 아시니, 그것이 악함에 있기입니다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마십시오"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "타오르"
+    },
+    {
+      "surface": "אף",
+      "gloss": "노가"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주의"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아시니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "악함에 있기입니다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨이다⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:36.923813786Z",
+  "model": "glm-5.2"
+}

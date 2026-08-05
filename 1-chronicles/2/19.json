@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 아주바가 죽으매, 칼렙은 ⟨את⟩ 에프라트를 자기에게 아내로 취하였고, 그녀가 그에게 ⟨את⟩ 후르를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "그리고 …가 죽으매"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "아주바가"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 …취하였고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기에게"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "칼렙은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에프라트를"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "에프라트를"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "그녀가 낳았다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "후르를"
+    },
+    {
+      "surface": "חור",
+      "gloss": "후르를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:34.936607261Z",
+  "model": "glm-5.2"
+}

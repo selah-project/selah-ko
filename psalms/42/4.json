@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "내 눈물은 나에게 낮에도 밤에도 양식이 되었으니, 내게 말하기를 온종일, '네 엘로힘은 어디 있는가' 한다.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "되었으니"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "내 눈물은"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "양식이"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "낮에도"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "밤에도"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온(종일)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디 있는가"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:20.758011477Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "너희는 무교병을 지키라. 이는 바로 이 날에 내가 ⟨את⟩ 너희 군대를 미츠라임 땅에서 인도하여 내었기 때문이다. 그러므로 너희는 ⟨את⟩ 이 날을 너희 대대로 영원한 규례로 지킬 것이다.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "너희는 지키라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "무교병"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "무교병"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "바로"
+    },
+    {
+      "surface": "היום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "인도하여 내었기 때문이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 군대"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "너희 군대"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "너희는 지킬 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 날"
+    },
+    {
+      "surface": "היום",
+      "gloss": "날"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "너희 대대로"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "규례로"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    }
+  ],
+  "timestamp": "2026-08-05T07:52:35.595797765Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 22:7",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "아버지와 어미를 네 안에서 가볍게 여겼고, 네 한가운데서 거류민에게 억압을 행하였으며, 고아와 과부를 네 안에서 억압하였도다.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "아버지를"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 어미를"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "가볍게 여겼고"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네 안에서"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "거류민에게"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행하였으며"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "억압을"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "네 한가운데서"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "고아를"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "그리고 과부를"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "억압하였도다"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:53:43.159852904Z",
+  "model": "glm-5.2"
+}

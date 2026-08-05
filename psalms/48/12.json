@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "시온 산아, 기뻐하라; 예후다의 딸들아, 즐거워하라 — ⟨이는⟩ ⟨당신의⟩ 심판들 때문이다.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "기뻐하라"
+    },
+    {
+      "surface": "הר",
+      "gloss": "…산아"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "즐거워하라"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "…의 딸들아"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "당신의 심판들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:14.708650829Z",
+  "model": "glm-5.2"
+}

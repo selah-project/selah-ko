@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그의 형제들이 가서 ⟨그들의⟩ 아버지의 양 떼를 치러 ⟨את⟩ 쉐켐으로 갔다.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "가니라"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들이"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "치러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "양 떼를"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양 떼"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "그들의 아버지의"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "쉐켐으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:07.681918762Z",
+  "model": "glm-5.2"
+}

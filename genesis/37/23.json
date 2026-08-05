@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "요셉이 그의 형들에게 오자, 그들이 요셉에게서 ⟨את⟩ 그의 옷을 벗겼으니, 곧 ⟨את⟩ 그가 입고 있던 ⟨את⟩ 채색옷을.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…이 되었다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…할 때"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오자"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형들에게"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "그들이 벗겼으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉에게서"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셑에게서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 옷을"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "그의 옷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "채색옷을"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "옷"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "채색옷"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…이던"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그가 입고 있던"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:39.492396911Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 90,
+  "translation": "천 년이 당신의 눈에 어제 같으니, 지나가는 날 같으며, 밤의 야간경비 같다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년이"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "당신의 눈에"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "같으니"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "어제"
+    },
+    {
+      "surface": "כי",
+      "gloss": "같이"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "지나가는"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "그리고 야간경비"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "밤의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:33.846745638Z",
+  "model": "glm-5.2"
+}

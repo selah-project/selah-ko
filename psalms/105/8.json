@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그가 영원히 그의 브리트를 기억하셨다, 천 대에 이르기까지 그가 명하신 말씀을",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "기억하셨다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "그의 브리트를"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "그가 명하신"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "דור",
+      "gloss": "대에 이르기까지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:11.119798999Z",
+  "model": "glm-5.2"
+}

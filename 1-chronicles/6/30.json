@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "하샤브야의 아들이요, 아마쟈의 아들이요, 힐키야의 아들이었다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "하샤브야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "아마쟈"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "힐키야"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:51.342664980Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 너는 ⟨את⟩ 번제 제단을 만남의 텐트 미쉬칸 입구 앞에 놓아라.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "너는 놓아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "번제 제단을"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "번제"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "미쉬칸"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "텐트"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:33.638070068Z",
+  "model": "glm-5.2"
+}

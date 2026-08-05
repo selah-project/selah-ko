@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 44:25",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 죽은 사람에게는 부정하게 되려고 가까이 가지 못하되, 오직 아버지와 어머니와 아들과 딸과 형제와 남편에게로 ⟨안 가고⟩ ⟨시집⟩ 가지 아니한 자매에게는 부정하게 될 수 있다.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "들어오다"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "부정하게 되려고"
+    },
+    {
+      "surface": "כי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אם",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "아버지에게"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "그리고 어머니에게"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "그리고 아들에게"
+    },
+    {
+      "surface": "ולבת",
+      "gloss": "그리고 딸에게"
+    },
+    {
+      "surface": "לאח",
+      "gloss": "형제에게"
+    },
+    {
+      "surface": "ולאחות",
+      "gloss": "그리고 자매에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "남편에게"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "그들이 부정하게 되다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:03:54.259176547Z",
+  "model": "glm-5.2"
+}

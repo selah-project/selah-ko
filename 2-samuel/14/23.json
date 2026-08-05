@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "요아브가 일어나 그슈르로 가서 ⟨את⟩ 압살롬을 예루샬라임으로 데려왔다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "그슈르로"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "데려왔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "압살롬"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "압살롬을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임으로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:48:24.568829496Z",
+  "model": "glm-5.2"
+}

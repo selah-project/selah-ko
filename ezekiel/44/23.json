@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 ⟨그들은⟩ ⟨את⟩ 내 백성에게 거룩과 속된 것 사이에서 가르칠 것이며, 부정과 정결 사이에서 그것을 알게 할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성을"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성을"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "그들은 가르칠 것이다"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에서"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩과"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "속된 것에게"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 사이에서"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "부정과"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "정결에게"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "그것을 알게 할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:03:55.868060807Z",
+  "model": "glm-5.2"
+}

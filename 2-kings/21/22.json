@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그가 ⟨את⟩ 야훼, 그의 조상들의 엘로힘을 버렸고, 야훼의 길 안에서 걷지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "버렸고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…의 엘로힘"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "그의 조상들"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걷지"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길 안에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:45.027585310Z",
+  "model": "glm-5.2"
+}

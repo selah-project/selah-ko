@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그가 ⟨את⟩ 자기 네페쉬를 자기 손바닥에 두고 ⟨את⟩ 그 플리쉬티를 쳤으며, 야훼는 온 이스라엘에 큰 구원을 이루셨다. 당신은 보고 기뻐하였으니, 그런데 어찌하여 무죄한 피로 범죄하여 ⟨את⟩ 다윗을 거저 죽이려 하십니까?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "그가 두고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 네페쉬를"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "자기 네페쉬를"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "자기 손바닥에"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "쳤으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 플리쉬티를"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "그 플리쉬티를"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "이루셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "구원을"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "큰"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘에"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "당신은 보고"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "기뻐하였으니"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "그런데 어찌하여"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "범죄하여"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "피로"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "무죄한"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "죽이려 하십니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "거저"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:33.992855688Z",
+  "model": "glm-5.2"
+}

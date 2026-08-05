@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 23:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "아브라함이 에프론의 말을 들었다. 아브라함이 에프론에게 에프론이 헷 자손의 귀에 들리도록 말한 그 은을 ⟨את⟩ 달아 주었으니, 곧 상인이 통용하는 은 사백 세겔이었다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "에프론"
+    },
+    {
+      "surface": "וישקל",
+      "gloss": "달아 주었다"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "לעפרן",
+      "gloss": "에프론에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 은"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "그 은을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "앞서"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말한"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "귀에 들리도록"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "חת",
+      "gloss": "헷"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "사"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "세겔"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "통용하는"
+    },
+    {
+      "surface": "לסחר",
+      "gloss": "상인이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:51.880521803Z",
+  "model": "glm-5.2"
+}

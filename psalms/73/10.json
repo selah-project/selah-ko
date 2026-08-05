@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "그러므로 ⟨그의⟩ 백성이 이곳으로 돌아오고, 가득한 물이 그들에게 짜내질 것이다.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "돌아오게 한다"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성을"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "이곳으로"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "그리고 물이"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "가득한"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "짜내질 것이다"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:30.925573869Z",
+  "model": "glm-5.2"
+}

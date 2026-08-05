@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그런데 ⟨그⟩ 한 사람이 통나무를 넘어뜨리려 할 때 ⟨את⟩ 쇠가 물에 빠졌다. 그가 부르짖으며 말하였다. “아아, ⟨저의⟩ 주인이시여! 그것은 빌린 것입니다!”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그런데"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "넘어뜨리려 할 때"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "통나무를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "쇠"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "쇠가"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "빠졌다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "그가 부르짖으며"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "아아"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "주인이시여"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "빌린 것입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:51:49.954636699Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그것은 순회상인들과 상인들의 무역, 그리고 ⟨곧⟩ 아라비의 모든 왕들과 그 땅의 총독들 ⟨에게서 온 것⟩ 외에 ⟨있었다⟩.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "…외에"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "…사람들에게서"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "순회상인"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "그리고 무역"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "상인"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "아라비"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "그리고 총독들"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:03.521086836Z",
+  "model": "glm-5.2"
+}

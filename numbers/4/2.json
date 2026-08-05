@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "“레위 아들들 가운데서 크하트 아들들의 ⟨את⟩ 머리 수를 들어 올리라, 그들의 가족별로, 그들의 조상의 집별로 —",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "들어 올리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "머리 수"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "크하트"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "레위"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "그들의 가족별로"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집별로"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "그들의 조상의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:29:05.796612948Z",
+  "model": "glm-5.2"
+}

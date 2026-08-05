@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 그의 모이주머니를 깃털들과 함께 제거하고, 그것을 재 자리인 곳으로, 제단의 동쪽 옆에 던질 것이다.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "그리고 제거할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 모이주머니를"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "그의 모이주머니를"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "깃털들과 함께"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "그리고 던질 것이다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "옆에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단의"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "동쪽으로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～으로"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "곳"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "그 재"
+    }
+  ],
+  "timestamp": "2026-08-05T08:11:04.619765336Z",
+  "model": "glm-5.2"
+}

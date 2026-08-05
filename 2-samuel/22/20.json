@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 나를 넓은 곳으로 이끌어 내셨다. ⟨그가⟩ ⟨את⟩ 나를 구하셨다 — 그가 나를 기뻐하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "그리고 이끌어 내셨다"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "넓은 곳으로"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "나를 구하셨다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "기뻐하셨기"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:55.964533405Z",
+  "model": "glm-5.2"
+}

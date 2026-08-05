@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그들이 셰올을 뚫고 들어가도, 거기서 내 손이 그들을 붙잡으리라. 그리고 그들이 하늘로 올라가도, 거기서 내가 그들을 끌어내리리라.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만약"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "그들이 뚫고 들어가면"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "셰올을"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손이"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "그들을 붙잡으리라"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만약"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "그들이 올라가면"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘로"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "내가 그들을 끌어내리리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:34.348286340Z",
+  "model": "glm-5.2"
+}

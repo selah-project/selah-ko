@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리하여 숫염소가 ⟨את⟩ 그들의 모든 죄악을 스스로 지고 갈라진 땅으로 가고, ⟨그가⟩ 숫염소를 광야에 보내는 것이며",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "지고"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "숫염소가"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "스스로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 죄악을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "죄악을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "갈라진"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "보내는 것이며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "숫염소를"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "숫염소를"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:29.427394848Z",
+  "model": "glm-5.2"
+}

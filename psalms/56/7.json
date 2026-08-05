@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "그들이 머물고 숨으며, 그들이 내 발자취를 지키나니, ⟨이는⟩ 그들이 내 네페쉬를 노리고 기다림이라.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "그들이 머물고"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "숨으며"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "내 발자취를"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "지키나니"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~함과 같이"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "그들이 기다림이라"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:49.079313580Z",
+  "model": "glm-5.2"
+}

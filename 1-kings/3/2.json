@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "다만 그 백성은 바모트에서 제사를 드렸다. 왜냐하면 그 날들까지 야훼의 이름을 위한 집이 건축되지 않았기 때문이다.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성은"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "제사를 드렸다"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "바모트에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아직 …하지 않았다"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "건축되었다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집이"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "이름을 위하여"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "그 날들"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:20.705226632Z",
+  "model": "glm-5.2"
+}

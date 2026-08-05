@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "우리는 어제의 존재이고 아무것도 알지 못하니, 땅 위에서 우리의 날들은 그림자이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "תְמ֣וֹל",
+      "gloss": "어제의"
+    },
+    {
+      "surface": "אֲ֭נַחְנוּ",
+      "gloss": "우리는"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "아무것도 … 못하니"
+    },
+    {
+      "surface": "נֵדָ֑ע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "צֵ֖ל",
+      "gloss": "그림자"
+    },
+    {
+      "surface": "יָמֵ֣ינוּ",
+      "gloss": "우리의 날들은"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:24.098746880Z",
+  "model": "glm-5.2"
+}

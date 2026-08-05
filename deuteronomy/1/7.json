@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 1:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "방향을 돌려 출발하여 아모리 산과 그 모든 이웃에게로 들어가라 — 아라바와 산지와 셰펠라와 네겝과 바닷가 해안으로, 가나안 사람의 땅과 레바논, 큰 강 곧 프라트 강까지. ”",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "방향을 돌리라"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "출발하여"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "들어가라"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산으로"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ∼에게로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שכניו",
+      "gloss": "그의 이웃"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "아라바에서"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산지에서"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "그리고 셰펠라에서"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "그리고 네겝에서"
+    },
+    {
+      "surface": "ובחוף",
+      "gloss": "그리고 해안에서"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "가나안 사람의"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "그리고 레바논"
+    },
+    {
+      "surface": "עד",
+      "gloss": "∼까지"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "강"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "큰"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "강"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "프라트"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:17.431358773Z",
+  "model": "glm-5.2"
+}

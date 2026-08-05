@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 16:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"보라, 내가 너희에게 하늘에서 빵을 비 같이 내리리니, 백성이 나가서 날마다 하루 몫씩 거두게 하라. 내가 그들을 시험하리니, 그들이 내 토라 안에서 걷겠는가, 아니면 걷지 않겠는가.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "비 같이 내리리니"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나가서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "거두게 하라"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "몫씩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "날마다"
+    },
+    {
+      "surface": "למען",
+      "gloss": "-니"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "내가 그들을 시험하리"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "걷겠는가"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "내 토라 안에서"
+    },
+    {
+      "surface": "אם",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "걷지 않겠는가"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:40.281186950Z",
+  "model": "glm-5.2"
+}

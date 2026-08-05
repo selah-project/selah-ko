@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 라반이 ⟨את⟩ 야곱을 따라잡았는데, 야곱은 ⟨그⟩ 산에 ⟨את⟩ 자기의 천막을 쳤고, 라반은 자기의 형제들과 함께 ⟨את⟩ 그들을 길르앗 ⟨그⟩ 산에 쳤다.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "따라잡았는데"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야곱을"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱을"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "그리고 야곱은"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "쳤고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기의 천막을"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "자기의 천막을"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "그리고 라반은"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "자기의 형제들과 함께 그들을"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "길르앗"
+    }
+  ],
+  "timestamp": "2026-08-05T17:09:10.703132863Z",
+  "model": "glm-5.2"
+}

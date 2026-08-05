@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "야훼여, 나를 버리지 마소서. 나의 엘로힘이여, 나에게서 멀리 가지 마소서.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "나를 버리시"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로힘이여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "멀리 가시"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:19.003995799Z",
+  "model": "glm-5.2"
+}

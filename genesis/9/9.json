@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 나, 보라, 내가 ⟨את⟩ 내 브리트를 너희와 세우신다, 그리고 ⟨את⟩ 너희 후의 너희 씨와〈함께〉.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "세우신다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 브리트를"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "내 브리트"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "너희 씨"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "너희 후의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:22.406575483Z",
+  "model": "glm-5.2"
+}

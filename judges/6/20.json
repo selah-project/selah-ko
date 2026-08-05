@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "엘로힘의 말라크가 ⟨그⟩에게 말하였다. \"⟨את⟩ 고기와 ⟨את⟩ 무교병을 가져다가 이 바위 위에 놓고, ⟨את⟩ 국물은 쏟아부으라.\" 그리 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "말라크가"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "קח",
+      "gloss": "가져다가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "고기를"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "고기"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "무교병을"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "무교병"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "놓고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "바위"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "국물은"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "국물"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "쏟아부으라"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그리"
+    }
+  ],
+  "timestamp": "2026-08-05T09:15:08.189673488Z",
+  "model": "glm-5.2"
+}

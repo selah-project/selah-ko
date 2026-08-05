@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그가 ⟨את⟩ 눈을 들어 ⟨את⟩ 그 여인들과 ⟨את⟩ 그 아이들을 보고 말하였다. \"이들이 ⟨그대⟩에게 누구인가?\" 그가 말하였다. \"엘로힘께서 ⟨그대⟩의 종에게 은혜를 베푸신 아이들입니다.\"",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "들어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 눈"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "눈을"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 여인들"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "그 여인들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 아이들"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "그 아이들을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구인가"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "아이들입니다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "은혜를 베푸신"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그대의 종"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "그대의 종에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:08:49.429428634Z",
+  "model": "glm-5.2"
+}

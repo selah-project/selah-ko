@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "네 아버지의 벌거벗음과 네 어머니의 벌거벗음을 드러내지 아니하라. 그녀는 네 어머니이므로, 그녀의 벌거벗음을 드러내지 아니하라.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "벌거벗음은"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "네 아버지의"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "그리고 벌거벗음은"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "네 어머니의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "드러내지"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "네 어머니이"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨이다⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "드러내지"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "그녀의 벌거벗음을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:31.437751056Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼 엘로힘이 아담과 그의 아내를 위해 가죽 옷을 만드시어 그들을 입히셨다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만드시어"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "아담을 위해"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "그리고 그의 아내를 위해"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "옷을"
+    },
+    {
+      "surface": "עור",
+      "gloss": "가죽"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "그들을 입히셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:35.347280522Z",
+  "model": "glm-5.2"
+}

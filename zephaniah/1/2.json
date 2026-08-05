@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "온전히 거두어들이리니 — 모든 것을 땅의 면에서 거두어들이리니, 야훼의 선언이시다.",
+  "tokens": [
+    {
+      "surface": "אָסֹ֨ף",
+      "gloss": "온전히 거두어들이리니"
+    },
+    {
+      "surface": "אָסֵ֜ף",
+      "gloss": "거두어들이리니"
+    },
+    {
+      "surface": "כֹּ֗ל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "מֵעַ֛ל",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "면(面)"
+    },
+    {
+      "surface": "הָאֲדָמָ֖ה",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "선언이시다"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T19:39:10.577540485Z",
+  "model": "glm-5.2"
+}

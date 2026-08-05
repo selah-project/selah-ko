@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "고난의 날에 야훼께서 ⟨그대⟩를 응답하시기를, 야곱의 엘로힘의 이름이 ⟨그대⟩를 높이 보호하시기를.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "⟨그대⟩를 응답하시기를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "고난의"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "⟨그대⟩를 높이 보호하시기를"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름이"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:54.470480036Z",
+  "model": "glm-5.2"
+}

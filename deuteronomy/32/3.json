@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "키(=그러므로) 내가 야훼의 이름을 부르리니, 우리 엘로힘께 위대함을 돌리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "키(=그러므로)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "내가 부르리니"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "돌리라"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "위대함을"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "우리 엘로힘께"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:31.569208757Z",
+  "model": "glm-5.2"
+}

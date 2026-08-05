@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 이것들은 왕 쉴로모의 부관들이니, 백성 위에 다스리는 ⟨자들⟩, 오십이요 이백이다.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것들은"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…의 지휘관들"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "부관들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인(자들)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "쉴로모"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "그리고 이백"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "다스리는"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "백성 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:18.916382616Z",
+  "model": "glm-5.2"
+}

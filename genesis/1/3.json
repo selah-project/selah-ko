@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 말씀하셨다. \"빛이 있어라.\" 그래서 빛이 있었다.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "있어라"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛이"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:21.127107908Z",
+  "model": "glm-5.2"
+}

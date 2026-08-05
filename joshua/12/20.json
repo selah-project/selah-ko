@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "심론-메론 왕, 한 명; 아크샤프 왕, 한 명;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "심론-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "메론"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "아크샤프"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:34.210510756Z",
+  "model": "glm-5.2"
+}

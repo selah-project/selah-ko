@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "의로운 자는 자기 짐승의 네페쉬를 아나, 악인들의 긍휼은 잔인하다.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "알"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자는"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "자기 짐승의"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "그리고 긍휼은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "잔인하다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:26.936524043Z",
+  "model": "glm-5.2"
+}

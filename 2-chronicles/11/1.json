@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 11:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "르하브암이 예루샬라임에 들어오고, 유다와 베냐민 집을 모았는데 — ⟨את⟩ 유다와 베냐민 집 — 십팔만 명의 뽑힌 전사를, 전쟁을 행하는 자를, 이스라엘과 싸우기 위하여, ⟨아트⟩ 그 나라를 르하브암에게 되돌리기 위하여.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "들어오고"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "르하브암이"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "ויקהל",
+      "gloss": "모았는데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다와 베냐민 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "와 베냐민"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "십"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "팔"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "만 명의"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "뽑힌"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하는"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전사를"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "싸우기 위하여"
+    },
+    {
+      "surface": "עם",
+      "gloss": "과(함께)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "되돌리기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 나라"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "그 나라를"
+    },
+    {
+      "surface": "לרחבעם",
+      "gloss": "르하브암에게"
+    }
+  ],
+  "timestamp": "2026-08-05T19:40:00.698022056Z",
+  "model": "glm-5.2"
+}

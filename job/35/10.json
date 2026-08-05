@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그러나 ⟨아무도⟩ 말하지 않는다. \"나를 지으신 엘로아흐, 밤에 노래를 주시는 그분은 어디 계신가\" 하고.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그러나 …하지 않는다"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디 계신가"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "엘로아흐"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "나를 지으신"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주시는"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "노래를"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "밤에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:58.891709267Z",
+  "model": "glm-5.2"
+}

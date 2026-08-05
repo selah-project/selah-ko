@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "아르파크샤드는 ⟨את⟩ 셸라를 낳았고, 셸라는 ⟨את⟩ 에벨을 낳았다.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "아르파크샤드는"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셸라를"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "셸라를"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "셸라는"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에벨을"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "에벨을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:28.030694028Z",
+  "model": "glm-5.2"
+}

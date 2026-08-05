@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그녀가 샤아프를 낳았으니 그는 마드만나의 아비이고, ⟨그녀가⟩ ⟨את⟩ 셰바를 낳았으니 그는 마크베나의 아비이고 기브아의 아비이다. 칼렙의 딸은 아크사이다.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "낳았으니"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "샤아프를"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아비이고"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "마드만나의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셰바"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "셰바를"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아비이고"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "마크베나의"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "그리고 아비이다"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "기브아의"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "그리고 딸"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "칼렙의"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "아크사"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:51.928450249Z",
+  "model": "glm-5.2"
+}

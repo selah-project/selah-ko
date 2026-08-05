@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "어둠과 사망의 그늘에 앉은 자들, 곧 고난과 쇠사슬에 묶인 포로들 —",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "앉은 자들"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "그리고 사망의 그늘"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "묶인 포로들"
+    },
+    {
+      "surface": "עני",
+      "gloss": "고난"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "그리고 쇠"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:31.047943423Z",
+  "model": "glm-5.2"
+}

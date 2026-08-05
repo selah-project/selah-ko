@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 아브샬롬은 아므논에게 악한 것도 좋은 것도 말하지 않았으니, 이는 아므논이 ⟨את⟩ 타말 — 그의 누이 — 를 능욕한 일로 아브샬롬이 ⟨את⟩ 아므논을 미워하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니하였으니"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬은"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "아므논"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "악한 것도"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 …까지"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것도"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "미워하였기 때문이다"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아므논"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "아므논을"
+    },
+    {
+      "surface": "על",
+      "gloss": "…로 인하여"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "능욕한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "타말"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "타말 —"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "그의 누이 —"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:41.372286246Z",
+  "model": "glm-5.2"
+}

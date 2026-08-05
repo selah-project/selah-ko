@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "비방하는 자의 말은 맛있는 음식 같아서 ⟨그것들이⟩ 배의 가장 깊은 곳으로 내려간다.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "말은"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "비방하는 자의"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "맛있는 음식 같아서"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그리고 ⟨그것들이⟩"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "내려간다"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "가장 깊은 곳으로"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "배의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:24.934036813Z",
+  "model": "glm-5.2"
+}

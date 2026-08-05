@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "모셰가 ⟨그들⟩을 보내어 ⟨את⟩ 킨아안 땅을 탐지하게 하시고, 그들에게 말씀하셨다. \"이쪽 네게브로 올라가서, ⟨את⟩ 그 산에 올라가라.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "탐지하게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "킨아안"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "올라가라"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이쪽"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "네게브로"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "올라가서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 산"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:11:06.889978822Z",
+  "model": "glm-5.2"
+}

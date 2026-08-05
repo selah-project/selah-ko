@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 슐로모가 ⟨את⟩ 그녀의 모든 말을 그녀에게 알려 주었으니, 슐로모가 그녀에게 알려 주지 아니한 것으로 그에게 숨겨진 말은 없었다.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "그리고 …이 알려 주었으니"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 말을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "그녀의 말"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "숨겨진"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말은"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "슐로모에게서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "알려 주"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:10.465864699Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "아론의 고리들 안에 그 채막대들이 있을 것이니, 그것에서 옮겨지지 않을 것이다.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "고리들 안에"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "있을 것이니"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "그 채막대들이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "옮겨지다"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:00:06.746673855Z",
+  "model": "glm-5.2"
+}

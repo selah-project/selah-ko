@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 3:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨את⟩ 이 땅을 우리가 그 때에 점유하였다 — 아르논 강골짜기에 있는 아로에르에서, 그리고 길르앗 산의 절반과 그 도시들을 나는 르우벤 사람과 가드 사람에게 주었다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "이 땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ירשנו",
+      "gloss": "우리가 점유하였다"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "아로에르에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것인데⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "있는"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "강골짜기에"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "아르논"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "그리고 절반을"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산의"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "길르앗"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "그리고 그 도시들을"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "나는 주었다"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "르우벤 사람에게"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "그리고 가드 사람에게"
+    }
+  ],
+  "timestamp": "2026-08-05T18:06:55.225323894Z",
+  "model": "glm-5.2"
+}

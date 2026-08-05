@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "당신의 백성에게 반하여 그들은 간교한 음모를 꾸미고, 당신이 감추신 자들에게 반하여 모의하나이다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "에게 반하여"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "꾸미고"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "간교한 음모를"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "그리고 모의하나이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게 반하여"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "당신이 감추신 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:40.426179154Z",
+  "model": "glm-5.2"
+}

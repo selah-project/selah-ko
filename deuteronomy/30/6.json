@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 야훼 네 엘로힘이 ⟨את⟩ 네 마음과 ⟨את⟩ 네 씨의 마음에 할례를 베푸실 것이다. 네 마음 전부와 네 네페쉬 전부로 야훼 네 엘로힘을 사랑하기 위하여, 네 생명을 위하여.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "할례를 베푸실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 마음"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "네 마음에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "네 씨의 마음"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "마음에"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 씨의"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "사랑하기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘을"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "～전부로"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "네 마음"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그리고 ～전부로"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "네 네페쉬"
+    },
+    {
+      "surface": "למען",
+      "gloss": "～을 위하여"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "네 생명"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:07.608520509Z",
+  "model": "glm-5.2"
+}

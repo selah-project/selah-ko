@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 ⟨את⟩ 까마귀를 보내시니, 그것이 나가고 돌아오며 다녔다 — 물들이 땅에서 마를 때까지.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그가 보내시니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "까마귀"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "까마귀"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "그것이 나가"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "나감"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "돌아옴"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "마를"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T18:42:41.614604459Z",
+  "model": "glm-5.2"
+}

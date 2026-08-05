@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "이 모든 것에서도 그들이 오히려 죄를 지었으며, 그분의 기이한 일들을 믿지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "모든 것에서도"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "그들이 죄를 지었으며"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "오히려"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "믿지"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "그분의 기이한 일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:42.755281958Z",
+  "model": "glm-5.2"
+}

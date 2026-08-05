@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그가 그녀에게 말하였다. \"제게 조금 물을 마시게 해 주십시오. 목이 마릅니다.\" 그녀가 ⟨את⟩ 젖 가죽 부대를 열고 그에게 마시게 하고, 그를 덮었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "마시게 해 주십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "목이 마릅니다"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "그녀가 열고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "젖 가죽 부대"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "가죽 부대"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "젖"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "그에게 마시게 하고"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "그를 덮었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:14:45.937005789Z",
+  "model": "glm-5.2"
+}

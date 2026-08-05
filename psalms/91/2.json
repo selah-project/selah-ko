@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 91,
+  "translation": "나는 야훼께 말하겠다. “나의 피난처시요 나의 요새이신, 나의 엘로힘이시여, 나는 ⟨그⟩분을 신뢰합니다.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "나는 … 말하겠다"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "나의 피난처시요"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "나의 요새이신"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로힘이시여"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "나는 신뢰합니다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨그⟩분을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:31.512015769Z",
+  "model": "glm-5.2"
+}

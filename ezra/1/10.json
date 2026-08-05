@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "금 카포르 쓰기(30), 은 카포르 — 둘째 종류 — 넷(4) × 백(100)과 열(10), 그리고 다른 그릇 천(1,000).",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "카포르"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "셋째(10) × 3"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "카포르"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "둘(2)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "넷(4)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백(100)"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "그리고 열(10)"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "그릇"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천(1,000)"
+    }
+  ],
+  "timestamp": "2026-08-05T12:29:45.194278216Z",
+  "model": "glm-5.2"
+}

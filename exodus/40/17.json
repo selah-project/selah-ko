@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리하여 첫째 달, 둘째 해, 그 달의 첫 날에 미쉬칸이 세워졌다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리하여 …이 되었다"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "첫째 달에"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "둘째 해에"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "첫 날에"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "그 달의"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "세워졌다"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "미쉬칸이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:40.548245897Z",
+  "model": "glm-5.2"
+}

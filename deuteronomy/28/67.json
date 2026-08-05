@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "deuteronomy 28:67",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "아침에 너는 말할 것이다. \"누가 저녁을 주겠는가?\" 하고, 저녁에 너는 말할 것이다. \"누가 아침을 주겠는가?\" 하고, 네가 두려워하는 네 마음의 두려움 때문에, 그리고 네가 보게 될 네 눈들의 광경 때문에.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "너는 말할 것이다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주겠는가"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "저녁을"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "그리고 저녁에"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "너는 말할 것이다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주겠는가"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침을"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "…의 두려움 때문에"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "네 마음"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "네가"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "두려워하는"
+    },
+    {
+      "surface": "וממראה",
+      "gloss": "그리고 …의 광경 때문에"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "네 눈들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "네가"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "보게 될"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:57.900128524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그들이 ⟨את⟩ 아브네르를 헤브론에 장사하였다. 그리고 왕이 ⟨את⟩ 자기 목소리를 높이 들어 아브네르의 무덤에서 울자, 온 백성이 울었다.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "그들이 장사하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브네르를"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브네르"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "헤브론에"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "그리고 높이 들어"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 목소리를"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "자기 목소리"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "그리고 울자"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "무덤"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브네르의"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "그리고 울었다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    }
+  ],
+  "timestamp": "2026-08-05T19:36:08.077609866Z",
+  "model": "glm-5.2"
+}

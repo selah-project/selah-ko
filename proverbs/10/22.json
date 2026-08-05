@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼의 복, ⟨그것이⟩ 부유하게 하며, 슬픔은 그것과 함께 더하지 않는다.",
+  "tokens": [
+    {
+      "surface": "בִּרְכַּ֣ת",
+      "gloss": "복,"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "הִ֣יא",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "תַעֲשִׁ֑יר",
+      "gloss": "부유하게 하며,"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "아니하며 ···하지"
+    },
+    {
+      "surface": "יוֹסִ֖ף",
+      "gloss": "더한다"
+    },
+    {
+      "surface": "עֶ֣צֶב",
+      "gloss": "슬픔은"
+    },
+    {
+      "surface": "עִמָּֽהּ",
+      "gloss": "그것과 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:08.791580797Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "나는 엘에게 부르짖으리니, 야훼께서 나를 구원하신다",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘에게"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "부르겠다"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "나를 구원하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:45.712764186Z",
+  "model": "glm-5.2"
+}

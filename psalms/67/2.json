@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 67,
+  "translation": "엘로힘, 우리에게 은혜를 베푸시고 우리를 축복하시며, 그의 얼굴을 우리 ⟨쪽으로⟩ 비추사이다. 셀라.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "우리에게 은혜를 베푸시고"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "우리를 축복하시며"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "비추사이다"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴을"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "우리 ⟨쪽으로⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:28.374752591Z",
+  "model": "glm-5.2"
+}

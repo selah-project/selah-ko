@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "오베드가 ⟨את⟩ 예후를 낳았고, 예후가 ⟨את⟩ 아자르야를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "오베드가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예후를"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "예후를"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "예후가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아자르야를"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "아자르야를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:24.858376938Z",
+  "model": "glm-5.2"
+}

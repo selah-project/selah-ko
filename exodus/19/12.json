@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 너는 백성에게 둘러 경계를 정하여 말하라. \"스스로 삼가 산에 올라가지 말고, 그 끝에 닿지도 말라. 산에 닿는 자는 누구나 반드시 죽임을 당할 것이다.\"",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "경계를 정하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘러"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "삼가라"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "스스로"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "올라가지"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "닿지도"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "그 끝에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "닿는"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽임을"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "당할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:04.382381351Z",
+  "model": "glm-5.2"
+}

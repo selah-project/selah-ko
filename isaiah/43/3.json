@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "내가 야훼, 네 엘로힘, 이스라엘의 거룩한 이, 네 구원자이기 때문이다. 내가 너의 속전으로 미츠라임을, 쿠쉬와 스바를 너 대신에 주었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩한 이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "네 구원자"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 주었기 때문이다"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "너의 속전으로"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임을"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "쿠쉬와"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "스바를"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "너 대신에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:28.482236122Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "이스라엘이 ⟨את⟩ 이 모든 성읍들을 취하고, 이스라엘이 아모리 사람의 모든 성읍에 거하였으니 헤스본과 그의 모든 딸들에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 성읍들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "성읍들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "거하였으니"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성읍에"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리 사람의"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "헤스본에"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "그의 딸들에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:40:32.027493645Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "너는 흔드는 헌물의 가슴과 드는 헌물의 넓적다리를 거룩하게 하라 — 곧 흔들어 바친 것과 들어 바친 것, 위임 숫양에서, 곧 아론의 것과 그의 아들들의 것을.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "너는 거룩하게 하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가슴"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "가슴을"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "흔드는 헌물의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "넓적다리"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "넓적다리를"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "드는 헌물의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것은"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "흔들어 바친"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 것은"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "들어 바친"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "숫양에서"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "위임의"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "것에서"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "그리고 것에서"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "그의 아들들의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:03:04.644572016Z",
+  "model": "glm-5.2"
+}

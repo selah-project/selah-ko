@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "바트 셰바가 절하고 왕께 엎드려 경배하니, 왕이 말씀하셨다. \"무엇이 그대에게 있느냐?\"",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "그리고 절하고"
+    },
+    {
+      "surface": "בת",
+      "gloss": "바트"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바가"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "그리고 엎드려 경배하니"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕께"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게 있느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:57.824662484Z",
+  "model": "glm-5.2"
+}

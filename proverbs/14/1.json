@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "지혜로운 여인들은 자기 집을 세우고, 미련한 것은 자기 두 손으로 그것을 허무는도다.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "지혜로운 여인들은"
+    },
+    {
+      "surface": "נשים",
+      "gloss": ""
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "세우고"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "자기 집을"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "미련한 것은"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "자기 두 손으로"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "그것을 허무는도다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:08.736333607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 5:11",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "쯔르의 왕 히람이 사자들을 다윗에게 보내며, 향나무 들보들과 목수들과 벽돌석수들 ⟨을 보내자⟩ 그들이 다윗을 위해 집을 지었다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내며"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "히람이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "צר",
+      "gloss": "쯔르의"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "사자들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "들보들과"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "향나무"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "수들과"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "목"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "수들"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "벽"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "지었다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗을 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T13:48:49.404682048Z",
+  "model": "glm-5.2"
+}

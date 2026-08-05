@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "⟨그⟩ 선택받은 자들의 좋음을 보기 위하여, ⟨그⟩ 민족의 기쁨을 기뻐하기 위하여, ⟨그⟩ 기업과 함께 자랑하기 위함이니이다.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "보기 위하여"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "…의 좋음을"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "선택받은 자들의"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "기뻐하기 위하여"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "…의 기쁨을"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "민족의"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "자랑하기 위하여"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "기업"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:56.537453413Z",
+  "model": "glm-5.2"
+}

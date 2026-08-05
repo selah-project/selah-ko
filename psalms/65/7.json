@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "그분은 ⟨그분의⟩ 힘으로 산들을 세우시며, 능력으로 띠를 띠시는도다.",
+  "tokens": [
+    {
+      "surface": "מֵכִ֣ין",
+      "gloss": "세우시며"
+    },
+    {
+      "surface": "הָרִ֣ים",
+      "gloss": "산들을"
+    },
+    {
+      "surface": "בְּכֹח֑וֹ",
+      "gloss": "힘으로"
+    },
+    {
+      "surface": "נֶ֝אְזָ֗ר",
+      "gloss": "띠를 띠시는도다"
+    },
+    {
+      "surface": "בִּגְבוּרָֽה",
+      "gloss": "능력으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:37.929468682Z",
+  "model": "glm-5.2"
+}

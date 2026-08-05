@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "내 입이 지혜들을 말하고, 내 마음의 묵상은 분별력들이다.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "내 입이"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "지혜들을"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "묵상은"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음의"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "분별력들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:11.771464533Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "모셰의 장인 케니의 자손이 ⟨את⟩ 예후다의 자손과 함께 종려나무 성에서 올라와, 예후다 광야로 갔으니, 곧 아랏 남쪽에 있는 곳이다. 그리하여 그가 ⟨את⟩ 그 백성과 함께 가서 살았다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "케니"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "장인"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "올라와"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "성에서"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "종려나무"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예후다의 자손과 함께"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야로"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곳"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "남쪽에"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "아랏"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "살았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성과 함께"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:34.115161817Z",
+  "model": "glm-5.2"
+}

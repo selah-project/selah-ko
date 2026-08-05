@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "꺾어 버리셨다 나를 나의 열정이, 잊어버렸기 때문에 당신의 말씀들을 나의 대적들이.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "꺾어 버리셨다 나를"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "나의 열정이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "잊어버렸기"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "당신의 말씀들을"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "나의 대적들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:27.559037895Z",
+  "model": "glm-5.2"
+}

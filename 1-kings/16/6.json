@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "바아사가 그의 조상들과 함께 눕고, 틔르차에 묻히니, 그의 아들 엘라가 그를 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "…가 눕고"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "바아사"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "그의 조상들"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "묻히니"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "티르차에"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "엘라"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T13:51:06.565048081Z",
+  "model": "glm-5.2"
+}

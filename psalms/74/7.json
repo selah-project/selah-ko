@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "불을 보냈다 당신의 성소에, 땅으로; 더럽혔다 당신의 이름의 미쉬칸을.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "보냈다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불을"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "당신의 성소에"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "더럽혔다"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "미쉬칸을"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "당신의 이름의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:53.816284559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "보라, 내가 당신들에게 ⟨관하여⟩ ⟨את⟩ 씨를 꾸짖고, 당신들의 얼굴 위에 ⟨펄칠⟩ 것이다 — 당신들의 절기의 분뇨를. 그것이 당신들을 데리고 그것에게로 갈 것이다.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "보라, 내가"
+    },
+    {
+      "surface": "גער",
+      "gloss": "꾸짖는"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "당신들에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "씨"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "씨를"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "그리고 내가 펼칠 것이다"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "분뇨를"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "당신들의 얼굴"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "분뇨를"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "당신들의 절기의"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "그리고 그것이 데려갈 것이다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "당신들을"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그것에게로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:21:08.192137942Z",
+  "model": "glm-5.2"
+}

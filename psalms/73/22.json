@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "그리고 나는 짐승 같아서 깨닫지 못하였다. 내가 ⟨당신⟩과 함께 있었으면서도 짐승이었다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "בער",
+      "gloss": "짐승 같아서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "깨닫지"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "짐승이었다"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "이었다"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신과 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:25.158192998Z",
+  "model": "glm-5.2"
+}

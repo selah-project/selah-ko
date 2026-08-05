@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "그들의 마음에 말했다: '우리가 그들을 함께 억압하자.' 엘의 모임 장소 전체를 땅에서 불살랐다.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "말했다"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "그들의 마음에"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "우리가 그들을 억압하자"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "함께"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "불살랐다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "전체를"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "모임 장소"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:53.816382922Z",
+  "model": "glm-5.2"
+}

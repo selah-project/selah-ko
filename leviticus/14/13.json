@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 그 어린 양을, 하타트(속죄 제물)와 ⟨את⟩ 올라(번제)를 잡는 곳에서, 곧 거룩한 곳에서 잡을 것이니, 하타트처럼 아쉠(책임 제물)이 코헨(제사장)의 것임이니, 그것은 거룩 중의 거룩이다.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "잡을 것이니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 어린 양을"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "그 어린 양"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곳"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "잡는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하타트(속죄 제물)를"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "하타트(속죄 제물)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "올라(번제)를"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라(번제)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "하타트처럼"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "아쉠(책임 제물)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "것임이니"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "코헨(제사장)의"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:39.704233502Z",
+  "model": "glm-5.2"
+}

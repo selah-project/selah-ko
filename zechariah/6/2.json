@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "첫째 전차에는 붉은 말들, 둘째 전차에는 검은 말들이었다.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "전차에는"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "말들이"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "붉은"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "그리고 둘째 전차에는"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "말들이"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "검은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:19:09.111506889Z",
+  "model": "glm-5.2"
+}

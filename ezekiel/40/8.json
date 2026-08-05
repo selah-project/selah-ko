@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그가 ⟨את⟩ ⟨그⟩ 문의 현관을 ⟨그⟩ 집 안쪽에서 재었으니, 한 갈대였다.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "그가 … 재었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 문의 현관"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "현관을"
+    },
+    {
+      "surface": "השער",
+      "gloss": "그 문의"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "그 집 안쪽에서"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "한 갈대"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:07.517634678Z",
+  "model": "glm-5.2"
+}

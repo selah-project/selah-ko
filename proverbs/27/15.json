@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "비 내리는 날에 계속 떨어지는 물방울과 다투는 아내는 서로 같다.",
+  "tokens": [
+    {
+      "surface": "דֶּלֶף",
+      "gloss": "물방울"
+    },
+    {
+      "surface": "טוֹרֵד",
+      "gloss": "계속 떨어지는"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "…에 날"
+    },
+    {
+      "surface": "סַגְרִיר",
+      "gloss": "비 내리는"
+    },
+    {
+      "surface": "וְאֵשֶׁת",
+      "gloss": "그리고 …의 아내"
+    },
+    {
+      "surface": "מָדוֹנִים",
+      "gloss": "다투는"
+    },
+    {
+      "surface": "נִשְׁתָּוָה",
+      "gloss": "서로 같다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:25.751780282Z",
+  "model": "glm-5.2"
+}

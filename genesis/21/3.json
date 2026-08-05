@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "아브라함이 ⟨את⟩ 그에게 태어난 아들 ── 사라가 그에게 낳은 ── 의 이름을 ⟨아⟩ 불렀으니, 이츠하크이다.",
+  "tokens": [
+    {
+      "surface": "וַיִּקְרָ֨א",
+      "gloss": "불렀으니"
+    },
+    {
+      "surface": "אַבְרָהָ֜ם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "이름을"
+    },
+    {
+      "surface": "שֶׁם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "בְּנ֧וֹ",
+      "gloss": "그의 아들의"
+    },
+    {
+      "surface": "הַנּֽוֹלַד",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "──"
+    },
+    {
+      "surface": "יָלְדָה",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "לּ֥וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שָׂרָ֖ה",
+      "gloss": "사라가"
+    },
+    {
+      "surface": "יִצְחָֽק",
+      "gloss": "이츠하크"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:41.329363111Z",
+  "model": "glm-5.2"
+}

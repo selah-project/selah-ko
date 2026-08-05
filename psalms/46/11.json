@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "멈추어라, 그리고 알아라, 내가 곧 엘로힘인 것을. 내가 뭇 민족들 가운데서 높임을 받으리라, 내가 땅에서 높임을 받으리라.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "멈추어라"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "그리고 알아라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "~인 것을"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "높임을 받으리라"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "뭇 민족들 가운데서"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "높임을 받으리라"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:44.778311917Z",
+  "model": "glm-5.2"
+}

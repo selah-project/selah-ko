@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 이것들은 ⟨그⟩ 판례들이다, ⟨그것들을⟩ 네가 그들의 앞에 놓아야 할 것들.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것들은"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "판례들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것들"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "네가 놓아야 할"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "그들의 앞에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:18.495569273Z",
+  "model": "glm-5.2"
+}

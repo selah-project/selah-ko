@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "다윗이 ⟨את⟩ 이 애가를 읊어, 샤울과 그의 아들 여호나탄을 위하여 애도하였다.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "애도하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 애가"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "애가를"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울과"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄을"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:51.707175249Z",
+  "model": "glm-5.2"
+}

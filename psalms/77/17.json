@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "물들이 당신을 보았다, 엘로힘, 물들이 당신을 보았다, 그들이 진통하였다, 심지어 깊은 물들이 떨었다.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "당신을 보았다"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "당신을 보았다"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "그들이 진통하였다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "심지어"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "떨었다"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "깊은 물들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:06.042822377Z",
+  "model": "glm-5.2"
+}

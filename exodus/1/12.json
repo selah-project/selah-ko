@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그들이 ⟨את⟩ 그를 억압하는 대로, 그 같이 그가 많아졌고, 그 같이 뻗어나갔다. 그래서 그들이 이스라엘의 아들들 때문에 두려워하였다.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "그리고 …대로"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "그들이 억압하는"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그 같이"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "그가 많아졌고"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "그 같이"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "뻗어나갔다"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "그래서 그들이 두려워하였다"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:45:07.887139494Z",
+  "model": "glm-5.2"
+}

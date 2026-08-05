@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 16:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "아브람이 사라이에게 말하였다. \"보라, 당신의 여종이 당신의 손에 ⟨있다⟩. 당신의 눈에 좋은 대로 그녀에게 하십시오.\" 사라이가 그녀를 학대하자, 그녀는 그녀의 면전에서 도망하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브람이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사라이"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "당신의 여종이"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "당신의 손에"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "하십시오"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "당신의 눈에"
+    },
+    {
+      "surface": "ותענה",
+      "gloss": "학대하자"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사라이가"
+    },
+    {
+      "surface": "ותברח",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "מפניה",
+      "gloss": "그녀의 면전에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:53.908152431Z",
+  "model": "glm-5.2"
+}

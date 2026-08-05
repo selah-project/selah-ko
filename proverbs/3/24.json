@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "네가 누우면 두려워하지 아니하리라. 그리고 누우면 네 잠이 달콤하리라.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "~면"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "네가 누우면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "두려워하리라"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "그리고 누우면"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "달콤하리라"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "네 잠"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:11.141268761Z",
+  "model": "glm-5.2"
+}

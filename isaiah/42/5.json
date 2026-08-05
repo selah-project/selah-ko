@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "이같이 말씀하신다, ⟨그⟩ 엘이시며 ⟨곧⟩ 야훼이시다 — 하늘들을 창조하시고 그것들을 펼치신 이, 땅과 그것에서 나오는 것들을 펴신 이, 그 위에 있는 백성에게 숨을 주시고 그 가운데 걷는 자들에게 루아흐를 주신 이가.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "האל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "창조하시는"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘들을"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "그것들을 펼치신"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "펴신"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅과"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "그것에서 나오는 것들을"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주시는"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "숨을"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그 위에 있는"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "루아흐를"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "걷는 자들에게"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 가운데"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:41.744696894Z",
+  "model": "glm-5.2"
+}

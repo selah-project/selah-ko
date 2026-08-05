@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "지휘자에게, 다윗의 시편. 나의 찬양의 엘로힘이여, 침묵하지 마십시오.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "나의 찬양의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨아니여⟩"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "침묵하지 마십시오"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:08.382782446Z",
+  "model": "glm-5.2"
+}

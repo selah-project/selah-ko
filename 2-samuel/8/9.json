@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 토우가 들었다 — 하맛의 왕이 — 다윗이 ⟨את⟩ 하다드에제르의 온 군대를 쳤다는 것을.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "그리고 들었다"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "토우"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "하맛의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "쳤다는 것을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하다드에제르의 온 군대"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "군대"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "하다드에제르의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:51.485387537Z",
+  "model": "glm-5.2"
+}

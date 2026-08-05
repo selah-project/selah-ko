@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "칠 년의 끝에 여인이 플리쉬팀 땅에서 돌아와, 자기 집과 자기 밭을 위해 왕에게 부르짖으려고 나아갔다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "끝에"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "칠"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "돌아와"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "여인이"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "플리쉬팀"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "부르짖으려고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "위해"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "자기 집"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨및⟩ 위해"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "자기 밭"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:53.975469484Z",
+  "model": "glm-5.2"
+}

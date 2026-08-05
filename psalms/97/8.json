@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 97,
+  "translation": "시온이 듣고 기뻐하였고, 야훼의 판단들 때문에 유다의 딸들이 즐거워하였다.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "기뻐하였고"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온이"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "즐거워하였다"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸들이"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다의"
+    },
+    {
+      "surface": "למען",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "판단들"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:46.306451313Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "조금만 당신의 종이 ⟨את⟩ 하르뎐을 건너 ⟨את⟩ 왕을 모시고 가겠습니다. 그런데 어찌 왕께서 저에게 이같은 보상을 갚으려 하십니까?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "조금만"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "건너"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하르뎐"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "하르뎐을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "그런데 어찌"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "저에게 갚으려 하십니까"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕께서"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "보상을"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이같은"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:10.093062703Z",
+  "model": "glm-5.2"
+}

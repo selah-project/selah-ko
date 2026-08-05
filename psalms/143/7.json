@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 143,
+  "translation": "속히 내게 응답하소서, 야훼. 내 루아흐가 다하였다. ⟨그대의⟩ 얼굴을 내게서 숨기지 마소서. 그리하면 내가 구덩이로 내려가는 자들과 같아지겠나이다.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "속히"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "내게 응답하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "다하였다"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "내 루아흐가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "숨기"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨그대의⟩ 얼굴을"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "내게서"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "그리하면 같아지겠나이다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "∼과"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "내려가는 자들"
+    },
+    {
+      "surface": "בור",
+      "gloss": "구덩이로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:17.602223047Z",
+  "model": "glm-5.2"
+}

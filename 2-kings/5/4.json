@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그가 들어가 자기 주인에게 아뢰어 말하되 이같이 저같이 이스라엘 땅에서 온 소녀가 말하였다 ⟨하였다⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그가 들어가"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "아뢰었다"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "자기 주인에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "저같이"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "소녀가"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것으로⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:24.292473568Z",
+  "model": "glm-5.2"
+}

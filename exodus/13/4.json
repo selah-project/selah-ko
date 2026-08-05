@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "오늘 너희가 아비브 달에 나아가고 있다.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "나아가고 있다"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "…달에"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "아비브"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:07.178464508Z",
+  "model": "glm-5.2"
+}

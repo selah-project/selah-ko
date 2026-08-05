@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "왕이 에스더에게 ⟨את⟩ 금홀을 내밀자, 에스더가 일어나 왕 앞에 섰다.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "내밀자"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "에스더에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "금홀"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "홀"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더가"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "섰다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    }
+  ],
+  "timestamp": "2026-08-05T18:29:15.804129377Z",
+  "model": "glm-5.2"
+}

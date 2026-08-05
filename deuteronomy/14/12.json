@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 이것은 ⟨당신들이⟩ 그것들 중에서 먹지 못할 것이다: 독수리와, 넓은부리수리와, 물수리.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "그리고 이것은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "∼인 것"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "먹을 것이다"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그것들 중에서"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "독수리와"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "넓은부리수리와"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "물수리"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:01.237743631Z",
+  "model": "glm-5.2"
+}

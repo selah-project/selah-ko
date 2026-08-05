@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 그것들을 태우는 자는 자기 옷을 빨고, 물로 ⟨את⟩ 자기 몸을 씻을 것이니, 그 후에 진영으로 들어올 것이다.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "그리고 … 태우는 자는"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "빨고"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "그리고 … 씻을 것이니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 몸을"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "자기 몸을"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물로"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 … 후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "들어올 것이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:26.909666046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "야훼께서 이 일에 대해 뜻을 돌이키셨다. \"이것이 일어나지 않으리라.\" 야훼께서 말씀하셨다.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "뜻을 돌이키셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에 대해"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이 일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "일어나리라"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:06.221614451Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그러나 실로 이 까닭에 내가 너를 세웠으니 — 곧 네가 ⟨את⟩ 나의 능력을 보게 하시려 함이며, 그리하여 온 땅에 나의 이름을 선포하게 하려 함이라.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "그러나 실로"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "…까닭에"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "내가 너를 세웠으니"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "…위하여"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "네가 보게 하시려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 능력을"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "나의 능력"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "그리고 … 위하여"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "선포하게 하려"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "나의 이름을"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온 …에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:16.447815212Z",
+  "model": "glm-5.2"
+}

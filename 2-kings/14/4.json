@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "다만 그 산당들은 사라지지 않았으니, 아직도 백성이 그 산당들에서 제물을 잡아 바치고 분향하였다.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "그 산당들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "사라지"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직도"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "제물을 잡아 바치고"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "분향하였다"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "그 산당들에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:52.241162684Z",
+  "model": "glm-5.2"
+}

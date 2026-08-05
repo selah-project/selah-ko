@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 63:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "포도즙 틀을 내가 홀로 밟았고, 백성들 중에서 내 곁에 아무도 없었다. 내가 내 분노로 그들을 밟았고, 내 격노로 그들을 짓밟았다. 그들의 생명의 즙이 내 옷에 튀었고, 내 모든 의복을 내가 더럽혔다.",
+  "tokens": [
+    {
+      "surface": "פורה",
+      "gloss": "포도즙 틀을"
+    },
+    {
+      "surface": "דרכתי",
+      "gloss": "밟았고"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "ומעמים",
+      "gloss": "그리고 백성들 중에서"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "내 곁에"
+    },
+    {
+      "surface": "ואדרכם",
+      "gloss": "그들을 밟았고"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "내 분노로"
+    },
+    {
+      "surface": "וארמסם",
+      "gloss": "그들을 짓밟았다"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "내 격노로"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "그리고 … 즙이"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "그들의 생명의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "내 옷"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "מלבושי",
+      "gloss": "내 의복을"
+    },
+    {
+      "surface": "אגאלתי",
+      "gloss": "더럽혔다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:29.173655944Z",
+  "model": "glm-5.2"
+}

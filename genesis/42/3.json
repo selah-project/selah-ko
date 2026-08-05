@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그리하여 요셉의 형 열 명이 미츠라임에서 곡식을 사기 위해 내려갔다.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "내려갔다"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉의"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "사기 위해"
+    },
+    {
+      "surface": "בר",
+      "gloss": "곡식을"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:37.615642086Z",
+  "model": "glm-5.2"
+}

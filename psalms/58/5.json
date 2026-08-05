@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 58,
+  "translation": "그들의 독은 뱀의 독과 같다 — 귀머거리 독사처럼, ⟨그것⟩은 자기 귀를 닫는다.",
+  "tokens": [
+    {
+      "surface": "חֲמַת",
+      "gloss": "독은"
+    },
+    {
+      "surface": "לָ֗מוֹ",
+      "gloss": "그들의"
+    },
+    {
+      "surface": "כִּדְמ֥וּת",
+      "gloss": "같다 —"
+    },
+    {
+      "surface": "חֲמַת",
+      "gloss": "독과"
+    },
+    {
+      "surface": "נָחָ֑שׁ",
+      "gloss": "뱀의"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "처럼,"
+    },
+    {
+      "surface": "פֶ֥תֶן",
+      "gloss": "독사"
+    },
+    {
+      "surface": "חֵ֝רֵ֗שׁ",
+      "gloss": "귀머거리"
+    },
+    {
+      "surface": "יַאְטֵ֥ם",
+      "gloss": "닫는다"
+    },
+    {
+      "surface": "אָזְנֽוֹ",
+      "gloss": "자기 귀를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:06.927372921Z",
+  "model": "glm-5.2"
+}

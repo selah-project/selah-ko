@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 7:11",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이는 아모스가 이렇게 말하였기 때문이다. ‘야로브암은 칼에 죽고, 이스라엘은 반드시 그 땅에서 유리되어 끌려가리라.’”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였기 때문이다"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "아모스가"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼에"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽고"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "야로브암은"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "반드시"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "끌려가리라"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "그 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:02.795726794Z",
+  "model": "glm-5.2"
+}

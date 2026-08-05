@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "슈무엘이 ⟨את⟩ 모든 이스라엘 지파들을 가까이 오게 하였더니, 브냐민 지파가 뽑혔다.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "가까이 오게 하였더니"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 이스라엘 지파들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "지파들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "뽑혔다"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "지파가"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "브냐민"
+    }
+  ],
+  "timestamp": "2026-08-05T17:13:05.676055759Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그들이 온 이스라엘 영토에서 아름다운 소녀를 구하다가, ⟨את⟩ 아비쉬그 그 슈넘 여인을 찾아내어, 그녀를 왕에게 데려왔다.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "그리고 그들이 구하다가"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "소녀를"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "아름다운"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "영토에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "그리고 그들이 찾아내어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아비쉬그"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "아비쉬그"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "슈넘 여인을"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 그들이 데려왔다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "그녀를"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕에게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:57.408276614Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 골라(포로)의 아들들이 첫째 달 십사 일에 ⟨את⟩ 유월절을 지켰다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "골라(포로)의"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "지켰다"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "유월절"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "십사"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "일에"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "달"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫째"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:32.462902311Z",
+  "model": "glm-5.2"
+}

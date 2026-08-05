@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "“우리는 열두 형제로, 한 아버지의 아들들입니다. 하나는 없어지고, 막내는 오늘 가나안 땅에 ⟨את⟩ 우리 아버지와 함께 있습니다.”",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리는"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "형제로"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들입니다"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "우리 아버지의"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나는"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "없어지고"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "막내는"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리 아버지"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "우리 아버지"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:19.420056507Z",
+  "model": "glm-5.2"
+}

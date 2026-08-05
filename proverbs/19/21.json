@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "사람의 마음에 ⟨많은⟩ 생각이 있으나, 오직 야훼의 뜻이 서리라.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "많은"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "생각이"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "마음에"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "그러나 …의 뜻이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "서리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:46.228003196Z",
+  "model": "glm-5.2"
+}

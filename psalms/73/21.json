@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "내 마음이 시큼해질 때에, 내 콩팥들이 나를 찌르니 —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때에"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "시큼해지다"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "내 콩팥들이"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "나를 찌르니"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:25.157995141Z",
+  "model": "glm-5.2"
+}

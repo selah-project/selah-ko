@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "만군의 야훼, 주 안에서 피신하는 사람은 복이 있다.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צְבָא֑וֹת",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "אַֽשְׁרֵ֥י",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "בֹּטֵ֥חַ",
+      "gloss": "피신하는"
+    },
+    {
+      "surface": "בָּֽךְ",
+      "gloss": "주 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:01.749668065Z",
+  "model": "glm-5.2"
+}

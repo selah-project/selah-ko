@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "\"방주에서 나오너라, 너와 너의 아내와 너의 아들들과 너의 아들들의 아내들이 너와 함께.\"",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "나오너라"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "그리고 너의 아내"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "그리고 너의 아들들"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "그리고 아내들이"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "너의 아들들의"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:29.556163649Z",
+  "model": "glm-5.2"
+}

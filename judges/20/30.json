@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 20:30",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이스라엘의 아들들이 셋째 날에 브냐민의 아들들을 향해 올라갔고, 기브아를 향해 줄을 갖추되, 번마다 하듯 하였다.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "올라갔고"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향해"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "브냐민의"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "셋째"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "줄을 갖추되"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향해"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "기브아를"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "번마다"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "하듯"
+    }
+  ],
+  "timestamp": "2026-08-05T09:22:29.417767954Z",
+  "model": "glm-5.2"
+}

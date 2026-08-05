@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "반역하는 자들이었더라, 너희가 야훼와 ⟨함께⟩ — 내가 ⟨את⟩ 너희를 알던 날부터.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "반역하는 자들이었더라"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 ⟨함께⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "날부터"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "내가 알던"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 너희를",
+      "marks": "너희"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:27.508514102Z",
+  "model": "glm-5.2"
+}

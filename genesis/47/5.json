@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "파르오가 요셉에게 말씀하였다. “당신의 아버지와 당신의 형제들이 당신에게 왔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "당신의 아버지"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "그리고 당신의 형제들"
+    },
+    {
+      "surface": "באו",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:26.865618327Z",
+  "model": "glm-5.2"
+}

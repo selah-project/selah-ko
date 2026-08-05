@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "왕이 ⟨את⟩ 토라의 말씀들을 들을 때에 일어난 일이니, 그가 ⟨את⟩ 자기 옷을 찢었더라.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일어난 일이니"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "들을 때에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "토라의 말씀들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라의"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "그가 찢었더라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 옷을"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:03:46.161248228Z",
+  "model": "glm-5.2"
+}

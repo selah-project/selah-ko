@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "너는 에돔 사람을 미워하지 말라. 그는 네 형제이기 때문이다. 너는 미츠라임 사람을 미워하지 말라. 네가 그의 땅에서 거류자였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "미워하지"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "에돔 사람을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "미워하지"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "미츠라임 사람을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "גר",
+      "gloss": "거류자"
+    },
+    {
+      "surface": "היית",
+      "gloss": "…였기"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "그의 땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:21.674637298Z",
+  "model": "glm-5.2"
+}

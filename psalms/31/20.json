@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "주의 경외자들을 위해 간직하신 주의 풍성한 선하심이 얼마나 큰가! 주께서 주께 피하는 자들을 위해, 사람들의 아들들 앞에서 행하셨도다.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "רב",
+      "gloss": "큰가"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "주의 선하심이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것을⟩"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "간직하신"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "주의 경외자들을 위해"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "행하셨도다"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "피하는 자들을 위해"
+    },
+    {
+      "surface": "בך",
+      "gloss": "주께"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:38.717350487Z",
+  "model": "glm-5.2"
+}

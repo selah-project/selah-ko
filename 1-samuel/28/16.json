@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "셰무엘이 말하였다. \"그렇다면 왜 나에게 묻느냐? 야훼가 너에게서 떠나셨고, 네 대적이 되셨다. \"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셰무엘이"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "그렇다면 왜"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "나에게 묻느냐"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "סר",
+      "gloss": "떠나셨고"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "너에게서"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨그리고⟩ 되셨다"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "네 대적이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:03.317574366Z",
+  "model": "glm-5.2"
+}

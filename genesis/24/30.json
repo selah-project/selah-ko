@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 24:30",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고这样이 되었다, 그가 ⟨את⟩ 코걸이와 ⟨את⟩ 그 묶음들—그의 자매의 손에 있던—을 보고, 그가 그의 자매 리브카의 말—“이같이 그 사람이 내게 말하였다”고 하는—을 들을 때에, 그가 그 사람에게로 들어갔고, 보라, ⟨그가⟩ 그 낙타들 곁에, 그 샘 곁에 서 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 이렇게 되었다"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "코걸이"
+    },
+    {
+      "surface": "הנזם",
+      "gloss": "코걸이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 묶음들"
+    },
+    {
+      "surface": "הצמדים",
+      "gloss": "그 묶음들"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "손"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "그의 자매의"
+    },
+    {
+      "surface": "וכשמעו",
+      "gloss": "그리고 듣고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "리브카"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "그의 자매"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 들어갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "서 있었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "곁에"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "그 낙타들"
+    },
+    {
+      "surface": "על",
+      "gloss": "곁에"
+    },
+    {
+      "surface": "העין",
+      "gloss": "그 샘"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:16.047284231Z",
+  "model": "glm-5.2"
+}

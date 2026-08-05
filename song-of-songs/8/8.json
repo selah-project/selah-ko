@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "우리에게 작은 자매가 있고, 그녀에게는 가슴이 없다. 우리가 그녀를 위해 무엇을 하랴, 그녀가 말해지는 날에?",
+  "tokens": [
+    {
+      "surface": "אָח֥וֹת",
+      "gloss": "자매"
+    },
+    {
+      "surface": "לָ֨נוּ֙",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "קְטַנָּ֔ה",
+      "gloss": "작은"
+    },
+    {
+      "surface": "וְשָׁדַ֖יִם",
+      "gloss": "가슴이"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "לָ֑הּ",
+      "gloss": "그녀에게는"
+    },
+    {
+      "surface": "מַֽה",
+      "gloss": "무엇"
+    },
+    {
+      "surface": "נַּעֲשֶׂה֙",
+      "gloss": "하랴"
+    },
+    {
+      "surface": "לַאֲחֹתֵ֔נוּ",
+      "gloss": "우리 자매를 위해"
+    },
+    {
+      "surface": "בַּיּ֖וֹם",
+      "gloss": "날에"
+    },
+    {
+      "surface": "שֶׁיְּדֻבַּר",
+      "gloss": "그녀가 말해지는"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "그녀가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:00.595867505Z",
+  "model": "glm-5.2"
+}

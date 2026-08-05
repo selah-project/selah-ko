@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 야훼께서 미츠라임에 알려지실 것이며, 미츠라임은 그 날에 야훼를 ⟨את⟩ 알 것이다. 그리고 그들은 제물과 예물을 드리며, 야훼께 서원을 세우고 그것을 갚으리라.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "그리고 알려지실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "미츠라임에"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "그리고 알 것이다"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "그리고 드리며"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제물"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "그리고 예물"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "그리고 서원을 세우고"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "서원"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "그리고 갚으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:17.261696046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "라반이 아침에 일찍 일어나 ⟨그의⟩ 아들들과 ⟨그의⟩ 딸들에게 입맞추고 ⟨그들⟩을 축복하였다. 그리고 가서 라반은 ⟨그의⟩ 곳으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "일찍 일어났다"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반은"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "입맞추고"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "그의 아들들에게"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "그리고 그의 딸들에게"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하였다"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반은"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "그의 곳으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:06.038462327Z",
+  "model": "glm-5.2"
+}

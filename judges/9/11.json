@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그러자 무화과 나무가 그들에게 말하였다. \"내가 ⟨את⟩ 나의 단맛과 ⟨את⟩ 나의 좋은 열매를 그만두고, 나무들 위를 떠돌아다니러 가야 한단 말이냐?\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그러자 …가 말하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "무화과 나무가"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "내가 그만두었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 단맛"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "나의 단맛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨와⟩ ⟨את⟩",
+      "marks": "나의 좋은 열매"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "나의 좋은"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "열매"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "그리고 내가 가서"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "떠돌아다니러"
+    },
+    {
+      "surface": "על",
+      "gloss": "위를"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "나무들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:04.878396477Z",
+  "model": "glm-5.2"
+}

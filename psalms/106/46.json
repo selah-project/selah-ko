@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리고 그들에게 ⟨את⟩ 자비를 베푸셨다, 그들 모든 사로잡은 자들의 면전에서.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주셨다"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "자비를 베푸셨다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "그들의 사로잡은 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:52.892993686Z",
+  "model": "glm-5.2"
+}

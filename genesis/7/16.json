@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 들어온 것들은, 모든 육지 생물에서 수컷과 암컷이 들어왔다 ── 엘로힘이 ⟨את⟩ 그에게 명하신 대로. 그리고 야훼께서 그를 위해 닫으셨다.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "그리고 들어온 것들은"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "수컷"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "그리고 암컷"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 ──에서"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "육지 생물"
+    },
+    {
+      "surface": "באו",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "──한 대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그에게",
+      "marks": "엘로힘의 명령 대상 ── 노아"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "그리고 ──께서 닫으셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "그를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:40.485250341Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "파르오쉬의 아들들, 이천 백 칠십이 명.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "פַרְעֹ֔שׁ",
+      "gloss": "파르오쉬의"
+    },
+    {
+      "surface": "אַלְפַּ֕יִם",
+      "gloss": "이천"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "백"
+    },
+    {
+      "surface": "שִׁבְעִ֥ים",
+      "gloss": "칠십"
+    },
+    {
+      "surface": "וּשְׁנָֽיִם",
+      "gloss": "및 둘"
+    }
+  ],
+  "timestamp": "2026-08-05T18:39:27.987486505Z",
+  "model": "glm-5.2"
+}

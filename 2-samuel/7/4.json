@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 그 밤에 이렇게 되었다. 야훼의 말씀이 나탄에게 임하였다. 말씀하시기를,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 이렇게 되었다"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨그리고⟩ 임하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:33.983439018Z",
+  "model": "glm-5.2"
+}

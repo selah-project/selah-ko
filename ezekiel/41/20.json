@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "땅에서부터 그 입구 위쪽에 이르기까지, 크루빔과 야자나무들이 새겨져 있었다. 그리고 ⟨그것은⟩ 성전 벽이었다.",
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "땅에서부터"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…에 이르기까지"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…위쪽에"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "그 입구"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "그 크루빔"
+    },
+    {
+      "surface": "והתמרים",
+      "gloss": "그리고 그 야자나무들"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "새겨져 있었다"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "그리고 …의 벽"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "그 성전"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:38.946590301Z",
+  "model": "glm-5.2"
+}

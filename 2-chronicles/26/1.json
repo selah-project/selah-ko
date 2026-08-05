@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 온 유다 백성이 ⟨את⟩ 우찌야후를 취하였다 — 그는 십육 세였다 — 그리고 그를 그의 아버지 아마츠야후 대신 왕으로 세웠다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "취하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우찌야후를"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "우찌야후"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…세"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "왕으로 세웠다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "아마츠야후"
+    }
+  ],
+  "timestamp": "2026-08-05T13:00:50.338225081Z",
+  "model": "glm-5.2"
+}

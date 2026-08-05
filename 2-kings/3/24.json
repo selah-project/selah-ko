@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 그들이 이스라엘 진영에 들어오자, 이스라엘이 일어나 ⟨את⟩ 모아브를 쳤고, 그들이 그들 앞에서 도망하였다. 그리고 그들이 그 땅에 들어가며 ⟨את⟩ 모아브를 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 들어오자"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼로"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영에"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "쳤고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모아브를"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브를"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "그들 앞에서"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "그리고 들어가며"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "치며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모아브를"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:43.548006180Z",
+  "model": "glm-5.2"
+}

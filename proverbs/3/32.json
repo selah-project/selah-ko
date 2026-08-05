@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "길 벗어난 자는 야훼께 가증함이지만, 곧은 자들에게는 ⟨그분의⟩ 비밀이 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "…이지만"
+    },
+    {
+      "surface": "תוֹעֲבַ֣ת",
+      "gloss": "가증함이"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "נָל֑וֹז",
+      "gloss": "길 벗어난 자는"
+    },
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "곧은 자들"
+    },
+    {
+      "surface": "יְשָׁרִ֥ים",
+      "gloss": "곧은 자들"
+    },
+    {
+      "surface": "סוֹדֽוֹ",
+      "gloss": "⟨그분의⟩ 비밀이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:28.772395888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "그들이 생명의 책에서 지워지고, 의인들과 함께 기록되지 않기를.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "지워지고"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "책에서"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "생명의"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의인들"
+    },
+    {
+      "surface": "אל",
+      "gloss": "아니하기를"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "기록되지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:00.365031913Z",
+  "model": "glm-5.2"
+}

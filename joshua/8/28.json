@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 여호수아는 ⟨את⟩ 아이를 불태웠고, 그것을 영원한 폐허, 황무지로 만들었다, 오늘 이 날까지.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "그리고 불태웠다"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아이"
+    },
+    {
+      "surface": "העי",
+      "gloss": "아이를"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "תל",
+      "gloss": "폐허로"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "황무지"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘 이 날"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:19.957912147Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "여인이 ⟨그녀의⟩ 젖먹이를 잊으랴, 태의 아들을 긍휼히 여기지 않으랴? 곧 ⟨그들은⟩ 잊을지라도, 나는 너를 잊지 아니하노라.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "잊으랴"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인이"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "젖먹이를"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "긍휼히 여기지"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "태의"
+    },
+    {
+      "surface": "גם",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "잊을지라도"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "너를 잊지 … 노라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:22.793961737Z",
+  "model": "glm-5.2"
+}

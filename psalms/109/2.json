@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "악인의 입과 속임의 입이 나를 향해 열렸고, 그들이 거짓의 혀로 나와 함께 말하였습니다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인의"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "그리고 입"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속임의"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나를 향해"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "열렸고"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "그들이 말하였습니다"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀로"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:08.383029731Z",
+  "model": "glm-5.2"
+}

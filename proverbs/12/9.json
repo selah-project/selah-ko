@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "낮추어져 ⟨그⟩ 자신에게 종이 있는 자가 낫다, 스스로 높임을 받으면서 떡이 부족한 자보다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "낮추어진 자"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "그리고 종이"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "스스로 높임을 받는 자"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "그리고 부족한"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:26.936277280Z",
+  "model": "glm-5.2"
+}

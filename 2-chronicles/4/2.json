@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 부어 만든 바다를 만들었으니 — 그 가장자리에서 가장자리까지 십 규빗, 둥글게 사방으로, 그 높이는 오 규빗, 그리고 삼십 규빗 줄이 ⟨את⟩ 그것을 사방으로 둘렀다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "부어 만든 바다를"
+    },
+    {
+      "surface": "הים",
+      "gloss": "그 바다를"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "부어 만든"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "십"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "규빗"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "그 가장자리에서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "그 가장자리"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "둥글게"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "사방으로"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "그리고 오"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "규빗"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "그 높이는"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "그리고 줄이"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "규빗"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "둘렀다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것을",
+      "marks": "그것을"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "사방으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:25.308467268Z",
+  "model": "glm-5.2"
+}

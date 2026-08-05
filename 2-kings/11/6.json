@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 삼분의 일은 수르 문에, 그리고 삼분의 일은 호위병 뒤 문에 있을 것이다. 그리고 너희는 ⟨את⟩ 집의 초소를 — 방벽으로 — 지킬 것이다.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "그리고 삼분의 일은"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "문에"
+    },
+    {
+      "surface": "סור",
+      "gloss": "수르"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "그리고 삼분의 일은"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "문에"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "뒤"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "호위병"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "그리고 너희는 지킬 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "집의 초소"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "초소"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "방벽으로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:51:52.606869344Z",
+  "model": "glm-5.2"
+}

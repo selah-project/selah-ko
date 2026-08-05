@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 17:25",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"아하론의 지팡이를 ⟨את⟩ 증거 앞으로 도로 가져다 놓아라. 반역하는 자들의 후손을 위한 표적으로, 보관물로 삼기 위함이다. 그리하면 그들의 불평이 나에게서 그쳐, 그들이 죽지 아니할 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "השב",
+      "gloss": "도로 가져다 놓아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아하론의 지팡이"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "지팡이"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론의"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "증거"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "보관물로"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "표적으로"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "후손을 위한"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "반역하는 자들"
+    },
+    {
+      "surface": "ותכל",
+      "gloss": "그쳐"
+    },
+    {
+      "surface": "תלונתם",
+      "gloss": "그들의 불평"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "죽지"
+    }
+  ],
+  "timestamp": "2026-08-05T08:38:36.679347565Z",
+  "model": "glm-5.2"
+}

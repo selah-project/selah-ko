@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "요셉이 죽고, 그의 모든 형제들과 그 세대의 모든 사람도 죽었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽고"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "그 세대의 사람"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:44.307378219Z",
+  "model": "glm-5.2"
+}

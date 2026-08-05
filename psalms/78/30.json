@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들의 탐욕에서 돌이키지 아니하였고, ⟨그들의⟩ 음식이 ⟨아직⟩ 그들의 입에 있었는데 —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "돌이키지"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "그들의 탐욕에서"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "그들의 음식이"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "그들의 입에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:42.755102537Z",
+  "model": "glm-5.2"
+}

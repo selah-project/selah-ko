@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "자기 아버지와 어머니를 저주하는 자, 그의 등불은 흑암 중에서 꺼진다.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "저주하는 자"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지를"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "어머니와"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "꺼진다"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "그의 등불은"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "중에서"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "흑암"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:16.831650729Z",
+  "model": "glm-5.2"
+}

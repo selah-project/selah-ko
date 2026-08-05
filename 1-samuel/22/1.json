@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "다윗이 거기서 가서 아둘람 동굴로 피하였다. 그의 형제들과 그의 아버지의 온 집이 듣고, 그에게로 그곳에 내려갔다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "피하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨으로⟩"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "동굴"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "아둘람"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "과 온"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지의"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "내려갔다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게로"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "그곳에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:01.020303469Z",
+  "model": "glm-5.2"
+}

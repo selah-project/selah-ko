@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "너의 입천장에 ⟨쇼파르를 두어라⟩, 독수리 같이 야훼의 집 위에 ⟨덮이리라⟩, 그들이 ⟨나의⟩ 브리트를 배반하였고 ⟨나의⟩ 토라에 반역하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "⟨두어라⟩"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "너의 입천장에"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "쇼파르"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "독수리 같이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "יען",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "배반하였고"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "나의 브리트를"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 …에"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "나의 토라에"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "반역하였기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:47.094130311Z",
+  "model": "glm-5.2"
+}

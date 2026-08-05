@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 너는 ⟨את⟩ 상을 휘장 바깥에 놓고, ⟨את⟩ 등잔대를 상 맞은편, 미쉬칸 남쪽 옆면에 놓아라. 그리고 상은 네가 북쪽 옆면에 놓을 것이다.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "그리고 너는 놓고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 상"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "그 상"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "바깥에"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "그 휘장"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 등잔대"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "그 등잔대"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "맞은편에"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "그 상"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "옆면"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "그 미쉬칸"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "남쪽"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "그리고 그 상"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "너는 놓을 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "옆면"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "북쪽"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:38.676352878Z",
+  "model": "glm-5.2"
+}

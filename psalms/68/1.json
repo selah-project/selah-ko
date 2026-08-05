@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "지휘자에게 ⟨위하여⟩, 다윗의, 마즈모르, 노래.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "마즈모르"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:44.555396974Z",
+  "model": "glm-5.2"
+}

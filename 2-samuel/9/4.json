@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "왕이 그에게 말씀하셨다. \"그가 어디에 있는가?\" 찌바가 왕에게 말하였다. \"보소서, 그가 로-데바르에 있습니다, 마키르의 집에, 암미엘의 아들 ⟨마키르⟩의 ⟨곳에⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "어디에 있는가"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "찌바가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "마키르의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "암미엘"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "에"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "로-데바르"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:59.218330326Z",
+  "model": "glm-5.2"
+}

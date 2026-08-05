@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "지혜로운 아들은 아비를 기쁘게 하고, 어리석은 사람은 자기 어미를 멸시한다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들은"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "기쁘게 한다"
+    },
+    {
+      "surface": "אב",
+      "gloss": "아비를"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "그리고 어리석은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "멸시한다"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "자기 어미를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:32.943306983Z",
+  "model": "glm-5.2"
+}

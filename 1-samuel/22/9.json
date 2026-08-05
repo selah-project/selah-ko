@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 22:9",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그러자 도에그 ⟨그⟩ 에돔인이 대답하였다 — 그는 샤울의 종들 위에 서 있었다 — 그리고 말하였다. \"나는 이쉬의 아들이 ⟨את⟩ 노브로, 아히멜렉 ⟨그⟩ 아히툽의 아들에게로 오는 것을 보았다.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하였다"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "도에그"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "에돔인"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "서 있었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아들"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이쉬의"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오는 것을"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "노브로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "아히멜렉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "아히툽의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:48:15.766320435Z",
+  "model": "glm-5.2"
+}

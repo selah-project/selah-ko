@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 야훼께서 ⟨את⟩ 그 백성의 헨을 미츠라임의 눈에 주셨으므로, 그들이 그들에게 빌려주었고, 그들이 ⟨את⟩ 미츠라임을 노략하였다.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "그리고 야훼께서"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주셨으므로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성의 헨"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨(은혜)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성의"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "그들이 그들에게 빌려주었고"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "그들이 노략하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미츠라임을"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:08.907436504Z",
+  "model": "glm-5.2"
+}

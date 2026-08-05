@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그리고 방들 앞에 열 암마 너비의 통로가 있었는데, 안쪽 ⟨방⟩으로 향하였다. 길은 한 암마였고, 그 입구들은 북쪽에 있었다.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "그리고 ∼앞에"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "그 방들"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "통로"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "암마"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "너비"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼로 향하는"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "그 안쪽"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "암마"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "그리고 그 입구들"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "북쪽에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:45.552799190Z",
+  "model": "glm-5.2"
+}

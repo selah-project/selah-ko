@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그때에 다윗이 말하였다. \"엘로힘의 ⟨את⟩ 궤를 메는 것은 레위인 외에는 ⟨아무도⟩ ⟨없다⟩. 이는 야훼께서 그들를 택하셨기 때문이다 — 야훼의 ⟨את⟩ 궤를 메며, 그분을 섬기기 위하여, 영원히.\"",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "메는 것은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘의 궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤를"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위인이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "택하셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "메며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "그리고 그분을 섬기기 위하여"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:39.775085988Z",
+  "model": "glm-5.2"
+}

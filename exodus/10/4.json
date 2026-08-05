@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "만일 네가 ⟨את⟩ 내 백성을 보내기를 거절한다면, 내일 메뚜기를 네 영토 안으로 들이겠다.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "~라면"
+    },
+    {
+      "surface": "מָאֵן",
+      "gloss": "거절한다면"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "לְשַׁלֵּחַ",
+      "gloss": "보내기를"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성을"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "הִנְנִי",
+      "gloss": "보라, 내가"
+    },
+    {
+      "surface": "מֵבִיא",
+      "gloss": "들이겠다"
+    },
+    {
+      "surface": "מָחָר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "אַרְבֶּה",
+      "gloss": "메뚜기를"
+    },
+    {
+      "surface": "בִּגְבֻלֶךָ",
+      "gloss": "네 영토 안으로"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:15.163229665Z",
+  "model": "glm-5.2"
+}

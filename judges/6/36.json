@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 6:36",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "기드온이 엘로힘에게 말하였다. \"만약 당신이 당신의 말씀대로 내 손으로 ⟨את⟩ 이스라엘을 구원하시는 분이시라면,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "기드온이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만약"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "당신이 …이시라면"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "구원하시는 분"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "내 손으로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…대로"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "당신의 말씀"
+    }
+  ],
+  "timestamp": "2026-08-05T09:14:44.408872837Z",
+  "model": "glm-5.2"
+}

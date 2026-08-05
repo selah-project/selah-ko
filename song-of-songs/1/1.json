@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "노래들 중의 노래, 곧 셸로모의 ⟨것⟩.",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "הַשִּׁירִ֖ים",
+      "gloss": "노래들 중의"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "לִשְׁלֹמֹֽה",
+      "gloss": "셸로모의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:41.373975218Z",
+  "model": "glm-5.2"
+}

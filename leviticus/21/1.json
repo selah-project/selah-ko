@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"코헨들에게, 아론의 아들들에게 말하여라. 그리고 그들에게 이르기를: 네페쉬로 인하여 — 자기 백성 중에서 — 부정하게 되지 말라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "네페쉬로 인하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "부정하게 되다"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "자기 백성 중에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:51.234424185Z",
+  "model": "glm-5.2"
+}

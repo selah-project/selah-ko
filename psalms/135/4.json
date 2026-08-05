@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "야가 야곱을 자기 ⟨것⟩으로 택하셨기 때문이다, 이스라엘을 자기 특별 소유 ⟨것⟩으로.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱을"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "택하셨기"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야가"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "자기 특별 소유 것으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:56.433328736Z",
+  "model": "glm-5.2"
+}

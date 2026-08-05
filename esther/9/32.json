@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "에스더의 말씀이 ⟨את⟩ 이 부림의 일들을 세웠고, 그것이 책에 기록되었다.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더"
+    },
+    {
+      "surface": "קים",
+      "gloss": "세웠고"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "일들을"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "부림"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "기록되었다"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "책에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:30.178346162Z",
+  "model": "glm-5.2"
+}

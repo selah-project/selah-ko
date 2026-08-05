@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨그것이⟩ 일어날 것이다 — 만일 열 사람이 한 집에 남아 있으면, 그들이 죽을 것이다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ⟨그것이⟩ 일어날 것이다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "그들이 남아 있으면"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "한 집에"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "그리고 그들이 죽을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:26:47.920745299Z",
+  "model": "glm-5.2"
+}

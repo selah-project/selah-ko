@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 13:24",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 그 여인이 아들을 낳고, ⟨את⟩ 그의 이름을 심손이라 불렀다. 그리고 그 소년이 자라매, 야훼께서 그를 축복하셨다.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "그리고 … 낳아"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여인이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "그리고 … 불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "심손이라"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "그리고 … 자라매"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "그 소년이"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "그리고 … 축복하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:57.800727756Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "입이 그들에게 있으나 말하지 못하고, 눈이 그들에게 있으나 보지 못하도다.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "입이"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 … 못하고"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "말하지"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 … 못하도다"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "보지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:44.313615717Z",
+  "model": "glm-5.2"
+}

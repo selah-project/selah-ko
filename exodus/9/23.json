@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 모셰가 ⟨את⟩ 그의 지팡이를 하늘을 향해 뻗으니, 야훼께서 소리와 우박을 보내셨다. 그리고 불이 땅으로 내왔고, 야훼께서 미츠라임 땅에 우박을 내리셨다.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "그리고 …뻗으니"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 지팡이"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "그의 지팡이"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을 향해"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "그리고 야훼께서"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "소리"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "그리고 우박"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "그리고 …내왔다"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "그리고 …내리셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "우박"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:20.758795875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "비워짐, 철저히 비워지리라 땅이, 그리고 약탈당함, 철저히 약탈당하리라, 대저 야훼께서 ⟨את⟩ ⟨그⟩ 말씀을 말씀하셨기 때문이다 — 곧 이것이다.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "비워짐"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "철저히 비워지리라"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "그리고 약탈당함"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "철저히 약탈당하리라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대저 …이기 때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 말씀"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨그⟩ 말씀을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "곧 이것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:48.869171220Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그는 가난한 자와 궁핍한 자의 재판을 판결하였다 — 그때에 좋았더라. 이것이 ⟨את⟩ 나를 아는 것이 아니냐? 야훼의 선언이시다.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "판결하였다"
+    },
+    {
+      "surface": "דין",
+      "gloss": "재판을"
+    },
+    {
+      "surface": "עני",
+      "gloss": "가난한 자"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "궁핍한 자의"
+    },
+    {
+      "surface": "אז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋았더라"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아니냐"
+    },
+    {
+      "surface": "היא",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "아는 것"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:12.635236820Z",
+  "model": "glm-5.2"
+}

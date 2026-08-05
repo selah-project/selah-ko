@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "널빤지로 속이 빈 것으로 만들되, ⟨그것을⟩ 만들 것이다. 산에서 네게 보이신 것 같이, 그들이 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "속이 빈"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "널빤지로"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 만들 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "같이"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "보이신 것"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "네게"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에서"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "그들이 만들 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:21.625727983Z",
+  "model": "glm-5.2"
+}

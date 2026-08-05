@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "코헨들 중 모든 남자가 그것을 먹을 것이다. 거룩한 곳에서 먹어야 한다. 그것은 거룩 중의 거룩이다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "코헨들 중"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "그것을 먹을 것이다"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "~에서"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩한 곳"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹어야 한다"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩들의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은 ~이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:30.826239913Z",
+  "model": "glm-5.2"
+}

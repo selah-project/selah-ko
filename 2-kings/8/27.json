@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 8:27",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 아하브의 집안의 길로 걸었고, 야훼의 눈에 악을 행하였으니, 아하브의 집안 같이 하였다. 그가 아하브의 집안의 사돈이었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그가 걸었고"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집안의"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "…같이"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "사돈"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집안의"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가…이기 때문이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:51.996954864Z",
+  "model": "glm-5.2"
+}

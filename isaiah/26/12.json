@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "야훼여, ⟨그⟩대께서 우리를 위하여 샬롬을 베푸시리니, 이는 우리의 모든 행위도 ⟨그⟩대께서 우리를 위하여 행하셨음이니이다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여,"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "베푸시리니"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위하여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "גם",
+      "gloss": "～도"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "행위"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "행하셨음이니이다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:46.027091044Z",
+  "model": "glm-5.2"
+}

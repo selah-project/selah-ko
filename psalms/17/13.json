@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "일어나소서, 야훼여, 그의 면전을 맞아서 나아가 그를 꺾어 엎드리게 하소서. 당신의 칼로 악인에게서 제 네페쉬를 건져 내소서.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "일어나소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "맞서 나아가"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 면전을"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "그를 엎드리게 하소서"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "건져 내소서"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "제 네페쉬를"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "악인에게서"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "당신의 칼로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:27.866802618Z",
+  "model": "glm-5.2"
+}

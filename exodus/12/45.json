@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "거류자와 품꾼은 ⟨그것⟩을 먹지 못한다.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "거류자와"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "품꾼은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못한다"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹지"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨그것⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T07:52:28.500796933Z",
+  "model": "glm-5.2"
+}

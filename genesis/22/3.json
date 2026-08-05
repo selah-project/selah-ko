@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 22:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "아브라함이 아침에 일찍 일어나 ⟨את⟩ 자기 나귀를 안장 지우고, 자기 사환 둘과 ⟨את⟩ 아들 이삭을 데리고 올라 나무를 패고, 일어나서 엘로힘이 그에게 말씀하신 그 곳으로 갔다.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "일찍 일어나"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "안장 지우고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 나귀"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "자기 나귀"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사환 둘"
+    },
+    {
+      "surface": "שני",
+      "gloss": "둘"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "자기 사환"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "자기와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "이삭"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "패고"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나서"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "그 곳"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곳"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로님이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:28.163111231Z",
+  "model": "glm-5.2"
+}

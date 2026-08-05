@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "그분께서 위로부터 하늘을 부르신다. 그리고 땅을 ⟨부르신다⟩ — 그분의 백성을 심판하시려.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "그분께서 부르신다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘을"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위로부터"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~에게"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "심판하시려"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그분의 백성을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:48.644423871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그들이 그곳 기브아에 이르렀는데, 보라, 나비들의 무리가 그를 맞이하러 ⟨나왔고⟩, 엘로힘의 루아흐가 그에게 임하시어 그가 그들 가운데서 예언하였다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 이르렀다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "기브아로"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "무리가"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "나비들의"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "그를 맞이하러"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "임하시어"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "그가 예언하였다"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "그들 가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:26:33.511670988Z",
+  "model": "glm-5.2"
+}

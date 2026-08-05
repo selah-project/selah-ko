@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "어떤 남자가 새 아내를 맞이하면, 그는 군대에 나가지 않고, 어떤 일에도 그에게 부과되지 않으며, 한 해 동안 자기 집에서 의무가 없을 것이니, ⟨그⟩가 ⟨את⟩ 자기 아내, 곧 맞이한 아내를 기쁘게 할 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "～하면"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "맞이하면"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "새"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나가며"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "군대에"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "지나갈"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일에"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "의무가 없을"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "것이다"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "자기 집에서"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "그리고 기쁘게 할"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아내"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "자기 아내"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "맞이한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:32.313933228Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야훼의 소리가 불꽃을 깎으신다.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "깎으신다"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "불꽃을"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:07.936048655Z",
+  "model": "glm-5.2"
+}

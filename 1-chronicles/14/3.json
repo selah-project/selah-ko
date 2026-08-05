@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 다윗은 예루샬라임에서 더 많은 아내들을 맞이하였다. 그리고 다윗은 더 많은 아들들과 딸들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 맞이하였다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더 많은"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "아내들을"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "그리고 낳았다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더 많은"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들과"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "딸들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:01.198700283Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그 ⟨때⟩에 당신은 태에서 저를 나오게 하셨고, 샤다이 위에서 저를 의지하게 하셨나이다, 제 어머니의.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "그 ⟨때⟩에"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "גֹחִ֣י",
+      "gloss": "나오게 하셨고"
+    },
+    {
+      "surface": "מִבָּ֑טֶן",
+      "gloss": "태에서"
+    },
+    {
+      "surface": "מַ֝בְטִיחִ֗י",
+      "gloss": "의지하게 하셨나이다"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…위에서"
+    },
+    {
+      "surface": "שְׁדֵ֥י",
+      "gloss": "샤다이"
+    },
+    {
+      "surface": "אִמִּֽי",
+      "gloss": "제 어머니의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:59.815771742Z",
+  "model": "glm-5.2"
+}

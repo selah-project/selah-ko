@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "왕이 그들에게 가혹하게 대답하였다. 왕 르하브암이 장로들의 ⟨את⟩ 모략을 버렸다.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "대답하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "가혹하게"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "버렸다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "르하브암이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모략을"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "모략"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "장로들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:13.886813274Z",
+  "model": "glm-5.2"
+}

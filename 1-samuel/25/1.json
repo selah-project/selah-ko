@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 샤무엘이 죽으매, 온 이스라엘이 모여 그를 위해 애곡하고, 라마의 그의 집에 그를 장사하였다. 그리고 다윗이 일어나 파란 광야로 내려갔다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽으매"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘이"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "모여"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "애곡하고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를 위해"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "장사하였다"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "그의 집에"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "라마의"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "내려갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "파란"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:42.309412996Z",
+  "model": "glm-5.2"
+}

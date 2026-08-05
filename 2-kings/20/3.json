@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "\"오, 야훼여, 부디 ⟨את⟩ 제가 주 앞에서 진실함과 온전한 마음으로 행하며, 주의 눈에 좋은 것을 행하였음을 기억해 주십시오.\" 히즈키야후가 크게 울었다.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "오"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "기억해 주십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제가 … 행하였음을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "제가"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "행하였음을"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "주 앞에서"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "진실함과"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "온전한"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "좋은 것을"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "주의 눈에"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "행하였음을"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "울었다"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "히즈키야후가"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "울음으로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:45.944250267Z",
+  "model": "glm-5.2"
+}

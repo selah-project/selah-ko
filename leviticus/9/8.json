@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "아하론이 제단으로 나아가, ⟨את⟩ 자기를 위한 속죄 제물인 송아지를 잡았다.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "잡았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "송아지"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "송아지"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "속죄 제물인"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which\/that"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:33.556046244Z",
+  "model": "glm-5.2"
+}

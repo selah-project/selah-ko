@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "이스라엘의 아들들은 열매를 맺고, 창성하여, 번성하고, 심히 강성하였으니 — 그 땅이 그들로 가득하였다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 …의 아들들은"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "열매를 맺고"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "창성하여"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "번성하고"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "강성하였으니"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "실히"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "강하게"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "가득하였다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅이"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:44.307478234Z",
+  "model": "glm-5.2"
+}

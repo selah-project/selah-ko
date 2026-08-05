@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "지휘자에게 ⟨하였다⟩. 야훼의 종 다윗에게 ⟨하였다⟩. ⟨이것은⟩ 야훼께서 ⟨그⟩ 모든 원수의 손아귀와 샤울의 손에서 ⟨그⟩를 건져 주신 날에, 야훼께 ⟨את⟩ 이 노래의 말씀들을 아뢴 것이다.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "종에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨이것은⟩ …-한"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "아뢴 것이다"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 노래의 말씀들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "이 노래의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "건져 주신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨그⟩를"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "손아귀에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "원수의"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "그리고 손에서"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:09.340577952Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "그것들처럼 그것들을 만든 자들이 될 것이다. 그것들에게 피신하는 모든 자가 ⟨그러하다⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "그것들처럼"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "그들이 될 것이다"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "그것들을 만든 자들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~하는"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "피신하다"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그것들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:00.532458388Z",
+  "model": "glm-5.2"
+}

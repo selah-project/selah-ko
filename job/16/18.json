@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 16:18",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "땅아, 내 피를 덮지 말아라. 그리고 ⟨내⟩ 부르짖음이 ⟨쉴⟩ 자리가 없게 하라.",
+  "tokens": [
+    {
+      "surface": "אֶ֭רֶץ",
+      "gloss": "땅아"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "말아라"
+    },
+    {
+      "surface": "תְּכַסִּ֣י",
+      "gloss": "덮지"
+    },
+    {
+      "surface": "דָּמִ֑י",
+      "gloss": "내 피를"
+    },
+    {
+      "surface": "וְֽאַל",
+      "gloss": "없게 하라"
+    },
+    {
+      "surface": "יְהִ֥י",
+      "gloss": "⟨쉴⟩"
+    },
+    {
+      "surface": "מָק֖וֹם",
+      "gloss": "자리가"
+    },
+    {
+      "surface": "לְזַעֲקָתִֽי",
+      "gloss": "⟨내⟩ 부르짖음이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:05:35.353894080Z",
+  "model": "glm-5.2"
+}

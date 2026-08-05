@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그녀가 말하였다. \"내가 ⟨그대⟩에게 청하는 작은 청원 하나가 있습니다. 내 얼굴을 ⟨את⟩ 거절하지 마십시오.\" 왕이 그녀에게 말하였다. \"어머니, 청하십시오. 내가 ⟨그대⟩의 얼굴을 ⟨את⟩ 거절하지 아니할 것입니다.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "청원"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나가"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "작은"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "청하는"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨그대⟩에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "마십시오"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "거절하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "얼굴을"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "청하십시오"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "어머니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "거절할"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "얼굴을"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "얼굴을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:45:52.817768240Z",
+  "model": "glm-5.2"
+}

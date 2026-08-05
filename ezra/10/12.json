@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 온 회중이 대답하여 큰 소리로 말하였다. \"그대로 하겠나이다. 당신의 말씀대로 우리가 행하겠나이다.\"",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "그리고 대답하여"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그대로"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "당신의 말씀대로"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하겠나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:33:37.339167389Z",
+  "model": "glm-5.2"
+}

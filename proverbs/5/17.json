@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그것들이 너만의 것이 되게 하라, ⟨그리고⟩ 낯선 자들이 너와 함께 ⟨함께⟩ ⟨있지⟩ 않게 하라.",
+  "tokens": [
+    {
+      "surface": "יִֽהְיוּ",
+      "gloss": "그것들이 …되게 하라"
+    },
+    {
+      "surface": "לְךָ֥",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "לְבַדֶּ֑ךָ",
+      "gloss": "너만의"
+    },
+    {
+      "surface": "וְאֵ֖ין",
+      "gloss": "⟨그리고⟩ …없게 하라"
+    },
+    {
+      "surface": "לְזָרִ֣ים",
+      "gloss": "낯선 자들에게"
+    },
+    {
+      "surface": "אִתָּֽךְ",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:20.816289731Z",
+  "model": "glm-5.2"
+}

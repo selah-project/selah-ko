@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "모셰가 일어났고, 그의 시종 여호수아도 ⟨일어났으며⟩, 모셰가 엘로힘의 산으로 올라갔다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "그리고 여호수아"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "그의 시종"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 올라갔다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:41.811295759Z",
+  "model": "glm-5.2"
+}

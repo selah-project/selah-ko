@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "아하론이 모셰에게로, 만남의 장막 어귀로 돌아가자, 재앙이 멈추어졌다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아가자"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～로"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "어귀"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "재앙이"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "멈추어졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:26.993240577Z",
+  "model": "glm-5.2"
+}

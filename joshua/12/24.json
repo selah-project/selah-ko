@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "티르차의 왕 한 명. 모든 왕은 서른한 명이었다.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "티르차의"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "서른"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "한 명이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:47.508154323Z",
+  "model": "glm-5.2"
+}

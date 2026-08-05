@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "엘로힘, 젊음에서부터 저를 가르치셨고, 이곳까지 저는 주의 기이한 일들을 선포합니다.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "가르치셨고"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "젊음에서부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "이곳"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "선포합니다"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "주의 기이한 일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:13.364312910Z",
+  "model": "glm-5.2"
+}

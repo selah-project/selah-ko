@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "하맛의 왕은 어디 ⟨있느냐⟩, 아르팟의 왕은, 스바르와임 성읍의 왕은, 헤나와 이와는?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "어디"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "하맛"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "그리고 왕"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "아르팟"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "그리고 왕"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "성읍의"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "스바르와임"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "헤나"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "그리고 이와"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:42.719053287Z",
+  "model": "glm-5.2"
+}

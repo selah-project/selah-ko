@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 14:28",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그것이 일어났다, 때때로 왕이 야훼의 집에 들어갈 때마다, 호위대원들이 그것들을 들었고, 그리고 그것들을 호위대원들의 방으로 가져다 놓았다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 그것이 일어났다"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "때때로"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어갈"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "그것들을 들었고"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "호위대원들이"
+    },
+    {
+      "surface": "והשיבום",
+      "gloss": "그리고 그것들을 가져다 놓았다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "תא",
+      "gloss": "방"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "호위대원들의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:51:55.867264634Z",
+  "model": "glm-5.2"
+}

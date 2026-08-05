@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 44:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그것이 사람에게 땔감이 되리니, 그가 ⟨그것⟩ 중에서 ⟨무언가⟩를 취하여 몸을 데우고, 심지어 불을 피워 빵을 굽고, 심지어 엘을 만들어 그것에 엎드려 경배하고, 그것을 우상으로 만들어 그것에 절하였다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그것이 …이 되리니"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "땔감이"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "그가 취하여"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "⟨그것⟩ 중에서"
+    },
+    {
+      "surface": "ויחם",
+      "gloss": "몸을 데우고"
+    },
+    {
+      "surface": "אף",
+      "gloss": "심지어"
+    },
+    {
+      "surface": "ישיק",
+      "gloss": "불을 피워"
+    },
+    {
+      "surface": "ואפה",
+      "gloss": "굽고"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "אף",
+      "gloss": "심지어"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "만들고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘을"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "엎드려 경배하고"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "그것을 만들어"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "우상으로"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "절하였다"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그것에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:16:37.778615628Z",
+  "model": "glm-5.2"
+}

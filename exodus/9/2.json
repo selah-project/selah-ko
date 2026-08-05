@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "만일 네가 보내기를 거절하고, 여전히 그들을 붙잡고 있다면 —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מאן",
+      "gloss": "거절한다면"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "보내기를"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "여전히"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "붙잡고 있다면"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:34.998102795Z",
+  "model": "glm-5.2"
+}

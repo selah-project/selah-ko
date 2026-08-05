@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 말하였다 — \"만일 에사브가 ⟨그⟩ 하나의 진영에 이르러 그것을 치면, 남은 ⟨그⟩ 진영은 도피가 될 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "이르면"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "그리고 그것을 치면"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그러면 ~이 될 것이다"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영은"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "남은"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "도피가"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:30.471512203Z",
+  "model": "glm-5.2"
+}

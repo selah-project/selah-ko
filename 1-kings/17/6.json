@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "까마귀들이 그에게 아침에 빵과 고기를, 그리고 저녁에 빵과 고기를 가져다주었으며, 그는 나할에서 마셨다.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "까마귀들이"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "가져다주었으며"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵과"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "고기를"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "빵과"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "고기를"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "저녁에"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "∼에서"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "나할"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "마셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:52:18.812298380Z",
+  "model": "glm-5.2"
+}

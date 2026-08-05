@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내가 나와 화평한 자에게 악을 갚았다면, 그리고 까닭 없이 나를 괴롭히는 자를 빈손으로 건져주었다면,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "갚았다면"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "나와 화평한 자에게"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "그리고 건져주었다면"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "나를 괴롭히는 자를"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "까닭 없이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:08.460455421Z",
+  "model": "glm-5.2"
+}

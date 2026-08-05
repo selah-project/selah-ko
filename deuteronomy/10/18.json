@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "고아와 과부를 위해 미쉬파트를 행하시며, 그에게 빵과 옷을 주시기 위해 게르를 사랑하시는도다.",
+  "tokens": [
+    {
+      "surface": "עֹשֶׂ֛ה",
+      "gloss": "행하시는도다"
+    },
+    {
+      "surface": "מִשְׁפַּ֥ט",
+      "gloss": "미쉬파트를"
+    },
+    {
+      "surface": "יָת֖וֹם",
+      "gloss": "고아와"
+    },
+    {
+      "surface": "וְאַלְמָנָ֑ה",
+      "gloss": "과부를 위해"
+    },
+    {
+      "surface": "וְאֹהֵ֣ב",
+      "gloss": "그리고 사랑하시는도다"
+    },
+    {
+      "surface": "גֵּ֔ר",
+      "gloss": "게르를"
+    },
+    {
+      "surface": "לָ֥תֶת",
+      "gloss": "주시기 위해"
+    },
+    {
+      "surface": "ל֖וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לֶ֥חֶם",
+      "gloss": "빵과"
+    },
+    {
+      "surface": "וְשִׂמְלָֽה",
+      "gloss": "옷을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:12.348444152Z",
+  "model": "glm-5.2"
+}

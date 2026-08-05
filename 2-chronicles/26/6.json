@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그가 나아가서 펠리쉬티민과 싸웠고, 갓의 성벽과 ⟨את⟩ 야브네의 성벽과 ⟨את⟩ 아쉬도드의 성벽을 헐었으며, 아쉬도드와 펠리쉬티민 가운데 성읍들을 건축하였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "그가 나아가서"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "싸웠고"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "펠리쉬티민과"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "헐었으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "갓의 성벽을"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "גת",
+      "gloss": "갓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "야브네의 성벽"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "야브네"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아쉬도드의 성벽"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "아쉬도드"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "건축하였다"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "성읍들을"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "아쉬도드에"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "그리고 펠리쉬티민 가운데"
+    }
+  ],
+  "timestamp": "2026-08-05T17:24:10.706993822Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 6:15",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그가 ⟨그⟩에게 말하였다. \"제가 여쭙니다, 아도나이. 제가 무엇으로 이스라엘을 구원하겠습니까? 보십시오, 나의 천 명이 므나쎄에서 가장 가난하고, 저는 내 아버지 집에서 가장 어립니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בי",
+      "gloss": "제가 여쭙니다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "במה",
+      "gloss": "무엇으로"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "구원하겠습니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "나의 천 명이"
+    },
+    {
+      "surface": "הדל",
+      "gloss": "가장 가난하고"
+    },
+    {
+      "surface": "במנשה",
+      "gloss": "므나쎄에서"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "저는"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "가장 어립니다"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:14:48.745752473Z",
+  "model": "glm-5.2"
+}

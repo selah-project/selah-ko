@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 안뜰을 지었으니, 다듬은 돌 세 줄과 삼나무 들보 한 줄이었다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 지었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "안뜰을"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "안"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "세"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "줄"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "다듬은 돌"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "그리고 줄"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "들보"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "삼나무"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:55.112950855Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "물이 나를 네페쉬까지 에워쌌다. 심연이 나를 둘러싸고 갈대가 내 머리에 감겼다.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "나를 에워쌌다"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "심연이"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "나를 둘러싸고"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "갈대가"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "감겼다"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "내 머리에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:58.996878084Z",
+  "model": "glm-5.2"
+}

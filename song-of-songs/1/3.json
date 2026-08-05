@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "당신의 향기름들 ⟨의 향⟩ ⟨이⟩ 좋음 ⟨으로⟩, 부어진 향기름 — 당신의 이름. 그러므로 알마들이 당신을 사랑하였다.",
+  "tokens": [
+    {
+      "surface": "לְרֵ֨יחַ֙",
+      "gloss": "향"
+    },
+    {
+      "surface": "שְׁמָנֶ֣יךָ",
+      "gloss": "당신의 향기름들"
+    },
+    {
+      "surface": "טוֹבִ֔ים",
+      "gloss": "좋음"
+    },
+    {
+      "surface": "שֶׁ֖מֶן",
+      "gloss": "향기름"
+    },
+    {
+      "surface": "תּוּרַ֣ק",
+      "gloss": "부어진"
+    },
+    {
+      "surface": "שְׁמֶ֑ךָ",
+      "gloss": "당신의 이름"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כֵּ֖ן",
+      "gloss": "(그러므로에 포함)"
+    },
+    {
+      "surface": "עֲלָמ֥וֹת",
+      "gloss": "알마들이"
+    },
+    {
+      "surface": "אֲהֵבֽוּךָ",
+      "gloss": "당신을 사랑하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:41.374236048Z",
+  "model": "glm-5.2"
+}

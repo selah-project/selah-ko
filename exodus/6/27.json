@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그들이 미츠라임 왕 파르오에게 말하여 이스라엘의 아들들을 미츠라임에서 이끌어 내려 한 자들이다 — ⟨그는⟩ 모셰이고 그리고 아하론이다. ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "말한 자들이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츨아임"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "이끌어 내려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그는⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰이고"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "그리고 아하론이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:07.071699033Z",
+  "model": "glm-5.2"
+}

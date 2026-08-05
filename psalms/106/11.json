@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리하여 물이 그들의 적들을 덮었으니, 그들 중 하나도 남지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וביכסו",
+      "gloss": "그리하여 덮었으니"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "그들의 적들을"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그들 중"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "남지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:34.563218885Z",
+  "model": "glm-5.2"
+}

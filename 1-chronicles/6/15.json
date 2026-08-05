@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "시므아 그의 아들, 하기야 그의 아들, 아사야 그의 아들이다.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "시므아"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "하기야"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "아사야"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:53.566799430Z",
+  "model": "glm-5.2"
+}

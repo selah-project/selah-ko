@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 1:14",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "내가 랍바의 성벽에 불을 지르리니, 그것이 그녀의 궁궐들을 삼킬 것이다. 전쟁의 날에 함성으로, 폭풍의 날에 회오리로.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "내가 불을 지르리니"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불을"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "성벽에"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "랍바의"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "그것이 삼킬 것이다"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "그녀의 궁궐들을"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "함성으로"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁의"
+    },
+    {
+      "surface": "בסער",
+      "gloss": "회오리로"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "폭풍의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:09:14.952779675Z",
+  "model": "glm-5.2"
+}

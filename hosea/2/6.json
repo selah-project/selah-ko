@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 ⟨את⟩ 그녀의 자녀들을 내가 긍휼히 여기지 아니하리니, 이는 그들이 음행의 자녀들이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 자녀들을"
+    },
+    {
+      "surface": "בָּנֶ֖יהָ",
+      "gloss": "그녀의 자녀들을"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אֲרַחֵ֑ם",
+      "gloss": "내가 긍휼히 여기리라"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "בְנֵ֥י",
+      "gloss": "～의 자녀들"
+    },
+    {
+      "surface": "זְנוּנִ֖ים",
+      "gloss": "음행"
+    },
+    {
+      "surface": "הֵֽמָּה",
+      "gloss": "그들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:37.834422219Z",
+  "model": "glm-5.2"
+}

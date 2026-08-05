@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 우리는 서로 혼인하십시오 — ⟨그대⟩들의 딸들을 우리에게 주시고, ⟨את⟩ 우리의 딸들은 ⟨그대⟩들이 취하십시오.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "그리고 우리는 서로 혼인하십시오"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "우리와 함께"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "⟨그대⟩들의 딸들을"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "주시고"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 딸들을"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "우리의 딸들은"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "취하십시오"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨그대⟩들이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:41.206264312Z",
+  "model": "glm-5.2"
+}

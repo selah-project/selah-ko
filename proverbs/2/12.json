@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "악한 길에서, 뒤바뀜을 말하는 사람에게서 너를 건져내기 위함이라.",
+  "tokens": [
+    {
+      "surface": "לְ֭הַצִּ֣ילְךָ",
+      "gloss": "너를 건져내기 위함이라"
+    },
+    {
+      "surface": "מִדֶּ֣רֶךְ",
+      "gloss": "…길에서"
+    },
+    {
+      "surface": "רָ֑ע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "מֵ֝אִ֗ישׁ",
+      "gloss": "…사람에게서"
+    },
+    {
+      "surface": "מְדַבֵּ֥ר",
+      "gloss": "말하는"
+    },
+    {
+      "surface": "תַּהְפֻּכֽוֹת",
+      "gloss": "뒤바뀜을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:31.408608484Z",
+  "model": "glm-5.2"
+}

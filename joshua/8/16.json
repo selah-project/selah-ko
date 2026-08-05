@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리하여 도시에 있는 온 백성이 그들을 뒤쫓기 위해 부름받았다. 그들은 여호수아를 뒤쫓았고, 도시에서 끌려나왔다.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "그리하여 … 부름받았다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— … 에 있는"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "도시"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "뒤쫓기 위해"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "뒤쫓았고"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아를"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "끌려나왔다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "도시"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:15.430775875Z",
+  "model": "glm-5.2"
+}

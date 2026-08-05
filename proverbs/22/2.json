@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "부자와 가난한 ⟨자가⟩ 만났다; 그 모두의 만드신 이는 야훼이시다.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "부자와"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "가난한"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "만났다"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만드신 이는"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "그 모두의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:41.426283820Z",
+  "model": "glm-5.2"
+}

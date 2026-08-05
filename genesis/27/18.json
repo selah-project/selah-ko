@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 ⟨그가⟩ 자기 아버지에게 가서 말하였다. \"아버지.\" 그가 말하였다. \"제가 여기 있습니다. 너는 누구냐, 내 아들아?\"",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "가서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:57.135660862Z",
+  "model": "glm-5.2"
+}

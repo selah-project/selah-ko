@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "기브온에서 야훼께서 샬로모에게 밤의 꿈에 나타나셨고, 엘로힘이 말씀하셨다. \"청하라, 무엇을 내가 네게 주어야 하는가.\"",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "기브온에서"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "나타나셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "샬로모"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "꿈에"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "청하라"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "내가 주어야 하는가"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:24.393006912Z",
+  "model": "glm-5.2"
+}

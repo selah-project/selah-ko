@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 7:12",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "네 날들이 차서 네가 ⟨את⟩ 네 조상들과 함께 눕게 될 때, 네 몸에서 나올 네 씨를 네 뒤에 일으켜 세우고, 내가 ⟨את⟩ 그의 왕국을 견고히 세우리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…때"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "차서"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "네 날들이"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "네가 눕게 될"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 조상들"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "네 조상들"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "내가 일으켜 세우고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 씨"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 씨"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "네 뒤에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…가"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나올"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "네 몸에서"
+    },
+    {
+      "surface": "והכינתי",
+      "gloss": "내가 견고히 세우리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 왕국"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "그의 왕국을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:55.919133387Z",
+  "model": "glm-5.2"
+}

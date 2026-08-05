@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "마음으로 부서진 자들을 고치시며, 그들의 상처를 싸매시는 이.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "고치시는"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "부서진 자들을"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "싸매시는"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "그들의 상처를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:10.543281682Z",
+  "model": "glm-5.2"
+}

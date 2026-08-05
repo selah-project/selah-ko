@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "추운 날에 옷을 벗기는 것, 네트르 위에 식초를 붓는 것, 슬픈 마음에 노래를 부르는 자와 같으니, 그는 닳아 없어지는 옷과 같다.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "벗기는 것"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "옷을"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…날에"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "추운"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "식초"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "네트르"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "노래 부르는 자"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "노래들로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음"
+    },
+    {
+      "surface": "רע",
+      "gloss": "슬픈"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:33.450368385Z",
+  "model": "glm-5.2"
+}

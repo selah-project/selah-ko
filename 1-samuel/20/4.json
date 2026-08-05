@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "여호나탄이 다윗에게 말하였다. \"당신의 네페쉬가 무엇을 말하겠습니까? 내가 ⟨그것을⟩ 당신을 위해 하겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "말하겠습니까"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "당신의 네페쉬가"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "하겠습니다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신을 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:15.286833623Z",
+  "model": "glm-5.2"
+}

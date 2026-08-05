@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "다윗이 타말에게 집으로 사람을 보내어 말하게 하였다. “부디 네 오라비 암논의 집으로 가서, 그에게 요리를 만들어 주어라.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "타말"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하게 하였다"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "가서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "암논"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 오라비"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "만들어 주어라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "요리를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:29.694260527Z",
+  "model": "glm-5.2"
+}

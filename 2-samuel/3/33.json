@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 임금이 아브네르를 위해 애가를 지어 말하셨다. \"바보가 죽듯이 아브네르가 죽었는가?\"",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "그리고 애가를 지어"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "임금이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~를 위해"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브네르를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하셨다"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "~의 죽음같이"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "바보가"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽듯이"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브네르가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:03.036100183Z",
+  "model": "glm-5.2"
+}

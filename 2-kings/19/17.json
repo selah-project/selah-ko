@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "진실로 야훼여, 아슈르의 왕들이 ⟨את⟩ 민족들과 ⟨את⟩ 그들의 땅을 황폐하게 하였나이다.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "진실로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "황폐하게 하였나이다"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "민족들"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 땅"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "그들의 땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:16.651176688Z",
+  "model": "glm-5.2"
+}

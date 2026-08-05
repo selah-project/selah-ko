@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨את⟩ 큰 집을 잣나무 널빤지로 덮고, 그것을 좋은 금으로 덮었으며, 그 위에 종려나무 장식과 사슬들을 새겨 넣었다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "큰 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "잣나무들"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "그리고 그것을 덮었다"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 올리게 하였다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "종려나무 장식들"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "그리고 사슬들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:57.927426839Z",
+  "model": "glm-5.2"
+}

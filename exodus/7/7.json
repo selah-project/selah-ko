@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 모셰는 팔십 년이고, 아하론은 팔십삼 년으로, 그들이 파르오에게 말할 때에 ⟨이었다⟩.",
+  "tokens": [
+    {
+      "surface": "וּמֹשֶׁה֙",
+      "gloss": "그리고 모셰는"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "…이다"
+    },
+    {
+      "surface": "שְׁמֹנִ֣ים",
+      "gloss": "팔십"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "년이고"
+    },
+    {
+      "surface": "וְאַֽהֲרֹ֔ן",
+      "gloss": "그리고 아하론은"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "…이다"
+    },
+    {
+      "surface": "שָׁלֹ֥שׁ",
+      "gloss": "셋"
+    },
+    {
+      "surface": "וּשְׁמֹנִ֖ים",
+      "gloss": "그리고 팔십"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "년으로"
+    },
+    {
+      "surface": "בְּדַבְּרָ֖ם",
+      "gloss": "그들이 말할 때에"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פַּרְעֹֽה",
+      "gloss": "파르오"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:11.928047265Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "내 마음이 두근거리고, 내 힘이 나를 떠났으며, 내 눈의 빛도 또한 나와 함께 있지 아니하다.",
+  "tokens": [
+    {
+      "surface": "לִבִּ֣י",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "סְ֭חַרְחַר",
+      "gloss": "두근거리고"
+    },
+    {
+      "surface": "עֲזָבַ֣נִי",
+      "gloss": "나를 떠났으며"
+    },
+    {
+      "surface": "כֹחִ֑י",
+      "gloss": "내 힘이"
+    },
+    {
+      "surface": "וְֽאוֹר",
+      "gloss": "빛도"
+    },
+    {
+      "surface": "עֵינַ֥י",
+      "gloss": "내 눈의"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "הֵ֝֗ם",
+      "gloss": "그것들도"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "אִתִּֽי",
+      "gloss": "나와 함께 있지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:28.756305861Z",
+  "model": "glm-5.2"
+}

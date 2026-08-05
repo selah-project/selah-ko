@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 너는 미쉬칸을 위하여 ⟨את⟩ 널빤지들을 만들되, 서 있는 아카시아 나무판들로.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 만들되"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "널빤지들을"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "널빤지들을"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "미쉬칸을 위하여"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무판들"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "아카시아"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "서 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:23.362796630Z",
+  "model": "glm-5.2"
+}

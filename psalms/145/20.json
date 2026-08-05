@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "야훼는 ⟨את⟩ 그분을 사랑하는 모든 자를 지키시며, ⟨את⟩ 모든 악인을 멸하신다.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "지키시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그분을 사랑하는 모든 자를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "그분을 사랑하는 자를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 악인을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "악인을"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "멸하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:28.649066013Z",
+  "model": "glm-5.2"
+}

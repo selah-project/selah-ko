@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "어리석은 자는 당일에 그의 분노가 알려지되, 수치를 가리는 자는 신중하다.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "어리석은 자는"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "당일에"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "알려지되"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "그의 분노가"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "그리고 가리는"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "수치를"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "신중하다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:41.368335904Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "지휘자에게, 코라흐 아들들에게, 마스킬.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֬חַ",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "קֹ֬רַח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "מַשְׂכִּֽיל",
+      "gloss": "마스킬"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:34.970228161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그가 가서 ⟨את⟩ 그의 시체가 길에 내버려진 것을 발견하였고, 당나귀와 사자가 시체 곁에 서 있었다. 사자가 ⟨את⟩ 시체를 먹지도 않았고, ⟨את⟩ 당나귀를 부수지도 않았다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "발견하였고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 시체를"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "그의 시체가"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "내버려진"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길에"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "당나귀와"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "서 있었다"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "곁에"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "시체"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹지도"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "시체를"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "시체를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "부수지도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당나귀를"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "당나귀를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:47.593299001Z",
+  "model": "glm-5.2"
+}

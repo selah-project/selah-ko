@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 24:2",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "한 바구니에는 매우 좋은 무화과가 있었으니, 처음 열린 무화과 같았고, 한 바구니에는 매우 나쁜 무화과가 있었으니, 그 악함 때문에 먹을 수 없는 것이었다.",
+  "tokens": [
+    {
+      "surface": "הדוד",
+      "gloss": "바구니"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "무화과가"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "כתאני",
+      "gloss": "무화과 같았고"
+    },
+    {
+      "surface": "הבכרות",
+      "gloss": "처음 열린"
+    },
+    {
+      "surface": "והדוד",
+      "gloss": "그리고 바구니"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "무화과가"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "나쁜"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것으로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하는"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "먹을 수"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "그 악함 때문에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:35:11.555736188Z",
+  "model": "glm-5.2"
+}

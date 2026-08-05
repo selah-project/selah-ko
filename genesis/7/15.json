@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 그들이 노아에게, 방주로 들어왔다 ── 모든 육지 생물에서 둘씩 둘씩, 그 안에 생명의 루아흐가 있는 것들.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 그들이 들어왔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "──에게"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아"
+    },
+    {
+      "surface": "אל",
+      "gloss": "──으로"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘씩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘씩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 ──에서"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "육지 생물"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "──인 것들"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "생명의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:40.485103081Z",
+  "model": "glm-5.2"
+}

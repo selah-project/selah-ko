@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "만군의 야훼께서 이같이 말씀하신다. 보라, 내가 ⟨את⟩ 내 백성을 해 뜨는 땅에서, 그리고 해 지는 땅에서 구원하리라.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "내가 구원하리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성을"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "해 뜨는"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "그리고 해 지는 땅에서"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "해 지는"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    }
+  ],
+  "timestamp": "2026-08-05T11:19:46.320766860Z",
+  "model": "glm-5.2"
+}

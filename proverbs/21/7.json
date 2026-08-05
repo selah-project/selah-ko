@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "악인들의 폭력은 그들을 끌어 갈 것이니, 이는 그들이 공의를 행하기를 거부하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "폭력은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "그들을 끌어 갈 것이니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "거부하였기 때문이다"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하기를"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "공의를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:17.315871927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "저녁이 있었고 아침이 있었다, 넷째 날이었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…이 있었고"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "저녁"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "…이 있었다"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날이었다"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "넷째"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:23.893427615Z",
+  "model": "glm-5.2"
+}

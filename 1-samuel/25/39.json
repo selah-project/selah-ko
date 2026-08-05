@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 25:39",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "다윗이 나발이 죽었다 함을 듣고 말하되, 나의 수치의 송사를 나발의 손에서 ⟨את⟩ 다투어 주시고 ⟨아울러⟩ 그의 종을 악에서 아끼신 야훼는 찬송받으실지니, 야훼께서 나발의 악을 그의 머리에 갚으셨도다, 하였다. 그리고 다윗이 보내어 아비가일에게 말하여 그를 아내로 취하게 하였다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "나발이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "찬송받으실"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "רב",
+      "gloss": "다투어 주시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "송사를"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "송사를"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "나의 수치의"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "나발의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 종을"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "그의 종을"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "아끼신"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "악에서"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "나발의 악을"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "악을"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "나발의"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "갚으셨도다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "그의 머리에"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "באביגיל",
+      "gloss": "아비가일에게"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "그를 취하게"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:47:15.495680569Z",
+  "model": "glm-5.2"
+}

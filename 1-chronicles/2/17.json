@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 아비가일은 ⟨את⟩ 아마사를 낳았고, 아마사의 아버지는 이스마엘 사람 이테르이다.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "그리고 아비가일은"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아마사를"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "아마사를"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "그리고 …의 아버지는"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "아마사의"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "이테르이다"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "이스마엘 사람"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:34.936289176Z",
+  "model": "glm-5.2"
+}

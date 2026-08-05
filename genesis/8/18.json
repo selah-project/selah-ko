@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 노아가 나갔고, 그의 아들들과 그의 아내와 그의 아들들의 아내들이 그와 함께 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나갔고"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아가"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "그의 아내"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "…의 아내들이"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:29.280587372Z",
+  "model": "glm-5.2"
+}

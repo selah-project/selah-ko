@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "이것들이 ⟨곧⟩ 이스라엘의 아들들이다: 르우벤, 시므온, 레위, 그리고 예후다, 이싸스카르, 그리고 즈불론.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "르우벤"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "시므온"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "레위"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "그리고 예후다"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "이싸스카르"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "그리고 즈불론"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:38.111796895Z",
+  "model": "glm-5.2"
+}

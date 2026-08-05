@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 114,
+  "translation": "바다가 보고 도망하였고, 요르단은 뒤로 돌아섰다.",
+  "tokens": [
+    {
+      "surface": "הַיָּם",
+      "gloss": "바다가"
+    },
+    {
+      "surface": "רָאָה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "וַיָּנֹס",
+      "gloss": "도망하였고"
+    },
+    {
+      "surface": "הַיַּרְדֵּן",
+      "gloss": "요르단은"
+    },
+    {
+      "surface": "יִסֹּב",
+      "gloss": "돌아섰다"
+    },
+    {
+      "surface": "לְאָחוֹר",
+      "gloss": "뒤로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:15.359638845Z",
+  "model": "glm-5.2"
+}

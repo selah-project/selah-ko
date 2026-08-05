@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 아스리엘에게 아스리엘 가문이요, 셰겜에게 셰겜 가문이다.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "그리고 아스리엘에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문이요"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "아스리엘"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "그리고 셰겜에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문이다"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "셰겜"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:17.583721243Z",
+  "model": "glm-5.2"
+}

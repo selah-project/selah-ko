@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 9:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "너희의 두려움과 너희의 공포가 땅의 모든 짐승과 하늘의 모든 새 위에, 땅이 기어 다니는 모든 것과 바다의 모든 물고기 위에 있을 것이다. 너희 손에 그것들이 넘겨졌다.",
+  "tokens": [
+    {
+      "surface": "ומוראכם",
+      "gloss": "너희의 두려움과"
+    },
+    {
+      "surface": "וחתכם",
+      "gloss": "너희의 공포가"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חית",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "새"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "어떤"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "기어 다니는"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "물고기"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다의"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "너희 손에"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "넘겨졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:03.074473691Z",
+  "model": "glm-5.2"
+}

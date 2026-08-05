@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "엘로힘의 노가 그들에게 올랐고, ⟨엘로힘이⟩ 그들의 기름진 자들을 죽이시며, 이스라엘의 청년들을 엎드리게 하셨다.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "노가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올랐고"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "죽이시며"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "그들의 기름진 자들을"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "청년들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "엎드리게 하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:42.755188134Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "어떤 사람 하나가 보고 요아브에게 알리며 말하였다. \"보십시오, 제가 ⟨את⟩ 아브샬롬을 보았는데, 에라 나무에 매달려 있었습니다.\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보고"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나가"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "알리며"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "요아브에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "보았는데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브샬롬을"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "아브샬롬을"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "매달려 있었습니다"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "에라 나무에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:16:13.390418727Z",
+  "model": "glm-5.2"
+}

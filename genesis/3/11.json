@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "⟨그가⟩ 말씀하셨다. \"누가 네가 벌거벗었다는 것을 네게 알렸느냐? 내가 네게 먹지 말라고 명령한 그 나무에서 네가 먹었느냐?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "알렸느냐"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이라는 것을"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "벌거벗었다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "המן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "그 나무"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "관하여"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "내가 네게 명령한"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "하지 말라고"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "네가 먹었느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:46.412269671Z",
+  "model": "glm-5.2"
+}

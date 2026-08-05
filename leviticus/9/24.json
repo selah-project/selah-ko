@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼 앞에서 불이 나와서 제단 위에서 ⟨את⟩ 올라와 ⟨את⟩ 기름진 것들을 태워 버렸다. 온 백성이 보고 환호하며 그들의 얼굴 위로 엎드렸다.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "나왔다"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "～앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "태워 버렸다"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위에서"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "올라"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "기름진 것들"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "기름진 것들"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "환호하며"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "엎드렸다"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위로"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "그들의 얼굴"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:05.962386167Z",
+  "model": "glm-5.2"
+}

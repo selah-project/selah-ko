@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "사람의 아들아, 파르오 미츠라임 왕과 ⟨그⟩의 무리에게 말하여라. 네가 너의 위대함에서 누구에게 비겼느냐?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "그의 무리"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "비교하였느냐"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "너의 위대함에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:58:02.170756813Z",
+  "model": "glm-5.2"
+}

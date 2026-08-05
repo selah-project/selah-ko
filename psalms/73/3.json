@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "내가 거만한 자들을 시기하였기 때문이다, 악인들의 평안을 내가 보았으므로.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "시기하였다"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "거만한 자들을"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "평안을"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "내가 보았으므로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:07.350477843Z",
+  "model": "glm-5.2"
+}

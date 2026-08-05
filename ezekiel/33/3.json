@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그가 ⟨את⟩ 그 칼이 그 땅에 오는 것을 보고 ⟨את⟩ 쇼파르를 불어 ⟨아트⟩ 백성에게 경고하면",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 칼"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "그 칼이"
+    },
+    {
+      "surface": "באה",
+      "gloss": "오는 것을"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "불어"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "⟨아트⟩ 쇼파르를"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "경고하면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:58:26.591458716Z",
+  "model": "glm-5.2"
+}

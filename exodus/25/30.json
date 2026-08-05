@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너는 ⟨그⟩ 상 위에, ⟨나의⟩ 면전의 떡을, 끊임없이 ⟨나의⟩ 앞에 놓을 것이다.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "그리고 너는 놓을 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "그 상"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "면전"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "끊임없이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:00.008576366Z",
+  "model": "glm-5.2"
+}

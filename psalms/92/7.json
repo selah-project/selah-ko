@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "우둔한 사람은 알지 못하고, 어리석은 자는 ⟨את⟩ 이것을 깨닫지 못한다 —",
+  "tokens": [
+    {
+      "surface": "אִֽישׁ",
+      "gloss": "…사람은"
+    },
+    {
+      "surface": "בַּ֭עַר",
+      "gloss": "우둔한"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "알지 못하고"
+    },
+    {
+      "surface": "יֵדָ֑ע",
+      "gloss": "…(부정사에 흡수)"
+    },
+    {
+      "surface": "וּ֝כְסִ֗יל",
+      "gloss": "어리석은 자는"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "…아니"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": "깨닫지 못한다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이것"
+    },
+    {
+      "surface": "זֹֽאת",
+      "gloss": "이것을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:05.504355315Z",
+  "model": "glm-5.2"
+}

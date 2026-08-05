@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "들어라, ⟨관계사⟩ 내가 고귀한 것들을 말하니, ⟨그리고⟩ 내 입술의 여는 것은 곧은 것들이다.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨관계사⟩"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "고귀한 것들을"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "내가 말하니"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "⟨그리고⟩ 여는 것은"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "내 입술의"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "곧은 것들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:20.408385339Z",
+  "model": "glm-5.2"
+}

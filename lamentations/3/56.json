@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "당신은 내 소리를 들으셨다. 나의 숨과 나의 부르짖음에 ⟨당신의⟩ 귀를 가리지 마소서.",
+  "tokens": [
+    {
+      "surface": "קוֹלִ֖י",
+      "gloss": "내 소리를"
+    },
+    {
+      "surface": "שָׁמָ֑עְתָּ",
+      "gloss": "당신은 들으셨다"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "마소서"
+    },
+    {
+      "surface": "תַּעְלֵ֧ם",
+      "gloss": "가리지"
+    },
+    {
+      "surface": "אָזְנְךָ֛",
+      "gloss": "당신의 귀를"
+    },
+    {
+      "surface": "לְרַוְחָתִ֖י",
+      "gloss": "나의 숨에"
+    },
+    {
+      "surface": "לְשַׁוְעָתִֽי",
+      "gloss": "나의 부르짖음에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:32.747522671Z",
+  "model": "glm-5.2"
+}

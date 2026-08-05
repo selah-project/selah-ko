@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "물들에 지느러미와 비늘이 없는 것은 무엇이든 — 그것은 너희에게 혐오물이다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "무엇이든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— ⟨것⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것에게"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "지느러미"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "비늘과"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물들에"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "혐오물"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:16.467476800Z",
+  "model": "glm-5.2"
+}

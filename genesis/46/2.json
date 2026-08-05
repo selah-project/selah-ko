@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "엘로힘이 밤의 환상들 가운데 이스라엘에게 말씀하셨다. “야곱아, 야곱아” 하시니, ⟨그가⟩ “제가 여기 있습니다” 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "이스라엘에게"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "환상들 가운데"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하시니"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱아"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱아"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T19:13:46.660370909Z",
+  "model": "glm-5.2"
+}

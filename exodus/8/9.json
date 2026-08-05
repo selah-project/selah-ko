@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "야훼께서 모셰의 말씀대로 행하시니, 개구리들이 집들에서, 뜰들에서, 그리고 들에서 죽었다.",
+  "tokens": [
+    {
+      "surface": "וַיַ֥עַשׂ",
+      "gloss": "행하시니"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "כִּדְבַ֣ר",
+      "gloss": "말씀대로"
+    },
+    {
+      "surface": "מֹשֶׁ֑ה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "וַיָּמֻ֨תוּ֙",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "הַֽצְפַרְדְּעִ֔ים",
+      "gloss": "개구리들이"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הַבָּתִּ֥ים",
+      "gloss": "집들"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הַחֲצֵרֹ֖ת",
+      "gloss": "뜰들"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "그리고 에서"
+    },
+    {
+      "surface": "הַשָּׂדֹֽת",
+      "gloss": "들"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:02.915783140Z",
+  "model": "glm-5.2"
+}

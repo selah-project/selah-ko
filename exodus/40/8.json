@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 너는 ⟨את⟩ 뜰안을 둘러 세우고, 뜰 문의 휘장을 걸어라.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "너는 세우고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "뜰안을"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰안을"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘러"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "너는 걸어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "휘장을"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "휘장을"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문의"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:33.638287836Z",
+  "model": "glm-5.2"
+}

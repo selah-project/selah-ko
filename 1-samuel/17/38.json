@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "샤울이 ⟨את⟩ 다윗에게 자기 옷을 입히고, 그의 머리에 놋쇠 투구를 씌우고, ⟨את⟩ 그에게 갑옷을 입혔다.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "입히고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "씌우고"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "투구를"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "놋쇠"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "그의 머리"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "입혔다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "갑옷"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "갑옷을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:38.248206680Z",
+  "model": "glm-5.2"
+}

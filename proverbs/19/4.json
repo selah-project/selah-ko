@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "재물은 많은 벗을 더하게 하고, 가난한 ⟨자는⟩ 그의 벗에게서 떨어져 나간다.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "재물은"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "더하게 한다"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "벗을"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "그리고 가난한"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "그의 벗에게서"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "떨어져 나간다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:45.360724656Z",
+  "model": "glm-5.2"
+}

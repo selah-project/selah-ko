@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "지휘자에게. 마스킬, 코라흐 아들들의. ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "마스킬"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:20.757564713Z",
+  "model": "glm-5.2"
+}

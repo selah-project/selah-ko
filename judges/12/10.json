@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "이브찬이 죽어 베들레헴에 장사되었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽어"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "이브찬"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "장사되었다"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "베들"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "레헴에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:47.624280334Z",
+  "model": "glm-5.2"
+}

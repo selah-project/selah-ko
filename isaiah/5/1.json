@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "이제 나의 사랑하는 이를 위하여 노래하리라. 나의 사랑하는 이의 포도원에 대한 노래를. 나의 사랑하는 이에게 포도원이 있었으니, 기름진 뿔 ⟨위⟩에.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "노래하리라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "나의 사랑하는 이를 위하여"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "노래를"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "나의 사랑하는 이의"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "포도원에 대한"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "포도원이"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었으니"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "나의 사랑하는 이에게"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "뿔"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:06.628763231Z",
+  "model": "glm-5.2"
+}

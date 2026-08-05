@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "레위인들을 이스라엘 자손들 가운데서 데려오고, 그들을 정결하게 하여라.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "데려오고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레위인들을"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위인들을"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "그리고 …정결하게 하여라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:10.517260558Z",
+  "model": "glm-5.2"
+}

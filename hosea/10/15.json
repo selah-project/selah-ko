@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "이같이 벳 엘이 너희에게 행하였다 — 너희 악의 악함 때문에. 새벽에, 이스라엘 왕은 멸절될 것이다, 멸절될 것이다.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "… 때문에"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "악의"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "너희 악함"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "새벽에"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "멸절될 것이다,"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "멸절될 것이다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:20.580870969Z",
+  "model": "glm-5.2"
+}

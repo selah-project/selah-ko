@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "이것이 너희의 환호하던 것이냐, 옛날부터, 그 옛적부터, 그녀의 발들이 그녀를 멀리 데려다가 거류하게 하였느냐?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희의"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "환호하던 것이냐"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "옛날부터"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "옛적부터"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "그"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "데려다가"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "그녀의 발들이"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "멀리"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "거류하게 하였느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:54.046706235Z",
+  "model": "glm-5.2"
+}

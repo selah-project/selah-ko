@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그 후에 ⟨그녀가⟩ 딸을 낳고, ⟨את⟩ 그 이름을 디나라 불렀다.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳고"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸을"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 이름을"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "그 이름을"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "디나"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:02.876376286Z",
+  "model": "glm-5.2"
+}

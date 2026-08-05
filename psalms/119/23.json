@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "방백들도 앉아 나를 거슬러 말하였어도, 주의 종은 주의 훈령들을 음미하였나이다.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "—도"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "앉아"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "방백들이"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를 거슬러"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "말하였어도"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "주의 종은"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "음미하였나이다"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "주의 훈령들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:12.709821526Z",
+  "model": "glm-5.2"
+}

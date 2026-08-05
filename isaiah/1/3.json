@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "소는 그것을 사들인 자를 알고 나귀는 그것의 주인의 구유를 ⟨아나⟩, 이스라엘은 알지 못하며, 나의 백성은 깨닫지 못한다.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "안다"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소는"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "그것을 사들인 자를"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "그리고 나귀는"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "구유를"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "그것의 주인의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "안다"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나의 백성은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "깨닫는다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:39.178503780Z",
+  "model": "glm-5.2"
+}

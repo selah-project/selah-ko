@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 우리는 그 때에 ⟨את⟩ 그의 모든 성읍을 점령하였다. 우리가 그들에게서 빼앗지 아니한 성읍이 하나도 없었다. 아르곱 온 지역, 바산에 있는 독의 나라의 성읍 예순이다.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "그리고 우리는 점령하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 모든 성읍을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "그의 성읍을"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨이⟩었다"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "성읍이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨우리가⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "빼앗지"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "그들에게서"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "예순"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "지역"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "아르곱"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "나라의"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "독의"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "바산에 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:47.024941899Z",
+  "model": "glm-5.2"
+}

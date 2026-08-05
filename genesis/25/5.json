@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 아브라함이 ⟨את⟩ 자신에게 있는 모든 것을 이쯔하크에게 주었는데",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주었는데"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자신에게 있는 모든 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그가⟩ ⟨…⟩ 가진"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자신에게"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "이쯔하크에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:38.007020558Z",
+  "model": "glm-5.2"
+}

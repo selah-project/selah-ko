@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 86,
+  "translation": "나에게 헨을 베푸소서, 아도나이여. 당신에게 부르오니, 하루 종일.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "나에게 헨을 베푸소서"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "부르오니"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "하루"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:44.573313941Z",
+  "model": "glm-5.2"
+}

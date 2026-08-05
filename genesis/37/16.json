@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그가 말하였다. \"나는 ⟨את⟩ 내 형제들을 찾고 있습니다. 청하건대 내게 알려 주십시오. 그들이 어디에서 양 떼를 치고 있습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 형제들을"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "내 형제들을"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "찾고 있습니다"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "알려 주십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "어디에서"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "양 떼를 치고 있습니까"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:13.625832143Z",
+  "model": "glm-5.2"
+}

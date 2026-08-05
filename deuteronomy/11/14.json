@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "내가 너희 땅에 비를 그 때를 따라 주리니 — 이른 비와 늦은 비 — 그리하여 네가 네 곡식과 네 포도주와 네 기름을 거두리라.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "내가 주리니"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "비를"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "너희 땅에"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "그 때를 따라"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "이른 비와"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "늦은 비 —"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "네가 거두리라"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "네 곡식과"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "네 포도주와"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "네 기름을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:05.501044596Z",
+  "model": "glm-5.2"
+}

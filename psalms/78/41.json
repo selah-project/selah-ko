@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들이 돌아와서 엘을 시험하였고, 이스라엘의 거룩한 이를 괴롭게 하였다.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "그들이 돌아와서"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "시험하였고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘을"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "거룩한 이를"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "괴롭게 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:44.858345162Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"파르오가 너희에게 듣지 아니할 것인즉, ⟨그것은⟩ 내 징표들이 미츠라임 땅에서 많아지기 위함이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "듣지"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "למען",
+      "gloss": "위함이다"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "많아지기"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "내 징표들이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:41.480309327Z",
+  "model": "glm-5.2"
+}

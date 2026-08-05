@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "계명을 지키는 자는 악한 일을 알지 못하고, 시기와 판결은 지혜로운 자의 마음이 안다.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "지키는 자는"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "계명을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하며 \/ …아니하고"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 시기와"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "판결을"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "안다"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운 자의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:01.170155744Z",
+  "model": "glm-5.2"
+}

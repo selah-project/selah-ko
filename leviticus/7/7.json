@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "죄 제물처럼, 아쉬임처럼 — 그들에게 하나의 토라가 있다. 그 안에서 속죄하는 그 코헨, 그것은 그에게 될 것이다.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "죄 제물처럼"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "아쉬임처럼"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "토라가"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "그 코헨"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~하는"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "속죄하는"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것으로"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "될 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:30.826363415Z",
+  "model": "glm-5.2"
+}

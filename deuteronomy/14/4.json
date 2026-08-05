@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "이것이 너희가 먹어도 되는 짐승이다: 소, 양 떼의 어린 양, 그리고 염소 떼의 새끼.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "짐승이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~이"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희가 먹어도 되는"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소"
+    },
+    {
+      "surface": "שה",
+      "gloss": "어린 양"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "양 떼의"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "그리고 새끼"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "염소 떼의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:22.309808959Z",
+  "model": "glm-5.2"
+}

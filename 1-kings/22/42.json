@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 22:42",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "여호샤팟 ⟨은⟩ 통치를 시작할 때 삼십 오 세였고 예루샬라임에서 이십 오 년을 다스렸다 그의 어머니의 이름은 아즈바 쉴히의 딸이었다",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "여호샤팟"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "그리고 오"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "세"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "그의 통치에서"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "그리고 이십"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "그리고 오"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "다스렸다"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "그의 어머니의"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "아즈바"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "שלחי",
+      "gloss": "쉴히"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:52.697491747Z",
+  "model": "glm-5.2"
+}

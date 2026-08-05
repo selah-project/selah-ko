@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "저는 의로이 당신의 얼굴을 뵙겠나이다. 깰 때에 당신의 형상으로 배부르리이다.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "의로이"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "뵙겠나이다"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "당신의 얼굴을"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "배부르리이다"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "깰 때에"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "당신의 형상으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:27.867198343Z",
+  "model": "glm-5.2"
+}

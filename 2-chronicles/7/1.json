@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 7:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "슐로모가 기도를 마치자 불이 하늘에서 내려와서 올라와 ⟨את⟩ 제물과 ⟨את⟩ 희생제물들을 삼켰고, 야훼의 영광이 ⟨את⟩ 그 집에 가득하였다.",
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "마치자"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모가"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "기도를"
+    },
+    {
+      "surface": "והאש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "내려와서"
+    },
+    {
+      "surface": "מהשמים",
+      "gloss": "하늘에서"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "삼켰고"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라"
+    },
+    {
+      "surface": "והזבחים",
+      "gloss": "제물과 희생제물들을"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "가득하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:28.736120063Z",
+  "model": "glm-5.2"
+}

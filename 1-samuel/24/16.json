@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "야훼께서 심판자가 되시고, 나와 당신 사이에서 심판하시며, 보시고 ⟨את⟩ 나의 송사를 다투시고, 당신의 손에서 나를 심판하여 건져 주시기를.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "되시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "심판자가"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "심판하시며"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "나와"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "당신 사이에서"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보시고"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "다투시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 송사를"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "나의 송사를"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "나를 심판하여 건져 주시기를"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "당신의 손에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:19.877443430Z",
+  "model": "glm-5.2"
+}

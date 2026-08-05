@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "여호나탄이 말하였다. \"보라, 우리가 ⟨그⟩ 사람들에게로 넘어갈 것이요, 우리가 그들에게 드러날 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "넘어갈 것이요"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "사람들"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "우리가 드러날 것이다"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:26:34.627746498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "사람에게 무엇이 있으랴, 그의 모든 수고에서, 그리고 그의 마음의 근심에서, 그가 해 아래서 수고하는 것에?",
+  "tokens": [
+    {
+      "surface": "כִּ֠י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מֶֽה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "הֹוֶ֤ה",
+      "gloss": "있으랴"
+    },
+    {
+      "surface": "לָֽאָדָם֙",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עֲמָל֔וֹ",
+      "gloss": "그의 수고에서"
+    },
+    {
+      "surface": "וּבְרַעְי֖וֹן",
+      "gloss": "그리고 근심에서"
+    },
+    {
+      "surface": "לִבּ֑וֹ",
+      "gloss": "그의 마음의"
+    },
+    {
+      "surface": "שֶׁה֥וּא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "עָמֵ֖ל",
+      "gloss": "수고하는"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "아래서"
+    },
+    {
+      "surface": "הַשָּֽׁמֶשׁ",
+      "gloss": "해"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:31.329207404Z",
+  "model": "glm-5.2"
+}

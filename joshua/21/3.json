@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "이스라엘 자손들이 야훼의 말씀대로 그들의 유업에서 레위 사람들에게 ⟨את⟩ 이 성읍들과 ⟨את⟩ 그것들의 목초지를 주었다.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "레위 사람들에게"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "그들의 유업에서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "따라"
+    },
+    {
+      "surface": "פי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 성읍들"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "성읍들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것들의 목초지"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "목초지를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:11:05.942754707Z",
+  "model": "glm-5.2"
+}

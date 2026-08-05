@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "그리고 사람은 존귀 속에 ⟨있으나⟩ 밤을 새기지 못한다 — 가축 같이 비유되었으니, 그들은 멸망하였다.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "그리고 사람은"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "존귀 속에"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "밤을 새다"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "비유되었다"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "가축 같이"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "그들은 멸망하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:36.115274910Z",
+  "model": "glm-5.2"
+}

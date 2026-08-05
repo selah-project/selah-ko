@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 엘파알의 아들들: 에벨과 미쉬암과 셰메드. ⟨그가⟩ ⟨את⟩ 오노와 ⟨את⟩ 로드와 그것의 딸들(마을들)을 건설하였다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "엘파알"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "에벨"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "미쉬암"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "셰메드"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "건설하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "오노"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "오노"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "로드"
+    },
+    {
+      "surface": "לד",
+      "gloss": "로드"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "딸들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:31.752908828Z",
+  "model": "glm-5.2"
+}

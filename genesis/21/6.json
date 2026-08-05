@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "사라가 말하였다. \"엘로힘이 나를 위해 웃음을 지어내셨다. 듣는 자마다 나를 위해 웃을 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "사라가"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "웃음을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "지어내셨다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "듣는 자"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "웃을 것이다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:55.617652493Z",
+  "model": "glm-5.2"
+}

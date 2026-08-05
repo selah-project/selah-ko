@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "내 마음을 그대의 증언들 ⟨쪽으로⟩ 기울이소서, 그리고 부당한 이익 ⟨쪽으로⟩는 기울이지 마소서.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "기울이소서"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…⟨쪽으로⟩"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "그대의 증언들"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …하지 마소서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…⟨쪽으로⟩"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "부당한 이익"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:15.131713145Z",
+  "model": "glm-5.2"
+}

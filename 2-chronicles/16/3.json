@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "“나와 당신 사이에, 그리고 나의 아버지와 당신의 아버지 사이에 브리트가 있다. 보라, 내가 당신에게 은과 금을 보냈다. 가서 당신의 브리트를 ⟨את⟩ 바아사 이스라엘 왕과 깨뜨리십시오, 그러면 그가 나에게서 올라갈 것이다.”",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "브리트"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "나와"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "그리고 당신 사이에"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 …사이에"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "나의 아버지"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 …사이에"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "당신의 아버지"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "내가 보냈다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "그리고 금"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가십시오"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "깨뜨리십시오"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "당신의 브리트를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바아사"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "바아사"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "그러면 그가 올라갈 것이다"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "나에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:56:57.417372425Z",
+  "model": "glm-5.2"
+}

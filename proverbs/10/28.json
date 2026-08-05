@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "의인들의 기대는 기쁨이나, 악인들의 소망은 멸망할 것이다.",
+  "tokens": [
+    {
+      "surface": "תּוֹחֶ֣לֶת",
+      "gloss": "기대는"
+    },
+    {
+      "surface": "צַדִּיקִ֣ים",
+      "gloss": "의인들의"
+    },
+    {
+      "surface": "שִׂמְחָ֑ה",
+      "gloss": "기쁨이나"
+    },
+    {
+      "surface": "וְתִקְוַ֖ת",
+      "gloss": "소망은"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "תֹּאבֵֽד",
+      "gloss": "멸망할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:06.467897404Z",
+  "model": "glm-5.2"
+}

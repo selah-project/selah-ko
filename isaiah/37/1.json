@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그러하였다, 히즈키야후 왕이 듣자, 그가 ⟨את⟩ 자기 옷을 찢고 굵은 베로 몸을 가리고 야훼의 집에 들어갔다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그러하였다"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "듣자"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "히즈키야후"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "찢고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 옷을"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "가리고"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "굵은 베로"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:17:24.316235718Z",
+  "model": "glm-5.2"
+}

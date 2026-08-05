@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그 여자가 \"⟨את⟩ 누구를 당신을 위해 올라오게 하오리까?\" 하니, 그가 \"⟨את⟩ 쉐무엘을 나를 위해 올라오게 하라\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 ⟨그녀가⟩ 말하였다"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여자가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "누구를"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구를"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "올라오게 하오리까"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신을 위해"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ⟨그가⟩ 말하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쉐무엘을"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "쉐무엘을"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "올라오게 하라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:49.479440524Z",
+  "model": "glm-5.2"
+}

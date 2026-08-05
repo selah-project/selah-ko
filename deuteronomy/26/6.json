@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "미츠라임 사람들이 우리를 ⟨את⟩ 해치고, 우리를 억압하였다. 그들이 우리 위에 혹독한 노동을 두었다.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "해치고"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "우리를"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "미츠라임 사람들이"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "억압하였다"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "그들이 두었다"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리 위에"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "노동을"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "혹독한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:57.492576341Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "이스라엘 아들들이 모셰의 말대로 행하였고, 미츠라임에게 은그릇과 금그릇과 옷을 청하였다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 ⟨…의⟩ 아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행하였고"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말대로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "청하였다"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에게"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "그릇"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "그리고 그릇"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "그리고 옷을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:08.907222836Z",
+  "model": "glm-5.2"
+}

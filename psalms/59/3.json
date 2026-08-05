@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "나를 불의를 행하는 자들에게서 건져 내시고, 피의 사람들에게서 나를 구원하여 주소서.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "나를 건져 내시고"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "행하는 자들에게서"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의를"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "그리고 사람들에게서"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "피의"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "나를 구원하여 주소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:54.885904236Z",
+  "model": "glm-5.2"
+}

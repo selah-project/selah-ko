@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 ⟨את⟩ 두 번째 수양, 곧 채움의 수양을 가까이 가져왔다. 아론과 그의 아들들이 그 수양의 머리 위에 ⟨את⟩ 그들의 손을 얹었다.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "가까이 가져왔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "수양"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "수양"
+    },
+    {
+      "surface": "השני",
+      "gloss": "두 번째"
+    },
+    {
+      "surface": "איל",
+      "gloss": "수양"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "채움의"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "얹었다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론과"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그의 아들들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 손"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "그들의 손"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위에"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "그 수양의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:43.828232155Z",
+  "model": "glm-5.2"
+}

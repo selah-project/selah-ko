@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "그들이 자기 혀를 칼처럼 갈고, 자기 화살을 당기니 — 쓴 말이다.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "갈고"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "칼처럼"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "자기 혀를"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "당기니"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "자기 화살을"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말이다"
+    },
+    {
+      "surface": "מר",
+      "gloss": "쓴"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:24.269634218Z",
+  "model": "glm-5.2"
+}

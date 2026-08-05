@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 나탄이라는 나비의 손을 통해 보내셨고, ⟨그가⟩ ⟨את⟩ 그의 이름을 예디디야라 불렀으니, 야훼 때문이었다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내셨고"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손을 통해"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄이라는"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비의"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "예디디야라"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "때문이었다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:28.471697066Z",
+  "model": "glm-5.2"
+}

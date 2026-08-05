@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "보라, 날들이 오고 있다 — 내가 ⟨את⟩ 네 팔과 ⟨את⟩ 네 아비의 집의 팔을 꺾어, 네 집에 늙은 자가 더 이상 없게 할 것임을.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "באים",
+      "gloss": "오고 있다"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "그리고 내가 꺾을 것임을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 팔을"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 팔을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "팔을"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "팔을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "네 아비의"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "더 이상 …아닐"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "늙은 자가"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "네 집에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:22:13.738713444Z",
+  "model": "glm-5.2"
+}

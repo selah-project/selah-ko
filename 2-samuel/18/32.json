@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 18:32",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "왕이 쿠시인에게 말하였다. \"그 젊은이 아브샬롬에게도 샬롬이 있는가?\" 쿠시인이 말하였다. \"나의 주 왕의 원수들과 당신에게 악을 끼치려고 일어선 자 모두가 그 젊은이처럼 되기를.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "쿠시인"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "샬롬인가"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "그 젊은이에게도"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "아브샬롬에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "쿠시인이"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "되기를"
+    },
+    {
+      "surface": "כנער",
+      "gloss": "그 젊은이처럼"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "원수들"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "나의 주"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모두가"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "일어선"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "악을 끼치려고"
+    }
+  ],
+  "timestamp": "2026-08-05T09:41:51.750433302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "“보아라, 내가 이름으로 불렀다 — 베찰렐을, 우리의 아들, 후의 아들, 유다 지파의.”",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "보아라"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "내가 불렀다"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름으로"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "베찰렐을"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "우리의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "חור",
+      "gloss": "후의"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "지파의"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:05.567647124Z",
+  "model": "glm-5.2"
+}

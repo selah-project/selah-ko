@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 134,
+  "translation": "올라가는 자들의 노래. 보라, 야훼의 모든 종들아, 밤에 야훼의 집에 서 ⟨있는⟩ 자들아, ⟨את⟩ 야훼를 송축하라.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는 자들의"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "송축하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들아"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "서"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "밤에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:00.886274195Z",
+  "model": "glm-5.2"
+}

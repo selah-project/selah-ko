@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "나 ⟨야훼⟩가 ⟨את⟩ 너희 도시들을 폐허로 만들고, ⟨את⟩ 너희 미크다쉬들을 황무하게 하며, 너희 니코아흐 향의 냄새를 맡지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "나가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "도시들을"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "너희 도시들을"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "폐허로 만들고"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "황무하게 하며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미크다쉬들을"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "너희 미크다쉬들을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하리라"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "맡지"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "향의 냄새를"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "너희 니코아흐"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:54.980449640Z",
+  "model": "glm-5.2"
+}

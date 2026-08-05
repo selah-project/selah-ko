@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 24:12",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "\"가서 다윗에게 말하여라. 이렇게 야훼가 말씀하신다. 셋을 내가 네 위에 들리니, 너를 위해 그 중 하나를 택하라, 내가 네게 행하리라.\"",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "셋을"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "נוטל",
+      "gloss": "들리니"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "네 위에"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "택하라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나를"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그 중"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "행하리라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:35.574526240Z",
+  "model": "glm-5.2"
+}

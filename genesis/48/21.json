@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "이스라엘이 요셉에게 말하였다. \"보라, 내가 죽어가니, 엘로힘이 너희와 함께하셔서 너희를 너희 조상들의 땅으로 돌아가게 하실 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽어가니"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "∼할 것이다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "너희와 함께하셔서"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "돌아가게 하실"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "너희 조상들의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:01.975873332Z",
+  "model": "glm-5.2"
+}

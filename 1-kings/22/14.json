@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "미카오후가 말하였다. 야훼께서 사시는 한 ⟨곧⟩, 야훼께서 내게 말씀하시는 것, ⟨את⟩ 그것을 내가 말하리이다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …가 말하였다"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "미카오후"
+    },
+    {
+      "surface": "חי",
+      "gloss": "사시는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨곳⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨…하는 것⟩"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "말씀하시는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "내가 말하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:41.931342510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 ⟨그⟩ 백성이 여호수아에게 말하였다. \"아니, 우리는 ⟨את⟩ 야훼를 섬기겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨그⟩ 백성이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오히려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "우리는 섬기겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:12:41.702075170Z",
+  "model": "glm-5.2"
+}

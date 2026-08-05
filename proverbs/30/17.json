@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "눈이 아버지를 조롱하고 어머니의 훈계를 멸시하면, 골짜기 까마귀들이 ⟨그것을⟩ 쪼아내고 독수리 새끼들이 ⟨그것을⟩ 먹으리라.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "조롱하고"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "아버지를"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "멸시하면"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "훈계를"
+    },
+    {
+      "surface": "אם",
+      "gloss": "어머니의"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "쪼아내고"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "까마귀들이"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "골짜기"
+    },
+    {
+      "surface": "ויאכלוה",
+      "gloss": "먹으리라"
+    },
+    {
+      "surface": "בני",
+      "gloss": "새끼들이"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "독수리"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:36.482433608Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "이들이 ⟨את⟩ 왕을 섬기는 자들이었다, 그 왕이 온 유다에 요새 성들에 배치한 자들 외에.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "섬기는 자들이었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "~외에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "배치하신"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "성들에"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "요새"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:09:39.177699267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 32:4",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그 땅은, 곧 야훼께서 이스라엘의 회중 앞에서 치신 ⟨그⟩ 땅은, 가축의 땅이며, 그리고 당신의 종들에게는 가축이 있나이다.",
+  "tokens": [
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "치신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "～앞에서"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "～의 회중"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "～의 땅"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "가축"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "이다"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "그리고 당신의 종들에게는"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "가축이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:46:51.123190929Z",
+  "model": "glm-5.2"
+}

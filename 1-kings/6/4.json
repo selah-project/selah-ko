@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨그는⟩ 그 집을 위해 창틀 안에 끼워 닫은 창문들을 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "그 집을 위해"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "창문들을"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "창틀"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "안에 끼워 닫은"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:18.153837188Z",
+  "model": "glm-5.2"
+}

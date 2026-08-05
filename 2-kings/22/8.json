@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 22:8",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "대제사장 힐키야후가 서기관 샤판에게 말하였다. \"나는 야훼의 집에서 토라의 책을 찾았다.\" 힐키야후가 ⟨את⟩ 그 책을 샤판에게 주니, 샤판이 그것을 읽었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "힐키야후가"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "제사장"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "샤판"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "서기관"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "…의 책"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "그 토라"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "내가 찾았다"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…의 집에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주니"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "힐키야후가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 책을"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "그 책을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "샤판"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "그가 그것을 읽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:05:00.643482755Z",
+  "model": "glm-5.2"
+}

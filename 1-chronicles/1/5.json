@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "예펫의 아들들: 고메르, 마고그, 마다이, 야완, 투발, 메셰크, 티라스.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "예펫"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "고메르"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "마고그"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "마다이"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "투발"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "메셰크"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "티라스"
+    }
+  ],
+  "timestamp": "2026-08-05T12:39:59.144490453Z",
+  "model": "glm-5.2"
+}

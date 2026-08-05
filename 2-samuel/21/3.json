@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "다윗이 기브온 사람들에게 말하였다. “내가 너희를 위해 무엇을 하여야 하겠습니까? 그리고 무엇으로 속죄하여야, 너희가 야훼의 기업을 축복하겠습니까?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～에게"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "기브온 사람들"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 하여야"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희를 위해"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "그리고 무엇으로"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "속죄하여야"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "축복하겠습니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 기업을"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "기업을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:15.002811320Z",
+  "model": "glm-5.2"
+}

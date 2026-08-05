@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그것을 내 앞에 펴니, 그것이 앞과 뒤에 쓰여 있었고, 그 위에 애가와 슬픔과 화가 쓰여 있었다.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "펴니"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "내 앞에"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "쓰여 있었고"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "앞"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "쓰여 있었다"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "애가"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "슬픔"
+    },
+    {
+      "surface": "והי",
+      "gloss": "화"
+    }
+  ],
+  "timestamp": "2026-08-05T10:47:24.094648203Z",
+  "model": "glm-5.2"
+}

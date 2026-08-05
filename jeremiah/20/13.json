@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "야훼께 노래하라, 야훼를 찬양하라, 그가 ⟨את⟩ 가련한 자의 네페쉬를 악을 행하는 자들의 손에서 건지셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "건지셨기 때문이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가련한 자의 네페쉬를"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "가련한 자의"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "악을 행하는 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:49.009743321Z",
+  "model": "glm-5.2"
+}

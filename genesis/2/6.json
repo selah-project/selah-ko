@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그런데 안개가 땅에서 올라와 ⟨את⟩ 땅 온 면의 물을 주었다.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "그런데 안개가"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "올라와"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "물을 주었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 면"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:54.882057966Z",
+  "model": "glm-5.2"
+}

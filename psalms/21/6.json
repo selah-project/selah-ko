@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "당신의 구원에 그의 영광이 크다. 위엄과 존귀를 그 위에 놓으셨다.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "크다"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "그의 영광이"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "당신의 구원에"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "위엄을"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "존귀를"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "놓으셨다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:02.110237791Z",
+  "model": "glm-5.2"
+}

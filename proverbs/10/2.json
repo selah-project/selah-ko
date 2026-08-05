@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "악의 보물들은 유익하지 아니하나, 체다카는 죽음에서 건져 낸다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하나"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "유익하지"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "보물들은"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악의"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "그리고 체다카는"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "건져 낸다"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "죽음에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:00.683241218Z",
+  "model": "glm-5.2"
+}

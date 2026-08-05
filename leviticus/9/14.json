@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨את⟩ 내장과 ⟨את⟩ 다리들을 씻었고, 그리고 올라 위에서, 제단 쪽으로 사르셨다.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "씻으셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내장"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "내장을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "다리들"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "다리들을"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "사르셨다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "제단 쪽으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:34.099674093Z",
+  "model": "glm-5.2"
+}

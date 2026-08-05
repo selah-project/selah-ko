@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "기름부음받은 코헨이 ⟨그⟩ 수소의 피에서 ⟨몇〉 ⟨몇⟩ 취하여, ⟨את⟩ 그것을 만남의 장막으로 가져올 것이다.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "기름부음받은"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "피에서"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "그 수소의"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "가져올 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:01.896122378Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 121,
+  "translation": "보라, 졸지 아니하시며 잠들지 아니하시는 이, 이스라엘을 지키시는 이시다.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יָ֭נוּם",
+      "gloss": "졸지"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "יִישָׁ֑ן",
+      "gloss": "잠들지"
+    },
+    {
+      "surface": "שׁ֝וֹמֵ֗ר",
+      "gloss": "지키시는 이"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:54.046336179Z",
+  "model": "glm-5.2"
+}

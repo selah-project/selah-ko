@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그들이 예호슈아에게 “당신의 종들은 저희입니다” 하고 말하니, 예호슈아가 그들에게 “당신들은 누구이며, 어디에서 옵니까?” 하셨다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호슈아"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "당신의 종들은"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "저희입니다"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호슈아가"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구이며"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "당신들은"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "어디에서"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "옵니까"
+    }
+  ],
+  "timestamp": "2026-08-05T19:27:03.714872863Z",
+  "model": "glm-5.2"
+}

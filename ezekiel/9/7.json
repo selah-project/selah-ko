@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 그들에게 말씀하셨다. “⟨그⟩ 집을 더럽혀라. 그리고 뜰을 죽은 자들로 채워라. 나가라.” 그들이 나가서 그 성읍에서 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "더럽혀라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "그리고 채워라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 뜰들"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "뜰을"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "죽은 자들로"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "나가라"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "그들이 나가서"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "그리고 쳤다"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성읍에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:50:03.660872399Z",
+  "model": "glm-5.2"
+}

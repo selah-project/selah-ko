@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "청년이 무엇으로 ⟨את⟩ 자기 길을 정결하게 하리이까? 주의 말씀을 따라 지키는 것이다.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "무엇으로"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "정결하게 하리이까"
+    },
+    {
+      "surface": "נער",
+      "gloss": "청년이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 길"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "자기 길을"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "지키는 것이다"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "주의 말씀을 따라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:16.220244755Z",
+  "model": "glm-5.2"
+}

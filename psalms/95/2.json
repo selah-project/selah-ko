@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 95,
+  "translation": "우리가 감사로 ⟨그의⟩ 얼굴 앞에 나아가고, 노래로 ⟨그에게⟩ 환성을 올리자.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "우리가 나아가고"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴 앞에"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "감사로"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "노래로"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "환성을 올리자"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:12.077264543Z",
+  "model": "glm-5.2"
+}

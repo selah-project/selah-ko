@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 36:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그가 곤고한 자를 그의 곤고함에서 건져내시며, 억압 중에 그들의 귀를 열어주신다.",
+  "tokens": [
+    {
+      "surface": "יחלץ",
+      "gloss": "건져내신다"
+    },
+    {
+      "surface": "עני",
+      "gloss": "곤고한 자를"
+    },
+    {
+      "surface": "בעניו",
+      "gloss": "그의 곤고함에서"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "그리고 열어주신다"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "억압 중에"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "그들의 귀를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:11:00.177615097Z",
+  "model": "glm-5.2"
+}

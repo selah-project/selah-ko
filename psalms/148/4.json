@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "하늘들의 하늘들은 그를 할렐하라, 하늘들 위에 있는 ⟨그⟩ 물들은 ⟨그를⟩ 할렐하라.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "그를 할렐하라"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "하늘들"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘들의"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "그리고 물들은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:54.933588334Z",
+  "model": "glm-5.2"
+}

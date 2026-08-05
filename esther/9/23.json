@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 유다인들은 그들이 행하기 시작한 것을 ⟨את⟩ 받아들였고, 그리고 모르드개가 그들에게 쓴 것을 ⟨את⟩ ⟨받아들였다⟩.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "그리고 받아들였다"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "유다인들은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "시작한"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하기"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "쓴"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개가"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:45.911655643Z",
+  "model": "glm-5.2"
+}

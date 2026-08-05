@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "다윗의 미즈모르. 엘의 아들들아, 야훼께 돌리라, 야훼께 영광과 권능을 돌리라.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "미즈모르"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "돌리라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들아"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "돌리라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "와 권능을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:16.646894458Z",
+  "model": "glm-5.2"
+}

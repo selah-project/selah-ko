@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "당신의 종은 당신이 택하신 당신의 백성 가운데 있사옵니다 — 셀 수도 헤아릴 수도 없을 만큼 많은 백성이옵니다.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "그리고 당신의 종은"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "을"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "택하신"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이옵니다"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "셀 수도"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "셀 수"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "헤아릴 수도"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "헤아릴 수"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "많음으로 인해"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:24.393463126Z",
+  "model": "glm-5.2"
+}

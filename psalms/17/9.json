@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "악인들의 면전에서 — 그들이 나를 억압하였다 — 나의 네페쉬 안의 원수들이 나를 에워싸려 하였다.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "זו",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "나를 억압하였다"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "나의 원수들이"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "네페쉬 안의"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "에워싸려 하였다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:33.317287704Z",
+  "model": "glm-5.2"
+}

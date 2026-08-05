@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "치푸라가 돌칼을 취하여 ⟨아들⟩의 포피를 잘라 그의 발에 대며 말하였다. \"당신은 참으로 피의 혼인 관계자 ⟨이⟩ 나에게.\"",
+  "tokens": [
+    {
+      "surface": "וַתִּקַּח",
+      "gloss": "취하매"
+    },
+    {
+      "surface": "צִפֹּרָה",
+      "gloss": "치푸라가"
+    },
+    {
+      "surface": "צֹר",
+      "gloss": "돌칼을"
+    },
+    {
+      "surface": "וַתִּכְרֹת",
+      "gloss": "잘라"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "아들의 포피"
+    },
+    {
+      "surface": "עָרְלַת",
+      "gloss": "포피를"
+    },
+    {
+      "surface": "בְּנָהּ",
+      "gloss": "아들"
+    },
+    {
+      "surface": "וַתַּגַּע",
+      "gloss": "대며"
+    },
+    {
+      "surface": "לְרַגְלָיו",
+      "gloss": "그의 발에"
+    },
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "חֲתַן",
+      "gloss": "혼인 관계자"
+    },
+    {
+      "surface": "דָּמִים",
+      "gloss": "피의"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:49.917338897Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "야훼, 당신은 당신의 땅을 기쁘게 받아들이셨다. 야곱의 포로 상태를 되돌리셨다.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "기쁘게 받아들이셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "당신의 땅을"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "되돌리셨다"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "포로 상태를"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:24.527901255Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "사람의 선물은 그에게 길을 넓혀 주고, 높은 자들 앞으로 그를 인도한다.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "선물은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "넓혀 주고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "높은 자들"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "인도한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:34.660134315Z",
+  "model": "glm-5.2"
+}

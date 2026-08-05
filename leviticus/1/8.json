@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 아론의 아들들 ⟨곧⟩ 코헨들이 ⟨את⟩ 토막들, ⟨את⟩ 머리와 ⟨את⟩ 기름을 나무 위에 — 그 불 위에 ⟨있는 것⟩, 그 제단 위에 ⟨있는 것⟩ — 진열할 것이다.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "그리고 진열할 것이다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "토막들"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "토막들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "머리"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "기름"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "기름"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "나무"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "האש",
+      "gloss": "불"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:44.570982176Z",
+  "model": "glm-5.2"
+}

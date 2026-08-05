@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 9:20",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "죽음이 우리 창문들로 올라왔고, 우리 궁궐들로 들어왔으니, 바깥에서 젖먹이들을 끊어 버리고 광장들에서 청년들을 끊어 버리기 위함이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라왔고"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음이"
+    },
+    {
+      "surface": "בחלונינו",
+      "gloss": "우리 창문들로"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어왔으니"
+    },
+    {
+      "surface": "בארמנותינו",
+      "gloss": "우리 궁궐들로"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "끊어 버리기 위함이다"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "젖먹이들을"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "바깥에서"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "청년들을"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "광장들에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:29:58.392712106Z",
+  "model": "glm-5.2"
+}

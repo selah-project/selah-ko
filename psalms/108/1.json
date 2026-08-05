@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 108,
+  "translation": "다윗의 노래, 시편",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:27.187592110Z",
+  "model": "glm-5.2"
+}

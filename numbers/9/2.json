@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "이스라엘 자손은 ⟨그⟩ 정한 때에 ⟨את⟩ 페사흐를 지킬지니라.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "지킬지니라"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손은"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "페사흐"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "페사흐를"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "정한 때에"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:32.398933885Z",
+  "model": "glm-5.2"
+}

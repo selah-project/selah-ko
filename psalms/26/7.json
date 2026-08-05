@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "감사의 소리를 들리게 하며, 당신의 모든 놀라운 일들을 알리기 위하여이다.",
+  "tokens": [
+    {
+      "surface": "לַ֭שְׁמִעַ",
+      "gloss": "들리게 하며"
+    },
+    {
+      "surface": "בְּק֣וֹל",
+      "gloss": "…의 소리를"
+    },
+    {
+      "surface": "תּוֹדָ֑ה",
+      "gloss": "감사"
+    },
+    {
+      "surface": "וּ֝לְסַפֵּ֗ר",
+      "gloss": "그리고 알리기"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נִפְלְאוֹתֶֽיךָ",
+      "gloss": "당신의 놀라운 일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:17.273112978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "때가 오면 만군의 야훼에게 속한 날이 모든 거만하고 높은 자 위에, 그리고 모든 들린 자와 낮은 자 위에 임하리니.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때가 오면"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날이"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼에게 속한"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "על",
+      "gloss": "─위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "거만하고"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "그리고 높은 자"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ─위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "들린 자와"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "그리고 낮은 자"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:51.213765654Z",
+  "model": "glm-5.2"
+}

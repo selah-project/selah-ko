@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 예부스의 거주민들이 다윗에게 말하되, \"너는 이곳에 들어오지 못하리라\" 하였다. 그러나 다윗이 ⟨את⟩ 키욘의 요새를 점령하였으니, 그것은 다윗의 성이다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 …말하였다"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주민들이"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "예부스의"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…못하리라"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "너는 들어오지"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "이곳에"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "그러나 …점령하였다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요새"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "요새"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "키욘의"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:52.061683697Z",
+  "model": "glm-5.2"
+}

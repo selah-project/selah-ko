@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 홍수가 사십 일 동안 땅 위에 있었고, 물들이 불어나 ⟨את⟩ 방주를 들어올려 땅 위에서 떠올랐다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었고"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "홍수가"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일 동안"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "불어나"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "들어올려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "방주"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주를"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "떠올랐다"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:00.216472207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "의인의 재앙은 많으나, 야훼께서 그것들 모두에서 그를 건져내신다.",
+  "tokens": [
+    {
+      "surface": "רַ֭בּוֹת",
+      "gloss": "많으나"
+    },
+    {
+      "surface": "רָע֣וֹת",
+      "gloss": "재앙은"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "의인의"
+    },
+    {
+      "surface": "וּ֝מִכֻּלָּ֗ם",
+      "gloss": "그리고 그것들 모두에서"
+    },
+    {
+      "surface": "יַצִּילֶ֥נּוּ",
+      "gloss": "그를 건져내신다"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "야훼께서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:15.298934090Z",
+  "model": "glm-5.2"
+}

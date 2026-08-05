@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "산들과 ⟨모든⟩ 언덕, 과실나무와 ⟨모든⟩ 백향목들이여,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "산들"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨모든⟩"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "언덕"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "과실"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨모든⟩"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "백향목들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:51.463218889Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 파르오가 돌이켜 ⟨그의⟩ 집으로 들어갔으며, 그의 마음을 이것에도 두지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "그리고 돌이켜"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 들어갔으며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "ול아",
+      "gloss": "그리고 …아니하였다"
+    },
+    {
+      "surface": "שת",
+      "gloss": "두지"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음을"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "이것에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:27.747354197Z",
+  "model": "glm-5.2"
+}

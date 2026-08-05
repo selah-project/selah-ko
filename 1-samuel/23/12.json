@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "다윗이 말하였다. \"크일라의 주인들이 나와 내 사람들을 샤울의 손에 넘겨 주겠습니까?\" 야훼께서 말씀하셨다. \"그들이 넘겨 줄 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "넘겨 주겠습니까"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "주인들이"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "크일라의"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 사람들을"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "내 사람들을"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "넘겨 줄 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:53.677333531Z",
+  "model": "glm-5.2"
+}

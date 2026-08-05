@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "하노크에게 ⟨את⟩ 이라드가 태어났고, 이라드는 ⟨את⟩ 메후야엘을 낳았고, 메후야엘은 ⟨את⟩ 메투샤엘을 낳았고, 메투샤엘은 ⟨את⟩ 라멕을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "태어났고"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "하노크에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이라드가"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "이라드가"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "이라드는"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "메후야엘을"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "메후야엘을"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "메후야엘은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "메투샤엘을"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "메투샤엘을"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "메투샤엘은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "라멕을"
+    },
+    {
+      "surface": "למך",
+      "gloss": "라멕을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:10.284042874Z",
+  "model": "glm-5.2"
+}

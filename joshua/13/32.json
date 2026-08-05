@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "이것들이 모셰가 모압 평원에서, 요르단 저편, 예리코 동쪽에서 유업으로 주신 것들이다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것들⟩ ⟨을⟩"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "유업으로 주셨다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "평원에서"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "저편에서"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "예리코"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "동쪽으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:08:02.268789083Z",
+  "model": "glm-5.2"
+}

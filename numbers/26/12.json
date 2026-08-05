@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "시므온의 아들들이 그들의 가문별로 ⟨나뉘었다⟩: 네무엘에게는 네무엘리 가문, 야민에게는 야미니 가문, 야킨에게는 야키니 가문.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "시므온"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "그들의 가문별로"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "네무엘에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "…의 가문"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "네무엘리"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "야민에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "…의 가문"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "야미니"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "야킨에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "…의 가문"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "야키니"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:30.274055954Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "재를 양떼처럼 먹는다, 속인 마음이 그를 끌어버렸다. 그리고 ⟨그는⟩ ⟨את⟩ 자기 네페쉬를 구원하지 못하며, 말하지도 못한다. \"거짓이 아닌가? 내 오른손에.\"",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "양을 치듯"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "재를"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "속이고"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 못한다"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "구원하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 네페쉬를"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "자기 네페쉬를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 못한다"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "말하지도"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "거짓이"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓이"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "내 오른손에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:02.831754632Z",
+  "model": "glm-5.2"
+}

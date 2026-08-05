@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "나의 말들에 귀를 기울이소서, 야훼여, 나의 속삭임을 깨달아 주소서.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "나의 말들에"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "귀를 기울이소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "깨달아 주소서"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "나의 속삭임을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:46.268281977Z",
+  "model": "glm-5.2"
+}

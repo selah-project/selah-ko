@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "⟨나의⟩ 눈이 헛된 것을 보는 ⟨것⟩에서 ⟨돌아서게⟩ 하사, ⟨주의⟩ 길에서 나를 살려주소서.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "⟨돌아서게⟩ 하사"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "⟨나의⟩ 눈이"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "보는 ⟨것⟩에서"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "헛된 것을"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "⟨주의⟩ 길에서"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "나를 살려주소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:50.679990262Z",
+  "model": "glm-5.2"
+}

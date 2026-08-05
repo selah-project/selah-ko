@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "사람의 분노를 늦추는 것은 ⟨그의⟩ 명철이며, ⟨그의⟩ 영광은 허물을 넘어가는 것이다.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "명철은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "늦추다"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "그의 분노를"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "그리고 그의 영광은"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "넘어가는 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "허물을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:48.541744943Z",
+  "model": "glm-5.2"
+}

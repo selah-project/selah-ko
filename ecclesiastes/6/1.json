@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "한 가지 라가 있는데, 내가 해 아래서 본 것이요, 그것은 사람 위에 크게 ⟨벌어진⟩ 것이다.",
+  "tokens": [
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "있다"
+    },
+    {
+      "surface": "רָעָ֔ה",
+      "gloss": "라가"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "—"
+    },
+    {
+      "surface": "רָאִ֖יתִי",
+      "gloss": "내가 본"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "아래서"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "해"
+    },
+    {
+      "surface": "וְרַבָּ֥ה",
+      "gloss": "크게"
+    },
+    {
+      "surface": "הִ֖יא",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הָאָדָֽם",
+      "gloss": "사람"
+    }
+  ],
+  "timestamp": "2026-08-05T19:48:23.063474438Z",
+  "model": "glm-5.2"
+}

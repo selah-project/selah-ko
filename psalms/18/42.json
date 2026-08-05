@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그들이 부르짖었으나 구원할 자가 없었다, 야훼에게 ⟨부르짖었으나⟩ ⟨그가⟩ 그들을 대답하지 않으셨다.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "그들이 부르짖었으나"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 ⟨없었다⟩"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "구원할 자가"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게(로)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하셨다"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "그들을 대답"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:40.967597908Z",
+  "model": "glm-5.2"
+}

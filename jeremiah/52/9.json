@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "그들이 ⟨את⟩ 그 왕을 사로잡고, 그를 바벨 왕에게 리블라로, 하맛 땅으로 데려가니, ⟨그가⟩ 그와 더불어 판결들을 말하였다.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "그들이 사로잡고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 왕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "그들이 데려가니"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "리블라로"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "하맛"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 더불어"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "판결들"
+    }
+  ],
+  "timestamp": "2026-08-05T10:47:00.871111078Z",
+  "model": "glm-5.2"
+}

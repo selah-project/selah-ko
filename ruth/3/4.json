@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그가 눕게 되거든, 너는 ⟨את⟩ 그가 눕는 곳을 알고, 들어가서 그의 발끝을 드러내고 누워라. 그리하면 그가 너에게 ⟨את⟩ 네가 할 일을 알려 줄 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그가 …되거든"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "눕게"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "너는 알고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그가 눕는 곳"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "곳을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "눕는"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "들어가서"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "드러내고"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "그의 발끝을"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "누워라"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리하면 그가"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "알려 줄 것이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네가 할 일"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "네가"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "할 일을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:35.244458647Z",
+  "model": "glm-5.2"
+}

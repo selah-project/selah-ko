@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그러므로 남자가 ⟨את⟩ 자기 아버지와 ⟨את⟩ 자기 어머니를 떠나, 자기 아내에게 붙고, 그들이 하나의 살이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아버지"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "자기 어머니"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "자기 어머니"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "붙고"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "자기 아내에게"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "살이"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:48.252074194Z",
+  "model": "glm-5.2"
+}

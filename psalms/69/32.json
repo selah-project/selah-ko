@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "그것이 야훼를 기쁘시게 함은 뿔 달리고 굽발린 수소보다 더하리라.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "그것이 … 기쁘시게 함은"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "משור",
+      "gloss": "수소보다"
+    },
+    {
+      "surface": "פר",
+      "gloss": "더하리라"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "뿔 달리고"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "굽발린"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:00.365423360Z",
+  "model": "glm-5.2"
+}

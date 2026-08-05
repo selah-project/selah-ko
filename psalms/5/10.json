@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그들의 입에 ⟨는⟩ 확실함이 없고, 그들의 속은 폭력이며, 그들의 목구멍은 열린 무덤이고, 그들의 혀로 ⟨그들은⟩ 매끄럽게 말한다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "그들의 입에"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "확실함이"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "그들의 속은"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "폭력이며"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "무덤이고"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "열린"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "그들의 목구멍은"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "그들의 혀로"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "매끄럽게 말한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:31.257692138Z",
+  "model": "glm-5.2"
+}

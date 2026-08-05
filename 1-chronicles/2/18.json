@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 헤츠론의 아들 칼렙은 ⟨את⟩ 아주바 — ⟨한⟩ 여인 — 와 ⟨את⟩ 예리옷을 아이를 낳게 하였고, 이들이 그녀의 아들들이다: 예셰르와 쇼밥과 아르돈.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "그리고 칼렙은"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "헤츠론의"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "아이를 낳게 하였고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아주바"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "아주바"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "예리옷을"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "예리옷을"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "그녀의 아들들이다"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "예셰르와"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "쇼밥과"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "아르돈"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:34.936469671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "귀가 듣고 나를 축복하였고, 눈이 보고 나를 위해 증언하였으니",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(때에)"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "귀가"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "ותאשרני",
+      "gloss": "나를 축복하였고"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "그리고 눈이"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "ותעידני",
+      "gloss": "나를 위해 증언하였으니"
+    }
+  ],
+  "timestamp": "2026-08-05T12:08:36.383580523Z",
+  "model": "glm-5.2"
+}

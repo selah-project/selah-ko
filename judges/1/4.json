@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "유다가 올라갔고, 야훼께서 ⟨את⟩ 가나안 사람과 프리스 사람을 그들의 손에 넘기시매, 그들이 베섹에서 그들을 치니 만 명이었다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 ⟨그가⟩ 올라갔다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 ⟨그가⟩ 넘기셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가나안 사람"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "가나안 사람"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "그리고 프리스 사람"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "그들의 손에"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "그리고 그들이 그들을 쳤다"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "베섹에서"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "열"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:39.253835802Z",
+  "model": "glm-5.2"
+}

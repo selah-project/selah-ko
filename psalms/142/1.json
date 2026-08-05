@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 142,
+  "translation": "다윗의 마스킬, 그가 굴에 있을 때의 기도.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "마스킬"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "그가 … 있을 때"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "굴에"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "기도"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:00.460719370Z",
+  "model": "glm-5.2"
+}

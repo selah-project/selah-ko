@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "사십 년째, 열한째 달, 그 달의 첫째 날에 일어난 일이니, 모셰가 이스라엘 자손에게 말하였다 — 야훼께서 ⟨את⟩ 그에게 명하신 모든 것에 따라 ⟨그것을⟩ 그들에게.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "일어난 일이니"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년째"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "열"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "한째"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "달"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "첫째 날에"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "그 달의"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것에 따라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그에게"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:27.982245429Z",
+  "model": "glm-5.2"
+}

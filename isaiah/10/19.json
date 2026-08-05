@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그의 숲의 나무들의 나머지는 수가 적어져서, 아이가 그것들을 기록할 것이다.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "나머지는"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무들의"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "그의 숲의"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "수가"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨것이⟩ 되어"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "아이가"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "그것들을 기록할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:25.073749352Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "엘로님이시여, ⟨당신의⟩ 이름 같이 ⟨당신의⟩ 찬양이 ⟨있습니다⟩, 땅의 끝들 위에. 체데크가 ⟨당신의⟩ 오른손을 가득 채웠나이다.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "…⟨당신의⟩ 이름 같이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로님이시여"
+    },
+    {
+      "surface": "כן",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "당신의 찬양이"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "끝들"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "체데크가"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "가득 채웠나이다"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "당신의 오른손"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:14.708540874Z",
+  "model": "glm-5.2"
+}

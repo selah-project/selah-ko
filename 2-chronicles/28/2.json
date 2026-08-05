@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그가 이스라엘 왕들의 길들로 걸었고, 또 바알들을 위하여 부어 만든 우상들을 만들었다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그가 걸었고"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "길들로"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "부어 만든 우상들을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "바알들을 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T12:59:53.308007802Z",
+  "model": "glm-5.2"
+}

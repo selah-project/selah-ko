@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 101,
+  "translation": "아침마다 이 땅의 악인들을 다 멸절시키리니, 야훼의 성에서 모든 불의를 행하는 자들을 잘라 버리기 위함이다.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "아침마다"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "멸절시키리니"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "악인들을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "잘라 버리기 위하여"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "성에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "행하는 자들을"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:43.518348288Z",
+  "model": "glm-5.2"
+}

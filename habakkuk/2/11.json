@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "돌이 벽에서 부르짖고, 나무의 들보가 그것에 응답하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌이"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "벽에서"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "부르짖고"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "들보가"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "나무의"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "그것에 응답한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:17.865898482Z",
+  "model": "glm-5.2"
+}

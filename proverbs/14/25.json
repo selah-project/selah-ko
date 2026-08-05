@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "진실한 증인은 네페쉬들을 건져내지만 거짓을 내뿜는 자는 속임수이다.",
+  "tokens": [
+    {
+      "surface": "מַצִּ֣יל",
+      "gloss": "건져내지만"
+    },
+    {
+      "surface": "נְ֭פָשׁוֹת",
+      "gloss": "네페쉬들을"
+    },
+    {
+      "surface": "עֵ֣ד",
+      "gloss": "증인은"
+    },
+    {
+      "surface": "אֱמֶ֑ת",
+      "gloss": "진실한"
+    },
+    {
+      "surface": "וְיָפִ֖חַ",
+      "gloss": "내뿜는"
+    },
+    {
+      "surface": "כְּזָבִ֣ים",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "מִרְמָֽה",
+      "gloss": "속임수이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:24.363062119Z",
+  "model": "glm-5.2"
+}

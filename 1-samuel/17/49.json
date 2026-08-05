@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-samuel 17:49",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "다윗이 손을 그릇에 넣어 거기서 돌 하나를 취하고 새물매를 돌려 ⟨את⟩ 블레셋 사람을 그의 이마에 맞혔다. 돌이 그의 이마에 박히자, 그가 얼굴을 땅에 대고 쓰러졌다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "넣어"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 손을"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "그릇에"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌 하나를"
+    },
+    {
+      "surface": "ויקלע",
+      "gloss": "새물매를 돌려"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "맞혔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "블레셋 사람을"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "블레셋 사람을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "מצחו",
+      "gloss": "그의 이마에"
+    },
+    {
+      "surface": "ותטבע",
+      "gloss": "박히자"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "돌이"
+    },
+    {
+      "surface": "במצחו",
+      "gloss": "그의 이마에"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "쓰러졌다"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴을"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T19:36:23.276412569Z",
+  "model": "glm-5.2"
+}

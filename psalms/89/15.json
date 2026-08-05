@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "체데크와 미쉬팟이 당신의 왕좌의 터전이며, 헤세드와 에메트가 당신의 얼굴 앞을 걷는다.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "체데크"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "그리고 미쉬팟"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "터전"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "당신의 왕좌의"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "그리고 에메트"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "앞서간다"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "당신의 얼굴"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:11.585160097Z",
+  "model": "glm-5.2"
+}

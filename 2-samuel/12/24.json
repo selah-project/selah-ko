@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 12:24",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "다윗이 ⟨את⟩ 그의 아내 바트-셰바를 위로하였고, 그녀에게 들어가 그녀와 함께 누웠더니, 그녀가 아들을 낳았고, 그가 ⟨את⟩ 그의 이름을 셸로모라 불렀다. 그리고 야훼께서 그를 사랑하셨다.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "위로하였고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아내 바트-셰바를"
+    },
+    {
+      "surface": "בת",
+      "gloss": "바트-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어가"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "누웠더니"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "그녀와 함께"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모라"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "사랑하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:04.578580329Z",
+  "model": "glm-5.2"
+}

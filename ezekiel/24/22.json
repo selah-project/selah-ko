@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "너희는 내가 한 대로 할 것이라. 입술을 덮지 말며, 사람들의 떡을 먹지 말라.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "너희는 할 것이라"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "내가 한"
+    },
+    {
+      "surface": "על",
+      "gloss": "덮지 말며"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "입술을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "덮을 것이다"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "떡을"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람들의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "먹을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:55:33.767760289Z",
+  "model": "glm-5.2"
+}

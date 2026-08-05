@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "다윗은 ⟨את⟩ 그 블레셋 사람의 머리를 취하여 예루샬라임으로 가져갔고, ⟨את⟩ 그의 장비는 ⟨그의⟩ 천막에 두었다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 블레셋 사람의 머리를"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "그 블레셋 사람의"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "가져갔고"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임으로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 장비는"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "그의 장비"
+    },
+    {
+      "surface": "שם",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "천막에"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:49.364441894Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그분께서 당신의 마음에 따라 당신에게 주시고, 당신의 모든 계획을 채우시기를.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "주시기를"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "당신의 마음에 따라"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 당신의 모든"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "계획을"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "채우시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:04.760460954Z",
+  "model": "glm-5.2"
+}

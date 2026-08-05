@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그것이 그가 덮는 겉옷처럼 그에게 있게 하소서. 그리고 허리띠처럼 늘 띠게 하소서.",
+  "tokens": [
+    {
+      "surface": "תְּהִי",
+      "gloss": "있게 하소서"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כְבֶגֶד",
+      "gloss": "겉옷처럼"
+    },
+    {
+      "surface": "יַעְטֶה",
+      "gloss": "그가 덮는"
+    },
+    {
+      "surface": "וּלְמֵזַח",
+      "gloss": "그리고 허리띠처럼"
+    },
+    {
+      "surface": "תָּמִיד",
+      "gloss": "늘"
+    },
+    {
+      "surface": "יַחְגְּרֶהָ",
+      "gloss": "띠게 하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:57.931719619Z",
+  "model": "glm-5.2"
+}

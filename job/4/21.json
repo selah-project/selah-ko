@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그들의 장막 줄이 그들 안에서 뽑히지 않는가? 그들은 죽고, 지혜 없이 죽는다.",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "～가 아닌가?"
+    },
+    {
+      "surface": "נִסַּ֣ע",
+      "gloss": "뽑히지"
+    },
+    {
+      "surface": "יִתְרָ֣ם",
+      "gloss": "그들의 장막 줄이"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "그들 안에서"
+    },
+    {
+      "surface": "יָ֝מ֗וּתוּ",
+      "gloss": "그들은 죽고"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "～가 없이"
+    },
+    {
+      "surface": "בְחָכְמָֽה",
+      "gloss": "지혜"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:08.099392997Z",
+  "model": "glm-5.2"
+}

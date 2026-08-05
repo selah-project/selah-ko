@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리하여 그가 그의 말씀들을 믿었으니, 그가 그의 찬양을 노래하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "그리하여 그가 믿었으니"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "그의 말씀들을"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "그가 노래하였다"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "그의 찬양을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:34.563321776Z",
+  "model": "glm-5.2"
+}

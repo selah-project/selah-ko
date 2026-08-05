@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 그는 ⟨את⟩ 그 휘장을 만들었다 — 청색 자색 홍색 가는 베 — 그리고 그것 위에 그루빔들을 새겨 올렸다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 그는 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 휘장을"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "그 휘장을"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "청색"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "자색"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "홍색"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "가는 베"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 그는 올리셨다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그것 위에"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "그루빔들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:55.650951473Z",
+  "model": "glm-5.2"
+}

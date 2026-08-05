@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "죽은 자를 위하여 울지 말고, 그를 위하여 애도하지 말라 — 떠나가는 자를 위하여, 그가 다시는 돌아오지 못하고 ⟨את⟩ 자기 출생지를 보지 못할 것이므로, 울되 심히 울라.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "울지 말고"
+    },
+    {
+      "surface": "למת",
+      "gloss": "죽은 자를 위하여"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 —"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "애도하지 말라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를 위하여"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "울라"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "심히 울라"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "떠나가는 자를 위하여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하고"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "그가 다시는 돌아오지"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시는"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "보지 못할 것이므로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "출생지"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "자기 출생지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:11.951225398Z",
+  "model": "glm-5.2"
+}

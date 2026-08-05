@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "⟨그⟩ 모든 ⟨그대⟩의 민하를 기억하시고, ⟨그대⟩의 올라를 살지게 하시기를. 셀라.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "기억하시고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "⟨그대⟩의 민하를"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "그리고 ⟨그대⟩의 올라를"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "살지게 하시기를"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라."
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:54.470699766Z",
+  "model": "glm-5.2"
+}

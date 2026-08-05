@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 너희는 오늘 내가 너희 앞에 두는 ⟨את⟩ 모든 규례들과 ⟨את⟩ 법도들을 지켜 행하라.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "그리고 너희는 지키라"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 규례들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "규례들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "법도들"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "법도들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "두는"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "너희 앞에"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:31.347782603Z",
+  "model": "glm-5.2"
+}

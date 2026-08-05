@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "다윗이 말로써 ⟨את⟩ 자기 사람들을 꾸짖어 막고, 그들이 샤울을 향해 일어나는 것을 허락하지 아니하였다. 그리고 샤울은 그 동굴에서 일어나 ⟨그⟩ 길을 갔다.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "꾸짖어 막고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 사람들을"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "자기 사람들을"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "말로써"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "허락하지"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "일어나는 것을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향해"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울을"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "그리고 샤울은"
+    },
+    {
+      "surface": "קם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "그 동굴에서"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:37:00.151204335Z",
+  "model": "glm-5.2"
+}

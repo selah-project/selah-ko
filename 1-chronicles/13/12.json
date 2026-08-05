@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그 날에 다윗은 ⟨את⟩ 엘로힘을 두려워하며, 말하기를 '내가 어떻게 ⟨את⟩ 엘로힘의 언약궤를 내게로 가져올 수 있겠는가' 하였다.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "두려워하며"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "היך",
+      "gloss": "어떻게"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "가져올 수 있겠는가"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘의 언약궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "언약궤"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:39.792362442Z",
+  "model": "glm-5.2"
+}

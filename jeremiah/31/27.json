@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "보라, 날들이 오고 있다, 야훼의 선언이, 그리고 내가 ⟨את⟩ 이스라엘 집과 ⟨את⟩ 예후다 집에 사람 씨와 짐승 씨를 뿌릴 것이다.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "באים",
+      "gloss": "오고 있다"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "그리고 내가 뿌릴 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "예후다 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "그리고 씨"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "짐승"
+    }
+  ],
+  "timestamp": "2026-08-05T18:20:05.723783927Z",
+  "model": "glm-5.2"
+}

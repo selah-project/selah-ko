@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그의 어머니가 그에게 작은 겉옷을 만들어 주었고, 해마다 그녀의 남편과 함께 올라가 ⟨את⟩ ⟨그⟩ 희생제물을 드리러 갈 때마다 그것을 그에게 가져다 주었다.",
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "그리고 겉옷을"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "작은"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "만들어 주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "그의 어머니가"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "가져다 주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "해마다"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "올라갈 때마다"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "올라가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "남편"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "그녀의 남편과 함께"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "드리러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "희생제물"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "희생제물을"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "그 해의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:00.847315414Z",
+  "model": "glm-5.2"
+}

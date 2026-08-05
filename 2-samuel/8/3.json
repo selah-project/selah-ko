@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "다윗이 르흡의 아들 하닷에셀를 쳤다 — 그는 ⟨את⟩ 소바 왕이었다 — 그가 자기 손을 강으로 돌리려 갈 때에.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "그리고 쳤다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하닷에셀"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "하닷에셀를"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "르흡"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…의 왕"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "소바"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "그가 갈 때에"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "돌리려"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손을"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "강으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:35.010568544Z",
+  "model": "glm-5.2"
+}

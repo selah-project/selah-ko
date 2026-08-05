@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 야훼의 집과 ⟨את⟩ 왕의 집과 ⟨את⟩ 예루샬라임의 모든 집을 불태웠다. 그리고 ⟨את⟩ 모든 큰 집을 불로 태웠다.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "그리고 불태웠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "집들"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "태웠다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:20.493609448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "그가 나를 부르리니, '당신은 나의 아버지, 나의 엘이시며, 나의 구원의 반석이십니다' 하리라.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "나를 부르리니"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "나의 아버지"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은 … 이십니다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나의 엘이시며"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "… 반석이"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "나의 구원의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:41.989191154Z",
+  "model": "glm-5.2"
+}

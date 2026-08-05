@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "모셔가 야훼 앞에서 ⟨את⟩ 지팡이를 취하였으니, 그가 그에게 명하신 대로였다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하였으니"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셔가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "지팡이"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "지팡이를"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로였다"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "그가 그에게 명하신"
+    }
+  ],
+  "timestamp": "2026-08-05T08:40:55.133881232Z",
+  "model": "glm-5.2"
+}

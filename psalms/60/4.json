@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "당신이 땅을 진동시키셨고, 그것을 찢으셨으니 — 그것의 갈라진 틈을 고치소서, 흔들리기 때문이다.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "당신이 … 진동시키셨고"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "그것을 찢으셨으니"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "고치소서"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "그것의 갈라진 틈을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "흔들리기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:45.153172169Z",
+  "model": "glm-5.2"
+}

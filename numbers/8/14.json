@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "너는 ⟨את⟩ 레위 사람들을 이스라엘 자손들 가운데서 구별할 것이다. 그러면 레위 사람들은 나의 것이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "너는 … 구별할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레위 사람들을"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들을"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "… 가운데서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "… 자손들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "… 것이 될 것이다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들은"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:52.174822522Z",
+  "model": "glm-5.2"
+}

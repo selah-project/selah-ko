@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "⟨את⟩ 나의 활을 구름에 두었으니, 그것이 나와 땅 사이의 브리트(언약)의 표가 될 것이다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 활"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "나의 활을"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었으니"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "구름에"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "그것이 … 될 것이다"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "표로"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트(언약)의"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "나와"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "… 사이의"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:17.637755716Z",
+  "model": "glm-5.2"
+}

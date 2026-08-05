@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "너는 ⟨한⟩ 종을 그의 주인에게 넘겨주지 말지니, 그가 그의 주인에게서 도망하여 네게로 왔은즉.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "⟨not⟩"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "너는 넘겨주지 말지니"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "도망하여"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게로"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:25.553235286Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "⟨그대가⟩ 우리를 그물에 들어오게 하셨고, 우리 허리에 압박을 놓으셨다.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "우리를 … 들어오게 하셨고"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "그물에"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "놓으셨다"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "압박을"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "우리 허리에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:05.726151843Z",
+  "model": "glm-5.2"
+}

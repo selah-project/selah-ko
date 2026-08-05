@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "카인은 칠 갑절로 복수를 받거늘, 레멕은 칠십 칠 갑절이로다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "거늘"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "칠 갑절로"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "복수를 받고"
+    },
+    {
+      "surface": "קין",
+      "gloss": "카인은"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "그리고 레멕은"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "칠십"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "그리고 칠"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:11.607119399Z",
+  "model": "glm-5.2"
+}

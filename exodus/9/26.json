@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "오직 이스라엘의 아들들이 있던 고센 땅에만 우박이 없었다.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "고센"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곳"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "우박이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:47.347666861Z",
+  "model": "glm-5.2"
+}

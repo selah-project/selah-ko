@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "왕이 그에게 말씀하셨다. \"왜 ⟨아직도⟩ 네 말을 더 하느냐? 내가 말하였다 — 너와 치바가 ⟨את⟩ 그 밭을 나누어라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "למה",
+      "gloss": "왜"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "말하느냐"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "네 말을"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "내가 말하였다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "치바가"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "나누어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 밭"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "그 밭을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:49:54.155251457Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "슐로모가 ⟨את⟩ 그 집을 건축하고 그것을 마쳤다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 건축하고"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집을"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "그리고 그것을 마쳤다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:24.018248898Z",
+  "model": "glm-5.2"
+}

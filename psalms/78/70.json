@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그리고 자신의 종 다윗을 선택하셨고, 양 우리들에서부터 ⟨그⟩를 취하셨다.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "그리고 선택하셨다"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "자신의 종"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "그리고 취하셨다"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "우리들에서부터"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:00.358860320Z",
+  "model": "glm-5.2"
+}

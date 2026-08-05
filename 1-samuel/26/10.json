@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "다윗이 말하였다. \"야훼께서 사시니, 야훼께서 그를 치시든지, 혹은 그의 날이 와서 죽든지, 혹은 전장에 내려가 쓰러지든지 할 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "חי",
+      "gloss": "사시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨반드시⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "그를 치시든지"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "그의 날이"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "와서"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "죽든지"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "전장에"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "내려가"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "쓰러지든지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:21.694300770Z",
+  "model": "glm-5.2"
+}

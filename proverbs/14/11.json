@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "악인들의 집은 황폐해지지만, 온전한 자들의 천막은 무성하게 피어난다.",
+  "tokens": [
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "집은"
+    },
+    {
+      "surface": "רְ֭שָׁעִים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "יִשָּׁמֵ֑ד",
+      "gloss": "황폐해지지만"
+    },
+    {
+      "surface": "וְאֹ֖הֶל",
+      "gloss": "천막은"
+    },
+    {
+      "surface": "יְשָׁרִ֣ים",
+      "gloss": "온전한 자들의"
+    },
+    {
+      "surface": "יַפְרִֽיחַ",
+      "gloss": "무성하게 피어난다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:49.657764189Z",
+  "model": "glm-5.2"
+}

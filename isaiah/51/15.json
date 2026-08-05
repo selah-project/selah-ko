@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "그리고 나는 야훼, 너의 엘로힘이다. 바다를 뒤흔드시어 그 물결들이 요동하는 ⟨이⟩, 만군의 야훼가 그의 이름이시다.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼,"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "너의 엘로힘이다"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "뒤흔드시어"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "요동하는"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "그 물결들이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:55.707395415Z",
+  "model": "glm-5.2"
+}

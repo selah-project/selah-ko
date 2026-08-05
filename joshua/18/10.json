@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "예호수아가 그들을 위하여 실로에서, 야훼 앞에서 제비를 던졌다. 그리고 예호수아가 거기서 ⟨את⟩ 땅을 이스라엘 자손에게 그들의 구획대로 나누어 주었다.",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "던졌다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들을 위하여"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호수아가"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "제비를"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "실로에서"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "나누어 주었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호수가가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "자손에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "그들의 구획대로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:09:59.425670840Z",
+  "model": "glm-5.2"
+}

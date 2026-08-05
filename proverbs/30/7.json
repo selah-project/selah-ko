@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "두 가지를 내가 당신에게 구하였습니다. 내가 죽기 전에 나에게서 거두지 마소서.",
+  "tokens": [
+    {
+      "surface": "שְׁ֭תַּיִם",
+      "gloss": "두 가지를"
+    },
+    {
+      "surface": "שָׁאַ֣לְתִּי",
+      "gloss": "내가 구하였습니다"
+    },
+    {
+      "surface": "מֵאִתָּ֑ךְ",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "∼마소서"
+    },
+    {
+      "surface": "תִּמְנַ֥ע",
+      "gloss": "거두지"
+    },
+    {
+      "surface": "מִ֝מֶּ֗נִּי",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "בְּטֶ֣רֶם",
+      "gloss": "∼전에"
+    },
+    {
+      "surface": "אָמֽוּת",
+      "gloss": "내가 죽기"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:21.269285246Z",
+  "model": "glm-5.2"
+}

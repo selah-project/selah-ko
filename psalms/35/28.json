@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그리고 나의 혀는 ⟨그대⟩의 의를 되뇌리라, 온종일 ⟨그대⟩의 찬양을!",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "그리고 나의 혀는"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "되뇌리라"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "의를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "찬양을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:42.959722463Z",
+  "model": "glm-5.2"
+}

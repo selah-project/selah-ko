@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 112,
+  "translation": "할렐루야. 야를 찬양하라. 야훼를 경외하는 이, ⟨그⟩의 계명들을 크게 기뻐하는 사람, 복이 있도다.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "할렐루야"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야를"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있도다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "경외하는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "그의 계명들을"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "기뻐하는"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:33.312454677Z",
+  "model": "glm-5.2"
+}

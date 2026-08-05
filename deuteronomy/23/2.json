@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "상처 입어 찢어진 자나 잘린 샤프카를 가진 자는 야훼의 회중에 들어오지 못한다.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "들어온다"
+    },
+    {
+      "surface": "פְּצוּעַ",
+      "gloss": "상처 입어 찢어진 자"
+    },
+    {
+      "surface": "דַּכָּא",
+      "gloss": "짓눌린 자가"
+    },
+    {
+      "surface": "וּכְרוּת",
+      "gloss": "그리고 잘린"
+    },
+    {
+      "surface": "שָׁפְכָה",
+      "gloss": "샤프카를 가진 자"
+    },
+    {
+      "surface": "בִּקְהַל",
+      "gloss": "회중에"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:32.651821462Z",
+  "model": "glm-5.2"
+}

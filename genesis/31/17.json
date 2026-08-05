@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 야곱이 일어나 ⟨את⟩ 그의 아들들과 ⟨את⟩ 그의 아내들을 낙타들에 실었다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "실었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아내들"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "그의 아내들"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "낙타들"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:22.934052248Z",
+  "model": "glm-5.2"
+}

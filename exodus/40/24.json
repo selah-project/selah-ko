@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 그 메노라를 만남의 텐트에, 그 상의 맞은편에, 미쉬칸의 남쪽 측면에 놓았다.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "놓았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 메노라를"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "그 메노라를"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "텐트에"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "맞은편에"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "그 상의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "측면"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "그 미쉬칸의"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "남쪽으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:33.812661334Z",
+  "model": "glm-5.2"
+}

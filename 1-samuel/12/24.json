@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "오직 야훼를 경외하고 ⟨את⟩ 야훼를 섬기라, 진실로, 너희 온 마음으로, ⟨왜냐하면⟩ ⟨너희가⟩ 보아야 한다 ⟨את⟩ …을, 그것을 그분께서 너희와 함께 크게 하신 것을.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "경외하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "그리고 …섬기라"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그분을",
+      "marks": "그분을(야훼를)"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "진실로"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "…온"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "너희 마음으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨왜냐하면⟩"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보아야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "…을(그것을)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…을"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "크게 하신"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "너희와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T09:26:06.264908395Z",
+  "model": "glm-5.2"
+}

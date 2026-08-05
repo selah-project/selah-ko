@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "저녁과 아침과 한낮에 내가 탄식하며 읊조리리니, 그분께서 내 소리를 들으셨다",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "저녁과"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "아침과"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "한낮에"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "읊조리리니"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "탄식하며"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "들으셨다"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "내 소리를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:45.713003104Z",
+  "model": "glm-5.2"
+}

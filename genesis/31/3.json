@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "야훼께서 야곱에게 말씀하셨다. \"네 조상들의 땅으로, ⟨그리고⟩ 네 친척에게로 돌아가라. 내가 너와 함께하리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "네 조상들의"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "⟨그리고⟩ 네 친척에게로"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "내가 함께하리라"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:34.715768551Z",
+  "model": "glm-5.2"
+}

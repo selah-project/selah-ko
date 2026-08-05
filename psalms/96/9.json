@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 96,
+  "translation": "야훼께 경배하라, 거룩함의 아름다움으로. ⟨그의⟩ 면전에서 떨라, 온 땅이여.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "경배하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "아름다움으로"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩함의"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "떨라"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "⟨그의⟩ 면전에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:59.914159093Z",
+  "model": "glm-5.2"
+}

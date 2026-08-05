@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "만일 사람이 밭이나 포도원을 방목하여, ⟨את⟩ 가축을 풀어놓아 다른 사람의 밭에서 먹게 하면, 자기 밭의 가장 좋은 것으로, 자기 포도원의 가장 좋은 것으로 배상해야 한다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "방목하여"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "밭이나"
+    },
+    {
+      "surface": "או",
+      "gloss": "또는"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "포도원을"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "풀어놓아"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가축"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "가축을"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "먹게 하면"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "밭에서"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른 사람의"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "가장 좋은 것으로"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "자기 밭의"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "그리고 가장 좋은 것으로"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "자기 포도원의"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "배상해야 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:51.538466323Z",
+  "model": "glm-5.2"
+}

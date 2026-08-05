@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "산산이 부서졌다, 산산이 부서졌다, ⟨그⟩ 땅이; 깨뜨려졌다, 깨뜨려졌다, ⟨그⟩ 땅이; 흔들렸다, 흔들렸다, ⟨그⟩ 땅이.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "부서졌다"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "산산이 부서졌다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨그⟩ 땅이"
+    },
+    {
+      "surface": "פור",
+      "gloss": "깨뜨려졌다"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "산산이 깨뜨려졌다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "흔들렸다"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "크게 흔들렸다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:20.294561022Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 왕이 그들에게 말하였다. \"나는 꿈을, 꿈을 꾸었고, 나의 루아흐(영)가 ⟨את⟩ 그 꿈을 알기 위해 흔들렸다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "꿈을"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "나는 꾸었고"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "그리고 흔들렸다"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "나의 루아흐(영)가"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "알기 위해"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 꿈을"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "그 꿈"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:02.101578346Z",
+  "model": "glm-5.2"
+}

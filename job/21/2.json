@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "나의 말을 부지런히 들으라, 그리고 이것이 너희의 위로가 되게 하라.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "부지런히"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "나의 말을"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그리고 ⟨그것이⟩ 되게 하라"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "너희의 위로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:53.729112422Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "아비새가 다윗에게 말하였다. “엘로힘께서 오늘 ⟨את⟩ 당신의 원수를 당신의 손에 가두셨으니, 그러니 청하건대 창으로 땅에 한 번만 치겠습니다. 그에게 두 번 되풀이하지 않겠습니다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "아비새가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "가두셨으니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘께서"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 원수를"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "당신의 원수"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "당신의 손에"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "그러니"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "치겠습니다"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "창으로"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "번"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "되풀이하겠습니다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:25:25.444034333Z",
+  "model": "glm-5.2"
+}

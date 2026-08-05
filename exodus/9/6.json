@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼께서 이튿날 ⟨את⟩ 이 일을 행하시니, 미츠라임의 모든 가축이 죽었다. 그러나 이스라엘 자손의 가축 중에서는 하나도 죽지 않았다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 일을"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "이튿날"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "가축이"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "가축 중에서는"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽지"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나도"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:20.622859759Z",
+  "model": "glm-5.2"
+}

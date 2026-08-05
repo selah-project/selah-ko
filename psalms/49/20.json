@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "⟨그는⟩ 그의 조상들의 세대에게 이를 것이니, 영원히 ⟨그들이⟩ 빛을 보지 못할 것이다.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "이를 것이니"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "דור",
+      "gloss": "세대"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "그의 조상들의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…못할 것이다"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "보지"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:37.157005209Z",
+  "model": "glm-5.2"
+}

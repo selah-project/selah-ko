@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 28:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 너는 ⟨그⟩ 에푸드의 어깨띠 위에 ⟨את⟩ 두 돌을, 이스라엘 자손들을 위한 기념의 돌들로, 놓아야 한다. 아론이 야훼 앞에서 ⟨את⟩ 그들의 이름들을 자기의 두 어깨 위에, 기념으로, 담당할 것이다.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "그리고 너는 …놓아야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 돌"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "돌"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "어깨띠"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "에푸드의"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "돌들로"
+    },
+    {
+      "surface": "זכרן",
+      "gloss": "기념의"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…을 위한"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘 자손들"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "그리고 …담당할 것이다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 이름들"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "그들의 이름들을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "자기의 어깨"
+    },
+    {
+      "surface": "לזכרן",
+      "gloss": "기념으로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:24.112671236Z",
+  "model": "glm-5.2"
+}

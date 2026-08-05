@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 방들 앞에 경계선이 있었으니 이쪽에 한 암마, 저쪽에 한 암마였으며, 방은 이쪽에서 여섯 암마, 저쪽에서 여섯 암마였다.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "그리고 경계선"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "방들의"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "암마"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "그리고 암마"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계선"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "이쪽에"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "그리고 방은"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "암마"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "저쪽에서"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "그리고 여섯"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "암마"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "저쪽에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:01.804323613Z",
+  "model": "glm-5.2"
+}

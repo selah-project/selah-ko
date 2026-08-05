@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "카스딤의 군대가 파르오의 군대로 인해 예루샬라임에서 떠나 올라갈 때에 ⟨그것이 일어났다⟩.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֗ה",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "בְּהֵֽעָלוֹת֙",
+      "gloss": "올라갈 때에"
+    },
+    {
+      "surface": "חֵ֣יל",
+      "gloss": "군대가"
+    },
+    {
+      "surface": "הַכַּשְׂדִּ֔ים",
+      "gloss": "카스딤의"
+    },
+    {
+      "surface": "מֵעַ֖ל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "יְרֽוּשָׁלִָ֑ם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "으로 인해"
+    },
+    {
+      "surface": "חֵ֥יל",
+      "gloss": "군대"
+    },
+    {
+      "surface": "פַּרְעֹֽה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:41:06.345436082Z",
+  "model": "glm-5.2"
+}

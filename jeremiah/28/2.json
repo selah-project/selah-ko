@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "만군의 야훼 이스라엘의 엘로힘이 말씀하시노라 이르시기를 내가 ⟨את⟩ 바벨 왕의 멍에를 꺾었노라",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "내가 꺾었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바벨 왕의 멍에"
+    },
+    {
+      "surface": "על",
+      "gloss": "멍에를"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    }
+  ],
+  "timestamp": "2026-08-05T10:37:47.754153013Z",
+  "model": "glm-5.2"
+}

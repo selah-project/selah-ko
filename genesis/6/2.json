@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "엘로힘의 아들들이 ⟨את⟩ 사람의 딸들을 보았다 — 그들이 좋았기 때문이다. 그리고 그들이 자기들이 고른 모든 것 가운데서 아내들을 취하였다.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "그리고 보았다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람의 딸들을"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸들을"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "… 때문이다"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그리고 취하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "자기들에게"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "아내들을"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 것 가운데서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…가"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "고른"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:04.446471390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "첫째의 이름은 피쉬온 — 그것이 ⟨את⟩ 온 하빌라 땅을 둘러싸는 것이니, 그곳에 금이 있다.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "첫째의"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "피쉬온"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "둘러싸는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 하빌라 땅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "하빌라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것이니, 그곳에"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금이 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:46.984184087Z",
+  "model": "glm-5.2"
+}

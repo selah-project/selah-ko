@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그러나 나의 비틀거림에 그들은 기뻐하고 모였다; 나를 치는 자들이 — 내가 알지 못하는 — 나에게 모여들어, 그들은 찢었고 멈추지 않았다.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "나의 비틀거림에"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "그들은 기뻐하고"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "모였다"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "모여들어"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "나를 치는 자들이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨…⟩ 않는"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 알지"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "그들은 찢었고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨…⟩ 않고"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "멈추지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:24.483141790Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨내가⟩ 말하였다 — \"들으라, 제발, 야곱의 우두머리들아, 이스라엘의 집의 지도자들아. ⟨너희⟩에게 ⟨아는⟩ 것이 아닌가, ⟨את⟩ 공의를.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 ⟨내가⟩ 말하였다"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "우두머리들"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "그리고 지도자들"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아닌가"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "아는 것"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "공의"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "공의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:48.919859159Z",
+  "model": "glm-5.2"
+}

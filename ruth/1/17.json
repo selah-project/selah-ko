@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 1:17",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "당신이 죽는 곳에서 나도 죽고, 거기서 나도 묻히겠다. 야훼께서 내게 이같이 하시고, 이같이 더하시기를 — 오직 죽음만이 나와 당신 사이를 갈라놓을 것이기에.",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "~하는 곳에서"
+    },
+    {
+      "surface": "תמותי",
+      "gloss": "당신이 죽는"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "나도 죽고"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "אקבר",
+      "gloss": "나도 묻히겠다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "하시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "더하시기를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "~이기에"
+    },
+    {
+      "surface": "המות",
+      "gloss": "죽음만이"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "갈라놓을"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "나와"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "당신 사이를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:37.617732773Z",
+  "model": "glm-5.2"
+}

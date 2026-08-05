@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 미츠라임 왕이 그를 예루샬라임에서 폐위시켰으며, ⟨את⟩ 그 땅에 은 백 달란트와 금 한 달란트의 벌금을 부과하였다.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "그리고 …폐위시켰다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "그리고 …벌금을 부과하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅에"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "달란트"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "그리고 한 달란트"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    }
+  ],
+  "timestamp": "2026-08-05T13:04:16.703390747Z",
+  "model": "glm-5.2"
+}

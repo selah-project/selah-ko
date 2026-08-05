@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그가 말씀하셨으므로 ⟨그것이⟩ 있게 되었고, 그가 명하셨으므로 ⟨그것이⟩ 서 있었다.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "…이므로"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "말씀하셨으므로"
+    },
+    {
+      "surface": "וַיֶּ֑הִי",
+      "gloss": "있게 되었다"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "צִ֝וָּ֗ה",
+      "gloss": "명하셨으므로"
+    },
+    {
+      "surface": "וַֽיַּעֲמֹֽד",
+      "gloss": "서 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:39.116461308Z",
+  "model": "glm-5.2"
+}

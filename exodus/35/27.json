@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그리고 ⟨그⟩ 지도자들은 가져왔다 — ⟨את⟩ 소마 돌과 ⟨את⟩ 정착물의 돌들을, 에봇과 흉패를 위하여.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "그리고 그 지도자들은"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "가져왔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소마 돌과"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "돌과"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "소마"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "정착물의 돌들을"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "돌들을,"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "정착물의"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "에봇과"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "흉패를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:16.109736166Z",
+  "model": "glm-5.2"
+}

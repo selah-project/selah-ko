@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그분의 말씀들에 더하지 말아라, 그분이 너를 책망하시어 네가 거짓말쟁이로 드러나지 않도록.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "∼말아라"
+    },
+    {
+      "surface": "תּ֥וֹסְףְּ",
+      "gloss": "더하지"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "∼에"
+    },
+    {
+      "surface": "דְּבָרָ֑יו",
+      "gloss": "그분의 말씀들"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "∼하지 않도록"
+    },
+    {
+      "surface": "יוֹכִ֖יחַ",
+      "gloss": "그분이 책망하시어"
+    },
+    {
+      "surface": "בְּךָ֣",
+      "gloss": "너를"
+    },
+    {
+      "surface": "וְנִכְזָֽבְתָּ",
+      "gloss": "거짓말쟁이로 드러나고"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:21.269165201Z",
+  "model": "glm-5.2"
+}

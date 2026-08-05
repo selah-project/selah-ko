@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "일곱 살에 여호아쉬가 왕위에 올랐다.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "שֶׁ֥בַע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "שָׁנִ֖ים",
+      "gloss": "살"
+    },
+    {
+      "surface": "יְהוֹאָ֥שׁ",
+      "gloss": "여호아쉬"
+    },
+    {
+      "surface": "בְּמָלְכֽוֹ",
+      "gloss": "그가 왕위에 올랐다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:09.779057527Z",
+  "model": "glm-5.2"
+}

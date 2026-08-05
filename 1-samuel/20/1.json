@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "다윗이 라마의 나요트에서 도망하였다. 그가 와서 여호나탄 앞에서 말하였다. \"내가 무엇을 하였으며, 내 죄악이 무엇이고, ⟨당신의⟩ 아버지 앞에서 내 범죄가 무엇이길래 ⟨그가⟩ ⟨את⟩ 내 네페쉬를 찾고 있는 것입니까?\"",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "나요트에서"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "라마의"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "와서"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "하였으며"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이고"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "내 죄악이"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그리고 무엇이"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "내 범죄가"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "길래"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "찾고 있는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 네페쉬"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:15.286371748Z",
+  "model": "glm-5.2"
+}

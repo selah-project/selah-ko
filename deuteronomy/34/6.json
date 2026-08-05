@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 그를 땅에 묻으셨다, 모아브 땅의 골짜기에, 벳 브올 맞은편에. 그리고 어떤 사람도 ⟨את⟩ 그의 무덤을 알지 못한다, 오늘 이 날까지.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "그리고 묻으셨다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "골짜기에"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브"
+    },
+    {
+      "surface": "מול",
+      "gloss": "맞은편에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "브올"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니다"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "איש",
+      "gloss": "어떤 사람도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 무덤을"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "그의 무덤을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이 날"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:45.490419980Z",
+  "model": "glm-5.2"
+}

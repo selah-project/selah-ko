@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그리고 미움의 말들이 나를 에워쌌고, 그들이 아무 연고 없이 나와 싸웠습니다.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "그리고 말들이"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "미움의"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "나를 에워쌌고"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "그들이 나와 싸웠습니다"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "아무 연고 없이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:08.383165066Z",
+  "model": "glm-5.2"
+}

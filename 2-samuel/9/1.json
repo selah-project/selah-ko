@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "다윗이 말하였다. \"샤울의 집에 아직 남은 ⟨이⟩가 있느냐? 그에게 내가 여호나탄을 위하여 헤세드를 베풀겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "⟨~냐⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨이⟩"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "남은"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "의 집에"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "베풀겠다"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드를"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "을 위하여"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:59.217914482Z",
+  "model": "glm-5.2"
+}

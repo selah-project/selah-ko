@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그들이 그곳에 ⟨את⟩ 그들의 우상들을 버렸으므로, 다윗과 그의 사람들이 ⟨그것들을⟩ 가져갔다.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "버렸으므로"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 우상들을"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "그들의 우상들을"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "가져갔다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "그의 사람들이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:31.199042886Z",
+  "model": "glm-5.2"
+}

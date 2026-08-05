@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "군대의 엘로힘이시여, 돌아오소서 간구하나이다. 하늘에서 내려다보시고 보시고, 이 포도나무를 돌아보소서.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "군대의"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "돌아오소서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "간구하나이다"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "내려다보시고"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "하늘에서"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "보시고"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "돌아보소서"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "포도나무를"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:17.231399064Z",
+  "model": "glm-5.2"
+}

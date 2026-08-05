@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그러나 너희가 야훼의 목소리를 듣지 않고, ⟨את⟩ 야훼의 입을 거역하면, 야훼의 손이 너희와 너희 조상들 ⟨위⟩ 에 있으리라.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만약"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "듣"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "목소리를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "거역하면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "입을"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "있으리라"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "너희 ⟨위⟩"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "너희 조상들 ⟨위에도⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:52.460218034Z",
+  "model": "glm-5.2"
+}

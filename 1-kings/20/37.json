@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 ⟨그가⟩ 다른 사람을 찾아내어 말하였다. \"부디 저를 쳐주십시오.\" 그리고 ⟨그⟩ 사람이 ⟨그⟩ 를 쳐서, 치며 상처를 내었다.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "그리고 찾아내어"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "쳐주십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "그리고 쳐서"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨그⟩ 사람이"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "치며"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "상처를 내었다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:12:45.783866983Z",
+  "model": "glm-5.2"
+}

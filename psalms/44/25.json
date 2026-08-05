@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "어찌하여 ⟨당신의⟩ 얼굴을 숨기시며, 우리의 비찮함과 우리의 억눌림을 잊으십니까?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "숨기시며"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "잊으십니까"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "우리의 비찮함과"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "우리의 억눌림을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:22.847146708Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "당신의 피쿠딤에서 내가 묵상하고, 당신의 길들을 주목하리라.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "당신의 피쿠딤에서"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "내가 묵상하고"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "주목하리라"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "당신의 길들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:05.979186144Z",
+  "model": "glm-5.2"
+}

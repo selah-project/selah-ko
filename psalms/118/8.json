@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "야훼께 피하는 것이 사람을 신뢰하는 것보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "피하는 것이"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "…보다 신뢰하는 것"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:51.478957089Z",
+  "model": "glm-5.2"
+}

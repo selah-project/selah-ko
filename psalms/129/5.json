@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 129,
+  "translation": "부끄러움을 당하고 물러가라, 치온을 미워하는 자들 모두가.",
+  "tokens": [
+    {
+      "surface": "יֵ֭בֹשׁוּ",
+      "gloss": "부끄러움을 당하고"
+    },
+    {
+      "surface": "וְיִסֹּ֣גוּ",
+      "gloss": "물러가라"
+    },
+    {
+      "surface": "אָח֑וֹר",
+      "gloss": "뒤로"
+    },
+    {
+      "surface": "כֹּ֝֗ל",
+      "gloss": "모두가"
+    },
+    {
+      "surface": "שֹׂנְאֵ֥י",
+      "gloss": "미워하는 자들"
+    },
+    {
+      "surface": "צִיּֽוֹן",
+      "gloss": "치온을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:45.305241788Z",
+  "model": "glm-5.2"
+}

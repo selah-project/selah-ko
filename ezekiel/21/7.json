@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "사람의 아들아, 네 얼굴을 예루샬라임을 향하게 하라, 그리고 성소들을 향해 쏟아내라, 그리고 이스라엘의 땅을 향해 예언하라,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "שים",
+      "gloss": "향하게 하라"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "네 얼굴을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "을 향하여"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "그리고 쏟아내라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "을 향하여"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "성소들을"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "그리고 예언하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "을 향하여"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:53:46.870387156Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "나탄이 왕에게 말하였다. 그대의 마음에 있는 모든 것을 가서 행하라. 야훼께서 그대와 함께하시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "그대의 마음에 있는"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "그대와 함께하시기"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:33.983356567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 31:11",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그것은 ⟨곧⟩ 불법이요, 판관들이 처단할 죄악이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "불법이요"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "그리고 …이기"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "판관들이 처단할"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:04.656486748Z",
+  "model": "glm-5.2"
+}

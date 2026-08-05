@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 31:1",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "내 눈을 위해 ⟨내가⟩ 브리트를 맺었다. 그런즉 ⟨내가⟩ 처녀를 어떻게 바라보랴.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "브리트를"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "맺었다"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "내 눈을 위해"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그런즉 어떻게"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "바라보랴"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨전치사: -을⟩"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "처녀를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:27.304739935Z",
+  "model": "glm-5.2"
+}

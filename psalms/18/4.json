@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "찬양받으실 이, 내가 야훼를 부르리니, 원수들에게서 내가 구원 얻으리라.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "찬양받으실 이,"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "내가 부르리니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 …에서"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "원수들"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "내가 구원 얻으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:09.340980591Z",
+  "model": "glm-5.2"
+}

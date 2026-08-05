@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "주의 분노와 주의 격노 때문이니, ⟨주⟩께서 나를 들어 올리셨다가 나를 내던지셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "때문이니"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "주의 분노"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "주의 격노"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "나를 들어 올리셨다가"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "나를 내던지셨기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:29.823273395Z",
+  "model": "glm-5.2"
+}

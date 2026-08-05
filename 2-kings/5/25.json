@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 5:25",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그가 들어와 ⟨그의⟩ 주인 앞에 서매, 엘리샤가 그에게 말씀하셨다. \"게하지야, 어디서 왔느냐?\" 그가 말하였다. \"아니이다, 종이 어디로 갔습니까, 어디로.\"",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "서매"
+    },
+    {
+      "surface": "אל",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "어디서"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "게하지"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니이다"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "갔습니까"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "종이"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "어디로"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "어디로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:20:35.865286190Z",
+  "model": "glm-5.2"
+}

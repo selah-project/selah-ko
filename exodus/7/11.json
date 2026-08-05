@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그러자 파르오도 현인들과 마술사들을 불렀고, 미츠라임의 술객들도 그들처럼 자기들의 비술로 그와 같이 하였다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀고"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "현인들과"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "그리고 마술사들을"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "그리 하였다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "술객들이"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "자기들의 비술로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:42.290595949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 이제 왕들이여, 분별하라; 땅의 재판관들이여, 훈계를 받아라.",
+  "tokens": [
+    {
+      "surface": "וְ֭עַתָּה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "מְלָכִ֣ים",
+      "gloss": "왕들이여"
+    },
+    {
+      "surface": "הַשְׂכִּ֑ילוּ",
+      "gloss": "분별하라"
+    },
+    {
+      "surface": "הִ֝וָּסְר֗וּ",
+      "gloss": "훈계를 받아라"
+    },
+    {
+      "surface": "שֹׁ֣פְטֵי",
+      "gloss": "재판관들이여"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:20.061897356Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 그가 예루샬라임과 베냐민에서 발견된 ⟨את⟩ 모든 ⟨이들을⟩ 세웠다. 그리고 예루샬라임의 주민들이 행하였다 — 그들의 조상들의 엘로힘의 브리트대로.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "그리고 세웠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 발견된 자"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "발견된"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "그리고 베냐민"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "그리고 행하였다"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "주민들이"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임의"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "브리트대로"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "그들의 조상들의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:04:14.793981101Z",
+  "model": "glm-5.2"
+}

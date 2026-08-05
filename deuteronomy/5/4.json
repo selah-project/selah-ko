@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "얼굴을 얼굴로 야훼께서 너희와 더불어 그 산에서, 그 불의 한가운데서 말씀하셨다.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "얼굴로"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "너희와 더불어"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "그 산에서"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "∼의 한가운데서"
+    },
+    {
+      "surface": "האש",
+      "gloss": "그 불의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:07.534736835Z",
+  "model": "glm-5.2"
+}

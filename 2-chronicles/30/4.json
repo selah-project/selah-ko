@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 그 말이 왕의 눈에, 그리고 온 회중의 눈에 옳았다.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "그리고 옳았다"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 말이"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "그리고 눈에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:01:52.253267357Z",
+  "model": "glm-5.2"
+}

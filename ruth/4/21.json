@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 살몬은 ⟨את⟩ 보아즈를 낳았고, 보아즈는 ⟨את⟩ 오벳을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "그리고 살몬은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "보아즈를"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "보아즈는"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "그리고 보아즈는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "오벳을"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "오벳을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:01.716154972Z",
+  "model": "glm-5.2"
+}

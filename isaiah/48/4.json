@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "내가 알았으니, 네가 완고하다, 네 목덜미는 철 힘줄이고, 네 이마는 놋이다.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "내가 알았으니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…가"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "완고하다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "그리고 힘줄"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "네 목덜미는"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "그리고 네 이마는"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "놋이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:21:03.690209948Z",
+  "model": "glm-5.2"
+}

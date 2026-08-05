@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 ⟨그⟩ 아들들은, 헤츠론에게 태어난 자들은, ⟨את⟩ 예라흐메엘과 ⟨את⟩ 람과 ⟨את⟩ 켈루바이이다.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֥י",
+      "gloss": "그리고 …의 아들들은"
+    },
+    {
+      "surface": "חֶצְר֖וֹן",
+      "gloss": "헤츠론"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "נוֹלַ֣ד",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "예라흐메엘"
+    },
+    {
+      "surface": "יְרַחְמְאֵ֥ל",
+      "gloss": "예라흐메엘"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "람"
+    },
+    {
+      "surface": "רָ֖ם",
+      "gloss": "람"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "켈루바이"
+    },
+    {
+      "surface": "כְּלוּבָֽי",
+      "gloss": "켈루바이"
+    }
+  ],
+  "timestamp": "2026-08-05T19:48:12.558144512Z",
+  "model": "glm-5.2"
+}

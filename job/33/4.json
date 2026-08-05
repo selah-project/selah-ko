@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "엘의 루아흐(숨)가 나를 지으셨고, 샤다이의 니쉬마(숨결)가 나를 살리신다.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "루아흐(숨)가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "나를 지으셨고"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "그리고 … 니쉬마(숨결)가"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이의"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "나를 살리신다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:04.091121118Z",
+  "model": "glm-5.2"
+}

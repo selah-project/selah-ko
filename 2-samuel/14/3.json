@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨당신은⟩ 왕에게 들어가서, 그에게 이 말씀대로 말씀하시오.' 그리고 요압이 ⟨את⟩ 그 말씀들을 그녀의 입에 두었다.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "들어가시고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "말씀하시오"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말씀대로"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요압이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 말씀들을"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "그녀의 입에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:07.129853353Z",
+  "model": "glm-5.2"
+}

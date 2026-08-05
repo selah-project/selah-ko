@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그리고 야훼가 ⟨את⟩ 욥의 나중을 그의 처음보다 더 축복하셨다. 그리하여 그에게 양 만 사천과 낙타 육천과 소 천 겨리와 암나귀 천 마리가 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "그리고 야훼가"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "욥의 나중"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "나중을"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "욥의"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "그의 처음보다 더"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리하여 있었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "넷"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "그리고 여섯"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "낙타"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "그리고 천"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "겨리"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "소"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "그리고 천"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "암나귀"
+    }
+  ],
+  "timestamp": "2026-08-05T12:14:19.523315169Z",
+  "model": "glm-5.2"
+}

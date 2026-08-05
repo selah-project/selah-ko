@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 말하였다. \"찬송받으실 이, 이스라엘의 엘로힘인 야훼, 그가 그의 입으로 ⟨את⟩ 나의 아비 다윗에게 말씀하시고 그의 손으로 이루신 이,\" 말씀하시기를.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "찬송받으실 이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘인"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하시고"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "그의 입으로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 아비 다윗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "나의 아비"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "그리고 그의 손으로"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "이루신 이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:04.298860032Z",
+  "model": "glm-5.2"
+}

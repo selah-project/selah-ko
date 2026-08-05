@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 돌을 세공하여 끼워 맞추고, 나무를 세공하여 온갖 기술을 행하게 하셨다.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "그리고 …을 세공하여"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "끼워 맞추고"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "그리고 …을 세공하여"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하게 하셨다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온갖"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "기술"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:35.602169495Z",
+  "model": "glm-5.2"
+}

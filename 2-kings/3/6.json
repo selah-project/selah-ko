@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 그 날에 왕 여호람이 슈므론에서 나가 ⟨את⟩ 온 이스라엘을 점열하였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "그리고 나갔다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "여호람이"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "바로 그"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "슈므론에서"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "그리고 점열하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:30.616528376Z",
+  "model": "glm-5.2"
+}

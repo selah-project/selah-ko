@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "나의 사랑하는 이가 ⟨그⟩ ⟨자신의⟩ 손을 구멍에서 보내었다, 그리하여 나의 창자가 그를 향해 들끓었다.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "나의 사랑하는 이가"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내었다"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "손을"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "החר",
+      "gloss": "구멍"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "나의 창자가"
+    },
+    {
+      "surface": "המו",
+      "gloss": "들끓었다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그를 향해"
+    }
+  ],
+  "timestamp": "2026-08-05T12:14:16.212017009Z",
+  "model": "glm-5.2"
+}

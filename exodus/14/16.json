@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "너는 ⟨את⟩ 네 지팡이를 들어 올리고, 네 손을 바다 위로 내밀어 그것을 가르라. 이스라엘 자손이 마른 땅으로 바다 한가운데로 들어갈 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너는"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "들어 올리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 지팡이를"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "네 지팡이"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "그리고 내밀어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 손을"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "그것을 가르라"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 들어갈 것이다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "마른 땅으로"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:37.626308146Z",
+  "model": "glm-5.2"
+}

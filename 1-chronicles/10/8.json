@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 다음 날이 되자, 블레셋 사람들이 쓰러진 자들을 벗기러 와서, 샤울과 그의 아들들이 길보아 산에 쓰러져 있는 것을 발견하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "되자"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "다음 날이"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "와서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들이"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "벗기려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쓰러진 자들을"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "쓰러진 자들을"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "발견하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤울을"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들들을"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들을"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "쓰러져 있는"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "길보아"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:33.804880959Z",
+  "model": "glm-5.2"
+}

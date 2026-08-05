@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 왕이 나갔고, 그의 온 집이 그의 발걸음으로 ⟨함께하였다⟩. 그리고 왕이 ⟨את⟩ 열 명의 여인들인 첩들을 남겨 집을 지키게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "그리고 …이 나갔다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집이"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "그의 발걸음으로"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "그리고 …이 남겼다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "열 명의 여인들"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "명의 여인들인"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "첩들을"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "지키게 하였다"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:40:06.616098653Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "깊은 물 같이 모략이 사람의 마음에 있으나, 분별력의 사람은 그것을 길어 올린다.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "깊은"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "모략이"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "마음에"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "그러나 ⟨사람⟩은"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "분별력의"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "그것을 길어 올린다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:08.223750550Z",
+  "model": "glm-5.2"
+}

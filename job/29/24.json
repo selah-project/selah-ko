@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 29:24",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "내가 ⟨그들에게⟩ 미소 지으면 ⟨그들이⟩ 믿지 아니하였고, 내 얼굴의 빛을 ⟨그들이⟩ 어두워지게 하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "אשחק",
+      "gloss": "미소 지으면"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨그들에게⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "믿지"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "빛을"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "יפילון",
+      "gloss": "어두워지게 하지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:08:57.142432717Z",
+  "model": "glm-5.2"
+}

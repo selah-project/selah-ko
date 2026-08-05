@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "나에게 복수를 주시고, 백성들을 내 아래로 밀치시는 엘이시다.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "그 엘"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "주시는"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "복수들을"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "그리고 밀치시는"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들을"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "내 아래로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:18.793952364Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "당신, 야훼시여, 그것들을 지키시리이다; 이 세대로부터 영원토록 그들을 보호하시리이다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "당신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼시여"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "그것들을 지키시리이다"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "그들을 보호하시리이다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "이 세대로"
+    },
+    {
+      "surface": "זו",
+      "gloss": "이"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원토록"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:55.943449329Z",
+  "model": "glm-5.2"
+}

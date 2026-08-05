@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그들이 ⟨את⟩ 소돔 왕 베라 및 ⟨את⟩ 고모라 왕 비르사, 아드마 왕 시납, 쯔보임 왕 셈에벨, 그리고 벨라 왕 — 곧 소알 — 과 전쟁을 하였다.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소돔 왕 베라"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "베라"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "소돔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "및 ⟨את⟩",
+      "marks": "고모라 왕 비르사"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "비르사"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "고모라"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "시납"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "아드마"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "그리고 셈에벨"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "쯔보임"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "그리고 왕"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "벨라"
+    },
+    {
+      "surface": "היא",
+      "gloss": "곧"
+    },
+    {
+      "surface": "צער",
+      "gloss": "소알"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:51.336007015Z",
+  "model": "glm-5.2"
+}

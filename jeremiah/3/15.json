@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 내가 너희에게 내 마음에 합한 목자들을 주리니, 그들이 너희를 ⟨את⟩ 지식과 분별력으로 먹이리라.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 …주리니"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "목자들을"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "내 마음에 합한"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "그들이 …먹이리라"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "지식과"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "분별력으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:27:26.796001101Z",
+  "model": "glm-5.2"
+}

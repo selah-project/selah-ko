@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "야훼께서 ⟨את⟩ 모셰에게 명령하신 것처럼, 첼로프하드의 딸들이 그같이 하였다.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…처럼"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰에게"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "…의 딸들"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "첼로프하드"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:28.362393940Z",
+  "model": "glm-5.2"
+}

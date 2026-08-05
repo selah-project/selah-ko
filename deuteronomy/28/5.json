@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "복받을 ⟨것⟩은 네 바구니와 네 반죽그릇이다.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "복받을"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "네 바구니"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "그리고 네 반죽그릇"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:22.811848950Z",
+  "model": "glm-5.2"
+}

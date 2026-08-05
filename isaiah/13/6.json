@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "울부짖으라, 야훼의 날이 가까우니, 샤다이에게서 멸망이 올 것임이라.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "울부짖으라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "가깝다"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "멸망처럼"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "샤다이에게서"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "올 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:19.153534528Z",
+  "model": "glm-5.2"
+}

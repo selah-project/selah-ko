@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "다윗은 ⟨את⟩ 이 말들 곧 이것들을 자기 마음에 간직하였고, 아키쉬 가트 왕의 면전에서 심히 두려워하였다.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "간직하였고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 말들"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이것들을"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "자기 마음에"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "두려워하였다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…의 면전에서"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "아키쉬"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "גת",
+      "gloss": "가트"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:11.239582599Z",
+  "model": "glm-5.2"
+}

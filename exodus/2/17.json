@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "목자들이 와서 그녀들을 쫓아내매, 모셰가 일어나 그녀들을 도와주고, ⟨את⟩ 그들의 양 떼에게 물을 마시게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "와서"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "목자들이"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "그녀들을 쫓아내매"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "그녀들을 도와주고"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "물을 마시게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 양 떼를"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "그들의 양 떼"
+    }
+  ],
+  "timestamp": "2026-08-05T17:24:30.854087967Z",
+  "model": "glm-5.2"
+}

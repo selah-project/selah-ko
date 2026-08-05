@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "야훼의 소드는 그를 두려워하는 자들의 것이며, 그의 브리트는 ⟨그것을⟩ 그들에게 알리시는 것이다.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "소드는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "그를 두려워하는 자들의 것이며"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "그의 브리트는"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "그들에게 알리시는 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:03.611581524Z",
+  "model": "glm-5.2"
+}

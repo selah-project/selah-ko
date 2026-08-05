@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨나는⟩ ⟨את⟩ 그의 말씀들의 소리를 들었는데, ⟨나는⟩ ⟨את⟩ 그의 말씀들의 소리를 듣고, 나는 내 얼굴 위로 깊이 잠들었고, 내 얼굴은 땅을 향하였다.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "그리고 들었는데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소리"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "그의 말씀들의"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "그리고 듣고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소리"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "그의 말씀들의"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "깊이 잠든"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "그리고 내 얼굴은"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅을 향하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:28:56.535242314Z",
+  "model": "glm-5.2"
+}

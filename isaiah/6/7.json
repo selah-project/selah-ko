@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그것을 내 입에 대고 말하였다. \"보라, 이것이 네 입술에 닿았으니, 네 허물이 옮겨지고 네 죄가 가려졌다.\"",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "대고"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "פי",
+      "gloss": "내 입"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "닿았으니"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "네 입술"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "옮겨지고"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "네 허물이"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "네 죄가"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "가려졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:54.947006338Z",
+  "model": "glm-5.2"
+}

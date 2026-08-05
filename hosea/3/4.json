@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이스라엘 자손이 많은 날 동안, 왕이 없이, 방백이 없이, 제물이 없이, 기둥이 없이, 에봇이 없이, 그리고 테라핌이 없이 머물 것임이라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "것임이라"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "머물"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "שר",
+      "gloss": "방백이"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제물이"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "기둥이"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "에봇이"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "테라핌이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:28.256797851Z",
+  "model": "glm-5.2"
+}

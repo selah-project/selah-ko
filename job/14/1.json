@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "사람, 여인에게서 태어난 자는 날이 짧고 불안으로 가득하다.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인에게서"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "짧고"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날이"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "가득하다"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "불안으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:46.383019132Z",
+  "model": "glm-5.2"
+}

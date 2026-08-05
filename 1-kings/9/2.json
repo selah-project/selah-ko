@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼께서 기브온에서 그에게 보이셨던 것같이 샬롬에게 두 번째로 보이셨다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "그리고 …보이셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "샬롬"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "두 번째로"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…것같이"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "보이셨던"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "기브온에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:07.840001422Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 2:11",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 내가 나의 모든 일, 곧 내 손이 한 것과 내가 하려고 수고한 일에서 돌아보았다. 그리고 보라, 모든 것이 헛되고 바람을 쫓는 것이며, 해 아래에는 이로움이 없다.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "그리고 내가 돌아보았다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든 일에서"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "나의 일에서"
+    },
+    {
+      "surface": "שעשו",
+      "gloss": "곧 ∼한 것"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손이"
+    },
+    {
+      "surface": "ובעמל",
+      "gloss": "그리고 수고에서"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "내가 수고한 것"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "하려고"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "모든 것이"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헛되고"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "쫓는 것이며"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람을"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "이로움이"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에는"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:56.633178256Z",
+  "model": "glm-5.2"
+}

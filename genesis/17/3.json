@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "아브라함이 엎드리자 엘로힘께서 그에게 말씀하셨다.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "엎드리자"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘께서"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "하여"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:57.107385110Z",
+  "model": "glm-5.2"
+}

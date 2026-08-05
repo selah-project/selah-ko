@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "내가 네 밭에 풀을 네 가축에게 주리니, 그리하여 네가 먹고 배부르리라.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "내가 주리니"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "풀을"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "네 밭에"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "네 가축에게"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "네가 먹고"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "배부르리라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:05.501151786Z",
+  "model": "glm-5.2"
+}

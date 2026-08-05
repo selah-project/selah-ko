@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "나의 피부와 나의 살에 나의 뼈가 달라붙었다. 그리고 나는 나의 이의 피부로 ⟨벗어났다⟩.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "나의 피부에"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "그리고 나의 살에"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "달라붙었다"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "나의 뼈가"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "그리고 나는 벗어났다"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "피부로"
+    },
+    {
+      "surface": "שני",
+      "gloss": "나의 이의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:28.958854865Z",
+  "model": "glm-5.2"
+}

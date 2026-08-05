@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "영원까지 내가 ⟨당신의⟩ 씨를 확립하고, 세대와 세대에 ⟨이르기까지⟩ 당신의 왕좌를 세우리라. 셀라.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "ע֭וֹלָם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "אָכִ֣ין",
+      "gloss": "내가 확립하리라"
+    },
+    {
+      "surface": "זַרְעֶ֑ךָ",
+      "gloss": "당신의 씨를"
+    },
+    {
+      "surface": "וּבָנִ֨יתִי",
+      "gloss": "그리고 내가 세우리라"
+    },
+    {
+      "surface": "לְדֹר",
+      "gloss": "세대에"
+    },
+    {
+      "surface": "וָד֖וֹר",
+      "gloss": "세대와"
+    },
+    {
+      "surface": "כִּסְאֲךָ֣",
+      "gloss": "당신의 왕좌를"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:48.626336971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 6:23",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그러면 ⟨당신은⟩ 하늘에서 들으사 행하시고, ⟨당신의⟩ 종들을 심판하사 — 악인에게는 그의 길을 그의 머리에 갚으시며, 의인에게는 의를 세워 그의 의대로 그에게 주시옵소서.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그러면 당신은"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "들으사"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "행하시고"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "심판하사"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종들을"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "당신의 종들을"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "갚으시며"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "악인에게"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주시옵소서"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "그의 길을"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "그의 머리에"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "의를 세워"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의인에게"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주시옵소서"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "그의 의대로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:48.207289350Z",
+  "model": "glm-5.2"
+}

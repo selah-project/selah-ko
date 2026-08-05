@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "주야로 주의 손이 내 위에 무거웠기에, 나의 생기가 여름의 메마름으로 바뀌었다. 셀라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "주야로"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": ""
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "무거웠다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 위에"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "주의 손이"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "바뀌었다"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "나의 생기가"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "메마름으로"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "여름의"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:22.118161992Z",
+  "model": "glm-5.2"
+}

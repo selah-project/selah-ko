@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 그가 ⟨את⟩ 그 에푸드를 만들었다 — 금, 힘냘과 자줏빛과 홍색(舌) 실, 꼬인 가는 아마로.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 그가 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 에푸드"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "그 에푸드"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "힘냘"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "그리고 자줏빛"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "그리고 ~의 벌레"
+    },
+    {
+      "surface": "שני",
+      "gloss": "홍색(舌)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "그리고 가는 아마"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "꼬인"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:39.297531146Z",
+  "model": "glm-5.2"
+}

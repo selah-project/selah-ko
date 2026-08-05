@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "보라, 슐로모의 침상 — 육십 명의 용사들이 그것을 둘러싸고, 이스라엘의 용사들 중에서.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֗ה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מִטָּתוֹ֙",
+      "gloss": "침상"
+    },
+    {
+      "surface": "שֶׁלִּשְׁלֹמֹ֔ה",
+      "gloss": "슐로모의"
+    },
+    {
+      "surface": "שִׁשִּׁ֥ים",
+      "gloss": "육십"
+    },
+    {
+      "surface": "גִּבֹּרִ֖ים",
+      "gloss": "명의 용사들이"
+    },
+    {
+      "surface": "סָבִ֣יב",
+      "gloss": "둘러싸고"
+    },
+    {
+      "surface": "לָ֑הּ",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "מִגִּבֹּרֵ֖י",
+      "gloss": "용사들 중에서"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:31.403877668Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 127,
+  "translation": "일찍 일어나는 자들, 늦게 앉아 있는 자들, 수고의 빵을 먹는 자들에게 ⟨그것은⟩ 너희에게 헛되다 — 그렇게 그가 ⟨그의⟩ 사랑하는 자에게 잠을 주신다.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "헛되다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "일찍 일어나는 자들"
+    },
+    {
+      "surface": "קום",
+      "gloss": "일어남"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "늦게"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "앉아 있는"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "먹는 자들"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "수고의"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주신다"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "사랑하는 자에게"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "잠을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:29.124342028Z",
+  "model": "glm-5.2"
+}

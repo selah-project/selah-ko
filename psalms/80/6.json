@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "당신께서는 눈물의 떡으로 그들을 먹이시고, 눈물 양을 크게 하여 마시게 하셨나이다.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "먹이셨나이다"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡으로"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "눈물의"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "마시게 하셨나이다"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "눈물"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "양을 크게 하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:39.250918114Z",
+  "model": "glm-5.2"
+}

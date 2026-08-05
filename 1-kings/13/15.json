@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그가 ⟨그에게⟩ 말하였다. \"나와 함께 집으로 가서 빵을 먹으십시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "먹으십시오"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:52.105885344Z",
+  "model": "glm-5.2"
+}

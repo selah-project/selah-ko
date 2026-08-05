@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 19:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "샤울이 사자들을 보내 ⟨את⟩ 다윗을 잡으려 하였다. 그들이 ⟨את⟩ 나비들의 무리가 나비 활동을 하는 것을 보고, 쉼무엘이 그들 위에 서서 세워진 채 서 있었다. 그러자 샤울의 사자들 위에 엘로힘의 루아흐가 임하였고, 그들도 나비 활동을 하였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "사자들을"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "잡으려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나비들의 무리를"
+    },
+    {
+      "surface": "להקת",
+      "gloss": "무리를"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "나비들의"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "나비 활동을 하는"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "쉼우엘이"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "서"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "세워진 채"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "임하였고"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "사자들"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "나비 활동을 하였다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:06.581608926Z",
+  "model": "glm-5.2"
+}

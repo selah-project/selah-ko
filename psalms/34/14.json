@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "네 혀를 악에서 지키고, 네 입술을 속임에서 ⟨지키어⟩ 말하지 말라.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "지키라"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "네 혀를"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "악에서"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "그리고 네 입술을"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "말하지 말"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:19.147907556Z",
+  "model": "glm-5.2"
+}

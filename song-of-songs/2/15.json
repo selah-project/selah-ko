@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "우리를 위해 여우들을, 포도원들을 망치는 작은 여우들을 잡아라. 우리 포도원은 꽃망울이 피어 있다.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "잡아라"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위해"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "여우들을"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "여우들을"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "작은"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "망치는"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "포도원들을"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "우리 포도원은"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "꽃망울이 피어 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:24.317443771Z",
+  "model": "glm-5.2"
+}

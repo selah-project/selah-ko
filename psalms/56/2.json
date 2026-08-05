@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "엘로힘, 저에게 헨을 베푸소서. ⟨이는⟩ 사람이 저를 삼키려 하옵고, 온종일 전투하며 저를 압박하기 때문입니다.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "저에게 헨을 베푸소서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩ …이기 때문입니다"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "저를 삼키려 하옵고"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "전투하며"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "저를 압박합니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:29.123023904Z",
+  "model": "glm-5.2"
+}

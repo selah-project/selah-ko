@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그가 그에게 말하였다. \"평안히 가십시오.\" 그가 그를 떠나 약간의 땅거리를 갔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가십시오"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "평안히"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "그를 떠나"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "약간의"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅거리를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:59.663990287Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "다윗이 그에게 말하였다. \"네 피가 네 머리 위에 ⟨있다⟩. 네 입이 너를 불리하게 증언하였기 때문이다. 네가 말하기를, '내가 ⟨את⟩ 야훼의 마쉬아흐를 죽였다' 하였다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "네 피가"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "네 머리"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "네 입이"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "증언하였기"
+    },
+    {
+      "surface": "בך",
+      "gloss": "너를"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "죽였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 마쉬아흐를"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "마쉬아흐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:25:21.101595459Z",
+  "model": "glm-5.2"
+}

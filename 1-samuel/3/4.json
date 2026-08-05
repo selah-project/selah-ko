@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼께서 슈무엘을 부르시니, 그가 \"제가 여기 있습니다\" 하고 말하였다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "부르시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "을"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "\"제가 여기 있습니다\""
+    }
+  ],
+  "timestamp": "2026-08-05T18:43:02.152426900Z",
+  "model": "glm-5.2"
+}

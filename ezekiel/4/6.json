@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 4:6",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 네가 ⟨아⟩ ⟨את⟩ 이것들을 마칠 때에, ⟨아⟩ 네 오른편으로 두 번째 누울 것이다. 그리고 네가 ⟨את⟩ 유다 집의 죄악을 담당할 것이니, 사십 일이다. 일 년에 하루, 일 년에 하루를 내가 그것을 네게 주었다.",
+  "tokens": [
+    {
+      "surface": "וכלית",
+      "gloss": "그리고 네가 마칠 때에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이것들"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이것들"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "그리고 네가 누울 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "네 옆"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "오른"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "두 번째"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "그리고 네가 담당할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다 집의 죄악"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일"
+    },
+    {
+      "surface": "יום",
+      "gloss": "하루"
+    },
+    {
+      "surface": "לשנה",
+      "gloss": "일 년에"
+    },
+    {
+      "surface": "יום",
+      "gloss": "하루"
+    },
+    {
+      "surface": "לשנה",
+      "gloss": "일 년에"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "내가 그것을 주었다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:48:10.332343268Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "이스라엘 자손에게 말하여 그들에게 이르라. 나는 너희의 엘로힘 야훼이다.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "이르라"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희의 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:01.456440991Z",
+  "model": "glm-5.2"
+}

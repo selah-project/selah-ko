@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "어찌하여 ⟨당신은⟩ ⟨당신의⟩ 손, 곧 ⟨당신의⟩ 오른손을 거두시나이까? ⟨당신의⟩ 품 한가운데서 ⟨그것을⟩ 끝내소서.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "거두시나이까"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "당신의 손을"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "그리고 당신의 오른손을"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "당신의 품"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "끝내소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:51.686816183Z",
+  "model": "glm-5.2"
+}

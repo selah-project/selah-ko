@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "보라, 야훼께서 땅을 비우시고 황폐하게 하시며, 그것의 표면을 뒤틀어 버리시고 그것의 거주민들을 흩으신다.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "비우시고"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "황폐하게 하시며"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "뒤틀어 버리시며"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "그것의 표면을"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "흩으신다"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "그것의 거주민들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:48.868835022Z",
+  "model": "glm-5.2"
+}

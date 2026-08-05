@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "야훼가 ⟨את⟩ 여호수아와 함께 하셨으므로 그의 명성이 온 땅에 퍼졌다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …하셨으므로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여호수아"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …였다"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "그의 명성이"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:05:38.327351179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 17:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "네가 네 구원의 엘을 잊었으며 네 견고함의 반석을 기억하지 아니하였기에 그러므로 너는 기쁜 식물들을 심고, 이방의 가지를 심을 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "～ 때문에"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "잊었으므로"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "～의 엘"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "네 구원"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "그리고 반석"
+    },
+    {
+      "surface": "מעזך",
+      "gloss": "네 견고함"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "기억하였다"
+    },
+    {
+      "surface": "על",
+      "gloss": "～에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "너는 심을 것이다"
+    },
+    {
+      "surface": "נטעי",
+      "gloss": "식물들을"
+    },
+    {
+      "surface": "נעמנים",
+      "gloss": "기쁜"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "그리고 가지를"
+    },
+    {
+      "surface": "זר",
+      "gloss": "이방의"
+    },
+    {
+      "surface": "תזרענו",
+      "gloss": "너는 심을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:55.117936564Z",
+  "model": "glm-5.2"
+}

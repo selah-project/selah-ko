@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 6:8",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 다윗은 야훼께서 우자에게 ⟨갑작스럽게⟩ 틈을 열으신 것 때문에 분노하였다. 그가 그 곳을 퍼레츠-우자라 불렀다, 이 날까지.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "그리고 분노하였다"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "틈을 열으신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "갑작스러운 틈"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "우자에게"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 불렀다"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "그 곳을"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "퍼레츠"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "-우자라"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "이 날"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:07.995943322Z",
+  "model": "glm-5.2"
+}

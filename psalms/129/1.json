@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 129,
+  "translation": "올라가는 노래. 그들이 나의 어린 시절부터 많이 나를 괴롭혔나이다, 이제 이스라엘이 말할지니 —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "많이"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "그들이 나를 괴롭혔나이다"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "나의 어린 시절부터"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "말할지니"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:00.067230685Z",
+  "model": "glm-5.2"
+}

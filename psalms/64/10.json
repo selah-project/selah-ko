@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "그리고 모든 사람이 두려워하며, 엘로힘의 행하심을 선포하였고, 그의 일하심을 깨달았다.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "그리고 두려워하며"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "선포하였고"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "행하심을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "그의 일하심을"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "깨달았다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:46.572494502Z",
+  "model": "glm-5.2"
+}

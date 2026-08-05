@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 이렇게 되었다. 샬롬이 ⟨את⟩ 야훼의 집과 ⟨את⟩ 왕의 집과 ⟨את⟩ 샬롬이 행하기를 기뻐하였던 모든 기쁨을 건축하는 것을 마치자,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 이렇게 되었다"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "마치자"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "건축하는 것을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "왕의 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든 기쁨"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "기쁨"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…를"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "기뻐하였던"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하기를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:07.839768727Z",
+  "model": "glm-5.2"
+}

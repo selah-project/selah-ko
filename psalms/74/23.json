@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "⟨아신⟩ 대적들의 목소리를 잊지 마소서. ⟨아신⟩ 일어나는 자들의 소란이 끊임없이 솟구친다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "잊으"
+    },
+    {
+      "surface": "קול",
+      "gloss": "목소리를"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "대적들의"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "소란이"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "일어나는 자들의"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "솟구친다"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "끊임없이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:29.973317476Z",
+  "model": "glm-5.2"
+}

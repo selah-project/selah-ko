@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 그 여자가 그 두 사람을 ⟨את⟩ 데리고 숨겼다. 그녀가 말하였다: \"그렇습니다, 그 사람들이 나에게 왔습니다마는, 그들이 어디에서 왔는지는 알지 못합니다.\"",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "그리고 데리고"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "여자가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 두 사람"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "그리고 숨겼다"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇습니다"
+    },
+    {
+      "surface": "באו",
+      "gloss": "왔습니다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "마는"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "알지 못합니다"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "어디에서"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:17.914346330Z",
+  "model": "glm-5.2"
+}

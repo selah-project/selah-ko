@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 32:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "엘리후이 ⟨그것을⟩ 보았다 — 세 사람의 입에 대답이 없으므로, 그의 분노가 타올랐다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "엘리후이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으므로"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "대답이"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "입에"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "세"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "타올랐다"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "그의 분노가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:00.574484525Z",
+  "model": "glm-5.2"
+}

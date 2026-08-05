@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "⟨그⟩ 중층 옆칸의 입구는 ⟨그⟩ 집의 오른쪽 어깨에 ⟨있었다⟩. 그리고 나선계단으로 중층칸으로 올라가고, 중층칸에서 셋째 칸으로 ⟨올라갔다⟩.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "입구는"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "옆칸의"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "⟨그⟩ 중층"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨였다⟩"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "어깨에"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨그⟩ 집의"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "그리고 나선계단으로"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "올라가고"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨으로⟩"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "중층칸"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "중층칸"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨으로⟩"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "셋째 칸"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:32.220811139Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 땅이 ⟨את⟩ 곡식과 ⟨את⟩ 새 포도주와 ⟨את⟩ 기름에 응답하고, 그들이 ⟨את⟩ 이즈르엘에게 응답하리라.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "그리고 땅이"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "응답하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "곡식"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "곡식에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "새 포도주"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "새 포도주에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "기름"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "기름에"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "응답하리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이즈르엘"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "이즈르엘에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:32.702524567Z",
+  "model": "glm-5.2"
+}

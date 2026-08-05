@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그래서 파르오의 요새는 ⟨너희에게⟩ 수치가 되고, 미츠라임 그늘의 의지처는 치욕이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨너희에게⟩"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "요새는"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "수치가 되고"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "의지처는"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "그늘의"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "치욕이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:52.300772893Z",
+  "model": "glm-5.2"
+}

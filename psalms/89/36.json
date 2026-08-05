@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "한 번 ⟨내가⟩ ⟨나의⟩ 거룩함으로 맹세하였다 — 다윗에게 거짓말하지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "한 번"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "맹세하였다"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "나의 거룩함으로"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "거짓말하지 아니하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:03.131990086Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "나의 살과 나의 가죽을 닳게 하셨고, 나의 뼈들을 부수셨다.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "닳게 하셨고"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "나의 살을"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "나의 가죽을"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "부수셨다"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "나의 뼈들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:10.721450901Z",
+  "model": "glm-5.2"
+}

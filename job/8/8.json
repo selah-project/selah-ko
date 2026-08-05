@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 8:8",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "부디 첫째 세대에게 물어보고, 그들의 조상들의 탐구에 마음을 기울여라",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "שְׁאַל",
+      "gloss": "물어보고"
+    },
+    {
+      "surface": "נָ֭א",
+      "gloss": "부디"
+    },
+    {
+      "surface": "לְדֹ֣ר",
+      "gloss": "~세대에게"
+    },
+    {
+      "surface": "רִישֹׁ֑ן",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "וְכֹונֵ֗ן",
+      "gloss": "그리고 마음을 기울여라"
+    },
+    {
+      "surface": "לְחֵ֣קֶר",
+      "gloss": "~탐구에"
+    },
+    {
+      "surface": "אֲבוֹתָֽם",
+      "gloss": "그들의 조상들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:01.348727193Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨그가⟩ 말하였다. 야훼께서 이같이 말씀하신다. 이 골짜기에 도랑, 도랑을 만들라.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ⟨그가⟩ 말하였다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만들라"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "이 골짜기에"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "도랑"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "도랑을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:59.071144194Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "쇼파르를 불어라, 기브아에서. 나팔을 불어라, 라마에서. 외쳐라, 베트 아웬에게로: '너의 뒤로, 브냐민이여!'",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "불어라"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "쇼파르를"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "기브아에서"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "나팔을"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "라마에서"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "외쳐라"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베트"
+    },
+    {
+      "surface": "און",
+      "gloss": "아웬에게로"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "너의 뒤로"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "브냐민이여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:32.830468771Z",
+  "model": "glm-5.2"
+}

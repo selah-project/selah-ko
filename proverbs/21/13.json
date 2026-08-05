@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "자기 귀를 가난한 자의 부르짖음에 닫는 자, 그도 부르짖으나 대답받지 못한다.",
+  "tokens": [
+    {
+      "surface": "אֹטֵ֣ם",
+      "gloss": "닫는"
+    },
+    {
+      "surface": "אָ֭זְנוֹ",
+      "gloss": "자기 귀를"
+    },
+    {
+      "surface": "מִזַּעֲקַת",
+      "gloss": "부르짖음에"
+    },
+    {
+      "surface": "דָּ֑ל",
+      "gloss": "가난한 자의"
+    },
+    {
+      "surface": "גַּֽם",
+      "gloss": "그도"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "그"
+    },
+    {
+      "surface": "יִ֝קְרָ֗א",
+      "gloss": "부르짖으나"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "못하고"
+    },
+    {
+      "surface": "יֵעָנֶֽה",
+      "gloss": "대답받지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:21.852770947Z",
+  "model": "glm-5.2"
+}

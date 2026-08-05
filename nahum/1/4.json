@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그는 바다를 꾸짖으시고 말리시니, ⟨그리고⟩ 모든 강들을 그가 황폐하게 하셨다. 바산은 시들었고, ⟨그리고⟩ 카르멜과, ⟨그리고⟩ 레바논의 꽃은 시들었다.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "꾸짖으시고"
+    },
+    {
+      "surface": "בים",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "말리시니"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "강들을"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "황폐하게 하셨다"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "시들었다"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "바산은"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "카르멜과"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "꽃은"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "레바논의"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "시들었다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:04.205972877Z",
+  "model": "glm-5.2"
+}

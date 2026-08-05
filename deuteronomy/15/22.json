@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "네 성문 안에서 그것을 먹을 것이다. 부정한 자와 정결한 자가 함께, 사슴과 노루처럼.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "네 성문 안에서"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "그것을 먹을 것이다"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "부정한 자"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "그리고 정결한 자"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "노루처럼"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "그리고 사슴처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:41.502040520Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "지휘자에게, 다윗의 시편, 노래.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:23.637366266Z",
+  "model": "glm-5.2"
+}

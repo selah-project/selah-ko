@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그가 예후다(유다)에게 명하여 ⟨את⟩ 야훼를 — 그들의 조상들의 엘로힘 — 구할 것과, 토라(가르침)와 ⟨그⟩ 계명을 행할 것을 말하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "예후다(유다)에게"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "구할 것을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "그들의 조상들의"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "그리고 행할 것을"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라(가르침)를"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "그리고 계명을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:57:06.498171312Z",
+  "model": "glm-5.2"
+}

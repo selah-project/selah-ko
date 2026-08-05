@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "⟨그대가⟩ ⟨그대의⟩ 좋으심의 해를 면류관 씌우시나니, ⟨그대의⟩ 길들은 기름기를 뚝뚝 흘리나이다.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "면류관 씌우시나니"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "해를"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "⟨그대의⟩ 좋으심의"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "⟨그대의⟩ 길들은"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "뚝뚝 흘리나이다"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "기름기를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:45.745900211Z",
+  "model": "glm-5.2"
+}

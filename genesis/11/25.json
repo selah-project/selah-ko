@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "나흐르는 ⟨את⟩ 테라흐를 낳은 후에 십구 년과 백 년을 살았고, 아들들과 딸들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "살았고"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "나흐르는"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "테라흐를"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "테라흐"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "아홉"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "그리고 백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "그리고 딸들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:40.042439784Z",
+  "model": "glm-5.2"
+}

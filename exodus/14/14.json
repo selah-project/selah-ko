@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "야훼께서 너희를 위해 싸우실 것이니, 너희는 침묵할 것이다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "싸우실 것이다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희를 위해"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "그리고 너희는"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "침묵할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:37.626102715Z",
+  "model": "glm-5.2"
+}

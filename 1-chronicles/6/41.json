@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨את⟩ 그 도시의 밭과 ⟨את⟩ 그것의 마당들을 카레브 여분네의 아들에게 주었다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "밭"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "밭을"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 도시의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 마당들"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "그것의 마당들을"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "카레브에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "여분네"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:15.421966237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그들이 그녀에게 손을 대니, 그녀가 왕궁 말 문 입구에 이르렀고, 그들이 거기서 그녀를 죽였다.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "대니"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "이르렀고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "입구"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "말"
+    },
+    {
+      "surface": "בית",
+      "gloss": "궁"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "죽였다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:27:30.718480346Z",
+  "model": "glm-5.2"
+}

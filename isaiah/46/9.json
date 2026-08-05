@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "처음 것들, 영원부터 ⟨것⟩을 기억하라. 나는 엘이요, 다른 것은 없으며, 엘로힘도 없고, 나와 같은 자는 없기 때문이다.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "기억하라"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "처음 것들"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "영원부터"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이요"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없으며"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다른 것은"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘도"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "없고"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "나와 같은 자는 없다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:39.093604744Z",
+  "model": "glm-5.2"
+}

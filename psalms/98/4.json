@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 98,
+  "translation": "온 땅아, 야훼께 함성을 올려라. 환성을 터뜨리고 기뻐 노래하며 찬양하라.",
+  "tokens": [
+    {
+      "surface": "הָרִ֣יעוּ",
+      "gloss": "함성을 올려라"
+    },
+    {
+      "surface": "לַֽ֭יהוָה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "땅아"
+    },
+    {
+      "surface": "פִּצְח֖וּ",
+      "gloss": "환성을 터뜨리고"
+    },
+    {
+      "surface": "וְרַנְּנ֣וּ",
+      "gloss": "기뻐 노래하며"
+    },
+    {
+      "surface": "וְזַמֵּֽרוּ",
+      "gloss": "찬양하라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:04.064018010Z",
+  "model": "glm-5.2"
+}

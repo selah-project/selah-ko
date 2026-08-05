@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "\"너희 아버지를 ⟨את⟩ 데리고 ⟨את⟩ 너희의 가족들을 데리고 내게로 오너라. 내가 너희에게 미츠라임 땅의 ⟨את⟩ 좋은 것을 주리니, 너희는 땅의 ⟨את⟩ 기름진 것을 먹으리라.\"",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "데리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아버지"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "아버지를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "가족들"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "가족들을"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "오너라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "내가 주리니"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "좋은 것"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "먹으리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기름진 것"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "기름진 것을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:53.934886493Z",
+  "model": "glm-5.2"
+}

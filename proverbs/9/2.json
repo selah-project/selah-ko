@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그녀가 ⟨그녀의⟩ 잡을 것을 잡고, ⟨그녀의⟩ 포도주를 섞었으며, 또한 ⟨그녀의⟩ 상을 차렸다.",
+  "tokens": [
+    {
+      "surface": "טָבְחָ֣ה",
+      "gloss": "잡고"
+    },
+    {
+      "surface": "טִ֭בְחָהּ",
+      "gloss": "잡을 것을"
+    },
+    {
+      "surface": "מָסְכָ֣ה",
+      "gloss": "섞었으며"
+    },
+    {
+      "surface": "יֵינָ֑הּ",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "אַ֝֗ף",
+      "gloss": "또한"
+    },
+    {
+      "surface": "עָֽרְכָ֥ה",
+      "gloss": "차렸다"
+    },
+    {
+      "surface": "שֻׁלְחָנָֽהּ",
+      "gloss": "상을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:44.381000944Z",
+  "model": "glm-5.2"
+}

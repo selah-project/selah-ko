@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 ⟨어떤⟩ 사람이 그의 동료에게 흠을 내면, 그가 한 대로 그에게 그렇게 행해질 것이다.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 사람"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…하면"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주면"
+    },
+    {
+      "surface": "מום",
+      "gloss": "흠을"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "그의 동료에게"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 대로"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행해질 것이다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:52.890240166Z",
+  "model": "glm-5.2"
+}

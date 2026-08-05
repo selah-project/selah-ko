@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그는 ⟨그⟩ 천사와 힘을 겨루어 이기고, 울며 그에게 은혜를 구하였다. 베트 엘이 ⟨그를⟩ 찾으실 것이요, 거기서 그가 우리와 말씀하실 것이다.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "그는 ... 겨루어"
+    },
+    {
+      "surface": "אל",
+      "gloss": "와"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "천사"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "이기고"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "울며"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "은혜를 구하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베트"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "찾으실 것이요"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말씀하실 것이다"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "우리와"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:15.686263849Z",
+  "model": "glm-5.2"
+}

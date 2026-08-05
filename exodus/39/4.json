@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "어깨받침을 그것에 만들었으니, 연결하는 것이었다; 그것의 두 끝에서, 그것이 연결되었다.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "어깨받침을"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "그들이 만들었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "연결하는"
+    },
+    {
+      "surface": "על",
+      "gloss": "~ 위에"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "그것의 끝"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "연결되었다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:39.297724316Z",
+  "model": "glm-5.2"
+}

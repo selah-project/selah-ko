@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 52:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "먼지에서 떨쳐 일어나라. 일어나 앉으라, 예루샬라임. 네 목의 사슬을 풀어버려라, 사로잡힌 딸 시온아.",
+  "tokens": [
+    {
+      "surface": "התנערי",
+      "gloss": "떨쳐 일어나라"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "먼지에서"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "앉으라"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "התפתחו",
+      "gloss": "풀어버려라"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "사슬을"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "네 목의"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "사로잡힌"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온아"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:26.558782765Z",
+  "model": "glm-5.2"
+}

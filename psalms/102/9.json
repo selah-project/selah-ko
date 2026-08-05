@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "온종일 나의 원수들이 나를 모욕하니, 나를 향해 미친 듯이 날뛰는 자들이 나를 두고 맹세하였다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "나를 모욕하니"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "나의 원수들이"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "나를 향해 미친 듯이 날뛰는 자들이"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를 두고"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "맹세하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:29.822972065Z",
+  "model": "glm-5.2"
+}

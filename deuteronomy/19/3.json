@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "네가 길을 예비하고, 야훼 네 엘로힘이 네게 유업으로 주시는 네 땅의 경계를 셋으로 나누어라. 그리하면 모든 살인자가 그리로 도피할 수 있을 것이다.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "예비하고"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네가"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "셋으로 나누어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "경계를"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계를"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "네 땅의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "유업으로 주시는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그리하면 … 할 것이다"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "도피할 수"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "그리로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "살인자가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:22.802268349Z",
+  "model": "glm-5.2"
+}

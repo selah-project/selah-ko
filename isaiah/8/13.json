@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "⟨את⟩ 만군의 야훼를, 그를 거룩하게 구별하라. 그리하면 그분이 너희의 두려움이시요, 그분이 너희의 경외이시다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "만군의 야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "거룩하게 구별하라"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그분이"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "너희의 두려움이시요"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그분이"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "너희의 경외이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:25.230632177Z",
+  "model": "glm-5.2"
+}

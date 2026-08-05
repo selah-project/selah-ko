@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 20:21",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그가 ⟨그⟩ 백성과 의논하고 야훼께 노래하는 자들과 거룩함의 아름다움을 찬양하는 자들을 세워, 무장한 자들 앞에 나아가며 ⟨이렇게⟩ 말하게 하였다. \"야훼께 감사하라, 그의 헤세드는 영원하기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "그가 의논하고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~과 함께"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "세웠다"
+    },
+    {
+      "surface": "משררים",
+      "gloss": "노래하는 자들을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "ומהללים",
+      "gloss": "찬양하는 자들을"
+    },
+    {
+      "surface": "להדרת",
+      "gloss": "~의 아름다움을"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩함"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "나아갈 때에"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "~앞에"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "무장한 자들"
+    },
+    {
+      "surface": "ואמרים",
+      "gloss": "말하게 하였다"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "감사하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T14:09:58.329740262Z",
+  "model": "glm-5.2"
+}

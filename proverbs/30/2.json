@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "실로 나는 짐승 같아서 사람이 아닌 것 같고 사람의 깨달음이 내게 없다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "실로"
+    },
+    {
+      "surface": "בער",
+      "gloss": "짐승 같다"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "사람보다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니다"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "깨달음"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:39.787146860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "⟨את⟩ 에돔과 ⟨את⟩ 모압과 ⟨את⟩ 암몬 자손을",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에돔"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모압"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "암몬 자손"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:40.062523457Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 28:27",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "가난한 자에게 주는 자는 부족함이 없고, 눈을 감는 자는 저주가 많다.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "주는 자는"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "가난한 자에게"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "부족함이"
+    },
+    {
+      "surface": "ומעלים",
+      "gloss": "그리고 감는 자는"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "눈을"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많다"
+    },
+    {
+      "surface": "מארות",
+      "gloss": "저주가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:15.550603656Z",
+  "model": "glm-5.2"
+}

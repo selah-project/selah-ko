@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그들이 그에게 말하였다. \"아닙니다, 주여. 종들이 식량을 사려고 왔습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닙니다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "주여"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "종들이"
+    },
+    {
+      "surface": "באו",
+      "gloss": "왔습니다"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "사려고"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "식량을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:09.228309107Z",
+  "model": "glm-5.2"
+}

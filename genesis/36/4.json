@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 에이라가 에사브에게 ⟨את⟩ 엘리파즈를 낳았고, 보스마트가 ⟨את⟩ 르우엘을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "그리고 … 낳았고,"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "에이라가"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "에사브에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘리파즈를"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "엘리파즈를"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "그리고 보스마트가"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았다."
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "르우엘을"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "르우엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:13.989076392Z",
+  "model": "glm-5.2"
+}

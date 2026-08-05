@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "야훼를 찬양하라, 그의 말라킴아, 능력의 용사들아, 그의 말씀을 행하는 자들아, 그의 말씀의 소리를 듣려무나!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "그의 말라킴아"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "용사들아"
+    },
+    {
+      "surface": "כח",
+      "gloss": "능력의"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "행하는 자들아"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "그의 말씀을"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "듣려무나"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "그의 말씀의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:30.134971486Z",
+  "model": "glm-5.2"
+}

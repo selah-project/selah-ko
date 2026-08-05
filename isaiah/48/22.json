@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "샬롬이 없다, 야훼께서 말씀하신다, 악인들에게.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "악인들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:33.293664933Z",
+  "model": "glm-5.2"
+}

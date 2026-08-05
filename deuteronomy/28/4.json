@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "복을 받으리라, 네 태의 열매와. 그리고 복을 받으리라, 네 땅의 열매와. 그리고 복을 받으리라, 네 가축의 열매와 — 소의 새끼와 양의 새끼가.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "복을 받으리라"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "열매"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "네 태의"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "그리고 … 열매"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "네 땅의"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "그리고 … 열매"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "네 가축의"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "새끼"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "소의"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "그리고 … 새끼"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "양의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:28.119282535Z",
+  "model": "glm-5.2"
+}

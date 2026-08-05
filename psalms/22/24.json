@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "야훼를 경외하는 자들아, ⟨그를⟩ 찬양하라. 야곱의 모든 씨야, ⟨그를⟩ 영화롭게 하라. 그리고 이스라엘의 모든 씨여, ⟨그에게서⟩ 떨라.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "경외하는 자들아"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨그를⟩ 찬양하라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨야"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "⟨그를⟩ 영화롭게 하라"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "그리고 떨라"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨그에게서⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨여"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:03.759947054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "입타가 ⟨את⟩ 이스라엘을 여섯 해 동안 판결하였다. 입타 길르앳이 죽어 길르앳의 성읍들에 묻혔다.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "판결하였다"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "입타가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "해 동안"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽어"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "입타"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "길르앳이"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "묻혔다"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "성읍들에"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길르앳의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:43:52.386115737Z",
+  "model": "glm-5.2"
+}

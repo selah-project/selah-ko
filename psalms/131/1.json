@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 131,
+  "translation": "올라가는 노래, 다윗의. 야훼여, 내 마음이 높아지지 아니하였고 내 눈이 높아지지 아니하였으며, 나 위대한 일들과 나에게서 너무 놀라운 일들 가운데 걷지 아니하였나이다.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "높아지지"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였으며"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "높아지지"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였나이다"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "걷지"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "위대한 일들"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "놀라운 일들"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:37.178638878Z",
+  "model": "glm-5.2"
+}

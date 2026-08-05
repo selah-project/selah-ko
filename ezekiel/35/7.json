@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그리고 내가 ⟨את⟩ 세일 산을 황무하게 하시리라, 놀라운 황무지로. 그리고 내가 그에게서 지나가는 자와 돌아오는 자를 끊어버리시리라.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 … 하시리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "세일 산을"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산을"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "세일"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "황무하게"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "황무지로"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "그리고 내가 끊어버리시리라"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그에게서"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "지나가는 자와"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "돌아오는 자를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:00:07.624594274Z",
+  "model": "glm-5.2"
+}

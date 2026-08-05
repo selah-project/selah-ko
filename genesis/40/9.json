@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "술을 따르는 관원장이 ⟨את⟩ 자기 꿈을 요셉에게 말하였고, 그에게 말하였다. \"나의 꿈에 보니, 보라, 포도나무가 내 앞에 있었다.\"",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שר",
+      "gloss": "관원장"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "술을 따르는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 꿈을"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "자기 꿈을"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "요셉에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "나의 꿈에"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보니, 보라"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "포도나무가"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "내 앞에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:47.065812861Z",
+  "model": "glm-5.2"
+}

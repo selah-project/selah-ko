@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "말하기를, 엘로힘이 ⟨그⟩를 버리셨으니 쫓아가 ⟨그⟩를 잡으라, 건져 낼 자가 없기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "⟨그⟩를 버리셨으니"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "쫓아가"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "⟨그⟩를 잡으라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "건져 낼 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:17.829799587Z",
+  "model": "glm-5.2"
+}

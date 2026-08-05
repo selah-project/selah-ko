@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "사람이 자기를 위하여 엘로힘들을 만들겠는가? 그런데 그것들은 엘로힘이 아니다.",
+  "tokens": [
+    {
+      "surface": "הֲיַעֲשֶׂה",
+      "gloss": "만들겠는가"
+    },
+    {
+      "surface": "לּ֥וֹ",
+      "gloss": "자기를 위하여"
+    },
+    {
+      "surface": "אָדָ֖ם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "엘로힘들을"
+    },
+    {
+      "surface": "וְהֵ֖מָּה",
+      "gloss": "그런데 그것들은"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "엘로힘이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:35.791250439Z",
+  "model": "glm-5.2"
+}

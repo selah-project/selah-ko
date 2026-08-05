@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "얼마나 사랑스러운지, 주의 거처들이여, 만군의 야훼여!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "사랑스러운지"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "주의 거처들이여"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:20.928079432Z",
+  "model": "glm-5.2"
+}

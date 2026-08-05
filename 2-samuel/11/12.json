@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 11:12",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "다윗이 우리야에게 말하였다. “오늘도 여기 머물라. 내일 내가 너를 보내리라.” 그래서 우리야가 그 날과 그 다음 날 예루샬라임에 머물렀다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우리야"
+    },
+    {
+      "surface": "שב",
+      "gloss": "머물라"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "여기"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "보내리다"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "머물렀다"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우리야가"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "그 다음 날"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:21.171736110Z",
+  "model": "glm-5.2"
+}

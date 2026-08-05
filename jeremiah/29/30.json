@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 야훼의 말씀이 예르미야후에게 임하였다, ⟨하여 이르시기를⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 임하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야후"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨하여 이르시기를⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T10:37:13.254312732Z",
+  "model": "glm-5.2"
+}

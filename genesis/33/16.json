@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그래서 에사브는 그 날에 자기 길로 세이르로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "그래서 돌아갔다"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브는"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "자기 길로"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "세이르로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:40.475316879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 17:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그 날에 그의 견고한 성들이 숲의 버림받은 곳과 높은 가지 같을 것인데, ⟨그것들은⟩ 이스라엘 자손들 앞에서 버림받은 것이라, 황무지가 될 것이다.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "～에 그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "～이 될 것이다"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성들"
+    },
+    {
+      "surface": "מעזו",
+      "gloss": "그의 견고함"
+    },
+    {
+      "surface": "כעזובת",
+      "gloss": "버림받은 것 같이"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "숲의"
+    },
+    {
+      "surface": "והאמיר",
+      "gloss": "그리고 높은 가지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～한 것"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "버림받았다"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "～앞에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "그리고 ～이 될 것이다"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "황무지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:55.117565047Z",
+  "model": "glm-5.2"
+}

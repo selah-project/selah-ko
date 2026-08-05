@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "내가 ⟨את⟩ 이스라엘을 올리신 날부터 오늘에 이르기까지 집에 거하신 적이 없으며, 오히려 ⟨나는⟩ 천막에서 천막으로, 거처에서 ⟨거처로⟩ 있었노라.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "불가"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יָשַׁ֨בְתִּי֙",
+      "gloss": "거하신 적이"
+    },
+    {
+      "surface": "בְּבַ֔יִת",
+      "gloss": "집에"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "הַיּ֗וֹם",
+      "gloss": "날"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "때"
+    },
+    {
+      "surface": "הֶעֱלֵ֨יתִי֙",
+      "gloss": "올리신"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הַיּ֣וֹם",
+      "gloss": "오늘에"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "이"
+    },
+    {
+      "surface": "וָֽאֶהְיֶ֛ה",
+      "gloss": "있었노라"
+    },
+    {
+      "surface": "מֵאֹ֥הֶל",
+      "gloss": "천막에서"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "אֹ֖הֶל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "וּמִמִּשְׁכָּֽן",
+      "gloss": "거처에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:46.618423514Z",
+  "model": "glm-5.2"
+}

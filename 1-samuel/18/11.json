@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 샤울이 ⟨את⟩ 창을 던지며, 말하였다 — \"다윗을 벽에 박으리라.\" 그러나 다윗이 그 앞에서 두 번 돌아섰다.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "던지며"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "창을"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "창을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "치리라"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "벽에(박으리라)"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "돌아섰다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "그 앞에서"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "두 번"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:09.443415171Z",
+  "model": "glm-5.2"
+}

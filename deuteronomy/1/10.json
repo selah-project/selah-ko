@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼 너희의 엘로힘께서 ⟨את⟩ 너희를 번성케 하셨으니, 보라, 너희가 오늘 하늘의 별들처럼 많다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희의 엘로힘"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "번성케 하셨다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "보라"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "별들처럼"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "많이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:01.128631084Z",
+  "model": "glm-5.2"
+}

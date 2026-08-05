@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 38:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "나의 세대가 뽑히고 접혔다, 목자의 천막 같이; 나는 베 짜는 자처럼 나의 삶을 말아 올렸다 — 그가 베틀에서 나를 끊어 버리리라; 낮에서 밤까지 당신이 나를 끝내시리라.”",
+  "tokens": [
+    {
+      "surface": "דורי",
+      "gloss": "나의 세대가"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "뽑히고"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "접혔다"
+    },
+    {
+      "surface": "מני",
+      "gloss": "에서"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "천막 같이"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "목자의"
+    },
+    {
+      "surface": "קפדתי",
+      "gloss": "말아 올렸다"
+    },
+    {
+      "surface": "כארג",
+      "gloss": "베 짜는 자처럼"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "나의 삶을"
+    },
+    {
+      "surface": "מדלה",
+      "gloss": "베틀에서"
+    },
+    {
+      "surface": "יבצעני",
+      "gloss": "그가 끊어 버리리라"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "낮에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤"
+    },
+    {
+      "surface": "תשלימני",
+      "gloss": "당신이 나를 끝내시리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:23.055237962Z",
+  "model": "glm-5.2"
+}

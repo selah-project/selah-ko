@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "내게 매우 근심스러웠으므로, 내가 ⟨את⟩ 토비야의 집 기구들을 전부 그 방 밖으로 내던졌다.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "근심스러웠으므로"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "내던졌다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "전부"
+    },
+    {
+      "surface": "כל",
+      "gloss": "전부"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "기구들을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "토비야의"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "밖으로"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "그 방"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:44.750862038Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그리고 그가 기근을 그 땅 위에 부르셨으며, 빵의 지팡이를 온전히 꺾으셨더라.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 부르셨으며"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "기근을"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온전히"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "지팡이를"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵의"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "꺾으셨더라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:26.123694508Z",
+  "model": "glm-5.2"
+}

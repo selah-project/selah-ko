@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "샤울에게 알려졌다, 말하기를, '보라, 다윗이 나요트 라마에 있다.'",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알려졌다"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "샤울에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "나요트에"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "라마에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:06.581384771Z",
+  "model": "glm-5.2"
+}

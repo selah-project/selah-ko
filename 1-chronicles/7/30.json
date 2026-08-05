@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "아셔의 아들들은: 임나와 이쉬와와 이쉬위와 브리야와 그들의 자매 세라이다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "아셔"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "임나"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "그리고 이쉬와"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "그리고 이쉬위"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "그리고 브리야"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "그리고 세라"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "그들의 자매"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:42.831377775Z",
+  "model": "glm-5.2"
+}

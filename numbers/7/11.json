@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 야훼께서 모셰에게 말씀하셨다. \"나씨 하나가 하루에, 나씨 하나가 하루에 그들이 ⟨את⟩ 그들의 코르반을 제단의 봉헌을 위해 가까이 가져올 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "나씨"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "하루에"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "나씨"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "하루에"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "그들이 가까이 가져올 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 코르반"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "그들의 코르반"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "봉헌을 위해"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:31:38.793052627Z",
+  "model": "glm-5.2"
+}

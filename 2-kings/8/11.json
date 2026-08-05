@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그가 ⟨את⟩ 그의 얼굴을 세워 서서, 부끄러워할 때까지 두자, 엘로힘의 사람이 울었다.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "그리고 세웠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 얼굴을"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴을"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "그리고 두었다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בש",
+      "gloss": "부끄러워하다"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "그리고 울었다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:25.461377062Z",
+  "model": "glm-5.2"
+}

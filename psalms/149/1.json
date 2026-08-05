@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 149,
+  "translation": "할렐루야, 야를 ⟨위하여⟩ 새 노래를 노래하라 — ⟨그⟩ 찬양이 ⟨하는 일은⟩ 경건한 자들의 회중 ⟨안에서이다⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "할렐루"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 ⟨위하여⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래를"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "새"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "⟨그의⟩ 찬양이"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "회중 ⟨안에서⟩"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "경건한 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:45.964199693Z",
+  "model": "glm-5.2"
+}

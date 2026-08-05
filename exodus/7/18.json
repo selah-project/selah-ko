@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "강에 있는 물고기는 죽을 것이고, ⟨그⟩ 강은 악취를 풍길 것이며, 미츠라임 사람들은 강에서 물을 마시기에 지쳐질 것이다.”",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "물고기는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "강에 있는"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "죽을 것이다"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "악취를 풍길 것이며"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "강은"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "지쳐질 것이다"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임 사람들은"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "마시기에"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "강"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:37.625493249Z",
+  "model": "glm-5.2"
+}

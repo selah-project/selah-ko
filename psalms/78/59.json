@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "엘로힘이 들으시고 격노하시어, 이스라엘을 크게 버리셨다.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "들으시고"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "격노하시어"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "버리셨다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:35.830277203Z",
+  "model": "glm-5.2"
+}

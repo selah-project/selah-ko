@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "힘없는 손들을 강하게 하라, 그리고 비틀거리는 무릎들을 견고하게 하라.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "강하게 하라"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "손들을"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "힘없는"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "그리고 무릎들을"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "비틀거리는"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "견고하게 하라"
+    }
+  ],
+  "timestamp": "2026-08-05T13:53:49.899798756Z",
+  "model": "glm-5.2"
+}

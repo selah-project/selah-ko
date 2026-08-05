@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "지휘자에게, 현악에 맞추어, 여덟째 ⟨음으로⟩, 다윗의 시편.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "현악에 맞추어"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "여덟째"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:48.470436559Z",
+  "model": "glm-5.2"
+}

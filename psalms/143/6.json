@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 143,
+  "translation": "내가 ⟨나의⟩ 손들을 ⟨그대에게⟩ 펼쳤다. ⟨나의⟩ 네페쉬가 ⟨그대에게⟩ 메마른 땅 같다. 셀라.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "내가 펼쳤다"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨나의⟩ 손들을"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨그대에게⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨나의⟩ 네페쉬가"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "땅 같다"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "메마른"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨그대에게⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:17.602101690Z",
+  "model": "glm-5.2"
+}

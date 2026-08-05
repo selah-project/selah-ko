@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 에봇의 겉옷을 만들었는데, 짜는 일로, 온전히 청색이었다.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֛עַשׂ",
+      "gloss": "그리고 ⟨그가⟩…만들었는데"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "에봇의 겉옷"
+    },
+    {
+      "surface": "מְעִ֥יל",
+      "gloss": "겉옷을"
+    },
+    {
+      "surface": "הָאֵפֹ֖ד",
+      "gloss": "에봇의"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣ה",
+      "gloss": "일로"
+    },
+    {
+      "surface": "אֹרֵ֑ג",
+      "gloss": "짜는"
+    },
+    {
+      "surface": "כְּלִ֖יל",
+      "gloss": "온전히"
+    },
+    {
+      "surface": "תְּכֵֽלֶת",
+      "gloss": "청색이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:23.192694277Z",
+  "model": "glm-5.2"
+}

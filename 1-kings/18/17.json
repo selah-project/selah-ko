@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "아하브가 ⟨את⟩ 엘리야후를 보자, 아하브가 그에게 말하였다. \"당신이 이스라엘을 어지럽히는 자입니까?\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일어난 일은"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "보자"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘리야후를"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "엘리야후를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브가"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "어지럽히는 자"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:27.829801213Z",
+  "model": "glm-5.2"
+}

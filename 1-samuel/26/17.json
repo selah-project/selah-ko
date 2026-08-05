@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 샤울이 ⟨את⟩ 다윗의 목소리를 알아듣고 말하였다. \"이것이 네 목소리냐, 내 아들 다윗아?\" 그리고 다윗이 말하였다. \"제 목소리입니다, 왕이시여, 제 주인이시여.\"",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "알아듣고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗의 목소리를"
+    },
+    {
+      "surface": "קול",
+      "gloss": "목소리를"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "네 목소리냐"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗아"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "제 목소리입니다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "제 주인이시여"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이시여"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:20.317696925Z",
+  "model": "glm-5.2"
+}

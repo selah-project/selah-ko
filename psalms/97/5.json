@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 97,
+  "translation": "산들이 밀촛처럼 녹았으니, 야훼의 면전에서, 온 땅의 아도네의 면전에서이다.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "산들이"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "밀촛처럼"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "녹았으니"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "아도네의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:46.306104334Z",
+  "model": "glm-5.2"
+}

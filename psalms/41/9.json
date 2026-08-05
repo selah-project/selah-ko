@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "벨리알의 말이 그에게 쏟아졌다 — 그가 누웠으니 다시 일어나지 못하리라.",
+  "tokens": [
+    {
+      "surface": "דְּֽבַר",
+      "gloss": "말이"
+    },
+    {
+      "surface": "בְּ֭לִיַּעַל",
+      "gloss": "벨리알의"
+    },
+    {
+      "surface": "יָצ֣וּק",
+      "gloss": "쏟아졌다"
+    },
+    {
+      "surface": "ב֑וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "וַאֲשֶׁ֥ר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "שָׁ֝כַ֗ב",
+      "gloss": "누웠으니"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니하리라"
+    },
+    {
+      "surface": "יוֹסִ֥יף",
+      "gloss": "다시"
+    },
+    {
+      "surface": "לָקֽוּם",
+      "gloss": "일어나지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:10.134617055Z",
+  "model": "glm-5.2"
+}

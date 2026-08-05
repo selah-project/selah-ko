@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그녀가 ⟨את⟩ 로-루하마를 젖떼니, 그녀가 임신하여 아들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "그리고 그녀가 젖떼니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "로-루하마"
+    },
+    {
+      "surface": "לא",
+      "gloss": "로-(아니)"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "루하마"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "그리고 그녀가 임신하여"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "그리고 낳았다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:19.925563519Z",
+  "model": "glm-5.2"
+}

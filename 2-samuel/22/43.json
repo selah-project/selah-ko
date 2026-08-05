@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "2-samuel 22:43",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 내가 그들을 땅의 먼지처럼 부수었고, 거리의 진흙처럼 으깨어, ⟨그들을⟩ 펴 놓았다.",
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "그리고 내가 그들을 부수었다"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "～처럼"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "～처럼"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "거리의"
+    },
+    {
+      "surface": "אדקם",
+      "gloss": "진흙"
+    },
+    {
+      "surface": "ארקעם",
+      "gloss": "그들을 펴 놓았다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:43.149190207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그가 블레셋 사람들의 날에 ⟨את⟩ 이스라엘을 이십 년 동안 재판하였다.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "그가 재판하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "…의 날에"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들의"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "이십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T13:44:34.277058424Z",
+  "model": "glm-5.2"
+}

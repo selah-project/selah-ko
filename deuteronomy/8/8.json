@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "밀과 보리와 포도나무와 무화과나무와 석류나무의 땅, 기름 올리브와 꿀의 땅이라.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "밀과"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "보리와"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "포도나무와"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "무화과나무와"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "석류나무의"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "זית",
+      "gloss": "올리브"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "그리고 꿀의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:13.911352078Z",
+  "model": "glm-5.2"
+}

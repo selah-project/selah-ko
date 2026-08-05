@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "며칠 후에 그 나할이 말랐으니, 이는 땅에 비가 없었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨일이 있었다⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "후에"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "며칠(날들)"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "말랐으니"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "나할이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없었"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨이었기⟩"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "비가"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:52:18.812401181Z",
+  "model": "glm-5.2"
+}

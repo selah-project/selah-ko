@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "어찌하여 야훼께서 멀리 서 계시며, 환난의 때에 숨으시나이까?",
+  "tokens": [
+    {
+      "surface": "לָמָ֣ה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "תַּעֲמֹ֣ד",
+      "gloss": "서 계시며"
+    },
+    {
+      "surface": "בְּרָח֑וֹק",
+      "gloss": "멀리"
+    },
+    {
+      "surface": "תַּ֝עְלִ֗ים",
+      "gloss": "숨으시나이까"
+    },
+    {
+      "surface": "לְעִתּ֥וֹת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "בַּצָּרָֽה",
+      "gloss": "환난의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:24.205573391Z",
+  "model": "glm-5.2"
+}

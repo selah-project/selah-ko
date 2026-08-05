@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그들 모두가 화덕처럼 뜨거워져서, ⟨את⟩ 그들의 재판자들을 삼켰으니, 그들의 모든 왕이 쓰러졌으나 그들 가운데 나를 부르는 자가 없도다.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "그들 모두가"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "뜨거워져서"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "화덕처럼"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "삼켰으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 재판자들을"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "그들의 재판자들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "그들의 왕이"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "쓰러졌으나"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으니"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "부르는 자가"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들 가운데"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:52.519228113Z",
+  "model": "glm-5.2"
+}

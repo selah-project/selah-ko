@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "그발과 암몬과 아말렉, 펠레셋 그리고 쯔르의 거주자들까지.",
+  "tokens": [
+    {
+      "surface": "גְּבָ֣ל",
+      "gloss": "그발"
+    },
+    {
+      "surface": "וְ֭עַמּוֹן",
+      "gloss": "그리고 암몬"
+    },
+    {
+      "surface": "וַעֲמָלֵ֑ק",
+      "gloss": "그리고 아말렉"
+    },
+    {
+      "surface": "פְּלֶ֗שֶׁת",
+      "gloss": "펠레셋"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "יֹ֥שְׁבֵי",
+      "gloss": "거주자들"
+    },
+    {
+      "surface": "צֽוֹר",
+      "gloss": "쯔르의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:43.800127421Z",
+  "model": "glm-5.2"
+}

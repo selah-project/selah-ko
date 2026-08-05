@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "추프의 아들, 엘카나의 아들, 마핫의 아들, 아마사이의 아들.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "추프의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "엘카나의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "마핫의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "아마사이의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:13.494358375Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "네 자매의 벌거벗음 — 네 아버지의 딸이거나 네 어머니의 딸이거나, 집에서 태어났거나 밖에서 태어났거나 — 그들의 벌거벗음을 드러내지 못한다.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "벌거벗음"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "네 자매"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "네 아버지"
+    },
+    {
+      "surface": "או",
+      "gloss": "이거나"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "네 어머니"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "או",
+      "gloss": "이거나"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "밖"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "드러내지 못한다"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "그들의 벌거벗음"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:56.285137412Z",
+  "model": "glm-5.2"
+}

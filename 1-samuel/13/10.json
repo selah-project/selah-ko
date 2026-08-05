@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "올라(올라가는 제물)을 올리기를 마치자, 보라, 셈우엘이 오고 있었다. 그리고 샤울이 그를 맞이하러, 그를 축복하러 나아갔다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일어난 일은"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "마치자"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "올리기를"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라(올라가는 제물)을"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셈우엘이"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오고 있었다"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "그를 맞이하러"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "그를 축복하러"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:35.400822179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "야훼께서 이스라엘에게 구원자를 주셨으므로, 그들이 아람의 손아래에서 나왔고, 이스라엘 자손이 전날과 그저께처럼 그들의 장막에 거하였다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주셨으므로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "이스라엘에게"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "구원자를"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "나왔고"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "아래에서"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람의"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "그들의 장막에"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "전날과"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "그저께처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:48.516050957Z",
+  "model": "glm-5.2"
+}

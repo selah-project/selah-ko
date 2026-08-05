@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "일어나 도기장이의 집으로 내려가라, 거기서 내가 ⟨את⟩ 나의 말씀들을 네게 들리게 하리라.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "내려가라"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "도기장이의"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "들리게 하리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 말씀들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "나의 말씀들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:03.323277741Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 32:22",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "거기에 아쉬르가, 그리고 그의 온 회중이, 그의 무덤들이 그를 둘러싸고 있다. 그들 모두 칼에 찔려 죽은 자들, 칼에 쓰러진 자들이다.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아쉬르가"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "קהלה",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "그의 무덤들이 그를 둘러싸고 있다"
+    },
+    {
+      "surface": "קברתיו",
+      "gloss": "그의 무덤들이"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "그들 모두"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "칼에 찔려 죽은 자들"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "칼에 쓰러진 자들이다"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:59:09.107422558Z",
+  "model": "glm-5.2"
+}

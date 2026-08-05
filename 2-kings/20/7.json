@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 20:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "예샤야후가 말하였다. 무화과떡을 가져오라. 그들이 가져다가 종기 위에 놓으니, 그가 살아났다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "예샤야후가"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "가져오라"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "떡을"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "무화과"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 가져다가"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "놓으니"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "종기"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "그가 살아났다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:20.225399492Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "대저 그녀의 집은 죽음으로 기울어지고, 그녀의 길들은 르파임에게로 ⟨이르기 때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "기울어지고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~으로"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "그녀의 집"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "~에게로"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "르파임"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "그녀의 길들은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:50.063297136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 그것으로 ⟨את⟩ 만남의 장막과 ⟨את⟩ 증거의 궤에 기름을 발라라.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "그리고 네가 기름을 발라라"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것으로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "만남의 장막"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막,"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "증거의 궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤,"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "증거의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:03:54.942208899Z",
+  "model": "glm-5.2"
+}

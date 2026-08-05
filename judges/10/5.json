@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야이르가 죽어 카몬에 묻혔다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽어"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "야이르가"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "묻혔다"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "카몬에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:01.765145884Z",
+  "model": "glm-5.2"
+}

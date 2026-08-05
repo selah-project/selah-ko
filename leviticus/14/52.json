@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨그가⟩ 새의 피와 흐르는 물과 살아 있는 새와 백향나무와 우슬초와 붉은 실로 ⟨את⟩ 그 집을 정결하게 할 것이다.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "그리고 정결하게 할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "피로"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "그 새"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "그리고 물로"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "그 흐르는"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "그리고 새로"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "그 살아 있는"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "그리고 나무로"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "그 백향"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "그리고 우슬초로"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "그리고 붉은 실로"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "그 벌레 염료"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:13.332951837Z",
+  "model": "glm-5.2"
+}

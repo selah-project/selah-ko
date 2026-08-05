@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "이제 그들이 ⟨את⟩ 그들의 음란과 그들의 왕들의 주검을 나에게서 멀리 옮기면, 내가 그들 한가운데 영원히 거하리라.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "멀리 옮기면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 음란"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "그들의 음란"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "그리고 주검"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "그들의 왕들"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "내가 거하리라"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "그들 한가운데"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:03:09.894319549Z",
+  "model": "glm-5.2"
+}

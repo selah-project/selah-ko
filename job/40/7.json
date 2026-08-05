@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 40:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "너는 이제 장사처럼 허리를 동여라. 내가 너에게 묻겠으니 너는 나에게 알게 하라.",
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "동여라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "장사처럼"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "허리를"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "묻겠으니"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "알게 하라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:28.564299583Z",
+  "model": "glm-5.2"
+}

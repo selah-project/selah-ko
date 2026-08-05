@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그의 행하신 그의 기적들을 기억하라, 그의 표징들과 그의 입의 판결들을",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "기억하라"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "그의 기적들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그가⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하신"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "그의 표징들과"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "판결들을"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "그의 입의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:11.119417702Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내가 말하기를 '나의 잠자리가 나를 위로해 주고, 나의 묵상이 나의 침상을 들어 올려 주리라' 하였건만",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "내가 … 하였건만"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "나를 위로해 주리라"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "나의 잠자리가"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "들어 올려 주리라"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "나의 묵상이"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "나의 침상을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:29.160306828Z",
+  "model": "glm-5.2"
+}

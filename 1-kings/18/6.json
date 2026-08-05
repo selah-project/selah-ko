@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 그들이 그들 ⟨사이에⟩ ⟨את⟩ 땅을 나누어, 그것을 지나가려 하였다. 아캅은 혼자 한 길로 걸었고, 오바디야후는 혼자 한 길로 걸었다.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "그리고 그들이 나누어"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들 ⟨에게⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "지나가려 하였다"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아캅은"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걸었고"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "혼자"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "그리고 오바디야후는"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걸었다"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "혼자"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:20.019577513Z",
+  "model": "glm-5.2"
+}

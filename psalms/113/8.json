@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 113,
+  "translation": "귀족들과 함께, ⟨곧⟩ 그분의 백성의 귀족들과 함께 앉히시려고 —",
+  "tokens": [
+    {
+      "surface": "לְהוֹשִׁיבִ֥י",
+      "gloss": "앉히시려고"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "נְדִיבִ֑ים",
+      "gloss": "귀족들"
+    },
+    {
+      "surface": "עִ֝֗ם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "נְדִיבֵ֥י",
+      "gloss": "귀족들"
+    },
+    {
+      "surface": "עַמּֽוֹ",
+      "gloss": "그분의 백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:51.351087634Z",
+  "model": "glm-5.2"
+}

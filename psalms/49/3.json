@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "사람의 아들들도, 남자의 아들들도, 부자와 가난한 자가 함께.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람(아담)의"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자(이쉬)의"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "함께"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "부자와"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "가난한 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:11.771363124Z",
+  "model": "glm-5.2"
+}

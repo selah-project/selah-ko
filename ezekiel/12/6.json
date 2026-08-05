@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 12:6",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그들의 눈 앞에서 어깨에 메고, 어둠 속에서 ⟨그것을⟩ 꺼내어라. 네 얼굴을 가리어 ⟨그⟩ 땅을 ⟨את⟩ 보지 말라. 이는 내가 너를 이스라엘 집에 징조로 세웠기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "그들의 눈 앞에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "어깨"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "너는 메고"
+    },
+    {
+      "surface": "בעלטה",
+      "gloss": "어둠 속에서"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "너는 꺼내어라"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "네 얼굴을"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "가리어"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … not"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "너는 보아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "징조"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "내가 너를 세웠다"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "… 집에"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:49:41.026039193Z",
+  "model": "glm-5.2"
+}

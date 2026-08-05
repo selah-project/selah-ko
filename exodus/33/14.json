@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그가 말씀하셨다. \"나의 면전이 함께 가겠고, 내가 그대에게 쉼을 주겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말씀하셨다"
+    },
+    {
+      "surface": "פני",
+      "gloss": "나의 면전"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "함께 가겠고"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "내가 … 주겠다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게 쉼을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:06:07.638020754Z",
+  "model": "glm-5.2"
+}

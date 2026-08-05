@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "\"제가 파르오에게 가서 당신의 이름으로 말한 때부터, 이 백성에게 악이 행하여졌는데, 당신은 전혀 ⟨את⟩ 당신의 백성을 구원하지 않으셨습니다.\"",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "그리고 그 때부터"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "제가 간"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "말하기 위하여"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "당신의 이름으로"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악이 행하여졌는데"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "그리고 구원은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하셨습니다"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "구원하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 백성을"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:47:01.948785934Z",
+  "model": "glm-5.2"
+}

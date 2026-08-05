@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "이는 앗탈야후, 그 사악한 여자, 그의 아들들이 ⟨את⟩ 엘로힘의 집을 파헐쳤기 때문이며, 또한 그들이 야훼의 집의 모든 거룩한 것들을 바알림들에게 만들었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "앗탈야후"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "그 사악한 여자"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "그의 아들들이"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "파헐쳤기 때문이며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "거룩한 것들을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만들었기 때문이다"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "바알림들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:53.852208821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 126,
+  "translation": "눈물로 씨 뿌리는 자들은 환호성으로 거둘 것이다.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "씨 뿌리는 자들은"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "눈물로"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "환호성으로"
+    },
+    {
+      "surface": "יִקְצֹֽרוּ",
+      "gloss": "거둘 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:15.865348754Z",
+  "model": "glm-5.2"
+}

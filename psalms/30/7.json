@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "나는 내 평안함에 ⟨서⟩ 말하였다 — '나는 영원히 흔들리지 아니하리라'라고.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "내 평안함에 ⟨서⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "흔들리리라"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:37.607861555Z",
+  "model": "glm-5.2"
+}

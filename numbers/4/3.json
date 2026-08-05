@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 4:3",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "삼십 세 이상부터 오십 세까지, 회막에서 일을 하려고 군에 들어오는 모든 자 ⟨중에서⟩ —",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "세"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "이상"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨나이⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "세"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어오는"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "군에"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "하려고"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일을"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "회막에서"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨모임의⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T08:29:05.796729917Z",
+  "model": "glm-5.2"
+}

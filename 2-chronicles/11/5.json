@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "르하브암은 예루샬라임에 거하였고, 그리고 유다에 방비를 위하여 도시들을 건축하였다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "거하였고"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "르하브암은"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "건축하였다"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "도시들을"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "방비를 위하여"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "유다에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:58.650285983Z",
+  "model": "glm-5.2"
+}

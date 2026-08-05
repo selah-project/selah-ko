@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "이제 예루샬라임 주민 ⟨및⟩ 온 유다 사람 ⟨아⟩, 나와 내 포도원 사이에서 판결하라.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "주민"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 ⟨사람⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "판결하라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨아⟩"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "나와"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "사이에서"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "내 포도원"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:06.629096153Z",
+  "model": "glm-5.2"
+}

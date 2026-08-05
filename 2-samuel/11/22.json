@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리하여 ⟨그⟩ 사자가 가고, 다윗에게 와서, 요압이 보낸 모든 것을 ⟨그에게⟩ 알리니,",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֖לֶךְ",
+      "gloss": "그리하여 가고"
+    },
+    {
+      "surface": "הַמַּלְאָ֑ךְ",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "וַיָּבֹא֙",
+      "gloss": "와서"
+    },
+    {
+      "surface": "וַיַּגֵּ֣ד",
+      "gloss": "알리니"
+    },
+    {
+      "surface": "לְדָוִ֔ד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "אֵ֛ת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "שְׁלָח֖וֹ",
+      "gloss": "보낸"
+    },
+    {
+      "surface": "יוֹאָֽב",
+      "gloss": "요압이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:20.134815480Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 레위의 ⟨아들⟩ 가운데 남은 자들에게 ⟨도⟩: 암람의 ⟨아들⟩에게 — 슈바엘; 슈바엘의 ⟨아들⟩에게 — 예흐디야후.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "그리고 …의 ⟨아들⟩에게"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "레위"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "남은 자들"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…의 ⟨아들⟩에게"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "암람"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "슈바엘"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…의 ⟨아들⟩에게"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "슈바엘"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "예흐디야후"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:21.421155597Z",
+  "model": "glm-5.2"
+}

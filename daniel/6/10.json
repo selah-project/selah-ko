@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "이 ⟨일⟩ 때문에 다르야웨쉬 왕이 ⟨그⟩ 문서와 금령에 서명하였다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "—"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "כל קבל",
+      "gloss": "이 모든 것 때문에"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "이"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "다르야웨쉬"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "서명하였다"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "문서에"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "그리고 금령에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:28:32.936785833Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "당신은 좋으시고 선을 행하십니다, 당신의 규례들을 저에게 가르쳐 주소서.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "좋으시고"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "선을 행하십니다"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "저에게 가르쳐 주소서"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "당신의 규례들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:32.419235381Z",
+  "model": "glm-5.2"
+}

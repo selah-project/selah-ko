@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "⟨את⟩ 두 수레와 ⟨את⟩ 네 마리 소를 게르손의 아들들에게, 그들의 섬기는 일에 따라 주었다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 수레(שתי העגלת)"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "수레"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "네 마리 소(ארבעת הבקר)"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "네"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "소"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "게르손의"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "에 따라"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "그들의 섬기는 일"
+    }
+  ],
+  "timestamp": "2026-08-05T08:30:58.081129601Z",
+  "model": "glm-5.2"
+}

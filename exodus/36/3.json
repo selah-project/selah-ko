@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 36:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 그들이 모셰의 앞에서 ⟨את⟩ 온 헌물을 — 이스라엘의 아들들이 거룩한 ⟨것⟩의 섬기는 일의 일을 위해 가져온 것 — 취하여 그것을 행하려 하였다, 그리고 그들은 아직도 그에게 자원하는 예물을 가져왔다, 아침마다 아침마다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "그리고 그들이 취하였다"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "~의 앞에서"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 헌물"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "헌물"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "가져온"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "~의 일을 위해"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "섬기는 일"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "거룩한 것"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "행하려"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그리고 그들은"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "가져왔다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직도"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "자원하는 예물"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침마다"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침마다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:09.166656208Z",
+  "model": "glm-5.2"
+}

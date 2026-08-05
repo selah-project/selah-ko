@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 34:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야곱의 아들들이 들에서 돌아왔으니, 그것을 들음이었다. 사람들이 슬퍼하였고, 그들에게 심히 분노가 타올랐다. 그가 이스라엘 가운데 네발라를 행하였으니, ⟨את⟩ 야곱의 딸과 눕는 것이었기 때문이다. 이와 같은 일은 행하여지지 말아야 한다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "באו",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "그 들"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "그것을 들음이었다"
+    },
+    {
+      "surface": "ויתעצבו",
+      "gloss": "슬퍼하였다"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "타올랐다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "네발라를"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘 가운데"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "눕는 것"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "딸"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하여진다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:48.280445363Z",
+  "model": "glm-5.2"
+}

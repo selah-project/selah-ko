@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 예호나탄이 ⟨את⟩ 자기 아버지 샤울에게 대답하였고, 그에게 말하였다. \"어찌하여 죽여야 합니까? 무엇을 하였습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "그리고 대답하였고"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "예호나탄이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아버지 샤울"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽여야 합니까"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "하였습니까"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:38.767472096Z",
+  "model": "glm-5.2"
+}

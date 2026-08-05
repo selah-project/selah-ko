@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 다윗이 ⟨את⟩ 모든 양 떼와 소 떼를 취하였으니, 그들이 ⟨그⟩ 가축 떼 앞에서 몰고 갔다. 그리고 그들이 말하였다. \"이것은 다윗의 노획물이다.\"",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 취하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 양 떼와 소 떼를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "그리고 소 떼"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "몰고 갔다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "가축 떼"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "노획물"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:53.189991864Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 아비멜렉이 말하였다. \"보라, 내 땅이 네 앞에 있으니, 네 눈에 좋은 대로 머물러라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …이 말하였다"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉이"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "내 땅이"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "네 앞에 있다"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "좋은 대로"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "네 눈에"
+    },
+    {
+      "surface": "שב",
+      "gloss": "머물러라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:08.050476089Z",
+  "model": "glm-5.2"
+}

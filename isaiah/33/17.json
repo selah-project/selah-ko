@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "네 눈이 아름다움 안에 있는 왕을 바라볼 것이며, 먼 땅들을 보리라.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "아름다움 안에 있는"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "바라볼 것이며"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "네 눈이"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "보리라"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅들을"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "먼"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:24.745522543Z",
+  "model": "glm-5.2"
+}

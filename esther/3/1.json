@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이 일들 후에 아하쉐로쉬 왕이 ⟨את⟩ 하만을 — 하마다타의 아들 아가그 사람 — 높이시고, 그를 드높이셨다. 그리고 ⟨את⟩ 그의 자리를 자기와 함께 있는 모든 방백들 위에 두셨다.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "이 일들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "높이시고"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "아하쉐로쉬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하만을"
+    },
+    {
+      "surface": "המן",
+      "gloss": "하만"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "하마다타의"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "아가그 사람"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "그를 드높이셨다"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "그리고 두셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 자리를"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "그의 자리"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "방백들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "자기와 함께 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:32.017045546Z",
+  "model": "glm-5.2"
+}

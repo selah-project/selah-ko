@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 쵸라와 ⟨את⟩ 아얄론과 ⟨את⟩ 헤브론을 — ⟨이것들은⟩ 예후다와 비냐민에 있는, 요새 도시들이었다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "쵸라"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "쵸라"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아얄론"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "아얄론"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "헤브론"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "헤브론"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "예후다에 ⟨있는⟩"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "그리고 비냐민에"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "도시들"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "요새"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:59.205396797Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그가⟩ 말씀하셨다. \"그것을 땅에 내던지라.\" 그가 ⟨그것을⟩ 땅에 내던지자, 그것이 뱀이 되었다. 그래서 모셰가 그 앞에서 피하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "내던지라"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "내던지자"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "뱀이"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "피하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "그 앞에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:10.775216020Z",
+  "model": "glm-5.2"
+}

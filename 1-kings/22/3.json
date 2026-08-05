@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "이스라엘 왕이 ⟨그의⟩ 종들에게 말하였다. \"당신들은 알고 있는가, 라모트 길아드가 우리에게 ⟨속해 있으면서도⟩, 우리는 그것을 아람 왕의 손에서 빼앗아 오는 일에 침묵하고 있다는 것을?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "종들"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "당신들은 알고 있는가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "라모트"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길아드"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "그리고 우리는"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "침묵하고 있다"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "빼앗아 오는 일에"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:14.821553776Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "야훼여, 우리는 압니다. 우리의 악과 우리 조상들의 죄악을; 우리가 ⟨당신에게⟩ 범죄하였기 때문입니다.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "우리는 압니다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "우리의 악을"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악을"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "우리 조상들의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "우리가 범죄하였기"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:54.750726196Z",
+  "model": "glm-5.2"
+}

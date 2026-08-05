@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨그⟩ 이(가) 세계를 의로우심으로 심판하시며, 백성들을 곧음으로 판결하신다.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "그리고 ⟨그⟩ 이(가)"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "심판하시며"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계를"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "의로우심으로"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "판결하신다"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "백성들을"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "곧음으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:54.161240773Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "요벨이니, 그것은 ⟨그⟩ 오십 년이 되어 너희에게 ⟨그것⟩이 될 것이다. 너희는 파종하지 말고, ⟨את⟩ 그것의 스스로 난 것을 거두지 말며, ⟨את⟩ 그것의 구별된 것을 따지 말 것이다.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "요벨이니"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "년이"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "되어"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "너희는 파종하지 말고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "너희는 거두지 말고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 스스로 난 것을"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "그것의 스스로 난 것"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "너희는 따지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 구별된 것을"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "그것의 구별된 것"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:06.548955611Z",
+  "model": "glm-5.2"
+}

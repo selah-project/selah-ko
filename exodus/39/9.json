@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "네모였다. ⟨그들은⟩ ⟨את⟩ 흉배를 겹으로 만들었다. 한 뼘이 그것의 길이, 한 뼘이 그것의 너비, 겹으로.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "네모였다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨였다⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "겹으로"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "흉배"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "흉배를"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "한 뼘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그것의 길이"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "한 뼘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그것의 너비"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "겹으로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:52.601007355Z",
+  "model": "glm-5.2"
+}

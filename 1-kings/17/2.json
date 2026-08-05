@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 야훼의 말씀이 그에게 임하였다, 말씀하시기를 —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 임하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:00.701342161Z",
+  "model": "glm-5.2"
+}

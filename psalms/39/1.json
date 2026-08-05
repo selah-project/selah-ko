@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "지휘자에게, 예두툰에게. 다윗의 시.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "예두툰에게"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:47.667494866Z",
+  "model": "glm-5.2"
+}

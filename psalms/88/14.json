@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "그러나 저는 야훼, ⟨그대⟩에게 부르짖었으며, 아침에 저의 기도가 ⟨그대⟩를 먼저 만나렵니다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그러나 저는"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨그대⟩에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "부르짖었으며"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "저의 기도가"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "⟨그대⟩를 먼저 만나렵니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:57.432260583Z",
+  "model": "glm-5.2"
+}

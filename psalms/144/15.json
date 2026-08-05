@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 144,
+  "translation": "복되다, 그렇게 ⟨된⟩ 백성은, 복되다, 야훼가 그 엘로힘이신 백성은",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֣י",
+      "gloss": "복되다"
+    },
+    {
+      "surface": "הָ֭עָם",
+      "gloss": "…⟨그⟩ 백성"
+    },
+    {
+      "surface": "שֶׁכָּ֣כָה",
+      "gloss": "그렇게"
+    },
+    {
+      "surface": "לּ֑וֹ",
+      "gloss": "⟨된⟩"
+    },
+    {
+      "surface": "אַֽשְׁרֵ֥י",
+      "gloss": "복되다"
+    },
+    {
+      "surface": "הָ֝עָ֗ם",
+      "gloss": "…⟨그⟩ 백성"
+    },
+    {
+      "surface": "שֶׁיֲהוָ֥ה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אֱלֹהָֽיו",
+      "gloss": "그 엘로힘이신"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:25.122451674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "질파가 — 르아의 여종 — 야아코브에게 아들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "질파가"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "여종"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "르아의"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "야아코브에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:05.087307178Z",
+  "model": "glm-5.2"
+}

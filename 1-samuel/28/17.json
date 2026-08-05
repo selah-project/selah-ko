@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "야훼께서 그에게 행하셨다 — 그가 내 손을 통해 말씀하신 대로. 그리고 야훼께서 ⟨את⟩ 왕국을 당신의 손에서 찢어내시어, 그것을 당신의 동료인 다윗에게 주셨다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 대로"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "내 손을 통해"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "찢어내시어"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕국"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "왕국을"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "당신의 손에서"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "당신의 동료에게"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:03.074577674Z",
+  "model": "glm-5.2"
+}

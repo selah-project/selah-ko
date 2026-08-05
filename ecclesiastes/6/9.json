@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "눈으로 보는 것이 네페쉬의 헤맴보다 낫다 — 이것도 헤블이요 루아흐의 괴로움이다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "보는 것"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "눈으로"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "헤맴보다"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬의"
+    },
+    {
+      "surface": "גם",
+      "gloss": "이것도"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헤블이요"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "괴로움이다"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:45.509696268Z",
+  "model": "glm-5.2"
+}

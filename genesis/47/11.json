@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "요셉은 ⟨את⟩ 자기 아버지와 ⟨את⟩ 자기 형제들을 정착시켰다. 그리고 미츠라임 땅의 가장 좋은 땅, 라므세스 땅에 그들에게 소유지를 주었으니, 파르오가 명한 대로였다.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "정착시켰다"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아버지"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "및 ⟨את⟩",
+      "marks": "자기 형제들을"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "자기 형제들을"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "소유지를"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "가장 좋은"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "라므세스"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~한 대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:15.334215443Z",
+  "model": "glm-5.2"
+}

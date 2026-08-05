@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "나의 날들은 베틀보다 빠르고 희망 없이 다하여진다.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "나의 날들은"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "빠르다"
+    },
+    {
+      "surface": "מני",
+      "gloss": "～보다"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "베틀"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "그리고 다하여진다"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "없이"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "희망"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:39.061322805Z",
+  "model": "glm-5.2"
+}

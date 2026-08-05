@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 아나카와, 코아흐와, 르타아와, 호메트와, 틴쉬메트.",
+  "tokens": [
+    {
+      "surface": "וְהָאֲנָקָ֥ה",
+      "gloss": "그리고 아나카와"
+    },
+    {
+      "surface": "וְהַכֹּ֖חַ",
+      "gloss": "코아흐와"
+    },
+    {
+      "surface": "וְהַלְּטָאָ֑ה",
+      "gloss": "르타아와"
+    },
+    {
+      "surface": "וְהַחֹ֖מֶט",
+      "gloss": "호메트와"
+    },
+    {
+      "surface": "וְהַתִּנְשָֽׁמֶת",
+      "gloss": "틴쉬메트"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:39.698912476Z",
+  "model": "glm-5.2"
+}

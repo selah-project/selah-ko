@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그의 맏아들의 이름은 요엘이었고, ⟨그⟩ 둘째의 이름은 아비야였다. 그들이 브에르-셰바에서 판관들이었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨이었다⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름은"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들의"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "맏아들"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "요엘이었고"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 ⟨그⟩ 이름은"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "그의 둘째의"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "아비야였다"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "판관들이었다"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "브에르-에서"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:35.008656987Z",
+  "model": "glm-5.2"
+}

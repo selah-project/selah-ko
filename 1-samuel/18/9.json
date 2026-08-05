@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 그 날부터 이후로 샤울이 ⟨את⟩ 다윗을 주시하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 되었다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "עון",
+      "gloss": "주시하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "그 날부터"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "이후로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:09.443133739Z",
+  "model": "glm-5.2"
+}

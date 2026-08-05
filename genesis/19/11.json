@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 ⟨את⟩ 그 사람들을, 곧 집 입구에 있는 자들을 소경됨으로 치셨다 — 작은 자에서 큰 자까지 — 그래서 그들이 문을 찾다 지쳤다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 사람들을"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구에"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "그들이 치셨다"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "소경됨으로"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "작은 자에서"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰 자"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "그들이 지쳤다"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "찾다"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "문을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:34.274828964Z",
+  "model": "glm-5.2"
+}

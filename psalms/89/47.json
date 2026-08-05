@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "언제까지, 야훼여, 스스를 영원히 숨기시리이까? 분노가 불과 같이 타오르리이까?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "언제"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "תִּסָּתֵ֣ר",
+      "gloss": "숨기시리이까"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "תִּבְעַ֖ר",
+      "gloss": "타오르리이까"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "같이"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "불"
+    },
+    {
+      "surface": "חֲמָתֶֽךָ",
+      "gloss": "분노가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:08.411875463Z",
+  "model": "glm-5.2"
+}

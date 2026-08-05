@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "다윗이 일어나 그 날에 샤울의 면전에서 도망하여 갓 왕 아키쉬에게로 왔다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "도망하여"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "아키쉬"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "גת",
+      "gloss": "갓"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:14.844278800Z",
+  "model": "glm-5.2"
+}

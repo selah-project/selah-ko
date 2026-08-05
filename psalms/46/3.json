@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그러므로 우리는 두려워하지 아니하리라 — 땅이 바뀌어도, 산들이 바다 한가운데 흔들려도.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "바뀌어도"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "흔들려도"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들이"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "바다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:47.947856239Z",
+  "model": "glm-5.2"
+}

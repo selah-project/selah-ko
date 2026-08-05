@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 30:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "덤불들 사이에서 울부짖고, 가시나무 아래에서 모여든다.",
+  "tokens": [
+    {
+      "surface": "בֵּ֣ין",
+      "gloss": "사이에서"
+    },
+    {
+      "surface": "שִׂיחִ֣ים",
+      "gloss": "덤불들"
+    },
+    {
+      "surface": "יִנְהָ֑קוּ",
+      "gloss": "울부짖고"
+    },
+    {
+      "surface": "תַּ֖חַת",
+      "gloss": "아래에서"
+    },
+    {
+      "surface": "חָר֥וּל",
+      "gloss": "가시나무"
+    },
+    {
+      "surface": "יְסֻפָּֽחוּ",
+      "gloss": "모여든다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:00.849586996Z",
+  "model": "glm-5.2"
+}

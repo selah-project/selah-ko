@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "모셰가 엘로힘에게 말하였다. \"제가 누구이기에, 파르오에게 가며 이스라엘 자손을 미츠라임에서 ⟨את⟩ 데려내겠습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구이기에,"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "제가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "가며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "그리고 ⟨그⟩"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "데려내겠습니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:47:11.879729160Z",
+  "model": "glm-5.2"
+}

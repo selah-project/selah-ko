@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 야훼께서 ⟨את⟩ 그들을 거기서 온 땅의 면 위에 흩으셨다. 그리고 그들이 ⟨그⟩ 성을 건축하기를 그쳤다.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "그리고 흩으셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "그리고 그쳤다"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "건축하기를"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:31.991891458Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "꿈을 보았고, 그것이 나를 두렵게 하였으며, 내 침상 위의 생각들과 내 머리의 환상들이 나를 괴롭게 하였다.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "꿈을"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "보았고"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "그것이 나를 두렵게 하였으며"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "그리고 생각들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위의"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "내 침상"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "그리고 환상들이"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "내 머리의"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "나를 괴롭게 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:25:55.577708448Z",
+  "model": "glm-5.2"
+}

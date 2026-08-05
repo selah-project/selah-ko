@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그들이 그에게 말하였다. '사라 당신의 아내가 어디 있느냐?' 그가 말하였다. '보십시오, 천막에 있습니다.'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디 있느냐"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "사라"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "당신의 아내"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "천막에"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:02.237919107Z",
+  "model": "glm-5.2"
+}

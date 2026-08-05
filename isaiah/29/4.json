@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 네가 낮아져 땅에서 말하고, 티끌에서 네 말이 낮게 내려가며, 네 목소리는 땅에서 오브 같고, 티끌에서 네 말이 속삭이리라.",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "그리고 네가 낮아져"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "티끌에서"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "낮게 내려가며"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "네 말이"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그리고 … -리라"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "오브 같고"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "네 목소리는"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "티끌에서"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "네 말이"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "속삭이리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:26.714367118Z",
+  "model": "glm-5.2"
+}

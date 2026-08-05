@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "이스라엘이 떠나 ⟨그의⟩ 천막을 펼쳤으니, 미그달-에데르 너머로이더라.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "펼쳤으니"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "그의 천막을"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "너머로"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "미그달-"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "에데르"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:57.173414564Z",
+  "model": "glm-5.2"
+}

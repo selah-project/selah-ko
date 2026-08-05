@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "그대의 화살들은 날카로우니 ⟨–⟩ 민족들이 그대 아래 쓰러진다, ⟨그것들이⟩ 왕의 원수들의 심장 ⟨속으로⟩.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "그대의 화살들은"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "날카로우니"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "그대 아래"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "쓰러진다"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "심장 속으로"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "원수들의"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:35.010055327Z",
+  "model": "glm-5.2"
+}

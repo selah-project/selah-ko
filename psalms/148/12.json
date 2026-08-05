@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "청년들과 또한 처녀들, 노인들과 소년들이여,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "청년들"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "⟨및⟩ 또한"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "처녀들"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "노인들"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨와⟩ 함께"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "소년들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:51.463656265Z",
+  "model": "glm-5.2"
+}

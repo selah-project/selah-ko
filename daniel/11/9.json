@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨그가⟩ 남쪽 왕의 나라에 들어오되, 자기 땅으로 돌아갈 것이다.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "그리고 들어오되"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "나라에"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "남쪽"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "그리고 돌아갈 것이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "자기 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T12:30:15.921767408Z",
+  "model": "glm-5.2"
+}

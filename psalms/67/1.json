@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 67,
+  "translation": "합창대장에게 ⟨지휘하라⟩, 현악 ⟨반주⟩로. ⟨그것은⟩ 미즈모르, 노래이다.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "합창대장에게"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "현악 반주로"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "미즈모르"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:28.374567959Z",
+  "model": "glm-5.2"
+}

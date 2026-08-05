@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "복이 있도다, 야훼의 이름으로 오는 ⟨이⟩⟨는⟩. 우리가 너희를 축복하노니, 야훼의 집에서.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "복이 있도다"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "오는"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "우리가 너희를 축복하노니"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:35.940896024Z",
+  "model": "glm-5.2"
+}

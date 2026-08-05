@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 나를 원수의 손에 가두지 않으셨다. 넓은 곳에 나의 발을 세우셨다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니하다"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "나를 가두셨다"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "세우셨다"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "넓은 곳에"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "나의 발을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:18.162203662Z",
+  "model": "glm-5.2"
+}

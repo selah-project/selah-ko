@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 아말렉이 와서 르피딤에서 이스라엘과 싸웠다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 와서"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "아말렉이"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "그리고 싸웠다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와\/과"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "르피딤에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:55:23.215826290Z",
+  "model": "glm-5.2"
+}

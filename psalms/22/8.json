@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "나를 보는 모든 자가 나를 비웃으며, 입술을 내밀고, 머리를 흔든다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "나를 보는"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "자가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "비웃으며,"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "입술을"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "내밀고,"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:20.519973048Z",
+  "model": "glm-5.2"
+}

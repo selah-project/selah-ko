@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이스라엘 자손이 십팔 년 동안 모아브 왕 에글론을 섬겼다.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "섬겼다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모아브 왕 에글론"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "에글론"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "여덟"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:48.955877231Z",
+  "model": "glm-5.2"
+}

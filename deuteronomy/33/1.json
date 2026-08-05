@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 이것은 모셰 ⟨이신⟩ 엘로힘의 사람이 그의 죽음 앞에서 ⟨את⟩ 이스라엘의 자손을 축복한 ⟨그⟩ 축복이다.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "그리고 이것은"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "그 축복"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "축복하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 자손을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "그의 죽음"
+    }
+  ],
+  "timestamp": "2026-08-05T09:03:06.350536788Z",
+  "model": "glm-5.2"
+}

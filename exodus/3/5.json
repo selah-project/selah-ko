@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨그가⟩ 말씀하셨다. “이리 가까이 오지 마라. 네 발에서 네 신을 벗으라. 네가 그 위에 서 있는 ⟨그⟩ 곳은 거룩한 땅이기 때문이다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…하지 마라"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "가까이 오"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "이리"
+    },
+    {
+      "surface": "של",
+      "gloss": "벗으라"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "네 신"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "네 발"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "그 곳"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…하는"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "서 있는"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "땅"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "…이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:46:56.740049445Z",
+  "model": "glm-5.2"
+}

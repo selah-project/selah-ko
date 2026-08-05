@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "내가 그들을 짓부순다 — 그들은 일어서지 못하고, 내 발 아래로 쓰러진다.",
+  "tokens": [
+    {
+      "surface": "אֶ֭מְחָצֵם",
+      "gloss": "내가 그들을 짓부순다"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "⟨아니하고⟩"
+    },
+    {
+      "surface": "יֻ֣כְלוּ",
+      "gloss": "그들이 능히"
+    },
+    {
+      "surface": "ק֑וּם",
+      "gloss": "일어서"
+    },
+    {
+      "surface": "יִ֝פְּל֗וּ",
+      "gloss": "그들이 쓰러진다"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "아래로"
+    },
+    {
+      "surface": "רַגְלָֽי",
+      "gloss": "내 발"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:47.726507922Z",
+  "model": "glm-5.2"
+}

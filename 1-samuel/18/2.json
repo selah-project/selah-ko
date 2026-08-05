@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그 날에 샤울이 그를 데려가, 그가 자기 아버지의 집으로 돌아가도록 허락하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "그리고 데려가"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그 날"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하였다"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "허락"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "돌아가도록"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:43.030930278Z",
+  "model": "glm-5.2"
+}

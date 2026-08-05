@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 93,
+  "translation": "물소리 많은 것보다, 바다의 부서짐의 웅장한 것보다, 높은 곳에서 ⟨계신⟩ 야훼가 ⟨더⟩ 웅장하시다.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "물소리"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "웅장한"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "부서짐의"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다의"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "웅장하시다"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "높은 곳에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:03.307937120Z",
+  "model": "glm-5.2"
+}

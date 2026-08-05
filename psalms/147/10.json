@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "말의 힘을 기뻐하지 아니하시며, 사람의 다리들을 기뻐하지 아니하신다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "…의 힘을"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "말"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "기뻐하시며"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "…의 다리들을"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "기뻐하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:34.694471999Z",
+  "model": "glm-5.2"
+}

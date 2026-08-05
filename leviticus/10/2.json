@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼 앞에서 불이 나와서 ⟨את⟩ 그들을 삼키니, 그들이 야훼 앞에서 죽었다.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "나와서"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "삼키니"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:10.751941760Z",
+  "model": "glm-5.2"
+}

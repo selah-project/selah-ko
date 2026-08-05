@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 야훼께서 ⟨את⟩ ⟨그⟩ 성과 ⟨את⟩ ⟨그⟩ 탑을 보시려고 내려오셨다 — 사람의 아들들이 건축한 것을.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "내려오셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "보시려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "성"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "탑"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "탑"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "건축한"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:31.991360624Z",
+  "model": "glm-5.2"
+}

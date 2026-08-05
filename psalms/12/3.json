@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "거짓을 사람마다 ⟨그의⟩ 이웃과 ⟨את⟩ ⟨그의⟩ 동료에게 말하며, 아첨하는 입술로, 마음과 마음으로 말하노다.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "말하노다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람마다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 동료"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "그의 동료에게"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "입술로"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "아첨하는"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "그리고 마음으로"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "말하노다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:05.973122107Z",
+  "model": "glm-5.2"
+}

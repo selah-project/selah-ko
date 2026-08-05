@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 슐로모에게는 열둘이 온 이스라엘 위에 세워진 관리들이 있었는데, 그들이 ⟨את⟩ 왕과 ⟨את⟩ 그의 집을 공급하였다 — 한 달이 일 년 중에 한 사람에게 할당되어 공급하게 되어 있었다.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "그리고 슐로모에게는"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "관리들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "공급하였는데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 집"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "한 달이"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "일 년 중에"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "할당되어 있었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 사람에게"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "공급하게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:03.527610126Z",
+  "model": "glm-5.2"
+}

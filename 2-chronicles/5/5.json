@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그들이 ⟨את⟩ 궤와 ⟨את⟩ 만남의 장막과 장막 안에 있는 모든 거룩한 기구들을 올려왔다 — 코헨 레위 사람들이 그것들을 올려왔다.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "올려왔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "궤"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "그 궤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "장막"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 기구들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "기구들을"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "거기"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "장막 안에 있는"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "올려왔다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:32:22.369035058Z",
+  "model": "glm-5.2"
+}

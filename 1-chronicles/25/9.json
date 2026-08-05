@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 25:9",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "첫째 제비가 아사프에게로 요셉에게 나왔다. 둘째는 그달야후에게로, ⟨그⟩와 그의 형제들과 그의 아들들, 열둘이었다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나왔다"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "제비가"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "아사프에게로"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "요셉에게"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "그달야후에게"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째는"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "그의 형제들과"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "열둘"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(이었다)"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:56.095050670Z",
+  "model": "glm-5.2"
+}

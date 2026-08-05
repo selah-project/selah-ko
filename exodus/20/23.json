@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "나와 함께 은의 엘로힘을 만들지 말며, 금의 엘로힘을 너희를 위하여 만들지 말라.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "말지"
+    },
+    {
+      "surface": "תַעֲשׂ֖וּן",
+      "gloss": "만들"
+    },
+    {
+      "surface": "אִתִּ֑י",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "אֱלֹהֵ֤י",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "כֶ֨סֶף֙",
+      "gloss": "은의"
+    },
+    {
+      "surface": "וֵאלֹהֵ֣י",
+      "gloss": "그리고 금의"
+    },
+    {
+      "surface": "זָהָ֔ב",
+      "gloss": "금의"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "말지"
+    },
+    {
+      "surface": "תַעֲשׂ֖וּ",
+      "gloss": "만들"
+    },
+    {
+      "surface": "לָכֶֽם",
+      "gloss": "너희를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:22.277775610Z",
+  "model": "glm-5.2"
+}

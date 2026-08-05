@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "참으로 그는 만민을 사랑하시나, 그의 모든 거룩한 자들이 당신의 손에 있고, 그들은 당신의 발 아래에 모여 앉아, 당신의 말씀들을 받는다.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "사랑하시나"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "만민을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "그의 거룩한 자들이"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "당신의 손에"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "모여 앉아"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "당신의 발 아래에"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "받는다"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "당신의 말씀들을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:03:06.350864700Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "사나이에게 좋은 것은, 그가 젊었을 때 멍에를 메는 것이다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것은"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "사나이에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "그가…메는"
+    },
+    {
+      "surface": "על",
+      "gloss": "멍에를"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "젊었을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:28.655656539Z",
+  "model": "glm-5.2"
+}

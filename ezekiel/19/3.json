@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 ⟨그⟩ 새끼들 중 하나를 올리셨다 — 젊은 사자가 되었으니, 그가 찢은 먹이를 찢기 ⟨위하여⟩ 배우고, 사람을 먹었다.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "그리고 올리셨다"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나를"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "⟨그⟩ 새끼들 중"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "젊은 사자가"
+    },
+    {
+      "surface": "היה",
+      "gloss": "되었으니"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "그가 배우고"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "찢기 ⟨위하여⟩"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "찢은 먹이를"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹었다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:38:53.006581322Z",
+  "model": "glm-5.2"
+}

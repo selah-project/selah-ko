@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "엘아사가 ⟨את⟩ 시스마이를 낳았고, 시스마이가 ⟨את⟩ 샬룸을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "엘아사가"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "시스마이를"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "시스마이를"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "시스마이가"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샬룸을"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬룸을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:24.858580738Z",
+  "model": "glm-5.2"
+}

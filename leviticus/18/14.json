@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "네 아버지 형제의 벌거벗음을 드러내지 말라. 그의 아내에게 가까이하지 말라. 그는 네 고모이다.",
+  "tokens": [
+    {
+      "surface": "עֶרְוַ֥ת",
+      "gloss": "벌거벗음"
+    },
+    {
+      "surface": "אֲחִֽי",
+      "gloss": "형제"
+    },
+    {
+      "surface": "אָבִ֖יךָ",
+      "gloss": "네 아버지"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תְגַלֵּ֑ה",
+      "gloss": "드러내지"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אִשְׁתּוֹ֙",
+      "gloss": "그의 아내"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תִקְרָ֔ב",
+      "gloss": "가까이하지"
+    },
+    {
+      "surface": "דֹּדָֽתְךָ֖",
+      "gloss": "네 고모"
+    },
+    {
+      "surface": "הִֽוא",
+      "gloss": "그이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:23.307490011Z",
+  "model": "glm-5.2"
+}

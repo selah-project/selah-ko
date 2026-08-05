@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그들의 거처는 메샤에서부터, 세파르라는, 동쪽의 산 ⟨쪽으로⟩ 이르렀다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨그것이⟩ …이었다"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "그들의 거처는"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "메샤에서부터"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "…쪽으로 ⟨이르는⟩"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "세파르라는"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "동쪽의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:37.516943606Z",
+  "model": "glm-5.2"
+}

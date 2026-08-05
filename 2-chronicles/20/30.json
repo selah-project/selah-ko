@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 20:30",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리하여 여호샤팟의 왕국이 평안하였다 — 그의 엘로힘께서 그에게 사면에서 쉼을 주셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ותשקט",
+      "gloss": "그리하여 평안하였다"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "왕국이"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "여호샤팟의"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "쉼을 주셨기 때문이다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "그의 엘로힘께서"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "사면에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:30.127953329Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 108,
+  "translation": "내 마음이 준비되었나이다, 엘로힘이시여, 내가 노래하며, 또한 ⟨내가⟩ 현악을 타리이다, 곧 ⟨내⟩ 영광도 ⟨함께⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "준비되었나이다"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "내가 노래하며"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "또한 ⟨내가⟩ 현악을 타리이다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "곧"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "⟨내⟩ 영광도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:27.187775318Z",
+  "model": "glm-5.2"
+}

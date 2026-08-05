@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "두려움과 떨림이 나에게 임하고, 공포가 나를 덮었으니",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "두려움이"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "그리고 떨림이"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "임하고"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "덮었으니"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "공포가"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:00.780720781Z",
+  "model": "glm-5.2"
+}

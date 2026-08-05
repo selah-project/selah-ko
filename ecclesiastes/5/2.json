@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "것은 꿈이 많은 근심에서 오듯, 미련한 자의 목소리도 많은 말에서 오기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "것은…때문이다"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오듯"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "꿈이"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "많은…에서"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "근심"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "…목소리도"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "미련한 자의"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "많은…에서"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "말"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:58.682604594Z",
+  "model": "glm-5.2"
+}

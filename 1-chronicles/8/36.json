@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 아하즈는 ⟨את⟩ 여호아다를 낳았고, 여호아다는 ⟨את⟩ 알레멧과 ⟨את⟩ 아즈마벳과 ⟨את⟩ 지므리를 낳았고, 지므리는 ⟨את⟩ 모차를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "그리고 아하즈는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여호아다를"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "여호아다"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "그리고 여호아다는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "알레멧을"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "알레멧"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아즈마벳을"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "아즈마벳"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "지므리를"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "지므리"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "그리고 지므리는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모차를"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "모차"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:45.749707620Z",
+  "model": "glm-5.2"
+}

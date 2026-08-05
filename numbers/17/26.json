@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "모셰가 행하였다. 야훼께서 ⟨그에게⟩ 명하신 대로, 그같이 행하였다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그에게"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:38:36.679539431Z",
+  "model": "glm-5.2"
+}

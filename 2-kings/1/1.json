@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "모아브가 이스라엘에 반역하였다 — 아하브의 죽음 뒤에.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "반역하였다"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브가"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:14:36.831270616Z",
+  "model": "glm-5.2"
+}

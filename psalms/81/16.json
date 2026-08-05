@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 81,
+  "translation": "야훼를 미워하는 자들이 ⟨그에게⟩ 거짓으로 복종하고, 그들의 때가 영원하였으리라.",
+  "tokens": [
+    {
+      "surface": "מְשַׂנְאֵ֣י",
+      "gloss": "미워하는 자들이"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "יְכַֽחֲשׁוּ",
+      "gloss": "거짓으로 복종하고"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "וִיהִ֖י",
+      "gloss": "있었으리라"
+    },
+    {
+      "surface": "עִתָּ֣ם",
+      "gloss": "그들의 때가"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:10.416965451Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "이들이 첫째 달에 ⟨את⟩ 요르단을 건넌 자들인데, 그 강이 모든 둑에 가득 차 있었으며, 그들이 ⟨את⟩ 모든 골짜기들을 동쪽으로와 서쪽으로 도망하게 하였다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인 자들"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "건넌"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요르단을"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "달에"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 그것은"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "가득 차 있었으며"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "둑에"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "도망하게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 골짜기들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "골짜기들을"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "동쪽으로"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "서쪽으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:23.470865851Z",
+  "model": "glm-5.2"
+}

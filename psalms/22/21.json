@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "칼에서 ⟨나의⟩ 네페쉬를 건져 내소서. 개의 손에서 ⟨나의⟩ 유일한 것을.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "건져 내소서"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "칼에서"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨나의⟩ 네페쉬를"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "개의"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "⟨나의⟩ 유일한 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:03.759543284Z",
+  "model": "glm-5.2"
+}

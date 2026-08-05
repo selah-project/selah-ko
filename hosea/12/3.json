@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 야훼께 ⟨└⟩ 예후다와 ⟨함께⟩ 다투심이 있고, 야아코브를 그의 길들에 따라 찾아 벌하시리니, 그의 행위들에 따라 그에게 갚으심이라.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "그리고 다투심이"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨함께⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다"
+    },
+    {
+      "surface": "ולפק드",
+      "gloss": "그리고 찾아 벌하시리니"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨└⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야아코브를"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "그의 길들에 따라"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "그의 행위들에 따라"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "갚으심이라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T18:23:59.772828304Z",
+  "model": "glm-5.2"
+}

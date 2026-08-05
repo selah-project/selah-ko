@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "\"나는 ⟨את⟩ 이스라엘 아들들의 불평을 들었다. 그들에게 말하여 이르기를, '너희는 해 질 때에 고기를 먹고, 아침에는 떡으로 배부르게 되리라. 그리하여 너희는 내가 너희의 엘로힘 야훼인 줄 알게 되리라.' 하여라.\"",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 아들들의 불평을"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "불평을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "해 질"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "고기를"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "아침에는"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "배부르게 되리라"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡으로"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "알게 되리라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼인"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희의 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:45.990832787Z",
+  "model": "glm-5.2"
+}

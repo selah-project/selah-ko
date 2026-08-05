@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"보라, 내가 너를 파르오에게 엘로힘으로 세웠고, 네 형 아하론은 네 나비가 될 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "내가 너를 세웠다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "파르오에게"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "그리고 아하론은"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "네 나비"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:12.346527827Z",
+  "model": "glm-5.2"
+}

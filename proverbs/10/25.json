@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "회오리바람이 지나감 같아서 악인은 ⟨없고⟩, 의인은 영원한 기초이다.",
+  "tokens": [
+    {
+      "surface": "כַּעֲב֣וֹר",
+      "gloss": "지나감 같아서"
+    },
+    {
+      "surface": "ס֭וּפָה",
+      "gloss": "회오리바람이"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "⟨없고⟩"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "악인은"
+    },
+    {
+      "surface": "וְ֝צַדִּ֗יק",
+      "gloss": "의인은"
+    },
+    {
+      "surface": "יְס֣וֹד",
+      "gloss": "기초이다"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "영원한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:06.467495607Z",
+  "model": "glm-5.2"
+}

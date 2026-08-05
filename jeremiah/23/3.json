@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 23:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 내가 ⟨아트⟩ 내 양 떼의 남은 자를, ⟨아트⟩ 내가 그들을 몰아낸 모든 땅들에서 거기에서 거두어들이고, 그것들을 그들의 거처로 돌려보내리니, 그것들은 열매를 맺고 번성하리라.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "거두어들이리다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "남은 자"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "남은 자"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "내 양 떼의"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "에서 모든"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "땅들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הדחתי",
+      "gloss": "내가 몰아낸"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "거기에서"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에서"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "그리고 돌려보내리니"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "על",
+      "gloss": "으로"
+    },
+    {
+      "surface": "נוהן",
+      "gloss": "그들의 거처"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "그리고 열매를 맺고"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "그리고 번성하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:16.471080898Z",
+  "model": "glm-5.2"
+}

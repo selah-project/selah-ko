@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그들이 엘로힘의 ⟨את⟩ 언약궤를 새 수레에 싣고 아비나답의 집에서부터 메어 오니, 웃사와 아효가 그 수레를 몰았다.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "그들이 싣고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "언약궤를"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "언약궤"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "수레"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "새"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "집에서부터"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "아비나답의"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "웃사와"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "아효"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "몰았다"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "수레를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:06.001671010Z",
+  "model": "glm-5.2"
+}

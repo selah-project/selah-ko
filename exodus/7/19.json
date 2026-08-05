@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 7:19",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "야훼께서 모셰에게 말씀하셨다. “아하론에게 말하라 — 네 지팡이를 들고, 네 손을 미츠라임의 물 위에, 그들의 강들 위에, 그들의 수로들 위에, 그들의 못들 위에, 그리고 그들의 모든 물 웅덩이 위에 펴라. 그것들이 피가 될 것이다. 미츠라임 온 땅에, 나무 그릇들에도, 돌 그릇들에도 피가 있을 것이다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "קח",
+      "gloss": "들고"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "네 지팡이를"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "펴라"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "물"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "נהרתם",
+      "gloss": "그들의 강들"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "그들의 수로들"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "אגמיהם",
+      "gloss": "그들의 못들"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "물 웅덩이"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "그들의 물"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "그것들이 될 것이다"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피가"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피가"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ובעצים",
+      "gloss": "나무 그릇들에도"
+    },
+    {
+      "surface": "ובאבנים",
+      "gloss": "돌 그릇들에도"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:37.625605568Z",
+  "model": "glm-5.2"
+}

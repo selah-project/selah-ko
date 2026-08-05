@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "문지기들이 부르짖었고, 그들이 왕의 집 안쪽에 알렸다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그가 부르짖었다"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "문지기들이"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "그들이 알렸다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "안쪽으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:56.516053736Z",
+  "model": "glm-5.2"
+}

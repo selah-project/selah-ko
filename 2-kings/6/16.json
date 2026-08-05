@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그가 ⟨말하기를⟩ 두려워하지 말라, 우리와 함께 하는 자들이 그들과 함께 하는 자들보다 많음이라 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 ⟨말하기를⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…지"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "두려워"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…니까"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많음이라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…는"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "우리와 함께"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "…보다"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "그들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:54.238994420Z",
+  "model": "glm-5.2"
+}

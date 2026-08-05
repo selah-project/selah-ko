@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그러면 ⟨את⟩ 너희를 모든 민족들이 행복하다 하리니, 이는 너희가 기쁨의 땅이 될 것임이라 ── 만군의 야훼가 말씀하신다.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "행복하다 하리니"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "너희가 될 것임이라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "기쁨의"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:18.732695384Z",
+  "model": "glm-5.2"
+}

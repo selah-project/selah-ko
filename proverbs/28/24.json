@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "자기 아버지와 어머니를 약탈하는 자, 그리고 말하는 자 — '범죄가 아니다' — 그는 파괴하는 사람의 동료이다.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "약탈하는 자"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지를"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "그리고 어머니를"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 말하는 자"
+    },
+    {
+      "surface": "אין",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "범죄"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "동료"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "이다"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "…하는 사람의"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "파괴하는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:48.012756507Z",
+  "model": "glm-5.2"
+}

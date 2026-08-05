@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "그리고 츠르의 딸이 ⟨그⟩ 민바로 ⟨그대⟩의 얼굴을 구하리니, 백성의 부자들이다.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "그리고 딸이"
+    },
+    {
+      "surface": "צר",
+      "gloss": "츠르의"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "민바로"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "구하리니"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "부자들이다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:04.205249262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "너희는 스스로 거룩하게 구별하고, 거룩한 자들이 되어라. 나는 너희의 엘로힘 야훼이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "스스로 거룩하게 구별하고"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "되어라"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩한 자들이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희의 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:40.788542886Z",
+  "model": "glm-5.2"
+}

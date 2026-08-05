@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "너의 장로들과 너의 판관들이 나가서, 그 시체를 둘러싼 주변의 도시들을 향하여 ⟨거리를⟩ 재고,",
+  "tokens": [
+    {
+      "surface": "וְיָצְא֥וּ",
+      "gloss": "나가서"
+    },
+    {
+      "surface": "זְקֵנֶ֖יךָ",
+      "gloss": "너의 장로들이"
+    },
+    {
+      "surface": "וְשֹׁפְטֶ֑יךָ",
+      "gloss": "너의 판관들이"
+    },
+    {
+      "surface": "וּמָדְדוּ֙",
+      "gloss": "재고"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "הֶ֣עָרִ֔ים",
+      "gloss": "도시들을"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "סְבִיבֹ֥ת",
+      "gloss": "주변의"
+    },
+    {
+      "surface": "הֶחָלָֽל",
+      "gloss": "그 시체를 둘러싼"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:46.801358065Z",
+  "model": "glm-5.2"
+}

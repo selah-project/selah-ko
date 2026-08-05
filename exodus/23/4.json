@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "네가 네 원수의 소나 그의 나귀가 길 잃은 것을 만나면, 반드시 그에게 돌려보내야 한다.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "…면"
+    },
+    {
+      "surface": "תִפְגַּ֞ע",
+      "gloss": "만나면"
+    },
+    {
+      "surface": "שׁ֧וֹר",
+      "gloss": "소를"
+    },
+    {
+      "surface": "אֹֽיִבְךָ֛",
+      "gloss": "네 원수의"
+    },
+    {
+      "surface": "א֥וֹ",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "חֲמֹר֖וֹ",
+      "gloss": "그의 나귀를"
+    },
+    {
+      "surface": "תֹּעֶ֑ה",
+      "gloss": "길 잃은"
+    },
+    {
+      "surface": "הָשֵׁ֥ב",
+      "gloss": "반드시 돌려보내"
+    },
+    {
+      "surface": "תְּשִׁיבֶ֖נּוּ",
+      "gloss": "돌려보내야 한다"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:22.266129106Z",
+  "model": "glm-5.2"
+}

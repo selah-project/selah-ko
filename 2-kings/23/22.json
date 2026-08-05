@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "이런 페사흐는 이스라엘을 재판한 사사들의 날들로부터, 그리고 이스라엘 왕들의 모든 날들과 유다 왕들의 날들 동안에 행해진 적이 없었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "행해진 적이"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "이런 페사흐 같은"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "낮들로부터"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "사사들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "재판한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날들 동안"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "그리고 왕들의"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:05:30.163639222Z",
+  "model": "glm-5.2"
+}

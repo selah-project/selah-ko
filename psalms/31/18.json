@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "야훼여, 부끄러움을 당하지 말게 하소서, 제가 주를 불렀음이니이다. 악인들은 부끄러움을 당하며, 셰올에서 잠잠하게 하소서.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말게 하소서"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "부끄러움을 당하지"
+    },
+    {
+      "surface": "כי",
+      "gloss": " because"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "제가 주를 불렀음이니이다"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "부끄러움을 당하며"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들은"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "잠잠하게 하소서"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "셰올에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:38.717163Z",
+  "model": "glm-5.2"
+}

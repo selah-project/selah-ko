@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그가 말하였다. \"나를 보내라, 새벽이 떠올랐기 때문이다.\" 그가 말하였다. \"나를 축복하지 아니하면 보내지 않겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "나를 보내라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "떠올랐기"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "새벽이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "보내지 않겠습니다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨그렇다면⟩"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "축복하지"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:02.846273359Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "화상은 화상을, 상처는 상처를, 타박상은 타박상을 ⟨대신하여⟩.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "화상은"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신하여"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "화상을"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "상처는"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신하여"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "상처를"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "타박상은"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신하여"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "타박상을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:51.278072444Z",
+  "model": "glm-5.2"
+}

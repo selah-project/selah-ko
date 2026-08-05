@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 샤마이의 아들은 마온이며, 마온은 벳-추르의 아비이다.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "그리고 …의 아들"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "샤마이"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "마온"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "그리고 마온은"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아비"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "추르"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:52.478691626Z",
+  "model": "glm-5.2"
+}

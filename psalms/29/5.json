@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야훼의 소리가 백향목을 꺾으시나니, 야훼께서 레바논의 백향목들을 ⟨את⟩ 꺾으셨다.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "꺾으시나니"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "백향목을"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "꺾으셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백향목들을"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "백향목들을"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "레바논의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:07.935721234Z",
+  "model": "glm-5.2"
+}

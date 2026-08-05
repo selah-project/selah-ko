@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "정직한 자들의 축복으로 ⟨그⟩ 성읍이 높아지고, 악인들의 입으로 ⟨그것이⟩ 무너지리라.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "축복으로"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "정직한 자들의"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "높아지고"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "성읍이"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "그리고 입으로"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "무너지리라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:52.236331411Z",
+  "model": "glm-5.2"
+}

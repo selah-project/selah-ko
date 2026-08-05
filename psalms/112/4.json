@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 112,
+  "translation": "곧은 자들에게 빛이 어둠에 떠올랐도다 — 은혜로우신 분, 자비로우신 분, 의로우신 분.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "떠올랐도다"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "어둠에"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛이"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "곧은 자들에게"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "은혜로우신 분"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "자비로우신 분"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "의로우신 분"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:33.312794492Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 130,
+  "translation": "올라가는 노래. 깊은 곳들에서부터 야훼, ⟨당신을⟩ 불렀습니다.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는 것들"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "깊은 곳들에서부터"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "불렀습니다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:14.565312398Z",
+  "model": "glm-5.2"
+}

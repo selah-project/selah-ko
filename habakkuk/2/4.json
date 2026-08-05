@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "보라, 그의 네페쉬는 그 안에서 부풀어 올라 곧지 않다. 그러나 의인은 그의 에무나로 살리라.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "부풀어 올라"
+    },
+    {
+      "surface": "לא",
+      "gloss": "~아니다"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "곧지"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "그의 네페쉬는"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에서"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "그러나 의인은"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "그의 에무나로"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "살리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:23.541451848Z",
+  "model": "glm-5.2"
+}

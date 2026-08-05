@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "“일어나, 저 큰 성읍 니느웨로 가서, 내가 네게 명하는 ⟨그⟩ 선포를 그것에 ⟨את⟩ 선포하여라.”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "니느웨"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "큰"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "선포하여라"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "선포를"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "선포를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—하는"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "명하는"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:57.062887470Z",
+  "model": "glm-5.2"
+}

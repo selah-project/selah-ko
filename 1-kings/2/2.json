@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "나는 온 땅의 길을 가니, 그대는 힘을 내어 남자가 되어라.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "가니"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "힘을 내어"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "되어라"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "남자가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:45:42.117752688Z",
+  "model": "glm-5.2"
+}

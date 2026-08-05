@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그들이 ⟨את⟩ 리브카 — 그들의 누이 — 와 ⟨את⟩ 그녀의 유모와 ⟨את⟩ 아브라함의 종과 ⟨את⟩ 그의 사람들을 보내었다.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "그들이 보내었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "리브카"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "리브카"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "그들의 누이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 유모"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "그녀의 유모"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "종"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 사람들"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "그의 사람들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:29.904724914Z",
+  "model": "glm-5.2"
+}

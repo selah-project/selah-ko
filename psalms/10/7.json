@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그의 입은 저주와 속임과 압박으로 가득하니, 그의 혀 아래에는 고통과 불법이 ⟨있도다⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "저주"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "그의 입은"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "가득하니"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "와 속임"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "과 압박"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에는"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "그의 혀"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "고통"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "과 불법이"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:43.167367169Z",
+  "model": "glm-5.2"
+}

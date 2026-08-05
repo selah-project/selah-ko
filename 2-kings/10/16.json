@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그가 말하였다. \"나와 함께 가서, 나의 야훼를 향한 열심을 보아라.\" 그리하여 그들이 그를 그의 병거에 태웠다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "가서"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "보아라"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "나의 열심을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 향한"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "태웠다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "그의 병거에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:25.677066974Z",
+  "model": "glm-5.2"
+}

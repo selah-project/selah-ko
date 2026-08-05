@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "조금, 수면; 조금, 졸음; 조금, 팔짱을 끼고 누우려,",
+  "tokens": [
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "שֵׁ֭נוֹת",
+      "gloss": "수면"
+    },
+    {
+      "surface": "מְעַ֣ט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "תְּנוּמ֑וֹת",
+      "gloss": "졸음"
+    },
+    {
+      "surface": "מְעַ֓ט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "חִבֻּ֖ק",
+      "gloss": "팔짱을 끼고"
+    },
+    {
+      "surface": "יָדַ֣יִם",
+      "gloss": "손"
+    },
+    {
+      "surface": "לִשְׁכָּֽב",
+      "gloss": "누우려"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:50.943272914Z",
+  "model": "glm-5.2"
+}

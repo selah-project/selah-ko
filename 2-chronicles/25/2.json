@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그가 야훼의 눈에 바른 것을 행하였으나, 온전한 마음으로는 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가 … 행하였으나"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "바른 것"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…의 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "רק",
+      "gloss": "그러나 다만"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "온전한"
+    }
+  ],
+  "timestamp": "2026-08-05T13:00:20.938279142Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 51:39",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "그들이 뜨거울 때 내가 ⟨את⟩ 그들의 잔치를 차리고, 그들을 취하게 하여, 그들이 뛰놀고 영원한 잠을 자며 깨어나지 못하게 하겠다 — 야훼의 선언이시다.",
+  "tokens": [
+    {
+      "surface": "בחמם",
+      "gloss": "그들이 뜨거울 때"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "내가 …차리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 잔치를"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "그들의 잔치를"
+    },
+    {
+      "surface": "והשכרתים",
+      "gloss": "그리고 그들을 취하게 하여"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…하게 하여"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "그들이 뛰놀고"
+    },
+    {
+      "surface": "וישנו",
+      "gloss": "그리고 …자며"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "잠을"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "깨어나지 못하게 하겠다"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "…의 선언"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T10:45:58.392218226Z",
+  "model": "glm-5.2"
+}

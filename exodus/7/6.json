@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 모셰와 아하론이 행하였다. 야훼가 그들에게 ⟨את⟩ 그들을 명하신 대로, 그같이 그들은 행하였다.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "그리고 …행하였다"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "וְאַהֲרֹ֑ן",
+      "gloss": "그리고 아하론이"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֨ר",
+      "gloss": "…대로"
+    },
+    {
+      "surface": "צִוָּ֧ה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "עָשֽׂוּ",
+      "gloss": "행하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:11.927897943Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "맛없는 것이 소금 없이 먹힐 수 있는가? 류기의 즙에 맛이 있는가?",
+  "tokens": [
+    {
+      "surface": "הֲיֵאָכֵ֣ל",
+      "gloss": "먹힐 수 있는가"
+    },
+    {
+      "surface": "תָּ֭פֵל",
+      "gloss": "맛없는 것이"
+    },
+    {
+      "surface": "מִבְּלִי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "מֶ֑לַח",
+      "gloss": "소금"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "이나"
+    },
+    {
+      "surface": "יֶשׁ",
+      "gloss": "있는가"
+    },
+    {
+      "surface": "טַ֝עַם",
+      "gloss": "맛이"
+    },
+    {
+      "surface": "בְּרִ֣יר",
+      "gloss": "즙에"
+    },
+    {
+      "surface": "חַלָּמֽוּת",
+      "gloss": "류기의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:20.428470926Z",
+  "model": "glm-5.2"
+}

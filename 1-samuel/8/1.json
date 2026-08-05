@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그 일이 있었다. 샤무엘이 늙었을 때, 그가 ⟨את⟩ 자기 아들들을 이스라엘의 판관들로 세웠다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 그 일이 있었다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "때"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "늙었을"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘이"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "그가 세웠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아들들을"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "자기 아들들을"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "판관들로"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:35.008471243Z",
+  "model": "glm-5.2"
+}

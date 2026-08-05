@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "라헬이 ⟨את⟩ 요셉을 낳았을 때, 야곱이 라반에게 말하였다. \"나를 보내 주십시오. 그리하면 내 곳으로, 내 땅으로 가겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "때에"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았을"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉을"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반에게"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "나를 보내 주십시오"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "가겠습니다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "내 곳으로"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "내 땅으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:07.710041676Z",
+  "model": "glm-5.2"
+}

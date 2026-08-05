@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "이에 샤울과 그의 세 아들과 그의 온 집안이 함께 죽었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "셋이"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집안이"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:33.804637151Z",
+  "model": "glm-5.2"
+}

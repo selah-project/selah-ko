@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 예후다의 덮개를 드러내셨으니, 네가 그 날에 숲의 집 무기들을 바라보았다.",
+  "tokens": [
+    {
+      "surface": "וַיְגַ֕ל",
+      "gloss": "드러내셨으니"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "예후다의 덮개를"
+    },
+    {
+      "surface": "מָסַ֣ךְ",
+      "gloss": "덮개를"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "예후다의"
+    },
+    {
+      "surface": "וַתַּבֵּט֙",
+      "gloss": "바라보았다"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הַה֔וּא",
+      "gloss": "그"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "을"
+    },
+    {
+      "surface": "נֶ֖שֶׁק",
+      "gloss": "무기들을"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הַיָּֽעַר",
+      "gloss": "숲의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:21.529190450Z",
+  "model": "glm-5.2"
+}

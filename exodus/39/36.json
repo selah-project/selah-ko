@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "⟨את⟩ 상과, ⟨את⟩ 그 모든 기구들과, ⟨את⟩ 면전의 떡을.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "상을"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "상"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "그 기구들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "떡을"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "면전의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:20.782962888Z",
+  "model": "glm-5.2"
+}

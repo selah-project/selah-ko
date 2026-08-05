@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 내가 너를 에워싸고 원형으로 진을 치리니, 너를 향해 진지를 배치하고, 너를 향해 공성벽을 세우리라.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "그리고 내가 진을 치리니"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "원형으로"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "너를"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "그리고 내가 포위하며"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "너를 향해"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "진지를"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "그리고 내가 세우리라"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "너를 향해"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "공성벽을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:26.714271260Z",
+  "model": "glm-5.2"
+}

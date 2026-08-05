@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 96,
+  "translation": "야훼께 새 노래를 노래하라, 온 땅아, 야훼께 노래하라.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래를"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "새"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅아"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:17.378401067Z",
+  "model": "glm-5.2"
+}

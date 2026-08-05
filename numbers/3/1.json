@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이것들이 아하론과 모셰의 계보이다 — 야훼께서 시나이 산에서 ⟨את⟩ 모셰와 말씀하시던 날에.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "이것들은"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "계보"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론의"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "그리고 모셰의"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "～하는 날에"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰를"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "～산에서"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "시나이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:53.629965206Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨את⟩ 백성의 코르반을 가까이 가져왔고, 그리고 ⟨את⟩ 백성의 것인 하타트 숫염소를 취하여 그것을 잡았고, 그것을 하타트로 드렸으니 첫째 것 같았다.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "가까이 가져오셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "코르반"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "코르반을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "취하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "숫염소"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "숫염소를"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "하타트의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것인"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "잡으셨다"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "하타트로 드리셨다"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "첫째 것과 같이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:34.099784078Z",
+  "model": "glm-5.2"
+}

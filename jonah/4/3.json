@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그러면 이제 야훼여, 부디 ⟨את⟩ 제 네페쉬를 제게서 거두어 주소니, 이는 제 죽음이 제 삶보다 낫기입니다.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그러면 이제"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "קח",
+      "gloss": "거두어 주소니"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제 네페쉬를"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "제 네페쉬"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "제게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "낫기"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "제 죽음이"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "제 삶보다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:07.091036443Z",
+  "model": "glm-5.2"
+}

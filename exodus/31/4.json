@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "“고안들을 고안하도록, 금과 은과 놋으로 만들도록.”",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "고안하도록"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "고안들을"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "만들도록"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "그리고 은"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "그리고 놋으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:05.567855843Z",
+  "model": "glm-5.2"
+}

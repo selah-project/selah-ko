@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그녀가 타작마당으로 내려가서, ⟨그녀의⟩ 시어머니가 명령한 모든 것대로 하였다.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "그녀가 내려가서"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "타작마당으로"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "그녀가 하였다"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것대로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "명령한"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "⟨그녀의⟩ 시어머니가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:20.233376670Z",
+  "model": "glm-5.2"
+}

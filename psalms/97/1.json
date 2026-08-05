@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 97,
+  "translation": "야훼께서 왕으로 통치하신다. 땅은 기뻐하여라. 많은 섬들이 기뻐하리라.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "통치하신다"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "기뻐하여라"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅은"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "기뻐하리라"
+    },
+    {
+      "surface": "איים",
+      "gloss": "섬들이"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:22.760124232Z",
+  "model": "glm-5.2"
+}

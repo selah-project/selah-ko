@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "으르렁거리는 사자와 ⟨냄새를⟩ 쫓는 곰 같으니, 가난한 백성 위에 다스리는 악인은.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "사자"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "으르렁거리는"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "그리고 곰"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "쫓는"
+    },
+    {
+      "surface": "משל",
+      "gloss": "다스리는"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "דל",
+      "gloss": "가난한"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:02.495668607Z",
+  "model": "glm-5.2"
+}

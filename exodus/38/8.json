@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 그는 ⟨את⟩ 놋 대야와 ⟨את⟩ 그것의 놋 받침을 만들었다 — 만남의 장막 입구에서 봉사하던 봉사하는 여인들의 거울들로.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "놋 대야를"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "대야를"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "놋"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 받침을"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "그것의 받침을"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "놋"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "거울들로"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "봉사하는 여인들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "봉사하던"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구에서"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:31.967221776Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 122,
+  "translation": "네 성벽 안에 샬롬이, 네 궁궐 안에 평온이 있기를.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "있기를"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "네 성벽 안에"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "평온이"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "네 궁궐 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:51.236870411Z",
+  "model": "glm-5.2"
+}

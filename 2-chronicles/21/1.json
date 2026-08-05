@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 예호샤팟이 ⟨그의⟩ 조상들과 함께 누웠고, ⟨그는⟩ ⟨그의⟩ 조상들과 함께 다윗의 성에 묻혔으며, ⟨그의⟩ 아들 여호람이 ⟨그를⟩ 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "누웠고"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "예호샤팟이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "조상들"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "묻혔으며"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "조상들"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성에"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "여호람이"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "아들"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:04.446174161Z",
+  "model": "glm-5.2"
+}

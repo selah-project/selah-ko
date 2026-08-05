@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 샤판이 ⟨את⟩ 그 두루마리를 임금에게 가져갔다. 그리고 임금에게 다시 말씀을 올렸다. 이르기를, \"당신의 종들 손에 맡겨진 모든 것, 그들이 그것을 하고 있습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 가져갔다"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "샤판"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 두루마리를"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "그 두루마리"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "임금"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그리고 다시 가져왔다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "임금에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "임금"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "맡겨진"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…손에"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "당신의 종들"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "하고 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:03:40.119406534Z",
+  "model": "glm-5.2"
+}

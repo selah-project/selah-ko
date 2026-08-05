@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "너는 말하였다 — '아, 이제 내게 화가 있으리라, 야훼께서 내 슬픔 위에 슬픔을 더하셨으니! 나는 내 탄식으로 지쳤고, 안식을 찾지 못하였다.'",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "너는 말하였다"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "더하셨으니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "슬픔"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "내 고통"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "지쳤다"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "내 탄식으로"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "그리고 안식을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "찾지 못하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:42:22.215352576Z",
+  "model": "glm-5.2"
+}

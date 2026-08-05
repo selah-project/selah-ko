@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그의 입의 말들은 허무와 속임이요, 슬기롭게 됨과 선을 행함을 그쳤다.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "말들은"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "그의 입의"
+    },
+    {
+      "surface": "און",
+      "gloss": "허무와"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "속임이요"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "그쳤다"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "슬기롭게 됨을"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "선을 행함을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:00.378521745Z",
+  "model": "glm-5.2"
+}

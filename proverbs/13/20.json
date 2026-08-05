@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "지혜로운 자들과 ⟨함께⟩ ⟨את⟩ 동행하는 자는 지혜로워지나, 미련한 자들의 동료는 해를 입는다.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "동행하는 자는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "지혜로운 자들"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "지혜로운 자들"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "지혜로워지나"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "동료는"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "미련한 자들의"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "해를 입는다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:20.534519437Z",
+  "model": "glm-5.2"
+}

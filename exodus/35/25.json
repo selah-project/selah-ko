@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그리고 마음이 지혜로운 모든 여인은 제 손으로 실을 뽑아, 그 뽑은 것을 가져왔다 — ⟨את⟩ 청색 실과 ⟨את⟩ 자주색 실, ⟨את⟩ 주홍색 실과 ⟨את⟩ 가는 아마 실을.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인은"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "제 손으로"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "실을 뽑아"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "그리고 가져왔다"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "그 뽑은 것을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "청색 실을"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "청색 실과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "자주색 실을"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "자주색 실,"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "주홍색 실을"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "주홍색"
+    },
+    {
+      "surface": "השני",
+      "gloss": "실과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "가는 아마 실을"
+    },
+    {
+      "surface": "השש",
+      "gloss": "가는 아마 실을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:16.109404062Z",
+  "model": "glm-5.2"
+}

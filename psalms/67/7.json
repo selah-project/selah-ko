@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 67,
+  "translation": "땅이 그 소산을 내었도다. 엘로힘, 우리 엘로힘이 우리를 복 주시리로다.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "내었도다"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "그 소산을"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "복 주시리로다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:23.559451341Z",
+  "model": "glm-5.2"
+}

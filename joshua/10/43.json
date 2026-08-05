@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 10:43",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "여호수아가, 그리고 온 이스라엘이 그와 함께, 진영 길갈로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "길갈"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:39.684771888Z",
+  "model": "glm-5.2"
+}

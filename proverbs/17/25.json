@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "어리석은 아들은 ⟨그의⟩ 아비에게 근심이요, ⟨그를⟩ 낳은 ⟨어미⟩에게는 괴로움이다.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "근심"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "⟨그의⟩ 아비에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들은"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "어리석은"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "괴로움이다"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "⟨그를⟩ 낳은 ⟨어미⟩에게는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:27.115641862Z",
+  "model": "glm-5.2"
+}

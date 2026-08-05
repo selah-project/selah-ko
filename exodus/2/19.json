@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그들이 말하기를 “한 사람, 미츠라임 사람이 우리를 목자들의 손에서 건져내셨고, 또한 우리를 위하여 물을 충분히 길어 옮기시고 ⟨את⟩ 양 떼에게 물을 마시게 하셨다” 하였다.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "그들이 말하기를"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "미츠라임 사람이"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "우리를 건져내셨고"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "목자들의"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "길어"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "옮기시고"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위하여"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "물을 마시게 하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "양 떼"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼"
+    }
+  ],
+  "timestamp": "2026-08-05T17:09:57.197008199Z",
+  "model": "glm-5.2"
+}

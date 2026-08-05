@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "어둠 속에서 집들을 뚫어 들어간다 — 낮에 그들은 그것들을 자기 위하여 표시하였다. 그들은 빛을 알지 못한다.",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "뚫어 들어간다"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "어둠 속에서"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "집들을"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "낮에"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "표시하였다"
+    },
+    {
+      "surface": "למו",
+      "gloss": "자기 위하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "알지 못한다"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:07:54.003158065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "늑대가 어린 양과 함께 거하고, 표범이 새끼 염소와 함께 누우며, 송아지와 젊은 사자와 살찐 짐승이 함께 하리니, 작은 아이가 ⟨그것들⟩을 이끌 것이다.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "거하고"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "늑대가"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "어린 양"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "표범이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "새끼 염소"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "누우며"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "송아지와"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "젊은 사자와"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "살찐 짐승이"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께 하리니"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "아이가"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "작은"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "이끌 것이다"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그것들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:49.552406826Z",
+  "model": "glm-5.2"
+}

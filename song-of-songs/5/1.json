@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 5:1",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "나는 내 동산에 들어왔다, 나의 누이여, 나의 신부여. 나는 나의 몰과 함께 나의 향료를 따고, 나의 꿀집과 함께 나의 꿀을 먹고, 나의 포도주와 함께 나의 젖을 마셨다. 먹으라, 벗들아, 마시라, 그리고 사랑하는 자들아, 취하라.",
+  "tokens": [
+    {
+      "surface": "באתי",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "לגני",
+      "gloss": "내 동산에"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "나의 누이여"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "나의 신부여"
+    },
+    {
+      "surface": "אריתי",
+      "gloss": "따고"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "나의 몰을"
+    },
+    {
+      "surface": "עם",
+      "gloss": "～와 함께"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "나의 향료를"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "יערי",
+      "gloss": "나의 꿀집을"
+    },
+    {
+      "surface": "עם",
+      "gloss": "～와 함께"
+    },
+    {
+      "surface": "דבשי",
+      "gloss": "나의 꿀을"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "마셨다"
+    },
+    {
+      "surface": "ייני",
+      "gloss": "나의 포도주를"
+    },
+    {
+      "surface": "עם",
+      "gloss": "～와 함께"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "나의 젖을"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "먹으라"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "벗들아"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "마시라"
+    },
+    {
+      "surface": "ושכרו",
+      "gloss": "그리고 취하라"
+    },
+    {
+      "surface": "דודים",
+      "gloss": "사랑하는 자들아"
+    }
+  ],
+  "timestamp": "2026-08-05T12:14:16.211642626Z",
+  "model": "glm-5.2"
+}

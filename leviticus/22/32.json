@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 너희는 내 거룩한 이름을 욕되게 하지 말아라 — 나는 이스라엘 자손들 가운데서 거룩하게 여김을 받는다. 나는 너희를 거룩하게 하는 야훼이다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~말아라"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "너희가 욕되게 하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이름"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "내 거룩한"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "나는 거룩하게 여김을 받는다"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "너희를 거룩하게 하는"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:16.863127675Z",
+  "model": "glm-5.2"
+}

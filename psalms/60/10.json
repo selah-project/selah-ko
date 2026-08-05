@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "모압은 나의 씻는 솥이요, 에돔 위에 나는 ⟨나의⟩ 신을 던지리라, 나 위에 블레셋은 ⟨나로 인하여⟩ 외쳐라.",
+  "tokens": [
+    {
+      "surface": "מוֹאָ֤ב",
+      "gloss": "모압은"
+    },
+    {
+      "surface": "סִ֬יר",
+      "gloss": "솥"
+    },
+    {
+      "surface": "רַחְצִ֗י",
+      "gloss": "나의 씻는"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "אֱ֭דוֹם",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "אַשְׁלִ֣יךְ",
+      "gloss": "던지리라"
+    },
+    {
+      "surface": "נַעֲלִ֑י",
+      "gloss": "나의 신"
+    },
+    {
+      "surface": "עָ֝לַ֗י",
+      "gloss": "나 위에"
+    },
+    {
+      "surface": "פְּלֶ֣שֶׁת",
+      "gloss": "블레셋은"
+    },
+    {
+      "surface": "הִתְרֹעָֽעִֽי",
+      "gloss": "외쳐라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:31.117831986Z",
+  "model": "glm-5.2"
+}

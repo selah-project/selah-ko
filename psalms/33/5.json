@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "의(체다카)와 공의(미쉬파트)를 사랑하신다 — 야훼의 헤세드가 땅을 가득 채운다.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "사랑하신다"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "의(체다카)"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "그리고 공의(미쉬파트)"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "가득 채운다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:43.173713611Z",
+  "model": "glm-5.2"
+}

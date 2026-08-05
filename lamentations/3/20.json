@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "기억하라, ⟨너는⟩ 기억하라 — 그리고 내 네페쉬는 나 위로 ⟨그것들을⟩ 숙여 내린다.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "기억하라"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "⟨너는⟩ 기억하라"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "그리고 숙여 내린다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나 위로"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬는"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:14.896183378Z",
+  "model": "glm-5.2"
+}

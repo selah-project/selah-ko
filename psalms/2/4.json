@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "하늘에 좌정하신 이가 웃으시리니, 아도나이께서 그들을 비웃으실 것임이로다.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "좌정하신 이가"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "하늘에"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "웃으시리니"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "비웃으실 것임이로다"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:42.291169447Z",
+  "model": "glm-5.2"
+}

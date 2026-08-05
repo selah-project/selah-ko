@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "네가 앉아 ⟨서⟩ 네 형제를 거스르며, 네 어미의 아들에게 비난을 쏟는다.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "네가 앉아"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "네 형제를 거스르며"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "아들에게"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "네 어미의"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "쏟는다"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "비난을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:24.751083608Z",
+  "model": "glm-5.2"
+}

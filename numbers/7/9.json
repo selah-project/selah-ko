@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 크하트 아들들에게는 주지 않으셨다. 거룩한 것의 섬김이 그들에게 있기 때문이다. 그들이 어깨로 메었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "그리고 ~의 아들들에게"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "크하트"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "섬김"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "거룩한 것의"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "어깨로"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "그들이 메었다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:31:38.792656982Z",
+  "model": "glm-5.2"
+}

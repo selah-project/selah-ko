@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "당신의 후캇에서 내가 즐거워하리라, 당신의 말씀을 잊지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "당신의 후캇에서"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "내가 즐거워하리라"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "잊지"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "당신의 말씀을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:05.979278074Z",
+  "model": "glm-5.2"
+}

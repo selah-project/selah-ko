@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그러나 돈으로 산 모든 종, 남자 종 — 네가 그를 할례하면 그때에 그가 그것을 먹는다.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "매입"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "그리고 네가 할례하면"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그"
+    },
+    {
+      "surface": "אז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "그가 먹다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:52:48.159967208Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "악인을 왕 앞에서 옮기라, 그리하면 그의 왕좌가 체데크 안에 견고히 서리라.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "옮기라"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ונכון",
+      "gloss": "그리하면 … 견고히 서리라"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "체데크 안에"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "그의 왕좌가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:53.500848689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "게으른 자의 네페쉬는 갈망하나 아무것도 없으니, 부지런한 자들의 네페쉬는 기름지게 될 것이다.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "갈망하나"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없으니"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "네페쉬는"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "게으른 자의"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "네페쉬는"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "부지런한 자들의"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "기름지게 될 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:11.214450479Z",
+  "model": "glm-5.2"
+}

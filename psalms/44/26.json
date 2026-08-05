@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "우리의 네페쉬가 티끌로 가라앉었고, 우리의 배가 땅에 들러붙었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "가라앉었고"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "티끌로"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "우리의 네페쉬가"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "들러붙었"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "우리의 배가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:22.847372951Z",
+  "model": "glm-5.2"
+}

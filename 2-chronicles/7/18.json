@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그러면 내가 ⟨את⟩ 네 왕국의 왕좌를 세우리니, 내가 다윗 네 아버지와 더불어 '이스라엘을 다스릴 자가 네게서 끊어지지 아니하리라' 말하며 빚은 것처럼.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "그러면 내가 세우리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 왕국의 왕좌를"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "왕좌를"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "네 왕국의"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~처럼"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "내가 빚은"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "네 아버지"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "끊어지지"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람(이)"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "다스릴 자"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:28.311367826Z",
+  "model": "glm-5.2"
+}

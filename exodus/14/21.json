@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 14:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "모션이 ⟨את⟩ 그의 손을 바다 위로 내밀자, 야훼께서 강한 동풍으로 밤새 ⟨את⟩ 바다를 물러가게 하셨다. 그리고 ⟨את⟩ 바다를 마른 땅이 되게 하시니, 물들이 갈라졌다.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "내밀자"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모션이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 손을"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ויולך",
+      "gloss": "물러가게 하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바다를"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "루아흐로"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "동풍이"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "강한"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤새"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "되게 하시니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바다를"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "마른 땅이"
+    },
+    {
+      "surface": "ויבקעו",
+      "gloss": "갈라졌다"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:00.939518806Z",
+  "model": "glm-5.2"
+}

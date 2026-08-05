@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그 땅에서 아슈르가 나아가 ⟨את⟩ 니느웨와 ⟨את⟩ 레호봇-이르와 ⟨את⟩ 켈라흐를 건설하였다.",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הָאָ֥רֶץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "הַהִ֖וא",
+      "gloss": "그"
+    },
+    {
+      "surface": "יָצָ֣א",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "אַשּׁ֑וּר",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "וַיִּ֨בֶן֙",
+      "gloss": "그리고 건설하였다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "니느웨"
+    },
+    {
+      "surface": "נִ֣ינְוֵ֔ה",
+      "gloss": "니느웨"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "레호봇-이르"
+    },
+    {
+      "surface": "רְחֹבֹ֥ת",
+      "gloss": "레호봇"
+    },
+    {
+      "surface": "עִ֖יר",
+      "gloss": "이르"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "켈라흐"
+    },
+    {
+      "surface": "כָּֽלַח",
+      "gloss": "켈라흐"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:02.223557402Z",
+  "model": "glm-5.2"
+}

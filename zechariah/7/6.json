@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "너희가 먹고 마실 때에, 너희가 먹는 자가 아니냐, 너희가 마시는 자가?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "그리고 ⟨때에⟩"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희가 먹을"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "그리고 ⟨때에⟩"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "너희가 마실"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아니냐"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "먹는 자"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "그리고 너희가"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "마시는 자"
+    }
+  ],
+  "timestamp": "2026-08-05T11:18:50.532114478Z",
+  "model": "glm-5.2"
+}

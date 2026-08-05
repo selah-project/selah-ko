@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "나는 듣고도 깨닫지 못하였다. 그래서 \"아도나이, 이것들의 끝은 무엇입니까\" 하고 말하였다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "들었고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지 않았다"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "깨닫지"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇입니까"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "끝"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이것들의"
+    }
+  ],
+  "timestamp": "2026-08-05T19:39:16.821042599Z",
+  "model": "glm-5.2"
+}

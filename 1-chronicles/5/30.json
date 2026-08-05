@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "엘아자르가 ⟨את⟩ 핀하스를 낳았고, 핀하스가 ⟨את⟩ 아비슈아를 낳았으며,",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "핀하스를"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "핀하스"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "핀하스가"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아비슈아를"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "아비슈아"
+    }
+  ],
+  "timestamp": "2026-08-05T19:39:47.054974626Z",
+  "model": "glm-5.2"
+}

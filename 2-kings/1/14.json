@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "보라, 불이 하늘에서 내려와서 ⟨את⟩ 두 명의 첫 번째 오십 인 사자들과 ⟨את⟩ 그들의 오십 인을 삼켰습니다. 그러니 이제 내 네페쉬가 당신 눈에 귀하게 여겨지기를.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "내려와서"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "그리고 삼켰습니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 명의 첫 번째 오십 인 사자들"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두 명의"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사자들"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "오십 인"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "첫 번째"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 오십 인"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "그들의 오십 인을"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "그러니 이제"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "귀하게 여겨지기를"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "당신 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:17.762387793Z",
+  "model": "glm-5.2"
+}

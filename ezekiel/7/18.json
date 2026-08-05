@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그들이 자갈옷을 두르고, ⟨את⟩ 그들을 공포가 덮을 것이며, 모든 얼굴 위에는 수치가, 그들의 모든 머리에는 대머리가 ⟨있으리라⟩.",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "그들이 두르고"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "자갈옷을"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "덮을 것이며"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "공포가"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "∼위에는"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "수치가"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그들의 모든"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "머리에는"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "대머리가"
+    }
+  ],
+  "timestamp": "2026-08-05T13:59:16.670303181Z",
+  "model": "glm-5.2"
+}

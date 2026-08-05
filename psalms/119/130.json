@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "⟨당신의⟩ 말씀들의 여는 것은 빛나게 한다, 미련한 자들에게 분별력을 ⟨주신다⟩.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "여는 것은"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "⟨당신의⟩ 말씀들의"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "빛나게 한다"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "분별력을"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "미련한 자들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:30.266022613Z",
+  "model": "glm-5.2"
+}

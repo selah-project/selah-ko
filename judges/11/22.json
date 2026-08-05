@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그들이 ⟨את⟩ 그 아모리 사람의 모든 경계를 — 아르논에서 그리고 야뽁까지, 그리고 광야에서 그리고 요르단까지 — 차지하였다.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "차지하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계를"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "그 아모리 사람의"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "아르논에서"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 ~까지"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "그 야뽁"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에서"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "그 광야"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 ~까지"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "그 요르단"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:56.925741386Z",
+  "model": "glm-5.2"
+}

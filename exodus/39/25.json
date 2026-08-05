@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그들이 순금 방울들을 만들고, ⟨그⟩ 방울들을 석류들 가운데, ⟨그⟩ 겉옷의 밑단 둘레에, 석류들 가운데 두었다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그들이 만들고"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "방울들을"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "순(한)"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "그들이 두었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "방울들"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "그 방울들을"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "그 석류들"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "밑단"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "그 겉옷"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "그 석류들"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:11.612133051Z",
+  "model": "glm-5.2"
+}

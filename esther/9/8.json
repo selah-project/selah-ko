@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨את⟩ 포라타와 ⟨את⟩ 아달랴와 ⟨את⟩ 아리다타를",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "포라타를"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "포라타"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아달랴를"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "아달랴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아리다타를"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "아리다타"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:20.042867061Z",
+  "model": "glm-5.2"
+}

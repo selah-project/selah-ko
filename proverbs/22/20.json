@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "내가 너를 위해 세 번 써 놓지 아니하였느냐 — 모략들과 지식으로!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "아니하였느냐"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "써"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "세 번"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "모략들과"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "지식으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:41.877125346Z",
+  "model": "glm-5.2"
+}

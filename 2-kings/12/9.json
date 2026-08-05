@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 코헨들이 동의하였다, 백성에게서 은을 취하지 아니하고, 그리고 ⟨את⟩ 집의 틈새를 보수하지 아니하〈기로〉.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "그리고 동의하였다"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들이"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "취하지"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은을"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "그리고 아니하"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "보수하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "집의 틈새를"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "틈새를"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:00:55.301407165Z",
+  "model": "glm-5.2"
+}

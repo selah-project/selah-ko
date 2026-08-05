@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리하여 그들이 ⟨את⟩ 야훼를 경외하였고, 그들 가운데서 바마의 코헨들을 삼아 그들을 위해 바마의 집들에서 섬기게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "그리하여 …이었다"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "경외하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "그리고 삼았다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "그들 가운데서"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "코헨들을"
+    },
+    {
+      "surface": "במות",
+      "gloss": "바마의"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "그리하여 …이었다"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "섬기게 하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들을 위해"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집들에서"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "바마의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:31.604542404Z",
+  "model": "glm-5.2"
+}

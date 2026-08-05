@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그녀가 다시 임신하여 아들을 낳고, ⟨그⟩ 이름을 오난이라 하였다.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "임신하여"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳고"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그 이름을"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "오난"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:48.662254888Z",
+  "model": "glm-5.2"
+}

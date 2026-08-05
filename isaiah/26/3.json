@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "굳게 의지하는 마음을 그가 지키시리니, 온전한 평화, 평화를. 대신 그가 티임에 정녕 그가 보호하시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "굳게 의지하는"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "그가 지키시리니"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "평화,"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "평화를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…하기 때문이다 정녕"
+    },
+    {
+      "surface": "בך",
+      "gloss": "…에 티임"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "그가 신뢰하다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:11.137616189Z",
+  "model": "glm-5.2"
+}

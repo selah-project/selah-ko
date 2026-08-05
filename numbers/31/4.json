@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "„지파마다 천 명을, 이스라엘 모든 지파에서 천 명을, 군대를 위하여 보내라.””",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "천 명을"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "지파마다"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천 명을"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "지파마다"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "지파에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "너희가 보내라"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "군대를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:45:41.530242357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "다윗은 야훼께서 자신을 이스라엘 위의 왕으로 세우셨음을 알았다. 그리고 ⟨그가⟩ 자신의 나라를 높이 드신 것은 자신의 백성 이스라엘 때문임을 ⟨알았다⟩.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "알았다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "것을"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "세우셨음을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕으로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "높이 드신"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "자신의 나라를"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "때문임을"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "자신의 백성"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:48:49.404799569Z",
+  "model": "glm-5.2"
+}

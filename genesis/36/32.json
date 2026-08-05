@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 벨아가 에돔에서 다스리였으니, 그는 브오르의 아들이고, 그의 도시 이름은 딘하바였다.",
+  "tokens": [
+    {
+      "surface": "וַיִּמְלֹךְ",
+      "gloss": "그리고 다스리였으니"
+    },
+    {
+      "surface": "בְּאֱדוֹם",
+      "gloss": "에돔에서"
+    },
+    {
+      "surface": "בֶּלַע",
+      "gloss": "벨아가"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "בְּעוֹר",
+      "gloss": "브오르의"
+    },
+    {
+      "surface": "וְשֵׁם",
+      "gloss": "그리고 이름은"
+    },
+    {
+      "surface": "עִירוֹ",
+      "gloss": "그의 도시"
+    },
+    {
+      "surface": "דִּנְהָבָה",
+      "gloss": "딘하바"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:24.311500528Z",
+  "model": "glm-5.2"
+}

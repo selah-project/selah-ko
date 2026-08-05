@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 21:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 ⟨그가⟩ 자기가 만든 아세라 상을 ⟨את⟩ ⟨그⟩ 집에 두었으니, 야훼께서 다윗과 그의 아들 셸로모에게 말씀하신 ⟨그⟩ 집이었다. \"이 집과 내가 이스라엘의 모든 지파들 가운데서 택한 예루샬라임에 내가 ⟨את⟩ 내 이름을 영원히 두리라.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "그리고 두었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아세라 상을"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "상을"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "아세라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것을⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만든"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "이 집"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "그리고 예루샬라임에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "내가 택한"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "지파들 가운데서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "내가 두리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 이름을"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "내 이름을"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:53.814015553Z",
+  "model": "glm-5.2"
+}

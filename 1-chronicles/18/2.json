@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그가 ⟨את⟩ 모압을 쳤고, 모압은 다윗의 종들이 되어 조공을 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "그리고 ⟨그가⟩ 쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모압"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "그리고 ⟨그들이⟩ 되었다"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "종들"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "나르는 자들"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "조공"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:45.123150068Z",
+  "model": "glm-5.2"
+}

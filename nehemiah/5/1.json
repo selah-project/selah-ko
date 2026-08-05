@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리하여 백성과 그 아내들의 부르짖음이 그 형제 유다 사람들을 향하여 컸더라.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "그리하여 …이더라"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "부르짖음이"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "그리고 그 아내들의"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "컸더라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "그 형제"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "유다 사람들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:35:45.301846189Z",
+  "model": "glm-5.2"
+}

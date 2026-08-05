@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 말씀하셨다. \"하늘의 라키아에 광명체들이 있어, 낮과 밤을 구별하게 하라. 그것들이 표징이 되고, 정한 때와 날들과 해들을 가리키게 하라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "있게 하라"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "광명체들이"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "라키아에"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "구별하게"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이를"
+    },
+    {
+      "surface": "היום",
+      "gloss": "낮"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 사이를"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "되게 하라"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "표징이"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "정한 때가"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "해들이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:24.520071178Z",
+  "model": "glm-5.2"
+}

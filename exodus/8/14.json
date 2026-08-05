@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "마술사들도 그들의 은밀한 술법으로 그리하여 ⟨את⟩ 그 이들을 내어놓으려 하였으나, 하지 못하였다. 그래서 그 이(가) 사람과 짐승에게 ⟨있었다⟩.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "כן",
+      "gloss": "같이"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "마술사들이"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "그들의 은밀한 술법으로"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "내어놓으려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 이들"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "그 이들을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지 못하였다"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "(능)하"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "⟨있었다⟩"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "그 이(가)"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "그리고 짐승에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:17.069465389Z",
+  "model": "glm-5.2"
+}

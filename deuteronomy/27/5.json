@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 거기에 너는 야훼 너의 엘로힘께 제단을 쌓되, 돌로 된 제단을 쌓을 것이요, 그것들 위에 철을 휘두르지 아니할 것이다.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "그리고 쌓을 것이다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "너의 엘로힘"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "돌로 된"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "휘두를"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그것들 위에"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:22.610426340Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 4:17",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "이웃 여인들이 그에게 이름을 지어 주며 말하기를, 나오미에게 아들이 태어났다 하였고, 그들이 그의 이름을 오베드라 불렀다. 그는 이새의 아버지, 다윗의 아버지이다.",
+  "tokens": [
+    {
+      "surface": "ותקראנה",
+      "gloss": "부르었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "השכנות",
+      "gloss": "이웃 여인들이"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "태어났다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "לנעמי",
+      "gloss": "나오미에게"
+    },
+    {
+      "surface": "ותקראנה",
+      "gloss": "부르었다"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "오베드"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이새의"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:40.379014649Z",
+  "model": "glm-5.2"
+}

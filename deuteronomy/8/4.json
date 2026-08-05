@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "네 옷이 네 위에서 낡아지지 아니하였고, 네 발이 붓지 아니하였으니, 이 사십 년이다.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "네 옷이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "낡아지지"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "네 위에서"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "네 발이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "붓지"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:04.662766228Z",
+  "model": "glm-5.2"
+}

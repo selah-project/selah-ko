@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 7:17",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "인간이 무엇이기에 그를 크게 하시며, 그리고 ⟨그에게⟩ 마음을 두시는가?",
+  "tokens": [
+    {
+      "surface": "מָֽה",
+      "gloss": "무엇이기에"
+    },
+    {
+      "surface": "אֱ֭נוֹשׁ",
+      "gloss": "인간"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "…이기에"
+    },
+    {
+      "surface": "תְגַדְּלֶ֑נּוּ",
+      "gloss": "그를 크게 하시며"
+    },
+    {
+      "surface": "וְכִי",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "תָשִׁ֖ית",
+      "gloss": "두시는가"
+    },
+    {
+      "surface": "אֵלָ֣יו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "לִבֶּֽךָ",
+      "gloss": "마음을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:02.146204527Z",
+  "model": "glm-5.2"
+}

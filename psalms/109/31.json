@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그가 가난한 이의 오른편에 서시어, 그의 네페쉬를 심판하는 자들에게서 구원하시기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "그가 서시어"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "오른편에"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "가난한 이의"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "구원하시기"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "심판하는 자들에게서"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "그의 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:48.670659870Z",
+  "model": "glm-5.2"
+}

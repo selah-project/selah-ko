@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그들의 땅의 모든 처음 난 자를 치시고, 그들의 모든 힘의 처음을.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "치시고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "처음 난 자"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "그들의 땅의"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "처음을"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "그들의 힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:11.447552262Z",
+  "model": "glm-5.2"
+}

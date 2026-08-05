@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "엘로힘이 ⟨את⟩ 이스라엘의 아들들을 보셨고, 엘로힘이 아셨다.",
+  "tokens": [
+    {
+      "surface": "וַיַּרְא",
+      "gloss": "보셨고"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "וַיֵּדַע",
+      "gloss": "아셨다"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "엘로힘이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:35.323735345Z",
+  "model": "glm-5.2"
+}

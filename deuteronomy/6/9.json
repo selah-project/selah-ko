@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨그것들을⟩ 네 집의 문설주와 네 성문들에 기록할 것이다.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "그리고 기록할 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "∼에"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "문설주들"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "네 집"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "그리고 네 성문들에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:35.428231640Z",
+  "model": "glm-5.2"
+}

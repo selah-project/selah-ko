@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "온 이스라엘이 야훼 네 엘로힘의 ⟨את⟩ 면전을 뵈러 그가 택하시는 곳에 올 때에, 너는 온 이스라엘 앞에서 ⟨את⟩ 이 토라를 낭독하여야 한다, 그들의 귀에.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "올 때에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "뵈러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "면전을"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면전을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로님의"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "택하시는"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "낭독하여야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 토라를"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라를"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "그들의 귀에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:40.692382066Z",
+  "model": "glm-5.2"
+}

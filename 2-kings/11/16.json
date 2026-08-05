@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그들이 그녀에게 손을 대니, 그녀가 왕의 집, 말들의 입구 길로 들어가 거기서 죽임을 당하였다.",
+  "tokens": [
+    {
+      "surface": "וַיָּשִׂימוּ",
+      "gloss": "그들이 …대니"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "יָדַיִם",
+      "gloss": "손을"
+    },
+    {
+      "surface": "וַתָּבֹא",
+      "gloss": "들어가"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "길로"
+    },
+    {
+      "surface": "מְבוֹא",
+      "gloss": "입구"
+    },
+    {
+      "surface": "הַסּוּסִים",
+      "gloss": "말들의"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "집,"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "וַתָּמָת",
+      "gloss": "죽임을 당하였다"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "거기서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:01.862639173Z",
+  "model": "glm-5.2"
+}

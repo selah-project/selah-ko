@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "가난하면서 지혜로운 젊은이가, 이미 경고를 받아들일 줄 모르는 늙고 어리석은 왕보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "젊은이"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "가난한"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "…보다 (왕)"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "늙은"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "어리석은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알다"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "경고받다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:24.069902166Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "그는 깎은 풀 위에 비처럼, 땅을 적시는 소나기처럼 내려오리이다.",
+  "tokens": [
+    {
+      "surface": "יֵ֭רֵד",
+      "gloss": "내려오리이다"
+    },
+    {
+      "surface": "כְּמָטָ֣ר",
+      "gloss": "비처럼"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "~ 위에"
+    },
+    {
+      "surface": "גֵּ֑ז",
+      "gloss": "깎은 풀"
+    },
+    {
+      "surface": "כִּ֝רְבִיבִ֗ים",
+      "gloss": "소나기들처럼"
+    },
+    {
+      "surface": "זַרְזִ֥יף",
+      "gloss": "적시는"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:40.808533140Z",
+  "model": "glm-5.2"
+}

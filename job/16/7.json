@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 16:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "⟨그러나⟩ 이제 ⟨그가⟩ 나를 지치게 하셨고, ⟨그가⟩ 나의 모든 회중을 황폐하게 하셨다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "⟨그러나⟩ ⟨오직⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "הלאני",
+      "gloss": "⟨그가⟩ 나를 지치게 하셨고"
+    },
+    {
+      "surface": "השמות",
+      "gloss": "⟨그가⟩ 황폐하게 하셨다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עדתי",
+      "gloss": "나의 회중을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:05:30.272292438Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "슐로모에게 ⟨관하여⟩. 엘로힘이시여, 당신의 판결들을 왕에게 주시고, 당신의 체다카를 왕의 아들에게 ⟨주소서⟩.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "슐로모에게"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "당신의 판결들을"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕에게"
+    },
+    {
+      "surface": "תן",
+      "gloss": "주시고"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "당신의 체다카를"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "아들에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:29.472627897Z",
+  "model": "glm-5.2"
+}

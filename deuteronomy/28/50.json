@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "면전이 거친 민족으로, 노인의 면전을 돌아보지 아니하며 아이에게 은혜를 베풀지 아니하는 민족이다.",
+  "tokens": [
+    {
+      "surface": "גּוֹי",
+      "gloss": "민족으로"
+    },
+    {
+      "surface": "עַז",
+      "gloss": "거친"
+    },
+    {
+      "surface": "פָּנִים",
+      "gloss": "면전이"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니하며"
+    },
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "돌아보지"
+    },
+    {
+      "surface": "פָּנִים",
+      "gloss": "면전을"
+    },
+    {
+      "surface": "לְזָקֵן",
+      "gloss": "노인의"
+    },
+    {
+      "surface": "וְנַעַר",
+      "gloss": "그리고 아이에게"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니하는"
+    },
+    {
+      "surface": "יָחֹן",
+      "gloss": "은혜를 베풀지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:04.944953843Z",
+  "model": "glm-5.2"
+}

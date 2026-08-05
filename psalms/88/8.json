@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "나 위에 주의 진노가 머물러 있고, 주의 모든 파도가 나를 억눌렀다. 셀라.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "나 위에"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "머물러 있고"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "진노가"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "파도가"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "억눌렀다"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:15.343078250Z",
+  "model": "glm-5.2"
+}

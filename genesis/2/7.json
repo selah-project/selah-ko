@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 야훼 엘로힘이 ⟨아트⟩ 사람을 흙으로 빚으셨으니, 땅에서 취한 것이며, 그의 콧구멍에 생명의 호흡을 불어넣으셨고, ⟨그⟩ 사람이 ⟨곧⟩ 살아 있는 네페쉬가 되었다.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "빚으셨으니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "흙으로"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서 취한"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "불어넣으셨고"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "그의 콧구멍에"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "호흡을"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "생명의"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "～가 되었다"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "네페쉬로"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "살아 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:58.849469795Z",
+  "model": "glm-5.2"
+}

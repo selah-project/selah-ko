@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그들이 나에게 악을 선으로 갚으니, 나의 네페쉬에 상실이 ⟨이르렀다⟩.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "그들이 나에게 … 갚으니"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "선"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "상실이"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "나의 네페쉬에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:04.583260376Z",
+  "model": "glm-5.2"
+}

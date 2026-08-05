@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그러므로 야훼께서 내게 갚아 주셨다 — 내 의에 따라, 내 손의 깨끗함에 따라, 그의 눈 앞에서.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "그러므로 갚아 주셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "내 의에 따라"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "깨끗함에 따라"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손의"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "그의 눈"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:41.635791435Z",
+  "model": "glm-5.2"
+}

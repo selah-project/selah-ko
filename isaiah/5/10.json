@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "한 해 포도밭 열 쌍이 ⟨겨우⟩ 바트 하나를 낼 것이요, 호머 ⟨만큼의⟩ 씨앗이 ⟨겨우⟩ 에파 하나를 낼 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "한"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "열"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "쌍"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "포도밭"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "낼 것이요"
+    },
+    {
+      "surface": "בת",
+      "gloss": "바트"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나를"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "그리고 씨앗"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "호머"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "낼 것이다"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "에파"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:59.403563293Z",
+  "model": "glm-5.2"
+}

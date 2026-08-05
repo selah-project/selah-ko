@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 5:21",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 네 이웃의 아내를 탐내지 말고, 네 이웃의 집을 갈망하지 말라. 그의 밭과 그의 종과 그의 여종, 그의 소와 그의 나귀, 그리고 네 이웃에게 있는 모든 것 ⟨도⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …하지 말고"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "탐내지"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "네 이웃의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תתאוה",
+      "gloss": "갈망하지"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "네 이웃의"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "그의 밭과"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "그의 종과"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "그의 여종,"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "그의 소와"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "그의 나귀,"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 …모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…에게 있는"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "네 이웃"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:39.737677095Z",
+  "model": "glm-5.2"
+}

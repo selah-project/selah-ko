@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "\"이쉬를 제사에 초대하고, 내가 네가 할 것을 ⟨알게⟩ 하겠다. 그리고 내가 네게 이름하는 자를 — 너는 나를 위해 기름 부어야 한다.\"",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "초대하고"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "이쉬를"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "제사에"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "알게 하겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네가 할 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "네가 할"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "기름 부어야 한다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내가 이름하는 자"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "자"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "내가 이름하는"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:26.872909027Z",
+  "model": "glm-5.2"
+}

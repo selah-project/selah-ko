@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "내가 본 대로, 불의를 갈고 수고를 뿌리는 자들이 그것을 거둔다.",
+  "tokens": [
+    {
+      "surface": "כַּאֲשֶׁ֣ר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "רָ֭אִיתִי",
+      "gloss": "내가 본"
+    },
+    {
+      "surface": "חֹ֣רְשֵׁי",
+      "gloss": "갈고"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "불의를"
+    },
+    {
+      "surface": "וְזֹרְעֵ֖י",
+      "gloss": "그리고 뿌리는"
+    },
+    {
+      "surface": "עָמָ֣ל",
+      "gloss": "수고를"
+    },
+    {
+      "surface": "יִקְצְרֻֽהוּ",
+      "gloss": "그것을 거둔다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:30.968713547Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "내가 입으로 야훼를 크게 찬양하며, 많은 이들의 한가운데서 그를 찬양하리라.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "내가 찬양하리라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "입으로"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "그리고 한가운데서"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은 이들의"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "내가 그를 찬양하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:48.670558581Z",
+  "model": "glm-5.2"
+}

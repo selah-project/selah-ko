@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼 엘로힘이 ⟨그⟩ 사람에게 부르시고, 그에게 말씀하셨다. \"어디에 있느냐?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "부르시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "그 사람"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "어디에 있느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:46.411897478Z",
+  "model": "glm-5.2"
+}

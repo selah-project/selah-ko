@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "너는 네 엘로힘 야훼의 이름을 헛되이 ⟨들고⟩ 올리지 말라. 야훼는 그의 이름을 헛되이 ⟨들고⟩ 올리는 자를 무죄로 내버려 두지 아니하신다.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תִשָּׂא",
+      "gloss": "너는 …올리지"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이름을"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "לַשָּׁוְא",
+      "gloss": "헛되이"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니하신다"
+    },
+    {
+      "surface": "יְנַקֶּה",
+      "gloss": "무죄로 내버려 두지"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "자를"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…⟨자⟩"
+    },
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "올리는"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이름을"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "그의 이름"
+    },
+    {
+      "surface": "לַשָּׁוְא",
+      "gloss": "헛되이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:00.119873082Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "온 땅이 쉬며 평안하니, 환성을 터뜨렸다.",
+  "tokens": [
+    {
+      "surface": "נָ֥חָה",
+      "gloss": "쉬며"
+    },
+    {
+      "surface": "שָׁקְטָ֖ה",
+      "gloss": "평안하니"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "פָּצְח֖וּ",
+      "gloss": "터뜨렸다"
+    },
+    {
+      "surface": "רִנָּֽה",
+      "gloss": "환성을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:19.024171376Z",
+  "model": "glm-5.2"
+}

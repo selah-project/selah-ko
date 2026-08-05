@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 6:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "내가 말하였다. \"나에게 화가 있구나, 나는 망하였다. 나는 입술이 부정한 사람이요, 부정한 입술을 가진 백성 가운데 ⟨거하⟩기 때문이다. 나의 두 눈이 ⟨את⟩ 왕 야훼 체바옷을 보았기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "내가 말하였다"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "화가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "있다"
+    },
+    {
+      "surface": "נדמיתי",
+      "gloss": "나는 망하였다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이요"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "부정한"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "입술이"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "가운데"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "부정한"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "입술을"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "거하기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "체바옷을"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보았기"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "나의 두 눈이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:54.946667024Z",
+  "model": "glm-5.2"
+}

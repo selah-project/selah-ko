@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 146,
+  "translation": "그의 루아흐가 나가면 그는 그의 흙으로 돌아간다. 바로 그 날에 그의 생각들이 멸망한다.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "나가면"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "그의 루아흐가"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "그는 돌아간다"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "그의 흙으로"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "바로 그"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "멸망한다"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "그의 생각들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:36.696580792Z",
+  "model": "glm-5.2"
+}

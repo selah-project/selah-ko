@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "내가 들짐승을 너희 가운데 보내리니, 그것이 너희를 자녀 없게 하고 너희의 가축을 끊어 멸하며 너희를 적게 할 것이요, 너희의 길들이 황폐될 것이다.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "내가 보내리라"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "너희 가운데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "들짐승"
+    },
+    {
+      "surface": "חית",
+      "gloss": "들짐승을"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들의"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "그것이 자녀 없게 하고"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "그것이 끊어 멸하며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희의 가축"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "너희의 가축을"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "그것이 적게 할 것이요"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "황폐될 것이다"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "너희의 길들이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:47.075092185Z",
+  "model": "glm-5.2"
+}

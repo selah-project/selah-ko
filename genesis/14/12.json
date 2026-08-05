@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨그들은⟩ ⟨את⟩ 롯 — 아브람의 형제의 아들 — ⟨그리고⟩ ⟨את⟩ 그의 재산을 가져가서 떠났다. 그는 소돔에 거주하고 있었다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "그리고 가져가서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "롯"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "롯"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 재산"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "그의 재산"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제의"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브람"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "떠났다"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 그는"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "거주하고 있었다"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "소돔에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:24.429776494Z",
+  "model": "glm-5.2"
+}

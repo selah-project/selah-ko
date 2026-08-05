@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그리고 ⟨그는⟩ ⟨그의⟩ 백성을 칼에 넘기시며, ⟨그의⟩ 기업에 대해 진노하셨다.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "그리고 넘기셨다"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "칼에"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성을"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "그리고 그의 기업에"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "진노하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:54.000555712Z",
+  "model": "glm-5.2"
+}

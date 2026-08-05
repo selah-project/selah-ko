@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "나를 불러라. 그리하면 내가 네게 응답하겠고, 네가 알지 못하는 위대하고 비상한 일들을 네게 알려 주겠다.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "불러라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "응답하겠고"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "알려 주겠다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "위대하고"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "비상한"
+    },
+    {
+      "surface": "לא",
+      "gloss": "알지 못하는"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "일들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:39:03.512969793Z",
+  "model": "glm-5.2"
+}

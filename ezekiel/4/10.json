@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 네가 먹을 너의 양식은 무게로 하되, 하루에 20 세겔씩, 정해진 때부터 정해진 때까지 ⟨그것을⟩ 먹을 것이다.",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "그리고 너의 양식은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "네가 먹을"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "무게로"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "20"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "세겔"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "하루에"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "정해진 때부터"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עת",
+      "gloss": "정해진 때"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "먹을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:47:55.476504817Z",
+  "model": "glm-5.2"
+}

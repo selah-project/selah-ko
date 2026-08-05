@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "그들이 엔 돌에서 멸망하였고, 땅의 거름이 되었나이다.",
+  "tokens": [
+    {
+      "surface": "נִשְׁמְדוּ",
+      "gloss": "멸망하였고"
+    },
+    {
+      "surface": "בְעֵין",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "דֹּאר",
+      "gloss": "엔 돌"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "되었나이다"
+    },
+    {
+      "surface": "דֹּמֶן",
+      "gloss": "거름"
+    },
+    {
+      "surface": "לָאֲדָמָה",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:36.297038492Z",
+  "model": "glm-5.2"
+}

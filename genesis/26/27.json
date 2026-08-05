@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "이삭이 그들에게 말하였다. \"어찌하여 너희가 내게 왔느냐? 너희는 나를 미워하며 ⟨את⟩ 나를 너희에게서 쫓아내었지 않느냐?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭이"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "너희가 왔느냐"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "너희는"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "미워하며"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "쫓아내었지 않느냐"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "너희에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:08:56.177874907Z",
+  "model": "glm-5.2"
+}

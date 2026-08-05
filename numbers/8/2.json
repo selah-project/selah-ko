@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "아하론에게 말하고 그에게 이르기를 — 네가 ⟨את⟩ 등불들을 올려 켤 때에, 일곱 등불이 메노라의 앞면을 향하여 비출 것이다 —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "네가 올려 켤 때에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "등불들을"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "등불들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "מול",
+      "gloss": "앞면을"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "메노라의"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "비출 것이다"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "등불이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:39.134251527Z",
+  "model": "glm-5.2"
+}

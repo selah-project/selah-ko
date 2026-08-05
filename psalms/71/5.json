@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "당신은 나의 소망이시기에, 아도나이 야훼, 당신은 나의 피신처요, ⟨나의⟩ 어릴 때부터이십니다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "나의 소망이시다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "나의 피신처이시다"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "어릴 때부터"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:17.540251042Z",
+  "model": "glm-5.2"
+}

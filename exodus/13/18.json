@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "엘로힘이 ⟨את⟩ 백성을 돌아가게 하셨다, 광야의 길로, 갈대 바다 쪽으로. 이스라엘의 아들들이 미츠라임 땅에서 무장한 채 올라갔다.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "돌아가게 하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "갈대"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "무장한 채"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:28.167096490Z",
+  "model": "glm-5.2"
+}

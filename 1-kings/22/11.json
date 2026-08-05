@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "크나나의 아들 체드키야가 자기를 위해 철로 뿔들을 만들었고, 말하였다. \"야훼께서 이처럼 말씀하셨다. '이것들로 ⟨את⟩ 아람을 들이받아 그들을 다 소진하기까지 할 것이다.'\"",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위해"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "체드키야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "크나나"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "뿔들을"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이처럼"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "이것들로"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "들이받을 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아람"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "소진하기"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:43.630313647Z",
+  "model": "glm-5.2"
+}

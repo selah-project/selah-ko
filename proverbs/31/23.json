@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "성문에서 그녀의 남편이 알려져 있다 — 그가 그 땅의 장로들과 함께 앉아 있을 때에.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "알려져 있다"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "성문에서"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "그녀의 남편이"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "앉아 있을 때에"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로들"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "그 땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:39.460940712Z",
+  "model": "glm-5.2"
+}

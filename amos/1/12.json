@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그러므로 내가 불을 테이만에 보내리니, 그것이 보츠라의 성채들을 삼키리라.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "내가 보내리니"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불을"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "테이만에"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "그것이 삼키리라"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "성채들을"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "보츠라의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:09:48.794961848Z",
+  "model": "glm-5.2"
+}

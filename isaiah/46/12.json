@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "나를 들으라, 마음이 강포한 자들, 의에서 멀리 있는 자들아.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "강포한 자들"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "멀리 있는 자들"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "의에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:39.093945180Z",
+  "model": "glm-5.2"
+}

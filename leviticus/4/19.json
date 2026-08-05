@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 그것의 모든 기름기를 거기서 들어 올려, ⟨그⟩ 제단에서 사르고 —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 모든 기름기"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "그것의 기름기를"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "들어 올려"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "그리고 사르고"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "제단에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:12:05.104396175Z",
+  "model": "glm-5.2"
+}

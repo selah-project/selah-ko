@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 산악 지역 북쪽에 있는 왕들에게, 그리고 아라바에, 킨네렛 남쪽에, 그리고 평야에, 그리고 돌의 고원들에, 바다 ⟨쪽에⟩ —",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "왕들에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "에 있는"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "북쪽"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산악 지역에"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "그리고 아라바에"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "남쪽"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "킨네렛"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "그리고 평야에"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "그리고 고원들에"
+    },
+    {
+      "surface": "דור",
+      "gloss": "돌"
+    },
+    {
+      "surface": "מים",
+      "gloss": "바다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:08:43.315494715Z",
+  "model": "glm-5.2"
+}

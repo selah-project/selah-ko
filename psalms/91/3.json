@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 91,
+  "translation": "그분께서 ⟨그⟩대를 새잡이의 덫에서, 멸망의 재앙에서 건져내실 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그분께서"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "건져내실 것이"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "덫에서"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "새잡이의"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "재앙에서"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "멸망의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:31.512179139Z",
+  "model": "glm-5.2"
+}

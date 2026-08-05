@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "애통하는 집으로 가는 것이 잔치하는 집으로 가는 것보다 낫다. 그것이 모든 사람의 끝이기에, 산 사람은 ⟨그것을⟩ ⟨자기⟩ 마음에 새기어야 한다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "가는 것이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "애통하는"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "가는 것보다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "잔치하는"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "…이기에"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "끝"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "산 사람은"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "⟨그것을⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:18.155537951Z",
+  "model": "glm-5.2"
+}

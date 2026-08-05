@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그 때에 아하스 왕이 아슈르의 왕들에게 자기를 도와주라고 사자를 보냈다.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "그"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보냈다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "아하스"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르의"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "돕기로"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를"
+    }
+  ],
+  "timestamp": "2026-08-05T13:01:29.564142585Z",
+  "model": "glm-5.2"
+}

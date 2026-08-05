@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼께서 ⟨그⟩가 보려고 돌아섰음을 보셨다. 엘로힘이 가시떨기나무 가운데서부터 그를 불러 말씀하셨다. \"모셴아, 모셴아.\" ⟨그가⟩ 말하였다. \"제가 여기 있습니다.\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "보려고"
+    },
+    {
+      "surface": "סר",
+      "gloss": "돌아섰음을"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨그⟩가 보려고"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불러"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "가운데서부터"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "가시떨기나무"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셴아"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셴아"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:01.074296722Z",
+  "model": "glm-5.2"
+}

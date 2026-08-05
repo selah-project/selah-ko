@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 너는 돌아와서 야훼의 음성에 순종하고, ⟨את⟩ 그의 모든 계명들, 곧 내가 오늘 너에게 명령하는 것들을 행할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너는"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "돌아올 것이다"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "순종할 것이다"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "～음성에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "행할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 모든 계명들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "～모든"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "그의 계명들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～하라는"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "명령하는"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:07.608735750Z",
+  "model": "glm-5.2"
+}

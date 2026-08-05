@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 6:9",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "엘로아흐께서 기뻐하셔서 ⟨את⟩ 나를 으깨시기를, ⟨그의⟩ 손을 떨치시어 ⟨את⟩ 나를 끊어내시기를.",
+  "tokens": [
+    {
+      "surface": "ויאל",
+      "gloss": "기뻐하셔서"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "엘로아흐께서"
+    },
+    {
+      "surface": "ודכאני",
+      "gloss": "⟨את⟩ 나를 으깨시기를",
+      "marks": "나를"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "떨치시어"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ובצעני",
+      "gloss": "⟨את⟩ 나를 끊어내시기를",
+      "marks": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:45.216943004Z",
+  "model": "glm-5.2"
+}

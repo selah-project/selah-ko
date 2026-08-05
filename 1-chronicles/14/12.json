@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그들이 거기서 ⟨את⟩ 자기 엘로힘들을 버렸고, 다윗이 말하자 그것들을 불태웠다. 불로.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "그리고 버렸고"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 엘로힘들을"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "자기 엘로힘들을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하자"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "그것들을 불태웠다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:47.201676893Z",
+  "model": "glm-5.2"
+}

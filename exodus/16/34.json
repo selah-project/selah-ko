@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼께서 모셰에게 명하신 대로, 아론이 그것을 증거 앞에 두어 보존되게 하였다.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "두어"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "증거"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "보존되게 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:39.743214773Z",
+  "model": "glm-5.2"
+}

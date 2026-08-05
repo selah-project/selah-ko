@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨그의⟩ 형제 아사프는 ⟨그의⟩ 오른편에 서 있었으니, 아사프는 베레키야후의 아들, 시마의 아들이다.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "그리고 ⟨그의⟩ 형제"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "아사프"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "서 있었으니"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "⟨그의⟩ 오른편"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "아사프"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "베레키야후"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "시마"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:58.076125531Z",
+  "model": "glm-5.2"
+}

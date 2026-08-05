@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그러나 너, 이스라엘아, 나의 종, 내가 택한 야곱아, 나의 사랑하는 자 아브라함의 씨야,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그러나 너"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "나의 종"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱아"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "내가"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "택한"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨야"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함의"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "나의 사랑하는 자"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:24.209284140Z",
+  "model": "glm-5.2"
+}

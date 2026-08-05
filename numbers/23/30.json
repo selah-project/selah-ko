@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "발락이 빌람이 말한 대로 행하매, 그가 제단마다 수소 한 마리와 숫양 한 마리를 올렸다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하매"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "발락이"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~한 대로"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말한"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌람이"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "올렸다"
+    },
+    {
+      "surface": "פר",
+      "gloss": "수소"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "숫양"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "제단에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:42:10.038800687Z",
+  "model": "glm-5.2"
+}

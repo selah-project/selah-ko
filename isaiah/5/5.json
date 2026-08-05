@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 이제 너희에게 알리리라. ⟨את⟩ ⟨그것⟩ — 내가 내 포도원에 행하는 것을. 그의 울타리를 거두어 내니 ⟨그것⟩은 불사름이 되고, 그의 담을 허무니 ⟨그것⟩은 밟힘이 되리라.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "알리리라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "나"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내가 내 포도원에 행하는 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하는"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "내 포도원에"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "거두어 내니"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "그의 울타리를"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨그것⟩은 … 되고"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "불사름이"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "허무니"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "그의 담을"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨그것⟩은 … 되리라"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "밟힘이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:50.607071224Z",
+  "model": "glm-5.2"
+}

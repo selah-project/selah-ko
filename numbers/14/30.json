@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "만일 너희가 ⟨들어간다면⟩ — 내가 너희를 그곳에 거하게 하려고 ⟨את⟩ 내 손을 들어 ⟨가리킨⟩ 그 땅에 ⟨들어간다면⟩ — 내가 너희를 그곳에 거하게 하려고 ⟨את⟩ 내 손을 들어 ⟨가리킨⟩ 그 땅에는, 오직 여분네의 아들 칼렙과 눈의 아들 여호수아만이 ⟨들어갈 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "⟨들어간다면⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨그⟩ 땅에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨그⟩ 땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨가리킨⟩"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "들어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 손"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손을"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "거하게 하려고"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨즉⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "칼렙"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "여분네의"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "그리고 여호수아"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נון",
+      "gloss": "눈의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:36:16.969067113Z",
+  "model": "glm-5.2"
+}

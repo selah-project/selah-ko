@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "화, 집을 집에 닿게 하는 자들, 밭을 밭에 가까이 가져오는 자들, 자리가 끝이 날 때까지! 그리하여 너희가 홀로 땅 한가운데 자리 잡게 되리라.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "닿게 하는 자들"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "밭을"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "밭에"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "가까이 가져오는 자들"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "끝이"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "자리가"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "그리하여 너희가 자리 잡게 되리라"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:50.607585270Z",
+  "model": "glm-5.2"
+}

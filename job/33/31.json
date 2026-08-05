@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "귀를 기울여라, 아이욥아, 내 말을 들어라. 잠잠해라, 그러면 내가 말하리라.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "귀를 기울여라"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "아이욥아"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내 말을"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "잠잠해라"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "그러면 내가"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "말하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:18.565564822Z",
+  "model": "glm-5.2"
+}

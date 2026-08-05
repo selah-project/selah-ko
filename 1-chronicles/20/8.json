@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이들은 갓에서 라파에게서 태어났고, 다윗의 손에 그리고 그의 종들의 손에 쓰러졌다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "이들은"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "태어났고"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "라파에게서"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "갓에서"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "쓰러졌다"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:07.553703226Z",
+  "model": "glm-5.2"
+}

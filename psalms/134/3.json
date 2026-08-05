@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 134,
+  "translation": "야훼께서 시온에서 ⟨너를⟩ 축복하시기를, 하늘과 땅을 만드신 이시여!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "축복하시기를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "시온에서"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만드신 이시여"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘과"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:00.886564002Z",
+  "model": "glm-5.2"
+}

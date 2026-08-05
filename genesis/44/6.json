@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그가 그들을 따라잡으매, 그들에게 ⟨את⟩ ⟨이⟩ 말들, ⟨이⟩ 것들을 말하였다.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "그가 그들을 따라잡으매"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말들"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이 것들을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:10.352257124Z",
+  "model": "glm-5.2"
+}

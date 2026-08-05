@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "너에게는 내 얼굴 앞에 다른 엘로힘이 있지 아니할 것이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니할 것이다"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있지"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게는"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "על",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:36.610878315Z",
+  "model": "glm-5.2"
+}

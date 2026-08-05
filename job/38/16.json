@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 38:16",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "네가 바다의 샘들까지 들어갔으며, 테홈의 수색을 걸어 다녔는가?",
+  "tokens": [
+    {
+      "surface": "הֲ֭בָאתָ",
+      "gloss": "들어갔으며"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "נִבְכֵי",
+      "gloss": "샘들"
+    },
+    {
+      "surface": "יָ֑ם",
+      "gloss": "바다의"
+    },
+    {
+      "surface": "וּבְחֵ֥קֶר",
+      "gloss": "수색을"
+    },
+    {
+      "surface": "תְּ֝ה֗וֹם",
+      "gloss": "테홈의"
+    },
+    {
+      "surface": "הִתְהַלָּֽכְתָּ",
+      "gloss": "걸어 다녔는가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:11:43.980284266Z",
+  "model": "glm-5.2"
+}

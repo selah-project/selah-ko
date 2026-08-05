@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "모셰는 그의 장인의 말을 들었고, 그가 말한 모든 것을 행하였다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "그리고 … 들었고"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰는"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "… 말(소리)을"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "그의 장인의"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 … 행하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "그가 말한"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:43.933670796Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그 ⟨앞⟩에서 땅이 떨며, 하늘들이 흔들린다. 해와 달이 어두워지고, 별들이 그 빛을 거둔다.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "그 ⟨앞⟩에서"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "떤다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "흔들린다"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들이"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "그리고 달이"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "어두워진다"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "그리고 별들이"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "거둔다"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "그 빛을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:08:50.315944684Z",
+  "model": "glm-5.2"
+}

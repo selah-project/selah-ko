@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 7:2",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "왕이 에스더에게, 포도주 잔치 둘째 날에도, 말하였다. \"에스더 왕비여, 그대의 청원이 무엇이냐? 그것이 그대에게 주어질 것이다. 그리고 그대의 요구가 무엇이냐? 왕국의 절반까지라도 이루어질 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "에스더에게"
+    },
+    {
+      "surface": "גם",
+      "gloss": "∼도"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "∼날에"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "잔치에서"
+    },
+    {
+      "surface": "היין",
+      "gloss": "포도주"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이냐"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "그대의 청원이"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "왕비여"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "주어질 것이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "무엇이냐"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "그대의 요구가"
+    },
+    {
+      "surface": "עד",
+      "gloss": "∼까지라도"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "절반"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "왕국의"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "이루어질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:21.970298670Z",
+  "model": "glm-5.2"
+}

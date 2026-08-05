@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 내가 내 손을 ⟨את⟩ 뻗어서, 내가 그 가운데서 행할 ⟨את⟩ 모든 나의 기적으로 ⟨את⟩ 미츠라임을 칠 것이요, 그 후에 그가 ⟨את⟩ 너희를 보내리라.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "그리고 내가 뻗어서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 손을"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손을"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "그리고 내가 칠 것이요"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미츠라임을"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임을"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "— 모든"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "나의 기적으로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 행할"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "그 가운데서"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 … 후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "그가 보내리라"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 너희를",
+      "marks": "너희를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:47:24.531975555Z",
+  "model": "glm-5.2"
+}

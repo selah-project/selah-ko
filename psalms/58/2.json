@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 58,
+  "translation": "참으로 ⟨너희가⟩ 침묵으로 의를 말하며, 사람들의 아들아, 너희가 곧게 심판하느냐?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "침묵으로"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "의를"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "곧게"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "심판하느냐"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들아"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:58.518584735Z",
+  "model": "glm-5.2"
+}

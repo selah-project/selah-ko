@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 너희가 그들의 가증한 것들과 그들의 우상들 — 그들과 함께 있는 나무와 돌, 은과 금을 보았다 —",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "그리고 너희가 보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 가증한 것들"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "그들의 가증한 것들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그들의 우상들"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "그들의 우상들"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…하는"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "그들과 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:39.808445122Z",
+  "model": "glm-5.2"
+}

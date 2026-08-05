@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 너는 코헨들 곧 레위인들에게, 그리고 그 날들에 있게 될 판관에게 나아가, 물으면 그들이 너에게 ⟨את⟩ 판결의 말을 알려 줄 것이다.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "그리고 너는 나아가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위인들"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 에게"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "판관"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있게 될"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "그 날들에"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "그"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "그리고 너는 물으면"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "그들이 알려 줄 것이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "판결의 말"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "판결의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:11.146360199Z",
+  "model": "glm-5.2"
+}

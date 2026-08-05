@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야곱의 허벅지에서 나온 모든 네페쉬는 칠십 네페쉬였다. 그리고 요셉은 미츠라임에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "나온"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "허벅지"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "칠십"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "그리고 요셉은"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "미츠라임에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:44.307178468Z",
+  "model": "glm-5.2"
+}

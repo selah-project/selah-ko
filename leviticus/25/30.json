@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 25:30",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 만일 그가 그에게 온전한 한 해가 차기까지 무르지 아니하면, 성벽이 없는 도시에 있는 그 집은 그것을 산 ⟨자⟩에게 ⟨그의⟩ 대대로 영영히 확립될 것이다; 그것은 요벨에 나가지 아니할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "무르지"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "차기"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "한 해가"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "온전한"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "그리고 …확립될 것이다"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…(하는)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "도시에 있는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…(인)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "성벽이"
+    },
+    {
+      "surface": "לצמיתת",
+      "gloss": "영영히"
+    },
+    {
+      "surface": "לקנה",
+      "gloss": "산 자에게"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것(집)"
+    },
+    {
+      "surface": "לדרתיו",
+      "gloss": "⟨그의⟩ 대대로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나가지"
+    },
+    {
+      "surface": "ביבל",
+      "gloss": "요벨에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:24:25.826058457Z",
+  "model": "glm-5.2"
+}

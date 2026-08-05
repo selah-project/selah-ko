@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "밤을 갈망하지 말라 — 백성들이 그 자리에서 올라감을 위하여.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "갈망한다"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤을"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "올라감을 위하여"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들이"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "그 자리에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:52.914238473Z",
+  "model": "glm-5.2"
+}

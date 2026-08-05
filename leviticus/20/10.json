@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 ⟨어떤⟩ 남자가 다른 남자의 아내와, 곧 ⟨그⟩ 자기 이웃의 아내와 간음하는 남자는, 그 간음한 남자와 그 간음한 여자는 반드시 죽임을 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 남자"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…하는"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "간음하는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아내"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧 …하는"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "간음하는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아내"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "자기 이웃"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽임을"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "당할 것이다"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "그 간음한 남자"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "그리고 그 간음한 여자"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:04.638879950Z",
+  "model": "glm-5.2"
+}

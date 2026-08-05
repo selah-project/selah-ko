@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 비냐민 자손에게서 ⟨온 자는⟩ 살루, 메술람의 아들, 호다뱌의 아들, 하스누아의 아들이었다.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에게서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "비냐민"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "살루"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "메술람"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "호다뱌"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "하스누아"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:49.234822138Z",
+  "model": "glm-5.2"
+}

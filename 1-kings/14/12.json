@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 너, 일어나 네 집으로 가거라 — 네 발이 도시에 들어설 때에, 아이가 죽을 것이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 너"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "가거라"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "네 집으로"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "들어설 때에"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "네 발이"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "도시에"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "그리고…죽을 것이다"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "아이가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:19.748089599Z",
+  "model": "glm-5.2"
+}

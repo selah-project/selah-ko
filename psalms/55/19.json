@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "평화 속에서 내 네페쉬를 속량하셨다. 나와 가까이 있는 자들에게서. 나와 함께한 자들이 많았음이라.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "속량하셨다"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "평화 속에서"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬를"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나와 가까이 있는 자들에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…이므로"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "많은 자들이"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "나와 함께한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:45.713116276Z",
+  "model": "glm-5.2"
+}

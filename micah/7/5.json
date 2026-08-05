@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이웃을 믿지 말라, 친한 자를 신뢰하지 말라. 네 품에 누운 자에게서 네 입의 문들을 지키라.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תַּאֲמִ֣ינוּ",
+      "gloss": "믿으려무나"
+    },
+    {
+      "surface": "בְרֵ֔עַ",
+      "gloss": "이웯을"
+    },
+    {
+      "surface": "אַֽל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תִּבְטְח֖וּ",
+      "gloss": "신뢰하려무나"
+    },
+    {
+      "surface": "בְּאַלּ֑וּף",
+      "gloss": "친한 자를"
+    },
+    {
+      "surface": "מִשֹּׁכֶ֣בֶת",
+      "gloss": "누운"
+    },
+    {
+      "surface": "חֵיקֶ֔ךָ",
+      "gloss": "네 품에"
+    },
+    {
+      "surface": "שְׁמֹ֖ר",
+      "gloss": "지키라"
+    },
+    {
+      "surface": "פִּתְחֵי",
+      "gloss": "문들을"
+    },
+    {
+      "surface": "פִֽיךָ",
+      "gloss": "네 입의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:14:55.940608395Z",
+  "model": "glm-5.2"
+}

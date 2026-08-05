@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 1:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 말씀하셨다. \"땅은 싹을 내어라 — 씨를 맺는 풀씨, 씨가 그 안에 있는 과실나무가 ⟨그⟩ 종류대로 과실을 맺으며, 땅 위에.\" 그리 되었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "תדשא",
+      "gloss": "내어라"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅은"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "싹을"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "풀"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "맺는"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨를"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무가"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "과실"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "맺으며"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "과실을"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "종류대로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "씨가"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그리"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:26.567368538Z",
+  "model": "glm-5.2"
+}

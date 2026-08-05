@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그의 진노를 위하여 길을 평탄케 하셨다. 그들의 네페쉬를 죽음에서 아끼지 아니하셨고, 그들의 생명을 데베르에 넘겨주셨다.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "평탄케 하셨다"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "길을"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "그의 진노를 위하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "아끼셨다"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "죽음에서"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "그들의 네페쉬를"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "그리고 그들의 생명을"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "데베르에"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "넘겨주셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:39.659837908Z",
+  "model": "glm-5.2"
+}

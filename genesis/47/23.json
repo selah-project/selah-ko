@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "그리고 요셉이 그 백성에게 말하였다. \"보라, 내가 오늘 너희를, 그리고 ⟨את⟩ 너희의 토지를 파르오에게 샀다. 보라, 너희에게 씨앗이 있다, 그리고 너희가 ⟨את⟩ 그 땅에 씨를 뿌릴 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ~가 말하였다"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "내가 샀다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "너희의 토지를"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "너희의 토지"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "파르오에게"
+    },
+    {
+      "surface": "הא",
+      "gloss": "보라"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨앗이"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "그리고 너희가 씨를 뿌릴 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅에"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "그 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:47.391022318Z",
+  "model": "glm-5.2"
+}

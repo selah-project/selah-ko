@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "야곱이 ⟨את⟩ 라반의 낯을 보니, 보라, 전날과 같이 그와 함께하지 않았다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보니"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "라반의 낯을"
+    },
+    {
+      "surface": "פני",
+      "gloss": "낯을"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반의"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "함께하지 않았다"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "전날과"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "같이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:49.615365975Z",
+  "model": "glm-5.2"
+}

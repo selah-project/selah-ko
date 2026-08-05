@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "왕이 하자엘에게 이르되, 네 손에 예물을 가지고 가서 엘로힘의 사람을 만나라. 그리고 그를 통하여 ⟨את⟩ 야훼께 물어 이르기를, '내가 이 병에서 살아나겠습니까' 하라.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "이르되"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "하자엘"
+    },
+    {
+      "surface": "קח",
+      "gloss": "가지고"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "네 손에"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "예물을"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "만나라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "물어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "그를 통하여"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "살아나겠습니까"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "병에서"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:54.444317289Z",
+  "model": "glm-5.2"
+}

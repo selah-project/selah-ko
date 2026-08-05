@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 26:2",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "사람의 아들아, 쯔르가 예루샬라임을 향해 말하였음으로 말미암아 — '하하, 백성들의 문들이 부서졌도다. 나에게로 돌려졌으니 내가 차리라, 황폐해진 그것으로' —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "יען",
+      "gloss": "—말미암아"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—(관계사)"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "צר",
+      "gloss": "쯔르가"
+    },
+    {
+      "surface": "על",
+      "gloss": "향해"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임을"
+    },
+    {
+      "surface": "האח",
+      "gloss": "'하하'"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "부서졌도다"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "문들이"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "백성들의"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "돌려졌으니"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게로"
+    },
+    {
+      "surface": "אמלאה",
+      "gloss": "내가 차리라"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "황폐해진 그것으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:55:47.693109878Z",
+  "model": "glm-5.2"
+}

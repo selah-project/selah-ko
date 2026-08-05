@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 4:1",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 내 안에서 말하던 말라크가 돌아왔고, 나를 깨웠다 — 마치 그의 잠에서 깨어나는 사람처럼.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아왔다"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "그 말라크가"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말하던"
+    },
+    {
+      "surface": "בי",
+      "gloss": "내 안에서"
+    },
+    {
+      "surface": "ויעירני",
+      "gloss": "나를 깨웠다"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "사람처럼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "깨어나는"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "그의 잠에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:18:57.438556054Z",
+  "model": "glm-5.2"
+}

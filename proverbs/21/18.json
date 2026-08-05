@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "속전이 의로운 자를 위한 것은 악인이요, 곧은 자들의 자리에 배신자이다.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "속전이"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "의로운 자를 위한"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인이요"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "그리고 …의 자리에"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "곧은 자들의"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "배신자이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:30.433097855Z",
+  "model": "glm-5.2"
+}

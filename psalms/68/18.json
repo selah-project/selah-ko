@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "엘로힘의 병거들 — 두 번의 만 대, 수천의 반복이로다. 아도나이께서 그들 가운데 계시니, 시내이, 거룩 안에서.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "병거들"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "두 번의 만 대"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "수천의"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "반복이로다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들 가운데"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "시내이"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "거룩 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:43.557373825Z",
+  "model": "glm-5.2"
+}

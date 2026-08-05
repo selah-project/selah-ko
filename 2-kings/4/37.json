@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그녀가 들어와 그의 발 앞에 엎드리어 땅에 절하였다. 그리고 ⟨את⟩ 그녀의 아들을 안아 올리고 나갔다.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "그녀가 들어왔다"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "그녀가 엎드렸다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "그의 발"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "그녀가 절하였다"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "그녀가 안아 올렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 아들"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "그녀의 아들"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "그녀가 나갔다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:40.610148719Z",
+  "model": "glm-5.2"
+}

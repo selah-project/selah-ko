@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "야훼께서 가드에게, 다윗의 선견자에게, 말씀하셔서 이르시기를",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하셔서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "גד",
+      "gloss": "가드"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "선견자"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:09.950222179Z",
+  "model": "glm-5.2"
+}

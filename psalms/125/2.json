@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 125,
+  "translation": "예루샬라임 — 산들이 ⟨그⟩ 둘레에 있고, 이와 같이 야훼께서 ⟨당신의⟩ 백성 둘레에 계시니, 이제부터 영원까지.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들이"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨그⟩ …에게"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "이와 같이 야훼께서"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에 계시니"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "백성"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "이제부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:16.579298941Z",
+  "model": "glm-5.2"
+}

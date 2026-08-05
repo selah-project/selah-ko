@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "해가 지고 정결하게 되면, 그 후에 거룩한 것들에서 먹을 것이니, 그것은 그의 양식이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וּבָא",
+      "gloss": "들면"
+    },
+    {
+      "surface": "הַשֶּׁמֶשׁ",
+      "gloss": "해가"
+    },
+    {
+      "surface": "וְטָהֵר",
+      "gloss": "정결하게 되면"
+    },
+    {
+      "surface": "וְאַחַר",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "먹을"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הַקֳּדָשִׁים",
+      "gloss": "거룩한 것들"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לַחְמוֹ",
+      "gloss": "그의 양식이"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "그것은"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:19.330012032Z",
+  "model": "glm-5.2"
+}

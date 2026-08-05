@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 그는 ⟨את⟩ 수소를 만남의 천막 어귀로, 야훼 앞으로 가져와야 한다. 그리고 그는 자기 손을 ⟨את⟩ 수소의 머리 위에 얹고, 야훼 앞에서 그 수소를 ⟨את⟩ 도축할 것이다.",
+  "tokens": [
+    {
+      "surface": "וְהֵבִיא",
+      "gloss": "그리고 …가져와야 한다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "수소를"
+    },
+    {
+      "surface": "הַפָּר",
+      "gloss": "수소"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "פֶּתַח",
+      "gloss": "어귀"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "앞에서(앞으로)"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וְסָמַךְ",
+      "gloss": "그리고 …얹고"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "자기 손을"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "자기 손"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "머리"
+    },
+    {
+      "surface": "הַפָּר",
+      "gloss": "수소의"
+    },
+    {
+      "surface": "וְשָׁחַט",
+      "gloss": "그리고 …도축할 것이다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 수소를"
+    },
+    {
+      "surface": "הַפָּר",
+      "gloss": "수소"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T08:11:51.322549511Z",
+  "model": "glm-5.2"
+}

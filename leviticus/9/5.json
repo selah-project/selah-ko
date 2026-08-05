@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그들이 ⟨את⟩ 모셰가 명령한 것을 만남의 장막 앞으로 가져오니, 온 회중이 가까이 나아와 야훼 앞에 섰다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 가져오니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰가 명령한 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which\/that"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령한"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אל",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "פני",
+      "gloss": "앞"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "나아와"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "섰다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:33.555515211Z",
+  "model": "glm-5.2"
+}

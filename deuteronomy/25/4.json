@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "소가 타작할 때에 그 입에 재갈을 물리지 말지니라.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "말지니라"
+    },
+    {
+      "surface": "תַחְסֹ֥ם",
+      "gloss": "재갈을 물리지"
+    },
+    {
+      "surface": "שׁ֖וֹר",
+      "gloss": "소가"
+    },
+    {
+      "surface": "בְּדִישֽׁוֹ",
+      "gloss": "타작할 때에"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:59.391695372Z",
+  "model": "glm-5.2"
+}

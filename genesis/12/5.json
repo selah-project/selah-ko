@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "아브라함이 ⟨아내⟩ 사라이와 ⟨조카⟩ ⟨את⟩ 롯과 그들의 모든 소유를 데리고 떠났으니, 사라이는 그의 아내이요 롯은 그의 형제의 아들이며, 그 소유는 그들이 모은 것이요, 그리고 ⟨את⟩ 그들이 하란에서 얻은 ⟨את⟩ 네페쉬도 함께 데리고, 가나안 땅으로 가려고 떠나 가나안 땅에 이르렀다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하였다"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사라이를"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사라이"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "롯을"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "롯"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 소유를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "그들의 소유"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "그들이 모은"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 네페쉬를"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "그 네페쉬"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "그들이 얻은"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "하란에서"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "그들이 나아갔다"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "가기 위해"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 이르렀다"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:04.412212362Z",
+  "model": "glm-5.2"
+}

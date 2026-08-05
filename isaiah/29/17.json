@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "아주 잠시 후가 아니겠는가, 레바논이 갈멜로 돌아오고, 갈멜이 숲으로 여겨질 것이다.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "아니겠는가"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "아주 적음"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "돌아올 것이다"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "레바논이"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "갈멜로"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "그리고 갈멜이"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "숲으로"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "여겨질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:07.938557051Z",
+  "model": "glm-5.2"
+}

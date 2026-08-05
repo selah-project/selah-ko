@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨그⟩ 여자가 ⟨그⟩ 뱀에게 말하였다. \"동산 나무들의 열매를 우리가 먹으니,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여자가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "그 뱀"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "에서 열매를"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "동산의"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "우리가 먹으니"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:45.563142609Z",
+  "model": "glm-5.2"
+}

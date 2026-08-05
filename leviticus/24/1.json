@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "야훼께서 모셰에게 말씀하셔서 이르시되",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하셔서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시되"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:48.407767706Z",
+  "model": "glm-5.2"
+}

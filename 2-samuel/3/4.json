@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 3:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "넷째는 하깃의 아들 아도니야요, 다섯째는 아비달의 아들 스바댜이다.",
+  "tokens": [
+    {
+      "surface": "והרביעי",
+      "gloss": "그리고 넷째는"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "아도니야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "하깃의"
+    },
+    {
+      "surface": "והחמישי",
+      "gloss": "그리고 다섯째는"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "스바댜"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אביטל",
+      "gloss": "아비달의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:33.714134781Z",
+  "model": "glm-5.2"
+}

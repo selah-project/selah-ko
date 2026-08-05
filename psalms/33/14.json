@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그의 앉으신 처소에서 ⟨그가⟩ 모든 땅의 거주자들을 주목하셨다.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "처소에서"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "그의 앉으신"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "주목하셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨…⟩을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:44.744961669Z",
+  "model": "glm-5.2"
+}

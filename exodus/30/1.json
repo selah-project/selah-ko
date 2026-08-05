@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 너는 분향하는 제단을 만들되, 향을 피우는 것이니, 싯팀 나무로 ⟨그것을⟩ 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 만들 것이다"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "향을 피우는"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "것이니"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무로"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "싯팀"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 만들 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:16.161648429Z",
+  "model": "glm-5.2"
+}

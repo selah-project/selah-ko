@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 백성이 대답하여 말하였다. “우리에게 ⟨서⟩, ⟨את⟩ 야훼를 버리고 다른 엘로힘을 섬기는 것은 멀리하소서!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "그리고 대답하여"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "멀리하소서"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "버리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "섬기는"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    }
+  ],
+  "timestamp": "2026-08-05T09:12:45.494410275Z",
+  "model": "glm-5.2"
+}

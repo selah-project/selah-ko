@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그가 야훼의 눈에 바른 것을 행하였다. 다만 그의 조상 다윗처럼는 아니하였고, 그의 아버지 요아쉬가 행한 모든 것을 행하였다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가 … 행하였다"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "바른 것"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…의 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "다윗처럼"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 조상"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행한"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "요아쉬"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:52.241047068Z",
+  "model": "glm-5.2"
+}

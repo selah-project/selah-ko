@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 26:36",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 너는 그 텐트 입구를 위한 덮개를 만들어라 — 청색 자줏빛, 붉은 실, 그리고 꼬아 만든 가는 아마 실로, 수놓는 자의 솜씨로.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 만들어라"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "덮개를"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "입구를 위한"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "그 텐트"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "청색"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "그리고 자줏빛"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "שני",
+      "gloss": "붉은 실"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "꼬아 만든"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "솜씨로"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "수놓는 자의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:38.676453665Z",
+  "model": "glm-5.2"
+}

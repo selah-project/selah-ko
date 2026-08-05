@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "주의 말씀의 머리는 에메트이요, 영원토록 주의 의의 모든 미쉬팟은 ⟨옳다⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "주의 말씀의"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "에메트"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "그리고 영원토록"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "미쉬팟"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "주의 의의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:35.760416429Z",
+  "model": "glm-5.2"
+}

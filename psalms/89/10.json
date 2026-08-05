@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "주가 바다의 거만함을 다스리십니다 — 그 넘치는 파도를 주가 잠재우십니다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "주가"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "다스리시니"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "거만함을"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다의"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "넘칠 때에"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "그 파도가"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "주가"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "잠재우신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:07.694803447Z",
+  "model": "glm-5.2"
+}

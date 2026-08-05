@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "맛보아라, 그리고 보아라, 야훼가 선하심을. 그에게 피신하는 사람, ⟨그⟩는 복이 있다.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "맛보아라"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "그리고 보아라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…임을"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "선하심"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨그⟩ 사람은"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "피신하는"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:02.738757670Z",
+  "model": "glm-5.2"
+}

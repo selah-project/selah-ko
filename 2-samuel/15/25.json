@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "왕이 차독에게 말하였다. \"엘로힘의 ⟨את⟩ 궤를 ⟨그⟩ 성읍으로 돌려보내라. 내가 야훼의 눈에 헨을 얻으면, 그가 나를 돌려보내시어 나에게 ⟨את⟩ 그것과 ⟨את⟩ 그의 거처를 보여주실 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "차독에게"
+    },
+    {
+      "surface": "השב",
+      "gloss": "돌려보내라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤를"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성읍으로"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "내가 얻으면"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "그가 나를 돌려보내시어"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "나에게 보여주실 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 거처"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "그의 거처를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:40:36.110363701Z",
+  "model": "glm-5.2"
+}

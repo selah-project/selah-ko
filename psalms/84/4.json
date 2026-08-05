@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "참새도 집을 찾았고, 제비도 자기를 위한 둥지를, 자기 새끼들을 놓아둘, ⟨את⟩ 주의 제단들 곁에 — 만군의 야훼여, 나의 왕이시요 나의 엘이시여!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "~도"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "참새도"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "찾았고"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "제비도"
+    },
+    {
+      "surface": "קן",
+      "gloss": "둥지를"
+    },
+    {
+      "surface": "לה",
+      "gloss": "자기를 위한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~곳"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "놓아둘"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "자기 새끼들을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "주의 제단들"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "주의 제단들"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "나의 왕이시요"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "나의 엘이시여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:20.928270606Z",
+  "model": "glm-5.2"
+}

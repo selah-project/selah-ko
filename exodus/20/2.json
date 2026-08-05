@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "나는 야훼 네 엘로힘이다. 너를 미츠라임 땅에서, 종들의 집에서 이끌어 낸 ⟨이⟩다.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "너를 이끌어 낸"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "종들의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:43.920356046Z",
+  "model": "glm-5.2"
+}

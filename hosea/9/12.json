@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "설령 그들이 ⟨את⟩ 그들의 아들들을 키워도, 내가 그들을 사람들에게서 자식 잃은 자가 되게 하리니, 이는 또한 그들에게 화가 있음이라 — 내가 그들에게서 떠날 때에.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אם",
+      "gloss": "설령"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "그들이 키워도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 아들들을"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "그들의 아들들을"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "내가 그들을 자식 잃은 자가 되게 하리니"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "사람들에게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "화가"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "내가 떠날 때에"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그들에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:46.581461636Z",
+  "model": "glm-5.2"
+}

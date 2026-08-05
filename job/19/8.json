@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 19:8",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그가 ⟨나의⟩ 길을 가로막아 내가 지나가지 못하게 하셨고, 어둠을 ⟨나의⟩ 길들 위에 두셨다.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "⟨나의⟩ 길을"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "가로막아"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "못하게 하셨고"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "내가 지나가지"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "נתיבותי",
+      "gloss": "⟨나의⟩ 길들"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠을"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "두셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:27.528667561Z",
+  "model": "glm-5.2"
+}

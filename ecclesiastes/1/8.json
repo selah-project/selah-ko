@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "모든 말씀들이 지치다; ⟨사람⟩은 말할 수 없다; 눈은 보아도 만족하지 않고 귀는 들어도 채워지지 않는다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들이"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "지치다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "능하다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "말"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "만족한다"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈은"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보아도"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "채워진다"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "귀는"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "들어도"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:14.304570203Z",
+  "model": "glm-5.2"
+}

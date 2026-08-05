@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "나는 내 옷으로 거친 베를 입고, 그들에게 속담거리가 되었다.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "나는 입고"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "내 옷으로"
+    },
+    {
+      "surface": "שק",
+      "gloss": "거친 베를"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "속담거리가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:52.584414024Z",
+  "model": "glm-5.2"
+}

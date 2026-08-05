@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그는 ⟨את⟩ 그의 형제들을 데리고 그를 추적하였으니, 칠 일(七日) 길을 가서, 길르앗 산에서 ⟨그⟩ 를 따라잡았다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "데리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 형제들을"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들을"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "추적하였으니"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "따라잡았다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에서"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "길르앗"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:06.945296142Z",
+  "model": "glm-5.2"
+}

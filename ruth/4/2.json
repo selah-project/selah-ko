@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그가 ⟨그⟩ 성읍 장로들 가운데서 열 사람을 취하고 말하였다. \"여기 앉으시오.\" 그들이 앉았다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "장로들 가운데서"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "앉으시오"
+    },
+    {
+      "surface": "פה",
+      "gloss": "여기"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "앉았다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:35.188392460Z",
+  "model": "glm-5.2"
+}

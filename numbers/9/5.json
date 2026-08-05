@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 그들이 ⟨את⟩ 페사흐를 지켰다 — 첫 달, 그 달의 십사 일에, 해 질 녘에, 시나이 광야에서 — 야훼께서 ⟨את⟩ 모셰에게 명령하신 모든 것에 따라, 이스라엘 아들들이 그와 같이 하였다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그리고 그들이 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "페사흐를"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "그 페사흐"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "첫 달에"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "십사에"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "일"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "그 달의"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "해ערבים",
+      "gloss": "해 질 녘"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "시나이"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것에 따라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "∼것"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰를"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰에게"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:09.643913746Z",
+  "model": "glm-5.2"
+}

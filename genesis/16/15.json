@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 하갈이 아브람에게 아들을 낳았고, 아브람이 하갈이 낳은 자기 아들의 이름을 이쉬마엘이라 불렀다.",
+  "tokens": [
+    {
+      "surface": "וַתֵּלֶד",
+      "gloss": "그리고 ⟨그녀가⟩ 낳았다"
+    },
+    {
+      "surface": "הָגָר",
+      "gloss": "하갈이"
+    },
+    {
+      "surface": "לְאַבְרָם",
+      "gloss": "아브람에게"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "וַיִּקְרָא",
+      "gloss": "그리고 ⟨그가⟩ 불렀다"
+    },
+    {
+      "surface": "אַבְרָם",
+      "gloss": "아브람이"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "בְּנוֹ",
+      "gloss": "자기 아들의"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨그⟩ whom"
+    },
+    {
+      "surface": "יָלְדָה",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "הָגָר",
+      "gloss": "하갈이"
+    },
+    {
+      "surface": "יִשְׁמָעֵאל",
+      "gloss": "이쉬마엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:24.651481652Z",
+  "model": "glm-5.2"
+}

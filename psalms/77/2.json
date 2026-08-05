@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "나의 소리가 엘로힘께로, 내가 부르짖으리니, 나의 소리가 엘로힘께로, 그리고 ⟨그가⟩ 내 귀를 기울이시리라.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "나의 소리가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께로"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "내가 부르짖으리니"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "나의 소리가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께로"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "그리고 ⟨그가⟩ 귀를 기울이시리라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:22.676674641Z",
+  "model": "glm-5.2"
+}

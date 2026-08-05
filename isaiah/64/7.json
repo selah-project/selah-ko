@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "이제 야훼, 우리 아버지시여, 주이시니이다. 우리는 진흙이고 주는 우리를 빚으시는 이, 우리 모두가 주의 손의 만드신 것이니이다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "우리 아버지시여"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "주이시니이다"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리는"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "그 진흙이고"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 주는"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "우리를 빚으시는 이"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "그리고 만드신 것"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "주의 손의"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "우리 모두가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:20.537180147Z",
+  "model": "glm-5.2"
+}

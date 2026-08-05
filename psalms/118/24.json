@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "이것은 야훼께서 만드신 날입니다, 우리가 기뻐하고 그 안에서 즐거워합시다.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "이것은"
+    },
+    {
+      "surface": "היום",
+      "gloss": "납니다"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "…만드신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "우리가 기뻐하고"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "즐거워합시다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:18.347774265Z",
+  "model": "glm-5.2"
+}

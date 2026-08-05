@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리하여 미츠라임에는 아무 일도 없을 것이니, 머리나 꼬리, 잎사귀나 갈대가 할.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리하여 … 아니다"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을 것이니"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "미츠라임에는"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "일"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…가"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "할"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "꼬리"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "잎사귀"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "갈대"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:37.112859065Z",
+  "model": "glm-5.2"
+}

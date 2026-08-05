@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "⟨그가⟩ ⟨את⟩ 내 길들을 비키게 하시고, ⟨את⟩ 나를 찢으셨으며, ⟨את⟩ 나를 황무하게 내버려 두셨다.",
+  "tokens": [
+    {
+      "surface": "דְּרָכַי",
+      "gloss": "내 길들을"
+    },
+    {
+      "surface": "סוֹרֵר",
+      "gloss": "비키게 하시고"
+    },
+    {
+      "surface": "וַיְפַשְּׁחֵנִי",
+      "gloss": "나를 찢으셨으며"
+    },
+    {
+      "surface": "שָׂמַנִי",
+      "gloss": "나를 내버려 두셨다"
+    },
+    {
+      "surface": "שֹׁמֵם",
+      "gloss": "황무하게"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:12.227291678Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "주님의 ⟨거룩한⟩ 무리가 그 안에 거하였다. 가난한 자를 위하여 주님의 선하심으로 준비하셨다. 엘로힘이시다.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "주님의"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "준비하셨다"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "주님의 선하심으로"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "가난한 자를 위하여"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:17.669391756Z",
+  "model": "glm-5.2"
+}

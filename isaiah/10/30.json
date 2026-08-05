@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "갈림의 딸아, 네 소리를 내어라; 라이샤야, 귀를 기울여라; 가련한 아나톳아.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "내어라"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "네 소리를"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸아"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "갈림의"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "귀를 기울여라"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "라이샤야"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "가련한"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "아나톳아"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:49.599804950Z",
+  "model": "glm-5.2"
+}

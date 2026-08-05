@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "엿새 동안 너는 네 일을 하여라. 그리고 일곱째 날에는 샤밧하라 — 이는 네 소와 네 나귀가 쉬게 하려 함이요, 네 여종의 아들과 ⟨그⟩ 나그네가 숨을 돌리게 하려 함이다.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "엿새"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 하여라"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "네 일을"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "그리고 …날에"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "너는 샤밧하라"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…하게 하려 함이요"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "쉬"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "네 소가"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "그리고 네 나귀가"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "그리고 숨을 돌리"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "네 여종의"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "그리고 ⟨그⟩ 나그네가"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:14.076019413Z",
+  "model": "glm-5.2"
+}

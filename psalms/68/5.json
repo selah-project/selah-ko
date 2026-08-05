@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "엘로힘께 노래하라, 그분의 이름을 연주하라, 야의 이름으로 광야를 타고 가시는 그분을 위하여 길을 높이 들라, 그리고 그분의 앞에서 기뻐 뛰어라.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘께"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "연주하라"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그분의 이름을"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "높이 들라"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "타고 가시는 그분을 위하여"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "광야를"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "야의 이름으로"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그분의 이름을"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "그리고 기뻐 뛰어라"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그분의 앞에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:29.010333306Z",
+  "model": "glm-5.2"
+}

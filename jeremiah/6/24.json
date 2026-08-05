@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "우리가 ⟨את⟩ 그 풍문을 들었으매 우리 손이 늘어졌도다. 고난이 우리를 붙잡았으니, 해산하는 여인 같은 산고로다.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "우리가 들었으매"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 풍문"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "풍문"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "늘어졌도다"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "우리 손이"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "고난이"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "우리를 붙잡았으니"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "산고로다"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "해산하는 여인 같은"
+    }
+  ],
+  "timestamp": "2026-08-05T10:28:07.079615170Z",
+  "model": "glm-5.2"
+}

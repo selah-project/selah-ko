@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 6:19",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그가 온 백성에게, 곧 온 이스라엘의 무리에게 나누어 주되, 남자에서부터 여자에 이르기까지 각자에게 빵 떡 하나, 에쉬파르 하나, 아쉬샤 하나를 주니, 온 백성이 각자 자기 집으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "그가 나누어 주었다"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "온 ~에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "온 ~에게"
+    },
+    {
+      "surface": "המון",
+      "gloss": "무리에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "남자에서부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "~에 이르기까지"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여자"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "사람마다에게"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "떡 하나를"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "에쉬파르"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "아쉬샤"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가니"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "자기 집으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:41.452646021Z",
+  "model": "glm-5.2"
+}

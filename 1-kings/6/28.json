@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 그 그룹들을 금으로 덮으셨다.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "그리고 덮으셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 그룹들을"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "그 그룹들을"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:06.572542807Z",
+  "model": "glm-5.2"
+}

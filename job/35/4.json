@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "내가 너에게 말들로 답하고, ⟨את⟩ 네 동료들도 너와 함께 답하리라.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "너에게 답하고"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "말들로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "네 동료들도"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "네 동료들도"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:53.639848655Z",
+  "model": "glm-5.2"
+}

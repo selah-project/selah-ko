@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 그들은 금 사슬 두 개를 만들어 ⟨그⟩ 두 고리 끝에, 곧 흉배 끝에 달았다.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "그리고 그들은 달았다"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "사슬"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "고리"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "끝"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "흉배"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:11.448632948Z",
+  "model": "glm-5.2"
+}

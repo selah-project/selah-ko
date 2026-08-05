@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그들의 유업으로 그들에게 있었던 것은 브엘셰바와 셰바와 몰라다이다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었던 것은"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "그들의 유업으로"
+    },
+    {
+      "surface": "באר",
+      "gloss": "브엘"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "셰바와"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "몰라다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:09:52.155467447Z",
+  "model": "glm-5.2"
+}

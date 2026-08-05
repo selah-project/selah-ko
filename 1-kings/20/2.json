@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그가 사자들을 아하브, 이스라엘 왕에게 그 성읍 안으로 보내었다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그가 … 보내었다"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "사자들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "그 성읍 안으로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:50:02.220916452Z",
+  "model": "glm-5.2"
+}

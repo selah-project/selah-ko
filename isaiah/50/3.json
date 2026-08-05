@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "내가 하늘들에 어둠을 입히며, 그것들의 덮개로 굵은 베를 두르노라.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "내가 입히며"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들에"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "어둠을"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "그리고 굵은 베를"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "두르노라"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "그것들의 덮개로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:05.866508757Z",
+  "model": "glm-5.2"
+}

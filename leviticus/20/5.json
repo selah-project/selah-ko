@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그러면 나도 ⟨아닌⟩ ⟨את⟩ 얼굴을 그 사람에게, 그리고 그의 가문에게 향하시어, 그를, 그리고 ⟨את⟩ 모든 자를 — 그를 따라 ⟨את⟩ 몰레크를 따라 음란하기 위해 따르는 자들을 — 그들의 백성 가운데서 끊어버리시겠다.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "향하시겠다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "얼굴"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "그 사람에게"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "그의 가문에게"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "끊어버리시겠다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 자"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "음란하는 자들을"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그를 따라"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "음란하기 위해"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "따라"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "몰레크"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "그들의 백성"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:40.788096954Z",
+  "model": "glm-5.2"
+}

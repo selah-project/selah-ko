@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "사람들 가운데서 쫓겨났으니, 그들 위로 도둑처럼 소리친다.",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "גֵּו",
+      "gloss": "가운데"
+    },
+    {
+      "surface": "יְגֹרָשׁוּ",
+      "gloss": "쫓겨났으니"
+    },
+    {
+      "surface": "יָרִיעוּ",
+      "gloss": "소리친다"
+    },
+    {
+      "surface": "עָלֵימוֹ",
+      "gloss": "그들 위로"
+    },
+    {
+      "surface": "כַּגַּנָּב",
+      "gloss": "도둑처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:00.849351957Z",
+  "model": "glm-5.2"
+}

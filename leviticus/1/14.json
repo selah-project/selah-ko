@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 만일 그의 코르반이 날짐승의 올라라 야훼를 향한 것이면, 그는 토파르 또는 비둘기 새끼들 가운데서 ⟨את⟩ 그의 코르반을 가까이 가져갈 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "그 날짐승의"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "그의 코르반이"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 향한"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "그리고 가까이 가져갈 것이다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "그 토파르"
+    },
+    {
+      "surface": "או",
+      "gloss": "또는"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "새끼들 가운데서"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "그 비둘기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 코르반을"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "그의 코르반을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:11:04.619526416Z",
+  "model": "glm-5.2"
+}

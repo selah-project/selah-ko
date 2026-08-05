@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 108,
+  "translation": "누가 나를 이끌어 견고한 성읍으로, 누가 나를 에돔까지 인도할고",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יֹבִלֵנִי",
+      "gloss": "나를 이끌어"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "성읍으로"
+    },
+    {
+      "surface": "מִבְצָר",
+      "gloss": "견고한"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "נָחַנִי",
+      "gloss": "나를 인도할고"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אֱדוֹם",
+      "gloss": "에돔"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:25.281908445Z",
+  "model": "glm-5.2"
+}

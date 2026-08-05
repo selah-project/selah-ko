@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "관리들이 예르미야후에게 노하여 그를 때렸다. 그리고 그를 예호나탄 서기관의 구금의 집에 넣었으니, 그것을 감옥으로 만들었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "그리고 노하였다"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "관리들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야후"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "그리고 때렸다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "그리고 넣었다"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "구금의"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "예호나탄"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "서기관"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만들었기 때문이다"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "집으로"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "감옥"
+    }
+  ],
+  "timestamp": "2026-08-05T10:40:52.453729783Z",
+  "model": "glm-5.2"
+}

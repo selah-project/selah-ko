@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "엘로힘이시여, ⟨당신이⟩ ⟨당신의⟩ 백성 앞에서 나가실 때, ⟨당신이⟩ 광야를 행군하실 때, 셀라.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "나가실 때"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨당신의⟩ 백성"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "행군하실 때"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "광야를"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:29.010739813Z",
+  "model": "glm-5.2"
+}

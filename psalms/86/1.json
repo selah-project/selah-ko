@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 86,
+  "translation": "기도, 다윗의. 야훼여, 당신의 귀를 기울여 나를 응답하소서. 나는 가난하고 궁핍한 자이기입니다.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "기도"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "기울여"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "당신의 귀를"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "나를 응답하소서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "불쌍히 여기소서"
+    },
+    {
+      "surface": "עני",
+      "gloss": "가난하고"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "궁핍한 자"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는 …이기입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:44.572959597Z",
+  "model": "glm-5.2"
+}

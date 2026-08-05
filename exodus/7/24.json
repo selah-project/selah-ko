@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 모든 미츠라임 사람들이 마실 물을 그 강 둘레를 파 ⟨내렸다⟩. 이는 그들이 그 강의 물을 마실 수 없었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "그리고 팠다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임 사람들이"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "둘레를"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "그 강"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "마실"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 …때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "수"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "마실"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "…의 물을"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "그 강"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:27.747440906Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그가 그에게 말씀하셨다. \"가거라, 부디 너의 형제들의 안녕과 ⟨את⟩ 양 떼의 안녕을 보고, ⟨나에게⟩ 말을 가져다다오.\" 그가 그를 헤브론 골짜기에서 보내시니, 그가 쉐켐에 이르렀다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가거라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "안녕을"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "안녕"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "너의 형제들의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "안녕을"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "안녕"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼의"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "가져다다오"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말을"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "보내시니"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "골짜기에서"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "헤브론"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "이르렀다"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "쉐켐에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:07.682543588Z",
+  "model": "glm-5.2"
+}

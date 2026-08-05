@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "미츠라임 위에 요셉을 알지 못하는 새 왕이 일어났다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "새"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츨라임"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—하는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "알지 못하는"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉을"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:44.307581316Z",
+  "model": "glm-5.2"
+}

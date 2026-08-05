@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 130,
+  "translation": "⟨이는⟩ ⟨당신과⟩ 함께 사유가 있기 ⟨때문⟩입니다. 그리하여 ⟨당신을⟩ 경외하게 하려 함입니다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신과 함께"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "사유가"
+    },
+    {
+      "surface": "למען",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "경외하게 하려 함입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:14.565703283Z",
+  "model": "glm-5.2"
+}

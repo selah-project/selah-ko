@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이것을 네가 알 ⟨있느냐⟩, 태초부터, 사람이 땅 위에 놓이던 때부터?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "네가 알"
+    },
+    {
+      "surface": "מני",
+      "gloss": "부터"
+    },
+    {
+      "surface": "עד",
+      "gloss": "태초"
+    },
+    {
+      "surface": "מני",
+      "gloss": "때부터"
+    },
+    {
+      "surface": "שים",
+      "gloss": "놓이던"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:38.222066123Z",
+  "model": "glm-5.2"
+}

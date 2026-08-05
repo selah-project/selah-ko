@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "오늘 이 날에 야훼 네 엘로힘께서 ⟨את⟩ 이 규례들과 ⟨את⟩ 이 법도들을 행하라고 네게 명령하신다. 그리고 너는 그것들을 지키고 행해야 한다, 온 마음과 온 네페쉬로.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이 날에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "네게 명령하신다"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하라고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 규례들"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "규례들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "이 법도들"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "법도들"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "너는 지키고"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "행해야 한다"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ 그것들을",
+      "marks": "그것들"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "네페쉬로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:42.467534553Z",
+  "model": "glm-5.2"
+}

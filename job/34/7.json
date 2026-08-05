@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "어떤 남자가 아이욥 같으리오? 그는 조롱을 물처럼 마시니이다.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "어떤"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "아이욥 같으리오"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "마시니이다"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "조롱을"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "물처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:28.977089062Z",
+  "model": "glm-5.2"
+}

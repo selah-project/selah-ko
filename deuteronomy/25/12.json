@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그러면 너는 ⟨את⟩ 그녀의 손을 잘라낼 것이다, 네 눈이 긍휼을 여기지 말 것이다.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "그러면 잘라낼 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 손을"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "그녀의 손을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "긍휼을 여기지"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "네 눈이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:59.449478887Z",
+  "model": "glm-5.2"
+}

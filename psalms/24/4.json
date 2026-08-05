@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "손이 깨끗한 자, 마음이 정결한 자 — 그는 헛된 것을 향해 ⟨자기⟩ 네페쉬를 들어올리지 아니하고, 거짓으로 맹세하지 아니하는 자라.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "깨끗한 자"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "손"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "그리고 정결한 자"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "마음"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "들어올리지"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "헛된 것을 향해"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "맹세하지"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "거짓으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:47.648371709Z",
+  "model": "glm-5.2"
+}

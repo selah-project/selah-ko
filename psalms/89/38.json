@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "달같이 영원히 굳게 설 것이며, 구름 ⟨속의⟩ 증인은 신실하다. 셀라.",
+  "tokens": [
+    {
+      "surface": "כְּ֭יָרֵחַ",
+      "gloss": "달같이"
+    },
+    {
+      "surface": "יִכּ֣וֹן",
+      "gloss": "굳게 설 것이며"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "וְעֵ֥ד",
+      "gloss": "증인은"
+    },
+    {
+      "surface": "בַּ֝שַּׁ֗חַק",
+      "gloss": "구름 ⟨속의⟩"
+    },
+    {
+      "surface": "נֶאֱמָ֥ן",
+      "gloss": "신실하다"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:48.011742507Z",
+  "model": "glm-5.2"
+}

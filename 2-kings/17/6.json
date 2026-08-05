@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "호셰아 제구 년에 아슈르 왕이 ⟨את⟩ 쇼메론을 잡고, ⟨את⟩ 이스라엘을 아슈르로 옮겨, 그들을 할라흐와 하보르, 고잔 강가와 마대의 성읍들에 살게 하였다.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "∼년에"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "제구"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "호셰아"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "잡고"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쇼메론"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "쇼메론을"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "옮겨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "아슈르로"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "살게 하였다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "할라흐와"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "하보르"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "강가"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "고잔"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "성읍들에"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "마대의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:32.203469171Z",
+  "model": "glm-5.2"
+}

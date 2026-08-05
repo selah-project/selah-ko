@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 날들이 돌아오매 한나가 임신하여 아들을 낳고, ⟨את⟩ 그의 이름을 쉼엘이라 불렀다. \"내가 야훼에게서 그를 구하였기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 있었다"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "돌아오매"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "ויהר",
+      "gloss": "그리고 임신하여"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "한나가"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳고"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "그리고 불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "쉼엘이라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "야훼에게서"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "구하였기"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:01.467493985Z",
+  "model": "glm-5.2"
+}

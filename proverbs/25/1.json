@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "이것들 또한 셸로모의 잠언들인데, 유다의 왕 히즈키야의 사람들이 옮겨 적었다.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "אֵ֭לֶּה",
+      "gloss": "이것들"
+    },
+    {
+      "surface": "מִשְׁלֵ֣י",
+      "gloss": "잠언들"
+    },
+    {
+      "surface": "שְׁלֹמֹ֑ה",
+      "gloss": "셸로모의"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "which"
+    },
+    {
+      "surface": "הֶ֝עְתִּ֗יקוּ",
+      "gloss": "옮겼다"
+    },
+    {
+      "surface": "אַנְשֵׁ֤י",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "חִזְקִיָּ֬ה",
+      "gloss": "히즈키야의"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:42.079097777Z",
+  "model": "glm-5.2"
+}

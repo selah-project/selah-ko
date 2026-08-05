@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 28:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "네 씨가 땅의 티끌 같이 될 것이요, 너는 서쪽과 동쪽과 북쪽과 남쪽으로 퍼져 나가며, 땅의 모든 족속이 너로 말미암아 그리고 네 씨로 말미암아 복을 받으리라.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "될 것이요"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 씨가"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "티끌 같이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ופרצת",
+      "gloss": "퍼져 나가며"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "서쪽으로"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "동쪽으로"
+    },
+    {
+      "surface": "וצפנה",
+      "gloss": "북쪽으로"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "남쪽으로"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "복을 받으리라"
+    },
+    {
+      "surface": "בך",
+      "gloss": "너로 말미암아"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "족속이"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "네 씨로 말미암아"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:46.453059219Z",
+  "model": "glm-5.2"
+}

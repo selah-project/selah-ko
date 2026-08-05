@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "내 잠자리 위에서, 밤들에, 내 네페쉬가 사랑하는 그를 ⟨את⟩ 찾았다 — ⟨그를⟩ 찾았으나 찾지 못하였다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "내 잠자리"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "밤들에"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "찾았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 네페쉬가 사랑하는 그"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "사랑하는"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "⟨그를⟩ 찾았으나"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "찾지 못하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:18.698817156Z",
+  "model": "glm-5.2"
+}

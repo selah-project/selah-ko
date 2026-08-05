@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 9:12",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 메피보셋에게 ⟨는⟩ 어린 아들이 있었으니, 그의 이름은 미카이다. 그리고 치바의 집에 거주하는 모든 이가 메피보셋의 종들이었다.",
+  "tokens": [
+    {
+      "surface": "ולמפיבשת",
+      "gloss": "그리고 메피보셋에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "어린"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "그리고 그의 이름은"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "미카"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "거주하는 이"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "치바"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "종들이었다"
+    },
+    {
+      "surface": "למפיבשת",
+      "gloss": "메피보셋의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:28.859681069Z",
+  "model": "glm-5.2"
+}

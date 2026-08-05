@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"너를 위해 돌 판 두 개를 처음 것들처럼 깎아내어라. 그러면 내가 그 판들 위에, 네가 깨뜨린 처음 판들 위에 있던 ⟨את⟩ 그 말씀들을 기록하리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "깎아내어라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "판"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "돌"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "처음 것들처럼"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "기록하리다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "그 판들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 말씀들"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "그 말씀들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "했던"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "그 판들"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "처음"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "네가 깨뜨린"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:09.731557870Z",
+  "model": "glm-5.2"
+}

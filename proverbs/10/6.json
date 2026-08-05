@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "축복들은 의로운 자의 머리 위에 ⟨있다⟩ 그러나 악인들의 입은 폭력을 덮는다.",
+  "tokens": [
+    {
+      "surface": "בְּ֭רָכוֹת",
+      "gloss": "축복들은"
+    },
+    {
+      "surface": "לְרֹ֣אשׁ",
+      "gloss": "머리 위에"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "의로운 자의"
+    },
+    {
+      "surface": "וּפִ֥י",
+      "gloss": "그러나 … 입은"
+    },
+    {
+      "surface": "רְ֝שָׁעִ֗ים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "יְכַסֶּ֥ה",
+      "gloss": "덮는다"
+    },
+    {
+      "surface": "חָמָֽס",
+      "gloss": "폭력을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:01.404096957Z",
+  "model": "glm-5.2"
+}

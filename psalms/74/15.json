@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "당신이 샘과 시냇물을 가르셨고, 당신이 항구적인 강들을 마르게 하셨다.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "בָּקַעְתָּ",
+      "gloss": "가르셨고"
+    },
+    {
+      "surface": "מַעְיָן",
+      "gloss": "샘을"
+    },
+    {
+      "surface": "וָנָחַל",
+      "gloss": "시냇물과"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "הוֹבַשְׁתָּ",
+      "gloss": "마르게 하셨다"
+    },
+    {
+      "surface": "נַהֲרוֹת",
+      "gloss": "강들을"
+    },
+    {
+      "surface": "אֵיתָן",
+      "gloss": "항구적인"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:55.523515835Z",
+  "model": "glm-5.2"
+}

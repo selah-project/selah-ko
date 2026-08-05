@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 35:14",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "⟨את⟩ 세 도시를 너희는 요르단 건너편에 주고, ⟨את⟩ 세 도시를 크나안 땅에 주어라. 도피성이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "세 도시"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "세"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "도시"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "너희는 주고"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "건너편에"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "세 도시"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "세"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "도시"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "너희는 주어라"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "크나안"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "도시들"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "도피성"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "될 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:08.728080583Z",
+  "model": "glm-5.2"
+}

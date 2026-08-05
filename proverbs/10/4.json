@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "나태한 손으로 일하면 가난해지나, 부지런한 자들의 손은 부유하게 한다.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "가난해지나"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "일하면"
+    },
+    {
+      "surface": "כף",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "나태한"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "그리고 손은"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "부지런한 자들의"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "부유하게 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:00.683408105Z",
+  "model": "glm-5.2"
+}

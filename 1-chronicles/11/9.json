@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "다윗은 나아가 점점 커졌으니, 만군의 야훼께서 ⟨그와⟩ 함께하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "점점"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "커졌으니"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "함께하셨기 때문이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:21.323093964Z",
+  "model": "glm-5.2"
+}

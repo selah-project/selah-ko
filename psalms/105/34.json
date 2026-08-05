@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "말씀하시매 메뚜기가 왔고, 누리가, 그리고 셀 수 없이 많았다.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말씀하시매"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "왔고"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "메뚜기"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "누리"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "수"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:11.447331740Z",
+  "model": "glm-5.2"
+}

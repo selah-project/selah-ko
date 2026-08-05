@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "나는 내 큰 능력과 내 뻗은 팔로 ⟨את⟩ 땅과 ⟨את⟩ 사람과 ⟨את⟩ 땅 위에 있는 짐승을 만들었고, 그것을 내 눈에 옳은 대로 주었노라.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "만들었고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "짐승"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것들이⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에 있는"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "내 능력으로"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "그리고 내 팔로"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "뻗은"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "그리고 그것을 주었노라"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "옳은 대로"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "내 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T19:37:13.520167936Z",
+  "model": "glm-5.2"
+}

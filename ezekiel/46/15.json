@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그리고 ⟨그들은⟩ ⟨את⟩ 그 어린 양과 ⟨את⟩ 그 믹차와 ⟨את⟩ 그 기름을 만들 것이다, 아침마다 아침마다, 끊임없는 올라가는 제물이다.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "그리고 만들 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 어린 양을"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "그 어린 양"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 믹차를"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "그 믹차"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 기름을"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "그 기름"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침마다"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침마다"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "올라가는 제물"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "끊임없는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:04:17.576911591Z",
+  "model": "glm-5.2"
+}

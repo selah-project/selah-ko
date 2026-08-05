@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "씻어라, 깨끗이 하라, 너희 행위들의 악을 내 눈 앞에서 옮겨라, 악을 행하 것을 그쳐라.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "씻어라,"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "깨끗이 하라,"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "옮겨라,"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "너희 행위들의"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "그쳐라,"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악을 행하는 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:16.358521778Z",
+  "model": "glm-5.2"
+}

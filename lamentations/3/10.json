@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "엎드린 곰이 그는 내게 있고, 숨은 곳들에 사자이다.",
+  "tokens": [
+    {
+      "surface": "דֹּב",
+      "gloss": "곰"
+    },
+    {
+      "surface": "אֹרֵב",
+      "gloss": "엎드린"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "사자"
+    },
+    {
+      "surface": "בְּמִסְתָּרִים",
+      "gloss": "숨은 곳들에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:12.227185210Z",
+  "model": "glm-5.2"
+}

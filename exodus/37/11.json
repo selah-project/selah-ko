@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 그가 ⟨את⟩ 그것을 순금으로 입혔으며, 그것에 금 테를 둘러 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "그리고 입혔다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "순"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "זר",
+      "gloss": "테를"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘러"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:19.249105771Z",
+  "model": "glm-5.2"
+}

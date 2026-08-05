@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "자기 마음에 신뢰하는 자, 그는 어리석은 자이고, 지혜 안에서 걷는 자, 그는 건져지리라.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "신뢰하는 자"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "자기 마음에"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "어리석은 자이고"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "그리고 걷는 자"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "지혜 안에서"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "건져지리다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:15.550486616Z",
+  "model": "glm-5.2"
+}

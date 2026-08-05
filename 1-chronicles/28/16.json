@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 진설상의 상들에 — 금을 ⟨את⟩ 무게별로, 상과 상마다; 그리고 은으로 — 음(銀) 상들에.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "금"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "무게별로"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "…에 대한 상들의"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "진설의"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "…에 대한 상"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "그리고 상"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "그리고 은으로"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "…에 대한 상들의"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은"
+    }
+  ],
+  "timestamp": "2026-08-05T12:50:50.353622123Z",
+  "model": "glm-5.2"
+}

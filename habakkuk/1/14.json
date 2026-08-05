@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리하여 사람을 바다 물고기 같이, 다스리는 자 없는 기어 다니는 것 같이 만드셨나이까?",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "만드셨나이까"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "물고기 같이"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "기어 다니는 것 같이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없는"
+    },
+    {
+      "surface": "משל",
+      "gloss": "다스리는 자"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:09.551639289Z",
+  "model": "glm-5.2"
+}

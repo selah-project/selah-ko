@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "다윗은 샤울이 자신의 네페쉬를 찾으러 나왔음을 보았다. 다윗은 쯔프 광야의 호레샤에 있었다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "라는 것을"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나왔"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "찾으러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 네페쉬"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "자신의 네페쉬를"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야의"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "쯔프"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "호레샤에 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:14.430794973Z",
+  "model": "glm-5.2"
+}

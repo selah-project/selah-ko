@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 그대들의 노략물이 거두어지리니, 메뚜기의 거둠 같고, 처럼 메뚜기 떼가 그 위로 몰려들듯 하리라.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "그리고 거두어지리니"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "그대들의 노략물이"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "거둠"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "메뚜기의"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "처럼"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "메뚜기 떼가"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "몰려들듯"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 위로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:28.102472797Z",
+  "model": "glm-5.2"
+}

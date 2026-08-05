@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "그가 땅에 그의 명령을 보내시니, 그의 말씀이 빠르게 달린다.",
+  "tokens": [
+    {
+      "surface": "הַשֹּׁלֵ֣חַ",
+      "gloss": "그가 보내시니"
+    },
+    {
+      "surface": "אִמְרָת֣וֹ",
+      "gloss": "그의 명령을"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מְ֝הֵרָ֗ה",
+      "gloss": "빠르게"
+    },
+    {
+      "surface": "יָר֥וּץ",
+      "gloss": "달린다"
+    },
+    {
+      "surface": "דְּבָרֽוֹ",
+      "gloss": "그의 말씀이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:03.509768769Z",
+  "model": "glm-5.2"
+}

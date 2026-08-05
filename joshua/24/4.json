@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 내가 이삭에게 ⟨את⟩ 야곱과 ⟨את⟩ 에서를 주시고, 에서에게 ⟨את⟩ 스에일 산을 주시어 그것을 차지하게 하셨다. 그러나 야곱과 그의 아들들은 미츠라임으로 내려갔다.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "그리고 내가 … 주시고"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "이삭에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야곱"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "에서"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에서"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "그리고 내가 … 주시어"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "에서에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "산"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "스에일"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "차지하게 하셨다"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "그러나 야곱은"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그리고 그의 아들들은"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "내려갔다"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임으로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:36:38.225151422Z",
+  "model": "glm-5.2"
+}

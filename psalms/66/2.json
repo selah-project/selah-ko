@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "그분의 이름의 영광을 노래하여라. 그분의 찬양에 영광을 두어라.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "노래하여라"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그분의 이름의"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "두어라"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광을"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "그분의 찬양에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:25.805454977Z",
+  "model": "glm-5.2"
+}

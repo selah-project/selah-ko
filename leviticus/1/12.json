@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그것을 그 토막들로 나눌 것이요, ⟨את⟩ 그 머리와 ⟨את⟩ 그 기름을 ⟨같이⟩. 코헨이 ⟨את⟩ 그것들을 그 불 위에 있는 나무 위에, 곧 제단 위에 있는 불 위에 있는 나무 위에 진열할 것이요.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "나눌 것이요"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "그 토막들로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 머리를"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "그 머리"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 기름을"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "그 기름"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "진열할 것이요"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "나무"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "있는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "האש",
+      "gloss": "불"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "있는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:56.317471265Z",
+  "model": "glm-5.2"
+}

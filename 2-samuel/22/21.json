@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 22:21",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "야훼께서 나의 체다카대로 내게 갚으셨고, 내 손의 깨끗함대로 내게 돌려주셨다.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "나에게 갚으셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "나의 의로움대로"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "…의 깨끗함대로"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "나의 손의"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "돌려주셨다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:14.492943700Z",
+  "model": "glm-5.2"
+}

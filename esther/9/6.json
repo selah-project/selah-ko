@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 수산 요새에서 유다인들이 오백 명을 살육하고 멸절하였다.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "그리고 수산에서"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "요새"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "살육하고"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "유다인들이"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "멸절하였다"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:20.042650788Z",
+  "model": "glm-5.2"
+}

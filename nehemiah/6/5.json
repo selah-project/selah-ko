@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 6:5",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 산발랏이 나에게 이와 같은 말로 다섯 번째로 ⟨את⟩ 그의 사환을 보내었는데, ⟨그의⟩ 손에 ⟨그⟩ 편지가 열려 있었다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내었다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "산발랏이"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말과 같이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "번째로"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 사환"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "그의 사환을"
+    },
+    {
+      "surface": "ואגרת",
+      "gloss": "그리고 편지가"
+    },
+    {
+      "surface": "פתוחה",
+      "gloss": "열려"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:35:26.863294207Z",
+  "model": "glm-5.2"
+}

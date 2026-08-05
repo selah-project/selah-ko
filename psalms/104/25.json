@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "이것이 ⟨그⟩ 바다, 크고 넓은 바다, 그곳에 기어 다니는 것들이 셀 수 없이 많으며, 작은 생물들 ⟨이⟩ 큰 것들 ⟨함께⟩ 있다.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크고"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "넓은"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "것"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "기어 다니는 것들이"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "셈"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "생물들"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "작은"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "큰 것들"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:51.575337629Z",
+  "model": "glm-5.2"
+}

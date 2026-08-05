@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "자신의 곧음으로 걷는 자는 야훼를 경외하고, 자기 길들이 굽은 자는 ⟨그를⟩ 멸시한다.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "걷는 자는"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "자신의 곧음으로"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "경외하고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "굽은 자는"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "자기 길들이"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "⟨그를⟩ 멸시한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:08.736572194Z",
+  "model": "glm-5.2"
+}

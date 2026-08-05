@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 사라이는 아브라함의 아내이 ⟨었다⟩ — 그에게 낳지 못하였다. 그리고 ⟨그⟩ 여종이 미츠라임 사람이 있었으니, 그리고 그녀의 이름은 하갈이었다.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "그리고 사라이는"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "…의 아내"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳지 못하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "그리고 ⟨그녀에게⟩"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "여종이"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "미츠라임 사람"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "그리고 그녀의 이름은"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "하갈"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:05.635729953Z",
+  "model": "glm-5.2"
+}

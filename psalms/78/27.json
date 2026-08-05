@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 78:27",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그가 그들 위에 고기를 먼지같이, 바다의 모래같이 날개 달린 새를 비처럼 내리셨다.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "비처럼-내리셨다"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들-위에"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "먼지같이"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "고기를"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "모래같이"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "바다의"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "날개-달린-새를"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "날개를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:36.347730360Z",
+  "model": "glm-5.2"
+}

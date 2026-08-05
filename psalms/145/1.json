@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "다윗의 찬양. 나의 엘로아흐시신 ⟨그⟩ 왕이시여, 내가 주를 높이겠고, 주의 이름을 영원히 송축하겠나이다.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "찬양"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "내가 주를 높이겠나이다"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "나의 엘로아흐이시여"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨그⟩ 왕이시여"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "그리고 내가 송축하겠나이다"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "주의 이름을"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:39.594126692Z",
+  "model": "glm-5.2"
+}

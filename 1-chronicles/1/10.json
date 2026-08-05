@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 쿠쉬는 ⟨את⟩ 님로드를 낳았으니, 그가 땅에서 용사가 되기 시작하였다.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "그리고 쿠쉬는"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "님로드를"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "님로드"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "החל",
+      "gloss": "…를 시작하였다"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "되기"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "용사"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:13.576224214Z",
+  "model": "glm-5.2"
+}

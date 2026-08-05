@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "내가 말하기를, 그들을 흩어 버리리라, 사람들에게서 그들의 기억을 끊으리라 하였다.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "내가 말하기를"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "그들을 흩어 버리리라"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "끊으리라"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "사람들에게서"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "그들의 기억을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:36.226602339Z",
+  "model": "glm-5.2"
+}

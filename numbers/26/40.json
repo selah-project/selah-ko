@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "블라의 아들은 아르드와 나아만이었다. 아르드에게 아르드 가문, 나아만에게 나아만 가문.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "이었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들은"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "블라의"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "아르드와"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "나아만이"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "아르드"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "나아만에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "나아만"
+    }
+  ],
+  "timestamp": "2026-08-05T08:44:01.516918352Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "얼마나 귀한가, 당신의 헤세드, 엘로힘이시여, 그리하여 인간의 아들들이 당신의 날개 그늘에서 피난한다",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "귀한가"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "당신의 헤세드"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "그리하여 아들들이"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "인간의"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "그늘에서"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "당신의 날개"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "피난한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:02.032824778Z",
+  "model": "glm-5.2"
+}

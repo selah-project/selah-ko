@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리하여 내가 그를 위하여 나를 위하여, 은 열다섯과 보리 한 호멜과 보리 반 레테크로 샀다.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "샀다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "한 호멜"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "보리"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "반 레테크"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "보리"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:28.256607148Z",
+  "model": "glm-5.2"
+}

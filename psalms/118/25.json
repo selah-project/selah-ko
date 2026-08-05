@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "청하옵나이다, 야훼여, 구원하소서, 청하옵나이다; 청하옵나이다, 야훼여, 형통케 하소서, 청하옵나이다.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "청하옵나이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "구원하소서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하옵나이다"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "청하옵나이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "형통케 하소서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하옵나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:35.940731171Z",
+  "model": "glm-5.2"
+}

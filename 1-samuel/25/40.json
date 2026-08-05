@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 25:40",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "다윗의 종들이 카르멜의 아비가일에게 와서 그에게 말하여 이르기를, 다윗이 우리를 그대에게 보내어 그대를 그에게 아내로 취하고자 하나이다, 하였다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "와서"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들이"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אביגיל",
+      "gloss": "아비가일"
+    },
+    {
+      "surface": "הכרמלה",
+      "gloss": "카르멜의"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "לקחתך",
+      "gloss": "그대를 취하고자"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:47:15.495797708Z",
+  "model": "glm-5.2"
+}

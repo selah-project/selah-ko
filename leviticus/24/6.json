@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 너는 그것들을 두 줄, 한 줄에 여섯씩 순결한 상 위에, 야훼 앞에 진열해야 한다.",
+  "tokens": [
+    {
+      "surface": "וְשַׂמְתָּ",
+      "gloss": "그리고 너는 놓아야 한다"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "שְׁתַּיִם",
+      "gloss": "둘"
+    },
+    {
+      "surface": "מַעֲרָכוֹת",
+      "gloss": "줄(로)"
+    },
+    {
+      "surface": "שֵׁשׁ",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "הַמַּעֲרָכֶת",
+      "gloss": "그 한 줄에"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הַשֻּׁלְחָן",
+      "gloss": "그 상"
+    },
+    {
+      "surface": "הַטָּהֹר",
+      "gloss": "순결한"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:24:08.148149531Z",
+  "model": "glm-5.2"
+}

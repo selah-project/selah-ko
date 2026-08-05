@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이제 나는 안다. 야훼께서 ⟨את⟩ 그의 마쉬아흐를 구원하신다는 것을. 그분께서 자신의 거룩한 하늘들에서 ⟨그⟩ 그에게 응답하시며, 자신의 오른손의 구원의 능력으로.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "나는 안다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "~라는 것을"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "구원하신다는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "그의 마쉬아흐를",
+      "marks_target": "그의 마쉬아흐"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "그에게 응답하시며"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "~에서"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "자신의 거룩한 하늘들"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "~의 능력으로"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "구원의"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "자신의 오른손"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:04.760740662Z",
+  "model": "glm-5.2"
+}

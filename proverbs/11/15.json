@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "나쁜 일을 당하리라, 타인의 보증이 되는 자는. 그러나 손뼉 치는 일(보증)을 미워하는 자는 확고하다.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "나쁜 일을"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "당하리라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "보증이 되는"
+    },
+    {
+      "surface": "זר",
+      "gloss": "타인의"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "그러나 미워하는"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "손뼉 치는 일(보증)을"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "확고하다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:28.891568502Z",
+  "model": "glm-5.2"
+}

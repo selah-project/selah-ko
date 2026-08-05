@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "어떤 사람에게 반항하고 거역하는 아들이 있어, 아버지의 목소리와 어머니의 목소리에 순종하지 아니하면 — 그들이 그를 징계하여도 그가 그들에게 순종하지 아니하면 —",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "…이면"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "있어"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "어떤 사람에게"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "סוֹרֵר",
+      "gloss": "반항하고"
+    },
+    {
+      "surface": "וּמוֹרֶה",
+      "gloss": "거속하는"
+    },
+    {
+      "surface": "אֵינֶנּוּ",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "שֹׁמֵעַ",
+      "gloss": "순종하지"
+    },
+    {
+      "surface": "בְּקוֹל",
+      "gloss": "목소리에"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "וּבְקוֹל",
+      "gloss": "목소리에"
+    },
+    {
+      "surface": "אִמּוֹ",
+      "gloss": "어머니의"
+    },
+    {
+      "surface": "וְיסְּרוּ",
+      "gloss": "징계하여도"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "יִשְׁמַע",
+      "gloss": "순종하지"
+    },
+    {
+      "surface": "אֲלֵיהֶם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:34.479036097Z",
+  "model": "glm-5.2"
+}

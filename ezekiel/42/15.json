@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 42:15",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그가 ⟨את⟩ 안쪽 집의 치수를 재는 것을 마치자, 나를 동쪽을 향하는 문의 길로 이끌어 내셨다. 그리고 그가 그것을 둘레를 따라 재었다.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "마치자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "치수를"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "치수"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "안쪽"
+    },
+    {
+      "surface": "והוציאני",
+      "gloss": "나를 이끌어 내셨다"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "השער",
+      "gloss": "문의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "향하는"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "≈"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "동쪽을"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "그가 재었다"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레를"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "따라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:52.249979694Z",
+  "model": "glm-5.2"
+}

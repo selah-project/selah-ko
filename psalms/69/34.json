@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "대저 야훼는 궁핍한 자들의 소리를 들으시며, ⟨את⟩ 그의 갇힌 자들을 멸시하지 아니하시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들으시며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(에게)"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "궁핍한 자들의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 갇힌 자들을"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "그의 갇힌 자들을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "멸시하시"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:49.398510363Z",
+  "model": "glm-5.2"
+}

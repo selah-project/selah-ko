@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 나는 ⟨את⟩ 아도나이의 음성이 말씀하시는 것을 들었다. \"내가 ⟨את⟩ 누구를 보내며, 누가 우리를 위하여 갈까?\" 나는 말하였다. \"제가 여기 있습니다. 저를 보내소서.\"",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "나는 들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "음성"
+    },
+    {
+      "surface": "קול",
+      "gloss": "음성"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이의"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하시는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "누구를"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구를"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "내가 보내며"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "갈까"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위하여"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "나는 말하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "저를 보내소서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:54.947111283Z",
+  "model": "glm-5.2"
+}

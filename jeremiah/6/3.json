@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그녀에게 목자들이 그들의 양 떼와 함께 오리니, 그녀 둘레에 천막들을 치고, 각자 자기 손으로 ⟨것을⟩ 먹이리라.",
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "오리니"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "목자들이"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "그들의 양 떼와"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "치고"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "천막들을"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "먹이리라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 손"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:28:25.121386044Z",
+  "model": "glm-5.2"
+}

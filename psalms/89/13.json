@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "북과 남을 당신이 창조하셨다. 타보르와 헤르몬이 당신의 이름으로 노래한다.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "북"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "그리고 남"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "창조하셨다"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "타보르"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "그리고 헤르몬"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "당신의 이름으로"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "노래한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:11.584749243Z",
+  "model": "glm-5.2"
+}

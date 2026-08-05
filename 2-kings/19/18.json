@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그들이 ⟨את⟩ 그들의 신들을 불에 던졌나이다. 그것들은 엘로힘이 아니니, 다만 사람의 손으로 만든 것, 나무와 돌이기 때문이옵니다. 그래서 그것들을 멸하였나이다.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "그리고 그들은 던졌나이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 신들"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "그들의 신들을"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이옵니다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그것들은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "다만"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "만든 것"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무와"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "그래서 그것들을 멸하였나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:16.651372862Z",
+  "model": "glm-5.2"
+}

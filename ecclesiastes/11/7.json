@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 빛은 달콤하며, ⟨את⟩ 해를 보는 것은 눈에 좋다.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "그리고 달콤하며"
+    },
+    {
+      "surface": "האור",
+      "gloss": "빛은"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "좋다"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보는 것은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "해"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:38.754850889Z",
+  "model": "glm-5.2"
+}

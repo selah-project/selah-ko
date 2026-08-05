@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "셰무엘이 ⟨את⟩ 모든 말씀들을 그에게 알리었고, 그에게 숨기지 아니하였다. 그가 말하였다. \"야훼시니, 그 눈에 좋은 대로 행하실 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알리었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셰무엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 말씀들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "숨기지"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼시니"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "좋은 것을"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "그 눈에"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하실 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:11.390862725Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그가 ⟨את⟩ 왕의 아들을 데리고 나와 그에게 ⟨את⟩ 왕관과 ⟨את⟩ 증거를 얹으니, 그들이 ⟨את⟩ 그를 세워 왕으로 삼고 그에게 기름을 부었다. 그들이 손뼹을 치며 \"왕이 만수무강하소서!\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "데리고 나와"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕의 아들을"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "얹으니"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕관"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "왕관"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "증거"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "증거를"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "세워 왕으로 삼고"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "그에게 기름을 부었다"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "치며"
+    },
+    {
+      "surface": "כף",
+      "gloss": "손뼹을"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "만수무강하소서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:51:53.742725537Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 110,
+  "translation": "⟨너의⟩ 백성은 자원하는 자들이다, ⟨너의⟩ 군대의 날에. 거룩함의 장식으로, 새벽의 태에서, ⟨너에게⟩ 너의 청년의 이슬이 있다.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "너의 백성"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "자원하는 자들"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…의 날에"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "너의 군대의"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "장식으로"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩함의"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "태에서"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "새벽의"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "טל",
+      "gloss": "이슬"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "너의 청년의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:05.965126871Z",
+  "model": "glm-5.2"
+}

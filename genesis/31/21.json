@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그는 그에게 있는 모든 것과 함께 도주하였고, 일어나 ⟨את⟩ 그 강을 건넜으며, ⟨את⟩ 그의 얼굴을 길르앗 산(山)으로 향하였다.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "도주하였고"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게 있는"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "건넜으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 강"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "그 강"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "향하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 얼굴"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "길르앗"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:06.944999550Z",
+  "model": "glm-5.2"
+}

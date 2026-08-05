@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "온전히 걷는 자는 안전히 걸을 것이요, ⟨그의⟩ 길들을 굽게 하는 자는 알려질 것이다.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "걷는"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "온전히"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "걸을 것이요"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "안전히"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "굽게 하는 자는"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "⟨그의⟩ 길들을"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "알려질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:58.640812562Z",
+  "model": "glm-5.2"
+}

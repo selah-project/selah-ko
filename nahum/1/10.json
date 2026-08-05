@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "이는 그들이 서로 얽힌 찔레나무 같고 그들의 독주에 취한 자 같아서 마른 짚처럼 온전히 삼켜질 것임이라",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…처럼"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "찔레나무"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "서로 얽힌"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "그들의 독주에"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "취한 자 같아서"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "삼켜질 것임이라"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "짚처럼"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "마른"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "온전히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:14:27.508132954Z",
+  "model": "glm-5.2"
+}

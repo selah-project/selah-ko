@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 24:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "야훼의 이름을 찌르는 자는 반드시 죽임을 당할 것이니, 온 회중이 반드시 그를 돌로 칠 것이다. 나그네든 본토인이든, 이름을 찌르면 반드시 죽임을 당할 것이다.”",
+  "tokens": [
+    {
+      "surface": "ונקב",
+      "gloss": "그리고 …찌르는 자"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽임을"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "당할 것이니"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "돌로 침을"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "할 것이다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "나그네든"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "본토인이든"
+    },
+    {
+      "surface": "בנקבו",
+      "gloss": "찌르면"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽임을 당할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:52.672827538Z",
+  "model": "glm-5.2"
+}

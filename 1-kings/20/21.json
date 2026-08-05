@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이스라엘 왕이 나아가 ⟨את⟩ 말과 ⟨את⟩ 병거를 치고, 아람을 크게 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "치고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "말"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "병거"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "아람을"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "크게"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T09:54:02.093208955Z",
+  "model": "glm-5.2"
+}

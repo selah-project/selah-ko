@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "네 원수가 넘어질 때 기뻐하지 말며, 그가 비틀거릴 때 네 마음이 즐거워하지 말라.",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "넘어질 때"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "네 원수가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "기뻐하지"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "그가 비틀거릴 때"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "즐거워하지"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:47.512066711Z",
+  "model": "glm-5.2"
+}

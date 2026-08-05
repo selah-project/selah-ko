@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 야훼의 말씀이 내게 임하였으니, 이르시기를 —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨그것은⟩ …였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:26:03.348773197Z",
+  "model": "glm-5.2"
+}

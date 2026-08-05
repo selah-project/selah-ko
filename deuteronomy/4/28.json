@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "너희가 거기서 사람의 손으로 만든 것들인, 보지도 못하고 듣지도 못하며 먹지도 못하고 냄새 맡지도 못하는 나무와 돌인 엘로힘들을 섬기리라.",
+  "tokens": [
+    {
+      "surface": "וַעֲבַדְתֶּם",
+      "gloss": "너희가 섬기리라"
+    },
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "אֱלֹהִ֔ים",
+      "gloss": "엘로힘들을"
+    },
+    {
+      "surface": "מַעֲשֵׂ֖ה",
+      "gloss": "것들인"
+    },
+    {
+      "surface": "יְדֵ֣י",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "עֵ֣ץ",
+      "gloss": "나무와"
+    },
+    {
+      "surface": "וָאֶ֔בֶן",
+      "gloss": "돌인"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "⟨그것들은⟩"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יִרְאוּן֙",
+      "gloss": "보지도"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יִשְׁמְע֔וּן",
+      "gloss": "듣지도"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יֹֽאכְל֖וּן",
+      "gloss": "먹지도"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יְרִיחֻֽן",
+      "gloss": "냄새 맡지도"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:16.692787412Z",
+  "model": "glm-5.2"
+}

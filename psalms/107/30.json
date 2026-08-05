@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그들이 잠잠하여지니 기뻐하였고, 그분께서 그들을 그들이 바라는 항구로 인도하셨다.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "기뻐하였다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "잠잠하여지니"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "인도하셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "로"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "항구"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "그들이 바라는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:12.172192779Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ ⟨그⟩ 예부스인과 ⟨את⟩ ⟨그⟩ 아모리인과 ⟨את⟩ ⟨그⟩ 기르가쉬인.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "예부스인"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "예부스인"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨아ת⟩",
+      "marks": "아모리인"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리인"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "기르가쉬인"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "기르가쉬인"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:36.433138916Z",
+  "model": "glm-5.2"
+}

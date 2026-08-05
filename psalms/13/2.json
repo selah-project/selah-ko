@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "언제까지 야훼, 저를 잊으시렵니까 — 영원히? 언제까지 ⟨את⟩ 얼굴을 제게서 숨기시렵니까?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "언제"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "저를 잊으시렵니까"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "언제"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "숨기시렵니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "얼굴을"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "제게서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:17.077644882Z",
+  "model": "glm-5.2"
+}

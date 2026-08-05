@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨את⟩ 그 집의 들보들과 문지방들과 그 벽들과 그 문들에 금을 입혔고, 그 벽들 위에 커룹들을 새겨 넣었다.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "그리고 덮었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "들보들"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "문지방들"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "그리고 그 벽들"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "그리고 그 문들"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "그리고 새겼다"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "커룹들"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "그 벽들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:57.927730024Z",
+  "model": "glm-5.2"
+}

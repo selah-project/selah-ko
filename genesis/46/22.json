@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "이들이 라헬의 아들들로서 야곱에게 태어난 자들이다. 모든 네페쉬가 십사이다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들로서"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(관계사)"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "태어난 자들이다"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "야곱에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬가"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "넷"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:43.424554269Z",
+  "model": "glm-5.2"
+}

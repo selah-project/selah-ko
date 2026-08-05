@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 16:22",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "분별력은 그 소유자에게 생명의 샘이지만, 어리석은 자의 훈계는 어리석음이다.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "샘"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "생명의"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "분별력은"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "그 소유자에게"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "그리고 훈계는"
+    },
+    {
+      "surface": "אולים",
+      "gloss": "어리석은 자의"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "어리석음이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:48.108949688Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "있었던 것은 멀고, 깊고 깊으니, 누가 ⟨그것을⟩ 찾아낼 수 있으랴.",
+  "tokens": [
+    {
+      "surface": "רָח֖וֹק",
+      "gloss": "멀고"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "שֶׁהָיָ֑ה",
+      "gloss": "있었던"
+    },
+    {
+      "surface": "וְעָמֹ֥ק",
+      "gloss": "깊고"
+    },
+    {
+      "surface": "עָמֹ֖ק",
+      "gloss": "깊으니"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יִמְצָאֶֽנּוּ",
+      "gloss": "찾아낼 수 있으랴"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:10.663351044Z",
+  "model": "glm-5.2"
+}

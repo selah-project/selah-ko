@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "활을 잡은 자도 버티지 못하고, 발이 빠른 자도 빠져나오지 못하며, 말 탄 자도 자기 네페쉬를 구하지 못하리라.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "잡은 자도"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "활을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하고"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "버티지"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "빠른 자도"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "발이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하며"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "빠져나오지"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "탄 자도"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "말"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하리라"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "구하지"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "자기 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:09:45.191540413Z",
+  "model": "glm-5.2"
+}

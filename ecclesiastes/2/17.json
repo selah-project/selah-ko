@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 나는 ⟨את⟩ 삶을 미워하였다. 하늘 아래에서 행해지는 그 일이 내게 악하기 때문이다. 온 것이 헤벨이요 루아흐의 르우트이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "그리고 미워하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "삶"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "삶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악하다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "그 일"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "행해지는"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "온 것"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헤벨"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "그리고 르우트"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:40.726680976Z",
+  "model": "glm-5.2"
+}

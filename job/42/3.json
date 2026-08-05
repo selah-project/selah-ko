@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "“누가 ⟨이것⟩이냐 — 지식 없이 모략을 가리는 자가. 그러므로 저는 선포하였으나 깨닫지 못하였습니다 — 저에게서 너무 기이한 일들, 그리고 저는 알지 못하였습니다.”",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨이것⟩"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "가리는"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "모략을"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "저는 선포하였으나"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아니다"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "깨닫다"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "기이한 일들"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "저에게서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아니다"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "알다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:05.100584906Z",
+  "model": "glm-5.2"
+}

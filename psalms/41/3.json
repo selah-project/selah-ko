@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "야훼가 그를 지키시고 살리신다. 땅에서 그를 복되게 하시며, 그의 원수들의 네페쉬에 넘겨주지 않으신다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "그를 지키시고"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "살리신다"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "복되게 하시며"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "하지 않으신다"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "넘겨"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "네페쉬에"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "원수들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:00.433567251Z",
+  "model": "glm-5.2"
+}

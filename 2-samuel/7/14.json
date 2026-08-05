@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 7:14",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "나는 그에게 아버지가 되고, 그는 내게 아들이 되리라. 그가 잘못을 저지르면, 내가 사람의 채찍과 사람 아들들의 상처로 그를 징계하리라.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "되리라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "아버지가"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 그는"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "되리라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "할 때"
+    },
+    {
+      "surface": "בהעותו",
+      "gloss": "그가 잘못을 저지르"
+    },
+    {
+      "surface": "והכחתיו",
+      "gloss": "그리고 나는 그를 징계하리라"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "…의 채찍으로"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ובנגעי",
+      "gloss": "그리고 …의 상처로"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:16.551636581Z",
+  "model": "glm-5.2"
+}

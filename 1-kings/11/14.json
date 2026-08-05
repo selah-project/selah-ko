@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 야훼께서 솔로몬에게 대적을 일으키셨다 — ⟨את⟩ 하다드 에돔 사람을, 그는 에돔에서 왕의 씨에서 난 자이다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "그리고 일으키셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "대적을"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "솔로몬에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하다드 에돔 사람"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하다드"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "에돔 사람을"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "씨에서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "에돔에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:09.688113919Z",
+  "model": "glm-5.2"
+}

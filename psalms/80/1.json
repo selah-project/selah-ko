@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "지휘자에게, '숏산님 증거'에 맞추어, 아사프의 시편",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…에 맞추어"
+    },
+    {
+      "surface": "שֹׁשַׁנִּ֑ים",
+      "gloss": "숏산님"
+    },
+    {
+      "surface": "עֵד֖וּת",
+      "gloss": "증거"
+    },
+    {
+      "surface": "לְאָסָ֣ף",
+      "gloss": "아사프의"
+    },
+    {
+      "surface": "מִזְמֽוֹר",
+      "gloss": "시편"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:19.184326267Z",
+  "model": "glm-5.2"
+}

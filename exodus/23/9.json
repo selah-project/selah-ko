@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 ⟨그⟩ 나그네를 억압하지 말아라. 너희는 ⟨את⟩ ⟨그⟩ 나그네의 네페쉬를 알고 있으니, 곧 너희가 미츠라임 땅에서 나그네들이었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "그리고 ⟨그⟩ 나그네"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "억압하지 말아라"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "그리고 너희는"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "알고 있다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나그네의 네페쉬"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "그 나그네의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧 …이기 때문에"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "나그네들"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "너희는 …이었다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:14.075619511Z",
+  "model": "glm-5.2"
+}

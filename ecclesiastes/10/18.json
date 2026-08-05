@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "게으름으로 지붕이 처지고, 손들의 나약함으로 집이 샌다.",
+  "tokens": [
+    {
+      "surface": "בַּעֲצַלְתַּ֖יִם",
+      "gloss": "게으름으로"
+    },
+    {
+      "surface": "יִמַּ֣ךְ",
+      "gloss": "처지고"
+    },
+    {
+      "surface": "הַמְּקָרֶ֑ה",
+      "gloss": "지붕이"
+    },
+    {
+      "surface": "וּבְשִׁפְל֥וּת",
+      "gloss": "그리고 나약함으로"
+    },
+    {
+      "surface": "יָדַ֖יִם",
+      "gloss": "손들의"
+    },
+    {
+      "surface": "יִדְלֹ֥ף",
+      "gloss": "샌다"
+    },
+    {
+      "surface": "הַבָּֽיִת",
+      "gloss": "집이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:09.163819611Z",
+  "model": "glm-5.2"
+}

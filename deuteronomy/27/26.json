@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "저주를 받을 자는 ⟨את⟩ 이 토라의 이 말씀들을 세워 행하지 않는 자이다. 그리고 온 백성이 아멘 하라고 ⟨할 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받을 자는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨자⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "않는"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "세워"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 토라의 이 말씀들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 …하라고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:27.492341749Z",
+  "model": "glm-5.2"
+}

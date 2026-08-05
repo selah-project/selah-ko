@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 아하론이 두 숫염소 위에 제비를 놓을 것이다 — 한 제비를 야훼를 위하여, 그리고 한 제비를 아자젤을 위하여.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "그리고 놓을 것이다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "숫염소"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "제비를"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "제비를"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 위하여"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "그리고 제비를"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "아자젤을 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:12.612670586Z",
+  "model": "glm-5.2"
+}

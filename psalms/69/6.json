@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "엘로힘이시여, 당신은 내 우매함을 아시나이다. 그리고 ⟨당신에게서⟩ 나의 허물들이 숨겨지지 아니하였나이다.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아시나이다"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "내 우매함을"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "그리고 나의 허물들이"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨당신에게서⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였나이다"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "숨겨지지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:53.136852483Z",
+  "model": "glm-5.2"
+}

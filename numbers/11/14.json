@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "나는 ⟨감당할⟩ 수 없다 — 내가 홀로 ⟨את⟩ 온 ⟨이⟩ 백성을 짊어지기에는, 그것이 내게 너무 무겁기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אוּכַ֤ל",
+      "gloss": "나는 …할 수 있다"
+    },
+    {
+      "surface": "אָנֹכִי֙",
+      "gloss": "내가"
+    },
+    {
+      "surface": "לְבַדִּ֔י",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "לָשֵׂ֖את",
+      "gloss": "짊어지기"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "온 백성"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הָעָ֣ם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "כָבֵ֖ד",
+      "gloss": "무겁다"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "내게보다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:05:16.859554507Z",
+  "model": "glm-5.2"
+}

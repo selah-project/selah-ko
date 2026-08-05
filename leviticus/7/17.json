@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 제물 고기에서 남은 것은 셋째 날에 불태워져야 한다.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "그리고 남은 것은"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "고기에서"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "제물의"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "셋째"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "태워져야 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:48.463412985Z",
+  "model": "glm-5.2"
+}

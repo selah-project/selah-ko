@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "죽음의 구덩이로 내려가는 자들과 함께 헤아려졌다. 나는 힘이 없는 사람 같이 되었다.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "헤아려졌다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "내려가는 자들"
+    },
+    {
+      "surface": "בור",
+      "gloss": "구덩이"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "사람 같이"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "איל",
+      "gloss": "힘이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:15.342619071Z",
+  "model": "glm-5.2"
+}

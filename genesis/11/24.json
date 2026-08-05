@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "나홀은 이십구 년을 살고, ⟨את⟩ 테라흐를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "살고"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "나홀은"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "구"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "이십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "테라흐를"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "테라흐"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:07.612240116Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "하늘로 올라갔다, 깊은 테호모트로 내려갔다, 그들의 네페쉬가 재앙 가운데서 녹아내렸다.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘로"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "내려갔다"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "깊은 테호모트로"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "그들의 네페쉬가"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "재앙 가운데서"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "녹아내렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:09.034323763Z",
+  "model": "glm-5.2"
+}

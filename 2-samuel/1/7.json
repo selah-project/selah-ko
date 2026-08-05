@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 뒤로 돌아서서 ⟨나를⟩ 보고 나를 불렀다. 내가 \"제가 여기 있습니다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "돌아서서"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "뒤로"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "보고"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:48:20.082323048Z",
+  "model": "glm-5.2"
+}

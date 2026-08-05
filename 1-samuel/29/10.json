@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "이제 아침에 일찍 일어나고, 그대와 함께 온 그대의 주인의 종들도 ⟨함께 하라⟩. 너희가 아침에 일찍 일어나 빛이 ⟨드거든⟩ 떠나가라.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "일찍 일어나고"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "종들도"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "그대의 주인의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "באו",
+      "gloss": "온"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "그대와 함께"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "빛이"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨드거든⟩"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "떠나가라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:46.220150913Z",
+  "model": "glm-5.2"
+}

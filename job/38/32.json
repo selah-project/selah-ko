@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 38:32",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "네가 마자롯을 그때에 끌어낼 수 있는가, 그리고 아이슈를 그 아들들 위에 인도할 수 있는가?",
+  "tokens": [
+    {
+      "surface": "התציא",
+      "gloss": "네가 끌어낼 수 있는가"
+    },
+    {
+      "surface": "מזרות",
+      "gloss": "마자롯을"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "ועיש",
+      "gloss": "그리고 아이슈를"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "그 아들들"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "네가 인도할 수 있는가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:11:41.259138134Z",
+  "model": "glm-5.2"
+}

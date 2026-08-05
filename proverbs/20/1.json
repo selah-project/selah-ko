@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "포도주는 조롱하는 자이고 독주는 떠드는 것이며, 그것에 빠지는 모든 자는 지혜로워지지 못한다.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "조롱하는 자는"
+    },
+    {
+      "surface": "היין",
+      "gloss": "포도주가"
+    },
+    {
+      "surface": "המה",
+      "gloss": "떠드는 것이며"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "독주는"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "빠지는 자는"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "지혜로워지지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:23.538376744Z",
+  "model": "glm-5.2"
+}

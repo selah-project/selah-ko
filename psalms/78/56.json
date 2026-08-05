@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그런데 그들은 시험하고 반역하였다, ⟨את⟩ 엘 엘리온을, 그리고 그의 증거들을 지키지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "그런데 그들은 시험하고"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "반역하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘 엘리온을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "엘리온"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "그리고 그의 증거들을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "지키지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:47.335244681Z",
+  "model": "glm-5.2"
+}

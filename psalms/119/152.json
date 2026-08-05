@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "오래 전에 나는 당신의 증거들을 알았나이다, 곧 당신이 그것들을 영원히 세우셨음을.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "오래 전에"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "나는 알았나이다"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "당신의 증거들을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "당신이 세우셨음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:32.420360304Z",
+  "model": "glm-5.2"
+}

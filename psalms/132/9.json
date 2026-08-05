@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 132,
+  "translation": "당신의 코헨들이 체데크를 입고, 당신의 헤시딤이 환성하리이다.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "당신의 코헨들이"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "입고"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "체데크를"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "당신의 헤시딤이"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "환성하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:40.052120417Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 그들이 ⟨את⟩ 그들의 뼈를 취하여, 그것을 야베쉬의 아셸 밑에 매장하였다. 그리고 일곱 날 동안 금식하였다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "그리고 그들이 취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 뼈를"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "그들의 뼈"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "그리고 매장하였다"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "밑에"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "그 아셸"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "야베쉬의"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "그리고 금식하였다"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T18:11:06.604645438Z",
+  "model": "glm-5.2"
+}

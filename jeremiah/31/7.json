@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 31:7",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "이는 야훼께서 이같이 말씀하셨기 때문이다. 야곱을 향하여 기쁨으로 노래하고, 민족들의 머리에서 환호하라. 널리 알리고 찬양하며 말하라. '야훼여, ⟨את⟩ 당신의 백성을, ⟨את⟩ 이스라엘의 남은 자를 구원하소서.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨기 때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "רנו",
+      "gloss": "노래하고"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "야곱을 향하여"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "기쁨으로"
+    },
+    {
+      "surface": "וצהלו",
+      "gloss": "환호하라"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "머리에서"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들의"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "널리 알리고"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "찬양하며"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "구원하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 백성을"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 남은 자를"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "남은 자를"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:36:41.558127558Z",
+  "model": "glm-5.2"
+}

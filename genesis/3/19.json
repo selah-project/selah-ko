@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "네 얼굴의 땀으로 빵을 먹을 것이니, 네가 ⟨그⟩ 땅으로 돌아갈 때까지, 네가 그것에서 취해졌기 때문이다. 네가 먼지이므로 먼지로 돌아갈 것이다.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "땀으로"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "네 얼굴의"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "먹을 것이다"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "네가 돌아갈"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨그⟩ 땅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "불순종하였으므로"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "취해졌다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이므로"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "먼지"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 으로"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "먼지"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "돌아갈 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:50.666607982Z",
+  "model": "glm-5.2"
+}

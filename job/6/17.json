@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 6:17",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "때에 그것들이 흘러가 사라지고, 더위에 그 자리에서 꺼졌다.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "יזרבו",
+      "gloss": "그것들이 흘러가다"
+    },
+    {
+      "surface": "נצמתו",
+      "gloss": "사라지다"
+    },
+    {
+      "surface": "בחמו",
+      "gloss": "더위에"
+    },
+    {
+      "surface": "נדעכו",
+      "gloss": "꺼졌다"
+    },
+    {
+      "surface": "ממקומם",
+      "gloss": "그 자리에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:04.489024273Z",
+  "model": "glm-5.2"
+}

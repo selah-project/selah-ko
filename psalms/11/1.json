@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "지휘자에게. 다윗의. 야훼 안에 ⟨나는⟩ 피하였다. 어찌하여 ⟨너희가⟩ ⟨나의⟩ 네페쉬에게 말하느냐, ⟨너희⟩ 새 같이 ⟨너희의⟩ 산으로 날아가라",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼 안에"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "피하였다"
+    },
+    {
+      "surface": "איך",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "말하느냐"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "네페쉬에게"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "날아가라"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "산으로"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "새"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:53.977037674Z",
+  "model": "glm-5.2"
+}

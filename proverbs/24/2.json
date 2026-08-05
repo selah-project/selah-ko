@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "대그릇 그들의 마음은 폭력을 음모하고, 그들의 입술은 재난을 말하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대…때문이다"
+    },
+    {
+      "surface": "שד",
+      "gloss": "폭력을"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "음모하다"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "그들의 마음은"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "그리고 재난을"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "그들의 입술은"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "말하다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:57.332556566Z",
+  "model": "glm-5.2"
+}

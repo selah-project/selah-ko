@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 76,
+  "translation": "지휘자에게, 현악기에 맞추어. 아사프의 미즈모르, 노래.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "현악기에 맞추어"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "미즈모르"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "아사프의"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:39.037212667Z",
+  "model": "glm-5.2"
+}

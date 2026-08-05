@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "내가 너희에게 좋은 가르침을 주었으니, 나의 토라를 버리지 말라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대략"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "가르침을"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었으니"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "나의 토라를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "버리"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:35.398001536Z",
+  "model": "glm-5.2"
+}

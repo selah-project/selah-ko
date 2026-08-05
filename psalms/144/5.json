@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 144,
+  "translation": "야훼여, ⟨그⟩ 하늘들을 기울이시고 내려오소서. 산들을 만지사, ⟨그것이⟩ 연기가 되게 하소서.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "הט",
+      "gloss": "기울이시고"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "⟨그⟩ 하늘들을"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "내려오소서"
+    },
+    {
+      "surface": "גע",
+      "gloss": "만지사"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "산들을"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "연기가 되게 하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:12.664119850Z",
+  "model": "glm-5.2"
+}

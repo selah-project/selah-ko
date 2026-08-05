@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그러나 서원하기를 그만둔다면, 네게 죄가 없을 것이다.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "그러나"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "그만둔다면"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "서원하기를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "죄가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:07.299095449Z",
+  "model": "glm-5.2"
+}

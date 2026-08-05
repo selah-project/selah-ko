@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 38:31",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "네가 키마의 띠를 묶을 수 있는가, 아니면 케실의 끈들을 풀 수 있는가?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "네가 묶을 수 있는가"
+    },
+    {
+      "surface": "מעדנות",
+      "gloss": "띠를"
+    },
+    {
+      "surface": "כימה",
+      "gloss": "키마의"
+    },
+    {
+      "surface": "או",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "משכות",
+      "gloss": "끈들을"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "케실의"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "네가 풀 수 있는가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:11:41.259031375Z",
+  "model": "glm-5.2"
+}

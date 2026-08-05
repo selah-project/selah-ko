@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 샤울의 딸 미칼이 ⟨את⟩ 다윗을 사랑하였고, 그것이 샤울에게 알려지니, 그 일이 그의 눈에 옳게 여겨졌다.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "그리고 사랑하였다"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "미칼이"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "그리고 알려지니"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "샤울에게"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "그리고 옳게 여겨졌다"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 일이"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "그의 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:04.466787560Z",
+  "model": "glm-5.2"
+}

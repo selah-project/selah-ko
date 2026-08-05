@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야곱이 물어 말하되 \"청하건대 당신의 이름을 알려주소서\" 하니, 그가 말씀하셨다. \"어찌하여 내 이름을 묻느냐?\" 그리고 그가 거기서 ⟨את⟩ 그를 축복하셨다.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "물으니"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "알려주소서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "당신의 이름을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말씀하셨다"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "묻느냐"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "내 이름을"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:08.493569399Z",
+  "model": "glm-5.2"
+}

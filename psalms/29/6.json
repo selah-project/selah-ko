@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그것들을 송아지 같이 뛰게 하시나니, 레바논과 시리온이 들소 새끼 같이 ⟨한다⟩.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "뛰게 하시나니"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "같이"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "송아지"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "레바논과"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "시리온이"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "같이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "새끼"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "들소"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:07.935957937Z",
+  "model": "glm-5.2"
+}

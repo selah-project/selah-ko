@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 5:3",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "이는 야훼 아도나이가 이같이 말씀하셨기 때문이다: 천 명을 이끌고 나가던 그 성읍은 백 명을 남길 것이요, 백 명을 이끌고 나가던 것은 이스라엘 가문에 열 명을 남길 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨기"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성읍은"
+    },
+    {
+      "surface": "היצאת",
+      "gloss": "나가던"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천 명을"
+    },
+    {
+      "surface": "תשאיר",
+      "gloss": "남길 것이요"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백 명을"
+    },
+    {
+      "surface": "והיוצאת",
+      "gloss": "나가던 것은"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백 명을"
+    },
+    {
+      "surface": "תשאיר",
+      "gloss": "남길 것이다"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열 명을"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "가문에"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:17.619223273Z",
+  "model": "glm-5.2"
+}

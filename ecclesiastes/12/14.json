@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "왜냐하면 엘로힘이 ⟨את⟩ 모든 행위를 심판으로 이끌어 오실 것이기 때문이다 — 모든 숨겨진 것 위에, 그것이 선하든지 그리고 악하든지.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 행위를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "행위"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "이끌어 오실 것이다"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "심판으로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "숨겨진 것"
+    },
+    {
+      "surface": "אם",
+      "gloss": "그것이 ~든지"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "선하"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 ~든지"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악하"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:38.550808796Z",
+  "model": "glm-5.2"
+}

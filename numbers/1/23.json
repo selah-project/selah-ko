@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그들의 점검된 자 수는 시므온 지파에 속한 자로, 오만 구천 삼백이었다.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "그들의 점검된 자"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "지파에"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "시므온"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "아홉"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "그리고 오십"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "그리고 삼"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    }
+  ],
+  "timestamp": "2026-08-05T08:27:03.155069849Z",
+  "model": "glm-5.2"
+}

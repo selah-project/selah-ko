@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "내가 ⟨את⟩ 관리들과 다투고 말하였다. \"어찌하여 엘로힘의 집이 버려졌는가?\" 하고, 내가 그들을 모으고 그들의 자리에 세웠다.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "내가 다투고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "관리들"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "관리들과"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "버려졌는가"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집이"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "내가 그들을 모으고"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "세웠다"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "그들의 자리에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:53.103203418Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "내 무릎은 금식으로 말미암아 비틀거리고, 내 살은 기름짐이 말랐습니다.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "내 무릎은"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "비틀거리고"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "금식으로 말미암아"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "내 살은"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "말랐습니다"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "기름짐이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:10.416474120Z",
+  "model": "glm-5.2"
+}

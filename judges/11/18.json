@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 광야를 걸어서, ⟨את⟩ 에돔 땅을 돌아 ⟨את⟩ 모압 땅을 돌아, 해 뜨는 쪽에서 모압 땅으로 와서 아르논 건너편에 진을 쳤다. 그들은 모압 영토 안으로 들어가지 아니하였으니, 아르논이 모압의 경계였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그리고 걸어서"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야를"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "그리고 돌아"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에돔 땅을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모압 땅을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 와서"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "해 뜨는 쪽에서"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "그리고 진을 쳤다"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "건너편에"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "아르논"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "באו",
+      "gloss": "들어가지"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "영토 안으로"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "아르논이"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:43:42.834359197Z",
+  "model": "glm-5.2"
+}

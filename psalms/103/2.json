@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "내 네페쉬야, ⟨את⟩ 야훼를 송축하여라, 그리고 그의 모든 보답을 잊지 말아라.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "송축하여라"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬야"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 … 말아라"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "잊지"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "그의 보답"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:03.894674852Z",
+  "model": "glm-5.2"
+}

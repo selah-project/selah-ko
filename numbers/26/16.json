@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "오즈니에게는 오즈니 가문, 에리에게는 에리 가문이 있으니",
+  "tokens": [
+    {
+      "surface": "לְאָזְנִ֕י",
+      "gloss": "오즈니에게는"
+    },
+    {
+      "surface": "מִשְׁפַּ֖חַת",
+      "gloss": "가문이"
+    },
+    {
+      "surface": "הָאָזְנִ֑י",
+      "gloss": "오즈니"
+    },
+    {
+      "surface": "לְעֵרִ֕י",
+      "gloss": "에리에게는"
+    },
+    {
+      "surface": "מִשְׁפַּ֖חַת",
+      "gloss": "가문이"
+    },
+    {
+      "surface": "הָעֵרִֽי",
+      "gloss": "에리"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:17.799489313Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 예호샤팟이 이스라엘 왕에게 말하였다. \"오늘 ⟨아트⟩ 야훼의 말씀을 구하십시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …가 말하였다"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "예호샤팟이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "구하십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 말씀"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:08.583721749Z",
+  "model": "glm-5.2"
+}

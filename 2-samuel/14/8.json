@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "왕이 ⟨그⟩ 여인에게 말씀하셨다. \"그대의 집으로 가십시오. 내가 그대에 관하여 명하겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여인"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "가십시오"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "그대의 집으로"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "명하겠습니다"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "그대에 관하여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:32.305412558Z",
+  "model": "glm-5.2"
+}

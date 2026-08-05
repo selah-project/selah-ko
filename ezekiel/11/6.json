@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "너희가 이 성 안에서 너희 죽임당한 자들을 많게 하였고, 그것의 바깥거리들을 시체로 채웠다.",
+  "tokens": [
+    {
+      "surface": "הרביתם",
+      "gloss": "너희가 많게 하였고"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "너희 죽임당한 자들을"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성 안에서"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ומלאתם",
+      "gloss": "채웠다"
+    },
+    {
+      "surface": "חוצתיה",
+      "gloss": "그것의 바깥거리들을"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "시체로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:49:32.181648400Z",
+  "model": "glm-5.2"
+}

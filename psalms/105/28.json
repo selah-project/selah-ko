@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "어둠을 보내사 ⟨그것이⟩ 어둡게 하셨는데, 그들이 ⟨את⟩ 그의 말씀에 거역하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "보내사"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠을"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "⟨그것이⟩ 어둡게 하셨는데"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨그리고⟩ … 아니하였다"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "거역하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 말씀에"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "그의 말씀에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:33.164673877Z",
+  "model": "glm-5.2"
+}

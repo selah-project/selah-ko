@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "야훼여, 분으로 나를 책망하지 마시고, 진노로 나를 징계하지 마소서.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…지 마시고"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "분으로"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "나를 책망하지"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…지 마소서"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "진노로"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "나를 징계하지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:48.470627784Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "이제 창조되었고 ⟨그것들은⟩ 옛적부터가 아니며, 오늘 이전에도 네가 ⟨그것들을⟩ 듣지 못하였다 — 네가 '보라, 내가 ⟨이미⟩ 알았다' 말하지 않도록.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "창조되었고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니며"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "옛적부터"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "이전에도"
+    },
+    {
+      "surface": "יום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "못하였다"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "네가 듣지"
+    },
+    {
+      "surface": "פן",
+      "gloss": "—하지 않도록"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "네가 말하지"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "알았다"
+    }
+  ],
+  "timestamp": "2026-08-05T19:47:10.492159817Z",
+  "model": "glm-5.2"
+}

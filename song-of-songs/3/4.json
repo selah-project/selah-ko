@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "내가 그들에게서 지나간 지 얼마되지 않아, 내 네페쉬가 사랑하는 그를 ⟨את⟩ 찾았을 때, ⟨그를⟩ 붙잡고 놓아주지 아니하였다 — 내 어머니의 집으로, 나를 임신한 이의 방으로 ⟨그를⟩ 데려올 때까지.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "얼마되지 않아"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "내가 지나간"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그들에게서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~할 때까지"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "내가 찾았"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 네페쉬가 사랑하는 그"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "사랑하는"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "⟨그를⟩ 붙잡고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "놓아주"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~할 때까지"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "내가 ⟨그를⟩ 데려온"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "내 어머니의"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~로"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "방"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "나를 임신한 이의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:18.699199373Z",
+  "model": "glm-5.2"
+}

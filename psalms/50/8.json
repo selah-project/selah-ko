@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "내가 너를 책망하지 않는 것은 네 제물 때문이 아니다. 네 올라들이 내 앞에 늘 있기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "네 제물"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "내가 너를 책망한다"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "그리고 네 올라들이"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "내 앞에"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "늘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:32.391637567Z",
+  "model": "glm-5.2"
+}

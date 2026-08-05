@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그가⟩ 그의 손을 그 염소의 머리 위에 얹고, 야훼 앞에서 올라(번제물)를 잡는 곳에서 그것을 잡아야 한다 — 그것은 하타트(속죄제물)이다.",
+  "tokens": [
+    {
+      "surface": "וְסָמַ֤ךְ",
+      "gloss": "그리고 얹고"
+    },
+    {
+      "surface": "יָדוֹ֙",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "רֹ֣אשׁ",
+      "gloss": "머리"
+    },
+    {
+      "surface": "הַשָּׂעִ֔יר",
+      "gloss": "그 염소의"
+    },
+    {
+      "surface": "וְשָׁחַ֣ט",
+      "gloss": "그리고 잡아야 한다"
+    },
+    {
+      "surface": "אֹת֔וֹ",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "בִּמְק֛וֹם",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "יִשְׁחַ֥ט",
+      "gloss": "잡는"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 올라"
+    },
+    {
+      "surface": "הָעֹלָ֖ה",
+      "gloss": "그 올라를"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "חַטָּ֖את",
+      "gloss": "하타트"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "그것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:04.453481127Z",
+  "model": "glm-5.2"
+}

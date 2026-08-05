@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "통치자들을 없는 것처럼 주시고, 땅의 재판관들을 텅 빈 것처럼 만드시는 분이시다",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "주시는 분이시다"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "통치자들을"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "없는 것처럼"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "재판관들을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "텅 빈 것처럼"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만드시는"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:08.505267866Z",
+  "model": "glm-5.2"
+}

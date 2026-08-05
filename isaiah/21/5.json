@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "상(床)을 차려라, 망보는 곳을 살펴라, 먹어라, 마셔라 — 일어나라, 고관들아, 방패에 기름을 발라라.",
+  "tokens": [
+    {
+      "surface": "עָרֹךְ",
+      "gloss": "차려라"
+    },
+    {
+      "surface": "הַשֻּׁלְחָן",
+      "gloss": "상을"
+    },
+    {
+      "surface": "צָפֹה",
+      "gloss": "살펴라"
+    },
+    {
+      "surface": "הַצָּפִית",
+      "gloss": "망보는 곳을"
+    },
+    {
+      "surface": "אָכוֹל",
+      "gloss": "먹어라"
+    },
+    {
+      "surface": "שָׁתֹה",
+      "gloss": "마셔라"
+    },
+    {
+      "surface": "קוּמוּ",
+      "gloss": "일어나라"
+    },
+    {
+      "surface": "הַשָּׂרִים",
+      "gloss": "고관들아"
+    },
+    {
+      "surface": "מָשְׁחוּ",
+      "gloss": "발라라"
+    },
+    {
+      "surface": "מָגֵן",
+      "gloss": "방패에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:16.927833557Z",
+  "model": "glm-5.2"
+}

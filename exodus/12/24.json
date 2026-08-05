@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "너희는 ⟨את⟩ 이 말씀을 규례로서 너희와 너희 아들들을 위하여 영원까지 지켜야 한다.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "너희는 지켜야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 말씀"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "규례로서"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위하여"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "너희 아들들을 위하여"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:46.758877714Z",
+  "model": "glm-5.2"
+}

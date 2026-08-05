@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "⟨את⟩ 작은 올빼미와 ⟨את⟩ 큰 올빼미를, 그리고 뿔논병아리를",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "작은 올빼미"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "작은 올빼미"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "큰 올빼미"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "큰 올빼미"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "그리고 뿔논병아리"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:01.175222676Z",
+  "model": "glm-5.2"
+}

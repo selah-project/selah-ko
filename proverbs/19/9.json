@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "거짓 증인은 무죄가 되지 못하고, 거짓을 내뿜는 자는 멸망할 것이다.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "증인은"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "거짓"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "무죄가 되다"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "그리고 내뿜는 자는"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "멸망하다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:48.541446980Z",
+  "model": "glm-5.2"
+}

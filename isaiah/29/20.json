@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "이는 포악한 자가 사라지고 비웃는 자가 끝장날 것이며, 악을 감시하는 자들이 모두 잘릴 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "사라질 것이다"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "포악한 자가"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "그리고 끝장날 것이다"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "비웃는 자가"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "그리고 잘릴 것이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모두"
+    },
+    {
+      "surface": "שקדי",
+      "gloss": "감시하는 자들이"
+    },
+    {
+      "surface": "און",
+      "gloss": "악을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:07.938962043Z",
+  "model": "glm-5.2"
+}

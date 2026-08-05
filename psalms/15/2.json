@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "온전히 걷고 체데크를 행하며, 마음으로 에메트를 말하는 ⟨자⟩.",
+  "tokens": [
+    {
+      "surface": "הוֹלֵ֣ךְ",
+      "gloss": "걷고"
+    },
+    {
+      "surface": "תָּ֭מִים",
+      "gloss": "온전히"
+    },
+    {
+      "surface": "וּפֹעֵ֥ל",
+      "gloss": "…행하며"
+    },
+    {
+      "surface": "צֶ֑דֶק",
+      "gloss": "체데크를"
+    },
+    {
+      "surface": "וְדֹבֵ֥ר",
+      "gloss": "…말하는"
+    },
+    {
+      "surface": "אֱ֝מֶ֗ת",
+      "gloss": "에메트를"
+    },
+    {
+      "surface": "בִּלְבָבֽוֹ",
+      "gloss": "마음으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:45.974848164Z",
+  "model": "glm-5.2"
+}

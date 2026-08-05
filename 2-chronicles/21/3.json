@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 21:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 ⟨그들의⟩ 아버지가 그들에게 은과 금과 귀한 물품으로 큰 선물을, 그리고 유다의 요새 성읍들과 함께 주었으나, ⟨את⟩ 왕국은 여호람에게 주었으니, 그가 장자였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주었으나"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "아버지가"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "선물을"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "큰"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "은으로"
+    },
+    {
+      "surface": "ולזהב",
+      "gloss": "금과"
+    },
+    {
+      "surface": "ולמגדנות",
+      "gloss": "귀한 물품으로"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성읍들"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "요새"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "유다의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "왕국은"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "왕국은"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었으니"
+    },
+    {
+      "surface": "ליהורם",
+      "gloss": "여호람에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "장자였기"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:04.446545609Z",
+  "model": "glm-5.2"
+}

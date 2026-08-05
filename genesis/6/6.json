@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 야훼께서는 땅 위에 ⟨את⟩ 사람을 지으신 것을 한탄하셨다. 그분의 마음으로 향해 깊이 근심하셨다.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "한탄하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…한 것을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "지으신"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅 위에"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "근심하셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로 향해"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그분의 마음"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:09.417530824Z",
+  "model": "glm-5.2"
+}

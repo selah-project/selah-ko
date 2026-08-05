@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그것에서 아침까지 남겨서는 안 되며, 그 안의 뼈 하나도 부러뜨려서는 안 된다. 그들이 페사흐의 모든 규례대로 그것을 지킬 것이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "안 되며"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "남겨서는"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "뼈"
+    },
+    {
+      "surface": "לא",
+      "gloss": "안 된다"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "부러뜨려서는"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안의"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "규례대로"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "페사흐의"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "그들이 지킬 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    }
+  ],
+  "timestamp": "2026-08-05T08:32:41.033906314Z",
+  "model": "glm-5.2"
+}

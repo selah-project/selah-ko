@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 만일 네가 내려가는 것을 두려워하거든, 너와 네 종 푸라가 그 진영으로 내려가라.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "두려워하거든"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "내려가는 것을"
+    },
+    {
+      "surface": "רד",
+      "gloss": "내려가라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "그리고 푸라"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "네 종"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "그 진영"
+    }
+  ],
+  "timestamp": "2026-08-05T09:15:34.723357617Z",
+  "model": "glm-5.2"
+}

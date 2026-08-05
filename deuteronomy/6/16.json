@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "너희는 너희가 마사에서 시험한 것 같이 ⟨את⟩ 너희 엘로힘 야훼를 시험하지 말아라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…아니하다"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "너희는 시험하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 것 같이"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "너희가 시험한"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "마사에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:38.616900247Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그 가운데 있는 그녀의 지도자들은 포효하는 사자요, 그녀의 재판관들은 아침까지 뼈를 남겨두지 않는 저녁 이리들이다.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "그녀의 지도자들은"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "그 가운데 있는"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "사자요"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "포효하는"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "그녀의 재판관들은"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "이리들이다"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "저녁"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "뼈를"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "아침까지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:18.866612606Z",
+  "model": "glm-5.2"
+}

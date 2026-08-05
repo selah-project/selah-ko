@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "악인들은 그렇지 ⟨않다⟩ — 오히려 ⟨그들은⟩ 바람이 날려 버리는 검불 같다.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "כֵ֥ן",
+      "gloss": "그렇(다)"
+    },
+    {
+      "surface": "הָרְשָׁעִ֑ים",
+      "gloss": "악인들은"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "오히려"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "(강조)"
+    },
+    {
+      "surface": "כַּמֹּ֗ץ",
+      "gloss": "검불 같(다)"
+    },
+    {
+      "surface": "אֲֽשֶׁר",
+      "gloss": "(관계사)"
+    },
+    {
+      "surface": "תִּדְּפֶ֥נּוּ",
+      "gloss": "날려 버리(는)"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "바람(이)"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:10.921568651Z",
+  "model": "glm-5.2"
+}

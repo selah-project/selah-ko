@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "나에게서 수치와 멸시를 굴려 ⟨치우소서⟩ — 주의 증언들을 내가 지켰기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "굴려 ⟨치우소서⟩"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "수치와"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "멸시를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "주의 증언들을"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "내가 지켰기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:12.709718414Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그가 말하였다. \"그대는 누구의 딸인가? 제발 내게 알려 달시오. 그대 아버지의 집에 우리가 묵을 자리가 ⟨있습니까⟩?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구의"
+    },
+    {
+      "surface": "את",
+      "gloss": "그대는"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "알려 달시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "היש",
+      "gloss": "있습니까"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "그대 아버지의"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "자리"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "묵을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:05.332009692Z",
+  "model": "glm-5.2"
+}

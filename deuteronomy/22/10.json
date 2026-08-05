@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "소와 나귀를 함께 빼지 말라.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תַחֲרֹ֥שׁ",
+      "gloss": "빼지"
+    },
+    {
+      "surface": "בְּשׁוֹר",
+      "gloss": "소와"
+    },
+    {
+      "surface": "וּבַחֲמֹ֖ר",
+      "gloss": "나귀를"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:59.156490856Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "그 후에 내가 ⟨את⟩ 아몬 자손들의 포로귀환을 회복시키리라 — 야훼의 선언이다.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 … 후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "회복시키리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "포로귀환을"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "포로귀환을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "아몬"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:21:23.540739301Z",
+  "model": "glm-5.2"
+}

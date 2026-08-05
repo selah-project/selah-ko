@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 98,
+  "translation": "강들이 손뼉을 치라, 산들이 함께 환성을 올리라.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "강들이"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "손뼉을 치라"
+    },
+    {
+      "surface": "כף",
+      "gloss": "손바닥을"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "함께"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들이"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "환성을 올리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:52.532941479Z",
+  "model": "glm-5.2"
+}

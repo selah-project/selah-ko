@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 5:15",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "가리라, 나는 내 자리로 돌아가리라, 그들이 ⟨자신들의⟩ 허물을 인정하고 내 얼굴을 구할 때까지. 그들의 곤고 중에 그들이 나를 새벽부터 찾으리라.",
+  "tokens": [
+    {
+      "surface": "אלך",
+      "gloss": "가리라"
+    },
+    {
+      "surface": "אשובה",
+      "gloss": "돌아가리라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "내 자리"
+    },
+    {
+      "surface": "עד",
+      "gloss": "때까지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "때"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "인정하고"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "구할"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴을"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "곤고 중에"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들의"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "새벽부터 찾으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:49.186850379Z",
+  "model": "glm-5.2"
+}

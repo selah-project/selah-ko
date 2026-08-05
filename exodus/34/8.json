@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "모셰가 서둘러 땅에 엎드려 절하였다.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "서둘러"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "엎드려"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "절하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:57.447725921Z",
+  "model": "glm-5.2"
+}

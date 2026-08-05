@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "너의 벗과 너의 아버지의 벗을 버리지 말며, 너의 형제의 집에 들어가지 말라, 너의 재앙의 날에. 가까운 이웃이 먼 형제보다 낫다.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "너의 벗과"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "벗을"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말며"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "버리지"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "형제의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "들어가지"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "너의 재앙의"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "이웃이"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "가까운"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "형제보다"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "먼"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:24.726710135Z",
+  "model": "glm-5.2"
+}

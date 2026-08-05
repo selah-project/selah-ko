@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 91,
+  "translation": "엘 엘리온의 은밀한 처소에 앉는 자는 샤다이의 그늘에 머무른다.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "앉는 자는"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "은밀한 처소에"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "엘 엘리온의"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "그늘에"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이의"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "머무른다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:31.511306440Z",
+  "model": "glm-5.2"
+}

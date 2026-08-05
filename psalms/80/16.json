@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "그리고 ⟨당신의⟩ 오른손이 심으신 포도나무와, ⟨당신이⟩ 위해 강하게 하신 아드남을 두고서.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "그리고 포도나무와"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩을"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "심으신"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "당신의 오른손이"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ⟨…⟩ 위에"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아드남을"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "강하게 하신"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨당신⟩을 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:17.231483118Z",
+  "model": "glm-5.2"
+}

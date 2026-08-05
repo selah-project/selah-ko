@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "지혜로운 자는 ⟨곧⟩ 듣고 깨달음을 더하며, 슬기로운 자는 ⟨곧⟩ 지략을 얻으리라.",
+  "tokens": [
+    {
+      "surface": "יִשְׁמַ֣ע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "חָ֭כָם",
+      "gloss": "지혜로운 자는"
+    },
+    {
+      "surface": "וְי֣וֹסֶף",
+      "gloss": "더하며"
+    },
+    {
+      "surface": "לֶ֑קַח",
+      "gloss": "깨달음을"
+    },
+    {
+      "surface": "וְ֝נָב֗וֹן",
+      "gloss": "슬기로운 자는"
+    },
+    {
+      "surface": "תַּחְבֻּל֥וֹת",
+      "gloss": "지략을"
+    },
+    {
+      "surface": "יִקְנֶֽה",
+      "gloss": "얻으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:28.121673846Z",
+  "model": "glm-5.2"
+}

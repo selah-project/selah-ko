@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리하여 예슈룬에 왕이 ⟨있었다⟩ — 백성의 우두머리들이 모임에서, 이스라엘 지파들이 함께 ⟨모였을 때⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리하여 …이셨다"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "예슈룬에"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "모임에서"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "우두머리들이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "함께"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "지파들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:08.710496546Z",
+  "model": "glm-5.2"
+}

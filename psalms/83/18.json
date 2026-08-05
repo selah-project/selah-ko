@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "그들이 부끄러워하고 영원토록 공포에 사로잡히며, 수치를 당하고 멸망하게 하소서.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "그들이 부끄러워하고"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "… 공포에 사로잡히며"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "영원"
+    },
+    {
+      "surface": "עד",
+      "gloss": "토록"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "수치를 당하고"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "멸망하게 하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:31.286650066Z",
+  "model": "glm-5.2"
+}

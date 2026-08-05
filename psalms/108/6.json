@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 108,
+  "translation": "엘로힘이여, 하늘들 위에 높이 ⟨들리십시오⟩. 온 땅 위에 당신의 영광이 ⟨있기를⟩.",
+  "tokens": [
+    {
+      "surface": "ר֣וּמָה",
+      "gloss": "높이 ⟨들리십시오⟩"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שָׁמַ֣יִם",
+      "gloss": "하늘들"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "וְעַ֖ל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הָאָ֣רֶץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כְּבוֹדֶֽךָ",
+      "gloss": "당신의 영광이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:40.031398364Z",
+  "model": "glm-5.2"
+}

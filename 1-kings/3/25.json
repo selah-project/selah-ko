@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "왕이 말씀하시기를 \"살아 있는 아이를 ⟨아트⟩ 둘로 나누고, 한쪽 절반은 한 ⟨여자⟩에게, 그리고 ⟨아트⟩ 한쪽 절반은 다른 ⟨여자⟩에게 주어라\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하시니"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "나누어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아이"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "아이를"
+    },
+    {
+      "surface": "החי",
+      "gloss": "살아 있는"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "둘로"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "그리고 주어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "절반"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "절반을"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "한 ⟨여자⟩에게"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "절반"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "절반을"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "한 ⟨여자⟩에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:16:09.304902167Z",
+  "model": "glm-5.2"
+}

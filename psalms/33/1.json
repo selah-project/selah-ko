@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "의로운 자들아, 야훼를 향해 환성을 올려라. 곧은 자들에게 찬양은 어울리는 것이다.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "환성을 올려라"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들아"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를 향해"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "곧은 자들에게"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "어울리는 것이다"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "찬양은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:55.912680784Z",
+  "model": "glm-5.2"
+}

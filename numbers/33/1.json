@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 33:1",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "이것들이 이스라엘 아들들의 정거지들이니, 그들이 미츠라임 땅에서 나온 것, ⟨그⟩들의 군대대로, 모셰와 아하론의 손으로 말미암은 것이다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "מסעי",
+      "gloss": "정거지들이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "나온 것"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "그들의 군대대로"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "그리고 아하론"
+    }
+  ],
+  "timestamp": "2026-08-05T08:47:17.364984190Z",
+  "model": "glm-5.2"
+}

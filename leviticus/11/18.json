@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 하-틴셰메트와, ⟨את⟩ 하-카아트와, ⟨את⟩ 하-라하마를.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하-틴셰메트"
+    },
+    {
+      "surface": "הַתִּנְשֶׁ֥מֶת",
+      "gloss": "하-틴셰메트"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하-카아트"
+    },
+    {
+      "surface": "הַקָּאָ֖ת",
+      "gloss": "하-카아트"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하-라하마"
+    },
+    {
+      "surface": "הָרָחָֽם",
+      "gloss": "하-라하마"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:41.552652590Z",
+  "model": "glm-5.2"
+}

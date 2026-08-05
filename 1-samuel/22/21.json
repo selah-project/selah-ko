@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "아비야타르가 다윗에게 알리었다. 샤울이 야훼의 코헨들을 죽였다고.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알리었다"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "아비야타르가"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "죽였다고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "코헨들을"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "코헨들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:46.183671948Z",
+  "model": "glm-5.2"
+}

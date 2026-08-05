@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "당신 ⟨위⟩에 내가 기대었나니, 태에서부터, 어머니의 ⟨태⟩에서부터 당신이 나를 끌어내셨나이다. 당신 ⟨안⟩에 나의 찬양이 항상 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "당신 위에"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "내가 기대었다"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "태에서부터"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "태에서부터"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "어머니의"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "나를 끌어내셨다"
+    },
+    {
+      "surface": "בך",
+      "gloss": "당신 안에"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "나의 찬양이"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "항상"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:17.540431936Z",
+  "model": "glm-5.2"
+}

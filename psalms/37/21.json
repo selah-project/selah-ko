@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "악인은 빌리고 갚지 않으며, 의인은 은혜를 베풀고 준다.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "빌리고"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인은"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지 않으며"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "갚지"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "의인은"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "은혜를 베풀고"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "준다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:23.098201970Z",
+  "model": "glm-5.2"
+}

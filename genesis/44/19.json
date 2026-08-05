@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "\"내 주께서 ⟨את⟩ 당신의 종들에게 물으셨습니다. 말하기를, '당신들에게 아버지가 있습니까, 아니면 형제가 있습니까?' 하고.\"",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "내 주께서"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "물으셨습니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 종들"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "당신의 종들에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "היש",
+      "gloss": "있습니까"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "당신들에게"
+    },
+    {
+      "surface": "אב",
+      "gloss": "아버지가"
+    },
+    {
+      "surface": "או",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "אח",
+      "gloss": "형제가"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:45.800656591Z",
+  "model": "glm-5.2"
+}

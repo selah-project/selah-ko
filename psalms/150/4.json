@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 150,
+  "translation": "⟨그분을⟩ 토프와 춤으로 찬양하라. ⟨그분을⟩ 미님과 우가브로 찬양하라.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨그분을⟩ 찬양하라"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "토프와"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "춤으로"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "⟨그분을⟩ 찬양하라"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "미님과"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "우가브로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:00.166372786Z",
+  "model": "glm-5.2"
+}

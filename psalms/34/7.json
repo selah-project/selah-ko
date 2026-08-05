@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "이 가난한 자가 부르짖었더니 야훼께서 들으시고, 그의 모든 재난에서 ⟨그를⟩ 구원하셨다.",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "이"
+    },
+    {
+      "surface": "עָנִי",
+      "gloss": "가난한 자가"
+    },
+    {
+      "surface": "קָרָא",
+      "gloss": "부르짖었더니"
+    },
+    {
+      "surface": "וַיהוָה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "שָׁמֵעַ",
+      "gloss": "들으시고"
+    },
+    {
+      "surface": "וּמִכָּל",
+      "gloss": "그리고 ⟨그⟩ 모든"
+    },
+    {
+      "surface": "צָרוֹתָיו",
+      "gloss": "그의 재난에서"
+    },
+    {
+      "surface": "הוֹשִׁיעֽוֹ",
+      "gloss": "구원하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:47.514719098Z",
+  "model": "glm-5.2"
+}

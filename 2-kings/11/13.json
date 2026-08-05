@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 아탈야가 ⟨את⟩ 달리는 자들의 소리와 백성의 ⟨소리⟩를 듣고, 백성에게로, 야훼의 집에 들어갔다.",
+  "tokens": [
+    {
+      "surface": "וּתִשְׁמַע",
+      "gloss": "그리고 …이 들으니"
+    },
+    {
+      "surface": "עֲתַלְיָה",
+      "gloss": "아탈야가"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "달리는 자들의 소리"
+    },
+    {
+      "surface": "קוֹל",
+      "gloss": "소리"
+    },
+    {
+      "surface": "הָרָצִים",
+      "gloss": "달리는 자들의"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "וַתָּבֹא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:01.862193100Z",
+  "model": "glm-5.2"
+}

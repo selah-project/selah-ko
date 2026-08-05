@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 ⟨너는⟩ ⟨את⟩ 그 금 꼬임 줄 둘을 그 고리 둘에, 흉패의 끝들에 ⟨놓을 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "그리고 너는 놓을 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 금 꼬임 줄 둘을"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "꼬임 줄"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "그 금"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "둘"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "그 고리"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "끝들"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "그 흉패의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:22.522768789Z",
+  "model": "glm-5.2"
+}

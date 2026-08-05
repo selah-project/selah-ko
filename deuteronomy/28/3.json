@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "복을 받으리라, 너는 성읍에서. 그리고 복을 받으리라, 너는 들에서.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "복을 받으리라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성읍에서"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "그리고 복을 받으리라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:28.119116180Z",
+  "model": "glm-5.2"
+}

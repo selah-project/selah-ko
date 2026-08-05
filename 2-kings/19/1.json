@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "히즈키야후 왕이 듣고 ⟨그가⟩ ⟨את⟩ 자기 옷을 찢고, ⟨그리고⟩ 자신을 굵은 베로 덮고, 야훼의 집에 들어갔다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "이렇게 되었다"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "히즈키야후가"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "찢고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 옷을"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "덮고"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "굵은 베로"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:24.208108304Z",
+  "model": "glm-5.2"
+}

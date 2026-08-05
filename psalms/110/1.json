@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 110,
+  "translation": "다윗의 시편. 야훼께서 내 주에게 하신 선언: \"내 오른편에 앉아라, 내가 네 원수들을 네 발의 발받침이 될 때까지.\"",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "내 주에게"
+    },
+    {
+      "surface": "שב",
+      "gloss": "앉아라"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "내 오른편에"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "내가 …을 놓을"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "네 원수들을"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "발받침"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "네 발의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:05.964825862Z",
+  "model": "glm-5.2"
+}

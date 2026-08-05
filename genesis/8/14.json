@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 둘째 달에, 그 달의 스무일곱째 날에, 땅이 말랐다.",
+  "tokens": [
+    {
+      "surface": "וּבַחֹ֨דֶשׁ֙",
+      "gloss": "그리고 ⟨⟨…⟩⟩ 달에"
+    },
+    {
+      "surface": "הַשֵּׁנִ֔י",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "בְּשִׁבְעָ֧ה",
+      "gloss": "일곱에"
+    },
+    {
+      "surface": "וְעֶשְׂרִ֛ים",
+      "gloss": "그리고 스물"
+    },
+    {
+      "surface": "י֖וֹם",
+      "gloss": "날"
+    },
+    {
+      "surface": "לַחֹ֑דֶשׁ",
+      "gloss": "그 달의"
+    },
+    {
+      "surface": "יָבְשָׁ֖ה",
+      "gloss": "말랐다"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "땅이"
+    }
+  ],
+  "timestamp": "2026-08-05T19:33:45.947275852Z",
+  "model": "glm-5.2"
+}

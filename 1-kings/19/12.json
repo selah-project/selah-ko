@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 ⟨그⟩ 지진 후에 불이 ⟨왔으나⟩, 야훼께서는 ⟨그⟩ 불 안에 계시지 아니하시다. 그리고 ⟨그⟩ 불 후에, 가늘고 고요한 소리가 ⟨왔다⟩.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "그리고 ∼후에"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "그 지진"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하시다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불 안에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "그리고 ∼후에"
+    },
+    {
+      "surface": "האש",
+      "gloss": "그 불"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "고요한"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "가늘고"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:27.476195388Z",
+  "model": "glm-5.2"
+}

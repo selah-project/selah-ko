@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "야곱은 그의 아버지의 나그네 살이였던 땅, 가나안 땅에 거하였다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곭은"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…땅에"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "나그네 살이였던"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지의"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "…땅,"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:07.161733181Z",
+  "model": "glm-5.2"
+}

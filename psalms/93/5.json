@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 93,
+  "translation": "주의 증거들이 매우 확실하니, 거룩이 주의 집에 어울리나이다, 야훼여, 긴 날들 동안.",
+  "tokens": [
+    {
+      "surface": "עֵֽדֹתֶ֨יךָ",
+      "gloss": "주의 증거들이"
+    },
+    {
+      "surface": "נֶאֶמְנ֬וּ",
+      "gloss": "확실하니"
+    },
+    {
+      "surface": "מְאֹ֗ד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "לְבֵיתְךָ֥",
+      "gloss": "주의 집에"
+    },
+    {
+      "surface": "נַאֲוָה",
+      "gloss": "어울리나이다"
+    },
+    {
+      "surface": "קֹ֑דֶשׁ",
+      "gloss": "거룩이"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "לְאֹ֣רֶךְ",
+      "gloss": "긴"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "날들 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:27.220768935Z",
+  "model": "glm-5.2"
+}

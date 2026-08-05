@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "야를 찬양하라, 좋음 ⟨때문⟩이다. 우리 엘로힘을 향해 노래하는 것은, 즐거움 ⟨때문⟩이며, 찬양은 아름답기 ⟨때문⟩이다.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "좋음"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨때문이다⟩"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "노래하는 것은"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "즐거움"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "⟨때문이며⟩"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "아름답기"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "찬양은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:10.542864836Z",
+  "model": "glm-5.2"
+}

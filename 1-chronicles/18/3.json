@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "다윗이 그의 손을 프라트 강에 세우려 할 때 하맛까지 ⟨את⟩ 소바 왕 하닷에셀를 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "그리고 ⟨그가⟩ 쳤다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하닷에셀"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "하닷에셀"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "소바"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "하맛까지"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "그가 갈 때"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "세우려"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "강에"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "프라트"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:45.123271035Z",
+  "model": "glm-5.2"
+}

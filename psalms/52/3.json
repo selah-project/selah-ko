@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "어찌하여 악을 자랑하느냐, 장사여. 엘의 헤세드가 온종일 있다.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "자랑하느냐"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "장사여"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:51.156913211Z",
+  "model": "glm-5.2"
+}

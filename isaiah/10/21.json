@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "남은 자가 돌아오리니, 곧 야곱의 남은 자가 엘 깁보르에게로.",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "남은 자가"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "돌아오리니"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "남은 자"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "깁보르"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:53.283549231Z",
+  "model": "glm-5.2"
+}

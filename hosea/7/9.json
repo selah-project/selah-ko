@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "외인들이 ⟨그의⟩ 힘을 삼켰으나 ⟨그는⟩ 알지 못하였다. 백발도 ⟨그⟩ 위에 뿌려졌으나 ⟨그는⟩ 알지 못하였다.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "삼켰으나"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "외인들이"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "힘을"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알았다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "백발이"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "뿌려졌다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알았다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:26.303094176Z",
+  "model": "glm-5.2"
+}

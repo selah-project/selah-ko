@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 만약 그대가 ⟨את⟩ 우리의 이 말을 알리면, 우리는 그대가 우리에게 맹세하게 한 그대의 맹세에서 깨끗게 될 것입니다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만약"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "그대가 알리면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 이 말을"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "우리의 말을"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "우리는 될 것입니다"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "깨끗게"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "그대의 맹세에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "우리에게 맹세하게 하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:54.579860766Z",
+  "model": "glm-5.2"
+}

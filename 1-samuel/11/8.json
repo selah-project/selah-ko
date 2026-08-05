@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그가 그들을 바벡에서 점호하니, 이스라엘 아들들은 삼십만 명이었고, 온 유다의 사람들은 삼만 명이었다.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "그가 그들을 점호하니"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "바벡에서"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨그들이⟩ ⟨이었⟩고"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "삼"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 사람들은"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다의"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    }
+  ],
+  "timestamp": "2026-08-05T17:13:24.875636695Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "가난한 자들의 약탈함에서, 궁핍한 자들의 신음함에서 — 이제 내가 일어나리라, 야훼께서 말씀하신다. 내가 그를 구원 안에 두시리라, 그를 향해 부는 자에게서.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "약탈함에서"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "가난한 자들의"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "신음함에서"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "궁핍한 자들의"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "내가 일어나리라"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "내가 두시리라"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "구원 안에"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "부는 자에게서"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를 향해"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:55.943220471Z",
+  "model": "glm-5.2"
+}

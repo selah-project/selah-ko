@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "알지 못하느냐 — 모든 불의를 행하는 자들이, 내 백성을 먹는 자들이, 빵을 먹듯 먹었느냐. 야훼를 부르지 아니하였느냐.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "알지 못하느냐"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "알지 못하느냐"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "행하는 자들이"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의를"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "먹는 자들이"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성을"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "먹었느냐"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였느냐"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "부르"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:17.802828697Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "이슬이 밤에 진영 위로 내릴 때에 만나가 그 위로 내렸다.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "내릴 때에"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "이슬이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "내렸다"
+    },
+    {
+      "surface": "המן",
+      "gloss": "만나가"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:11:05.437996345Z",
+  "model": "glm-5.2"
+}

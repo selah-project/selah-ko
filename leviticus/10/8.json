@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼께서 아하론에게 말씀하셨다.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֣ר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "⟨말씀하시기를⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:45.286488964Z",
+  "model": "glm-5.2"
+}

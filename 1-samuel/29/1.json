@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 플리쉬티人は ⟨את⟩ 모든 진영을 아페카에 모았고, 이스라엘은 이즈르엘에 있는 샘에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "그리고 모았고"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "플리쉬티人は"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 진영을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "그들의 진영을"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "아페카에"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "그리고 이스라엘은"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "샘에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "있는"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "이즈르엘에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:23.464861629Z",
+  "model": "glm-5.2"
+}

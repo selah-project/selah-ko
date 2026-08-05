@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨את⟩ 받침들을 만들고, 그리고 ⟨את⟩ 물동들 ⟨을⟩ 만들었으니 받침들 위에 ⟨놓았다⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "받침들"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "받침들"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "물동들"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "물동들"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "받침들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:09.051710662Z",
+  "model": "glm-5.2"
+}

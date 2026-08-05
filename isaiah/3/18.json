@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그 날에 아도나이께서 ⟨את⟩ 발목 장식들의 화려함과 ⟨את⟩ 머리띠들과 초승달 장식들을 거두실 것이다.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "거두실 것이다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "발목 장식들의 화려함"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "화려함"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "발목 장식들의"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "그리고 머리띠들과"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "초승달 장식들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:38.133947333Z",
+  "model": "glm-5.2"
+}

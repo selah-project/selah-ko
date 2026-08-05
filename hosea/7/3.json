@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그들의 악으로 그들이 왕을 기쁘게 하고, 그들의 거짓으로 방백들을 ⟨기쁘게 한다⟩.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "그들의 악으로"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "그들이 기쁘게 한다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "그리고 그들의 거짓으로"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "방백들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:45.513847362Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 27:12",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 나는 유다 왕 치드키야에게 ⟨이⟩ 모든 말씀들에 따라 말하였다, 이르기를: 너희 목을 바벨 왕의 멍에 안으로 가져오라, 그리고 ⟨את⟩ 그와 ⟨את⟩ 그의 백성을 섬기라, 그러면 살리라.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~에게"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "치드키야"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "나는 말하였다"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "~에 따라"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨이⟩ 모든"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "가져오라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 목"
+    },
+    {
+      "surface": "צואריכם",
+      "gloss": "너희 목"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "안으로"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "그리고 섬기라"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그와 그의 백성"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "그의 백성"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "살리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:36:13.419719695Z",
+  "model": "glm-5.2"
+}

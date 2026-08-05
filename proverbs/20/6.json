@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "많은 사람이 각기 자기 헤세드를 부르짖으나, 신뢰할 만한 사람을 누가 찾으랴.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "많은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "부르짖으나"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "자기 헤세드를"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "그리고 ⟨사람⟩"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "신뢰할 만한"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "찾으랴"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:08.223938878Z",
+  "model": "glm-5.2"
+}

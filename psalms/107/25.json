@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그리고 말씀하셨다 — 그리하여 폭풍 루아흐를 일으키셨다, 그것이 그것의 파도를 높이 들어올렸다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "그리하여 일으키셨다"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "폭풍"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "그것이 높이 들어올렸다"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "그것의 파도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:09.034130655Z",
+  "model": "glm-5.2"
+}

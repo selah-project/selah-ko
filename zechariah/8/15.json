@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그와 같이 내가 돌이켜, 이 날들에 예루샬라임과 유다 가문을 선대하기로 도모하였다 — 두려워하지 말라.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "내가 돌이켜"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "도모하였다"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "날들에"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "선대하기로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "유다 가문"
+    },
+    {
+      "surface": "בית",
+      "gloss": "가문을"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "두려워"
+    }
+  ],
+  "timestamp": "2026-08-05T11:19:49.308958506Z",
+  "model": "glm-5.2"
+}

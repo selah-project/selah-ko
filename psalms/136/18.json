@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "그리고 강한 왕들을 죽이신 분께, 그의 헤세드는 영원하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "그리고 죽이신"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "왕들을"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "강한"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:06.559668251Z",
+  "model": "glm-5.2"
+}

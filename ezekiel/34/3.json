@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "⟨את⟩ 기름진 것은 너희가 먹고, ⟨את⟩ 털옷은 너희가 입으며, 살찐 것을 너희가 잡되, ⟨그⟩ 양 떼는 먹이지 아니하는도다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기름진 것을"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "기름진 것은"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희가 먹고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "털옷을"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "털옷은"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "너희가 입으며"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "살찐 것을"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "너희가 잡되"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하는도다"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "너희가 먹이지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:59:03.676562200Z",
+  "model": "glm-5.2"
+}

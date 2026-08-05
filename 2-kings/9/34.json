@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 9:34",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그가 들어가서 먹고 마신 후에 말하였다. \"청하건대 ⟨את⟩ 이 저주받은 ⟨여자⟩를 살피고 ⟨그⟩녀를 묻어라. 그녀는 왕의 딸이기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그가 들어가서"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "마신 후에"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "살피고"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 저주받은 ⟨여자⟩를"
+    },
+    {
+      "surface": "הארורה",
+      "gloss": "저주받은"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "וקברוה",
+      "gloss": "⟨그⟩녀를 묻어라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀는 ∼이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:46.988392163Z",
+  "model": "glm-5.2"
+}

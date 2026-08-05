@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "보라, 내가 ⟨את⟩ 그 땅을 너희 앞에 두었으니 들어가서 ⟨את⟩ 그 땅을 차지하라 — 야훼께서 너희 조상들에게, 아브라함과 이삭과 야곱에게, 그들과 그들의 씨 후대에게 주시겠다고 맹세하신 그 땅이다.”",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 주었다"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "너희 앞에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "באו",
+      "gloss": "들어가서"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "차지하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "∼것"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "맹세하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "너희 조상들에게"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "아브라함에게"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "이삭에게"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "그리고 야곱에게"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주시겠다고"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "그리고 그들의 씨에게"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "그들 후대"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:17.431460372Z",
+  "model": "glm-5.2"
+}

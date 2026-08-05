@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 8:22",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "야훼께서 슈무엘에게 말씀하셨다. \"그들의 목소리를 들어주고, 그들에게 왕을 세워라.\" 슈무엘이 이스라엘 사람들에게 말하였다. \"각자 자기의 성읍으로 가라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들어주고"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "그들의 목소리를"
+    },
+    {
+      "surface": "והמלכת",
+      "gloss": "세워라"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "가라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "자기의 성읍으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:18.268688031Z",
+  "model": "glm-5.2"
+}

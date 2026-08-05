@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 23:27",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "야훼께서 말씀하셨다. \"나도 유다를 내 면전에서 제거하리니, 내가 ⟨את⟩ 이스라엘을 제거한 것 같이. 내가 ⟨את⟩ 이 성을 — 내가 택한 ⟨것⟩, 예루샬라임을 — 그리고 ⟨את⟩ 내가 '내 이름이 거기 있으리라' 한 그 집을 버리리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "גם",
+      "gloss": "나도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다를"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "제거하리니"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 면전"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 것 같이"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "내가 제거한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "ומאסתי",
+      "gloss": "그리고 내가 버리리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 성"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "이 성을"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "내가 택한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 집"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…라 한"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "내가 말하였던"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있으리라"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "내 이름이"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    }
+  ],
+  "timestamp": "2026-08-05T10:05:55.222621658Z",
+  "model": "glm-5.2"
+}

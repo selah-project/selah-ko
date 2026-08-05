@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "아도나이 야훼께서 이같이 말씀하셨다. “그것은 서지 못할 것이며, 일어나지 못할 것이다.”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못할"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "서지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "못할"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "일어나지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:02.362469587Z",
+  "model": "glm-5.2"
+}

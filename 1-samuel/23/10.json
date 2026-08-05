@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "다윗이 말하였다. \"이스라엘의 엘로힘 야훼여, ⟨당신의⟩ 종이 분명히 들었습니다. 샤울이 ⟨당신의⟩ 종 때문에 ⟨그⟩ 성을 멸하려고 크일라로 오려 한다 함을.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들었습니다"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "분명히"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨당신의⟩ 종이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "하려 한다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "오"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "크일라"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "멸하"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "⟨그⟩ 성을"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "⟨당신의⟩ 종 때문에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:53.677080856Z",
+  "model": "glm-5.2"
+}

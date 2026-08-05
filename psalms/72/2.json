@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "그가 당신의 백성을 체데크로 심판하시고, 당신의 가난한 자들을 미쉬파트로 ⟨심판하시리이다⟩.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "그가 심판하시고"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성을"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "체데크로"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "당신의 가난한 자들을"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "미쉬파트로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:29.472892316Z",
+  "model": "glm-5.2"
+}

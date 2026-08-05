@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그는 ⟨את⟩ 모든 높은 것을 본다 — 그는 모든 오만의 아들들 위의 왕이다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 높은 것"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "높은 것"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "본다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "오만"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:45.171122899Z",
+  "model": "glm-5.2"
+}

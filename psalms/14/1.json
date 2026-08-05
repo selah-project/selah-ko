@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "지휘자에게, 다윗의. 어리석은 자가 그의 마음에 말하였다, \"엘로힘이 없다.\" 그들은 부패하였고, 행위를 역겹게 하였다, 선을 행하는 자는 없다.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "어리석은 자가"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "그의 마음에"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "그들은 부패하였고"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "역겹게 하였다"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "행위를"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하는 자는"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "선을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:17.802461118Z",
+  "model": "glm-5.2"
+}

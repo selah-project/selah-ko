@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨그⟩ 마음을 야훼의 말씀에 두지 아니한 자는 ⟨את⟩ 그의 종들과 ⟨את⟩ 그의 가축을 들에 남겨 두었다.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 …한 자는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שם",
+      "gloss": "두지"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "남겨 두었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 종들"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 가축"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "그의 가축"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:20.758519384Z",
+  "model": "glm-5.2"
+}

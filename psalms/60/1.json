@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "지휘자에게, 슈샨 에둣 ⟨곡조⟩ 위하여. 다윗의 미크탐, 가르치기 위하여.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "슈샨"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "에둣 ⟨곡조⟩"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "미크탐"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "가르치기 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:45.152757075Z",
+  "model": "glm-5.2"
+}

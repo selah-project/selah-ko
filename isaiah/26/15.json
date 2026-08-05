@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "주님께서 민족에 더하셨나이다, 야훼여, 민족에 더하셨나이다. 영광을 받으셨나이다. 땅의 모든 끝까지 멀리 옮기셨나이다.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "더하셨나이다"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "민족에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "יסספת",
+      "gloss": "더하셨나이다"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "민족에"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "영광을 받으셨나이다"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "멀리 옮기셨나이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "끝까지"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:25.528276661Z",
+  "model": "glm-5.2"
+}

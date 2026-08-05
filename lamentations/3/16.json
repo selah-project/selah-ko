@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그분이 자갈로 내 이를 부서뜨리셨고, 재 속에서 나를 짓밟으셨다.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "그리고 부서뜨리셨고"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "자갈로"
+    },
+    {
+      "surface": "שני",
+      "gloss": "내 이를"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "나를 짓밟으셨다"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "재 속에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:56.000571330Z",
+  "model": "glm-5.2"
+}

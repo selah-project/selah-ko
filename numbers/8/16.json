@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 8:16",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이는 그들이 이스라엘 자손들 가운데서 나에게 온전히 바쳐진 자들이기 때문이다. 모태를 여는 모든 것, 곧 이스라엘 자손들 가운데 모든 처음 난 자 대신에 내가 ⟨את⟩ 그들을 나를 위해 취하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "… 때문이다"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "바쳐진"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "바쳐진 자들이"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "… 가운데서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "… 자손들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "… 대신에"
+    },
+    {
+      "surface": "פטרת",
+      "gloss": "여는"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "모태를"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "처음 난 자"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "… 자손들 가운데(의)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "내가 … 취하였기 때문이다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:52.175095186Z",
+  "model": "glm-5.2"
+}

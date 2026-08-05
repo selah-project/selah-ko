@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그리하여 ⟨그가⟩ 미쉬칸을 버리셨다, 실로의, ⟨즉⟩ 사람들 가운데 세운 텐트를.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "그리하여 버리셨다"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "미쉬칸을"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "실로의"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "텐트를"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "세운"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람들 가운데"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:35.830357891Z",
+  "model": "glm-5.2"
+}

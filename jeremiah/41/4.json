@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그리고 ⟨את⟩ 그다랴를 죽인 지 이틀째 되는 날에 일어난 일이다 — 아무도 알지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "일어난 일이다"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "השני",
+      "gloss": "이틀째"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "죽인"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그다랴를"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "그다랴"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:41:40.550039480Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "야훼여, 진노 중에 일어나소서. ⟨나의⟩ 원수들의 분노 앞에서 ⟨주를⟩ 높이 드시고, ⟨주께서⟩ 명하신 ⟨그⟩ 심판을 위하여 ⟨나를⟩ 향해 깨소서.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "일어나소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "진노 중에"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "⟨주를⟩ 높이 드시고"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "분노 앞에서"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "⟨나의⟩ 원수들의"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "깨소서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨나를⟩ 향해"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "심판을"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "명하신"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:08.460818642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "정결하게 하는 코헨은 정결하게 될 ⟨그⟩ 사람을, 그리고 그것들을, 회막(오헬 모에드)의 어귀에서 야훼 앞에 세울 것이다.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "그리고 세울 것이다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨은"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "정결하게 하는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람을"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람을"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "정결하게 될"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "어귀에서"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막의"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "회막의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:17:58.615139050Z",
+  "model": "glm-5.2"
+}

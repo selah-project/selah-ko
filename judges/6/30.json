@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그 도시의 사람들이 요아쉬에게 말하였다. \"⟨את⟩ 네 아들을 끌어내어 죽게 하라. 그가 ⟨את⟩ 바알의 제단을 헐었으며, 그리고 그것 위에 있던 아세라를 잘라버렸기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "도시의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "요아쉬"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "끌어내어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 아들을"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "네 아들을"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽게 하라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "헐었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바알의 제단을"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "바알의"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "잘라버렸다"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "아세라를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그것 위에 있던"
+    }
+  ],
+  "timestamp": "2026-08-05T09:15:38.539687132Z",
+  "model": "glm-5.2"
+}

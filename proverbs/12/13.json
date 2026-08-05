@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "입술의 범죄 안에서 악한 자의 올가미가 있으나 의로운 ⟨이⟩는 곤경에서 나온다.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "범죄 안에서"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "입술의"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "올가미"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악한 자의"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "그리고 나온다"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "곤경에서"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:41.367819834Z",
+  "model": "glm-5.2"
+}

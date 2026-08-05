@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "코헨이 그것을 제단으로 가까이 가져가고, ⟨את⟩ 그 머리를 비틀어 떼고, 그것을 제단 위에서 태워 연기가 되게 할 것이며, 그 피는 제단의 옆벽에서 짜여 배출될 것이다.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "그리고 가까이 가져갈 것이다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～으로"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "그리고 비틀어 뗄 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 머리를"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "그 머리를"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "그리고 태워 연기가 되게 할 것이다"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "그 제단 위에서"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "그리고 짜여 배출될 것이다"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "그 피는"
+    },
+    {
+      "surface": "על",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "옆벽"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:11:04.619658125Z",
+  "model": "glm-5.2"
+}

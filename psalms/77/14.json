@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "엘로힘, 거룩함에 당신의 길이 있나이다. 누가 엘로힘 같은 큰 엘이 있으리이까.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "거룩함에"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "당신의 길이"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "엘로힘 같은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:58.331633282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "온 땅이 야훼를 두려워하라 — 그분 앞에서 온 테벨의 거주자들이 떨라.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "두려워하라"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그분 앞에서"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "떨라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들이"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "테벨의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:43.174143864Z",
+  "model": "glm-5.2"
+}

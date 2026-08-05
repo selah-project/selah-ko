@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그가 ⟨자신의⟩ 딸들에게 말하였다. “그가 어디에 있는가? 왜 ⟨너희가⟩ ⟨את⟩ 그 사람을 이렇게 버려 두었느냐? 그를 부르라, 그리하면 그가 떡을 먹으리라.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "자신의 딸들"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "그가 어디에 있는가"
+    },
+    {
+      "surface": "למה",
+      "gloss": "왜"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "너희가 버려 두었느냐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람을"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "부르라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "그가 먹으리라"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:09:57.197268489Z",
+  "model": "glm-5.2"
+}

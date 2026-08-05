@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "가나안아, 그의 손에 속임의 저울이 있으니, 억압을 사랑한다.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "가나안아"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "저울이"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속임의"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "억압을"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:15.686604326Z",
+  "model": "glm-5.2"
+}

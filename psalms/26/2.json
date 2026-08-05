@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "야훼여, 나를 시험해 주시고 저를 단련해 주십시오. 나의 콩팥과 나의 마음을 정제해 주십시오.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "나를 시험해 주시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "저를 단련해 주십시오"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "정제해 주십시오"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "나의 콩팥과"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "나의 마음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:28.838821103Z",
+  "model": "glm-5.2"
+}

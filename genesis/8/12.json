@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 또 다른 칠 일을 기다렸고, ⟨את⟩ 그 비둘기를 보내었다. 그것은 다시는 ⟨그⟩에게로 돌아오지 않았다.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "그리고 기다렸다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "또"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "…의 일곱"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날을"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 비둘기를"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "그 비둘기"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "더하여"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "돌아오"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게로"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시는"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:45.973028253Z",
+  "model": "glm-5.2"
+}

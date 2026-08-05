@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 140,
+  "translation": "혀를 가진 자, 곧 비방하는 자는 땅에서 견고히 서지 못하고, 폭력의 사람, 곧 악한 자를 재앙이 쫓아내어 넘어뜨리리라.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "자"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀를 가진"
+    },
+    {
+      "surface": "בל",
+      "gloss": "못하고"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "견고히 서다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력의"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "쫓아내어"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "넘어뜨리리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:37.082467461Z",
+  "model": "glm-5.2"
+}

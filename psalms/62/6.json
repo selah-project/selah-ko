@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 62,
+  "translation": "오직 엘로힘께 ⟨대하여⟩ 잠잠하라, 내 네페쉬여, 나의 소망이 그분에게서 ⟨옴⟩이기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘께"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "잠잠하라"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그분에게서"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "나의 소망이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:35.944839568Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 아브라함이 그 땅의 백성 앞에 ⟨엎드려 절하였다⟩.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "그리고 엎드려 절하였다"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:45.838711858Z",
+  "model": "glm-5.2"
+}

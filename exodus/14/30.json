@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "야훼께서 그 날에 ⟨את⟩ 이스라엘을 미츠라임 손에서 구원하셨고, 이스라엘은 ⟨את⟩ 미츠라임이 바다 기슭에서 죽은 ⟨것을⟩ 보았다.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "구원하셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미츠라임"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽은"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "기슭"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:24.315355548Z",
+  "model": "glm-5.2"
+}

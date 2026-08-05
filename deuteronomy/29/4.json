@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 ⟨내가⟩ ⟨את⟩ 너희를 광야에서 사십 년 동안 인도하였다 — 너희의 옷이 너희 위에서 낡아 없어지지 아니하였고, 너의 신이 너의 발 위에서 낡아 없어지지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "그리고 인도하였다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "낡아 없어지"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "너희의 옷이"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "너희 위에서"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "그리고 너의 신이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "낡아 없어지"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "너의 발"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:54.022622507Z",
+  "model": "glm-5.2"
+}

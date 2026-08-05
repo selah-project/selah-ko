@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 샤울의 아들이 아브네르가 헤브론에서 죽었다는 것을 듣고, 그의 손들이 느슨해졌고, 온 이스라엘이 놀라 떨었다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "그리고 …이 들었다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽었다"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브네르"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "헤브론에서"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "그리고 …이 느슨해졌다"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "그의 손들"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "놀라 떨었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:21.257079246Z",
+  "model": "glm-5.2"
+}

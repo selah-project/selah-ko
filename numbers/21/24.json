@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 21:24",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "이스라엘이 칼날로 그를 쳤고, ⟨את⟩ 그의 땅을 차지하였으니, 아르논에서 야뽁까지, 암몬 자손까지 이르렀다. 암몬 자손의 경계가 강했기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וַיַּכֵּהוּ",
+      "gloss": "쳤고"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "לְפִי",
+      "gloss": "날로"
+    },
+    {
+      "surface": "חֶרֶב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "וַיִּירַשׁ",
+      "gloss": "차지하였으니"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 땅"
+    },
+    {
+      "surface": "אַרְצוֹ",
+      "gloss": "그의 땅을"
+    },
+    {
+      "surface": "מֵאַרְנֹן",
+      "gloss": "아르논에서"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "יַבֹּק",
+      "gloss": "야뽁"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "자손"
+    },
+    {
+      "surface": "עַמּוֹן",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "עָז",
+      "gloss": "강했기"
+    },
+    {
+      "surface": "גְּבוּל",
+      "gloss": "경계가"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "עַמּוֹן",
+      "gloss": "암몬"
+    }
+  ],
+  "timestamp": "2026-08-05T08:40:07.431617531Z",
+  "model": "glm-5.2"
+}

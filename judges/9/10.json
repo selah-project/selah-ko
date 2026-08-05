@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그러자 나무들이 무화과 나무에게 말하였다. \"⟨너⟩ 와서 우리 위에 왕이 되어라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그러자 …가 말하였다"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "나무들이"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "무화과 나무에게"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "⟨너⟩ 와서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨너⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕이 되어라"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:04.878282173Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "야훼 우리 엘로힘, 다른 주인들이 우리를 다스렸습니다 — 주님 외에 오직 주님으로 말미암아 우리가 주님의 이름을 기억하겠습니다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "우리를 다스렸습니다"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "주인들이"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "주님 외에"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בך",
+      "gloss": "주님으로 말미암아"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "우리가 기억하겠습니다"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "주님의 이름을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:25.527914324Z",
+  "model": "glm-5.2"
+}

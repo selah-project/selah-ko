@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"네 손을 하늘 위로 내밀어, 미츠라임 땅 위에 어둠이 있게 하라 — 어둠이 더듬어지리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "내밀어"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있게 하라"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "더듬어지리라"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:44.574393622Z",
+  "model": "glm-5.2"
+}

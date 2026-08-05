@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "아브네르가 뒤를 돌아보며 말하였다. “너가 아사헬이냐?” 그가 대답하였다. “저입니다.”",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "⟨그리고⟩ 돌아보며"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브네르가"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "자신의 뒤를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨그리고⟩ 말하였다"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "너가"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "아사헬이냐"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨그리고⟩ 말하였다"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "저입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:57.619306135Z",
+  "model": "glm-5.2"
+}

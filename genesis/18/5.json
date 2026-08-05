@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 18:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 ⟨내가⟩ 빵 한 조각을 가져오리니, ⟨너희는⟩ 너희 마음을 붙드시오. 그 후에 지나가시오. 이는 그러므로 ⟨너희가⟩ 너희 종 ⟨곁⟩으로 지나갔기 때문이오.” 그들이 말하기를, “네가 말한 대로 그리 하라.” 하였다.",
+  "tokens": [
+    {
+      "surface": "ואקחה",
+      "gloss": "그리고 ⟨내가⟩ 가져오리니"
+    },
+    {
+      "surface": "פת",
+      "gloss": "한 조각"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "וסעדו",
+      "gloss": "붙드시오"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "너희 마음을"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "지나가시오"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "너희가 지나갔기"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨곁⟩으로"
+    },
+    {
+      "surface": "עבדכם",
+      "gloss": "너희 종"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하기를"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그리"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "하라"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "네가 말한"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:07.195755321Z",
+  "model": "glm-5.2"
+}

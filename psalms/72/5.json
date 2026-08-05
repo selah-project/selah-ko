@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "그들이 해와 함께 ⟨그대⟩를 경외하며, 달 앞에서 대대로 ⟨경외하리이다⟩.",
+  "tokens": [
+    {
+      "surface": "יִֽירָא֥וּךָ",
+      "gloss": "그대를 경외하며"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "שָׁ֑מֶשׁ",
+      "gloss": "해"
+    },
+    {
+      "surface": "וְלִפְנֵ֥י",
+      "gloss": "그리고 ~ 앞에서"
+    },
+    {
+      "surface": "יָ֝רֵ֗חַ",
+      "gloss": "달"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "세대"
+    },
+    {
+      "surface": "דּוֹרִֽים",
+      "gloss": "세대들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:40.808350212Z",
+  "model": "glm-5.2"
+}

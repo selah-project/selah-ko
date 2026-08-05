@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "왕이 돌아와서 하까지 이르렀고, 유다는 왕을 맞이하러, 왕을 하을 건너가게 하려고 길갈로 갔다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "그리고 돌아왔다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 이르렀다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "하을"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "그리고 유다는"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "길갈로"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "가기 위하여"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "맞이하러"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "건너가게 하려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "하을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:24.027404146Z",
+  "model": "glm-5.2"
+}

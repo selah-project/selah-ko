@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 ⟨그⟩ 왕이 말하였다. \"에스더의 말대로 행하도록 ⟨את⟩ 하만을 서둘러 보내라.\" 그리고 ⟨그⟩ 왕과 하만이 에스더가 마련한 잔치에 ⟨그⟩ ⟨곳으로⟩ 들어갔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ⟨그⟩ 왕이 말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": ""
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "서둘러 보내라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하만을"
+    },
+    {
+      "surface": "המן",
+      "gloss": "하만을"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하도록"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말(을)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말(을)"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더의"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 ⟨그⟩ 왕과 하만이 들어갔다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": ""
+    },
+    {
+      "surface": "והמן",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨그⟩ ⟨곳으로⟩"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "잔치에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩⟨을⟩"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "마련한"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더가"
+    }
+  ],
+  "timestamp": "2026-08-05T18:29:08.293250994Z",
+  "model": "glm-5.2"
+}

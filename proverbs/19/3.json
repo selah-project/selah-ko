@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "사람의 어리석음은 그의 길을 비틀고, 그의 마음은 야훼를 향해 성낸다.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "어리석음은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "비틀고"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "그의 길을"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 … ⟨을⟩ 향해"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "성낸다"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:45.360626274Z",
+  "model": "glm-5.2"
+}

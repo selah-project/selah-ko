@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "카인이 ⟨את⟩ 자기 아내를 알았고, 그녀가 임신하여 ⟨את⟩ 하노크를 낳았다. 그가 성을 건축하였고, ⟨그⟩ 성의 이름을 ⟨그의⟩ 아들 하노크의 이름을 따라 불렀다.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "알았고"
+    },
+    {
+      "surface": "קין",
+      "gloss": "카인이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아내를"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "자기 아내를"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "임신하여"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하노크를"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "하노크를"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그가"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "건축하였고"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성을"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성의"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "이름을 따라"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "아들의"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "하노크"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:10.283816177Z",
+  "model": "glm-5.2"
+}

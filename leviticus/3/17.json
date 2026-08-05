@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "너희 세대 대대로, 너희 모든 거처에서 ⟨이것은⟩ 영원한 규례이니, 모든 기름과 모든 피를 먹지 말라.",
+  "tokens": [
+    {
+      "surface": "חֻקַּת",
+      "gloss": "규례이니"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "לְדֹרֹתֵיכֶם",
+      "gloss": "너희 세대 대대로"
+    },
+    {
+      "surface": "בְּכֹל",
+      "gloss": "너희 모든"
+    },
+    {
+      "surface": "מוֹשְׁבֹתֵיכֶם",
+      "gloss": "거처에서"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חֵלֶב",
+      "gloss": "기름"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דָּם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תֹאכֵלוּ",
+      "gloss": "먹지"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:27.133305929Z",
+  "model": "glm-5.2"
+}

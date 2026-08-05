@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "사람이 엘로힘을 강탈하겠는가? 그런데 너희가 ⟨את⟩ 나를 강탈하고 있다. 그리고 너희가 말한다. 무엇으로 우리가 ⟨את⟩ 너를 강탈하였는가? 십일조와 드림으로.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "강탈하겠는가"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그런데"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "강탈하고 있다"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "במה",
+      "gloss": "무엇으로"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "강탈하였는가"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "십일조와"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "드림으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:13.237584402Z",
+  "model": "glm-5.2"
+}

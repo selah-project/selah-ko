@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "마쉬아〈메시지〉, 야훼의 말씀, 이스라엘에게, 말라키의 손을 ⟨통하여⟩.",
+  "tokens": [
+    {
+      "surface": "מַשָּׂא",
+      "gloss": "마쉬아"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "손을 통하여"
+    },
+    {
+      "surface": "מַלְאָכִי",
+      "gloss": "말라키"
+    }
+  ],
+  "timestamp": "2026-08-05T11:21:34.797292722Z",
+  "model": "glm-5.2"
+}

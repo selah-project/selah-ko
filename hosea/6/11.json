@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "또한 유다에게, 너를 위하여 수확이 정해졌다 — 내가 내 백성의 포로귀환을 되돌릴 때에.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "יְהוּדָ֕ה",
+      "gloss": "유다에게"
+    },
+    {
+      "surface": "שָׁ֥ת",
+      "gloss": "정해졌다"
+    },
+    {
+      "surface": "קָצִ֖יר",
+      "gloss": "수확이"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "너를 위하여"
+    },
+    {
+      "surface": "בְּשׁוּבִ֖י",
+      "gloss": "내가 되돌릴 때에"
+    },
+    {
+      "surface": "שְׁב֥וּת",
+      "gloss": "포로귀환을"
+    },
+    {
+      "surface": "עַמִּֽי",
+      "gloss": "내 백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:17.689702459Z",
+  "model": "glm-5.2"
+}

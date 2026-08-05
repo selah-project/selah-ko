@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"파르오에게로 가서, 그에게 말하여라. '야훼께서 이같이 말씀하셨다. ⟨את⟩ 내 백성을 보내라, 그들이 나를 섬기게 하라.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "בא",
+      "gloss": "가서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "그들이 나를 섬기게 하라"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:53.790895487Z",
+  "model": "glm-5.2"
+}

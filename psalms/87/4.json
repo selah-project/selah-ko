@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 87,
+  "translation": "내가 라하브와 바벨을 나를 아는 자들에게 언급하리니, 보라, 펠레셋과 쯔르, 쿠쉬와 함께, 이 ⟨자가⟩ 거기서 태어났다.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "내가 언급하리니"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "라하브를"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "바벨과"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "아는 자들에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "펠레셋과"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "쯔르와"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "쿠쉬"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "태어났다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:17.924235901Z",
+  "model": "glm-5.2"
+}

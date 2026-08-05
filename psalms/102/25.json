@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "말하리라 나의 엘에게, 나의 날들의 한가운데서 나를 데려가지 마시옵소서, 세대와 세대들 ⟨속에서⟩ 당신의 해들이 ⟨있습니다⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말하리라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나의 엘에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…마시옵소서"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "나를 데려가지"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "나의 날들의"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "세대와"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "세대들"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "당신의 해들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:24.119375517Z",
+  "model": "glm-5.2"
+}

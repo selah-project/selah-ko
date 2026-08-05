@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 30:21",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "주께서 저에게 잔혹하게 돌아서셨고, 주의 손의 세력으로 저를 핍박하십니다.",
+  "tokens": [
+    {
+      "surface": "תהפך",
+      "gloss": "돌아서셨고"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "잔혹하게"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "세력으로"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "주의 손의"
+    },
+    {
+      "surface": "תשטמני",
+      "gloss": "항상 박해하시나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:07.247472834Z",
+  "model": "glm-5.2"
+}

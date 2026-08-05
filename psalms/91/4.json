@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 91,
+  "translation": "그분께서 ⟨그⟩분의 깃털로 ⟨그⟩대를 덮으시리니, ⟨그⟩분의 날개 아래 ⟨그⟩대는 피하리라. ⟨그⟩분의 에메트는 방패이요 방패이다.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "그분의 깃털로"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "덮으시리니"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨그⟩대를"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "그분의 날개"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "⟨그⟩대는 피하리라"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "방패이요"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "방패이다"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "그분의 에메트는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:31.512272772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ 오피르와 ⟨את⟩ 하빌라와 ⟨את⟩ 요바브를, 이 모든 ⟨이들은⟩ 요크탄의 아들 ⟨들이었다⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "오피르"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "오피르"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하빌라"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "하빌라"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "요바브"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "요바브"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "요크탄"
+    }
+  ],
+  "timestamp": "2026-08-05T18:31:22.333018153Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "보라, 야훼의 손이 짧아 ⟨그⟩ 구원하시지 못함이 아니며, ⟨그리고⟩ ⟨그⟩의 귀가 둔하여 ⟨그⟩ 듣지 못함이 아니다.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니며"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "짧아"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "구원하시지 못함이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨그리고⟩ 아니며"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "둔하여"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "귀가"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "듣지 못함이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:06.958831523Z",
+  "model": "glm-5.2"
+}

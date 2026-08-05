@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 22:6",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 이제, 오라, 제발 나를 위하여 ⟨את⟩ 이 백성을 저주하라. 그들이 나보다 강하므로. 어쩌면 내가 그들을 칠 수 있고, 그들을 그 땅에서 쫓아낼 수 있으리라. 내가 앎 ⟨את⟩ — 그대가 축복하는 자는 축복을 받고, 그대가 저주하는 자는 저주를 받음을.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "오라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "저주하라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "강하다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나보다"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "어쩌면"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "내가 할 수 있다"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "칠"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "ואגרשנו",
+      "gloss": "그리고 내가 쫓아내리라 그들을"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 앎"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그대가 축복하는 자는 축복받고 그대가 저주하는 자는 저주받음을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "그대가 축복하는"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "축복받는다"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 —"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "그대가 저주하는"
+    },
+    {
+      "surface": "יואר",
+      "gloss": "저주받는다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:41:30.510244Z",
+  "model": "glm-5.2"
+}

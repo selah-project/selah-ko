@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "끝내 잊히지 않는다, 가난한 자가 — 온유한 자들의 소망이 영원히 사라지지 않는다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "끝내"
+    },
+    {
+      "surface": "לא",
+      "gloss": "잊히지 않는다"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "잊혀질"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "가난한 자가"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "소망이"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "온유한 자들의"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "사라지지 않는다"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:08.549251247Z",
+  "model": "glm-5.2"
+}

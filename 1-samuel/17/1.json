@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 펠리쉬티인들이 ⟨את⟩ 그들의 진영을 전쟁을 위해 모으니, 그들이 유다에 속한 소코에 모여, 소코와 아젝다 사이에, 에페스 다밈에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "모으니"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "펠리쉬티인들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 진영을"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "그들의 진영을"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "전쟁을 위해"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "모여"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "소코에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "유다에 속한"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "소코와"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 …사이에"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "아젝다"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "에페스"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "다밤에"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:19.008102717Z",
+  "model": "glm-5.2"
+}

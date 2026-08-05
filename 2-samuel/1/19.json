@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 1:19",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "아아, 이스라엘의 영광이, 네 높은 곳들에서 쓰러졌다 — 어찌하여 용사들이 떨어졌는가!",
+  "tokens": [
+    {
+      "surface": "הצבי",
+      "gloss": "아아"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "네 높은 곳들"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "쓰러졌다"
+    },
+    {
+      "surface": "איך",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "떨어졌는가"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "용사들이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:51.707461189Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "헤벨, 헤벨림, 코헬렛이 말하였다. 헤벨, 헤벨림, ⟨그⟩ 전부가 헤벨이다.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "헤벨"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "헤벨림"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "코헬렛이"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헤벨"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "헤벨림"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "전부가"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헤벨이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:50.788060123Z",
+  "model": "glm-5.2"
+}

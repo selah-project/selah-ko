@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 17:34",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 다윗이 샤울에게 말하였다. \"당신의 종은 그의 아버지의 양 떼 가운데서 양을 치는 자였다. 사자가, 또 ⟨את⟩ 곰이 들어와서 떼 가운데서 양 한 마리를 가져갔을 때 —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …이 말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "치는 자"
+    },
+    {
+      "surface": "היה",
+      "gloss": "…이었다"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종은"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "그의 아버지의"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "양 떼 가운데서"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "그리고 …이 들어왔을 때"
+    },
+    {
+      "surface": "הארי",
+      "gloss": "그 사자가"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 곰"
+    },
+    {
+      "surface": "הדוב",
+      "gloss": "그 곰"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "그리고 …이 가져갔을 때"
+    },
+    {
+      "surface": "שה",
+      "gloss": "양 한 마리를"
+    },
+    {
+      "surface": "מהעדר",
+      "gloss": "그 떼 가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:09.942127473Z",
+  "model": "glm-5.2"
+}

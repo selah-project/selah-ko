@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "너희 스스로 삼가라, 너희 마음이 꾀어져 너희가 돌이켜 다른 엘로힘들을 섬기며 그것들에게 엎드려 절하지 않도록.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "삼가라"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희 스스로"
+    },
+    {
+      "surface": "פן",
+      "gloss": "—하지 않도록"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "꾀어져"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "너희 마음이"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "너희가 돌이켜"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "섬기며"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘들을"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "엎드려 절하며"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그것들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:05.501241902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "너희가 ⟨이⟩ 산을 둘러 돌기에 충분하니, 너희는 북쪽으로 향하라.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "충분하니"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "סב",
+      "gloss": "둘러 돌기에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 산"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "향하라"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희는"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "북쪽으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:22.195168618Z",
+  "model": "glm-5.2"
+}

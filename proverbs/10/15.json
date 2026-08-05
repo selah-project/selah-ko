@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "부자의 재물은 그의 견고한 성이고, 가난한 자들의 파멸은 그들의 가난이다.",
+  "tokens": [
+    {
+      "surface": "ה֣וֹן",
+      "gloss": "재물은"
+    },
+    {
+      "surface": "עָ֭שִׁיר",
+      "gloss": "부자의"
+    },
+    {
+      "surface": "קִרְיַ֣ת",
+      "gloss": "성이고"
+    },
+    {
+      "surface": "עֻזּ֑וֹ",
+      "gloss": "그의 견고한"
+    },
+    {
+      "surface": "מְחִתַּ֖ת",
+      "gloss": "파멸은"
+    },
+    {
+      "surface": "דַּלִּ֣ים",
+      "gloss": "가난한 자들의"
+    },
+    {
+      "surface": "רֵישָֽׁם",
+      "gloss": "그들의 가난이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:03.876073779Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "내가 없었던 것같이 내가 없었더라면, 태에서 무덤으로 옮겨졌더라면!",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "같이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "내가 있었던"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "내가 있었더라면"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "태에서"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "무덤으로"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "옮겨졌더라면"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:30.797230351Z",
+  "model": "glm-5.2"
+}

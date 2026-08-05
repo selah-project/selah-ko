@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "오직 셰올로 내던져지리니, 구덩이 끝으로 내려가리라.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "셰올"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "내던져지리니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "끝"
+    },
+    {
+      "surface": "בור",
+      "gloss": "구덩이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:36.916432675Z",
+  "model": "glm-5.2"
+}

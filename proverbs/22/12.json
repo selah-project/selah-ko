@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "야훼의 눈은 지식을 지키시며, 그리고 배반하는 자의 말들을 뒤집으신다.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "눈은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "지키시며"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식을"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "그리고 … 뒤집으신다"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "배반하는 자의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:36.009428477Z",
+  "model": "glm-5.2"
+}

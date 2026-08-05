@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "파르오가 보내어 요셉을 부르게 하셨다. 그들이 ⟨את⟩ 요셉을 그 구덩이에서 급히 끌어 올리니, 그가 면도를 하고 옷을 갈아입었다. 그리고 파르오에게 들어갔다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "부르게 하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉을"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉을"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "그들이 급히 끌어 올리니"
+    },
+    {
+      "surface": "מן",
+      "gloss": "～에서"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "그 구덩이"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "면도를 하고"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "갈아입었다"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "옷을"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:50.768028621Z",
+  "model": "glm-5.2"
+}

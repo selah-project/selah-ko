@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그가 행한 것이 야훼의 눈에 악하였으므로, ⟨그분께서⟩ 그도 죽이셨다.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֛רַע",
+      "gloss": "악하였으므로"
+    },
+    {
+      "surface": "בְּעֵינֵ֥י",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "⟨것⟩ which"
+    },
+    {
+      "surface": "עָשָׂ֑ה",
+      "gloss": "그가 행한"
+    },
+    {
+      "surface": "וַיָּ֖מֶת",
+      "gloss": "죽이셨다"
+    },
+    {
+      "surface": "גַּ֥ם",
+      "gloss": "그도"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:23.065568924Z",
+  "model": "glm-5.2"
+}

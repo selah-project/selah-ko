@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "많이 나를 씻어 주소서, 나의 죄악에서. 그리고 나의 죄에서 나를 깨끗하게 하소서.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "많이"
+    },
+    {
+      "surface": "כבס넙",
+      "gloss": "나를 씻어 주소서"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "나의 죄악에서"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "그리고 나의 죄에서"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "나를 깨끗하게 하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:01.227599631Z",
+  "model": "glm-5.2"
+}

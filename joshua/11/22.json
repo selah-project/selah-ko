@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 11:22",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "이스라엘 자손의 땅에 아나킴이 남아 있지 않았다. 오직 아자, 가트, 아슈도드에만 남아 있었다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니했다"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "남아"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "아나킴이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "רק",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "아자에"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "가트에"
+    },
+    {
+      "surface": "ובאשדוד",
+      "gloss": "그리고 아슈도드에"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "남아 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:21.284359693Z",
+  "model": "glm-5.2"
+}

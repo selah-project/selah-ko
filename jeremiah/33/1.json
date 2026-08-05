@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 33:1",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "야훼의 말씀이 예르미야후에게 두 번째 임하였으니, ⟨그는⟩ 여전히 그 감옥의 뜰에 갇혀 있었다. ⟨말씀하시기를⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "임하였으니"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야후"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "두 번째"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨그는⟩"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "여전히"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "갇혀 있었다"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "뜰에"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "그 감옥의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨말씀하시기를⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T10:39:03.512702410Z",
+  "model": "glm-5.2"
+}

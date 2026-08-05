@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ 파트루심과 ⟨את⟩ 카슬루힘을 — 그들에게서 블레셋 사람과 ⟨את⟩ 카프토림이 나왔다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "파트루심을"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "파트루심"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "카슬루힘을"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "카슬루힘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한(곳에서)"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "나왔다"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기에서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "카프토림을"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "카프토림"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:13.576409909Z",
+  "model": "glm-5.2"
+}

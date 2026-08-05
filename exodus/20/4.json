@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "너는 네를 위하여 우상을, 그리고 하늘에 있는 위로부터 것의, 그리고 땅에 있는 아래로부터 것의, 그리고 땅 아래 물에 있는 것의 모든 형상을 만들지 말 것이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "만들지 말 것이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너는 네를 위하여"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "우상을"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 … 모든"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "형상을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "하늘에 있는"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "위로부터"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에 있는"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "아래로부터"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에 있는"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "아래로부터"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:43.920565465Z",
+  "model": "glm-5.2"
+}

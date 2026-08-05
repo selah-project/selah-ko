@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "북풍은 비를 몰아오고, 분노한 얼굴은 숨겨진 혀를 향한다.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "바람은"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "북"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "몰아오고"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "비를"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "그리고 얼굴은"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "분노한"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀를"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "숨겨진"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:21.171252302Z",
+  "model": "glm-5.2"
+}

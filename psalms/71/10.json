@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "나의 원수들이 나를 두고 말하고, 내 네페쉬를 지키는 자들이 함께 도모하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "나의 원수들이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 두고"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "…를 지키는 자들이"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "도모하였고"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:17.829715483Z",
+  "model": "glm-5.2"
+}

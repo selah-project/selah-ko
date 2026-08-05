@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 40:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "삼 일 안에 파르오가 ⟨את⟩ 당신의 머리를 드시어 당신을 자리에 되돌리시면, 당신은 파르오의 잔을 그의 손에 건네게 될 것이다 — 당신이 그의 술 따르는 자였던 전례대로.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "안에"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "삼"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "드시어"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 머리를"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "당신의 머리를"
+    },
+    {
+      "surface": "והשיבך",
+      "gloss": "당신을 되돌리시면"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כנך",
+      "gloss": "당신의 자리에"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "건네게 될 것이다"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "잔을"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "전례대로"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "전의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "היית",
+      "gloss": "이었던"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "그의 술 따르는 자"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:33.169325605Z",
+  "model": "glm-5.2"
+}

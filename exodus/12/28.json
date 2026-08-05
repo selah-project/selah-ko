@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 이스라엘 자녀들이 가서 행하였다 — 야훼께서 ⟨את⟩ 모셰와 ⟨את⟩ 아하론에게 명령하신 대로; 그같이 그들이 행하였다.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "그리고 가서"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자녀들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "～한 대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰와 아하론"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "그리고 아하론"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "그들이 행하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:52:53.186380459Z",
+  "model": "glm-5.2"
+}

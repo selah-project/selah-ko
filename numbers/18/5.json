@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 너희는 ⟨את⟩ 거룩한 것의 직분과 ⟨את⟩ 제단의 직분을 지키라, 그리하면 이스라엘 자손에게 다시는 진노가 없으리라.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "너희는 지키라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "거룩한 것의 직분"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "직분"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "거룩한 것의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "제단의 직분"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "직분"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아닌"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "진노가"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:39:05.092980843Z",
+  "model": "glm-5.2"
+}

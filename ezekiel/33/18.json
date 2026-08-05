@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "의로운 자가 자기 의에서 돌이켜 불의를 행하면, 그는 그것들로 인해 죽는다.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "…가 돌이키면"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자가"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "자기 의에서"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 …을 행하면"
+    },
+    {
+      "surface": "עול",
+      "gloss": "불의를"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "그리고 …가 죽는다"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그것들로 인해"
+    }
+  ],
+  "timestamp": "2026-08-05T10:58:01.773153445Z",
+  "model": "glm-5.2"
+}

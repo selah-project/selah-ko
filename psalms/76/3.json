@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 76,
+  "translation": "그의 초막이 샐렘에 있고, 그의 거처가 쯔욘에 있다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨있다⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "샐렘에"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "그의 초막이"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "그의 거처가"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "쯔욘에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:39.037536652Z",
+  "model": "glm-5.2"
+}

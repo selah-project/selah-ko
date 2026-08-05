@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 코헨은 그 기름의 로그에서 취하여, 코헨의 왼쪽 손바닥 위에 부을 것이다.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "그리고 …을 취하다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "그 코헨은"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "로그에서"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "그 기름의"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "그리고 …을 붓다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כף",
+      "gloss": "손바닥"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨의"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "왼쪽"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:12.159316225Z",
+  "model": "glm-5.2"
+}

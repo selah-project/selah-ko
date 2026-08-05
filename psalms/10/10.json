@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "⟨그가⟩ 몸을 낮추어 엎드리니, ⟨그⟩ 불쌍한 자들이 ⟨그⟩의 강력한 것들 ⟨아래로⟩ 쓰러진다.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "몸을 낮추어"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "엎드리니"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "쓰러진다"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "그의 강력한 것들 아래로"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "불쌍한 자들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:57.578469076Z",
+  "model": "glm-5.2"
+}

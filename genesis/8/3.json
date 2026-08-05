@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "물들이 땅 위에서 물러가고 물러오기를 거듭하였다. 그리고 물들이 백오십 일의 끝에서 줄어들었다.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "물러가고"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "가기를"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "돌아오기를"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "줄어들었다"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "끝에서"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "백"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:36.257758667Z",
+  "model": "glm-5.2"
+}

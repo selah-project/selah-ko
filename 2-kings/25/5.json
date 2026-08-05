@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 카스딤 군대가 그 왕을 뒤쫓아 예리코의 평야에서 그를 붙잡았고, 그의 모든 군대는 그에게서 흩어졌다.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "그리고 뒤쫓았다"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "군대가"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "카스딤"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "뒤쫓아"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕을"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "그리고 붙잡았다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "평야에서"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "예리코의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "그의 군대는"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "흩어졌다"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "그에게서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:53:45.425052433Z",
+  "model": "glm-5.2"
+}

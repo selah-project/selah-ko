@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "당신이 일어나 ⟨את⟩ 쯔욘을 불쌍히 여기시리니, 그것에 은혜를 베풀 때임 ⟨때문이다⟩, 정한 때가 왔음 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "불쌍히 여기시리니"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "쯔욘을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "그것에 은혜를 베풀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔음"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "정한 때가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:32.449093786Z",
+  "model": "glm-5.2"
+}

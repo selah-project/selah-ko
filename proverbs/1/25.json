@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 너희는 나의 모든 모략을 내버려 두었으며, 나의 책망을 너희는 원하지 않았다.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "그리고 너희는 내버려 두었으며"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "나의 모략을"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "나의 책망을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "원하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:31.661312650Z",
+  "model": "glm-5.2"
+}

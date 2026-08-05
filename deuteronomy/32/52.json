@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "이는 네가 맞은편에서 ⟨את⟩ 그 땅을 볼 것이나, 내가 이스라엘 자손에게 주는 그 땅으로는 거기 들어가지 못할 것임이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "맞은편에서"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "네가 볼 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "그리고 거기로는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "네가 들어갈 것이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주는"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…의 아들에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:43.533938300Z",
+  "model": "glm-5.2"
+}

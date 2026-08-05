@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "물들이 그를 키웠고, 깊음이 그를 높였다 — ⟨그⟩ 강들이 ⟨그⟩ 심은 곳 주위를 흐르며, ⟨그⟩ 도랑들을 들의 모든 나무들에게로 보냈다.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "그를 키웠고"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "깊음이"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "그를 높였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 강들을"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "그 강들이"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "흐르며"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "주위를"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "그 심은 곳"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 도랑들을"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "그 도랑들을"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "보냈다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무들"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:58:02.171078032Z",
+  "model": "glm-5.2"
+}

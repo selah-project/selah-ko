@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "다윗이 거기서 올라가, 엔 게디 요새들에 머물었다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "머물었다"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "요새들에"
+    },
+    {
+      "surface": "עין",
+      "gloss": "엔"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "게디의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:52.516454039Z",
+  "model": "glm-5.2"
+}

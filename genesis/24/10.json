@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 24:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그 종이 ⟨그의⟩ 주인의 낙타 중에서 열 낙타를 취하여 떠났고, ⟨또한⟩ ⟨그의⟩ 주인의 모든 좋은 것들이 ⟨그의⟩ 손에 있었다. 그가 일어나 아람 나하라임으로, 나홀의 성읍으로 갔다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "그 종이"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "낙타를"
+    },
+    {
+      "surface": "מגמלי",
+      "gloss": "…낙타 중에서"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인의"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "떠났고"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것들이"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "그의 주인의"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "나하라임"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성읍으로"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "나홀의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:30.846161558Z",
+  "model": "glm-5.2"
+}

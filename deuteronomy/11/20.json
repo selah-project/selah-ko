@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 너는 그것들을 네 집 문설주와 네 성문에 쓸 것이다.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "그리고 너는 쓸 것이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "문설주"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "네 집"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "그리고 네 성문"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:08.946566200Z",
+  "model": "glm-5.2"
+}

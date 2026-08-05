@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "⟨그의⟩ 길들을 모셰에게 알리시고, ⟨그의⟩ 행적들을 이스라엘 자손들에게 ⟨알리셨다⟩.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "알리시고"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "⟨그의⟩ 길들을"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "모셰에게"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "—자손들에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "⟨그의⟩ 행적들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:18.263643702Z",
+  "model": "glm-5.2"
+}

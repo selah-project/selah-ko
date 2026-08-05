@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "오라, 야훼의 행하신 일들을 보라, ⟨그가⟩ 땅에 황무를 놓으셨다.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "오라"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "행하신 일들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그가⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "놓으셨다"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "황무를"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:44.777913538Z",
+  "model": "glm-5.2"
+}

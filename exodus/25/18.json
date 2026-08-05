@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너는 두 케루빔을 금으로 만들되, 두드려 만드는 작품으로 만들되, 카포레트의 두 끝에서 ⟨그것들⟩을 만들어라.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 만들되"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘을"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "케루빔"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "두드려 만드는 작품으로"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 만들되"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들"
+    },
+    {
+      "surface": "משני",
+      "gloss": "두"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "끝에서"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "카포레트의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:00:33.554138632Z",
+  "model": "glm-5.2"
+}

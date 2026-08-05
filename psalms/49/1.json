@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "지휘자에게, 코라흐의 아들들의 시편.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:11.771076002Z",
+  "model": "glm-5.2"
+}

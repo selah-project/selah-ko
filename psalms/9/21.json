@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼여, 그들에게 공포를 두소서. ⟨그⟩ 민족들이 알게 하소서 — 그들은 ⟨그저⟩ 필경 죽을 인간이다. 셀라.",
+  "tokens": [
+    {
+      "surface": "שִׁ֘יתָ֤ה",
+      "gloss": "두소서"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "מוֹרָ֗ה",
+      "gloss": "공포를"
+    },
+    {
+      "surface": "לָ֫הֶ֥ם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "יֵדְע֥וּ",
+      "gloss": "알게 하소서"
+    },
+    {
+      "surface": "גוֹיִ֑ם",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "אֱנ֖וֹשׁ",
+      "gloss": "필경 죽을 인간"
+    },
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:48.358628721Z",
+  "model": "glm-5.2"
+}

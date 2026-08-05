@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 31:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "화, 도움을 구하러 미츠라임으로 내려가는 자들에게! 말에 의지하고, 병거를 신뢰하니 그것이 많고, 기병을 신뢰하니 그것이 심히 강하지만, 이스라엘의 거룩한 이에게 눈을 돌리지 아니하였고, ⟨את⟩ 야훼를 구하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "הירדים",
+      "gloss": "내려가는 자들에게"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임으로"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "도움을 구하러"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "말"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "의지하고"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "⟨그리고⟩ 신뢰하니"
+    },
+    {
+      "surface": "על",
+      "gloss": "을"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "כי",
+      "gloss": " because"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많고"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨그리고⟩ 에"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "기병"
+    },
+    {
+      "surface": "כי",
+      "gloss": " because"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "강하지만"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨그리고⟩ 아니하였고"
+    },
+    {
+      "surface": "שעו",
+      "gloss": "눈을 돌리"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩한 이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "구하"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:08.499231511Z",
+  "model": "glm-5.2"
+}

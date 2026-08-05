@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 3:38",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리하여 우리가 ⟨את⟩ 성벽을 건축하였다. 그리고 ⟨온⟩ 성벽이 그 절반까지 연결되었다. ⟨이는⟩ 백성에게 일할 마음이 ⟨있었기⟩ ⟨때문⟩이다.",
+  "tokens": [
+    {
+      "surface": "ונבנה",
+      "gloss": "그리하여 우리가 건축하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "성벽을"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "그리고 연결되었다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "성벽이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "חציה",
+      "gloss": "그 절반"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨있었다⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "일할"
+    }
+  ],
+  "timestamp": "2026-08-05T12:34:38.688952213Z",
+  "model": "glm-5.2"
+}

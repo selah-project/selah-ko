@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "속건제 은과 속죄제 은은 야훼의 집으로 들여지지 아니하였으니, 그것은 코헨들의 것이었음이라.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "속건제"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "속죄제"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였으니"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "들여지지"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "코헨들의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "것이었음이라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:24.948891825Z",
+  "model": "glm-5.2"
+}

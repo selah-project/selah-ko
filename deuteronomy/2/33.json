@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 야훼 우리 엘로힘이 ⟨그⟩를 우리 앞에 넘겨주시매, 우리가 ⟨את⟩ ⟨그⟩와 ⟨את⟩ ⟨그의⟩ 아들들과 ⟨את⟩ ⟨그의⟩ 모든 백성을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "그리고 넘겨주시매"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘이"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "우리 앞에"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "우리가 쳤다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들들"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 모든 백성"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "백성"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:42.244769660Z",
+  "model": "glm-5.2"
+}

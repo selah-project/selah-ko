@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 코헨 우리야가 아하즈 왕이 명령한 모든 것대로 행하였다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 행하였다"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우리야"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "그 코헨"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것대로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령한"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "아하즈"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:02.706682202Z",
+  "model": "glm-5.2"
+}

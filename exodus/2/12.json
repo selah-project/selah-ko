@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그가 이리저리 돌아보고 아무도 없음을 보고는, ⟨את⟩ 그 미츠라임 사람을 쳐서 모래 속에 그를 숨겼다.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "돌아보고"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이리"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "저리"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보고는"
+    },
+    {
+      "surface": "כי",
+      "gloss": "함을"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "쳐서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 미츠라임 사람"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "미츠라임 사람"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "숨겼다"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "모래 속에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:41.616189264Z",
+  "model": "glm-5.2"
+}

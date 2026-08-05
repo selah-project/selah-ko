@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 113,
+  "translation": "해가 뜨는 곳부터 ⟨그것의⟩ 들어감까지 야훼의 이름이 찬양받으신다.",
+  "tokens": [
+    {
+      "surface": "מִמִּזְרַח",
+      "gloss": "해가 뜨는 곳부터"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "해"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "부터"
+    },
+    {
+      "surface": "מְבוֹא֑וֹ",
+      "gloss": "⟨그것의⟩ 들어감까지"
+    },
+    {
+      "surface": "מְ֝הֻלָּ֗ל",
+      "gloss": "찬양받으신다"
+    },
+    {
+      "surface": "שֵׁ֣ם",
+      "gloss": "이름이"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:52.656728518Z",
+  "model": "glm-5.2"
+}

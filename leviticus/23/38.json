@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 23:38",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "야훼의 샤밧들을 제외하고, 그리고 너희의 선물들을 제외하고, 그리고 너희의 모든 서원들을 제외하고, 그리고 너희의 모든 자원 제물을 제외하고, 너희가 야훼께 드리는.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "제외하고"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "샤밧들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ומלבד",
+      "gloss": "그리고 제외하고"
+    },
+    {
+      "surface": "מתנותיכם",
+      "gloss": "너희의 선물들을"
+    },
+    {
+      "surface": "ומלבד",
+      "gloss": "그리고 제외하고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נדריכם",
+      "gloss": "너희의 서원들을"
+    },
+    {
+      "surface": "ומלבד",
+      "gloss": "그리고 제외하고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נדבותיכם",
+      "gloss": "너희의 자원 제물을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "너희가 드리는"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:46.535992279Z",
+  "model": "glm-5.2"
+}

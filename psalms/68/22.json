@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "오직 엘로힘이 ⟨그의⟩ 원수들의 머리를 부수실 것임이니, 죄 가운데 행하는 자의 털 난 정수리를.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "부수실 것임이니"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리를"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "원수들의"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "정수리를"
+    },
+    {
+      "surface": "שער",
+      "gloss": "털 난"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "행하는 자의"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "죄 가운데"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:58.167315660Z",
+  "model": "glm-5.2"
+}

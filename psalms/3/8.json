@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "일어나소서, 야훼여! 나를 구원하소서, 나의 엘이여! 오직 그대가 ⟨את⟩ 모든 나의 원수의 뺨을 치셨고, 악인들의 이를 부러뜨리셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "일어나소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "나를 구원하소서"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘이여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "치셨고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 나의 원수"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "나의 원수의"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "뺨을"
+    },
+    {
+      "surface": "שני",
+      "gloss": "이를"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "부러뜨리셨기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:24.108687086Z",
+  "model": "glm-5.2"
+}

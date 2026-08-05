@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 야훼 네 엘로힘이 ⟨그것을⟩ 네 손에 넘겨주실 때, 너는 칼날로 그 안의 모든 남자를 쳐라.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "그리고 넘겨주실 때"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "네 손에"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "너는 쳐라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 남자를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "남자를"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "날(입)로"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:35.569466055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 다섯 질의 커튼을 따로 잇고, 여섯 질의 커튼을 따로 이되, 곧 ⟨את⟩ 여섯째 커튼을 천막 앞면을 향해 접어 겹치라.",
+  "tokens": [
+    {
+      "surface": "וְחִבַּרְתָּ",
+      "gloss": "그리고 잇되"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "다섯 질의 커튼"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "다섯"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "커튼"
+    },
+    {
+      "surface": "לְבָד",
+      "gloss": "따로"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "여섯 질의 커튼"
+    },
+    {
+      "surface": "שֵׁשׁ",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "커튼"
+    },
+    {
+      "surface": "לְבָד",
+      "gloss": "따로"
+    },
+    {
+      "surface": "וְכָפַלְתָּ",
+      "gloss": "그리고 접어 겹치라"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "여섯째 커튼"
+    },
+    {
+      "surface": "הַיְרִיעָה",
+      "gloss": "커튼"
+    },
+    {
+      "surface": "הַשִּׁשִּׁית",
+      "gloss": "여섯째"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "מוּל",
+      "gloss": "맞은편"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "앞면"
+    },
+    {
+      "surface": "הָאֹהֶל",
+      "gloss": "천막"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:37.916442418Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 가운데 가로장을 만들었으니, ⟨את⟩ 판자들 한가운데를 관통하게, 한 끝에서 다른 끝까지 ⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가운데 가로장을"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "가로장을"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "가운데"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "관통하게"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데를"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "판자들"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "한 끝"
+    },
+    {
+      "surface": "אל",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "다른 끝"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:17.965777821Z",
+  "model": "glm-5.2"
+}

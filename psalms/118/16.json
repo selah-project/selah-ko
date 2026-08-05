@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "야훼의 오른손이 높이 들리셨다! 야훼의 오른손이 용맹을 행하셨다!",
+  "tokens": [
+    {
+      "surface": "יְמִ֣ין",
+      "gloss": "오른손이"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "רוֹמֵמָ֑ה",
+      "gloss": "높이 들리셨다"
+    },
+    {
+      "surface": "יְמִ֥ין",
+      "gloss": "오른손이"
+    },
+    {
+      "surface": "יְ֝הוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "עֹ֣שָׂה",
+      "gloss": "행하셨다"
+    },
+    {
+      "surface": "חָֽיִל",
+      "gloss": "용맹을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:00.311217509Z",
+  "model": "glm-5.2"
+}

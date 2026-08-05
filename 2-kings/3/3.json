@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "다만 느밧의 아들 야로브암의 죄들에 — 그것이 ⟨את⟩ 이스라엘로 범죄하게 한 것 — 붙어 있었으니, 그것에서 돌이키지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "…의 죄들에"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "야로브암의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "느밧의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "범죄하게 한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "붙어 있었으니"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "סר",
+      "gloss": "돌이켰다"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "그것에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:37.285813532Z",
+  "model": "glm-5.2"
+}

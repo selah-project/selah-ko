@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 19:8",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그가 일어나 먹고 마시고, 그 음식의 힘으로 사십 일과 사십 밤을 걸어서, 엘로힘의 산 호렙에 이르렀다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "וישתה",
+      "gloss": "마시고"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "걸어서"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "힘으로"
+    },
+    {
+      "surface": "האכילה",
+      "gloss": "그 음식의"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤"
+    },
+    {
+      "surface": "עד",
+      "gloss": "에 이르렀다"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "호렙"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:38.683368325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "불과 우박, 눈과 김, 그의 말씀을 행하는 폭풍 루아흐여!",
+  "tokens": [
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "불"
+    },
+    {
+      "surface": "וּ֭בָרָד",
+      "gloss": "과 우박,"
+    },
+    {
+      "surface": "שֶׁ֣לֶג",
+      "gloss": "눈"
+    },
+    {
+      "surface": "וְקִיט֑וֹר",
+      "gloss": "과 김,"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "루아흐"
+    },
+    {
+      "surface": "סְעָרָ֗ה",
+      "gloss": "폭풍"
+    },
+    {
+      "surface": "עֹשָׂ֥ה",
+      "gloss": "행하는"
+    },
+    {
+      "surface": "דְבָרֽוֹ",
+      "gloss": "그의 말씀을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:12.321784667Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "다만 그 산당들은 옮겨지지 아니하였으니 여전히 백성이 산당들에서 제물을 잡아 바치고 분향하고 있었다",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "다만"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "그 산당들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "옮겨졌다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "여전히"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성이"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "제물을 잡아 바치고"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "그리고 분향하고"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "산당들에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:52.697689284Z",
+  "model": "glm-5.2"
+}

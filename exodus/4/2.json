@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "야훼께서 그에게 말씀하셨다. \"이것이 무엇이냐, 네 손에 있는 것?\" 그가 말하였다. \"지팡이입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "이것이 무엇이냐"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "네 손에 있는 것"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "지팡이입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:10.775113910Z",
+  "model": "glm-5.2"
+}

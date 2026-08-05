@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "아비멜렉은 아루마에 머물렀고, 제불은 ⟨את⟩ 가알과 ⟨את⟩ 그의 형제들을 쉐킴에 거주하지 못하게 내쫓았다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "머물렀고"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉은"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "아루마에"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "내쫓았다"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "제불은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가알"
+    },
+    {
+      "surface": "געל",
+      "gloss": "가알"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 형제들"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들을"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "거주하지 못하게"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "쉐킴에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:33.119934276Z",
+  "model": "glm-5.2"
+}

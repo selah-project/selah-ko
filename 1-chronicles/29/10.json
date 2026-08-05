@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "다윗이 온 회중의 눈 앞에서 ⟨את⟩ 야훼를 송축하였다. 다윗이 말하였다. \"송축받으시옵소서, 당신은 영원부터 영원까지 우리 아버지 이스라엘의 엘로힘이신 야훼이십니다.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "송축하였다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "…의 눈 앞에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "송축받으시옵소서"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이십니다"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이신"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "우리 아버지"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "영원부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:17.508981511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 내가 그 판 위에 ⟨את⟩ 그 말씀들을 기록하리니 — 그것들은 네가 부순 처음 판들 위에 있던 것들이라. 너는 그것들을 궤 안에 두어라.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "그리고 내가 기록하리니"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "그 판"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 말씀들을"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "그 말씀들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있던"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "그 판"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "처음"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "네가 부순"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "그리고 너는 두어라"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "궤 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:31.286497830Z",
+  "model": "glm-5.2"
+}

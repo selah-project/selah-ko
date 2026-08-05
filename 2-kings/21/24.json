@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "땅의 백성이 ⟨את⟩ 그 왕 아모에게 반역한 모든 모의자들을 쳤고, 땅의 백성이 ⟨את⟩ 그의 아들 요쉬야후를 그를 대신하여 왕으로 삼았다.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "쳤고"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 모의자들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "모의자들을"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에게 반역한"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "아모"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "왕으로 삼았다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요쉬야후를"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "요쉬야후를"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:45.027784600Z",
+  "model": "glm-5.2"
+}

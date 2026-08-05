@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "야훼께서 히즈키야후의 ⟨기도⟩를 들으시고, ⟨את⟩ 백성을 고쳐 주셨다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "들으시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "들으시고"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "히즈키야후의"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "고쳐 주셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:10:16.425323880Z",
+  "model": "glm-5.2"
+}

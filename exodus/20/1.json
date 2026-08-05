@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "엘로힘이 ⟨את⟩ 이 모든 말씀들을 말씀하셨다. ⟨이르시기를⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 말씀들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:43.920139362Z",
+  "model": "glm-5.2"
+}

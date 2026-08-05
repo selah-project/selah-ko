@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "그의 종들의 씨가 ⟨그것을⟩ 상속할 것이며, 그의 이름을 사랑하는 자들이 ⟨그것⟩ 안에 거할 것이다.",
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "그리고 씨가"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들의"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "상속할 것이다"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "그리고 사랑하는 자들이"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "거할 것이다"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨그것⟩ 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:32.239848548Z",
+  "model": "glm-5.2"
+}

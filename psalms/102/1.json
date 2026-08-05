@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "궁핍한 자의 기도이다. ⟨그가⟩ 스러져 갈 때에 야훼 앞에 ⟨그의⟩ 탄식을 쏟아 놓으매",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "기도"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "궁핍한 자의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때에"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "스러져 갈"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "쏟아 놓으매"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "그의 탄식을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:27.606361974Z",
+  "model": "glm-5.2"
+}

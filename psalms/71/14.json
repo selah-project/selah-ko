@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "그러나 나는 늘 소망을 품고, 모든 찬양 위에 더하여 당신을 찬양하겠습니다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그러나 나는"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "늘"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "소망을 품고"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "더하여 드리겠습니다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "당신의 찬양을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:14.865245473Z",
+  "model": "glm-5.2"
+}

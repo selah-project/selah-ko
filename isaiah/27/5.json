@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "아니면 ⟨그가⟩ 내 힘을 붙잡을 것인가 — 나와 샬롬을 맺어야 할 것인가. 샬롬을 나와 맺어야 할 것이다.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "그가 붙잡을 것인가"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "내 힘을"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "맺어야 할 것인가"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나와"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "맺어야 할 것이다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나와"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:23.559224229Z",
+  "model": "glm-5.2"
+}

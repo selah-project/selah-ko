@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "지혜로운 자들의 입술은 지식을 뿌리지만, 케실림의 마음은 그렇지 않다.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "입술은"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "지혜로운 자들의"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "뿌리지만"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식을"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "케실림의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그렇다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:39.186435237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "그가 어둠을 두시면 밤이 되고, 그 안에서 숲의 모든 짐승이 기어 다닌다.",
+  "tokens": [
+    {
+      "surface": "תָּשֶׁת",
+      "gloss": "그가…두시면"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "어둠을"
+    },
+    {
+      "surface": "וִיהִי",
+      "gloss": "되고"
+    },
+    {
+      "surface": "לַיְלָה",
+      "gloss": "밤이"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "그 안에서"
+    },
+    {
+      "surface": "תִּרְמֹשׂ",
+      "gloss": "기어 다닌다"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חַיְתוֹ",
+      "gloss": "짐승이"
+    },
+    {
+      "surface": "יַעַר",
+      "gloss": "숲의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:51.232170629Z",
+  "model": "glm-5.2"
+}

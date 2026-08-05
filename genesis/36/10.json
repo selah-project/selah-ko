@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "이것들이 에사브 아들들의 이름들이다: 엘리파즈, 에사브 아내 아다의 아들; 르우엘, 에사브 아내 바쉬마트의 아들.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름들이다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "엘리파즈"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "아다의"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "르우엘"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "바쉬마트의"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:03.626098961Z",
+  "model": "glm-5.2"
+}

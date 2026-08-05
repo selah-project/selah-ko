@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "체다카인들이 많아지면 백성이 기뻐하고, 라샤가 다스리면 백성이 탄식한다.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "많아지면"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "체다카인들이"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "기뻐하고"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "다스리면"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "라샤가"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "탄식한다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:13.804587057Z",
+  "model": "glm-5.2"
+}

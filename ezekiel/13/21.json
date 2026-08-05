@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 13:21",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "나는 ⟨את⟩ 너희의 덮개를 찢고, 내 백성을 너희 손에서 건져내리라. 그들이 다시는 너희 손에 사냥감이 되지 아니하리니, 너희는 내가 야훼임을 알리라.",
+  "tokens": [
+    {
+      "surface": "וקרעתי",
+      "gloss": "찢고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희의 덮개를"
+    },
+    {
+      "surface": "מספחתיכם",
+      "gloss": "너희의 덮개"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "건져내고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성을"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "מידכן",
+      "gloss": "너희 손에서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하리니"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "그들이 되지"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시는"
+    },
+    {
+      "surface": "בידכן",
+      "gloss": "너희 손에"
+    },
+    {
+      "surface": "למצודה",
+      "gloss": "사냥감이"
+    },
+    {
+      "surface": "וידעתן",
+      "gloss": "너희는 알리라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼임을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:49:19.854820264Z",
+  "model": "glm-5.2"
+}

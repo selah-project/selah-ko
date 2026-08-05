@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "백성들의 규례는 헛것이다. 수풀에서 나무를 잘라낸 것, 장인의 손으로 도끼로 만든 작품이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…이다"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "규례"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "백성들의"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헛것"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "…이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "수풀에서"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "잘라낸 것"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "작품"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "손"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "장인의"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "도끼로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:30:24.407159964Z",
+  "model": "glm-5.2"
+}

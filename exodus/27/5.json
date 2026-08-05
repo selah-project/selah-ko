@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 ⟨그것을⟩ 제단의 테 두르개 아래에, 아래쪽에 놓아라. 그리하면 그 그물이 제단 중간까지 ⟨이르게⟩ 될 것이다.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "그리고 놓아라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "테 두르개"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "아래쪽에"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "그리고 ⟨그것이⟩ …이 될 것이다"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "그 그물이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "중간"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:21.625306729Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "겨울 때문에 게으른 자는 갈지 않으니, 추수 때에 구하되 아무것도 없다.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "겨울 때문에"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "게으른 자는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "갈지"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "구하되"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "추수 때에"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "아무것도 없다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:23.538772018Z",
+  "model": "glm-5.2"
+}

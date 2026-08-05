@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "부자는 가난한 자들을 다스리니, 빌리는 자는 빌려주는 자의 종이다.",
+  "tokens": [
+    {
+      "surface": "עָשִׁיר",
+      "gloss": "부자는"
+    },
+    {
+      "surface": "בְּרָשִׁים",
+      "gloss": "가난한 자들을"
+    },
+    {
+      "surface": "יִמְשֹׁל",
+      "gloss": "다스리니"
+    },
+    {
+      "surface": "וְעֶבֶד",
+      "gloss": "종이다"
+    },
+    {
+      "surface": "לֹוֶה",
+      "gloss": "빌리는 자는"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "자의"
+    },
+    {
+      "surface": "מַלְוֶה",
+      "gloss": "빌려주는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:47.620836754Z",
+  "model": "glm-5.2"
+}

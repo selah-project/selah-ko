@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "사람들이 그대로 하였다. 그들은 젖을 먹이는 암소 두 마리를 끌고 와 수레에 그것들을 매고, ⟨את⟩ 그것들의 새끼들은 집안에 가두어 두었다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "하고"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그대로"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들은 끌고 와"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "암소"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "젖을 먹이는"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "그것들을 매고"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "수레에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그것들의 새끼들"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "그것들의 새끼들은"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "가두어 두었다"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집안에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:24:33.859954286Z",
+  "model": "glm-5.2"
+}

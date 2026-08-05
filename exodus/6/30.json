@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 모셰는 야훼 앞에서 아뢰었다. \"보소서, 저는 입술이 할례받지 못한 자인데, 어떻게 파르오가 저의 말을 듣겠습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …아뢰었다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰는"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הן",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "할례받지 못한 자"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "입술이"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "그리고 어떻게"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "듣겠습니까"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "저의 말을"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:03.028607896Z",
+  "model": "glm-5.2"
+}

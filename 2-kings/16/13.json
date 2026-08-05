@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 그는 ⟨את⟩ 자신의 올라와 ⟨את⟩ 자신의 곡물 제물을 사르고, ⟨את⟩ 자신의 부어 드리는 제물을 붓고, ⟨את⟩ 자신에게 속한 샬롬 제물들의 피를 ⟨그⟩ 제단 위에 뿌렸다.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "그리고 사르고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자신의 올라"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "자신의 올라"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "자신의 곡물 제물"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "자신의 곡물 제물"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "그리고 붓고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자신의 부어 드리는 제물"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "자신의 부어 드리는 제물"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "그리고 뿌렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "피"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "샬롬 제물들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자신에게 속한"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:02.706200559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 온 백성이 ⟨את⟩ 구름 기둥이 ⟨그⟩ 텐트 입구에 서 있는 것을 보면, 온 백성이 일어나 각기 자기 텐트 입구에서 엎드려 절하였다.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "그리고 보면"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "구름 기둥"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "기둥"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "구름의"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "서 있는"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "그 텐트의"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "일어나며"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "엎드려 절하였다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각기"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "자기 텐트의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:26.486216530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 네 마음과 함께 알 것인즉, 사람이 ⟨את⟩ 자기 아들을 징계하듯이, 야훼 네 엘로힘이 너를 징계하신다.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "그리고 너는 알 것이다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "네 마음"
+    },
+    {
+      "surface": "כי",
+      "gloss": "것인즉"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "～하듯이"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "징계하다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아들을"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "자기 아들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "너를 징계하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:13.910961163Z",
+  "model": "glm-5.2"
+}

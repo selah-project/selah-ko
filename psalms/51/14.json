@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "당신의 구원의 기쁨을 내게 돌려주시고, 너그러운 루아흐로 나를 붙들어 주소서.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "돌려주소서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "기쁨을"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "당신의 구원의"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "그리고 루아흐로"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "너그러운"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "나를 붙들어 주소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:08.284028206Z",
+  "model": "glm-5.2"
+}

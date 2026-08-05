@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "곧 내 평화의 사람, 내가 그를 신뢰하던 자, 내 떡을 먹던 자가 나에게 발뒤꿈치를 크게 들었다.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אִ֤ישׁ",
+      "gloss": "사람"
+    },
+    {
+      "surface": "שְׁלוֹמִ֨י",
+      "gloss": "내 평화의"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "בָּטַ֣חְתִּי",
+      "gloss": "내가 신뢰하던"
+    },
+    {
+      "surface": "ב֭וֹ",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אוֹכֵ֣ל",
+      "gloss": "먹던"
+    },
+    {
+      "surface": "לַחְמִ֑י",
+      "gloss": "내 떡을"
+    },
+    {
+      "surface": "הִגְדִּ֖יל",
+      "gloss": "크게 들었다"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "עָקֵֽב",
+      "gloss": "발뒤꿈치를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:10.134800625Z",
+  "model": "glm-5.2"
+}

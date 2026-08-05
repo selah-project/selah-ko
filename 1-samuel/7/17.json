@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그의 돌아감은 라마로 더불어였으니, 거기에 그의 집이 있었으므로, 거기서 그가 ⟨את⟩ 이스라엘을 재판하였다. 그리고 그가 거기에 야훼께 제단을 쌓았다.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "그의 돌아감은"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "라마로 더불어"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집이"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 거기서"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 그가 쌓았다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:15.069555244Z",
+  "model": "glm-5.2"
+}

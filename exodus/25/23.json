@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너는 시팀 나무의 상을 만들어라 — 그 길이는 두 암마, 그 너비는 한 암마, 그 높이는 한 암마 반.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "너는 만들어라"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "상"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무의"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "시팀"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "두 암마"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그 길이는"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "한 암마"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그 너비는"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "한 암마"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "반"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "그 높이는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:00:48.368599848Z",
+  "model": "glm-5.2"
+}

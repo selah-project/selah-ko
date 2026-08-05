@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "타작마당과 포도주 틀이 그들을 먹이지 못할 것이요, 포도주는 그것에서 거짓되이 행할 것이다.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "타작마당"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "포도주 틀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…아닐"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "그들을 먹이"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "포도주"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "거짓되이 행할"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그것에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:47.274546058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "이들에게서 민족들의 해안 땅들이 그들의 땅에서 나뉘었다 — 각자 그의 언어로, 그들의 가족들로, 그들의 민족들 안에서.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "이들에게서"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "나뉘었다"
+    },
+    {
+      "surface": "איי",
+      "gloss": "해안 땅들이"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들의"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "그들의 땅에서"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "그의 언어로"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "그들의 가족들로"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "그들의 민족들 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:20.821649698Z",
+  "model": "glm-5.2"
+}

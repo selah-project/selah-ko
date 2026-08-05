@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 모셔가 ⟨그⟩ 피의 절반을 취하여 대접들에 담고, ⟨그⟩ 피의 절반은 제단에 뿌렸다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셔가"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "절반을"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피의"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "담고"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "대접들에"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "절반은"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피의"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "뿌렸다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:56.339510541Z",
+  "model": "glm-5.2"
+}

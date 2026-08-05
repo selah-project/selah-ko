@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨이⟩ ⟨את⟩ 지팡이를, ⟨이⟩ 이 지팡이를 네 손에 쥐어라, ⟨넳⟩ 그것으로 ⟨너⟩ 표적들을 행할 ⟨것인데⟩, ⟨그⟩ ⟨את⟩ 표적들을.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "지팡이"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "지팡이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "쥐어라"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "네 손에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것으로"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "행할"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것으로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "표적들"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "표적들"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:27.348350764Z",
+  "model": "glm-5.2"
+}

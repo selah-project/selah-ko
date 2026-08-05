@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "에돔 사람 도엑이 와서 샤울에게 알리며, 그에게 말하기를 다윗이 아히멜렉의 집에 왔다.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "올 때에"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "도엑이"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "에돔 사람"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "알리며"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "샤울에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "아히멜렉의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:51.156808025Z",
+  "model": "glm-5.2"
+}

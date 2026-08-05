@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 천막을 잇기 위하여 놋 갈고리 오십 개를 만들었다 — 하나가 되기 위하여.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "갈고리들을"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "놋의"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "잇기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "천막을"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "그 천막을"
+    },
+    {
+      "surface": "להית",
+      "gloss": "되기 위하여"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:48.401022136Z",
+  "model": "glm-5.2"
+}

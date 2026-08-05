@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 붉게 물들인 숫양 가죽과, 타하쉬 가죽과, 싯팀 나무 ——",
+  "tokens": [
+    {
+      "surface": "וְעֹרֹ֨ת",
+      "gloss": "그리고 가죽"
+    },
+    {
+      "surface": "אֵילִ֧ם",
+      "gloss": "숫양"
+    },
+    {
+      "surface": "מְאָדָּמִ֛ים",
+      "gloss": "붉게 물들인"
+    },
+    {
+      "surface": "וְעֹרֹ֥ת",
+      "gloss": "그리고 가죽"
+    },
+    {
+      "surface": "תְּחָשִׁ֖ים",
+      "gloss": "타하쉬"
+    },
+    {
+      "surface": "וַעֲצֵ֥י",
+      "gloss": "그리고 나무"
+    },
+    {
+      "surface": "שִׁטִּֽים",
+      "gloss": "싯팀"
+    }
+  ],
+  "timestamp": "2026-08-05T08:00:03.204465936Z",
+  "model": "glm-5.2"
+}

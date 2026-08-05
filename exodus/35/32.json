@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그리고 생각들을 고안하여, 금과 은과 놋으로 만들게.",
+  "tokens": [
+    {
+      "surface": "וְלַחְשֹׁ֖ב",
+      "gloss": "그리고 고안하여"
+    },
+    {
+      "surface": "מַֽחַשָׁבֹ֑ת",
+      "gloss": "생각들을"
+    },
+    {
+      "surface": "לַעֲשֹׂ֛ת",
+      "gloss": "만들게"
+    },
+    {
+      "surface": "בַּזָּהָ֥ב",
+      "gloss": "금과"
+    },
+    {
+      "surface": "וּבַכֶּ֖סֶף",
+      "gloss": "은과"
+    },
+    {
+      "surface": "וּבַנְּחֹֽשֶׁת",
+      "gloss": "놋으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:07:33.884957642Z",
+  "model": "glm-5.2"
+}

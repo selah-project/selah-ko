@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "여호수아가 그들을 쳤는데, 카데스 바르네아에서부터 아자까지, 그리고 ⟨את⟩ 곳의 온 땅을, 급온까지.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "그들을 쳤는데"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "카데스에서"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "바르네아"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 ~까지"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "아자"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "곳의 온 땅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "고센"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 ~까지"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "급온"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:39.684476560Z",
+  "model": "glm-5.2"
+}

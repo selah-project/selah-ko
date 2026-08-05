@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 23:14",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "다윗은 광야에서 요새들에 머물렀고, 쯔프 광야의 산에 머물렀다. 샤울이 날마다 그를 찾았으나, 엘로힘은 그를 샤울의 손에 넘기지 않으셨다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "머물렀고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "요새들에"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "머물렀다"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야의"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "쯔프"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "그를 찾았으나"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "날마다"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "매일"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하셨다"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "넘기지"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘은"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:14.430689707Z",
+  "model": "glm-5.2"
+}

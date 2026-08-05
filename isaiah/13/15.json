@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "잡힌 자는 모두 찔리며, 붙잡힌 자는 모두 칼에 엎드러지리라.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모두"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "잡힌 자는"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "찔리며"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모두"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "붙잡힌 자는"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "엎드러지리라"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:14.923577178Z",
+  "model": "glm-5.2"
+}

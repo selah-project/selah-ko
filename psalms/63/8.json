@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "당신이 ⟨나의⟩ 도움이 되셨기에, 당신의 날개 그늘에서 내가 환호하리이다.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "…이기에"
+    },
+    {
+      "surface": "הָיִ֣יתָ",
+      "gloss": "당신이 …되셨다"
+    },
+    {
+      "surface": "עֶזְרָ֣תָה",
+      "gloss": "도움"
+    },
+    {
+      "surface": "לִּ֑י",
+      "gloss": "⟨나의⟩ …으로"
+    },
+    {
+      "surface": "וּבְצֵ֖ל",
+      "gloss": "그리고 …그늘에서"
+    },
+    {
+      "surface": "כְּנָפֶ֣יךָ",
+      "gloss": "당신의 날개"
+    },
+    {
+      "surface": "אֲרַנֵּֽן",
+      "gloss": "내가 환호하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:57.174264521Z",
+  "model": "glm-5.2"
+}

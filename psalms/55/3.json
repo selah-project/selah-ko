@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "저에게 주의를 기울이시고 ⟨저에게⟩ 대답하소서. 제 탄식 안에서 방황하고 신음하나이다.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "주의를 기울이시고"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "대답하소서"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "방황하고"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "제 탄식 안에서"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "신음하나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:36.434333673Z",
+  "model": "glm-5.2"
+}

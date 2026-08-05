@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "모의하라, 계책을, 그것은 끊어질 것이다. 말하라, 말을, 그리고 그것은 일어서지 못할 것이다. 왜냐하면 엘이 우리와 함께하시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "모의하라"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "계책을"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "그리고 그것은 끊어질 것이다"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니다"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "일어서지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "우리와 함께"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:22.501101547Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "너의 딸을 더럽히지 말아 ⟨את⟩ — 그녀를 창녀가 되게 하려고. 그리하여 땅이 음란에 빠지지 않으며, 땅이 타락으로 가득 차지 않게 하라.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "더럽히지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너의 딸을"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "너의 딸을"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "그녀를 창녀가 되게 하려고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리하여 …하지 않으며"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "음란에 빠지지"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "가득 차지"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "타락으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:24.983576784Z",
+  "model": "glm-5.2"
+}

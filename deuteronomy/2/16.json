@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 전쟁의 사람들 전체가 백성 한가운데서 죽음으로 끝이 났을 때에 일이 그리 되었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일이 그리 되었다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "때에"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "끝이 났"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "전쟁의"
+    },
+    {
+      "surface": "למות",
+      "gloss": "죽음으로"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:21.901242969Z",
+  "model": "glm-5.2"
+}

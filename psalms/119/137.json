@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "의로우신 ⟨이⟩⟨는⟩ 당신이시다, 야훼여, 그리고 곧으신 ⟨것은⟩ 당신의 판결들이다.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "의로우신"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "그리고 곧으신"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "당신의 판결들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:27.558689322Z",
+  "model": "glm-5.2"
+}

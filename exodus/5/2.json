@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "파르오가 말하였다. \"야훼가 누구이기에 내가 ⟨그⟩의 말씀을 듣고 ⟨את⟩ 이스라엘을 보내야 한단 말인가? 나는 ⟨את⟩ 야훼를 알지 못하며, 또한 ⟨את⟩ 이스라엘도 보내지 않겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "이기에"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "내가 듣고"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "그의 말씀을"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "보내야 한단"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "나는 알지 못하며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "보내지 않겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:09:55.336101544Z",
+  "model": "glm-5.2"
+}

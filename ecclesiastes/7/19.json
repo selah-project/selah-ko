@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "지혜는 지혜로운 자에게 힘이 되며, 성 안에 있던 열 명의 통치자보다 더 ⟨크다⟩.",
+  "tokens": [
+    {
+      "surface": "הַחָכְמָה",
+      "gloss": "지혜는"
+    },
+    {
+      "surface": "תָּעֹז",
+      "gloss": "힘이 되며"
+    },
+    {
+      "surface": "לֶחָכָם",
+      "gloss": "지혜로운 자에게"
+    },
+    {
+      "surface": "מֵעֲשָׂרָה",
+      "gloss": "열 명의 …보다 더"
+    },
+    {
+      "surface": "שַׁלִּיטִים",
+      "gloss": "통치자"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…이"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "있던"
+    },
+    {
+      "surface": "בָּעִיר",
+      "gloss": "성 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:46.933095856Z",
+  "model": "glm-5.2"
+}

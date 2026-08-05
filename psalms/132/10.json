@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 132,
+  "translation": "당신의 종 다윗을 위하여, 당신의 마쉬아흐의 얼굴을 돌이키지 마소서.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "당신의 종"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "돌이키지"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "당신의 마쉬아흐의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:40.052321381Z",
+  "model": "glm-5.2"
+}

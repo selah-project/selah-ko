@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "오른편에서 무리가 일어나, 그들이 내 발을 밀어내고, 그들이 나를 향해 재난의 길들을 쌓아올렸도다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른편"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "무리가"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "내 발을"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "밀어내고"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "그들이 쌓아올렸도다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나를 향해"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "길들을"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "재난의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:00.081791856Z",
+  "model": "glm-5.2"
+}

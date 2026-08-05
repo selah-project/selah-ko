@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리하여 야훼께서 셸로모에게 진노하셨다. 그의 마음이 자신에게 두 번씩이나 나타나신 이스라엘의 엘로힘인 야훼께로부터 기울어졌기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "진노하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "셸로모에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "기울어졌기"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "그의 마음이"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "～로부터"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "～의 엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "나타나신"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "자신에게"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "두 번씩이나"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:14.396965178Z",
+  "model": "glm-5.2"
+}

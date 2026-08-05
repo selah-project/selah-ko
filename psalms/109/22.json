@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "⟨이는⟩ 내가 가난하고 궁핍하고, 내 마음이 내 안에서 상했기 때문입니다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩ ∼ 때문에"
+    },
+    {
+      "surface": "עני",
+      "gloss": "가난하고"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "궁핍하고"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "상했"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "내 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:10.416296573Z",
+  "model": "glm-5.2"
+}

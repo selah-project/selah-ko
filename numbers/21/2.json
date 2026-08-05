@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 이스라엘이 야훼께 서원을 드리며 말하였다. \"만일 당신이 ⟨את⟩ 이 백성을 내 손에 넘겨주시면, 내가 ⟨את⟩ 그들의 성읍들을 진멸하겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "그리고 서원하였다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "서원"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주시면"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "넘겨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "내 손에"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "그리고 진멸하겠습니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 성읍들을"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "그들의 성읍들을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:01.643401281Z",
+  "model": "glm-5.2"
+}

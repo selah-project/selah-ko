@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 예루샬라임에는 예후다의 아들들 ⟨중에서⟩, 그리고 비냐민의 아들들 ⟨중에서⟩, 그리고 에프라임과 므나쉐의 아들들 ⟨중에서 거주하였다⟩.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "그리고 예루샬라임에는"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "거주하였다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨중에서⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다의"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ⟨중에서⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "비냐민의"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ⟨중에서⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임과"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "그리고 므나쉐"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:23.317268607Z",
+  "model": "glm-5.2"
+}

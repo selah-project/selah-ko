@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "나는 나의 반역들을 알고, 나의 죄가 내 앞에 늘 있다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…가"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "나의 반역들을"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "알고"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "나의 죄가"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "내 앞에"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "늘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:57.397901490Z",
+  "model": "glm-5.2"
+}

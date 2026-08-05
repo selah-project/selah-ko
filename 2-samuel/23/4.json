@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "아침의 빛과 같으니, 해가 떠오르는 아침, 구름 없는 아침, 비로 인하여 땅에서 돋는 푸른 풀처럼, 빛남으로 인하여.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "그리고 … 빛과 같으니"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침의"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "떠오르는"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "해가"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없는"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "구름"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "빛남으로 인하여"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "비로 인하여"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "푸른 풀"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:14.202293205Z",
+  "model": "glm-5.2"
+}

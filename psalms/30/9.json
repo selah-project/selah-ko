@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "야훼에게 ⟨내가⟩ 부르짖으며, 아도나이에게 ⟨내가⟩ 은혜를 구하였다.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "부르짖으며"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ⟨에게⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "은혜를 구하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:15.006016342Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "나는 야훼이며, 그 밖에는 없다. 나 외에는 엘로힘이 없다. 내가 ⟨너를⟩ 띠 띄우되, 너는 나를 알지 못하였다.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이며"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "그 밖에는"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "나 외에는"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "내가 ⟨너를⟩ 띠 띄우되"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "너는 나를 알"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:57.008844323Z",
+  "model": "glm-5.2"
+}

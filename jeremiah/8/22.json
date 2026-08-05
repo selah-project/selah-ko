@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "길르아드에 올라오는 기름이 없는가, 치료자가 거기에 없는가? 어찌하여 내 백성의 딸의 낫지 못함이 올라오지 않았는가?",
+  "tokens": [
+    {
+      "surface": "הַצֳרִי֙",
+      "gloss": "올라오는 기름이"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "없는가"
+    },
+    {
+      "surface": "בְּגִלְעָ֔ד",
+      "gloss": "길르아드에"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨혹은⟩"
+    },
+    {
+      "surface": "רֹפֵ֖א",
+      "gloss": "치료자가"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "없는가"
+    },
+    {
+      "surface": "שָׁ֑ם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "כִּ֗י",
+      "gloss": "⟨그런데⟩"
+    },
+    {
+      "surface": "מַדּ֨וּעַ֙",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "עָֽלְתָ֔ה",
+      "gloss": "올라오지 않았는가"
+    },
+    {
+      "surface": "אֲרֻכַ֖ת",
+      "gloss": "낫지 못함이"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "딸의"
+    },
+    {
+      "surface": "עַמִּֽי",
+      "gloss": "내 백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:28:51.322849515Z",
+  "model": "glm-5.2"
+}

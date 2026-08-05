@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그의 복 받은 자들은 땅을 상속하리니, 그의 저주받은 자들은 끊어지리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "그의"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "복 받은 자들은"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "상속하리니"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ומקולליו",
+      "gloss": "그의 저주받은 자들은"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "끊어지리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:23.098404827Z",
+  "model": "glm-5.2"
+}

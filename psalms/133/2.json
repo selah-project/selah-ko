@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 133,
+  "translation": "머리 위에 부어진 좋은 기름 같이 — 아흐론의 수염 위로, 곧 그의 옷깃 입술 위로 흘러내리는.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "기름 같이"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "흘러내리는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "수염"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "수염"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아흐론의"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "흘러내리는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입술"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "그의 옷깃"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:27.519343516Z",
+  "model": "glm-5.2"
+}

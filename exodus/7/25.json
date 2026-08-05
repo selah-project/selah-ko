@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "칠 일이 채워졌다 — 야훼께서 ⟨את⟩ ⟨그⟩ 나일 강을 치신 후에.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "채워졌다"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일이"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "치신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나일 강"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "나일 강"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:53.790717309Z",
+  "model": "glm-5.2"
+}

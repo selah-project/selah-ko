@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "그리고 이스라엘을 그들의 한가운데서 이끌어내신 ⟨이에게⟩ — 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "그리고 이끌어내신"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "그들의 한가운데서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:54.173872695Z",
+  "model": "glm-5.2"
+}

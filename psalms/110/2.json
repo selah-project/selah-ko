@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 110,
+  "translation": "야훼께서 ⟨너의⟩ 권능의 홀을 쯔온에서 보내시리니, 네 원수들 한가운데서 다스려라.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "홀"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "너의 권능의"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "보내시리니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "쯔온에서"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "다스려라"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "네 원수들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:05.965041614Z",
+  "model": "glm-5.2"
+}

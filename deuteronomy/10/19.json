@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그러므로 너희는 ⟨את⟩ ⟨그⟩ 게르를 사랑하라. 대저 너희가 미츠라임 땅에서 게르들이었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וַאֲהַבְתֶּ֖ם",
+      "gloss": "너희는 사랑하라"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 게르를"
+    },
+    {
+      "surface": "הַגֵּ֑ר",
+      "gloss": "그 게르"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "גֵרִ֥ים",
+      "gloss": "게르들이었기"
+    },
+    {
+      "surface": "הֱיִיתֶ֖ם",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "בְּאֶ֥רֶץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:12.348549879Z",
+  "model": "glm-5.2"
+}

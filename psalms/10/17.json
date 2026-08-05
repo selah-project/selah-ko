@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "낮은 자들의 갈망을 들으셨나이다, 야훼여. 그들의 마음을 굳게 세우시고, 귀를 기울이시나이다.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "갈망을"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "낮은 자들의"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "들으셨나이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "굳게 세우시고"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "그들의 마음을"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "기울이시나이다"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "귀를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:46.662987840Z",
+  "model": "glm-5.2"
+}

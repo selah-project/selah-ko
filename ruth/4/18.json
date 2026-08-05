@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "이것들이 파레츠의 족보이다. 파레츠가 ⟨את⟩ 헤츠론을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "족보이다"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "파레츠의"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "파레츠가"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "헤츠론을"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "헤츠론을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:40.379205302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "나는 우물을 파고 물을 마셨으며, 내 발바닥으로 미츠라임의 모든 강들을 말리었다.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "파고"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "마셨으며"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "말리었다"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "발바닥으로"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "나의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "강들을"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "미츠라임의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:59.541346701Z",
+  "model": "glm-5.2"
+}

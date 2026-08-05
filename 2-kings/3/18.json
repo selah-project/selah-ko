@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이것이 야훼의 눈에 가볍고, ⟨그분께서⟩ ⟨את⟩ 모압을 너희 손에 넘겨주실 것이다.",
+  "tokens": [
+    {
+      "surface": "וְנָקַ֥ל",
+      "gloss": "그리고 가볍다"
+    },
+    {
+      "surface": "זֹ֖את",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "~의 눈에"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וְנָתַ֥ן",
+      "gloss": "그리고 주실 것이다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "모압"
+    },
+    {
+      "surface": "מוֹאָ֖ב",
+      "gloss": "모압을"
+    },
+    {
+      "surface": "בְּיֶדְכֶֽם",
+      "gloss": "너희 손에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:48.611727640Z",
+  "model": "glm-5.2"
+}

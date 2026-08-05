@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "셸라흐는 ⟨את⟩ 에벨을 낳은 후 삼백 년과 삼 년을 살았고, 아들들과 딸들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "살았고"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "셸라흐는"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에벨을"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "에벨을"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "삼"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "그리고 사백"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들과"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "딸들을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:43.925696263Z",
+  "model": "glm-5.2"
+}

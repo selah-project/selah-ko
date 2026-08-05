@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "第三の月に、イスラエルの子らがエジプトの地から出て来たその日、彼らはシナイの荒野に来た。",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "第三の月に"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三の月に"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "出て来た"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子ら"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルの"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地から"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "エジプトの"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "その日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "その日"
+    },
+    {
+      "surface": "באו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイの"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:27.490458481Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그분을 치신 것이 그분을 친 자들을 치신 것과 같은가? 그분의 살해된 자들이 살해된 것처럼 그분이 살해되었는가?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "…와 같은가 치신 것이"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "그분을 친 자들을"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "그분을 치신 것이"
+    },
+    {
+      "surface": "אם",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "…처럼"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "그분의 살해된 자들이"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "살해되었는가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:23.559507143Z",
+  "model": "glm-5.2"
+}

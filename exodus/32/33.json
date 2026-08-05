@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"누구든지 나에게 죄를 지은 자를, 나는 나의 책에서 지워버리겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구든지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "죄를 지은"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "지워버리겠다"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "나의 책에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:52.902463155Z",
+  "model": "glm-5.2"
+}

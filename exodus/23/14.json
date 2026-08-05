@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "한 해에 세 번 너는 나를 위해 거룩한 절기를 지키 ⟨하여라⟩.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "세"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "번(발)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "너는 절기를 지키"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "한 해에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:32.565367303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그 날에 사람은 ⟨את⟩ 자기 은의 우상들과 ⟨את⟩ 자기 금의 우상들을 버릴 것이다, 그가 자기를 위해 만든 것들, 숭배하려고, 두더지들과 박쥐들에게.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "버릴 것이다"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 은의 우상들"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "우상들"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "자기 은의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "자기 금의 우상들"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "우상들"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "자기 금의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것들"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만든"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기를 위해"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "숭배하려고"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "두더지들에게"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "구멍들"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "그리고 박쥐들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:01.208074840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 크핫의 아들들은 암람, 이스할, 헤브론, 그리고 웃시엘이다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 아들들은"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "크핫의"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "암람"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "그리고 이스할"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "그리고 헤브론"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "그리고 웃시엘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:41.787907314Z",
+  "model": "glm-5.2"
+}

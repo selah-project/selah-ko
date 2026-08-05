@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "야를 찬양하라. 야훼께 감사하라, 그는 ⟨⟨⟩⟩ 좋으시기 때문이다. 그의 헤세드는 영원하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야를"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "감사하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋으시다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:37.868496009Z",
+  "model": "glm-5.2"
+}

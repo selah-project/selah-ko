@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "그의 날들에 의로운 이가 피어나며, 샬롬이 넘치리이다, 달이 없어질 때까지.",
+  "tokens": [
+    {
+      "surface": "יִֽפְרַח",
+      "gloss": "피어나며"
+    },
+    {
+      "surface": "בְּיָמָ֥יו",
+      "gloss": "그의 날들에"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "의로운 이"
+    },
+    {
+      "surface": "וְרֹ֥ב",
+      "gloss": "그리고 넘침"
+    },
+    {
+      "surface": "שָׁ֝ל֗וֹם",
+      "gloss": "샬롬"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "בְּלִ֥י",
+      "gloss": "없어질"
+    },
+    {
+      "surface": "יָרֵֽחַ",
+      "gloss": "달이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:40.808636022Z",
+  "model": "glm-5.2"
+}

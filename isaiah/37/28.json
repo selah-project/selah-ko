@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "네가 앉음과 네가 나감과 네가 들어옴을 내가 알았으며, ⟨그리고⟩ ⟨את⟩ 네가 나를 향해 진노함을 ⟨알았다⟩.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "네가 앉음을"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "네가 나감을"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "네가 들어옴을"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 알았으며"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "네가 진노함을"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "네가 진노함을"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를 향해"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:59.541750601Z",
+  "model": "glm-5.2"
+}

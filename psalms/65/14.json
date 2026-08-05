@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "목장들은 양 떼로 옷 입었고, 골짜기들도 곡물로 덮였다 — 그들이 환성을 지르고, 또한 노래한다.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "옷 입었고"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "목장들은"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼로"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "골짜기들도"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "덮였다"
+    },
+    {
+      "surface": "בר",
+      "gloss": "곡물로"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "환성을 지르고"
+    },
+    {
+      "surface": "אף",
+      "gloss": "또한"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "노래한다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:42.459576703Z",
+  "model": "glm-5.2"
+}

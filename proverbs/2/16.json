@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 2:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "낯선 여인에게서, 이방 여인에게서 ⟨너를⟩ 건져 내기 위함이니 — 그녀의 말들은 매끄럽다.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "건져 내기 위함이니"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "여인에게서"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "낯선"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "이방 여인에게서"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "그녀의 말들은"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "매끄럽다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:41.286232969Z",
+  "model": "glm-5.2"
+}

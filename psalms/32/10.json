@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "악인에게는 고통이 많으나, 야훼를 신뢰하는 자를 헤세드가 두르시는도다.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "많으나"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "고통이"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "악인에게는"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "신뢰하는 자를"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드가"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "두르시는도다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:01.150898497Z",
+  "model": "glm-5.2"
+}

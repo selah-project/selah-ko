@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 8:2",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "내가 보니, 보라, 불의 모양 같은 형상이 있었다 — 그의 허리 모양에서부터 아래로는 불이요, 그의 허리에서부터 위로는 밝음의 모양 같으니, 마치 ⟨그⟩ 하쉬말라의 빛깔 같았다.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "내가 보니"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "형상이"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "모양 같은"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불의"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "모양에서부터"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "그의 허리"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "아래로는"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이요"
+    },
+    {
+      "surface": "וממתניו",
+      "gloss": "그의 허리에서부터"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "위로는"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "모양 같으니"
+    },
+    {
+      "surface": "זהר",
+      "gloss": "밝음의"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "빛깔 같았다"
+    },
+    {
+      "surface": "החשמלה",
+      "gloss": "그 하쉬말라의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:49:13.333821467Z",
+  "model": "glm-5.2"
+}

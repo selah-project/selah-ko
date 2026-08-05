@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 이제 아들들아, 내 말을 들어라. 그리고 내 입의 말들에서 돌이키지 말아라.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֣ה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "בָ֭נִים",
+      "gloss": "아들들아"
+    },
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "내 말을"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "그리고 …말아라"
+    },
+    {
+      "surface": "תָּ֝ס֗וּרוּ",
+      "gloss": "돌이키지"
+    },
+    {
+      "surface": "מֵאִמְרֵי",
+      "gloss": "말들에서"
+    },
+    {
+      "surface": "פִֽי",
+      "gloss": "내 입의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:22.290634877Z",
+  "model": "glm-5.2"
+}

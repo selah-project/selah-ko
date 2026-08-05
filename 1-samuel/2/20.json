@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 엘리는 ⟨את⟩ 엘카나와 ⟨את⟩ 그의 아내를 축복하며 말하였다. \"야훼께서 당신에게 이 여인에게서 씨를 주시기를, 야훼께께 ⟨아닌⟩ ⟨그⟩ 빌어 드린 것을 대신하여.\" 그리고 그들은 ⟨그⟩ 자기 곳으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "그리고 …을 축복하며"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "엘리는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘카나"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "엘카나와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아내"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내를"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "주시기를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨를"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "여인"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신하여"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "빌어 드린 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…라는"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "빌어 드린"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "그리고 …은 돌아갔다"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "⟨그⟩ 자기 곳으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:00.847409919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "샤무엘은 야훼께서 말씀하신 것을 행하였다. 그가 베이트-라헴에 이르자, 그 성읍의 장로들이 그를 맞으려 떨며 나왔다. 그가 ⟨그들에게⟩ 말하였다. \"평안이냐, 네가 옴이.\"",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말씀하신 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "이르자"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "라헴에"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "떨며"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로들이"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성읍의"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "그를 맞으려"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "평안이냐"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "네가 옴이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:26.873030946Z",
+  "model": "glm-5.2"
+}

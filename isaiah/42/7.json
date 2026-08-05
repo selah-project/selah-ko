@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "눈들을, 눈먼 자들의 것을 뜨기 위함이요, 갇힌 자를 감옥에서, 어둠에 앉은 자들을 감금의 집에서 끌어내기 위함이라.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "뜨기 위함이요"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "눈들을"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "눈먼 자들의"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "끌어내기 위함이라"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "감옥에서"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "갇힌 자를"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "감금의"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "앉은 자들을"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:41.745066607Z",
+  "model": "glm-5.2"
+}

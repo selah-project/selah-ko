@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야곱의 집아, 오라, 우리가 야훼의 빛 안에서 걷자.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "집이여"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "오라"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "그리고 우리가 걷자"
+    },
+    {
+      "surface": "באור",
+      "gloss": "빛 안에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:57.004553014Z",
+  "model": "glm-5.2"
+}

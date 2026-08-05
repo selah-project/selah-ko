@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "기도를 들으시는 ⟨이여⟩, 당신께 모든 육체가 오리이다.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "들으시는"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "기도를"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "당신께"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "육체가"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "오리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:23.637694620Z",
+  "model": "glm-5.2"
+}

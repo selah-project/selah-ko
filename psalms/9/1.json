@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "지휘자에게, '죽음의 아들' ⟨곡조⟩로, 다윗의 시편.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "죽음의"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:27.161188707Z",
+  "model": "glm-5.2"
+}

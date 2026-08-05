@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그러나 술 관원장은 요셉을 기억하지 않았고, ⟨그가⟩ 그를 잊어버렸다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그러나 ~아니"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "기억하였다"
+    },
+    {
+      "surface": "שר",
+      "gloss": "관원장"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "술"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉을"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "잊어버렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:26.088090927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "나는 그 남자이다 — ⟨내가⟩ 그의 격노의 막대기 아래서 비참함을 보았다.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "그 남자"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "עני",
+      "gloss": "비참함을"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "막대기 아래서"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "그의 격노의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:10.721083633Z",
+  "model": "glm-5.2"
+}

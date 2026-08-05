@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들이 엘로힘에 자신들의 소망을 두게 하려 함이니, 엘의 행적들을 잊지 않게 하려 함이요, 그의 계명들을 지키게 하려 함이었다.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "두게 하려"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "엘로힘에"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "자신들의 소망을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "않게"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "잊지"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "행적들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "그의 계명들을"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "지키게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:26.010360348Z",
+  "model": "glm-5.2"
+}

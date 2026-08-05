@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "⟨את⟩ 모든 까마귀를 그것의 종류대로.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 까마귀를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "까마귀"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "그것의 종류대로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:07.819747466Z",
+  "model": "glm-5.2"
+}

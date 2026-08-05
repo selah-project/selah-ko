@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "노래하는 자들이 앞서고, 악사들이 뒤따르며, 그 가운데에 소녀들이 손북을 치는도다.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "앞서고"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "노래하는 자들이"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "뒤따르며"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "악사들이"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데에"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "소녀들이"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "손북을 치는도다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:48.132606261Z",
+  "model": "glm-5.2"
+}

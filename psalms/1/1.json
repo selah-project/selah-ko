@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그 사람은 복이 있다 — 행악자들의 모의(謀議)로 걷지 아니하고, 죄인들의 길에 서지 아니하며, 조롱하는 자들의 자리에 앉지 아니하는",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걷지"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "모의(謀議)로"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "행악자들의"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "길에"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "죄인들의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하며"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "서지"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "자리에"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "조롱하는 자들의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하는"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "앉지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:41.016504261Z",
+  "model": "glm-5.2"
+}

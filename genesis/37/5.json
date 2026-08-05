@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 요셉이 꿈을 꾸고 그것을 그의 형제들에게 말하자, 그들이 그를 더욱 미워하였다.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "꾸고"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "꿈을"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "말하자"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "그의 형제들에게"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "그들이 더하였다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더욱"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "미워하였다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:04.521418562Z",
+  "model": "glm-5.2"
+}

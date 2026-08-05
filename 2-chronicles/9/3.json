@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 셰바의 여왕이 ⟨את⟩ 슐로모의 지혜와 그가 지은 집을 보았다.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "그리고 …이 보았다"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "…의 여왕이"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "셰바"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "지혜"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "지혜"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모의"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "그리고 …집을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "지은"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:10.465971980Z",
+  "model": "glm-5.2"
+}

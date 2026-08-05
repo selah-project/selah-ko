@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 14:15",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "만약 내가 사나운 짐승을 그 땅에 지나가게 하여 그것이 그것을 벌거벗기면, 그리고 그것이 그 짐승 때문에 지나가는 이 없이 황무지가 되면 —",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "만약"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "짐승을"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "사나운"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "⟨내가⟩ 지나가게 하여"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "그 땅에"
+    },
+    {
+      "surface": "ושכלתה",
+      "gloss": "그것이 그것을 벌거벗기면,"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "그리고 ⟨그것이⟩ 되면"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "황무지가"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "지나가는 이"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "그 짐승의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:51:34.601895879Z",
+  "model": "glm-5.2"
+}

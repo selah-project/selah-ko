@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 너는 ⟨את⟩ 이 규례를, 그 정한 때에, 날들에서 날들로 지킬 것이다.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "그리고 너는 지킬 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 규례"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "이 규례를"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "그 정한 때에"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "날들에서"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "날들로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:09.009738812Z",
+  "model": "glm-5.2"
+}

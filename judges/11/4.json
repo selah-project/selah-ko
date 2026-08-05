@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 날들 후에, 암몬의 아들들이 이스라엘과 더불어 싸웠다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ∼이 되었다"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "날들 후에"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "그리고 싸웠다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬의"
+    },
+    {
+      "surface": "עם",
+      "gloss": "∼과 더불어"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:18:16.782432868Z",
+  "model": "glm-5.2"
+}

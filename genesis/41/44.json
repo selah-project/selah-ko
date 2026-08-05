@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "파르오가 요셉에게 말하였다. \"나는 파르오이다. 그러나 너 없이는 어떤 사람도 ⟨את⟩ 자기 손이나 ⟨את⟩ 자기 발을 들지 못하리니, 온 미츠라임 땅에서.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오이다"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "너 없이는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하리니"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "들"
+    },
+    {
+      "surface": "איש",
+      "gloss": "어떤 사람도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 손"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨아트⟩",
+      "marks": "자기 발을"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "자기 발"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:47.678367297Z",
+  "model": "glm-5.2"
+}

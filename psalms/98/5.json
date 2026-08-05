@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 98,
+  "translation": "수금으로 야훼께 노래하라, 수금과 노래하는 소리로.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "수금으로"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "수금과"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "노래하는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:52.532506928Z",
+  "model": "glm-5.2"
+}

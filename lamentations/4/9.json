@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "칼에 쓰러진 자들이 굶주림에 쓰러진 자들보다 나았으니, 그들은 밭의 소출이 없어 찔려 쓸어져 갔기 때문이다.",
+  "tokens": [
+    {
+      "surface": "טוֹבִ֤ים",
+      "gloss": "나았으니"
+    },
+    {
+      "surface": "הָיוּ֙",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "חַלְלֵי",
+      "gloss": "쓰러진 자들"
+    },
+    {
+      "surface": "חֶ֔רֶב",
+      "gloss": "칼에"
+    },
+    {
+      "surface": "מֵֽחַלְלֵ֖י",
+      "gloss": "쓰러진 자들보다"
+    },
+    {
+      "surface": "רָעָ֑ב",
+      "gloss": "굶주림에"
+    },
+    {
+      "surface": "שֶׁ֣הֵ֤ם",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "יָז֨וּבוּ֙",
+      "gloss": "쓸어져 갔다"
+    },
+    {
+      "surface": "מְדֻקָּרִ֔ים",
+      "gloss": "찔려"
+    },
+    {
+      "surface": "מִתְּנוּבֹ֖ת",
+      "gloss": "소출이 없어"
+    },
+    {
+      "surface": "שָׂדָֽי",
+      "gloss": "밭의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:51.799780402Z",
+  "model": "glm-5.2"
+}

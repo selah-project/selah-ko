@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 ⟨그가⟩ 나에게 ⟨그⟩ 구원의 방패를 주셨다. ⟨그리고⟩ 주의 오른손이 나를 붙드시며, 주의 겸손이 나를 크게 하셨다.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "그리고 주셨다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "방패를"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "주의 구원의"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "그리고 주의 오른손이"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "나를 붙드시며"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "그리고 주의 겸손이"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "나를 크게 하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:21.482814037Z",
+  "model": "glm-5.2"
+}

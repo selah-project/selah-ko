@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "야훼의 말씀들은 정결한 말씀들이라, 은이 땅의 용광로에서 제련된 것처럼, 일곱 번 정제된 것이로다.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "말씀들은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "말씀들이라"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "정결한"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은이"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "제련된 것처럼"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "용광로에서"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "정제된"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "일곱 번"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:55.943331749Z",
+  "model": "glm-5.2"
+}

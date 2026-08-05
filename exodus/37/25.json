@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그가 ⟨את⟩ 분향단을 싯팀 나무로 만들었다 — 그 길이가 한 아마이고, 그 너비가 한 아마로, 사각형이며, 그 높이가 두 아마라; 그 뿔들이 그것에서 ⟨나왔다⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "분향단을"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "단"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "분향"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "싯팀"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "한 아마"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그 길이가"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "그리고 한 아마"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그 너비가"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "사각형이며"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "그리고 두 아마"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "그 높이가"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨나왔다⟩"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "그 뿔들이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:35.562056346Z",
+  "model": "glm-5.2"
+}

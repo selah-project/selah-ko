@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 다윗 왕은 ⟨את⟩ 이 모든 말들을 들으셨고, 그에게 심히 분노하셨다.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "그리고 ⟨그⟩ 왕은"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들으셨고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 말들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "그리고 분노하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:41.372079942Z",
+  "model": "glm-5.2"
+}

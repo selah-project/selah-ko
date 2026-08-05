@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "악인들에게서 구원이 멀다. 그들이 ⟨그대의⟩ 규례들을 구하지 아니하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "멀다"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "악인들에게서"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "구원이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "⟨그대의⟩ 규례들을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였기"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "구하지"
+    }
+  ],
+  "timestamp": "2026-08-05T18:38:53.514144802Z",
+  "model": "glm-5.2"
+}

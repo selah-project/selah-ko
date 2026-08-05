@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 그는 ⟨את⟩ 대야를 회막 텐트와 제단 사이에 놓고, 거기에 씻을 물을 두었다.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "놓고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "대야를"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "대야"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "텐트"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "회막"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 ~사이에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "씻기 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:14.029731482Z",
+  "model": "glm-5.2"
+}

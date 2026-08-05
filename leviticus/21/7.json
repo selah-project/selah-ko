@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그들은 창녀나 욕된 여인을 아내로 맞지 말 것이요, 남편에게 쫓겨난 여인을 맞지 말지니, 이는 ⟨그가⟩ 자기 엘로힘께 거룩하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אִשָּׁ֨ה",
+      "gloss": "여인을"
+    },
+    {
+      "surface": "זֹנָ֤ה",
+      "gloss": "창녀나"
+    },
+    {
+      "surface": "וַחֲלָלָה֙",
+      "gloss": "욕된"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "…말 것이요"
+    },
+    {
+      "surface": "יִקָּ֔חוּ",
+      "gloss": "맞지"
+    },
+    {
+      "surface": "וְאִשָּׁ֛ה",
+      "gloss": "여인을"
+    },
+    {
+      "surface": "גְּרוּשָׁ֥ה",
+      "gloss": "쫓겨난"
+    },
+    {
+      "surface": "מֵאִישָׁ֖הּ",
+      "gloss": "남편에게"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "…말지니"
+    },
+    {
+      "surface": "יִקָּ֑חוּ",
+      "gloss": "맞지"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "קָדֹ֥שׁ",
+      "gloss": "거룩하기"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "⟨그가⟩"
+    },
+    {
+      "surface": "לֵאלֹהָֽיו",
+      "gloss": "자기 엘로힘께"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:43.980139885Z",
+  "model": "glm-5.2"
+}

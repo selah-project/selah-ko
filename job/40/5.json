@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "한 번 말하였는데 대답하지 아니하겠고, 두 번이거늘 더하지 아니하겠다.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "한 번"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "말하였는데"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "대답하지"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "두 번이거늘"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "더하지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:28.564001149Z",
+  "model": "glm-5.2"
+}

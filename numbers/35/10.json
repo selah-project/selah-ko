@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "이스라엘 자손에게 말하여 그들에게 이르라. 너희가 ⟨את⟩ 하르덴을 건너 가나안 땅으로 들어갈 때에",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "그리고 …이르라"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때에"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "건너"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하르덴"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "하르덴"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T08:47:53.463827375Z",
+  "model": "glm-5.2"
+}

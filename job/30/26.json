@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 30:26",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "내가 좋은 것을 기다렸더니 악이 왔고, 내가 빛을 바랐더니 어둠이 왔다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것을"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "내가 기다렸더니"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "왔고"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악이"
+    },
+    {
+      "surface": "ואיחלה",
+      "gloss": "내가 바랐더니"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "빛을"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "어둠이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:47.386627040Z",
+  "model": "glm-5.2"
+}

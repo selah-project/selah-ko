@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "샤울이 죽으매, 그를 대신하여 바알 하난 곧 아크보르의 아들이 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽으매"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "바알"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "하난"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "아크보르의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:33.105949755Z",
+  "model": "glm-5.2"
+}

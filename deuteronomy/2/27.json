@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "내가 네 땅을 지나가리니, 길을 따라 길을 따라 가리라. 오른쪽으로나 왼쪽으로나 치우치지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "내가 지나가리니"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "네 땅을"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을 따라"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을 따라"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "가리라"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "치우치지"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른쪽으로나"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "그리고 왼쪽으로나"
+    }
+  ],
+  "timestamp": "2026-08-05T08:49:41.979113330Z",
+  "model": "glm-5.2"
+}

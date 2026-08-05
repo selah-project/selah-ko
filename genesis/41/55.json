@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 41:55",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "미츠라임의 온 땅이 주리매, 백성이 파르오에게 양식을 달라 부르짖었다. 파르오가 미츠라임의 모든 사람에게 말하였다. \"요셉에게로 가라. 그가 너희에게 무엇이라 말하든지 그것을 행하라.\"",
+  "tokens": [
+    {
+      "surface": "ותרעב",
+      "gloss": "주리매"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "부르짖었다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "양식을 달라"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "무엇이라"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "말하든지"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "행하라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:21.148773135Z",
+  "model": "glm-5.2"
+}

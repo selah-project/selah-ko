@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "야훼여, 당신과 같은 ⟨이⟩ 없으시고, 당신 외에 다른 엘로힘이 없나이다, 우리가 우리 귀로 들은 모든 것에서.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으시고"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "당신과 같은"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 없나이다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "당신 외에"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든 것에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "들은"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "우리 귀로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:15.896860914Z",
+  "model": "glm-5.2"
+}

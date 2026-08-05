@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "⟨그⟩ 후에 길앗 사람 야이르가 일어나 ⟨את⟩ 이스라엘을 스물두 해 재판하였다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "야이르"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "길앗 사람"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "스물"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:53.429511392Z",
+  "model": "glm-5.2"
+}

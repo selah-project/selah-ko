@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 이것이 곡식제물의 토라이다: 아론의 아들들이 그것을 가져와야 한다, 야훼 앞에서, 제단 앞 면으로.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "그리고 이것이"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "토라이다"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "그 곡식제물의"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "가져와야 한다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "~앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "פני",
+      "gloss": "~앞 면"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:12:17.389371717Z",
+  "model": "glm-5.2"
+}

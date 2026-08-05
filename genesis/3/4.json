@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨그⟩ 뱀이 ⟨그⟩ 여자에게 말하였다. \"죽음으로 죽지는 않으리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "그 뱀이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여자"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음으로"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "너희가 죽으리"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:45.563382011Z",
+  "model": "glm-5.2"
+}

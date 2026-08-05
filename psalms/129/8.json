@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 129,
+  "translation": "그리고 지나가는 자들이 말하지 않았다. \"야훼의 축복이 ⟨너희에게⟩ 있기를. 우리가 ⟨את⟩ 너희를 축복하였다. 야훼의 이름으로.\"",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "지나가는 자들이"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "…의 축복"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "우리가 축복하였다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "…의 이름으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:36.283437738Z",
+  "model": "glm-5.2"
+}

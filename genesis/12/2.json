@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "\"내가 너를 큰 민족이 되게 하고 너를 축복하겠으며 네 이름을 크게 하리니, 너는 축복이 될지어다.\"",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "그리고 내가 너를 ─ 되게 하겠다"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "민족"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "그리고 내가 너를 축복하겠다"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "그리고 내가 ─ 크게 하리라"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "네 이름을"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ─ 될지어다"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "축복"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:46.822072652Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨את⟩ 바다를 두었으니, 오른쪽 어깨에서, 동쪽으로, 남쪽 맞은편에 ⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "바다를"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "어깨에서"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "동쪽으로"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "맞은편에"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "남쪽"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:59.450187290Z",
+  "model": "glm-5.2"
+}

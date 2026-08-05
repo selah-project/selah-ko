@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "요아브가 대답하여 말하였다. \"결단코, 결단코 아닙니다. 제가 삼키거나 멸하지 않겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "결단코"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "결단코"
+    },
+    {
+      "surface": "לי",
+      "gloss": "아닙니다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…거나"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "제가 삼키"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "…거나"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "멸하지 않겠습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:40.005038436Z",
+  "model": "glm-5.2"
+}

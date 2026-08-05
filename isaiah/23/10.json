@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "타르쉬쉬의 딸아, 네 땅을 ⟨하듯⟩ 나일강처럼 건너라 — 더는 ⟨허리⟩띠가 없다.",
+  "tokens": [
+    {
+      "surface": "עִבְרִ֥י",
+      "gloss": "건너라"
+    },
+    {
+      "surface": "אַרְצֵ֖ךְ",
+      "gloss": "네 땅을"
+    },
+    {
+      "surface": "כַּיְאֹ֑ר",
+      "gloss": "나일강처럼"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "딸아"
+    },
+    {
+      "surface": "תַּרְשִׁ֕ישׁ",
+      "gloss": "타르쉬쉬의"
+    },
+    {
+      "surface": "אֵ֖ין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "מֵ֥זַח",
+      "gloss": "띠가"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "더는"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:01.369615695Z",
+  "model": "glm-5.2"
+}

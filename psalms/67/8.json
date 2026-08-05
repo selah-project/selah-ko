@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 67,
+  "translation": "엘로힘이 우리를 복 주시리니, 땅의 모든 끝들이 ⟨את⟩ 그를 두려워하리로다.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "복 주시리니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모두"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "끝들이"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:23.559570955Z",
+  "model": "glm-5.2"
+}

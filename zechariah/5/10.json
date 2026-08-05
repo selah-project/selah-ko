@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "내가 나와 말하던 그 말라크에게 말하였다. \"그들이 ⟨את⟩ 그 에파를 어디로 데려가는 것입니까?\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～에게"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "그 말라크"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말하던"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나와"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "어디로"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "데려가는 것입니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 에파"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "그 에파를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:18:29.404716653Z",
+  "model": "glm-5.2"
+}

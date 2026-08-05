@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "시므이가 저주하며 이같이 말하였다. \"나가라, 나가라, 피의 사람아, 불량한 사람아!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "시므이가"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "저주하며"
+    },
+    {
+      "surface": "צא",
+      "gloss": "나가라"
+    },
+    {
+      "surface": "צא",
+      "gloss": "나가라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람아"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "피의"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "사람아"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "불량한"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:36.763288073Z",
+  "model": "glm-5.2"
+}

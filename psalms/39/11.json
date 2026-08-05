@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "당신의 치시는 것을 내게서 거두소서. 당신의 손 ⟨곧⟩ 다투심으로 말미암아 나는 다 소멸되었나이다.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "거두소서"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "내게서"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "당신의 치시는 것을"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "다투심으로 말미암아"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "당신의 손"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "다 소멸되었나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:46.347953546Z",
+  "model": "glm-5.2"
+}

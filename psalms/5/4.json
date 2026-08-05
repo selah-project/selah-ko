@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "야훼여, 아침에 당신은 나의 소리를 들으시리니, 아침에 내가 당신을 위하여 ⟨기도를⟩ 베풀고 바라보리이다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "당신은 들으시리니"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "나의 소리를"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "내가 베풀고"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신을 위하여"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "바라보리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:46.268505064Z",
+  "model": "glm-5.2"
+}

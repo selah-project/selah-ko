@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그것은 지휘관도, 감독관도, 다스리는 자도 없이 ⟨그리하거늘⟩ —",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "그것은 ⋯(관계사)"
+    },
+    {
+      "surface": "אֵֽין",
+      "gloss": "없이"
+    },
+    {
+      "surface": "לָ֥הּ",
+      "gloss": "그것에게"
+    },
+    {
+      "surface": "קָצִ֗ין",
+      "gloss": "지휘관도"
+    },
+    {
+      "surface": "שֹׁטֵ֥ר",
+      "gloss": "감독관도"
+    },
+    {
+      "surface": "וּמֹשֵֽׁל",
+      "gloss": "그리고 다스리는 자도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:52.941284566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 16:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "왕의 얼굴 빛 안에 생명이 있고, 그의 기쁨은 늦은 비의 구름과 같다.",
+  "tokens": [
+    {
+      "surface": "בְּאוֹר",
+      "gloss": "빛 안에"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "생명이 있고"
+    },
+    {
+      "surface": "וּ֝רְצוֹנ֗וֹ",
+      "gloss": "그리고 그의 기쁨은"
+    },
+    {
+      "surface": "כְּעָ֣ב",
+      "gloss": "구름과 같다"
+    },
+    {
+      "surface": "מַלְקֽוֹשׁ",
+      "gloss": "늦은 비의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:01.146397456Z",
+  "model": "glm-5.2"
+}

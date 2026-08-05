@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 그는 ⟨את⟩ 흉패를 만들었으니, 숙련한 솜씨로, 에폣의 솜씨와 같았다 — 금, 청색, 자줏빛, 붉은 실, 그리고 꼰 세실이었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 그는 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "흉패"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "그 흉패를"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "솜씨로"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "숙련한"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "…의 솜씨와 같았다"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "에폣"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "청색"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "그리고 자줏빛"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "그리고 벌레"
+    },
+    {
+      "surface": "שני",
+      "gloss": "붉은 실"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "그리고 세실"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "꼰 것"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:38.349388493Z",
+  "model": "glm-5.2"
+}

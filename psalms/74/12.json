@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "그리고 엘로님은 태초부터 ⟨나의⟩ 왕이시다 — 땅 한가운데서 구원들을 행하시는 ⟨이시다⟩.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "그리고 엘로님이"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "나의 왕이"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "태초부터"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "행하시는"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "구원들을"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:51.686894697Z",
+  "model": "glm-5.2"
+}

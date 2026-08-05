@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 110,
+  "translation": "야훼께서 맹세하셨고 마음을 바꾸지 않으시리라: \"너는 영원까지 코헨이다, 내 말에 따라 마르키 체데크의 ⟨서열로⟩.\"",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "맹세하셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하시리라"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "마음을 바꾸지"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원까지"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에 따라"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "내 말"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "마르키"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "체데크의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:05.965211948Z",
+  "model": "glm-5.2"
+}

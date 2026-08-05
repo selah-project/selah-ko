@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "나를 보던 눈이 나를 더 보지 못할 것이요, 주의 눈이 ⟨나⟩ 위에 있으나 나는 있지 아니하리이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "나를 더 보지"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "보던"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "주의 눈이"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나 위에"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "있으나 나는 있지 아니하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:39.061521293Z",
+  "model": "glm-5.2"
+}

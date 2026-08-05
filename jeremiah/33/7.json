@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "내가 ⟨את⟩ 유다의 포로귀환을 ⟨돌이키고⟩, ⟨את⟩ 이스라엘의 포로귀환을 ⟨돌이키며⟩, 그들을 처음처럼 세우리라.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "포로귀환"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "포로귀환을"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "포로귀환"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "포로귀환을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "세우리라"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "처음처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T10:38:35.883392224Z",
+  "model": "glm-5.2"
+}

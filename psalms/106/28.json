@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리고 그들은 바알 페오르에게 얽매여, 죽은 자들의 제물 고기를 먹었다.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "그리고 얽매여"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "바알에게"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "페오르"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "그리고 먹었다"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "제물 고기를"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "죽은 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:42.577028991Z",
+  "model": "glm-5.2"
+}

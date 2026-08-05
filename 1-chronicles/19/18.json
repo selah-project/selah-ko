@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 19:18",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "아람이 이스라엘 앞에서 도망하매 다윗이 아람에서 병거 칠천과 보병 사만 명을 죽이고 ⟨את⟩ 쇼파흐 군대 사령관을 죽였다.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "도망하매"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람이"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "죽이고"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מארם",
+      "gloss": "아람에서"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "사만"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "보병"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "쇼파흐 군대 사령관"
+    },
+    {
+      "surface": "שופך",
+      "gloss": "쇼파흐"
+    },
+    {
+      "surface": "שר",
+      "gloss": "사령관"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "군대"
+    },
+    {
+      "surface": "המית",
+      "gloss": "죽였다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:15.983731194Z",
+  "model": "glm-5.2"
+}

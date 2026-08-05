@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "하늘들에서 싸웠다 — 별들이, 그들의 길들에서 싸웠다, 씨스라와 함께.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "싸웠다"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "별들이"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "그들의 길들에서"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "싸웠다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "씨스라와"
+    }
+  ],
+  "timestamp": "2026-08-05T09:14:01.867593126Z",
+  "model": "glm-5.2"
+}

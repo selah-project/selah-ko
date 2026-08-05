@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 야곱이 라헬에게 입맞추고, ⟨את⟩ 그의 소리를 높여 울었다.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "그리고 입맞추고"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "라헬에게"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "그리고 높여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 소리를"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "그의 소리를"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "그리고 울었다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:03.695629003Z",
+  "model": "glm-5.2"
+}

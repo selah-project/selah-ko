@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "원수의 목소리 때문에, 악인의 억압 때문에. 그들이 ⟨את⟩ 불의를 제 위에 무너뜨리고, 분노 속에서 저를 핍박하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "목소리 때문에"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수의"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "억압"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "무너뜨리고"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨את⟩ 불의를"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "제 위에"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "분노 속에서"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "저를 핍박하기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:36.434430332Z",
+  "model": "glm-5.2"
+}

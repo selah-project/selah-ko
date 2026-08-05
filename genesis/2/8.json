@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 야훼 엘로힘이 에덴에 동쪽으로 동산을 심으셨고, 거기에 ⟨아트⟩ ⟨그⟩ 사람을 두셨으니, ⟨그는⟩ 빚어 만든 자였다.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "심으셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "גן",
+      "gloss": "동산을"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "에덴에"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "동쪽으로"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "두셨고"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～이니"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "빚어 만든"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:58.849697120Z",
+  "model": "glm-5.2"
+}

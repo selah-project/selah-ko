@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그대, ⟨그는⟩ 야훼, 그 엘로힘이시다. ⟨그대⟩ 아브람을 택하셨고, 그를 우르 카쉬딤에서 이끌어 내셨으며, 그의 이름을 아브라함이라 하셨다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "그대"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그는⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "그 엘로힘이시다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그대⟩"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "택하셨고"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "아브람을"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "그리고 그를 이끌어 내셨으며"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "에서"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "우르 카쉬딤"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "그리고 하셨다"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:38:13.628047427Z",
+  "model": "glm-5.2"
+}

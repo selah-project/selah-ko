@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "아홉째 날에, 그 달의, 그리고 기근이 그 도성에서 심해졌다, 그리고 그 땅의 백성에게 빵이 없었다.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "아홉째에"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "그 달의"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "그리고 ∙이 심해졌다"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "그 기근은"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "그 도성에서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ∙이 없었다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵이"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의 백성"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:16.428042324Z",
+  "model": "glm-5.2"
+}

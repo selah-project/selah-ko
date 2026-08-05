@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 138,
+  "translation": "주의 거룩한 전을 향해 절하며 ⟨את⟩ 주의 이름을 감사하리이다. 주의 헤세드를 인하여, 그리고 주의 에메트를 인하여 하리이다. 주의 모든 이름 위로 주의 말씀을 크게 하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "절하며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향해"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "전"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "주의 거룩한"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "감사하리이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "주의 이름을"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "주의 이름"
+    },
+    {
+      "surface": "על",
+      "gloss": "인하여"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "주의 헤세드를"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 … 인하여"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "주의 에메트를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "크게 하셨기"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "주의 이름"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "주의 말씀을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:23.656127904Z",
+  "model": "glm-5.2"
+}

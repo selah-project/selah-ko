@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 그가 그들을 취하여 ⟨את⟩ 그 시내를 건너게 하고, 그가 ⟨את⟩ 그에게 있는 모든 것을 건너게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "그리고 그들을 취하여"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "그들을 건너게 하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 시내"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "그 시내를"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "그리고 건너게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그에게 있는 모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게 있는 것"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:51.538309710Z",
+  "model": "glm-5.2"
+}

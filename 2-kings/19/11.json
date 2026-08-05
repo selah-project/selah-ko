@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "“보라, 당신은 ⟨את⟩ ⟨그⟩ 아슈르 왕들이 모든 땅들에 행한 것을 들었으니, ⟨그것은⟩ 그것들을 바치려 함이었고, 당신 ⟨역시⟩ 구원받으리오?”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "들었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아슈르 왕들이 행한 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행한 것을"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "땅들에"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "그것들을 바치려 함이었고"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "당신"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "구원받으리오"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:53.977825024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "나는 ⟨את⟩ 그 나비들을 보내지 않았거늘 그들이 달렸다. 나는 그들에게 말하지 않았거늘 그들이 예언하였다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "보내지 않았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 나비들을"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "그 나비들을"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "달렸다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "말하지 않았다"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "예언하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:48.498348140Z",
+  "model": "glm-5.2"
+}

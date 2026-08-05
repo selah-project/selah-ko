@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 이것이 그들의 이름이다: 벤 후르, 에프라임 산악 지대에.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것이"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "그들의 이름이다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "벤"
+    },
+    {
+      "surface": "חור",
+      "gloss": "후르"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산악 지대에"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:03.527723168Z",
+  "model": "glm-5.2"
+}

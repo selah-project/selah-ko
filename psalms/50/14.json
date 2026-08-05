@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "엘로힘에게 토다를 제물로 드리며, 엘 엘리온에게 네 서원을 갚아라.",
+  "tokens": [
+    {
+      "surface": "זְבַ֣ח",
+      "gloss": "제물로 드리며"
+    },
+    {
+      "surface": "לֵאלֹהִ֣ים",
+      "gloss": "엘로힘에게"
+    },
+    {
+      "surface": "תּוֹדָ֑ה",
+      "gloss": "토다를"
+    },
+    {
+      "surface": "וְשַׁלֵּ֖ם",
+      "gloss": "갚아라"
+    },
+    {
+      "surface": "לְעֶלְי֣וֹן",
+      "gloss": "엘 엘리온에게"
+    },
+    {
+      "surface": "נְדָרֶֽיךָ",
+      "gloss": "네 서원을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:49.108246383Z",
+  "model": "glm-5.2"
+}

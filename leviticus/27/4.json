@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 여자라면, 그대의 정가가 삼십 세겔 ⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "여자라면"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "정가가"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "그대의"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "세겔"
+    }
+  ],
+  "timestamp": "2026-08-05T08:26:37.691977548Z",
+  "model": "glm-5.2"
+}

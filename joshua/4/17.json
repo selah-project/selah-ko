@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "여호수아가 ⟨את⟩ 코헨들에게 명하여 이르시기를, “요르단에서 올라오라” 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "명하였다"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "코헨들"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "올라오라"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:51.231649143Z",
+  "model": "glm-5.2"
+}

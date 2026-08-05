@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그의 악함으로 인해 악인은 밀려내쳐지고, ⟨그리고⟩ 의인은 그의 죽음에서 피신처를 찾는다.",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "그의 악함에서"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "밀려내쳐진다"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "그리고 피신처를 찾는"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "그의 죽음에서"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의인"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:21.732218130Z",
+  "model": "glm-5.2"
+}

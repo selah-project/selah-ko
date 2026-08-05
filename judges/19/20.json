@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그 노인이 말하였다. \"당신에게 샬롬이 있기를. 다만 당신의 모든 부족함은 ⟨저⟩에게 있으니, 거리에서만 머물지 마시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "노인이"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "당신의 부족함은"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "저에게 있으니"
+    },
+    {
+      "surface": "רק",
+      "gloss": "거리에서만"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "거리에서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…마시오"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "머물"
+    }
+  ],
+  "timestamp": "2026-08-05T09:20:56.527846350Z",
+  "model": "glm-5.2"
+}

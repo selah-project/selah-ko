@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼의 말씀이 요나에게 두 번째 임하여 이르시되 —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "임하셨다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "두 번째"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시되"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:57.062695063Z",
+  "model": "glm-5.2"
+}

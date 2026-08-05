@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "야훼의 말씀이 셸로모에게 임하여 이르시었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "~이 되었다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:49.840787261Z",
+  "model": "glm-5.2"
+}

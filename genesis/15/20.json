@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "⟨את⟩ 하 히티와 ⟨את⟩ 하 페리지와 ⟨את⟩ 하 르파임을",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "하 히티"
+    },
+    {
+      "surface": "הַחִתִּ֥י",
+      "gloss": "하 히티와"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "하 페리지"
+    },
+    {
+      "surface": "הַפְּרִזִּ֖י",
+      "gloss": "하 페리지와"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "하 르파임"
+    },
+    {
+      "surface": "הָרְפָאִֽים",
+      "gloss": "하 르파임을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:43.145747292Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼께 ⟨그⟩ 구원이 ⟨있다⟩. ⟨그⟩ 축복 ⟨은⟩ ⟨그대⟩의 백성 ⟨위⟩에 ⟨있다⟩. 셀라.",
+  "tokens": [
+    {
+      "surface": "לַיהוָ֥ה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "הַיְשׁוּעָ֑ה",
+      "gloss": "⟨그⟩ 구원"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "⟨위⟩에"
+    },
+    {
+      "surface": "עַמְּךָ֖",
+      "gloss": "⟨그대⟩의 백성"
+    },
+    {
+      "surface": "בִרְכָתֶ֣ךָ",
+      "gloss": "⟨그대⟩의 축복"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:04.561332844Z",
+  "model": "glm-5.2"
+}

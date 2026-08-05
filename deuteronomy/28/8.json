@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "야훼께서 너와 함께 ⟨את⟩ 복을 네 곳간에, 그리고 네 손이 미치는 모든 것에 명하실 것이다. 그리고 야훼 네 엘로힘께서 네게 주시는 땅에서 너를 복 주실 것이다.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "명하실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너와 함께"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "복을"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "그 복을"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "네 곳간에"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "미치는"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손이"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "그리고 복 주실 것이다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주시는"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:22.812225096Z",
+  "model": "glm-5.2"
+}

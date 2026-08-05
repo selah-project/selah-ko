@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "그들이 음모로 ⟨당신을⟩ 말하는 자들, 헛되이 ⟨당신의⟩ 이름을 드는 자들 — ⟨당신의⟩ 원수들!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "당신을 말하는 자들"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "음모로"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "드는 자들"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "헛되이"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "당신의 원수들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:51.659666311Z",
+  "model": "glm-5.2"
+}

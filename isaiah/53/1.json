@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 53,
+  "translation": "누가 우리의 들림을 믿었으며, 야훼의 팔이 누구에게 나타났는가?",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "누가"
+    },
+    {
+      "surface": "הֶאֱמִ֖ין",
+      "gloss": "믿었으며"
+    },
+    {
+      "surface": "לִשְׁמֻעָתֵ֑נוּ",
+      "gloss": "우리의 들림을"
+    },
+    {
+      "surface": "וּזְר֥וֹעַ",
+      "gloss": "그리고 팔이"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "누구"
+    },
+    {
+      "surface": "נִגְלָֽתָה",
+      "gloss": "나타났는가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:23:14.688246933Z",
+  "model": "glm-5.2"
+}

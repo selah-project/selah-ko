@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그 날에 — 집의 수호자들이 떨고, 힘의 사람들이 비틀거리며, 맷돌들이 멈추는 ⟨그⟩ 날에, 그들이 적어졌기 때문이요, 그리고 창문들로 보는 자들이 어두워지는 ⟨그⟩ 날에.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "떨며"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "수호자들이"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "그리고 비틀거리며"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "힘의"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "그리고 멈추고"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "맷돌들이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "적어졌으므로"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "그리고 어두워지는"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "보는 자들이"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "창문들로"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:37.737829532Z",
+  "model": "glm-5.2"
+}

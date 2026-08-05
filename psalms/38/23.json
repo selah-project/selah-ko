@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "서둘러 나를 도우러 오소서. 아도나이여, 나의 구원이시여.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "서둘러 오소서"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "나를 도우러"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이여"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "나의 구원이시여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:19.004092498Z",
+  "model": "glm-5.2"
+}

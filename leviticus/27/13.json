@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 만일 그것을 무르려면, ⟨그는⟩ ⟨그것의⟩ 다섯째 ⟨부분⟩을 당신의 정가에 더할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "무른다면"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "그가 그것을 무를"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "그리고 더할 것이다"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "그것의 다섯째"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "당신의 정가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:26:30.137280855Z",
+  "model": "glm-5.2"
+}

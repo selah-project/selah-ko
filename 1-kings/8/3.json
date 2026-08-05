@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이스라엘의 모든 장로가 왔고, 코헨들이 ⟨את⟩ 아론을 들어 올렸다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "왔고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "장로가"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "들어 올렸다"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아론"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "아론"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:26.203281063Z",
+  "model": "glm-5.2"
+}

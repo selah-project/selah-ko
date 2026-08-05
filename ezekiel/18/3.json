@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "\"내가 살아 있음을, 아도나이 야훼의 선언이로다 — 이 속담이 이스라엘 안에서 너희에게 더 이상 있게 됨이 아니로다.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "살아 있음을"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이로다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있게 됨이"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더 이상"
+    },
+    {
+      "surface": "משל",
+      "gloss": "속담이"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "속담"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:52:26.789441142Z",
+  "model": "glm-5.2"
+}

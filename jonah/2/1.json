@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 야훼께서 ⟨את⟩ 요나를 삼키게 하시려고 큰 물고기를 한 마리 지정하셨다. 요나가 그 물고기 뱃속에 삼 일 낮과 삼 일 밤을 있었다.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "지정하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "דג",
+      "gloss": "물고기"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "삼키게 하시려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요나"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "뱃속에"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "그 물고기"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "셋"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "그리고 셋"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "밤"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:09.618436845Z",
+  "model": "glm-5.2"
+}

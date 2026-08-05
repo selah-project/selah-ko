@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "obadiah 1:3",
+  "book": "obadiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "네 마음의 오만함이 너를 속였다 — 바위 틈에 거주하는 자, 높은 곳에 사는 자여. 그가 자기 마음에 말하기를 '누가 나를 땅으로 끌어내리겠느냐' ⟨하였다⟩.",
+  "tokens": [
+    {
+      "surface": "זדון",
+      "gloss": "오만함이"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음의"
+    },
+    {
+      "surface": "השיאך",
+      "gloss": "너를 속였다"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "거주하는 자"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "바위 틈에"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "바위"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "높은 곳에"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "사는 자"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "자기 마음에"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יורדני",
+      "gloss": "나를 끌어내리겠느냐"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:04.204454121Z",
+  "model": "glm-5.2"
+}

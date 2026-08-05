@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "예르미야후의 말씀들이니, 그는 힐키야후의 아들이요, 그 아나톳에 있던 코하님 중에서, 브냐민 땅에 있는 자이다.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "말씀들이니"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야후의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이요"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "힐키야후의"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코하님"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩ …이던"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "아나톳에 있던"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "브냐민"
+    }
+  ],
+  "timestamp": "2026-08-05T10:26:03.348361182Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨את⟩ 모든 까마귀를 그 종류대로",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든 까마귀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "까마귀"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "그 종류대로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:01.175024068Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 ⟨את⟩ ⟨그⟩ 아르와드 족속과, ⟨את⟩ ⟨그⟩ 츠마르 족속과, ⟨את⟩ ⟨그⟩ 하맛 족속을.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아르와드 족속을"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "아르와드 족속"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "츠마르 족속을"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "츠마르 족속"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하맛 족속을"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "하맛 족속"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:30.555670137Z",
+  "model": "glm-5.2"
+}

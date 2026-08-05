@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 41:42",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "파르오가 자기 손에서 ⟨את⟩ 자기 인장 반지를 빼어 요셉의 손에 그것을 끼워 주고, 그를 ⟨את⟩ 세마포 옷을 입히며, 그의 목에 금 목걸이를 씌웠다.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "빼어"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 인장 반지를"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "자기 인장 반지"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "끼워 주고"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉의"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "입히며"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "옷"
+    },
+    {
+      "surface": "שש",
+      "gloss": "세마포"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "씌웠다"
+    },
+    {
+      "surface": "רבד",
+      "gloss": "목걸이"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "그의 목"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:47.677992572Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 요압, 체루야의 아들이, 왕의 마음이 압살롬에게 향해 있음을 알았다.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "알았다"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요압이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "체루야의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "על",
+      "gloss": "향해 있다"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "압살롬에게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:07.129469592Z",
+  "model": "glm-5.2"
+}

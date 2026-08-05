@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 137,
+  "translation": "어찌 우리가 노래하리요 — ⟨את⟩ 야훼의 노래를, 낯선 땅 위에서?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "우리가 노래하리요"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 노래"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에서"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "땅"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "낯선"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:24.649007542Z",
+  "model": "glm-5.2"
+}

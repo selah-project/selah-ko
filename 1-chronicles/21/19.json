@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "다윗이 갓의 말을 따라 올라갔으니, 그것은 그가 야훼의 이름으로 말한 것이었다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "올라갔으니"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "말을 따라"
+    },
+    {
+      "surface": "גד",
+      "gloss": "갓의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말한"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:44.452149803Z",
+  "model": "glm-5.2"
+}

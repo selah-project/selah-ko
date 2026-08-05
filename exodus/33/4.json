@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "백성이 ⟨את⟩ 그 말씀을, 이 악한 것을 듣고 슬퍼하였으며, 아무도 자기 장신구를 그 위에 두지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 말씀"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 말씀"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "슬퍼하였으며"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "두지"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "자기 장신구"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:19.020288906Z",
+  "model": "glm-5.2"
+}

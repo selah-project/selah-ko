@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 61,
+  "translation": "엘로힘, 나의 부르짖음을 들어 주소서. 나의 기도에 귀를 기울이소서.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "들어 주소서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "나의 부르짖음을"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "귀를 기울이소서"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "나의 기도에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:26.453046082Z",
+  "model": "glm-5.2"
+}

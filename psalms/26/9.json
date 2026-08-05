@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "나의 네페쉬를 죄인들과 함께 거두지 마시고, 나의 생명을 피흘리는 자들과 함께 거두지 마소서.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…마시고"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "거두지"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "죄인들"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬를"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "그리고 …와 함께"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…의 사람들"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "피"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "나의 생명을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:06.152456187Z",
+  "model": "glm-5.2"
+}

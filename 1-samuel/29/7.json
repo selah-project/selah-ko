@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그러니 ⟨이제⟩ 돌아가 평화 가운데 가라. 블레셋 방백들의 눈에 악을 행하지 말라.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그러니 ⟨이제⟩"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "돌아가"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "평화 가운데"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨그리하여⟩ …아니하리라"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "행하지"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "방백들의"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:19.854055510Z",
+  "model": "glm-5.2"
+}

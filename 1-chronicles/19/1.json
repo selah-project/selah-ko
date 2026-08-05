@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그 후에 나하쉬가, 암몬 자손의 왕이, 죽었고 그의 아들이 그를 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨일이⟩ 있었다"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그것"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그리고 죽었다"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "나하쉬가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨…⟩ 자손의"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "그리고 왕이 되었다"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들이"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:34.902607889Z",
+  "model": "glm-5.2"
+}

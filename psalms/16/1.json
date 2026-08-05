@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "다윗의 미크탐. 엘이시여, 나를 지켜 주소서. 내가 당신 안에 피하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "미크탐"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "나를 지켜 주소서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이시여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "피하였기"
+    },
+    {
+      "surface": "בך",
+      "gloss": "당신 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:39.194874073Z",
+  "model": "glm-5.2"
+}

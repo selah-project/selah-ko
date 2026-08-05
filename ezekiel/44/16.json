@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 44:16",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그들이 내 성소에 들어오고, 그들이 내 상에 가까이 나아와 나를 섬기고, 그들이 ⟨את⟩ 나의 직무를 지킬 것이다.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "들어올"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "내 성소에"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "그리고 그들이"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "가까이 나아올"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "내 상에"
+    },
+    {
+      "surface": "לשרתני",
+      "gloss": "나를 섬기려"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "그리고 …지킬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 직무를"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "나의 직무를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:04:26.619717729Z",
+  "model": "glm-5.2"
+}

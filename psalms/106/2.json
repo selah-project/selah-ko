@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "누가 야훼의 능력들을 말하며, 그의 모든 찬양을 들리 할 수 있으랴?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "말하겠는가"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "능력들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "들리 할 수 있으랴"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "그의 찬양을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:37.868687574Z",
+  "model": "glm-5.2"
+}

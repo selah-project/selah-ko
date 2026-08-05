@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "야훼께서 시내 산 위로, 산 꼭대기에 내려오셨다. 그리고 야훼께서 모셰를 산 꼭대기로 부르시니, 모셰가 올라갔다.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "내려오셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "시내"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "꼭대기"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "부르시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "모셰를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "꼭대기"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:42.270804834Z",
+  "model": "glm-5.2"
+}

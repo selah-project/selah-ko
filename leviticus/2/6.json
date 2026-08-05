@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "조각들로 ⟨את⟩ 그것을 나누고, 그 위에 기름을 부을지니, 그것은 민하임이다.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "나눌지니"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "조각들로"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "붓고"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "기름을"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "민하임"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:32.889832703Z",
+  "model": "glm-5.2"
+}

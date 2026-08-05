@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 2:9",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그의 아내가 그에게 말하였다. \"당신은 여전히 당신의 온전함을 붙잡고 있는가? 엘로힘을 저주하고 죽으시오.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내가"
+    },
+    {
+      "surface": "עדך",
+      "gloss": "여전히"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "붙잡고 있는가"
+    },
+    {
+      "surface": "בתמתך",
+      "gloss": "당신의 온전함을"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "저주하고"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "죽으시오"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:00.460618586Z",
+  "model": "glm-5.2"
+}

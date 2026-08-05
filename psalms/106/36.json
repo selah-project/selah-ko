@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리고 ⟨그들은⟩ ⟨את⟩ 그들의 우상들을 섬겼으며, 그것들이 그들에게 올무가 되었다.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "섬겼으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 우상들을"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "그들의 우상들을"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "올무가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:41.865259231Z",
+  "model": "glm-5.2"
+}

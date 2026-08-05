@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "보라, 이들이 악인들이니, 항상 편안한 자들이 재물을 얻었다.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들이니"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "그리고 편안한 자들이"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "항상"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "얻었다"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "재물을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:30.925739594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 기름부음의 기름에서부터 아하론의 머리 위에 부었고, 그에게 기름부어 — 그를 거룩하게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "그리고 부었고"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "기름에서부터"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "기름부음의"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론의"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "그리고 기름부어"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "그를 거룩하게 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:03.275886260Z",
+  "model": "glm-5.2"
+}

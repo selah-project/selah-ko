@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그리고 ⟨את⟩ 너희 형제들을 데려가라. 일어나 그 사람에게로 돌아가라.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "너희 형제들을"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "너희 형제들을"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "데려가라"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게로"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:07.110515320Z",
+  "model": "glm-5.2"
+}

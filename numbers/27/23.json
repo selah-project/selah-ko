@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 그의 두 손을 그 위에 안수하고, 야훼께서 모셰의 손을 통해 말씀하신 대로 그에게 명령하였다.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "그리고 … 안수하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 두 손"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "그의 두 손"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "그리고 그에게 명령하였다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 대로"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…의 손을 통해"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:26.752778341Z",
+  "model": "glm-5.2"
+}

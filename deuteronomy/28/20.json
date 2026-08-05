@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "야훼께서 너에게 ⟨את⟩ 저주와 ⟨את⟩ 혼란과 ⟨את⟩ 견책을 보내실 것인즉, 이는 네 손이 뻗치는 모든 것에, 곧 네가 행하는 모든 일에 미칠 것이라, 네가 멸망하고 또 네가 속히 망할 때까지, 네가 나를 버린 네 행위들의 악함 때문이다.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "보내실 것인즉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "저주"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "저주"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "혼란"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "혼란"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "및 ⟨את⟩",
+      "marks": "견책"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "견책"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든 것에"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "뻗치는"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "네가 행하는"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~할 때까지"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "네가 멸망하고"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "또 ~할 때까지"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "네가 망할"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "속히"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악함"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "네 행위들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~의"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "네가 나를 버린"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:55.058638847Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "이는 우유를 짜내면 버터가 ⟨나오고⟩, 코를 짜내면 피가 ⟨나오며⟩, 분노를 짜내면 다툼이 ⟨나옴⟩이다.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "이는"
+    },
+    {
+      "surface": "מִ֪יץ",
+      "gloss": "짜내면"
+    },
+    {
+      "surface": "חָלָ֡ב",
+      "gloss": "우유를"
+    },
+    {
+      "surface": "י֘וֹצִ֤יא",
+      "gloss": "내어"
+    },
+    {
+      "surface": "חֶמְאָ֗ה",
+      "gloss": "버터가"
+    },
+    {
+      "surface": "וּֽמִיץ",
+      "gloss": "그리고 짜내면"
+    },
+    {
+      "surface": "אַ֭ף",
+      "gloss": "코를"
+    },
+    {
+      "surface": "י֣וֹצִיא",
+      "gloss": "내어"
+    },
+    {
+      "surface": "דָ֑ם",
+      "gloss": "피가"
+    },
+    {
+      "surface": "וּמִ֥יץ",
+      "gloss": "그리고 짜내면"
+    },
+    {
+      "surface": "אַפַּ֗יִם",
+      "gloss": "분노를"
+    },
+    {
+      "surface": "י֣וֹצִיא",
+      "gloss": "내어"
+    },
+    {
+      "surface": "רִֽיב",
+      "gloss": "다툼이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:24.910250664Z",
+  "model": "glm-5.2"
+}

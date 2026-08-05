@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그날 내내 밭가는 자가 씨 뿌리려고 갈며, ⟨그가⟩ 자기 땅을 갈고 고르기만 하랴?",
+  "tokens": [
+    {
+      "surface": "הֲכֹ֣ל",
+      "gloss": "…만 하랴"
+    },
+    {
+      "surface": "הַיּ֔וֹם",
+      "gloss": "그날 내내"
+    },
+    {
+      "surface": "יַחֲרֹ֥שׁ",
+      "gloss": "갈며"
+    },
+    {
+      "surface": "הַחֹרֵ֖שׁ",
+      "gloss": "밭가는 자가"
+    },
+    {
+      "surface": "לִזְרֹ֑עַ",
+      "gloss": "씨 뿌리려고"
+    },
+    {
+      "surface": "יְפַתַּ֥ח",
+      "gloss": "갈고"
+    },
+    {
+      "surface": "וִֽישַׂדֵּ֖ד",
+      "gloss": "고르기"
+    },
+    {
+      "surface": "אַדְמָתֽוֹ",
+      "gloss": "자기 땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:26.796360478Z",
+  "model": "glm-5.2"
+}

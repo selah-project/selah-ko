@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그녀의 집은 눈으로부터 두려워하지 않으니, 온 ¬그녀의 집이 주홍색 옷을 입었기 ¬때문이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "두려워한다"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "그녀의 집은"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "눈으로부터"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "그녀의 집이"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "입었다"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "주홍색 옷을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:39.460650894Z",
+  "model": "glm-5.2"
+}

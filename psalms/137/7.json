@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 137,
+  "translation": "기억하소서, 야훼여, 에돔 자손들을 ⟨את⟩ 예루샬라임의 날을, 그들이 말한 자들이: \"헐라, 헐라, 그 터까지!\"",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "기억하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "자손들을"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임의 날을"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임의"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "그들이 말한 자들이"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "헐라"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "헐라"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "터"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T17:23:09.551961235Z",
+  "model": "glm-5.2"
+}

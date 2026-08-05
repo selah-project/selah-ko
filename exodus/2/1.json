@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 레위 집안의 한 사람이 갔고, 그리고 ⟨그가⟩ ⟨את⟩ 레위의 딸을 취하였다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그리고 … 갔다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "… 집안의"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "레위"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 … 취하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레위의 딸을"
+    },
+    {
+      "surface": "בת",
+      "gloss": "… 딸을"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "레위의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:01.889329932Z",
+  "model": "glm-5.2"
+}

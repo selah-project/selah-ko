@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 ⟨그들이⟩ ⟨את⟩ 토라를 들었을 때 일어난 일은, 그들이 모든 섞인 무리를 이스라엘에서 구별하였다 ⟨것이다⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일어난 일은"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "그들이 들었을 때"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "토라를"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라를"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "그리고 구별하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "섞인 무리를"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "이스라엘에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:39:58.459170173Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "모셰가 백성에게 말하였다. “너희가 미츠라임에서, 종들의 집에서 나온 이 날을 기억하라. 야훼께서 강한 손으로 너희를 거기서 이끌어내셨기 때문이다. 누룩 넣은 빵은 먹지 못한다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "기억하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 날을"
+    },
+    {
+      "surface": "היום",
+      "gloss": "날을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "너희가 나온"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…집에서"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "종들의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "강한"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "이끌어내셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…못한다"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹지"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "누룩 넣은 빵은"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:07.178341237Z",
+  "model": "glm-5.2"
+}

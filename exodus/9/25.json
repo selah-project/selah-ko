@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 우박이 미츠라임 온 땅을 쳤다 — ⟨את⟩ 들판에 있는 모든 것을, 사람으로부터 짐승까지. 그리고 ⟨את⟩ 들판의 모든 풀을 우박이 쳤고, ⟨את⟩ 들판의 모든 나무를 부러뜨렸다.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "그리고 …가 쳤다"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "우박이"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "들판에 있는 모든 것"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들판에 있는"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "사람으로부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "들판의 모든 풀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "풀"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들판의"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "우박이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "들판의 모든 나무"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들판의"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "부러뜨렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:48.751819473Z",
+  "model": "glm-5.2"
+}

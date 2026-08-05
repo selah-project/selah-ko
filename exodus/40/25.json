@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 ⟨그가⟩ 야훼 앞에서 ⟨그⟩ 등불들을 켰다. 야훼께서 ⟨את⟩ 모셰에게 명령하신 대로.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַל",
+      "gloss": "그리고 켰다"
+    },
+    {
+      "surface": "הַנֵּרֹ֖ת",
+      "gloss": "⟨그⟩ 등불들을"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "∼대로"
+    },
+    {
+      "surface": "צִוָּ֥ה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "모셰"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "모셰에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:51.905707168Z",
+  "model": "glm-5.2"
+}

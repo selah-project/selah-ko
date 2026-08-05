@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "당신의 사람들은 복되다, 당신의 이 종들은 복되다, 항상 당신 앞에 서서 당신의 ⟨את⟩ 지혜를 듣는 이들!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복되다"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "당신의 사람들은"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "복되다"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "당신의 종들은"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "서 있는"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "당신 앞에"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "항상"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "듣는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 지혜"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "당신의 지혜"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:34.310512723Z",
+  "model": "glm-5.2"
+}

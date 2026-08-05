@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "⟨이는⟩ 주의 화살들이 나를 꽂고, 주의 손이 내 위에 내려앓았기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩ …기 때문이다"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "주의 화살들이"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "나를 꽂고"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "내려앓았고"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 위에"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "주의 손이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:41.894535304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 138,
+  "translation": "그리고 그들이 야훼의 길들에서 노래하리니, 이는 야훼의 영광이 크심이라.",
+  "tokens": [
+    {
+      "surface": "ושירו",
+      "gloss": "그리고 그들이 노래하리니"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "길들에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크심이라"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:22.883782647Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "이는 비웃음 받는 입술과 다른 혀로 이 백성에게 말씀하실 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "이는…때문이다"
+    },
+    {
+      "surface": "בְּלַעֲגֵי",
+      "gloss": "비웃음 받는"
+    },
+    {
+      "surface": "שָׂפָה",
+      "gloss": "입술"
+    },
+    {
+      "surface": "וּבְלָשׁוֹן",
+      "gloss": "그리고 혀"
+    },
+    {
+      "surface": "אַחֶרֶת",
+      "gloss": "다른"
+    },
+    {
+      "surface": "יְדַבֵּר",
+      "gloss": "말씀하실"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הַזֶּֽה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:52.975936032Z",
+  "model": "glm-5.2"
+}

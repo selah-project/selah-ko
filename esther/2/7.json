@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 2:7",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그가 ⟨את⟩ 하닷사 — 그녀가 곧 에스더 — ⟨그⟩ 자기 삼촌의 딸을 길렀으니, 이는 그녀에게 아버지도 어머니도 없었기 때문이었다. ⟨그⟩ 소녀는 용모가 아름답고 모양이 좋았다. 그녀의 아버지와 어머니가 죽었을 때에 모르드개가 그녀를 자기에게 딸로 취하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그가"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "길렀으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하닷사"
+    },
+    {
+      "surface": "הדסה",
+      "gloss": "하닷사"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀가 곧"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "자기 삼촌의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없었기"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "אב",
+      "gloss": "아버지도"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "어머니도"
+    },
+    {
+      "surface": "והנערה",
+      "gloss": "소녀는"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "아름답고"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "용모가"
+    },
+    {
+      "surface": "וטובת",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "모양이"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "죽었을 때에"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "아버지와"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "어머니가"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "취하였다"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개가"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기에게"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "딸로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:07.215558320Z",
+  "model": "glm-5.2"
+}

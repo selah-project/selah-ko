@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "⟨주⟩ ⟨께서⟩ 내 눈이 깨어 있게 붙잡으셨다; 내가 흔들렸고, 말하지 못하였다.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "붙잡으셨다"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "깨어 있게"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈이"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "내가 흔들렸고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "못하였다"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "말하지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:59.380807117Z",
+  "model": "glm-5.2"
+}

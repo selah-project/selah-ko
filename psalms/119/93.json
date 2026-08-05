@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "영원히 ⟨그대의⟩ 풓쿠드들을 잊지 아니하리이다, 그것들로 인해 ⟨그대가⟩ 나를 살리셨음이라.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "잊으리이다"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "풓쿠드들"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그것들로"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "살리셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:50.574273845Z",
+  "model": "glm-5.2"
+}

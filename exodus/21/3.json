@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "혼자 몸으로 들어오면 혼자 몸으로 나가야 한다. 만일 그가 아내를 가진 남자라면, 그의 아이가 그와 함께 나가야 한다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "…면"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "혼자 몸으로"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "들어오면"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "혼자 몸으로"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나가야 한다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "가진 남자라면"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "나가야 한다"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아이가"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:18.495881864Z",
+  "model": "glm-5.2"
+}

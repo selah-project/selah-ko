@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "바람직한 보물과 기름이 지혜로운 자의 거처에 있으나, 어리석은 자는 사람이 그것을 삼킨다.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "보물이"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "바람직한"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "그리고 기름이"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "거처에"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운 자의"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "그러나 어리석은 자는"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "그것을 삼킨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:30.433276885Z",
+  "model": "glm-5.2"
+}

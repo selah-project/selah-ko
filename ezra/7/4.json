@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "제라흐야의 아들이요, 우찌의 아들이요, 부끼의 아들이었다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "제라흐야"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "우찌"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "부끼"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:36.466684384Z",
+  "model": "glm-5.2"
+}

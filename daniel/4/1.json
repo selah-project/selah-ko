@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "나 네부카드네자르는 내 집에서 평안하였고, 내 궁전에서 번성하였다.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "나는"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "네부카드네자르"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "평안하였다"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "내 집에서"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "그리고 번성하였다"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "내 궁전에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:25:55.577511262Z",
+  "model": "glm-5.2"
+}

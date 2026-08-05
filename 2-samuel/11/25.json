@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 11:25",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "다윗이 그 사자에게 말하였다. \"너는 요압에게 이같이 말하라: '이 일이 네 눈에 악하게 보이지 말라. 칼이 ⟨이⟩ 같기도 하고 저 같기도 하여 삼키기 때문이다. 네 전쟁을 그 성을 향하여 강하게 하고, 그것을 헐며, 그를 강하게 하라.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "그 사자"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요압"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "악하게 보이"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "네 눈에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 일"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 일이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "⟨이⟩ 같기도 하고"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "저 같기도 하여"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "삼키"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "칼이"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "강하게 하라"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "네 전쟁을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성을"
+    },
+    {
+      "surface": "והרסה",
+      "gloss": "헐며"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "그를 강하게 하라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:04.109214266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "아히야가 그에게 있던 ⟨그⟩ 새 옷을 잡고, 그것을 열두 조각으로 찢었다.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "잡고"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "아히야가"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "옷을"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "새"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그에게 있던"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "찢었다"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "열"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "두"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "조각으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:51:00.737120033Z",
+  "model": "glm-5.2"
+}

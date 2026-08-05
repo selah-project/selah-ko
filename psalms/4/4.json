@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 알아라 — 야훼께서 자신에게 하시딤을 구별하셨음을. 야훼께서 내가 그분을 부를 때 들어주시리라.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "그리고 알아라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "구별하셨음을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "하시딤을"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자신에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "들어주시리라"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "내가 부를 때"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그분을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:22.366891894Z",
+  "model": "glm-5.2"
+}

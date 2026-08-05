@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "다윗이 올라가는 제물과 평화제들을 올림을 마치자, 야훼의 이름으로 ⟨את⟩ 백성을 축복하셨다.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "마치자"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "올림을"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라가는 제물"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "평화제들"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:39:34.715028180Z",
+  "model": "glm-5.2"
+}

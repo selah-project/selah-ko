@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야훼홀로 그를 인도하셨다, 그와 함께 이방 엘이 없었다.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בָּדָ֣ד",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "יַנְחֶ֑נּוּ",
+      "gloss": "그를 인도하셨다"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "עִמֹּ֖וֹ",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "אֵ֥ל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "נֵכָֽר",
+      "gloss": "이방"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:08.967307085Z",
+  "model": "glm-5.2"
+}

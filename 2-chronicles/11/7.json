@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 베이트 쯔르와 ⟨את⟩ 소코와 ⟨את⟩ 아둘람을",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "베이트 쯔르"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트"
+    },
+    {
+      "surface": "צור",
+      "gloss": "쯔르"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "소코"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "소코"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아둘람"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "아둘람"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:58.650591693Z",
+  "model": "glm-5.2"
+}

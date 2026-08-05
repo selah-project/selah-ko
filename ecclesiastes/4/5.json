@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "어리석은 자는 자기 손을 끌어안고 있으며, 자기 살을 먹고 있다.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "어리석은 자는"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "끌어안고 있으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 손을"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "자기 손을"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "먹고 있다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 살을"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "자기 살을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:53.105195009Z",
+  "model": "glm-5.2"
+}

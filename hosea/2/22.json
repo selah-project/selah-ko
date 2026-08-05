@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 나는 너를 나에게 에무나로 아내로 맞이하겠다. 그리고 너는 ⟨את⟩ 야훼를 알게 될 것이다.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "그리고 나는 너를 아내로 맞이하겠다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "에무나로"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "그리고 너는 알게 될 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T18:24:11.492458068Z",
+  "model": "glm-5.2"
+}

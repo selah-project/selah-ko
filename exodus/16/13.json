@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "저녁이 되자 슬라브가 올라와 ⟨את⟩ 진을 덮었고, 아침에는 이슬의 층이 진 주위에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "저녁에"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "올라왔다"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "슬라브가"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "진을"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "층"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "이슬의"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "주위에"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "진"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:29.857459410Z",
+  "model": "glm-5.2"
+}

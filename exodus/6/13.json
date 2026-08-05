@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "야훼께서 모셰와 아하론에게 말씀하셨다. 그리고 그들에게 명령하셨다 — 이스라엘의 아들들에게, 그리고 미츠라임의 왕 파르오에게 — 이스라엘의 아들들을 ⟨את⟩ 미츠라임 땅에서 이끌어 내기 위하여.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "그리고 그들에게 명령하셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "이끌어 내기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:33.724386133Z",
+  "model": "glm-5.2"
+}

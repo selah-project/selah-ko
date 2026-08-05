@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 샬룸은 ⟨את⟩ 예캄야를 낳았고, 예캄야는 ⟨את⟩ 엘리쉬마를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "그리고 샬룸은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예캄야를"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "예캄야를"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "예캄야는"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘리쉬마를"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "엘리쉬마를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:11.666475557Z",
+  "model": "glm-5.2"
+}

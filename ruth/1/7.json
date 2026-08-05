@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ruth 1:7",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그녀가 ⟨그녀⟩가 있던 그곳에서 나갔고, ⟨그녀⟩의 두 며느리가 ⟨그녀⟩와 함께하였다. 그리고 그들은 유다 땅으로 돌아가기 위하여 길을 걸었다.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "그리고 그녀가 나갔다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "그곳"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "있던"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "그리고 두"
+    },
+    {
+      "surface": "כלתיה",
+      "gloss": "⟨그녀⟩의 며느리가"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "⟨그녀⟩와 함께"
+    },
+    {
+      "surface": "ותלכנה",
+      "gloss": "그리고 그들은 걸었다"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "돌아가기 위하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:49.769071065Z",
+  "model": "glm-5.2"
+}

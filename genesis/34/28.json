@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "⟨את⟩ 그들의 양 떼와 ⟨את⟩ 그들의 소와 ⟨את⟩ 그들의 나귀들, 그리고 ⟨את⟩ 성에 있는 것과 ⟨את⟩ 들에 있는 것을 취하였다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 양 떼"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "그들의 양 떼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 소"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "그들의 소"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 나귀들"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "그들의 나귀들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "성에 있는 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성에 있는"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "들에 있는 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에 있는"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "그들이 취하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:20.314754089Z",
+  "model": "glm-5.2"
+}

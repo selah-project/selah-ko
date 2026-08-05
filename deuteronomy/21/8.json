@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "속죄하소서, 야훼여, 당신의 백성 이스라엘을 — 당신이 무르신 — 위하여, 그리고 무죄한 피를 당신의 백성 이스라엘 한가운데 두지 마소서. 그러면 그 피가 그들에게 속죄될 것이다.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "속죄하소서"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "당신의 백성을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "당신이 무르신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 … 말고"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "주지"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "무죄한"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "… 한가운데"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "그러면 속죄될 것이다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "그 피가"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:14.315174468Z",
+  "model": "glm-5.2"
+}

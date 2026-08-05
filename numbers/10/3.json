@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 그것들을 불면, 온 회중이 네게 회집의 장막 입구로 네게 모일 것이다.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "그리고 …불면"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "그리고 …모일 것이다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "회집"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:45.469545716Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 그들이 그들에게 ⟨את⟩ 헤브론을, 유다 땅에, 그리고 ⟨את⟩ 그것의 목장들을, 그것의 주변에 주었다.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "그리고 그들이 주었다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "헤브론"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "헤브론을"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 목장들"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "그것의 목장들을"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "그것의 주변에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:08.403998155Z",
+  "model": "glm-5.2"
+}

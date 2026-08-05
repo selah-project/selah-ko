@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 8:12",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 제바와 찰문나가 도망하매, 그가 그들의 뒤를 쫓았다. 그가 ⟨את⟩ 미디안의 두 왕을 사로잡았으니, ⟨את⟩ 제바와 ⟨את⟩ 찰문나를. 그리고 온 진영을 두렵게 떨게 하였다.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "그리고 도망하매"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제바"
+    },
+    {
+      "surface": "וצלמנע",
+      "gloss": "그리고 찰문나"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "그리고 쫓았다"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "그들의 뒤를"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "그리고 사로잡았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미디안의 두 왕을"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "미디안의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제바를"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제바"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "찰문나를"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "찰문나"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영을"
+    },
+    {
+      "surface": "החריד",
+      "gloss": "두렵게 떨게 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:02.127095545Z",
+  "model": "glm-5.2"
+}

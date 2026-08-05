@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "나의 날들은 달아나는 자보다 빠르니, 그들이 도망하였다 — 좋은 것을 보지 못하였다.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "나의 날들은"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "빠르니"
+    },
+    {
+      "surface": "מני",
+      "gloss": "~보다"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "달아나는 자"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보지"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "좋은 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:45.980277069Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "새무엘이 백성에게 말하였다. “⟨이는⟩ 야훼이시니 — 모셰와 ⟨את⟩ 아하론을 만드신 이, 그리고 너희 조상들을 미츠라임 땅에서 올리신 이이시다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "새무엘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그분께서"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만드신"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아하론"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 그분께서"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올리신"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 조상들"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "너희 조상들"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T09:26:30.040262648Z",
+  "model": "glm-5.2"
+}

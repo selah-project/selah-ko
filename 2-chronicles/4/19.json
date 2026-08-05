@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "슐로모가 엘로힘의 집에 있는 ⟨את⟩ 모든 기구를 만들었다. ⟨그리고⟩ ⟨את⟩ 금 제단과 ⟨그리고⟩ ⟨את⟩ 그 위에 진설병을 올려 놓은 상들을 ⟨만들었다⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 기구를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "기구를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨그리고⟩ ⟨את⟩",
+      "marks": "금 제단을"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨그리고⟩ ⟨את⟩",
+      "marks": "상들을"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "상들을"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "면전의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:35.064871918Z",
+  "model": "glm-5.2"
+}

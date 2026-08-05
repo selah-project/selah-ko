@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "도둑질하지 말라. 그리고 속이지 말라. 그리고 서로 거짓말하지 말라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…아니하다"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "도둑질하다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니하다"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "속이다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니하다"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "거짓말하다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "그의 동료에게"
+    }
+  ],
+  "timestamp": "2026-08-05T18:04:45.146289196Z",
+  "model": "glm-5.2"
+}

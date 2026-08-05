@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그러면 당신은 하늘에서 그들의 기도와 그들의 간구를 들으시고, 그들의 공의를 행하실 것입니다.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "그리고 당신은 들으실 것입니다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 기도를"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "그들의 기도"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그들의 간구를"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "그들의 간구"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 행하실 것입니다"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "그들의 공의를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:10:23.334643873Z",
+  "model": "glm-5.2"
+}

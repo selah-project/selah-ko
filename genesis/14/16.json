@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨그⟩ 가 ⟨את⟩ 모든 재산을 되찾아 왔고, 또한 ⟨את⟩ 롯 ⟨그⟩ 형제와 그의 재산을 되돌려 보냈으며, 또한 ⟨את⟩ 그 여인들과 ⟨את⟩ 그 백성도.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "되찾아 왔고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 재산을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "재산을"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "롯을"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "롯"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그 형제를"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "그리고 그의 재산을"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "되돌려 보냈으며"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 여인들을"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "그 여인들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 백성도"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성도"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:42.543259330Z",
+  "model": "glm-5.2"
+}

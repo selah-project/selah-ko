@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "사자의 포효와, 날사자의 소리와, 젊은 사자들의 이빨이 부러진다.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "포효"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "사자의"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "소리와"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "날사자의"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "이빨이"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "젊은 사자들의"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "부러진다"
+    }
+  ],
+  "timestamp": "2026-08-05T19:39:18.762652616Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 62,
+  "translation": "언제까지 너희가 ⟨한⟩ 사람을 짓밟으려 하며, 온 너희가 죽이려 하는가, 기울어진 담처럼, 쓰러진 울타리처럼?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "언제"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "너희가 짓밟으려 하며"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "죽이려 하는가"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "온 너희가"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "담처럼"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "기울어진"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "울타리"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "쓰러진"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:30.350232952Z",
+  "model": "glm-5.2"
+}

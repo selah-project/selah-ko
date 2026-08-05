@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "그들이 ⟨그⟩ 귀를 가지고 있으나 듣지 못하며, 참으로 ⟨그⟩ 숨(루아흐)이 그들의 입 안에 ⟨없다⟩.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "귀"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아니다"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "듣다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있으나"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "그들의 입 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:00.532263246Z",
+  "model": "glm-5.2"
+}

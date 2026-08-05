@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그러나 왕의 명령이 요아브와 군 사령관들에게 강하게 임하였다. 그리하여 요아브와 군 사령관들이 왕의 앞에서 나가서, ⟨את⟩ 백성 곧 ⟨את⟩ 이스라엘을 점검하였다.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "그리고 강하게 임하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "명령이"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사령관들"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "군"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나가서"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "그리고 사령관들이"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "군"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "점검하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:30.961729215Z",
+  "model": "glm-5.2"
+}

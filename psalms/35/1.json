@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "다윗의 시. 야훼여, ⟨את⟩ 나를 대적하는 자들과 다투시고, ⟨את⟩ 나와 싸우는 자들과 싸우소서.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "다투소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나를 대적하는 자들"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "나를 대적하는 자들"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "싸우소서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나와 싸우는 자들"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "나와 싸우는 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:26.581486240Z",
+  "model": "glm-5.2"
+}

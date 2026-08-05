@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "에스더 왕비가 대답하여 말하였다. \"왕이여, 내가 왕의 목전에서 헨을 얻었고, 그것이 왕에게 좋다면, 내 청원에 내 네페쉬가, 그리고 내 요구에 내 백성이 내게 주어지게 하소서.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "왕비가"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "내가 얻었다면"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨을"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "왕의 목전에서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이여"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "על",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋다면"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "주어지게 하소서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "내 청원에"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "그리고 내 백성이"
+    },
+    {
+      "surface": "בבקשתי",
+      "gloss": "내 요구에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:21.970445647Z",
+  "model": "glm-5.2"
+}

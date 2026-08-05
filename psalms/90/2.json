@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 90,
+  "translation": "산들이 나기 전에, ⟨그리고⟩ 땅과 세계를 낳으시기 전에, 영원에서 영원까지 당신은 엘이시다.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "전에"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들이"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "나다"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "그리고 낳으시다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "그리고 세계를"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "그리고 영원에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:33.846577179Z",
+  "model": "glm-5.2"
+}

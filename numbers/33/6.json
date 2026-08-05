@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "숙곳에서 떠나, 광야 끝에 있는 에담에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "숙곳에서"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "에담에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것은⟩ …곳이다"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "끝에"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "광야"
+    }
+  ],
+  "timestamp": "2026-08-05T08:47:38.599846630Z",
+  "model": "glm-5.2"
+}

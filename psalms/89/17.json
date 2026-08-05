@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "주의 이름 안에서 그들이 온종일 기뻐하고, 주의 의로우심으로 말미암아 그들이 높임을 받는다.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "주의 이름 안에서"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "그들이 기뻐하고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "주의 의로우심으로 말미암아"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "그들이 높임을 받는다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:17.865405815Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "악한 꾀를 좇는 자들이 가까이 왔고, 당신의 토라에서 멀어졌나이다.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "가까이 왔고"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "좇는 자들이"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "악한 꾀를"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "당신의 토라에서"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "멀어졌나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:32.419896455Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "엘이 ⟨את⟩ 판결을 굽게 하시며, 샤다이가 ⟨את⟩ 공의를 굽게 하시는가?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "엘이"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "굽게 하시는가"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "판결을"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "또는"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이가"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "굽게 하시는가"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "공의를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:23.848840061Z",
+  "model": "glm-5.2"
+}

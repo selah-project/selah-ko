@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "엘리샤가 그에게 말하였다. “활과 화살들을 가져오라.” 그가 그에게 활과 화살들을 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤가"
+    },
+    {
+      "surface": "קח",
+      "gloss": "가져오라"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "활"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "화살들을"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "가져왔다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "활"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "화살들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:26.982909591Z",
+  "model": "glm-5.2"
+}

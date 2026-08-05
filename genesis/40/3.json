@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리하여 그들을 ⟨את⟩ 경비 아래, 도살자들의 책임자의 집, 즉 감옥, 요셉이 묶여 있는 곳에 가두셨다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 가두셨다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "경비 아래"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "שר",
+      "gloss": "책임자의"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "도살자들의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "즉"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הסה르",
+      "gloss": "감옥"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "곳"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "거기"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "묶여 있는"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:39.778806427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "그가 우리를 위해 ⟨את⟩ 우리의 기업을 택하셨다 — 그가 사랑하신 야곱의 위엄인 ⟨את⟩. 셀라.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "택하셨다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위해"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 기업"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "우리의 기업"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야곱의 위엄"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "위엄"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하신"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:25.725358045Z",
+  "model": "glm-5.2"
+}

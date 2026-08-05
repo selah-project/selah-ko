@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "올라가지 마십시오. 야훼께서 ⟨당신들⟩ 한가운데 계시지 않기 때문입니다. 그리하면 ⟨당신들⟩ 앞에서 원수들에게 맞지 않을 것입니다.\"",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "마십시오"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "올라가지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "אין",
+      "gloss": "계시지"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "않을"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "맞지"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "원수들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:36.015398777Z",
+  "model": "glm-5.2"
+}

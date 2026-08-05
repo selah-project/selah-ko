@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "야훼께 그의 헤세드를 찬양하라, 그리고 그의 놀라운 일들을 사람들의 아들들에게!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드를"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "그리고 그의 놀라운 일들을"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…의 아들들에게"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    }
+  ],
+  "timestamp": "2026-08-05T19:47:56.717259608Z",
+  "model": "glm-5.2"
+}

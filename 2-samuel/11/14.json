@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "아침이 되니 다윗이 ⟨את⟩ 요아브에게 편지를 쓰고 우찌야의 손으로 보내었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "이르렀다"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "썼다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "편지를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내었다"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우찌야의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:33.615556349Z",
+  "model": "glm-5.2"
+}

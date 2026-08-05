@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "너를 보는 자들이 너를 주목하고 너를 깊이 생각하여 말하리니, '이 ⟨자⟩가 땅을 뒤흔들던 자, 왕국들을 뒤흔들던 자가 아닌가?' 하리라.",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "너를 보는"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "너를"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "주목하고"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "너를"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "깊이 생각하여"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨자⟩가"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "뒤흔들던"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "뒤흔들던"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "왕국들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:36.916536929Z",
+  "model": "glm-5.2"
+}

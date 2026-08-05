@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그가 지나가고 보니, 보라, 그가 없어졌다 — 내가 그를 찾았으나, 찾아지지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "그가 지나가고"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보니"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "보라 그가 없어졌다"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "내가 그를 찾았으나"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 아니"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "찾아지지 아니하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:27.139983050Z",
+  "model": "glm-5.2"
+}

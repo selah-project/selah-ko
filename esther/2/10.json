@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "에스더는 ⟨את⟩ 자기 백성과 ⟨את⟩ 자기 출신을 알리지 않았다. 모르드카이가 그녀에게 알리지 말라고 명령하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "알리지 않았다"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 백성"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "자기 백성"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "자기 출신"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "자기 출신"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드카이가"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하였다"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…라고"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "알리지"
+    }
+  ],
+  "timestamp": "2026-08-05T14:07:40.193758943Z",
+  "model": "glm-5.2"
+}

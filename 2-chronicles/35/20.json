@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 35:20",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "이 모든 것 후에, 요시야후가 ⟨את⟩ ⟨그⟩ 집을 준비하였을 때, 미츠라임 왕 네코가 프라트 강 가의 카르케미쉬에서 싸우려고 올라왔고, 요시야후가 그를 맞으러 나아갔다.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "…후에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…때"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "준비하였"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "요시야후가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라왔고"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "네코가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "싸우려고"
+    },
+    {
+      "surface": "בכרכמיש",
+      "gloss": "카르케미쉬에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "…가의"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "프라트"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "그를 맞으러"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "요시야후가"
+    }
+  ],
+  "timestamp": "2026-08-05T18:32:38.804020083Z",
+  "model": "glm-5.2"
+}

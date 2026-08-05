@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "야훼의 말씀으로 하늘이 지어졌고, 그 입의 루아흐로 모든 그것들의 천군이 만들어졌다.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "말씀으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘이"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "지어졌고"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "그리고 루아흐로"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "그 입의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "그것들의 천군이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:43.173906289Z",
+  "model": "glm-5.2"
+}

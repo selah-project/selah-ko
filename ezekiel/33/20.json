@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 그대들은 말한다. \"아도나이의 길은 공평하게 잴 수 없다\" — 사람마다 그 길들에 따라 내가 ⟨את⟩ 그대들을 심판하리라, ⟨이스라엘의⟩ 집이여.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "그리고 그대들은 말한다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "공평하게 잴 수 있다"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길은"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이의"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람마다"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "그 길들에 따라"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "내가 심판하리라"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "그대들을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨이스라엘의⟩ 집이여"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:58:01.773359618Z",
+  "model": "glm-5.2"
+}

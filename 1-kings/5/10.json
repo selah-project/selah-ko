@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "슐로모의 지혜가 모든 동방 사람들의 지혜보다, 그리고 모든 미츠라임의 지혜보다 뛰어났다.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "뛰어났다"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "지혜가"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모의"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "~보다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בני",
+      "gloss": "사람들의"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "동방"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "그리고 모든 ~보다"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "지혜"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:06.711105644Z",
+  "model": "glm-5.2"
+}

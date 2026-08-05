@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "의로운 자들에게 불의한 사람은 가증한 것이요, 악인에게 그 길이 곧은 자는 가증한 것이다.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "가증한 것은"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들에게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "עול",
+      "gloss": "불의한"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "그리고 가증한 것은"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인에게"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "곧은"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "그 길이"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:53.288560745Z",
+  "model": "glm-5.2"
+}

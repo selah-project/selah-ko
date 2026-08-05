@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "요셉이 그들에게 꾸었던 ⟨את⟩ 꿈들을 기억하고, 그들에게 말씀하였다. \"너희는 정탐군이다. 이 땅의 벌거벗은 것을 보려고 너희가 왔다.\"",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "기억하고"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "꿈들을"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "꿈들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—한"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "꾸었던"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "정탐군"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희는"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "벌거벗은 것을"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "벌거벗은 것"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "이 땅의"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "너희가 왔다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:09.227790520Z",
+  "model": "glm-5.2"
+}

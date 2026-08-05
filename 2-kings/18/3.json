@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 그는 야훼의 눈에 바른것을 행하였다, 그의 조상 다윗이 행한 모든 것에 따라.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 그는 …을 행하였다"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "그 바른것"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…의 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것에 따라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행한"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 조상"
+    }
+  ],
+  "timestamp": "2026-08-05T10:02:43.374766048Z",
+  "model": "glm-5.2"
+}

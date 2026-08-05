@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 내가 너를 꺼 버릴 때 하늘을 덮고, ⟨את⟩ 그 별들을 어둡게 하리라. 해를 구름으로 덮고, 달은 그 빛을 비추지 못하리라.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "그리고 내가 … 덮으리라"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "너를 꺼 버릴 때"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘을"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "그리고 내가 … 어둡게 하리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 별들을"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "그 별들을"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "해를"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "구름으로"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "덮으리라"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "그리고 달은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하리라"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "비추지"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "그 빛을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:58:30.583590619Z",
+  "model": "glm-5.2"
+}

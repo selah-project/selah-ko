@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 81,
+  "translation": "쇼파르를 불어라, 보름달 ⟨때⟩에, 우리의 절기 날에, ⟨정한⟩ 달에.",
+  "tokens": [
+    {
+      "surface": "תִקְע֣וּ",
+      "gloss": "불어라"
+    },
+    {
+      "surface": "בַחֹ֣דֶשׁ",
+      "gloss": "달에"
+    },
+    {
+      "surface": "שׁוֹפָ֑ר",
+      "gloss": "쇼파르를"
+    },
+    {
+      "surface": "בַּכֵּ֗סֶה",
+      "gloss": "보름달에"
+    },
+    {
+      "surface": "לְי֣וֹם",
+      "gloss": "날에"
+    },
+    {
+      "surface": "חַגֵּֽנוּ",
+      "gloss": "우리의 절기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:20.842907808Z",
+  "model": "glm-5.2"
+}

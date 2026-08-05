@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 4:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 그녀가 죽을 즈음에, 그녀 곁에 서 있던 여인들이 그녀에게 말하였다. \"두려워하지 말라, 아들을 낳았기 때문이다.\" 그러나 그녀는 대답하지도, 마음을 두지도 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וכעת",
+      "gloss": "그리고 ∙∙∙ 즈음에"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "그녀가 죽을"
+    },
+    {
+      "surface": "ותדברנה",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנצבות",
+      "gloss": "서 있던 여인들이"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그녀 곁에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "낳았기"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지도"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "대답하지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "마음을 두지"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "마음을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:51.276433491Z",
+  "model": "glm-5.2"
+}

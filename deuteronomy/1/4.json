@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 ⟨את⟩ 헤스본에 거주하던 아모리 왕 시혼을 치신 후, 그리고 ⟨את⟩ 아스타롯에 있는 에드레이에 거주하던 바산 왕 옥을 치신 후였다.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "치신"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "시혼"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "시혼"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "거주하던"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "헤스본에"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "옥"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "옥"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "바산"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "거주하던"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "아스타롯에"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "에드레이에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:57.511776883Z",
+  "model": "glm-5.2"
+}

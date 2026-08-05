@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그들이 들어왔을 때, 그가 ⟨את⟩ 엘리아브를 보고 말하였다. \"참으로 야훼 앞에 ⟨그의⟩ 기름부음받은 이가 서 있구나.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리하여 …이었다"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "그들이 들어왔을 때"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "그가 보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘리아브"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "엘리아브를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אך",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "그의 기름부음받은 이가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:04.634393053Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그리고 시므온의 아들들: 예무엘과 야민과 오후드와 야킨과 초하르와, ⟨그⟩ 가나안 여인의 아들 샤울.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 …의 아들들"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "시므온"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "예무엘"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "그리고 야민"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "그리고 오후드"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "그리고 야킨"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "그리고 초하르"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "그리고 샤울"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "가나안 여인"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:43.774741676Z",
+  "model": "glm-5.2"
+}

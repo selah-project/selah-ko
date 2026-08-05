@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "선하게 행하는 것을 배우라, 정의를 구하라, 억눌린 자를 바로잡아 주라, 고아를 위해 심판하라, 과부를 위해 변호하라.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "배우라"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "선하게 행하는 것을"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "구하라"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "정의를"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "바로잡아 주라"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "억눌린 자를"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "심판하라"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "고아를 위해"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "변호하라"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "과부를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T18:14:44.474437442Z",
+  "model": "glm-5.2"
+}

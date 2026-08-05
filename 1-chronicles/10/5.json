@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그의 무기背负者가 샤울이 죽은 것을 보고, 그도 칼 위에 엎드려 죽었다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보매"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "무기背负者가"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "그의 기구를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽은 것을"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "엎드렸다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "그 칼"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:33.804433782Z",
+  "model": "glm-5.2"
+}

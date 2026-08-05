@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "지휘자를 위하여, 백합꽃들에 맞추어, 코라흐 아들들을 위한 마쉬킬, 사랑의 노래.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자를 위하여"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에 맞추어"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "백합꽃들"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "~의 아들들을 위한"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "마쉬킬"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "사랑의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:06.023235261Z",
+  "model": "glm-5.2"
+}

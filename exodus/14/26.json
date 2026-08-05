@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 야훼께서 모셰에게 말씀하셨다. \"⟨את⟩ 네 손을 바다 위로 내밀어라, 그리고 물들이 미츠라임 위로, 그의 병거 위로, 그리고 그의 기병들 위로 돌아오게 하라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "내밀어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 손을"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "네 손"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "그리고 돌아오게 하라"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "그의 병거"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위로"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "그의 기병들"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:21.935863764Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 90,
+  "translation": "당신은 사람을 부스러기로 돌려보내시며, 말씀하신다. \"돌아오라, 아담의 아들들아.\"",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "돌려보내신다"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "부스러기"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 말씀하신다"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "돌아오라"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들아"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "아담의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:33.846664309Z",
+  "model": "glm-5.2"
+}

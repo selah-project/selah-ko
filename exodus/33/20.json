@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그분께서 말씀하셨다. \"너는 ⟨את⟩ 내 얼굴을 볼 수 없다. 사람이 나를 보고 살아남지 못하기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "너는 할 수 있다"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "볼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 얼굴"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "보고"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "살아남지 못한다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:06:05.623403374Z",
+  "model": "glm-5.2"
+}

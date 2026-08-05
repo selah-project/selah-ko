@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "다윗이 그의 조상들과 함께 누웠고, 다윗 성에 묻혔다.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "그리고 누웠고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "그의 조상들"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "그리고 묻혔다"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성에"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    }
+  ],
+  "timestamp": "2026-08-05T09:45:34.082406124Z",
+  "model": "glm-5.2"
+}

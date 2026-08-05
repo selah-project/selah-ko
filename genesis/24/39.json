@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "내가 내 주인에게 말하였다. \"어쩌면 그 여인이 나를 따라오지 않을까 ⟨합니다⟩.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주인에게"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "어쩌면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "따라오지"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여인이"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:23.615646505Z",
+  "model": "glm-5.2"
+}

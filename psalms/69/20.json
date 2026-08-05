@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "당신은 나의 능욕과 나의 수치와 나의 욕됨을 아시나이다. 나의 대적들이 다 당신 앞에 있나이다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아시나이다"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "나의 능욕을"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "나의 수치와"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "나의 욕됨을"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "당신 앞에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "다"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "나의 대적들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:11.915073512Z",
+  "model": "glm-5.2"
+}

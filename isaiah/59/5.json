@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "독사의 알을 깨뜨리고 거미줄을 짠다. 그들의 알을 먹는 자는 죽고, 깨뜨린 것에서는 독사가 터져 나온다.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "알"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "독사"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "깨뜨리다"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "거미줄"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "거미"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "짜다"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "먹는 자"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "그들의 알에서"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽는다"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "깨뜨린 것"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "터지다"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "독사"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:37.370019420Z",
+  "model": "glm-5.2"
+}

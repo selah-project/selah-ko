@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "온 이스라엘이 단에서부터 브에르 셰바까지 알았다. 셰무엘이 야훼를 위한 나비로 신실하게 세워졌음을.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "알았다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "단에서부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "באר",
+      "gloss": "브에르"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    },
+    {
+      "surface": "כי",
+      "gloss": "를"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "신실하게 세워졌음을"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셰무엘이"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "나비로"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 위한"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:11.391129488Z",
+  "model": "glm-5.2"
+}

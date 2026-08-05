@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨그분께서⟩ 이 일에 관하여 다른 엘로힘들을 따라가지 않도록 그에게 명령하셨음에도, 그는 야훼께서 명령하신 ⟨את⟩ 것을 지키지 않았다.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "명령하셨음에도"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "～에 관하여"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "～않도록"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "따라가지"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "～을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘들을"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지키지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～것"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:14.397152094Z",
+  "model": "glm-5.2"
+}

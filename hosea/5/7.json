@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "야훼께背叛하였다. 그들이 낯선 자식들을 낳았기 때문이다. 이제 ⟨그⟩ 초하루가 ⟨את⟩ 그들의 몫을 삼킬 것이다.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "背叛하였다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "자식들을"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "낯선"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "낳았기"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "삼킬"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "초하루가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 몫"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "그들의 몫을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:32.830324458Z",
+  "model": "glm-5.2"
+}

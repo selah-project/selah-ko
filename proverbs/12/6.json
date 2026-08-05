@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "악한 자들의 말은 피를 엿보는 매복이고, 곧은 자들의 입은 ⟨그들을⟩ 건져낸다.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "말은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악한 자들의"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "매복이고"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "그리고 입은"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "곧은 자들의"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "그들을 건져낸다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:03.621192291Z",
+  "model": "glm-5.2"
+}

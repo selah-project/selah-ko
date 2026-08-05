@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "재앙의 왕좌가 당신과 짝할 수 있으리이까 — 규례 위에 고난을 빚어내는 것인가?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "당신과 짝할 수 있으리이까"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "왕좌가"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "재앙의"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "빚어내는 것인가"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "고난을"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위에"
+    },
+    {
+      "surface": "חק",
+      "gloss": "규례"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:45.483757786Z",
+  "model": "glm-5.2"
+}

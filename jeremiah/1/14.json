@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼가 내게 이르셨다. \"북쪽에서 재앙이 이 땅의 모든 거주민 위에 열릴 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "이르셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "북쪽에서"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "열릴 것이다"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "재앙이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주민"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "이 땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:56:47.656633888Z",
+  "model": "glm-5.2"
+}

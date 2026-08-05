@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "거기서 그들이 구드고다로 떠나 행진하였고, 구드고다에서 요트바타로, 물의 시내들의 땅으로 ⟨갔다⟩.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "그들이 떠나 행진하였고"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "구드고다로"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 에서"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "구드고다"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "요트바타로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "시내들의"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:15.576711522Z",
+  "model": "glm-5.2"
+}

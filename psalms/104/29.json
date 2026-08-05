@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "주의 얼굴을 숨기시면 ⟨그들이⟩ 당황하고, 주께서 ⟨그들의⟩ 루아흐를 거두시면 ⟨그들이⟩ 숨을 거두고, ⟨그들의⟩ 먼지로 돌아가나이다.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "숨기시면"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "주의 얼굴을"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "당황하고"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "거두시면"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "그들의 루아흐를"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "숨을 거두고"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "그들의 먼지"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "돌아가나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:01.889270100Z",
+  "model": "glm-5.2"
+}

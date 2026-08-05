@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내 아들아, 내 말을 지키고, 내 계명들을 너와 함께 간직하라.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "내 아들아"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "내 말을"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "내 계명들을"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "간직하라"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:21.828166633Z",
+  "model": "glm-5.2"
+}

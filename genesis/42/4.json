@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그러나 요셉의 아우 베냐민은, 야곱이 그의 형들과 함께 보내지 아니하였으니, 이는 그가 말하기를 \"재앙이 그를 만날까 하노라\" 하였음이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "베냐민을"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "베냐민"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "아우"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 형들과"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형들"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "만날까"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "재앙이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:37.615749206Z",
+  "model": "glm-5.2"
+}

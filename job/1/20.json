@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리하여 욥이 일어나 겉옷을 찢고 머리털을 밀며 땅에 엎드려 엎드렸다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "그리하여 일어나"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "욥이"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "그리고 찢고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "겉옷을"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "그의 겉옷을"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "그리고 밀며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "머리털을"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "그의 머리털을"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "그리고 엎드려"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "엎드렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:22.277574Z",
+  "model": "glm-5.2"
+}

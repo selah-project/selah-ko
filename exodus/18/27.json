@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "모셰가 ⟨את⟩ 그의 장인을 보내매, 그가 자기 땅으로 길을 떠났다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내매"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 장인을"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "그의 장인"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "길을 떠났다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "자기 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T07:55:13.156707483Z",
+  "model": "glm-5.2"
+}

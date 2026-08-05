@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "나는 재를 빵처럼 먹었고, 나의 마신 것을 울음과 섞었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "재를"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "빵처럼"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "나는 먹었고"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "나의 마신 것을"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "울음과"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "섞었"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:29.823169231Z",
+  "model": "glm-5.2"
+}

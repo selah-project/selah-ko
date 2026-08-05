@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 53,
+  "translation": "엘로힘이 하늘에서 ⟨아드님⟩ 사람 자손들 위로 내려다보셨다, 깨닫는 자가 있는지, ⟨את⟩ 엘로힘을 찾는 자가 있는지 보시려 하셨다.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "하늘에서"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "내려다보셨다"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위로"
+    },
+    {
+      "surface": "בני",
+      "gloss": "~자손들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보시려 하셨다"
+    },
+    {
+      "surface": "היש",
+      "gloss": "있는지"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "깨닫는 자가"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "찾는 자가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:00.119064172Z",
+  "model": "glm-5.2"
+}

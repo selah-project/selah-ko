@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "문에 앉은 자들이 나를 두고 수군거리고, 독주 마시는 자들이 ⟨나를⟩ 노래한다.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "수군거리고"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를 두고"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "앉은 자들이"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문에"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "노래한다"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "마시는 자들이"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "독주"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:55.589801331Z",
+  "model": "glm-5.2"
+}

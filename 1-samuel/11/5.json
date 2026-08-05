@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "보라, 샤울이 소 뒤에서 밭에서 오고 있었다. 샤울이 “이 백성에게 무슨 일이 있기에 우는가” 하고 물으니, 그들이 ⟨그⟩ 야베쉬 사람들의 말을 ⟨את⟩ 그에게 말해 주었다.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오고 있었다"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤에서"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "소"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "밭"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "물으니"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무슨 일"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "이 백성에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "하기에"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "우는가"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "말해 주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야베쉬 사람들의 말"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들의"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "야베쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T19:29:08.496096310Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 미쉬칸을 세운 날에, 구름이 ⟨את⟩ ⟨그⟩ 증거의 장막 ⟨위⟩의 ⟨את⟩ 미쉬칸을 덮었다. 그리고 저녁에는 불의 모양 같은 것이 아침까지 미쉬칸 ⟨위⟩에 있었다.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "그리고 그 날에"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "세운"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미쉬칸을"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "미쉬칸"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "구름이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미쉬칸을"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "미쉬칸"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "장막에"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "증거의"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "그리고 저녁에는"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "미쉬칸"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "모양 같은 것이"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:22.296396063Z",
+  "model": "glm-5.2"
+}

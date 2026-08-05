@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "쉐칸야의 아들들 중에서, 파로쉬의 아들들 중에서 즈카르야; 그와 함께 족보에 오른 남자가 백 오십 명이다.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "아들들 중에서"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "쉐칸야의"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "아들들 중에서"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "파로쉬의"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "즈카르야"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "족보에 오른"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "오십"
+    }
+  ],
+  "timestamp": "2026-08-05T12:33:30.445578360Z",
+  "model": "glm-5.2"
+}

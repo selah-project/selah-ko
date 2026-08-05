@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "야훼께 ⟨그분의⟩ 헤세드를 고백하라, ⟨그리고⟩ ⟨그분의⟩ 놀라운 일들을 사람의 아들들 ⟨에게⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "고백하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨그분의⟩ 헤세드를"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "⟨그리고⟩ ⟨그분의⟩ 놀라운 일들을"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들 ⟨에게⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:48.509918762Z",
+  "model": "glm-5.2"
+}

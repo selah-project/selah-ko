@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "이 일로 인해 엘로힘의 눈에 악하게 여겨졌고, 그가 ⟨את⟩ 이스라엘을 치셨다.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "악하게 여겨졌고"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "על",
+      "gloss": "로 인해"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "치셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:58.405145962Z",
+  "model": "glm-5.2"
+}

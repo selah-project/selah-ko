@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 이렇게 될 것이다 — 그가 네게 말하면, '나는 네게서 나가지 않겠다'고, 너와 ⟨את⟩ 네 집을 사랑하기 때문에, 그가 너와 함께하기에 좋으므로.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ⟨그것이⟩ 일어날"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…할 때에"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "그가 말하면"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "내가 나가"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "네게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "너를 사랑"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "네 집을"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "네 집"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋으므로"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:26.199272905Z",
+  "model": "glm-5.2"
+}

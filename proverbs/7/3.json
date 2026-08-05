@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그것들을 네 손가락에 매고, 그것들을 네 마음의 판에 새겨라.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "그것들을 매고"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "네 손가락"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "그것들을 새겨라"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "판"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:21.828467051Z",
+  "model": "glm-5.2"
+}

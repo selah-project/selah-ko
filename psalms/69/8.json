@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "당신으로 말미암아 내가 능욕을 짊어졌기 때문입니다. 수치가 내 얼굴을 덮었나이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—기 때문입니다"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "당신으로 말미암아"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "내가 짊어졌나이다"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "능욕을"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "덮었나이다"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "수치가"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:53.137121360Z",
+  "model": "glm-5.2"
+}

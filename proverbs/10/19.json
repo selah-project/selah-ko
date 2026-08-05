@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "말이 많은 ⟨곳에⟩ 허물이 그치지 않고, ⟨그의⟩ 입술을 절제하는 ⟨자는⟩ 명철한 ⟨자이다⟩.",
+  "tokens": [
+    {
+      "surface": "בְּרֹב",
+      "gloss": "많은(곳에)"
+    },
+    {
+      "surface": "דְּבָרִים",
+      "gloss": "말이"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니하는(그치지)"
+    },
+    {
+      "surface": "יֶחְדַּל",
+      "gloss": "그치는"
+    },
+    {
+      "surface": "פָּשַׁע",
+      "gloss": "허물이"
+    },
+    {
+      "surface": "וְחֹשֵׂךְ",
+      "gloss": "그리고 절제하는"
+    },
+    {
+      "surface": "שְׂפָתָיו",
+      "gloss": "⟨그의⟩ 입술을"
+    },
+    {
+      "surface": "מַשְׂכִּיל",
+      "gloss": "명철한(자)"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:03.977723762Z",
+  "model": "glm-5.2"
+}

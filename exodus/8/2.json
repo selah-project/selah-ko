@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "아하론이 ⟨그의⟩ 손을 미츠라임의 물 위에 펴니, 개구리가 올라와 미츠라임 땅을 덮었다.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "펴니"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 손을"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "손을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "물"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "올라와"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "개구리가"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:56.137571484Z",
+  "model": "glm-5.2"
+}

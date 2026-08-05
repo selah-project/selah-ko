@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "어디로 가리이까, 당신의 루아흐에게서? 그리고 어디로 당신의 면전에서 도망하리이까?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "어디로"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "가리이까"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "당신의 루아흐에게서"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "그리고 어디로"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "당신의 면전에서"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "도망하리이까"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:31.795208398Z",
+  "model": "glm-5.2"
+}

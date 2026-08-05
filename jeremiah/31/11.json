@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "키 야훼께서 ⟨את⟩ 야곱을 속량하셨고, 그를 그보다 강한 자의 손에서 구속하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "키"
+    },
+    {
+      "surface": "פָדָ֥ה",
+      "gloss": "속량하셨고"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "야곱"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "וּגְאָל֕וֹ",
+      "gloss": "그를 구속하셨고"
+    },
+    {
+      "surface": "מִיַּ֖ד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "חָזָ֥ק",
+      "gloss": "강한 자"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "그보다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:20:04.518515926Z",
+  "model": "glm-5.2"
+}

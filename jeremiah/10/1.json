@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "들으라, ⟨야훼께서⟩ 너희에게 ⟨이르신⟩ ⟨את⟩ 그 말씀을, 이스라엘 집아.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 말씀을"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 말씀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…⟨이르신⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:30:24.406828525Z",
+  "model": "glm-5.2"
+}

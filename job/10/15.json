@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "내가 악을 행하였으면, 나에게 화일 것이다. 그리고 내가 의롭다 해도, 내가 내 머리를 들지 못한다. 수치에 배부르고, 그리고 내 비천을 보신다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "…하였으면"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "내가 악을 행하였으면"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "오, 나에게"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "그리고 내가 의롭다 해도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "내가 들지"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "내 머리를"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "배부르고"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "수치에"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "그리고 보신다"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "내 비천을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:14.479568027Z",
+  "model": "glm-5.2"
+}

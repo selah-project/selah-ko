@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 25:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "내가 그들에게서 기쁨의 소리와 즐거움의 소리, 신랑의 소리와 신부의 소리, 맷돌의 소리와 등불의 빛을 없애리라.",
+  "tokens": [
+    {
+      "surface": "וְהַאֲבַדְתִּ֣י",
+      "gloss": "내가 없애리라"
+    },
+    {
+      "surface": "מֵהֶ֗ם",
+      "gloss": "그들에게서"
+    },
+    {
+      "surface": "ק֤וֹל",
+      "gloss": "소리"
+    },
+    {
+      "surface": "שָׂשׂוֹן֙",
+      "gloss": "기쁨의"
+    },
+    {
+      "surface": "וְק֣וֹל",
+      "gloss": "그리고 소리"
+    },
+    {
+      "surface": "שִׂמְחָ֔ה",
+      "gloss": "즐거움의"
+    },
+    {
+      "surface": "ק֥וֹל",
+      "gloss": "소리"
+    },
+    {
+      "surface": "חָתָ֖ן",
+      "gloss": "신랑의"
+    },
+    {
+      "surface": "וְק֣וֹל",
+      "gloss": "그리고 소리"
+    },
+    {
+      "surface": "כַּלָּ֑ה",
+      "gloss": "신부의"
+    },
+    {
+      "surface": "ק֥וֹל",
+      "gloss": "소리"
+    },
+    {
+      "surface": "רֵחַ֖יִם",
+      "gloss": "맷돌의"
+    },
+    {
+      "surface": "וְא֥וֹר",
+      "gloss": "그리고 빛"
+    },
+    {
+      "surface": "נֵֽר",
+      "gloss": "등불의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:35:02.160017718Z",
+  "model": "glm-5.2"
+}

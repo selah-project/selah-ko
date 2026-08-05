@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 9:22",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼께서 이같이 말씀하신다. 지혜로운 자는 자기 지혜에서 자랑하지 말 것이요, 용사는 자기 용맹에서 자랑하지 말 것이요, 부자는 자기 재물에서 자랑하지 말 것이다.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말 것이다"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "자랑하지"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운 자는"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "자기 지혜에서"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "말 것이다"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "자랑하지"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "용사는"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "자기 용맹에서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말 것이다"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "자랑하지"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "부자는"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "자기 재물에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:29:59.815628669Z",
+  "model": "glm-5.2"
+}

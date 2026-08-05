@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그들이 ⟨את⟩ 그들의 가축과 ⟨את⟩ 그들의 재산을, 곧 그들이 가나안 땅에서 모은 것을 취하였다. 야곱과 그의 모든 씨가 그와 함께 미츠라임으로 들어갔다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "취하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 가축"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "그들의 가축"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 재산"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "그들의 재산을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "모은"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "미츠라임으로"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그의 모든"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "씨가"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:27.595038317Z",
+  "model": "glm-5.2"
+}

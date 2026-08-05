@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 모셰가 이스라엘 자손에게 말하여 ⟨את⟩ 파스카를 지키라고 하였다.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "지키라고"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "파스카"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:11.945295101Z",
+  "model": "glm-5.2"
+}

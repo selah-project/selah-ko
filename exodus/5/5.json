@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "파르오가 말하였다. \"보라, 이제 그 땅의 백성이 많은데, 너희가 ⟨את⟩ 그들의 무거운 짐에서 ⟨그들⟩을 쉬게 하는구나.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은데"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "쉬게 하는구나"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 무거운 짐에서 그들"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "그들의 무거운 짐에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:47:10.582294689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 2:18",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "보라, 우리가 그 땅에 들어갈 때에, 그대가 우리를 내려보낸 창문에 이 붉은 줄을 매고, ⟨את⟩ 그대의 아버지와 ⟨את⟩ 그대의 어머니와 ⟨את⟩ 그대의 형제들과 ⟨את⟩ 그대의 아버지의 온 집안을 그대에게로, 집 안에 모으십시오.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "באים",
+      "gloss": "들어갈 때에"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "그 땅에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 붉은 줄을"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "줄을"
+    },
+    {
+      "surface": "חוט",
+      "gloss": "실"
+    },
+    {
+      "surface": "השני",
+      "gloss": "붉은"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "תקשרי",
+      "gloss": "매십시오"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "창문에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "הורדתנו",
+      "gloss": "우리를 내려보내셨다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것을 통해"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그대의 아버지를"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "그대의 아버지를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그대의 어머니를"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "그대의 어머니를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그대의 형제들을"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "그대의 형제들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "온 집안을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집안을"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "그대의 아버지의"
+    },
+    {
+      "surface": "תאספי",
+      "gloss": "모으십시오"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "그대에게로"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "집 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:54.579577121Z",
+  "model": "glm-5.2"
+}

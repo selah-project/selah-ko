@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그가 ⟨그⟩에게서 돌아서서 다른 사람 앞으로 가며 이 말처럼 말하자, 백성이 ⟨그⟩에게 말을 되돌려 주었으니 첫 번째 말과 같았다.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "돌아서서"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "⟨그⟩에게서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨…⟩"
+    },
+    {
+      "surface": "מול",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른 ⟨사람⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하자"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말처럼"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "되돌려 주었다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말을"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말과"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫 번째"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:19.008940546Z",
+  "model": "glm-5.2"
+}

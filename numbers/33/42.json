@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그들이 찌알모나에서 떠나올라, 푸념에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "그들이 떠나올라"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "찌알모나에서"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "그들이 진을 쳤다"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "푸념에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:47:31.455203965Z",
+  "model": "glm-5.2"
+}

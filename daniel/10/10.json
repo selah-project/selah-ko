@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 보라, 한 손이 나를 만졌고, 그것이 나를 내 무릎들과 내 손들의 손바닥들 위에 흔들어 놓았다.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손이"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "만졌고"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "그것이 나를 흔들어 놓았다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "내 무릎들"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "그리고 손바닥들"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:28:56.535490109Z",
+  "model": "glm-5.2"
+}

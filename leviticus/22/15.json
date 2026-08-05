@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 그들이 ⟨את⟩ 이스라엘 아들들의 거룩한 것들을 더럽히지 ⟨않을 것이다⟩ — ⟨את⟩ 그들이 야훼께 드리는 것을.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니다"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "그들이 더럽힐 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 아들들의 거룩한 것들"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "거룩한 것들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들이 야훼께 드리는 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "그들이 드리는"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:53.363704686Z",
+  "model": "glm-5.2"
+}

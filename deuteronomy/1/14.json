@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "너희가 나에게 대답하여 ⟨⟨아침의 일⟩⟩ 말하기를, 당신이 ⟨⟨말하신⟩⟩ 그 일은 행하 기에 좋으니이다 하였다.”",
+  "tokens": [
+    {
+      "surface": "וַֽתַּעֲנ֖וּ",
+      "gloss": "너희가 대답하여"
+    },
+    {
+      "surface": "אֹתִ֑י",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "וַתֹּ֣אמְר֔וּ",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "좋으니이다"
+    },
+    {
+      "surface": "הַדָּבָ֥ר",
+      "gloss": "그 일은"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "דִּבַּ֖רְתָּ",
+      "gloss": "말하신"
+    },
+    {
+      "surface": "לַעֲשֽׂוֹת",
+      "gloss": "행하기에"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:32.251892785Z",
+  "model": "glm-5.2"
+}

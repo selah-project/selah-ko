@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "나의 모든 반역에서 나를 건져 내소서. 너바른 자의 수치를 내게 지우지 마소서.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "나의 모든 …에서"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "반역"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "나를 건져 내소서"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "수치를"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "너바른 자의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "내게 지우지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:46.347635093Z",
+  "model": "glm-5.2"
+}

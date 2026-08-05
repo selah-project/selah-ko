@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "야훼께서 내 간구를 들으셨다, 야훼께서 내 기도를 받으실 것이다.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "들으셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "내 간구"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "내 기도"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "받으실 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:08.091195044Z",
+  "model": "glm-5.2"
+}

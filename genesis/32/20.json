@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 둘째에게도, ⟨את⟩ 셋째에게도, 또 ⟨את⟩ 떼들 뒤에 걷는 모든 이에게도 명령하시어 이르기를: \"너희가 ⟨את⟩ 그를 만날 때 에사브에게 이와 같이 말하여라.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 명령하셨다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "둘째에게"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셋째에게"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "셋째"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 이에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "걷는 자들"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "떼들"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "이 말처럼"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "너희는 말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "너희가 만날 때"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:12.794527700Z",
+  "model": "glm-5.2"
+}

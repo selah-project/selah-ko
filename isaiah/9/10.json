@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리하여 야훼께서 ⟨את⟩ 르찐의 대적들을 높이셨고, ⟨את⟩ 그의 원수들을 그에게 몰아넣으셨다.",
+  "tokens": [
+    {
+      "surface": "ושגב",
+      "gloss": "높이셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "르찐의 대적들을"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "대적들을"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "르찐의"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 원수들을"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "그의 원수들을"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "몰아넣으셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:23.179899359Z",
+  "model": "glm-5.2"
+}

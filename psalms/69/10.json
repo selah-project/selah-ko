@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "대저 ⟨그대⟩ 집에 대한 열심이 나를 삼키고, ⟨그대⟩를 모욕하는 자들의 모욕이 내 위에 떨어졌기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "열심이"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "집에 대한"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "나를 삼키고"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "모욕이"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "모욕하는 자들의"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "떨어졌기 때문이다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:52.584202299Z",
+  "model": "glm-5.2"
+}

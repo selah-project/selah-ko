@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "너희는 내가 너희 앞에서 쫓아내는 그 민족의 규례들 안에서 걷지 말라. 그들이 ⟨את⟩ 이 모든 것들을 행하였기 때문에, 내가 그들을 싫어하였다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "너희는 … 말라"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "걷지"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "규례들 안에서"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "그 민족의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "쫓아내는"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "너희 앞에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 것들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이 것들을"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행하였기"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "내가 싫어하였다"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:49.507065026Z",
+  "model": "glm-5.2"
+}

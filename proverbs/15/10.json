@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "길을 버리는 자에게 징계는 악⟨이⟩요, 책망을 미워하는 자는 죽을 것이다.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "징계"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "버리는 자에게"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "길"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "미워하는 자"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "책망을"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:32.459189030Z",
+  "model": "glm-5.2"
+}

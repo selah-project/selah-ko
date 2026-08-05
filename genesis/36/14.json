@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 이것들이 오홀리바마의 아들들이었다 — 아나의 딸, 치본의 딸, 에사우의 아내 — 그녀가 에사우에게 낳은 자는 ⟨את⟩ 여이쉬와 ⟨את⟩ 야알람과 ⟨את⟩ 코라흐였다.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것들이"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨있었다⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이었다"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "오홀리바마의"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸,"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "아나의"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸,"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "치본의"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사우의"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "그녀가 낳은 자는"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "에사우에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여이쉬"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "여이쉬와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "야알람"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "야알람과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "코라흐"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐였다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:40.399785601Z",
+  "model": "glm-5.2"
+}

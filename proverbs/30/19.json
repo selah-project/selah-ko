@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "독수리의 길 — 하늘에 있는 것, 뱀의 길 — 바위 위에 있는 것, 배의 길 — 바다 한가운데 있는 것, 그리고 남자의 길 — 알마에 있는 것.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "독수리의"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "하늘에"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "뱀의"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위에"
+    },
+    {
+      "surface": "צור",
+      "gloss": "바위"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "배의"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "그리고 길"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "남자의"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "알마에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:36.482708105Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 하므의 아들들은 쿠쉬와 미츠라임과 푸트와 가나안이다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 …의 아들들은"
+    },
+    {
+      "surface": "חם",
+      "gloss": "함"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "쿠쉬"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "그리고 미츠라임"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "그리고 푸트"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "그리고 가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:20.821892986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 슐로모가 예루샬라임에서 온 이스라엘 위에 왕으로 다스렸다 — 사십 년 ⟨동안⟩.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "그리고 다스렸다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모가"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:19.091460870Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 다윗이 여호나탄에게 말하였다. \"누가 내게 알리겠는가? 혹 당신 아버지가 당신에게 거칠게 대답하면 ⟨어찌하리이까⟩?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "알리겠는가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "대답하면"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "당신 아버지가"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "거칠게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:49.921214833Z",
+  "model": "glm-5.2"
+}

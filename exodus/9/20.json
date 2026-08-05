@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "파르오의 종들 중 야훼의 말씀을 경외하는 자는 ⟨그⟩ 종들과 ⟨그⟩ 가축을 ⟨את⟩ 집들로 피신시켰다.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "경외하는 자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말씀을"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "종들 중"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "피신시켰다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "종들을"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "종들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "및 ⟨את⟩",
+      "marks": "가축을"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "가축"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...로"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "집들"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:38.925320152Z",
+  "model": "glm-5.2"
+}

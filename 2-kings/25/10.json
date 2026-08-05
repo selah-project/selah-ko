@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 예루샬라임 사면의 성벽을 — 칼데아인의 온 군대가, 곧 도살장 장관에게 속한 자들이 — 헐어버렸다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "성벽"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "사면의"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "헐어버렸다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "군대"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "칼데아인"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "רב",
+      "gloss": "장관"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "도살장"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:20.493795071Z",
+  "model": "glm-5.2"
+}

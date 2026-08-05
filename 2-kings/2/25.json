@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 ⟨그는⟩ 거기서 카르멜 산으로 갔고, 거기서 샤울론으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그리고 ⟨그는⟩ 갔다"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "카르멜"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "그리고 거기서"
+    },
+    {
+      "surface": "שב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "샤울론"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:41.074394068Z",
+  "model": "glm-5.2"
+}

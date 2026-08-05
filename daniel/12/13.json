@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 너는 ⟨끝까지⟩ 가라, 그러면 너는 쉬고, 날들의 끝에 너의 몫을 향해 설 것이다.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너는"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "끝까지"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "그리고 너는 쉴 것이다"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "그리고 너는 설 것이다"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "너의 몫을 향해"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "끝에"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "날들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:29:18.175650803Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "나는 아브라함에게, 이츠하크에게, 그리고 야아코브에게 엘 샤다이로 나타났으나, 나의 이름 야훼로는 그들에게 알려지지 않았다.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "나는 나타났으나"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이츠하크"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 에게"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야아코브"
+    },
+    {
+      "surface": "באל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "엘 샤다이"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "나의 이름"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "알려지"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:08.426346888Z",
+  "model": "glm-5.2"
+}

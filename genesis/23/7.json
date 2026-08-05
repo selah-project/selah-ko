@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 아브라함이 일어나 그 땅의 백성에게, 헷의 아들들에게 절하였다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "그리고 일어나"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "절하였다"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "חת",
+      "gloss": "헷의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:57.497019580Z",
+  "model": "glm-5.2"
+}

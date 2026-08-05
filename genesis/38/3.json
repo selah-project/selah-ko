@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그녀가 임신하여 아들을 낳고, ⟨그⟩ 이름을 에르라 하였다.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "임신하여"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳고"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그 이름을"
+    },
+    {
+      "surface": "ער",
+      "gloss": "에르"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:48.662126326Z",
+  "model": "glm-5.2"
+}

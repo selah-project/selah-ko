@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 여호나탄의 아들은 메리브바알이고, 메리브바알은 ⟨את⟩ 미카를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "그리고 … 의 아들"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "메리브"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "바알"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "그리고 메리브"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "바알은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미카를"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "미카"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:45.749541655Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그녀들이 그녀에게 말하였다. \"아니, ⟨우리⟩는 당신과 함께 당신의 백성에게로 돌아가겠나이다.\"",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "그녀들이 말하였다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "당신과 함께"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "⟨우리⟩는 돌아가겠나이다"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "당신의 백성에게로"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:29.697412976Z",
+  "model": "glm-5.2"
+}

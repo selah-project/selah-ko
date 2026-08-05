@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 ⟨그가⟩ 말하였다 — “나의 반석, 나의 요새, 나의 피난처 ⟨이신⟩ 야훼.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "나의 반석"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "그리고 나의 요새"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "그리고 나의 피난처"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:48.131337288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "다윗이 말하였다. \"참으로 헛되이 내가 광야에서 ⟨이⟩ 자의 모든 것을 ⟨את⟩ 지켜주었고, 그에게 속한 모든 것 중에서 아무것도 잃어진 것이 없었는데, 그가 나에게 악으로 선을 갚았다.\"",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אך",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "헛되이"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "내가 지켜주었고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "이 자에게 속한"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니었다"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "잃어진 것이"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 것 중에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게 속한"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "아무것도"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그가 갚았다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악으로"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신하여"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "선을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:16.531816982Z",
+  "model": "glm-5.2"
+}

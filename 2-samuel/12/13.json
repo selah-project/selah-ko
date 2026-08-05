@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "다윗이 나탄에게 말하였다. \"내가 야훼께 죄를 지었습니다.\" 나탄이 다윗에게 말하였다. \"야훼께서도 ⟨그대의⟩ 죄를 옮기셨으니, ⟨그대는⟩ 죽지 않을 것입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "내가 죄를 지었습니다"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "옮기셨으니"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "죄를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "죽을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:18.384464669Z",
+  "model": "glm-5.2"
+}

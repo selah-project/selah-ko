@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "나의 마음이 내 안에서 요동하니, 사망의 두려움이 나 위에 떨어졌다.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "나의 마음이"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "요동하니"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "내 안에서"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "그리고 두려움이"
+    },
+    {
+      "surface": "מות",
+      "gloss": "사망의"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "떨어졌다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:00.780531210Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 15:25",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그가 엘을 향해 ⟨그의⟩ 손을 내밀었기 때문이며, 샤다이를 향해 거만하게 행동하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "때문이며"
+    },
+    {
+      "surface": "נָטָ֣ה",
+      "gloss": "내밀었"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "향해"
+    },
+    {
+      "surface": "אֵ֣ל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "יָד֑וֹ",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "그리고 향해"
+    },
+    {
+      "surface": "שַׁ֝דַּ֗י",
+      "gloss": "샤다이"
+    },
+    {
+      "surface": "יִתְגָּבָּֽר",
+      "gloss": "거만하게 행동하기"
+    }
+  ],
+  "timestamp": "2026-08-05T12:05:54.708172295Z",
+  "model": "glm-5.2"
+}

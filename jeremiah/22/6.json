@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 22:6",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "이는 야훼가 유다 왕의 집에 관하여 말씀하셨기 때문이다. \"너는 내게 길르암이요, 레바논의 머리이다. 만일 그리하지 아니하면 내가 너를 거처 없는 광야, 사람이 살지 않는 성읍들로 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "על",
+      "gloss": "관하여"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길르암"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "레바논"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשיתך",
+      "gloss": "내가 너를 만들 것이다"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "성읍들"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "거주되는"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:08.077630249Z",
+  "model": "glm-5.2"
+}

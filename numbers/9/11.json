@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "둘째 달, 열넷째 날, 두 저녁 사이에 그것을 지킬 것이다. 그들은 무교병과 쓴 나물과 함께 그것을 먹을 것이다.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "달"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "넷에"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "두 저녁"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "그들이 지킬 것이다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "על",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "무교병"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "쓴 나물"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "그들이 먹을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:32:41.033773695Z",
+  "model": "glm-5.2"
+}

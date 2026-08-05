@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "과부와 이혼당한 여자와 더럽혀진 자와 창녀 — ⟨이⟩ ⟨것들⟩을 취하지 않을 것이니, 오직 ⟨그⟩ 자기 백성 가운데서 처녀를 아내로 취하여야 한다.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "과부와"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "이혼당한 여자와"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "더럽혀진 자와"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "창녀를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이것들을"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이것들을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "취하지"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "않을 것이니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "처녀를"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "자기 백성 가운데서"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "취하여야 한다"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "아내로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:43.491314072Z",
+  "model": "glm-5.2"
+}

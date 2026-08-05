@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 37:34",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "야훼를 바라며 ⟨그의⟩ 길을 지키라, 그리하면 ⟨그가⟩ 너를 높이셔서 땅을 상속하게 하실 것이다 — 르샤임이 끊어질 때에 네가 ⟨그것을⟩ 볼 것이다.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "바라며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "그리고 지키라"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "그의 길을"
+    },
+    {
+      "surface": "וירוממך",
+      "gloss": "그리고 너를 높이셔서"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "상속하게 하실 것이다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "끊어질 때에"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "르샤임이"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "네가 볼 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:27.139665438Z",
+  "model": "glm-5.2"
+}

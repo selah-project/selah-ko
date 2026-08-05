@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼께서 ⟨그의⟩ 손을 내밀어 내 입에 대셨고, 야훼께서 내게 말씀하셨다. \"보라, 내가 내 말씀들을 네 입에 두었노라.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "내미셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 손을"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "대셨고"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "פי",
+      "gloss": "내 입"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 두었노라"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말씀들을"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "네 입에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:46.566483695Z",
+  "model": "glm-5.2"
+}

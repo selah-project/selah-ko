@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 이스라엘 아들들은 ⟨את⟩ ⟨그⟩ 샤밧을 지킬 것이니, 그들의 세대들에 따라 ⟨את⟩ ⟨그⟩ 샤밧을 지켜 영원한 브리트로 삼을 것이다.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "그리고 지킬 것이니"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨그⟩ 샤밧을"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨그⟩ 샤밧"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "지켜 삼을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨그⟩ 샤밧을"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨그⟩ 샤밧"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "그들의 세대들에 따라"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트로"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:40.609382121Z",
+  "model": "glm-5.2"
+}

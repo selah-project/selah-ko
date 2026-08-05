@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 ⟨그들에게⟩ ⟨את⟩ 그 성의 입구를 보여주매, 그들이 ⟨את⟩ 그 성을 칼의 입으로 쳤으나, ⟨את⟩ 그 사람과 ⟨את⟩ 그의 온 가족은 보내주었다.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "보여주매"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 성의 입구"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "입구"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성의"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "쳤으나"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 성"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성을"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "입으로"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 온 가족"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "가족"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "보내주었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:16.645808780Z",
+  "model": "glm-5.2"
+}

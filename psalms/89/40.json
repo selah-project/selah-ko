@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "당신은 당신의 종의 브리트를 저버리셨으며, 그의 왕관을 땅에 더럽히셨다.",
+  "tokens": [
+    {
+      "surface": "נֵ֭אַרְתָּה",
+      "gloss": "저버리셨으며"
+    },
+    {
+      "surface": "בְּרִ֣ית",
+      "gloss": "브리트를"
+    },
+    {
+      "surface": "עַבְדֶּ֑ךָ",
+      "gloss": "당신의 종의"
+    },
+    {
+      "surface": "חִלַּ֖לְתָּ",
+      "gloss": "더럽히셨다"
+    },
+    {
+      "surface": "לָאָ֣רֶץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "נִזְרֽוֹ",
+      "gloss": "그의 왕관을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:48.012058817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "모셰가 나가서 백성에게 야훼의 ⟨את⟩ 말씀을 전하였고, 백성의 장로 중 일흔 명을 모아 그들을 장막 둘레에 세웠다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나가서"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "전하였고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말씀을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "모아"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "일흔"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명을"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "장로 중"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "세웠다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "장막"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:59.281721730Z",
+  "model": "glm-5.2"
+}

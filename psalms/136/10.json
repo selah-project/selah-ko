@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "미츠라임을 그들의 맏아들로 ⟨치신 이에게⟩ — 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "치신 이에게"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임을"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "그들의 맏아들로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:54.173762289Z",
+  "model": "glm-5.2"
+}

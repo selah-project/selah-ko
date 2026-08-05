@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 힘을 이루어 ⟨את⟩ 아말렉을 치고, ⟨את⟩ 이스라엘을 그를 노략질하는 자들의 손에서 건져내었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 이루어"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "힘을"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "치고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아말렉을"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "아말렉"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "건져내었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "그를 노략질하는 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:08.340547455Z",
+  "model": "glm-5.2"
+}

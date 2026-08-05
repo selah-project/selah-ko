@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "주문하는 자, 영매에게 묻는 자, 박수, 죽은 자에게 묻는 자도 ⟨없어야 할지니라⟩.",
+  "tokens": [
+    {
+      "surface": "וְחֹבֵ֖ר",
+      "gloss": "주문하는 자,"
+    },
+    {
+      "surface": "חָ֑בֶר",
+      "gloss": "주문을"
+    },
+    {
+      "surface": "וְשֹׁאֵ֥ל",
+      "gloss": "묻는 자,"
+    },
+    {
+      "surface": "אוֹב֙",
+      "gloss": "영매에게"
+    },
+    {
+      "surface": "וְיִדְּעֹנִ֔י",
+      "gloss": "박수,"
+    },
+    {
+      "surface": "וְדֹרֵ֖שׁ",
+      "gloss": "묻는 자"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "הַמֵּתִֽים",
+      "gloss": "죽은"
+    }
+  ],
+  "timestamp": "2026-08-05T08:56:08.026829939Z",
+  "model": "glm-5.2"
+}

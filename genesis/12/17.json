@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 야훼께서 ⟨את⟩ 파르오를 큰 재앙들로 치셨고, ⟨그리고⟩ ⟨את⟩ 그의 집⟨도⟩ 사라이의 일 — 아브라함의 아내 — 로 말미암아 ⟨치셨다⟩.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "그리고 … 치셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "재앙들"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 집"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "על",
+      "gloss": "…로 말미암아"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사라이"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:06.502510914Z",
+  "model": "glm-5.2"
+}

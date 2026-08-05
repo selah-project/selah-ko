@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "네가 보느냐, 자기 눈에 지혜로운 사람을! 어리석은 자보다 그에게 더 ⟨적은⟩ 희망이 있다.",
+  "tokens": [
+    {
+      "surface": "רָאִ֗יתָ",
+      "gloss": "네가 보느냐"
+    },
+    {
+      "surface": "אִ֭ישׁ",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "חָכָ֣ם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "בְּעֵינָ֑יו",
+      "gloss": "자기 눈에"
+    },
+    {
+      "surface": "תִּקְוָ֖ה",
+      "gloss": "희망이"
+    },
+    {
+      "surface": "לִכְסִ֣יל",
+      "gloss": "어리석은 자에게"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "그보다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:26.052436965Z",
+  "model": "glm-5.2"
+}

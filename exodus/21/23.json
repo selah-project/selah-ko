@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그러나 만일 해가 있다면, 너는 네페쉬 대신 네페쉬를 내야 하리라.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만일"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "해"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있다면"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "너는 내야 하리라"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:45.760663768Z",
+  "model": "glm-5.2"
+}

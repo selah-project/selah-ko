@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 21:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "기브온 사람들이 그에게 말하였다. “샤울과 그의 집에는 우리에게 줄 은도 금도 없으며, 이스라엘 안에서 우리를 위해 죽일 사람도 없습니다.” 그가 말하였다. “너희가 말하는 것을 내가 너희를 위해 하겠다.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "기브온 사람들이"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은도"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "금도"
+    },
+    {
+      "surface": "עם",
+      "gloss": "～에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "그리고 ～에게"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 없다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "죽이기를"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘 안에서"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "～것을"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "말하는"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 하겠다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:15.002911396Z",
+  "model": "glm-5.2"
+}

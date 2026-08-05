@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 솔개와 ⟨את⟩ 매를 그것의 종류대로.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "솔개를"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "솔개"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "매를"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "매"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "그것의 종류대로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:07.819665766Z",
+  "model": "glm-5.2"
+}

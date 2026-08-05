@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그가 야훼께 부르짖으시고, 야훼께서 ⟨그⟩에게 나무를 보여 주셨다. 그가 그것을 그 물들에 던지자, 그 물들이 달아졌다. 거기서 ⟨그분⟩께서 그를 위하여 ⟨את⟩ 규례와 ⟨את⟩ 법도를 정하셨고, 거기서 그를 시험하셨다.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "그가 부르짖으시고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "보여 주셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무를"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "그가 던지자"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "המים",
+      "gloss": "그 물들"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "달아졌다"
+    },
+    {
+      "surface": "המים",
+      "gloss": "그 물들이"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "שם",
+      "gloss": "정하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를 위하여"
+    },
+    {
+      "surface": "חק",
+      "gloss": "규례"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "그리고 법도"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 거기서"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "그를 시험하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:12.704919282Z",
+  "model": "glm-5.2"
+}

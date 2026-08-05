@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 8:2",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그가 그들에게 말하였다. \"내가 지금 그대들과 비교하여 무엇을 행하였는가? 에프라임의 포도 줍기가 아비에제르의 포도 수확보다 낫지 아니한가?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "행하였는가"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "지금"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "그대들과 비교하여"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "아니한가"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "낫지"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "포도 줍기가"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임의"
+    },
+    {
+      "surface": "מבציר",
+      "gloss": "포도 수확보다"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "아비에제르의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:43:06.699792052Z",
+  "model": "glm-5.2"
+}

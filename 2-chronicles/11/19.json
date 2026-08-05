@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그가 그에게 아들들을 낳았으니 — ⟨את⟩ 여우스와 ⟨את⟩ 스마랴와 ⟨את⟩ 사함.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "낳았으니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여우스"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "여우스"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "스마랴"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "스마랴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "사함"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "사함"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:35.379842792Z",
+  "model": "glm-5.2"
+}

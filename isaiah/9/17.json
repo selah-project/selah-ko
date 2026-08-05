@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 9:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "이는 악이 불처럼 타올라 가시덤불과 찔레를 삼키고, 숲의 덤불 속에 불붙어, 연기의 교만이 높이 솟구쳤기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 …이기 때문이다"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "타올라"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "불처럼"
+    },
+    {
+      "surface": "רשעה",
+      "gloss": "악이"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "가시덤불과"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "찔레를"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "삼키고"
+    },
+    {
+      "surface": "ותצת",
+      "gloss": "불붙어"
+    },
+    {
+      "surface": "בסבכי",
+      "gloss": "덤불 속에"
+    },
+    {
+      "surface": "היער",
+      "gloss": "숲의"
+    },
+    {
+      "surface": "ויתאבכו",
+      "gloss": "높이 솟구쳤다"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "교만이"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "연기의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:49.772387635Z",
+  "model": "glm-5.2"
+}

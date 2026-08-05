@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "샤울에게 다윗이 케일라에 왔다고 알려지자, 샤울이 말하였다. \"엘로힘께서 ⟨את⟩ 그를 내 손에 넘기셨다. 그가 문들과 빗장들 ⟨있는⟩ 성읍으로 들어와 갇혔으니.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알려지자"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "샤울에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "케일라에"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "넘기셨다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘께서"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "내 손에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "갇혔으니"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "들어와"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성읍으로"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "문들과"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "빗장들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:24.131962798Z",
+  "model": "glm-5.2"
+}

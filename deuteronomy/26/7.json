@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "우리가 우리 조상들의 엘로힘 야훼께 부르짖었더니, 야훼께서 ⟨את⟩ 우리 소리를 들으시고, ⟨את⟩ 우리의 고통과 ⟨את⟩ 우리의 수고와 ⟨את⟩ 우리의 압박을 보셨다.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "우리가 부르짖었더니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "우리 조상들의"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "들으시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리 소리를"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "우리 소리"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 고통"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "우리의 고통"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 수고"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "우리의 수고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 압박"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "우리의 압박"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:57.492680364Z",
+  "model": "glm-5.2"
+}

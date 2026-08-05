@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "나의 반석이신 엘에게 말하리라 — 어찌하여 나를 잊으셨나이까, 어찌하여 원수의 억압함으로 ⟨내가⟩ 애통하게 다니나이까.",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "말하리다"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "엘에게"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "나의 반석이신"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "나를 잊으셨나이까"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "애통하게"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "다니나이까"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "억압함으로"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:42.675731196Z",
+  "model": "glm-5.2"
+}

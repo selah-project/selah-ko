@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 ⟨내가⟩ ⟨את⟩ 너와 ⟨את⟩ 너를 낳은 ⟨너의⟩ 어머니를, 너희가 거기서 나지 아니한 다른 땅 위로 내던지리니, 거기서 너희가 죽으리라.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "내던지리니"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "너"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "너를 낳은 어머니를"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "어머니를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그녀가⟩"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "너를 낳은"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "다른"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "너희가 나지"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "너희가 죽으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:22.514948415Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "아하즈가 ⟨대답하였다⟩. \"나는 구하지 않겠다. 그리고 나는 ⟨את⟩ 야훼를 시험하지 않겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "아하즈가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "구하지 않겠다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "시험하지 않겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:53.577650656Z",
+  "model": "glm-5.2"
+}

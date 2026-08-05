@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "슈무엘이 ⟨את⟩ 그 백성의 모든 말을 듣고, 그것들을 야훼의 귀에 말씀드렸다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성의 모든 말"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성의"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "그것들을 말씀드렸다"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "귀에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:18.268451046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그의 아들들은 아버지 없는 자가 되고, 그의 아내는 과부가 되기를.",
+  "tokens": [
+    {
+      "surface": "יִֽהְיוּ",
+      "gloss": "되기를"
+    },
+    {
+      "surface": "בָנָ֥יו",
+      "gloss": "그의 아들들은"
+    },
+    {
+      "surface": "יְתוֹמִ֑ים",
+      "gloss": "아버지 없는 자가"
+    },
+    {
+      "surface": "וְ֝אִשְׁתּוֹ",
+      "gloss": "그리고 그의 아내는"
+    },
+    {
+      "surface": "אַלְמָנָֽה",
+      "gloss": "과부가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:10.757214806Z",
+  "model": "glm-5.2"
+}

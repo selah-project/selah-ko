@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그의 땅이 우상들로 가득하다. 그들이 그 손들의 만든 것에 절하며, 그 손가락들이 만든 것에 엎드린다.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "그리고 … 가득하다"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "그의 땅이"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "우상들로"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "… 만든 것에"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "그 손들의"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "그들이 절한다"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "… 것에"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "만든"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "그 손가락들이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:57.005103060Z",
+  "model": "glm-5.2"
+}

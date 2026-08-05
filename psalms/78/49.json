@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들의 위에 그의 진노의 타오름을 보내셨다 — 격분과 노여움과 고난을, 악한 사자(使者)들의 파견을.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "보내셨다"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들의 위에"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "타오름"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "그의 진노의"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "격분"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "그리고 노여움"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "그리고 고난"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "파견"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "사자(使者)들의"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "악한"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:39.659628738Z",
+  "model": "glm-5.2"
+}

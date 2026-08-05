@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리하여 너는 ⟨את⟩ 네 젊은 날의 음란한 행실을 되새겼다 — 이집트인들이 네 젖가슴을 만질 때에, 네 젊은 날의 젖가슴 때문에.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "그리하여 … 되새겼다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 젊은 날의 음란한 행실"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "음란한 행실을"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "네 젊은 날의"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "… 할 때에"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "이집트인들이"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "네 젖가슴을"
+    },
+    {
+      "surface": "למען",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "젖가슴"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "네 젊은 날의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:55:41.809214508Z",
+  "model": "glm-5.2"
+}

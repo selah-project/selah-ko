@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그녀가 그녀에게 말하였다. \"당신이 말하는 모든 것을 ⟨제가⟩ 하겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "당신이 말하는"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "⟨제가⟩ 하겠습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:20.233201016Z",
+  "model": "glm-5.2"
+}

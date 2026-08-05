@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "이스라엘 아들들의 온 회중이 모셰 앞에서 나아갔더라.",
+  "tokens": [
+    {
+      "surface": "וַיֵּֽצְא֛וּ",
+      "gloss": "나아갔더라"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עֲדַ֥ת",
+      "gloss": "회중"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מִלִּפְנֵ֥י",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "מֹשֶֽׁה",
+      "gloss": "모셰"
+    }
+  ],
+  "timestamp": "2026-08-05T08:06:37.927034840Z",
+  "model": "glm-5.2"
+}

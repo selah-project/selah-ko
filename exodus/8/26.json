@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "모셰가 파르오 곁에서 나가 야훼께 간구하니",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나가"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "곁에서"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "간구하니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:13.167445581Z",
+  "model": "glm-5.2"
+}

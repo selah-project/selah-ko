@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "주의 증언들도 나의 기쁨이요, 나의 모사(謀士)들이다.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "—도"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "주의 증언들은"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "나의 기쁨이요"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "—의 사람들"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "나의 모사(謀士)들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:12.709956099Z",
+  "model": "glm-5.2"
+}

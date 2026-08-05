@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "늙은 때에 나를 버리지 마시고, 내 힘이 다하매 나를 떠나지 마시옵소서.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…지 마시옵소서"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "나를 내버리지"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "…때에"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "늙은"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "…이 다하매"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "내 힘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…지 마시옵소서"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "나를 떠나지"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:17.829527965Z",
+  "model": "glm-5.2"
+}

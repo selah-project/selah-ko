@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "당신의 귀를 제게 기울여 주십시오. 신속히 저를 구원해 내십시오. 저에게 바위가, 방벽이 되어 저를 구원하십시오.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "기울여 주십시오"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "제게"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "당신의 귀를"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "신속히"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "저를 구원해 내십시오"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨되어 주십시오⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "바위가"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "방벽이"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨为了⟩"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "요새가"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "저를 구원하십시오"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:58.443339377Z",
+  "model": "glm-5.2"
+}

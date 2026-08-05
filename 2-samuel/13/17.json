@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그가 ⟨아들의⟩ 시중을 드는 그의 사환을 부르시고 말하였다. “부디 이 여자를 나에게서 밖으로 내보내시오. 그리고 ⟨그⟩ 문을 그녀 뒤에 잠그시오.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그가 부르시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 사환을"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "그의 사환을"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "그의 시중을 드는"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "내보내시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이것을"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "밖으로"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "그리고 잠그시오"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "문을"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "그녀 뒤에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:30.242695544Z",
+  "model": "glm-5.2"
+}

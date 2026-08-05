@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "므라리의 아들들에게서: 아사야가 우두머리이고, ⟨그의⟩ 형제들이 이백이십 명이었다.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "~의 아들들에게서"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "므라리"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "아사야"
+    },
+    {
+      "surface": "השר",
+      "gloss": "우두머리"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "그리고 ⟨그의⟩ 형제들"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "이백"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "그리고 이십"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:01.715443968Z",
+  "model": "glm-5.2"
+}

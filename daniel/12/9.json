@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 ⟨그가⟩ 말씀하셨다. \"다니엘아, 네 길을 가라. 이는 그 말씀들이 막히고 봉인되어 있음이니, 끝의 때까지.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "다니엘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "막힌"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "그리고 봉인된"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "그 말씀들이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때의"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "끝"
+    }
+  ],
+  "timestamp": "2026-08-05T12:29:38.668387741Z",
+  "model": "glm-5.2"
+}

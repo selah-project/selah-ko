@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "방주에서 나온 노아의 아들들은 셈과 함와 야벳이었다. 그리고 함는 카나안의 아버지였다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "이었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아의"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "나온"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "함와"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "야벳"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "그리고 함는"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "카나안의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:23.496330613Z",
+  "model": "glm-5.2"
+}

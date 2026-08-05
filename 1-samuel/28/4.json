@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 펠리쉬티인들이 모였고, 와서 슈넴에 진을 쳤다. 그리고 샤울이 ⟨את⟩ 온 이스라엘을 모았고, 그들이 길보아에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "모였고"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "펠리쉬티인들이"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "와서"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "슈넴에"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "모았고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "길보아에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:33.282545289Z",
+  "model": "glm-5.2"
+}

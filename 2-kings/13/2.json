@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그가 야훼의 눈에 악을 행하였고, 이스라엘에게 죄를 범하게 한 느밧의 아들 여로보암의 죄들 뒤를 따라갔으며, 거기서 떠나지 않았다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가 … 행하였다"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…의 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그가 따라갔다"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "죄들"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "여로보암"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "느밧"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "죄를 범하게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "סר",
+      "gloss": "떠났다"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "거기서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:50.343427728Z",
+  "model": "glm-5.2"
+}

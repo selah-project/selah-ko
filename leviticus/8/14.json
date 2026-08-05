@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 송아지 곧 하타트 제물을 끌어들였다. 아하론과 그의 아들들이 ⟨את⟩ 그들의 손을 그 송아지 곧 하타트 제물의 머리 위에 안수하였다.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "그리고 끌어들였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "송아지"
+    },
+    {
+      "surface": "פר",
+      "gloss": "송아지"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "하타트 제물"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "그리고 안수하였다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그리고 그의 아들들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 손"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "그들의 손"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "פר",
+      "gloss": "송아지"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "하타트 제물"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:35.427728590Z",
+  "model": "glm-5.2"
+}

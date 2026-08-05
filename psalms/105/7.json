@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그는 야훼 우리 엘로힘이시다, 온 땅에 그의 판결들이 있다",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘이시다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "그의 판결들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:11.119704304Z",
+  "model": "glm-5.2"
+}

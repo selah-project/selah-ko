@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 25:32",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "다윗이 아비가일에게 말하였다. \"오늘 ⟨그대⟩를 나를 만나러 보내신 이스라엘의 엘로힘, 야훼, 찬송받으실지어다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "아비가일에게"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "찬송받으실지어다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "보내신"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "⟨그대⟩를 보내신"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "나를 만나러"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:49.769168796Z",
+  "model": "glm-5.2"
+}

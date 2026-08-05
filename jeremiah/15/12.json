@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "누가 부러뜨릴 수 있으랴, 철을 — 북쪽의 철과 놋쇠를?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "부러뜨릴 수 있으랴"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철을"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철과"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "북쪽의"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "놋쇠를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:30:46.402309916Z",
+  "model": "glm-5.2"
+}

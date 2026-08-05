@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "네가 히브리 종을 사면, 여섯 해를 그가 섬기고, 일곱째에는 자유인으로 나가야 한다, 대가 없이.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…면"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "네가 사면"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종을"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "히브리"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "해를"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "그가 섬기고"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "일곱째에는"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나가야 한다"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "자유인으로"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "대가 없이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:18.495761779Z",
+  "model": "glm-5.2"
+}

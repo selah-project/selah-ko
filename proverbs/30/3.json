@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "나는 지혜를 배우지 않았고 거룩한 자들의 지식도 알지 못한다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니다"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "나는 배웠다"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜를"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "그리고 지식을"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩한 자들의"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "알 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:39.787266754Z",
+  "model": "glm-5.2"
+}

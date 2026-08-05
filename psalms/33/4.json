@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "이는 야훼의 말씀이 곧기 때문이다. 그리고 그분의 모든 행하심은 에무나로 되어 있다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "곧기"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 그분의 모든"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "행하심은"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "에무나로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:55.913088322Z",
+  "model": "glm-5.2"
+}

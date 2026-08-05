@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "당신은 기적을 행하시는 엘이시다. 민족들 가운데 당신의 힘을 알리셨다.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "האל",
+      "gloss": "그 엘이"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하시는"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "기적을"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "알리셨다"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "민족들 가운데"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "당신의 힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:58.331733578Z",
+  "model": "glm-5.2"
+}

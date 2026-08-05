@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "사람의 아들아, 두 여자가 있었는데 한 어미의 딸들이었다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "두"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "여자가"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸들이었다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "어미의"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었는데"
+    }
+  ],
+  "timestamp": "2026-08-05T10:55:06.004438549Z",
+  "model": "glm-5.2"
+}

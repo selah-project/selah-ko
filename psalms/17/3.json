@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "당신은 나의 마음을 시험하셨고, 밤에 살피셨으며, 나를 단련하셨다 — 아무것도 찾지 못하셨다. 내가 작정하였다 — 나의 입에서 ⟨그것이⟩ 지나가지 아니하도록.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "시험하셨고"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "나의 마음을"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "살피셨으며"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "나를 단련하셨다"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아무것도"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "찾지 못하셨다"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "나의 생각이"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니하도록"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "지나가지"
+    },
+    {
+      "surface": "פי",
+      "gloss": "나의 입에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:56.160630869Z",
+  "model": "glm-5.2"
+}

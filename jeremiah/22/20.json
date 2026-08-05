@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 22:20",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "르바논아 올라가서 부르짖고, 바산에서 네 소리를 내며, 아바림에서 부르짖어라. 너를 사랑하던 모든 이들이 부서졌기 때문이다.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "올라가라"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "르바논"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "그리고 부르짖어라"
+    },
+    {
+      "surface": "ובבשן",
+      "gloss": "바산에서"
+    },
+    {
+      "surface": "תני",
+      "gloss": "내어라"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "네 소리를"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "그리고 부르짖어라"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "아바림에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "נשברו",
+      "gloss": "부서졌다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "너를 사랑하던 이들이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:51.823804556Z",
+  "model": "glm-5.2"
+}

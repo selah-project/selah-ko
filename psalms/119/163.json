@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "거짓을 내가 미워하고 ⟨그것을⟩ 역겨워한다 — 그대의 토라를 내가 사랑한다.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "내가 미워하고"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "역겨워한다"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "그대의 토라를"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "내가 사랑한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:13.944274508Z",
+  "model": "glm-5.2"
+}

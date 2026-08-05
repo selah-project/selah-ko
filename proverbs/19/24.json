@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "나태한 자가 자기 손을 접시에 숨기고, 다시 자기 입으로도 그것을 가져오지 아니한다.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "숨기고"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "나태한 자가"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손을"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "접시에"
+    },
+    {
+      "surface": "גם",
+      "gloss": "다시"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로도"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "자기 입"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "가져오지"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:58.894650744Z",
+  "model": "glm-5.2"
+}

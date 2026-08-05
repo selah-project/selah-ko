@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 우리가 ⟨את⟩ 그들의 땅을 취하여, 그것을 르우벤 자손과 갓 자손과 므나쎄 지파 절반에게 유산으로 주었다.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "그리고 우리가 취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 땅을"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "그들의 땅을"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "그것을 주었다"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "유산으로"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "르우벤 자손과"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "갓 자손과"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "그리고 절반에게"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "지파"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "므나쎄"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:06.241304057Z",
+  "model": "glm-5.2"
+}

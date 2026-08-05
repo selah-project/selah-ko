@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 38:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 왕이 ⟨את⟩ 에벳 멜렉 ⟨그⟩ 쿠쉬인에게 명령하시어 말씀하셨다. “너의 손에 이곳에서 삼십 명을 데려가서, ⟨את⟩ 예르미야 ⟨그⟩ 나비를 그 구덩이에서 올려라 — 그가 죽기 전에.”",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "그리고 명령하시어"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에벳 멜렉"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "에벳"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "멜렉"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "쿠쉬인에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "קח",
+      "gloss": "데려가서"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "너의 손에"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "이곳에서"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "명을"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "그리고 올려라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예르미야"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비를"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "그 구덩이"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "전에"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "그가 죽기"
+    }
+  ],
+  "timestamp": "2026-08-05T18:19:43.278538700Z",
+  "model": "glm-5.2"
+}

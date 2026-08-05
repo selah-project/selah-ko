@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "환성을 내고 외쳐라, 시온에 거주하는 ⟨자여⟩. ⟨이는⟩ 거룩한 이, 이스라엘 ⟨의⟩, ⟨그가⟩ 네 한가운데 ⟨서⟩ 크시므로.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "환성을 내어라"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "그리고 외쳐라"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "거주하는"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩ …으므로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크시다"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "네 한가운데"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩한 이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:28.936367082Z",
+  "model": "glm-5.2"
+}

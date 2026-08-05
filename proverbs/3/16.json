@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "날들의 길이가 그녀의 오른손에, 그녀의 왼손에는 부와 영광이.",
+  "tokens": [
+    {
+      "surface": "אֹ֣רֶךְ",
+      "gloss": "길이가"
+    },
+    {
+      "surface": "יָ֭מִים",
+      "gloss": "날들의"
+    },
+    {
+      "surface": "בִּֽימִינָ֑הּ",
+      "gloss": "그녀의 오른손에"
+    },
+    {
+      "surface": "בִּ֝שְׂמֹאוֹלָ֗הּ",
+      "gloss": "그녀의 왼손에는"
+    },
+    {
+      "surface": "עֹ֣שֶׁר",
+      "gloss": "부와"
+    },
+    {
+      "surface": "וְכָבֽוֹד",
+      "gloss": "영광이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:15.132651232Z",
+  "model": "glm-5.2"
+}

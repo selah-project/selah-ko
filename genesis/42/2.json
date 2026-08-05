@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그가 말하였다. \"보라, 내가 들었는데 미츠라임에 곡식이 있다. 거기로 내려가서 거기서 우리를 위해 곡식을 사오너라. 그리하여 우리가 살고 죽지 아니하리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "내가 들었다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있다"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "곡식이"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "미츠라임에"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "내려가라"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기로"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "사오너라"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위해"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "살고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "not"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "죽지"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:37.615514537Z",
+  "model": "glm-5.2"
+}

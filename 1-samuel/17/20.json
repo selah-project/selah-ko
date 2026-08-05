@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 다윗이 아침에 일찍 일어나 ⟨את⟩ 양 떼를 지키는 자에게 맡기고, 들고 가되 이새가 그에게 명령한 대로 가더니, 마참집에 이르렀다. 그리고 전열로 나아가는 군대가 전쟁을 향해 함성을 질렀다.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "그리고 일찍 일어나"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "맡기고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "양 떼"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼를"
+    },
+    {
+      "surface": "על",
+      "gloss": "—에게"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지키는 자"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "들고"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가되"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "—대로"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "명령한"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이새가"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 이르렀다"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "마참집에"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "그리고 군대가"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "나아가는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—으로"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "전열"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "함성을 질렀다"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "전쟁을 향해"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:32.197746089Z",
+  "model": "glm-5.2"
+}

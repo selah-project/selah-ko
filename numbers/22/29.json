@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 22:29",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "빌암이 암나귀에게 말하였다. \"네가 나를 희롱하였기 때문이다. 내 손에 칼이 있다면, 지금 너를 죽였을 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암이"
+    },
+    {
+      "surface": "לאתון",
+      "gloss": "암나귀에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "התעללת",
+      "gloss": "희롱하였"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "לו",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있다면"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼이"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "내 손에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그리하면"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "지금"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "너를 죽였을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:12:16.447549288Z",
+  "model": "glm-5.2"
+}

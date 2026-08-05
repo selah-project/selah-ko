@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 왕이 말씀하셨다. \"아히멜렉, 너는 반드시 죽을 것이다 — 너와 온 네 아버지의 집이.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음으로"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "너는 죽을 것이다"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "아히멜렉"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집이"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "네 아버지의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:05.625367936Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 113,
+  "translation": "할렐루야. 야의 종들아, 할렐루야. 야훼의 ⟨את⟩ 이름을 찬양하라.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "할렐루야"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "할렐루야"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들아"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이름"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:35.789797564Z",
+  "model": "glm-5.2"
+}

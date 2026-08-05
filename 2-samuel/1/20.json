@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "갓에서 알리지 말라, 아슈켈론의 거리들에서 선포하지 말라 — 혹시 블레셋의 딸들이 기뻐하지 않을까, 할례 없는 자들의 딸들이 환호하지 않을까!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "알리지"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "갓에서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "선포하지"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "거리들에서"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "아슈켈론의"
+    },
+    {
+      "surface": "פן",
+      "gloss": "혹시"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "기뻐하지 않을까"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸들이"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋의"
+    },
+    {
+      "surface": "פן",
+      "gloss": "혹시"
+    },
+    {
+      "surface": "תעל얰נה",
+      "gloss": "환호하지 않을까"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸들이"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "할례 없는 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:51.707556696Z",
+  "model": "glm-5.2"
+}

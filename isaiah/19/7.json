@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "수로 위의, 수로 입구 위의 맨땅; 그리고 수로의 모든 씨뿌린 밭은 말라, 흩어지고, 없어질 것이다.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "맨땅"
+    },
+    {
+      "surface": "על",
+      "gloss": "위의"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "수로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위의"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입구"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "수로"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "씨뿌린 밭은"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "수로의"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "말라"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "흩어지고"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "없어질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:45.879689913Z",
+  "model": "glm-5.2"
+}

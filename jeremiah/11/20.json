@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 11:20",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 만군의 야훼, 의로우신 판결자, 신장과 마음을 시험하시는 이, 나는 그들에게서 ⟨그⟩ 주의 보복을 보리이다. 오직 ⟨그⟩ 주에게 내가 ⟨את⟩ 나의 송사를 드러내었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ולב",
+      "gloss": "그리고 마음을"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "보리이다"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "보복을"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그들에게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "주에게"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "드러내었기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 송사를"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "나의 송사를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:30:02.459030903Z",
+  "model": "glm-5.2"
+}

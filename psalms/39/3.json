@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "내가 잠잠하여 입이 묶였고, 좋은 것조차 입에 담지 아니하였다 — 그러나 나의 고통은 더욱 요동하였다.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "내가 입이 묶였고"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "잠잠하여"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "담지 아니하였다"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "좋은 것조차"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "나의 고통은"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "더욱 요동하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:47.667738613Z",
+  "model": "glm-5.2"
+}

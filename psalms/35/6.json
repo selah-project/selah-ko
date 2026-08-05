@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그들의 길이 어둠과 미끄러운 곳이 되고, 야훼의 사자가 그들을 쫓으시게 ⟨되기를⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "…가 되고"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "그들의 길이"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠과"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "미끄러운 곳"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "그리고 사자가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "그들을 쫓으시게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:27.747530586Z",
+  "model": "glm-5.2"
+}

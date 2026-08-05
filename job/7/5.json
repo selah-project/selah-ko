@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내 살결은 구더기를 입었고 먼지 덩어리 ⟨이며⟩, 내 피부는 부풀어 올랐다가 터진다.",
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "입었다"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "내 살결은"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "구더기를"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "그리고 먼지 덩어리"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "먼지"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "내 피부는"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "부풀어 올랐다가 터진다"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "그리고 역겨워진다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:39.061137853Z",
+  "model": "glm-5.2"
+}

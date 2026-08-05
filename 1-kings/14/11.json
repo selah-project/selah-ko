@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "도시에서 죽는 자는 개들이 먹고, 들에서 죽는 자는 하늘의 새들이 먹을 것이다 — 야훼께서 말씀하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "죽는 자는"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "야르보암에게속한"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "도시에서"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "…먹고"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "개들이"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "그리고…죽는 자는"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "…먹을 것이다"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "새들이"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨기"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:19.748005124Z",
+  "model": "glm-5.2"
+}

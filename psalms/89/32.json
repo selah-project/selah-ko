@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "만일 ⟨그들이⟩ 나의 규례들을 더럽히고, 나의 계명들을 지키지 아니하면,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "나의 규례들을"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "더럽히고"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "나의 계명들을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "지키"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:37.835428875Z",
+  "model": "glm-5.2"
+}

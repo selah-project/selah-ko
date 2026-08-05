@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그들이 말하기를 \"우리의 혀로 우리가 강하게 하리라, 우리의 입술은 우리와 함께하니, 누가 우리의 주인이냐\" 하였다 —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "우리의 혀로"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "우리가 강하게 하리라"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "우리의 입술은"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "우리와 함께하니"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "주인이냐"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:55.943042513Z",
+  "model": "glm-5.2"
+}

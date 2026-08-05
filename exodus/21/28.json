@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 만일 소가 사람 ⟨את⟩이나 여인 ⟨את⟩을 받아서 죽이면, 그 소는 반드시 돌로 쳐야 한다. 그리고 그것의 고기 ⟨את⟩은 먹지 못한다. 그 소의 임자는 무죄하다.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "받아서"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "או",
+      "gloss": "이나"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여인"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "죽이면"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "돌로"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "쳐야 한다"
+    },
+    {
+      "surface": "השור",
+      "gloss": "그 소는"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 못한다"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 고기"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "그것의 고기"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "그리고 … 임자"
+    },
+    {
+      "surface": "השור",
+      "gloss": "그 소의"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "무죄하다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:51.278415184Z",
+  "model": "glm-5.2"
+}

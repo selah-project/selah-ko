@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "너희가 우리가 미츠라임 땅에 거주하였던 것과 우리가 너희가 지나온 민족들 한가운데를 통과하였던 것을 알고 있기 때문이다 —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…때문이다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "알고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "거주하였던 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "우리가 거주하였던"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "통과하였던 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "우리가 통과하였던"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데를"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…하는"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "너희가 지나온"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:39.808353012Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "사람이 ⟨את⟩ 자기 형제를 보지 못하였고, 삼 일 동안 각자 자기 자리에서 일어나지 못하였다. 그러나 온 이스라엘 자손에게는 그들의 거처에 빛이 있었다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "못하였고"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보지"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 형제를"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "자기 형제를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "못하였다"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "일어나지"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "자기 자리에서"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "삼"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일 동안"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손에게는"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛이"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "그들의 거처에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:44.574706343Z",
+  "model": "glm-5.2"
+}

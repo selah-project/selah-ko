@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "샤울과 온 이스라엘이 ⟨את⟩ 그 블레셋 사람의 이 말들을 듣고, 크게 낙담하고 심히 두려워하였다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "그리고 듣고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울과"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말들"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "그 블레셋 사람의"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "낙담하고"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "두려워하였다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:35.883663739Z",
+  "model": "glm-5.2"
+}

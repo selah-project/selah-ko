@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 26:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "이 땅에서 나그네로 거류하라, 내가 너와 함께하시고 너를 축복하시리라. 너와 네 씨에게 내가 ⟨את⟩ 모든 이 땅들을 주리니 — 곧 이것들이며 — 내가 네 아버지 아브라함에게 맹세한 ⟨그⟩ 맹세를 ⟨את⟩ ⟨내가⟩ 세우리라.",
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "거류하라"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "이 땅에서"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "내가 함께하시리라"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "너를 축복하시리라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "네 씨에게"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "내가 주리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 이 땅들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "땅들"
+    },
+    {
+      "surface": "האל",
+      "gloss": "이"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "내가 세우리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 맹세"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "그 맹세"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "맹세한"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "아브라함에게"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "네 아버지"
+    }
+  ],
+  "timestamp": "2026-08-05T19:33:59.998122240Z",
+  "model": "glm-5.2"
+}

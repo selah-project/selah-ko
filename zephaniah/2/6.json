@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리하여 바다의 해안 지역은 목자들의 초장과 양 떼의 우리가 될 것이다.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "그리하여 … 될 것이다"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "해안 지역"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다의"
+    },
+    {
+      "surface": "נות",
+      "gloss": "초장"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "목장"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "목자들의"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "우리"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "양 떼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:21.587307834Z",
+  "model": "glm-5.2"
+}

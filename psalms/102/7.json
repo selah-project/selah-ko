@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "나는 광야의 따오기 같고, ⟨나는⟩ 폐허의 수리부엉이 같았다.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "나는 … 같았다"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "…의 따오기"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨나는⟩ …이었다"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "…의 수리부엉이 같이"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "폐허"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:04.444656579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그가 그들을 위해 잔치를 베풀자, 그들은 먹고 마셨다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가 만들었다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들을 위해"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "잔치를"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "그들은 먹었다"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "그들은 마셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:57.862835890Z",
+  "model": "glm-5.2"
+}

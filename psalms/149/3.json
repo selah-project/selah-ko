@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 149,
+  "translation": "춤으로 ⟨그의⟩ 이름을 찬양하라 — 수금과 하프로 ⟨그를 위하여⟩ 노래하라.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨그의⟩ 이름을"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "춤 ⟨으로⟩"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "수금 ⟨으로⟩"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "그리고 하프"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그를 위하여⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:45.964470723Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 ⟨그것을⟩ 잡으니, 모셰가 ⟨את⟩ 그 피를 제단 위 둘레에 뿌렸다.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "그리고 잡으니"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "그리고 뿌렸다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 피"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "그 피"
+    },
+    {
+      "surface": "על",
+      "gloss": "위"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:35.649456974Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 쉐무엘은 야훼의 ⟨את⟩ 면전에서 섬기는 아이로서, 아마 직물 에포드를 띠고 있었다.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "그리고 쉐무엘은"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "섬기는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "면전"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "נער",
+      "gloss": "아이로서"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "띠고 있었다"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "에포드를"
+    },
+    {
+      "surface": "בד",
+      "gloss": "아마 직물"
+    }
+  ],
+  "timestamp": "2026-08-05T09:23:00.847228293Z",
+  "model": "glm-5.2"
+}

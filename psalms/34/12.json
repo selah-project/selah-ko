@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "오라, 아들들아, 나에게 들어라. 내가 너희에게 야훼 경외하기를 가르치리라.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "오라"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들아"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "경외하기를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "내가 가르치리라 너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:02.739267698Z",
+  "model": "glm-5.2"
+}

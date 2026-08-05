@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야곱의 아들들이 ⟨את⟩ 쉐켬과 ⟨את⟩ 그의 아비 하모르에게 속여 대답하였고, 그가 ⟨את⟩ 그들의 누이 디나를 더럽혔기 ⟨때문에⟩ 말하였다.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "대답하였고"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쉐켬"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "쉐켬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아비 하모르"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "하모르"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아비"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "속여"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "더럽혔기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 누이 디나"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "디나를"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "그들의 누이"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:24.281426329Z",
+  "model": "glm-5.2"
+}

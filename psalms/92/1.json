@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "미쯔모르, 노래, 샤밧의 날을 위하여.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "미쯔모르"
+    },
+    {
+      "surface": "שִׁיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "לְיוֹם",
+      "gloss": "낮을 위하여"
+    },
+    {
+      "surface": "הַשַּׁבָּת",
+      "gloss": "샤밧의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:44.958050405Z",
+  "model": "glm-5.2"
+}

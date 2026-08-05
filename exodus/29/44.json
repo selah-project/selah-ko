@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "내가 ⟨את⟩ 오벨 모에드와 ⟨את⟩ 제단을 거룩하게 하고, ⟨את⟩ 아하론과 ⟨את⟩ 그의 아들들을 거룩하게 하여 나를 위해 코헨으로 섬기게 하리라.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "내가 거룩하게 하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "오벨 모에드"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "오벨"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "모에드"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "제단"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아하론"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 아들들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들을"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "거룩하게 하여"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "코헨으로 섬기게 하리라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:52.349841147Z",
+  "model": "glm-5.2"
+}

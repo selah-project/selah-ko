@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "네 아들의 딸이나 네 딸의 딸의 벌거벗음 — 그들의 벌거벗음을 드러내지 못한다. 그것은 너의 벌거벗음이기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "벌거벗음"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "네 아들"
+    },
+    {
+      "surface": "או",
+      "gloss": "이거나"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "네 딸"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "드러내지 못한다"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "그들의 벌거벗음"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "너의 벌거벗음"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "그것은"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:56.287137804Z",
+  "model": "glm-5.2"
+}

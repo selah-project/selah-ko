@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 모셰와 아하론이 ⟨את⟩ 그 사람들을, 이 사람들을, 곧 그들의 이름으로 지정된 자들을 데려왔다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "데려왔다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰와"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람들을"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이 사람들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "지정된 자들을"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "그들의 이름으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:27:16.257074094Z",
+  "model": "glm-5.2"
+}

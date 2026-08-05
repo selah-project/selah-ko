@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "야곱이 브엘세바에서 일어났다. 이스라엘의 아들들이 ⟨את⟩ 그들의 아버지 야곱과 ⟨את⟩ 그들의 어린 아이들과 ⟨את⟩ 그들의 아내들을 파르오가 그를 실어 보내려고 보낸 수레들에 실었다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "브엘-에서"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "세바"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "실었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 아버지 야곱"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "그들의 아버지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 어린 아이들"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "그들의 어린 아이들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 아내들"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "그들의 아내들을"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "수레들에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보낸"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "실어 보내려고"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:27.594798829Z",
+  "model": "glm-5.2"
+}

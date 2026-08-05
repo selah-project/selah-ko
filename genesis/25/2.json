@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그녀가 그에게 ⟨את⟩ 짐란과 ⟨את⟩ 욕산과 ⟨את⟩ 메단과 ⟨את⟩ 미디안과 ⟨את⟩ 이쉬박과 ⟨את⟩ 수아를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "짐란"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "짐란과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "욕산"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "욕산과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "메단"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "메단과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "미디안"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "미디안과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "이쉬박"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "이쉬박과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "수아"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "수아를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:34.431542987Z",
+  "model": "glm-5.2"
+}

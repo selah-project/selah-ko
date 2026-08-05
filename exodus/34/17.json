@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "너는 너를 위해 주조한 엘로힘을 만들지 말지니라.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "주조한"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닌"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 만들지"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:06.276684065Z",
+  "model": "glm-5.2"
+}

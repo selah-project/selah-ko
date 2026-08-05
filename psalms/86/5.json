@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 86,
+  "translation": "당신은, 아도나이, 선하시고 용서하시며, 당신을 부르는 모든 자에게 헤세드가 풍성하시기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "אֲ֭דֹנָי",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "선하시고"
+    },
+    {
+      "surface": "וְסַלָּ֑ח",
+      "gloss": "용서하시며"
+    },
+    {
+      "surface": "וְרַב",
+      "gloss": "풍성하시다"
+    },
+    {
+      "surface": "חֶ֝֗סֶד",
+      "gloss": "헤세드"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "קֹרְאֶֽיךָ",
+      "gloss": "당신을 부르는 자에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:27.315507629Z",
+  "model": "glm-5.2"
+}

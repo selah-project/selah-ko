@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "아슈르를 내 땅에서 꺾고, 내 산들 위에서 ⟨그를⟩ 짓밟기 위함이니, 그의 멍에가 그들에게서 떠나고, 그의 짐이 그의 어깨에서 벗어지리라.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "꺾기 위함이니"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르를"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "내 땅에서"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 … 위에서"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "내 산들"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "짓밟으리"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "그리고 떠나리"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "그들에게서"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "그의 멍에가"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "그리고 그의 짐이"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "그의 어깨"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "벗어지리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:38.552782809Z",
+  "model": "glm-5.2"
+}

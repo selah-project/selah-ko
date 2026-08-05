@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼 엘로힘이 ⟨아담에게서⟩ 취하신 ⟨את⟩ 그 갈비뼈를 여자로 지으시고, ⟨그녀를⟩ ⟨아담에게로⟩ 데려오셨다.",
+  "tokens": [
+    {
+      "surface": "וַיִּבֶן",
+      "gloss": "지으셨다"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 갈비뼈"
+    },
+    {
+      "surface": "הַצֵּלָע",
+      "gloss": "그 갈비뼈"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "～인 것"
+    },
+    {
+      "surface": "לָקַח",
+      "gloss": "취하신"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "～에게서"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "그 아담"
+    },
+    {
+      "surface": "לְאִשָּׁה",
+      "gloss": "여자로"
+    },
+    {
+      "surface": "וַיְבִאֶהָ",
+      "gloss": "데려오셨다"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "～에게로"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "그 아담"
+    }
+  ],
+  "timestamp": "2026-08-05T19:33:41.923449273Z",
+  "model": "glm-5.2"
+}

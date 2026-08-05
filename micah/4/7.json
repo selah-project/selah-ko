@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 4:7",
+  "book": "micah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "내가 ⟨את⟩ 절뚝거리는 자를 남은 자로 삼고, 멀리 쫓겨난 자를 강한 민족으로 만들리라. 그리고 야훼께서 그들 위에 시온 산에서 다스리시리니, 이제부터 영원까지.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "내가 삼고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "절뚝거리는 자"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "절뚝거리는 자를"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "남은 자로"
+    },
+    {
+      "surface": "והנהלאה",
+      "gloss": "멀리 쫓겨난 자를"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "민족으로"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "강한"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "그리고 다스리시리니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에서"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "이제부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "—"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원까지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:24.170839477Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "얼음 때문에 검어진 것, 그 위로 눈이 ⟨그 모습을⟩ 감추는 것들이니,",
+  "tokens": [
+    {
+      "surface": "הַקֹּדְרִ֥ים",
+      "gloss": "검어진 것"
+    },
+    {
+      "surface": "מִנִּ֣י",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "קָ֑רַח",
+      "gloss": "얼음"
+    },
+    {
+      "surface": "עָלֵ֣ימוֹ",
+      "gloss": "그 위로"
+    },
+    {
+      "surface": "יִתְעַלֶּ֖ם",
+      "gloss": "감추는"
+    },
+    {
+      "surface": "שָֽׁלֶג",
+      "gloss": "눈이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:18.528483271Z",
+  "model": "glm-5.2"
+}

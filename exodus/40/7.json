@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 너는 ⟨את⟩ 대야를 만남의 텐트와 제단 사이에 놓고, 거기에 물을 두어라.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "너는 놓고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "대야를"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "대야를"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "텐트"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "너는 두어라"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:33.638191026Z",
+  "model": "glm-5.2"
+}

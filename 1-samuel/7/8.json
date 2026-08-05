@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 7:8",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이스라엘 자손이 셈우엘에게 말하였다. \"우리를 위해 우리 엘로힘 야훼께 부르짖음에서 침묵하지 마십시오. 그래서 우리를 플리쉬티임의 손에서 구원해 주십시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셈우엘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…마십시오"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "침묵하지"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "우리를 위해"
+    },
+    {
+      "surface": "מזעק",
+      "gloss": "부르짖음에서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘"
+    },
+    {
+      "surface": "וישענו",
+      "gloss": "구원해 주십시오"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "플리쉬티임의 손"
+    }
+  ],
+  "timestamp": "2026-08-05T09:24:43.200224677Z",
+  "model": "glm-5.2"
+}

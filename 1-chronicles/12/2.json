@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "활을 당기는 자들, 오른손잡이이자 왼손잡이 — 돌과 화살을, 활로 쏘는 자들이었다. 샤울의 형제들, ⟨그⟩ 베냐민 ⟨지파⟩ 출신이었다.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "당기는 자들"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "활을"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "오른손잡이이자"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "왼손잡이"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "돌을"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "화살을"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "활로"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "…의 형제들"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "베냐민 출신이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:47.872698173Z",
+  "model": "glm-5.2"
+}

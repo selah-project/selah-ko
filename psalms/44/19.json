@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "우리의 마음이 뒤로 물러나지 아니하였고, 우리의 걸음이 길에서 벗어나 돌이키지도 아니하였다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "물러나"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "뒤로"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "우리의 마음이"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "그리고 벗어났다"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "우리의 걸음이"
+    },
+    {
+      "surface": "מני",
+      "gloss": "에서"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "길"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:45.852112324Z",
+  "model": "glm-5.2"
+}

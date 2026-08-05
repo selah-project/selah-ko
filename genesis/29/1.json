@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 야곱은 ⟨그의⟩ 발을 들어 올리고 걸어갔다, 동쪽 사람들의 땅으로.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "그리고 들어 올리고"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "그의 발을"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그리고 걸어갔다"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들의"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "동쪽"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:43.652852049Z",
+  "model": "glm-5.2"
+}

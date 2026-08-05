@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "사람들아, ⟨당신들⟩에게 나는 부른다, 그리고 내 소리는 사람의 아들들 ⟨에게⟩ ⟨이동한다⟩.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "⟨당신들⟩에게"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "사람들아"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "나는 부른다"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "그리고 내 소리는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨에게⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:43.075146985Z",
+  "model": "glm-5.2"
+}

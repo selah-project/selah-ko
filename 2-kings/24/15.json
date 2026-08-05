@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그가 ⟨את⟩ 여호야킨을 바벨로 옮기고, ⟨את⟩ 왕의 어머니와 ⟨את⟩ 왕의 아내들과 ⟨את⟩ 그의 내시들과 ⟨את⟩ 땅의 권력자들을 포로로 예루샬라임에서 바벨로 데려갔다.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "옮기고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여호야킨"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "여호야킨"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "바벨로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "어머니"
+    },
+    {
+      "surface": "אם",
+      "gloss": "어머니"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아내들"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "아내들"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내시들"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "내시들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "권력자들"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "권력자들"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "데려갔다"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "포로로"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "바벨로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:08.232784770Z",
+  "model": "glm-5.2"
+}

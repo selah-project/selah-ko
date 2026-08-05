@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "엘⟨은⟩ 야훼이시며, 우리에게 빛을 비추셨다. 명절 ⟨제물⟩을 묶어라, 줄로, 제단 뿔들까지.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이시며"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "빛을 비추셨다"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "묶어라"
+    },
+    {
+      "surface": "חג",
+      "gloss": "명절"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "줄로"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "제단 뿔들"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:35.941014075Z",
+  "model": "glm-5.2"
+}

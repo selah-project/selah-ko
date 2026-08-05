@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "⟨악장장에게⟩. 노래, 미즈모르. 온 땅아, 엘로힘께 환성을 올려라.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨악장장에게⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "미즈모르"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "환성을 올려라"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘께"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:25.805258953Z",
+  "model": "glm-5.2"
+}

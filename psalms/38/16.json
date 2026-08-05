@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "오직 야훼여, ⟨당신을⟩ 바랐나이다. 아도나이, 내 엘로힘이여, 응답하소서.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "바랐나이다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "응답하소서"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "내 엘로힘이여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:37.794296046Z",
+  "model": "glm-5.2"
+}

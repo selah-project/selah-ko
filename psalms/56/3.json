@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "저의 적들이 온종일 삼키려 하옵니다. ⟨이는⟩ 많은 자들이 높은 데서 저와 싸우기 때문입니다.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "삼키려 하옵니다"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "저의 적들이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩ …이기 때문입니다"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은 자들이"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "싸우기"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저와"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "높은 데서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:29.123123108Z",
+  "model": "glm-5.2"
+}

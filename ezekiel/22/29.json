@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 22:29",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "땅의 백성이 억압으로 억누르고 강탈로 빼앗고, 가난한 자와 궁핍한 자를 억울하게 하고, ⟨את⟩ 거류민을 정의 없이 억눌렀다.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "억눌렀다"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "억압으로"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "빼앗고"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "강탈로"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "가난한 자"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "궁핍한 자를"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "억울하게 하고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "거류민"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "거류민을"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "억눌렀다"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "없이"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "정의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:54:20.593807051Z",
+  "model": "glm-5.2"
+}

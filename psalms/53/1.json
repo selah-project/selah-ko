@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 53,
+  "translation": "지휘자에게, 마할랏 ⟨곡조⟩에 맞추어. 마쉬킬, 다윗의.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에 맞추어"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "마할랏"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "마쉬킬"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:00.118733213Z",
+  "model": "glm-5.2"
+}

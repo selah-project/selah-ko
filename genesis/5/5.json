@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리하여 아담이 살았던 모든 날이 구백삼십 년이었고, 그가 죽었다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "그리하여 …이었다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "아담의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "חי",
+      "gloss": "살았던"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "아홉"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "그리고 삼십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그가 죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:01.863520135Z",
+  "model": "glm-5.2"
+}

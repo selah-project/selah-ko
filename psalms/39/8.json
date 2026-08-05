@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 이제 제가 무엇을 기다렸습니까? 아도나이, 나의 소망은 당신에게 있나이다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "기다렸습니까"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "나의 소망은"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "היא",
+      "gloss": "있나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:09.779643467Z",
+  "model": "glm-5.2"
+}

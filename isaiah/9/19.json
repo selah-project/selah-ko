@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "오른편에서 찢어 먹어도 주리고, 왼편에서 먹어도 배부르지 않아, 사람마다 자기 팔의 살을 먹는다.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "찢어 먹어도"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른편"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "주리고"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "먹어도"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "왼편"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "배부르"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람마다"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "살을"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "자기 팔의"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "먹는다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:49.772690948Z",
+  "model": "glm-5.2"
+}

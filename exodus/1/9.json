@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 ⟨그의⟩ 백성에게 말하였다. “보라, 이스라엘의 아들들의 백성이 우리보다 많고 강하다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많고"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "강하다"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "우리보다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:45:07.886722750Z",
+  "model": "glm-5.2"
+}

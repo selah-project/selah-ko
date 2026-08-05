@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그들의 재산이 함께 거하기에 너무 많았으므로, 그들이 나그네로 있던 땅이 그들의 가축 때문에 ⟨את⟩ 그들을 감당할 수 없었다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "היה",
+      "gloss": "이었다"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "그들의 재산"
+    },
+    {
+      "surface": "רב",
+      "gloss": "너무 많았으므로"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "함께 거하기에"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "못했다"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "감당할 수"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "그들이 나그네로 있던"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "감당하다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 그들",
+      "marks": "그들을"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "그들의 가축"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:16.960252624Z",
+  "model": "glm-5.2"
+}

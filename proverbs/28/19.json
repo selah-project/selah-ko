@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "자기 땅을 경작하는 자는 빵으로 배부르고, 텅 빈 것을 쫓는 자는 가난으로 배부르리라.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "경작하는 자는"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "자기 땅을"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "배부르고"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵으로"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "쫓는 자는"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "텅 빈 것을"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "배부르리라"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "가난으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:06.355961138Z",
+  "model": "glm-5.2"
+}

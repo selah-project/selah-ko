@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "하늘의 새와 바다의 물고기, 바다의 길들을 지나가는 ⟨것⟩",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "새"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "그리고 물고기"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다의"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "지나가는"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "길들"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "바다의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:44.004893823Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 유다가 오난에게 말하였다. \"네 형의 아내에게로 들어가고, 그녀와 혼인하여 ⟨את⟩ 그녀와 ⟨함께⟩ 형의 씨를 세워라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 … 말하였다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다가"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "오난에게"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어가고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형의"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "그녀와 혼인하여"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그녀"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "세워라"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨를"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "형의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:23.541964335Z",
+  "model": "glm-5.2"
+}

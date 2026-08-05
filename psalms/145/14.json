@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "야훼는 모든 넘어지는 자들을 붙드시며, 모든 굽은 자들을 일으키신다.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "붙드시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "넘어지는 자들을"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "그리고 일으키신다"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "굽은 자들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:35.037706405Z",
+  "model": "glm-5.2"
+}

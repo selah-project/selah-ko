@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 6:8",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "예루샬라임아, 훈계를 받아라, 내 네페쉬가 너에게서 떨어지지 않게 하라, 내가 너를 황무하게 하지 않게 하라, 거주하지 않는 땅을.",
+  "tokens": [
+    {
+      "surface": "הוסרי",
+      "gloss": "훈계를 받아라"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임아"
+    },
+    {
+      "surface": "פן",
+      "gloss": "하지 않게 하라"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "떨어지지"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "너에게서"
+    },
+    {
+      "surface": "פן",
+      "gloss": "하지 않게 하라"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "내가 너를 하지"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "황무하게"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "아닌"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "거주하지 않는"
+    }
+  ],
+  "timestamp": "2026-08-05T10:28:28.907903304Z",
+  "model": "glm-5.2"
+}

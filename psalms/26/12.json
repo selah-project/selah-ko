@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "나의 발이 평탄한 곳에 서 있다. 모임들에서 내가 야훼를 송축하리라.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "나의 발이"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "서 있다"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "평탄한 곳에"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "모임들에서"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "내가 송축하리라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:06.152877131Z",
+  "model": "glm-5.2"
+}

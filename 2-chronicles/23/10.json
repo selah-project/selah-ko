@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 온 백성을 세웠으니, 각자 ⟨그의⟩ 무기를 ⟨그의⟩ 손에 들고서, ⟨그⟩ 집의 오른쪽 어깨에서부터 ⟨그⟩ 집의 왼쪽 어깨까지, 제단과 ⟨그⟩ 집에 이르기까지, 왕을 둘러싸서.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "세웠으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 백성을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성을"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "그의 무기를"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "~에서부터 어깨"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집의"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "오른쪽"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "어깨"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집의"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "왼쪽"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "그 제단과"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "그 집에"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에 관하여"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕을"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘러싸서"
+    }
+  ],
+  "timestamp": "2026-08-05T14:10:38.662104230Z",
+  "model": "glm-5.2"
+}

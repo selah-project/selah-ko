@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "두려워하지 말라 — 한 사람이 부유하게 될 때에, 그의 집의 영광이 많아질 때에도.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "부유하게 될 때에"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…때에도"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "많아질"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:37.156527312Z",
+  "model": "glm-5.2"
+}

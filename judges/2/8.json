@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 야훼의 종 눈의 아들 여호수아가 죽었으니, 백 열 살이었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "그리고 죽었으니"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נון",
+      "gloss": "눈의"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "그리고 열"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "살"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:17.707828787Z",
+  "model": "glm-5.2"
+}

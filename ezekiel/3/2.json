@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그래서 내가 ⟨את⟩ 내 입을 열었더니, 그가 나에게 ⟨아래 이것을⟩ ⟨את⟩ 이 두루마리를 먹이셨다.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "그래서 내가 열었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 입"
+    },
+    {
+      "surface": "פי",
+      "gloss": "나의 입"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "그리고 나를 먹이셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 두루마리"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "그 두루마리"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:20:54.372102599Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 ⟨그⟩ 편지들에 쓰기를, 이르기를, 금식을 선포하고 ⟨את⟩ 나봇을 백성의 머리에 앉히라 하였다.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "그리고 쓰기를"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "편지들에"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "선포하라"
+    },
+    {
+      "surface": "צום",
+      "gloss": "금식을"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "그리고 앉히라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나봇을"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "나봇을"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "머리에"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:54:38.536008688Z",
+  "model": "glm-5.2"
+}

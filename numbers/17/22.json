@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "모셰가 ⟨את⟩ 그 지팡이들을 야훼 앞에, 증거의 장막 안에 두었다.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 지팡이들을"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "그 지팡이들을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "장막 안에"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "증거의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:38:23.924231662Z",
+  "model": "glm-5.2"
+}

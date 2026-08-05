@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 왕 솔로모가 야훼를 위하여 건축한 ⟨그⟩ 집은, 길이가 육십 큐빗, 너비가 이십 큐빗, 높이가 삼십 큐빗이었다.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "그리고 ⟨그⟩ 집은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "건축한"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "솔로모가"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 위하여"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "육십"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "큐빗"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "길이가"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "그리고 이십"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "너비가"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "그리고 삼십"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "큐빗"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "높이가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:01.863326574Z",
+  "model": "glm-5.2"
+}

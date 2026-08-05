@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "부르짖어라, 타르쉬쉬의 배들아, 너희 요새가 약탈당하였으니.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "부르짖어라"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "배들아"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "타르쉬쉬의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "약탈당하였다"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "너희 요새가"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:28.929908178Z",
+  "model": "glm-5.2"
+}

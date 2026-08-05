@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "용사여, 당신의 허리에 당신의 칼을 띠라 — 당신의 위엄과 당신의 장엄함이여!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "띠라"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "당신의 칼을"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "허리"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "용사여"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "당신의 위엄"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "그리고 당신의 장엄함이여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:06.023626056Z",
+  "model": "glm-5.2"
+}

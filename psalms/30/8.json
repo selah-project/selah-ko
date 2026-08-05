@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "야훼여, 그대의 기쁘심으로 그대께서 내 산에 힘을 세워 두셨으니, 그대께서 그대의 얼굴을 숨기시어 나는 당황하게 되었습니다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "그대의 기쁘심으로"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "그대께서 세워 두셨으니"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "내 산에"
+    },
+    {
+      "surface": "עז",
+      "gloss": "힘을"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "그대께서 숨기시어"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "그대의 얼굴을"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "나는 되었습니다"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "당황하게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:37.607992472Z",
+  "model": "glm-5.2"
+}

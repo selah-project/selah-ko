@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 144,
+  "translation": "야훼여, 사람은 무엇이기에 ⟨그를⟩ 아시며, 인자는 무엇이기에 ⟨그를⟩ 생각하시나이까?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이기에"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "⟨그를⟩ 아시며"
+    },
+    {
+      "surface": "בן",
+      "gloss": "～의 아들"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "사람(인자)은"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "⟨그를⟩ 생각하시나이까"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:14.164478436Z",
+  "model": "glm-5.2"
+}

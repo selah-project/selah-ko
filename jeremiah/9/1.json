@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "누가 나를 광야에, 행인들의 숙소에 두겠는가 — 그리하여 내가 ⟨את⟩ 내 백성을 버리고 그들에게서 떠나가리라. 그들은 모두 간음하는 자들, 배신자들의 회중이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "나를 주겠는가"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "숙소"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "행인들의"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "그리하여 내가 버리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "떠나가리라"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "그들에게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "그들은 모두"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "간음하는 자들"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "회중"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "배신자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:29:13.154606278Z",
+  "model": "glm-5.2"
+}

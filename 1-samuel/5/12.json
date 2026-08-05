@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "죽지 아니한 사람들은 종기로 맞았고, 그 성의 부르짖음이 하늘로 올라갔다.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "사람들은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "죽지"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "맞았고"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "종기로"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "부르짖음이"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성의"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:56.522195641Z",
+  "model": "glm-5.2"
+}

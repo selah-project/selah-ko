@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 54,
+  "translation": "이는 ⟨너는⟩ 오른편과 왼편으로 뚫고 나아가며, ⟨너의⟩ 씨가 민족들을 상속하고, 황폐된 성읍들을 사람들이 거하게 할 것임이라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른편으로"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "그리고 왼편으로"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "뚫고 나아가며"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "그리고 씨가"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들을"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "상속하고"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "그리고 성읍들을"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "황폐된"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "거하게 할 것임이라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:34.273559636Z",
+  "model": "glm-5.2"
+}

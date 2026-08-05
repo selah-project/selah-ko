@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "연기가 쫓겨 가듯 ⟨그들을⟩ 쫓아내소서; 불 앞에서 밀랍이 녹듯, 악인들은 엘로힘의 면전에서 멸망하리라.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "쫓겨 가듯"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "연기가"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "쫓아내소서"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "녹듯"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "밀랍이"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "멸망하리라"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들은"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:44.555778561Z",
+  "model": "glm-5.2"
+}

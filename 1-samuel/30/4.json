@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "다윗과 그와 함께하던 백성이 ⟨את⟩ 그들의 목소리를 높여 울었다. 그들에게 울 기력이 없어질 때까지.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "높여"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "그리고 백성"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~하던"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 목소리"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "그들의 목소리"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "울었다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~한"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없어질"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "כח",
+      "gloss": "기력이"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "울"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:48.075410114Z",
+  "model": "glm-5.2"
+}

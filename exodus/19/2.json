@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "彼らはレフィディムから旅立ち、シナイの荒野に来た。そして荒野に宿営した。そこでイスラエルは山の正面に宿営した。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "旅立ち"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "レフィディムから"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "来た"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "シナイの"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "宿営した"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "荒野に"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "宿営した"
+    },
+    {
+      "surface": "שם",
+      "gloss": "そこで"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "イスラエルは"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "正面に"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山の"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:27.490663131Z",
+  "model": "glm-5.2"
+}

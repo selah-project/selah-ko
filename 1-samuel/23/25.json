@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 23:25",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "샤울과 그의 사람들이 가서 찾으매, 다윗에게 알리니, 그가 바위로 내려가 마온 광야에 머물렀다. 샤울이 듣고 다윗의 뒤를 쫓아 마온 광야로 갔다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "가매"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "그의 사람들이"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "찾으매"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "알리니"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "내려가"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "그 바위로"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "머물렀다"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "마온"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "쫓아"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤를"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야로"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "마온"
+    }
+  ],
+  "timestamp": "2026-08-05T13:47:30.588745339Z",
+  "model": "glm-5.2"
+}

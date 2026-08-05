@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "인간이 땅 위에 겪는 것은 전쟁이 아니냐, 그의 날들은 품꾼의 날들과 같지 아니하냐?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "…아니냐"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "전쟁"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "인간이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "그리고 …같지"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "품꾼의"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "그의 날들은"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:02.067775467Z",
+  "model": "glm-5.2"
+}

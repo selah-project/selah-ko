@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "왕이 야훼를 신뢰하기 때문이다. 그가 최고자의 헤세드로 말미암아 요동하지 않는다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "신뢰하기"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "헤세드로 말미암아"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "최고자의"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "요동한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:02.110439756Z",
+  "model": "glm-5.2"
+}

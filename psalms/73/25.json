@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "하늘에서 누가 ⟨나에게⟩ 있으리오. 그리고 ⟨주⟩와 함께라면 땅에서 ⟨나는⟩ 아무도 갈망하지 아니하나이다.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "하늘에서"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "그리고 주와 함께라면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "갈망하나이다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:36.816225015Z",
+  "model": "glm-5.2"
+}

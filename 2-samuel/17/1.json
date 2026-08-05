@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 17:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 아히토펠이 아브샬롬에게 말하였다. \"청하건대, 이제 제가 만 이천 명을 뽑게 해 주십시오. 그리고 제가 일어나 오늘 밤 다윗을 뒤쫓겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "아히토펠이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "아브샬롬"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "제가 뽑겠습니다"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ואקומה",
+      "gloss": "그리고 제가 일어나"
+    },
+    {
+      "surface": "וארדפה",
+      "gloss": "제가 뒤쫓겠습니다"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "~를 뒤에"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "오늘 밤"
+    }
+  ],
+  "timestamp": "2026-08-05T09:40:40.558545936Z",
+  "model": "glm-5.2"
+}

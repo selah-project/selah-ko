@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그러므로 내가 네게 명하여 이르기를, 너는 너를 위하여 세 성읍을 구별하라, 하는 까닭이다.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "까닭이다"
+    },
+    {
+      "surface": "כֵּ֛ן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "אָנֹכִ֥י",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מְצַוְּךָ֖",
+      "gloss": "네게 명하여"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "שָׁלֹ֥שׁ",
+      "gloss": "세"
+    },
+    {
+      "surface": "עָרִ֖ים",
+      "gloss": "성읍을"
+    },
+    {
+      "surface": "תַּבְדִּ֥יל",
+      "gloss": "구별하라"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "너를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T18:07:27.812603217Z",
+  "model": "glm-5.2"
+}

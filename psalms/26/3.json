@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "오직 ⟨주⟩의 헤세드가 내 눈 앞에 있으므로, 나는 ⟨주⟩의 에메트 안에서 걸어왔습니다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨주⟩의 헤세드가"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "나는 걸어왔습니다"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "⟨주⟩의 에메트 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:28.838932251Z",
+  "model": "glm-5.2"
+}

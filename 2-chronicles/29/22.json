@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 29:22",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그들이 소를 잡으니, 코헨들이 ⟨את⟩ 피를 받아 제단에 뿌렸다. 그들이 수양들을 잡고 그 피를 제단에 뿌렸다. 그들이 어린양들을 잡고 그 피를 제단에 뿌렸다.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "그들이 잡으매"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "소를"
+    },
+    {
+      "surface": "ויקבלו",
+      "gloss": "받아들였다"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "피를"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "그들이 뿌렸다"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "제단에"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "그들이 잡고"
+    },
+    {
+      "surface": "האלים",
+      "gloss": "수양들을"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "그들이 뿌렸다"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "제단에"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "그들이 잡고"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "어린양들을"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "그들이 뿌렸다"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "제단에"
+    }
+  ],
+  "timestamp": "2026-08-05T13:01:29.573510335Z",
+  "model": "glm-5.2"
+}

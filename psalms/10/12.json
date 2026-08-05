@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "일어나소서, 야훼여! 엘이여, ⟨주의⟩ 손을 드소서! 가난한 자들을 잊지 마소서!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "일어나소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이여"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "드소서"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "손을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "잊지"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "가난한 자들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:57.578665199Z",
+  "model": "glm-5.2"
+}

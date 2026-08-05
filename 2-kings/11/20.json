@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 온 땅의 백성이 기뻐하였고, 그 도시는 평안하였다. 그리고 ⟨그들이⟩ ⟨את⟩ 아탈야를 — 그 왕의 집에서 칼로 죽였다.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "그리고 기뻐하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "그리고 그 도시는"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "평안하였다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아탈야를"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "아탈야를"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "죽였다"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:10.756027512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그녀가 ⟨그⟩에게 ⟨את⟩ 빌하를 — 자기 여종을 — 아내로 주매, 야곱이 그녀에게 들어갔다.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "주매"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그⟩에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "빌하를"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "빌하"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "자기 여종을"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:19.268454896Z",
+  "model": "glm-5.2"
+}

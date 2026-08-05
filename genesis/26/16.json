@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "아비멜렉이 이삭에게 말하였다. “우리에게서 떠나가라. 네가 우리보다 심히 강해졌기 때문이다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭"
+    },
+    {
+      "surface": "לך",
+      "gloss": "떠나가라"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "우리에게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "강해졌기"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "우리보다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:14.811744494Z",
+  "model": "glm-5.2"
+}

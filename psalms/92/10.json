@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "보라, 당신의 원수들이, 야훼여, 보라, 당신의 원수들이 멸망할 것이다. 악을 행하는 자들 전체가 흩어질 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "보라"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "당신의 원수들이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨보라⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "당신의 원수들이"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "멸망할 것이다"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "흩어질 것이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "전체가"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "행하는 자들"
+    },
+    {
+      "surface": "און",
+      "gloss": "악을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:36.865192475Z",
+  "model": "glm-5.2"
+}

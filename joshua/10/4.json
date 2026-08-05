@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "“나에게 올라오라, 그리고 나를 도우라, 그리고 우리가 ⟨את⟩ 기브온을 치자 — 곧 그것이 ⟨את⟩ 예호슈아와 ⟨את⟩ 이스라엘 아들들과 평화를 맺었기 ⟨때문이다⟩.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "올라오라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "그리고 나를 도우라"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "그리고 우리가 치자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기브온"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "기브온을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "평화를 맺었기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예호슈아"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "예호슈아와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:06:39.409347400Z",
+  "model": "glm-5.2"
+}

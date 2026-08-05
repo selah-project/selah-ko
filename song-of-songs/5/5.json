@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "내가 일어나 ⟨나의⟩ 사랑하는 이에게 열러 하니, ⟨나의⟩ 손들은 몰에서 뚝뚝 떨어지고, ⟨나의⟩ 손가락들은 ⟨나의⟩ 손바닥들 위로 스쳐 흐르는 몰이었다 — 그 문빗장의.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "내가 일어나"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "열려"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "나의 사랑하는 이에게"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "그리고 ⟨나의⟩ 손들은"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "뚝뚝 떨어지고"
+    },
+    {
+      "surface": "מור",
+      "gloss": "몰에서"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "그리고 ⟨나의⟩ 손가락들은"
+    },
+    {
+      "surface": "מור",
+      "gloss": "몰이"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "스쳐 흐르는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "손바닥들"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "그 문빗장의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:59.978854020Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "마음은 자기 네페쉬의 쓴 것을 안다. 그의 기쁨에는 낯선 자가 섞이지 못한다.",
+  "tokens": [
+    {
+      "surface": "לֵ֗ב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "י֭וֹדֵעַ",
+      "gloss": "안다"
+    },
+    {
+      "surface": "מָרַ֣ת",
+      "gloss": "쓴 것을"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "자기 네페쉬의"
+    },
+    {
+      "surface": "וּ֝בְשִׂמְחָת֗וֹ",
+      "gloss": "그의 기쁨에는"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "יִתְעָ֥רַב",
+      "gloss": "섞이"
+    },
+    {
+      "surface": "זָֽר",
+      "gloss": "낯선 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:49.657647701Z",
+  "model": "glm-5.2"
+}

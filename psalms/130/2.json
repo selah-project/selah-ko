@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 130,
+  "translation": "아도나이, 제 목소리를 들어 주십시오. ⟨당신의⟩ 귀가 주의하시기를, 간구의 소리 ⟨앞에⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "들어 주십시오"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "제 목소리를"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨되기를⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "귀가"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "주의하시기를"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "간구의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:14.565524523Z",
+  "model": "glm-5.2"
+}

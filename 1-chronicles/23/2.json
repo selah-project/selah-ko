@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 ⟨그⟩가 ⟨את⟩ 이스라엘의 모든 관리자들과 코헨들과 레위인들을 모으셨다.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "그리고 모으셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 모든 관리자들과 코헨들과 레위인들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "관리자들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "그리고 코헨들"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "그리고 레위인들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:53.123343939Z",
+  "model": "glm-5.2"
+}

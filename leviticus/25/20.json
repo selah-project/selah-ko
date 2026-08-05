@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너희가 말할 때에, '일곱째 해에 우리가 무엇을 먹을까? 보라, 우리는 뿌리지도 않고 ⟨את⟩ 우리 소출을 거두지도 않는다' 할지라도",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "그리고 만일 …하면"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "너희가 말하다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "우리가 먹을"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "…해에"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "우리가 뿌린다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "우리가 거둔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리 소출"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "우리 소출"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:11.801318586Z",
+  "model": "glm-5.2"
+}

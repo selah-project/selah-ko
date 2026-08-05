@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 41:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "가난한 자들과 궁핍한 자들이 물을 구하나 없으니, 그들의 혀가 목마름에 말랐다. 나 야훼가 그들에게 응답하겠고, 이스라엘의 엘로힘이 그들을 버리지 아니하겠다.",
+  "tokens": [
+    {
+      "surface": "העניים",
+      "gloss": "가난한 자들이"
+    },
+    {
+      "surface": "והאביונים",
+      "gloss": "그리고 궁핍한 자들이"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "구한다"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 없으니"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "그들의 혀가"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "목마름에"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "말랐다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אענם",
+      "gloss": "그들에게 응답하겠다"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אעזבם",
+      "gloss": "그들을 버리겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:33.975647030Z",
+  "model": "glm-5.2"
+}

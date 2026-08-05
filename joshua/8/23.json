@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그들이 ⟨את⟩ 아이의 왕을 산 채로 잡아서, 그를 예호슈아에게로 데려왔다.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아이의 왕을"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "הָעַ֖י",
+      "gloss": "아이의"
+    },
+    {
+      "surface": "תָּ֣פְשׂוּ",
+      "gloss": "잡아서"
+    },
+    {
+      "surface": "חָ֑י",
+      "gloss": "산 채로"
+    },
+    {
+      "surface": "וַיַּקְרִ֥בוּ",
+      "gloss": "데려왔다"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "יְהוֹשֻֽׁעַ",
+      "gloss": "예호슈아"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:23.663580068Z",
+  "model": "glm-5.2"
+}

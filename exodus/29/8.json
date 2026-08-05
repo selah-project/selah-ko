@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 ⟨את⟩ 그의 아들들을 가까이 데려오고, 그들에게 튜닉을 입혀라.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "가까이 데려오고"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "입혀라"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "튜닉"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:37.170465869Z",
+  "model": "glm-5.2"
+}

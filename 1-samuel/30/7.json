@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 다윗이 코헨 아히멜렉의 아들 에비아달에게 말하였다. \"제가 ⟨에포드⟩를 ⟨이리로⟩ ⟨가까이⟩ 가져오게 하십시오.\" 에비아달이 ⟨את⟩ ⟨에포드⟩를 다윗에게 ⟨가까이⟩ 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 —이 말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—에게"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "에비아달"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "아히멜렉"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "가까이 가져오게 하십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "⟨에포드⟩"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "그리고 —이 가까이 가져왔다"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "에비아달"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨에포드⟩"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "⟨에포드⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:48.809602111Z",
+  "model": "glm-5.2"
+}

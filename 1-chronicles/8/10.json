@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 ⟨את⟩ 여우츠와 ⟨את⟩ 쉐키야와 ⟨את⟩ 미르마를. 이들이 ⟨그의⟩ 아들들, 가문들의 우두머리이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "여우츠"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "여우츠"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "쉐키야"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "쉐키야"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "미르마"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "미르마"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "우두머리"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "가문들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:31.752711179Z",
+  "model": "glm-5.2"
+}

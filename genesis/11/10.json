@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "이것들이 셈의 족보이다. 셈은 백 년의 아들이었고, 홍수 후 이 년에 ⟨את⟩ 아르파크샤드를 낳았다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "족보이다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈의"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈은"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이었고"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년의"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "그리고 낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아르파크샤드를"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "아르파크샤드"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "이 년"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "후"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "홍수"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:59.229321776Z",
+  "model": "glm-5.2"
+}

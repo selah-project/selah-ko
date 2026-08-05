@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "오직 야훼의 토라에 그의 즐거움이 있고, 그의 토라를 밤낮으로 되뇌는도다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "토라에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "그의 즐거움이"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "그의 토라를"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "되뇌는도다"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "낮으로"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "밤"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:41.016757256Z",
+  "model": "glm-5.2"
+}

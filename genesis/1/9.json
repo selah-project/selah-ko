@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 말씀하셨다. \"하늘 아래의 물들이 한 곳으로 모이고, 마른 땅이 드러나라.\" 그리 되었다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "모이고"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "아래의"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "곳"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "드러나라"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "마른 땅이"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그리"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:26.566881779Z",
+  "model": "glm-5.2"
+}

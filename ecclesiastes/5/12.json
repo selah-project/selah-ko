@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "병든 악이 하나 있어, 내가 태양 아래서 보았다: 재물이 그 소유주에게 간수되어 그의 재앙이 되는 것이다.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "있어"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악이"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "병든"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았다"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래서"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "태양"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "재물이"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "간수되어"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "그 소유주에게"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "그의 재앙이 되는 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:42.083187335Z",
+  "model": "glm-5.2"
+}

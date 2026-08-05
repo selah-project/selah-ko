@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "이는 야훼께서 이같이 말씀하셨기 때문이다. 너희가 공짜로 팔렸고, 은이 아니로 될 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "공짜로"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "팔렸고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "속량될"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:26.558870787Z",
+  "model": "glm-5.2"
+}

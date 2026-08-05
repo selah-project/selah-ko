@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이스라엘 자손에게 말씀하여 ⟨이르기를⟩: 소와 양과 염소의 모든 기름을 먹지 말라.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말씀하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "기름을"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "그리고 양"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "그리고 염소"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "먹지 말라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:08.109526649Z",
+  "model": "glm-5.2"
+}

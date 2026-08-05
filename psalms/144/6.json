@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 144,
+  "translation": "번개를 번개치사 그들을 흩으소서. ⟨그⟩ 화살들을 보내사 그들을 뒤흔드소서.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "번개치사"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "번개를"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "그들을 흩으소서"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내사"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "⟨그⟩ 화살들을"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "그들을 뒤흔드소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:12.664331755Z",
+  "model": "glm-5.2"
+}

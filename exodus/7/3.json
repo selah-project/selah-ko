@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "나는 ⟨את⟩ 파르오의 마음을 완고하게 하고, ⟨את⟩ 나의 표징들과 ⟨את⟩ 나의 징조들을 미츠라임 땅에서 많게 하겠다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "완고하게 하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오의 마음"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "많게 하겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 표징들"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "나의 표징들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "나의 징조들"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "나의 징조들"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:12.346810239Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "온 땅에 그 줄이 나아갔고, 땅 끝까지 그들의 말이 ⟨이르니⟩, 그분께서 그들 안에 해를 위하여 천막을 놓으셨다.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나아갔고"
+    },
+    {
+      "surface": "קום",
+      "gloss": "그 줄이"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "끝까지"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "그들의 말이"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "해를 위하여"
+    },
+    {
+      "surface": "שם",
+      "gloss": "놓으셨다"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "천막을"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:40.147322763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그가 보려고 ⟨오⟩면 거짓을 말한다, ⟨그의⟩ 마음이 ⟨자신에게⟩ 불의를 모은다. ⟨그가⟩ 밖으로 나가면 말한다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그가 …면"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보려고"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "⟨그의⟩ 마음이"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "모은다"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의를"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨자신에게⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나가면"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "밖으로"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말한다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:37.271725838Z",
+  "model": "glm-5.2"
+}

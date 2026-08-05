@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그가 그에게 말하였다. \"당신의 이름이 무엇입니까?\" 그가 말하였다. \"야곱입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇입니까"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "당신의 이름이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:02.846426710Z",
+  "model": "glm-5.2"
+}

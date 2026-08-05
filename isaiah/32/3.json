@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 보는 자들의 눈이 흐려지지 ⟨않을⟩ 것이요, 듣는 자들의 귀가 기울일 것이다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 않을"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "흐려지지"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "보는 자들의"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "귀가"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "듣는 자들의"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "기울일 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:48.611276503Z",
+  "model": "glm-5.2"
+}

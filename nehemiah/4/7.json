@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 나는 그 성벽 뒤 빈터의 가장 낮은 곳들에, ⟨그⟩ 백성을 그들의 가족들대로 세우되, 그들의 칼과 그들의 창과 그들의 활과 함께 세웠다.",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "그리고 내가 세웠다"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "가장 낮은 곳들에"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "그 장소에"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "빈터에"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "그리고 내가 세웠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성을"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "가족들대로"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "그들의 칼"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "그들의 창"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "그리고 그들의 활"
+    }
+  ],
+  "timestamp": "2026-08-05T12:35:55.540744478Z",
+  "model": "glm-5.2"
+}

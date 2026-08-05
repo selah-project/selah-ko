@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "젖먹이의 혀가 목말라 그 입천장에 들러붙었다. 어린 아이들이 빵을 구하되 그것을 쪼개 주는 이가 없다.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "들러붙었다"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀가"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "젖먹이의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "그 입천장"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "목말라"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "어린 아이들이"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "구하되"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "쪼개 주는"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:02.733147677Z",
+  "model": "glm-5.2"
+}

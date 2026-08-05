@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "아비수아의 아들, 핀하스의 아들, 엘아자르의 아들, 코헨 ⟨아론⟩의 아들, 그 우두머리.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "아비수아"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "핀하스"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "우두머리"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:40.003841377Z",
+  "model": "glm-5.2"
+}

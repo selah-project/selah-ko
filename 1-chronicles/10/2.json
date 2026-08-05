@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 펠리쉬티인이 샤울과 그의 아들들을 뒤쫓으며 가까이 붙었고, 펠리쉬티인이 ⟨את⟩ 요나탄과 ⟨את⟩ 아비나답과 ⟨את⟩ 말키슈아를 쳤는데, 그들은 샤울의 아들들이었다.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "가까이 붙었고"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "펠리쉬티인이"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤쫓으며"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울과"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 뒤쫓으며"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들을"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "쳤는데"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "펠리쉬티인이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요나탄"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "요나탄과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아비나답"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "아비나답과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "말키슈아"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "말키"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "슈아를"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이었다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:41.977082414Z",
+  "model": "glm-5.2"
+}

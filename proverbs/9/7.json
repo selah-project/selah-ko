@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "조롱하는 자를 훈계하는 자는 자신에게 수치를 얻고, 악인을 책망하는 자는 자신에게 흠을 얻는다.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "훈계하는 자는"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "조롱하는 자를"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "얻고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자신에게"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "수치를"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "책망하는 자는"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "악인을"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "자신에게 흠을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:40.146081841Z",
+  "model": "glm-5.2"
+}

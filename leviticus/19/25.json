@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 다섯째 해에 너희는 ⟨את⟩ 그것의 열매를 먹어, 너희에게 그것의 소출을 더하게 하여라. 나는 너희 엘로힘 야훼이다.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "그리고 …해에"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "다섯째"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희는 먹어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 열매를"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "그것의 열매"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "더하게 하여"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "그것의 소출을"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:18.904956233Z",
+  "model": "glm-5.2"
+}

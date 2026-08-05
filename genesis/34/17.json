@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 만일 너희가 우리에게 듣지 아니하여 할례를 받지 아니하면, 우리는 ⟨את⟩ 우리 딸을 데리고 가겠다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "너희가 듣지"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "할례를 받으려"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "우리는 데리고 가겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리 딸"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "우리 딸"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "그리고 가겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:39.003756082Z",
+  "model": "glm-5.2"
+}

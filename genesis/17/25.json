@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 이스마엘 그의 아들은 십삼 세였다 — 그의 할례됨에, ⟨את⟩ 그의 포피의 살이.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "그리고 이스마엘은"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들(나이)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "셋"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "살"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "그의 할례됨에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 포피의 살"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "살"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "그의 포피"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:56.867422153Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "잠잠하라, 섬 거민들아. 츠돈의 장사꾼들, 바다를 건너는 자들이 너를 채웠다.",
+  "tokens": [
+    {
+      "surface": "דֹּמוּ",
+      "gloss": "잠잠하라"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "거민들아"
+    },
+    {
+      "surface": "אִי",
+      "gloss": "섬의"
+    },
+    {
+      "surface": "סֹחֵר",
+      "gloss": "장사꾼이여"
+    },
+    {
+      "surface": "צִידוֹן",
+      "gloss": "츠돈의"
+    },
+    {
+      "surface": "עֹבֵר",
+      "gloss": "건너는 자여"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "מִלְאוּךְ",
+      "gloss": "너를 채웠다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:17:11.877542466Z",
+  "model": "glm-5.2"
+}

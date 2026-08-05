@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "에쉬톤이 ⟨את⟩ 벳 라파와, ⟨את⟩ 파세아흐와, ⟨את⟩ 테힌나를 낳았으니 — 그는 이르 나하쉬의 아버지이다. 이들이 레카의 사람들이다.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "그리고 에쉬톤이"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "벳 라파를"
+    },
+    {
+      "surface": "בית",
+      "gloss": "벳"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "라파"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "파세아흐를"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "파세아흐"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "테힌나를"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "테힌나"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "이르"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "나하쉬의"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이다"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "레카의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:07.247525463Z",
+  "model": "glm-5.2"
+}

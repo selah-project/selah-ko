@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 ⟨그⟩ 소의 피에서 취하여 네 손가락으로 제단의 뿔들 위에 바르고, ⟨את⟩ 모든 피는 제단의 기초로 쏟아 부어라.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "그리고 …에서 취하여"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "피"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "소의"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "그리고 …을 바르고"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "뿔들"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "네 손가락으로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 피"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "쏟아 부어라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "기초"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:13.781435332Z",
+  "model": "glm-5.2"
+}

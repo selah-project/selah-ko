@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "알려지셨다, 야훼가, ⟨그⟩ 심판을 행하셨다 — 그의 두 손의 행위에 악인이 걸린다. 히가욘. 셀라.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "알려지셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "심판을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하셨다"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "행위에"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "그의 두 손의"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "걸린다"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인이"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "히가욘"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:08.548989154Z",
+  "model": "glm-5.2"
+}

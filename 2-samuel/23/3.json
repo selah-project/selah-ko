@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "이스라엘의 엘로힘이 말씀하셨다. 이스라엘의 반석이 내게 말씀하셨다. 사람을 다스리는 의로운 자, 엘로힘을 경외함으로 다스리는 자,",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "צור",
+      "gloss": "반석"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "다스리는"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "다스리는"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "경외함으로"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:14.202185224Z",
+  "model": "glm-5.2"
+}

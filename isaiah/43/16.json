@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "이같이 야훼께서 말씀하신다, 바다에 길을 주시는 ⟨이⟩, 그리고 강한 물들에 오솔길을 ⟨주시는 이시다⟩.",
+  "tokens": [
+    {
+      "surface": "כֹּה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "주시는"
+    },
+    {
+      "surface": "ביָּם",
+      "gloss": "바다에"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "길을"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "그리고 물들에"
+    },
+    {
+      "surface": "עַזִּים",
+      "gloss": "강한"
+    },
+    {
+      "surface": "נְתִיבָה",
+      "gloss": "오솔길을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:08.332517734Z",
+  "model": "glm-5.2"
+}

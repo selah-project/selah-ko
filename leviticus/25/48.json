@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 25:48",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "팔린 후에, 속량이 그에게 있을 것이니, 그의 형제 중 하나가 그를 속량할 것이다.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "~한 후에"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "팔린"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "속량이"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나가"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "그의 형제 중"
+    },
+    {
+      "surface": "יגאלנו",
+      "gloss": "그를 속량할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:36.936680408Z",
+  "model": "glm-5.2"
+}

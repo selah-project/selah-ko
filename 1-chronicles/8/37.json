@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 모츠아는 ⟨את⟩ 빈아를 낳았다. 라파는 그의 아들, 엘아사는 그의 아들, 아첼은 그의 아들이다.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "그리고 모츠아는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "빈아를"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "빈아"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "라파"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "엘아사"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "아첼"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:35.602542715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그녀의 남편의 마음은 그녀를 신뢰하며, 이익이 부족하지 아니하다.",
+  "tokens": [
+    {
+      "surface": "בָּ֣טַח",
+      "gloss": "신뢰하며"
+    },
+    {
+      "surface": "בָּ֭הּ",
+      "gloss": "그녀를"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "בַּעְלָ֑הּ",
+      "gloss": "그녀의 남편의"
+    },
+    {
+      "surface": "וְ֝שָׁלָ֗ל",
+      "gloss": "그리고 이익이"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니라"
+    },
+    {
+      "surface": "יֶחְסָֽר",
+      "gloss": "부족하지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:53.109472265Z",
+  "model": "glm-5.2"
+}

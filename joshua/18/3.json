@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 18:3",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 여호수아가 이스라엘 자손에게 말하였다. “너희가 너희 조상들의 엘로힘인 야훼께서 너희에게 주신 ⟨את⟩ 그 땅을 점령하러 들어가는 것을 언제까지 늦추고 있느냐?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "언제"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "מתרפים",
+      "gloss": "늦추고 있다"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "들어가는 것을"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "점령하러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주신"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이신"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "너희 조상들의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:08:44.521765204Z",
+  "model": "glm-5.2"
+}

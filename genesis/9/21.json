@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그가 포도주를 마시고 취하여, ⟨그의⟩ 천막 안에서 벌거벗은 채 드러내어졌다.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "마시고"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "היין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "드러내어졌다"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "안에서"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "천막"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:19.527603798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "엘로힘이 빌암을 만나러 오셨다. 그가 그에게 말하였다. \"⟨את⟩ 일곱 제단을 내가 차려 놓았고, 제단마다 수소와 숫양을 올렸습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "오셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "을"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "일곱 제단을"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "차려 놓았다"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "올렸습니다"
+    },
+    {
+      "surface": "פר",
+      "gloss": "수소"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "숫양"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "제단마다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:43:25.728789568Z",
+  "model": "glm-5.2"
+}

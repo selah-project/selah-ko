@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "지휘자에게. 다윗의 노래.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "노래"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:24.269187112Z",
+  "model": "glm-5.2"
+}

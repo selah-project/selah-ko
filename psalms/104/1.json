@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "내 네페쉬야, ⟨את⟩ 야훼를 찬송하라. 야훼, 나의 엘로힘, ⟨그⟩대는 심히 크시다. ⟨그⟩대는 위엄과 화려함을 입으셨다.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "찬송하라"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬야"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로힘"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "크시다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "위엄"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "그리고 화려함"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "입으셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:55.891466719Z",
+  "model": "glm-5.2"
+}

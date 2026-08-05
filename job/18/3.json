@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 18:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "어찌하여 우리가 짐승 같이 여김을 받으며, 너희 눈에 부정한 것으로 여김을 받는가?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "우리가 여김을 받으며"
+    },
+    {
+      "surface": "כבהמה",
+      "gloss": "짐승 같이"
+    },
+    {
+      "surface": "נטמינו",
+      "gloss": "부정한 것으로 여김을 받는가"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "너희 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:10.273690929Z",
+  "model": "glm-5.2"
+}

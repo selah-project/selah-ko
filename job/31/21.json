@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 31:21",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "내가 고아 위에 ⟨나의⟩ 손을 들었다면 — ⟨이는⟩ 내가 성문에서 ⟨나의⟩ 도움을 보았기 때문이다 —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "הניפותי",
+      "gloss": "내가 들었다면"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "고아"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "나의 손을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "내가 보았"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "성문에서"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "나의 도움을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:00.831652273Z",
+  "model": "glm-5.2"
+}

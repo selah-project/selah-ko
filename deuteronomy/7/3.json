@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그들과 혼인하지 말라. 네 딸을 그의 아들에게 주지 말고, 그의 딸을 네 아들을 위해 데려오지 말라.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "혼인하지"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들과"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "네 딸을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말고"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "주지"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "그의 아들에게"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "그의 딸을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "데려오지"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "네 아들을 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:56.194674256Z",
+  "model": "glm-5.2"
+}

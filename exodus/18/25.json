@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "모셰가 온 이스라엘 가운데서 능력 있는 자들을 택하여 ⟨את⟩ 그들을 백성 위에 머리로 삼으셨으니, 천 명의 장관, 백 명의 장관, 오십 명의 장관, 그리고 십 명의 장관이었다.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "택하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…의 자들을"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "능력"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "온 …가운데서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "삼으셨으니"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "머리로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…의 장관"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천 명"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…의 장관"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백 명"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…의 장관"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "오십 명"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "그리고 …의 장관"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "십 명"
+    }
+  ],
+  "timestamp": "2026-08-05T07:55:13.156309785Z",
+  "model": "glm-5.2"
+}

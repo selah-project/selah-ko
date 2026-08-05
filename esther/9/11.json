@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그 날에 수산 ⟨비라하⟩에서 살해된 자들의 수가 왕 앞에 이르렀다.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "בא",
+      "gloss": "이르렀다"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "수가"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "살해된 자들의"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "수산"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "비라하"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:45.596724204Z",
+  "model": "glm-5.2"
+}

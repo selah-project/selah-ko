@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그 일로 말미암아 — 그들이 너희가 미츠라임에서 나올 때 길에서 떡과 물로 너희를 맞이하지 아니하였고, 또 그가 너를 거슬러 ⟨את⟩ 아람 나하라임의 프트오르에서 브올의 아들 빌암을 고용하여 너를 저주하게 하였음이다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…로 말미암아"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "그 일"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "맞이하지"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "떡으로"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "물과"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길에서"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "너희가 나올 때"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "또 …함이라"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "고용하여"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "너를 거슬러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "빌암을"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암을"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "브올의"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "프트오르에서"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "나하라임의"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "너를 저주하게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:21.674219200Z",
+  "model": "glm-5.2"
+}

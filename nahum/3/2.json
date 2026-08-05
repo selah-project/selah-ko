@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "채찍 소리와 바퀴 요동 소리, 질주하는 말과 뛰오르는 병거.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "채찍"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "그리고 … 소리"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "요동"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "바퀴"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "그리고 말이"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "질주하는"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "그리고 병거가"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "뛰오르는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:02.719106969Z",
+  "model": "glm-5.2"
+}

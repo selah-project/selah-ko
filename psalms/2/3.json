@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "“우리가 ⟨את⟩ 그들의 밧줄을 끊어 버리고, 그들의 포박에서 ⟨그들의⟩ 줄을 던져 버리자.”",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "끊어 버리자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 밧줄을"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "그들의 밧줄을"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "던져 버리자"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "에서"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "그들의 줄을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:42.291089791Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "너희는 ⟨את⟩ 그 땅을 보아라 — 그것이 어떠한가. 그리고 ⟨את⟩ 그 위에 사는 그 백성은 — 강하냐, 약하냐, 적으냐, 많으냐.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "너희는 보아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "מה",
+      "gloss": "어떠한가"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성은"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "사는"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "강하냐"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨이냐⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "약하냐"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "적으냐"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨이냐⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많으냐"
+    }
+  ],
+  "timestamp": "2026-08-05T17:11:06.890170377Z",
+  "model": "glm-5.2"
+}

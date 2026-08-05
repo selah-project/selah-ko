@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "나탄 나비가 ⟨그⟩에게 올 때에 — 그가 바트 셰바에게 들어갔을 때에.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "올 때에"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨그⟩에게"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "—할 때에"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어갔을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בת",
+      "gloss": "바트"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:01.227308591Z",
+  "model": "glm-5.2"
+}

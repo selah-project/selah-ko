@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "참으로 그렇다, 너희가 ⟨오직⟩ 백성이므로, 너희와 함께 지혜가 죽을 것이다.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그렇다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이므로"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "너희와 함께"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "죽을 것이다"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:12.728613766Z",
+  "model": "glm-5.2"
+}

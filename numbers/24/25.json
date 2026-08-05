@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 24:25",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 빌암은 일어나, 가고, 자기 ⟨의⟩ 자리로 돌아갔다. 그리고 발락도 자기 ⟨의⟩ 길을 갔다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "자기 자리로"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 ~도"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "발락"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "자기 길을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:41:30.344355240Z",
+  "model": "glm-5.2"
+}

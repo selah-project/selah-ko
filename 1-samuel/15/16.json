@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "슈무엘이 샤울에게 말하였다. \"멈추시오. 내가 당신에게 밤에 야훼께서 내게 말씀하신 ⟨את⟩ 그것을 알려 드리겠소.\" 그가 그에게 \"말씀하시오\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "멈추시오"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "알려 드리겠소"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하시오"
+    }
+  ],
+  "timestamp": "2026-08-05T18:37:09.754767451Z",
+  "model": "glm-5.2"
+}

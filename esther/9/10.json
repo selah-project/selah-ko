@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "하만 — 하마다타의 아들이요 유다인들을 괴롭힌 자 — 의 열 아들을 죽였으나, 전리품에는 손을 대지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "열"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들"
+    },
+    {
+      "surface": "המן",
+      "gloss": "하만"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "하마다타"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "괴롭힌 자"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "유다인들"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "죽였으나"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "전리품에는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "내밀지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 손"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "그들의 손"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:45.596619449Z",
+  "model": "glm-5.2"
+}

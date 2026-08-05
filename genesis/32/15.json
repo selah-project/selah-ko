@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "암염소 200수 그리고 수염소 20마리, 암양 200마리 그리고 숫양 20마리 —",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "암염소"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "200"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "그리고 수염소"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "20"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "암양"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "200"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "그리고 숫양"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "20"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:57.469225415Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "엘로힘이 ⟨그⟩가 ⟨그⟩와 말씀하신 곳에서 ⟨그⟩에게서 올라가셨다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "올라가셨다"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "⟨그⟩에게서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩가"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨그⟩와"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:37.668914841Z",
+  "model": "glm-5.2"
+}

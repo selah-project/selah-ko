@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 이것들이 미츠라임으로 들어가는 이스라엘 아들들의 이름들이다 — ⟨את⟩ 야곱이, 한 사람과 그의 가족(가정)이 (함께) 들어갔다.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것들이"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "들어가는"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "미츠라임으로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야곱"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람과"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "그의 가족(가정)이"
+    },
+    {
+      "surface": "באו",
+      "gloss": "들어갔다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:45:40.001099904Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 46:1",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "이같이 아도나이 야훼께서 말씀하셨다. 동쪽을 향한 안뜰의 문은 일하는 엿새 동안 닫혀 있을 것이며, 샤밧 날에는 열리고, 초하루 날에는 열릴 것이다.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문은"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "뜰의"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "안"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "향한"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "동쪽을"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "닫혀"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "엿새"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "동안"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "일하는"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "그리고 … 날에는"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "샤밧"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "열리고"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "그리고 … 날에는"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "초하루"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "열릴 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:04:19.094493776Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "아브라함은 가축과 은과 금으로 매우 무거웠다.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "아브라함은"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "무거웠다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "가축으로"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "은으로"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "그리고 금으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:38.592074054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "내가 아래 구덩이에서 야훼, ⟨당신의⟩ 이름을 불렀다.",
+  "tokens": [
+    {
+      "surface": "קָרָ֤אתִי",
+      "gloss": "내가 불렀다"
+    },
+    {
+      "surface": "שִׁמְךָ֙",
+      "gloss": "당신의 이름을"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מִבּ֖וֹר",
+      "gloss": "구덩이에서"
+    },
+    {
+      "surface": "תַּחְתִּיּֽוֹת",
+      "gloss": "아래"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:32.747412215Z",
+  "model": "glm-5.2"
+}

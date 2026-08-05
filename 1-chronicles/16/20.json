@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그들이 민족에게서 민족으로, 왕국에게서 다른 백성으로 옮겨 다녔을 때",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "옮겨 다녔을 때"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "민족에게서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "민족"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "왕국에게서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:40.624913093Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리하여 야훼께서 ⟨את⟩ 왕국을 그의 손에 견고히 세우셨고, 온 유다가 예호샤팟에게 예물을 바치니, 그에게 재물과 영광이 풍성하였다.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "그리하여 견고히 세우셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕국을"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "왕국"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "바치니"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다가"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "예물을"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "예호샤팟에게"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "재물과"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "풍성하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:56:47.674565510Z",
+  "model": "glm-5.2"
+}

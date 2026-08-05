@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "악한 사람들을 시기하지 말라, 그리고 그들과 함께 되기를 갈망하지 말라.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "시기하다"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "…사람들을"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악한"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …하지 말라"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "갈망하다"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "…되기를"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그들과"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:57.332348669Z",
+  "model": "glm-5.2"
+}

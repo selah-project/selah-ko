@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 내가 ⟨את⟩ 다윗의 씨를 낮추리니, 이 일로 인하여이다. 오직, ⟨모든⟩ 날들 ⟨내내⟩는 아니다.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "그리고 내가 낮추리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗의 씨"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…로 인하여"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날들"
+    }
+  ],
+  "timestamp": "2026-08-05T18:12:48.066225307Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "요밥이 죽으매, 테이만 땅에서 온 후샘이 ⟨그⟩ 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽으매"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "요밥이"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "⟨그⟩ 대신하여"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "후샘이"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서 ⟨온⟩"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "테이만"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:31.252499666Z",
+  "model": "glm-5.2"
+}

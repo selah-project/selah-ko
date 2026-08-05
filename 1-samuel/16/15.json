@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 샤울의 종들이 그에게 말하였다. \"보십시오, 엘로힘의 악한 루아흐가 당신을 괴롭힙니다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들이"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악한"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "당신을 괴롭힙니다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:31.437642637Z",
+  "model": "glm-5.2"
+}

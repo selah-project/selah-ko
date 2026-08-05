@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그러므로 너는 목욕하고 기름을 바르고 네 겉옷을 네 몸에 입고 타작마당으로 내려가거라. 그 사람에게 알려지지 말라, 그가 먹고 마시는 것을 마칠 때까지.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "목욕하고"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "기름을 바르고"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "입고"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "네 겉옷을"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "네 몸에"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "내려가거라"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "타작마당으로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨아니라⟩"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "알려지지 말라"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "그 사람에게"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "그가 마칠"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "마시는 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:35.244368992Z",
+  "model": "glm-5.2"
+}

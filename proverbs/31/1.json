@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "르무엘 왕의 말씀, 그의 어머니가 ⟨그⟩ 훈계한 ⟨이것이다⟩:",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "르무엘"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "משא",
+      "gloss": "⟨이것이다⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "훈계한"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "그의 어머니가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:04.284630052Z",
+  "model": "glm-5.2"
+}

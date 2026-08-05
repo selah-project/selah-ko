@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "네 평생의 모든 날 동안 아무도 네 앞에 서지 못하리라. 내가 모셰와 함께하였던 것같이, 내가 너와 함께하리라. 내가 너를 놓지 아니하며 너를 버리지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하리라"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "서리라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "네 앞에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날 동안"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "네 평생의"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "∼것같이"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "내가 함께하였던"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "내가 ∼하리라"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하며"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "내가 너를 놓지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하리라"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "너를 버리지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:34.560030583Z",
+  "model": "glm-5.2"
+}

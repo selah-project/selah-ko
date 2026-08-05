@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그들은 들에서 한 사람 미츠리를 발견하고 그를 다윗에게 데려와, 그에게 빵을 주어 먹게 하고 물을 마시게 하였다.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "그들은 발견하고"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "미츠리를"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "데려와"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "그들은 주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "먹었다"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "그들은 마시게 하였다"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:34:10.563413453Z",
+  "model": "glm-5.2"
+}

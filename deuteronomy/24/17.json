@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "너는 거류민과 고아의 공의를 굽히지 말며, 과부의 겉옷을 전당잡지 말라.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תַטֶּ֔ה",
+      "gloss": "굽히다"
+    },
+    {
+      "surface": "מִשְׁפַּ֖ט",
+      "gloss": "공의"
+    },
+    {
+      "surface": "גֵּ֣ר",
+      "gloss": "거류민"
+    },
+    {
+      "surface": "יָת֑וֹם",
+      "gloss": "고아"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "그리고 …하지 말라"
+    },
+    {
+      "surface": "תַחֲבֹ֔ל",
+      "gloss": "전당잡다"
+    },
+    {
+      "surface": "בֶּ֖גֶד",
+      "gloss": "겉옷"
+    },
+    {
+      "surface": "אַלְמָנָֽה",
+      "gloss": "과부"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:28.723359949Z",
+  "model": "glm-5.2"
+}

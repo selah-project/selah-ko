@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "어찌하여 내가 악의 날들에 두려워하랴, 나의 발뒤꿈치를 에워싸는 나의 불의가",
+  "tokens": [
+    {
+      "surface": "לָמָּה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "אִירָא",
+      "gloss": "내가 두려워하랴"
+    },
+    {
+      "surface": "בִּימֵי",
+      "gloss": "날들에"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "악의"
+    },
+    {
+      "surface": "עֲוֺן",
+      "gloss": "불의가"
+    },
+    {
+      "surface": "עֲקֵבַי",
+      "gloss": "나의 발뒤꿈치를"
+    },
+    {
+      "surface": "יְסוּבֵּנִי",
+      "gloss": "에워싸는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:05.863078942Z",
+  "model": "glm-5.2"
+}

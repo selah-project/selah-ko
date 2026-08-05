@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "이새가 나귀 한 마리 — 빵과, 포도주 한 부대와, 염소 새끼 하나를 — 취하여, 아들 다윗의 손으로 샤울에게 보냈다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이새가"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "나귀"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "ונאד",
+      "gloss": "부대"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "새끼"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "염소"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보냈다"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:18.899790751Z",
+  "model": "glm-5.2"
+}

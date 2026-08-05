@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 그에게 말하였다. \"이렇게 입타가 말한다. 이스라엘은 ⟨את⟩ 모압의 땅과 ⟨את⟩ 암몬 자손의 땅을 취하지 아니하였다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "입타가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "취하지"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모압의 땅을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "암몬 자손의 땅을"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    }
+  ],
+  "timestamp": "2026-08-05T09:18:08.712719583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "어리석음이 높은 자리들에 놓이고, 부유한 자들은 낮은 곳에 앉아 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "놓이고"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "어리석음이"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "높은 자리들에"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "부유한 자들은"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "낮은 곳에"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "앉아 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:07.178276137Z",
+  "model": "glm-5.2"
+}

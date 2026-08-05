@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 ⟨그가⟩ 자기 아버지와 자기 어머니를 저주하면, 반드시 죽임을 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "그리고 저주하면"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지를"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "그리고 자기 어머니를"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음으로"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽임을 당할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:08.406563236Z",
+  "model": "glm-5.2"
+}

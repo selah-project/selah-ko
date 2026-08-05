@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "나는 너를 아슈르 왕의 손에서, 그리고 ⟨את⟩ 이 성을 건져내리라. 내가 이 성을 덮으리라.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "그리고 ~의 손에서"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "너를 건져내리라"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "이 성을"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "내가 덮으리라"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:33.935509680Z",
+  "model": "glm-5.2"
+}

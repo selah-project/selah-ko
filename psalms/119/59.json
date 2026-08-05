@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "내가 내 길들을 헤아렸다 — 그리고 ⟨나⟩는 ⟨나⟩의 발길을 ⟨그⟩대의 증언들 ⟨쪽⟩으로 돌이켰다.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "내가 … 헤아렸다"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "내 길들을"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "그리고 … 돌이켰다"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "⟨나⟩의 발길을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨쪽⟩으로"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "⟨그⟩대의 증언들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:36.027752164Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 11:15",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 북쪽 왕이 와서 공성토를 쌓고 요새화된 성을 점령할 것이며. 남쪽의 팔들이 버티지 못하고, 그의 뽑힌 군대도 버틸 힘이 없으리라.",
+  "tokens": [
+    {
+      "surface": "ולכד",
+      "gloss": "그리고 점령할 것이며"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성을"
+    },
+    {
+      "surface": "מבצרות",
+      "gloss": "요새화된"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "그리고 팔들이"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "남쪽의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하고"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "버티지"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "그리고 군대도"
+    },
+    {
+      "surface": "מבחריו",
+      "gloss": "그의 뽑힌"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없으리라"
+    },
+    {
+      "surface": "כח",
+      "gloss": "힘이"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "버틸"
+    }
+  ],
+  "timestamp": "2026-08-05T12:30:45.939852174Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "나의 거룩한 것들을 멸시하였고, ⟨그리고⟩ ⟨את⟩ 나의 샤밧들을 모독하였도다.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "나의 거룩한 것들을"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "멸시하였고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "나의 샤밧들을"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "나의 샤밧들을"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "모독하였도다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:53:43.159959352Z",
+  "model": "glm-5.2"
+}

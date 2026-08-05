@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 백성이 사람마다 서로 짓밟으리니, 사람이 사람에게, 사람이 그의 이웃에게 ⟨하리라⟩. 소년이 노인에게 거칠게 굴 것이며, 천한 자가 존귀한 자에게 ⟨그리하리라⟩.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "그리고 짓밟으리니"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "그의 이웃에게"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "거칠게 굴 것이며"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "소년이"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "노인에게"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "천한 자가"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "존귀한 자에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:30.472099869Z",
+  "model": "glm-5.2"
+}

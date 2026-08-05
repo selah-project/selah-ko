@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "콧구멍에 생명의 루아흐의 숨결이 있는 모든 것, 마른 땅에 있는 모든 것 중에서, 죽었다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "숨결이"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐의"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "생명의"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "콧구멍에"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 것 중에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "마른 땅에"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:10.332095185Z",
+  "model": "glm-5.2"
+}

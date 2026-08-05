@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그의 조상들의 죄악이 야훼 앞에서 기억되게 하시며, 그의 어머니의 죄가 지워지지 않게 하소서.",
+  "tokens": [
+    {
+      "surface": "יִזָּכֵ֤ר",
+      "gloss": "기억되게 하시며"
+    },
+    {
+      "surface": "עֲוֺ֣ן",
+      "gloss": "죄악이"
+    },
+    {
+      "surface": "אֲ֭בֹתָיו",
+      "gloss": "그의 조상들의"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וְחַטַּ֥את",
+      "gloss": "죄가"
+    },
+    {
+      "surface": "אִ֝מּ֗וֹ",
+      "gloss": "그의 어머니의"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תִּמָּֽח",
+      "gloss": "지워지게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:16.026663806Z",
+  "model": "glm-5.2"
+}

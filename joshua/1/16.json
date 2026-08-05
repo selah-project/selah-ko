@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그들이 ⟨את⟩ 여호수아에게 대답하여 말하였다: '당신이 우리에게 명령한 모든 것을 우리가 행하겠고, 당신이 우리를 보내는 모든 곳으로 우리가 가겠다.'",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여호수아를"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "명령한"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "행하겠고"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곳"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "보내는"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "가겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:03:53.861840863Z",
+  "model": "glm-5.2"
+}

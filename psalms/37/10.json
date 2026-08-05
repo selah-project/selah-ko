@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 ⟨조금⟩ 더 있으면 악인이 없어질 것이니, ⟨네가⟩ 그의 자리를 살피면 그가 ⟨없을 것이다⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "그리고 더"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "⟨조금⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없어질 것이니"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인이"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "⟨네가⟩ 살피면"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "그의 자리를"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "⟨없을 것이다⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:40.696492799Z",
+  "model": "glm-5.2"
+}

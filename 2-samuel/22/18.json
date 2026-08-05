@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "나를 건지셨다 — 나의 강한 원수에게서, 나를 미워하는 자들에게서. 그들이 나보다 강하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "나를 건지셨다"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "나의 원수에게서"
+    },
+    {
+      "surface": "עז",
+      "gloss": "강한"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "나를 미워하는 자들에게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "그들이 강하였기"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나보다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:55.964315137Z",
+  "model": "glm-5.2"
+}

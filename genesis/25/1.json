@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "아브라함이 다시 ⟨아내를⟩ 취하였으니, 그녀의 이름은 케투라이다.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "다시"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "취하였으니"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인을"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "그녀의 이름은"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "케투라이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:34.431337794Z",
+  "model": "glm-5.2"
+}

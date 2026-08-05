@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 124,
+  "translation": "그때에 물이 우리를 휩쓸었으리라, 급류가 우리의 네페쉬를 넘어갔으리라.",
+  "tokens": [
+    {
+      "surface": "אֲ֭זַי",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "הַמַּ֣יִם",
+      "gloss": "물이"
+    },
+    {
+      "surface": "שְׁטָפ֑וּנוּ",
+      "gloss": "우리를 휩쓸었으리라"
+    },
+    {
+      "surface": "נַ֗֜חְלָה",
+      "gloss": "급류가"
+    },
+    {
+      "surface": "עָבַ֥ר",
+      "gloss": "넘어갔으리라"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨위로⟩"
+    },
+    {
+      "surface": "נַפְשֵֽׁנוּ",
+      "gloss": "우리의 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:03.904663948Z",
+  "model": "glm-5.2"
+}

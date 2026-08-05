@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 21:9",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그들이 듣지 아니하였고, 므나쎄가 그들을 미혹하게 하여 야훼께서 이스라엘 자손 앞에서 멸하신 ⟨그⟩ 민족들보다 더 ⟨את⟩ 악을 행하게 하였다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "그들이 듣지"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "그들을 미혹하게 하였"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "므나쎄가"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하게 하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "악"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "멸하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:04:32.473429776Z",
+  "model": "glm-5.2"
+}

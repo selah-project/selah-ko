@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "성벽이 ⟨되었다⟩ 우리 위에, 밤에도 낮에도, 우리가 그들과 함께 있던 모든 날 동안 양 떼를 치면서.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "성벽이"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨되었다⟩"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리 위에"
+    },
+    {
+      "surface": "גם",
+      "gloss": "~도"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "גם",
+      "gloss": "~도"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "낮에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날 동안"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "우리가 있던"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "그들과 함께"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "치면서"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:27.840939109Z",
+  "model": "glm-5.2"
+}

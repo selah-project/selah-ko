@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그들의 말이 하모르의 눈에, 그리고 하모르의 아들 쉐켐의 눈에 좋게 여겨졌다.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "좋게 여겨졌다"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "그들의 말이"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "하모르의"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "그리고 눈에"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "쉐켐의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "하모르의"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:43.034840679Z",
+  "model": "glm-5.2"
+}

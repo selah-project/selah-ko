@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 11:6",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "슐로모는 야훼의 눈에 악을 행하였고, 그의 아비 다윗처럼 야훼를 온전히 따르지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모는"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "온전히"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "따르지"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "다윗처럼"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아비"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:28.542515622Z",
+  "model": "glm-5.2"
+}

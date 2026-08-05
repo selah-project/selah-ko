@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리고 그들은 ⟨את⟩ 그들의 아들들과 ⟨את⟩ 그들의 딸들을 셰딤에게 제물로 도축하였다.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "그리고 그들은 …을 도축하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 아들들"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "그들의 아들들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그들의 딸들"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "그들의 딸들"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "셰딤에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:29.752790858Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "이스라엘은 야훼 안에서 구원을 얻었다, 영원한 구원이다. 너희는 부끄러워하지도, 수치를 당하지도 않을 것이다, 영원까지.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "구원을 얻었다"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼 안에서"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "구원이다"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "부끄러워하지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "도 아니한다"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "수치를 당하지"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "영원"
+    },
+    {
+      "surface": "עד",
+      "gloss": "영원의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:21:26.510717789Z",
+  "model": "glm-5.2"
+}

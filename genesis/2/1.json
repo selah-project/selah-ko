@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리하여 하늘과 땅과 그 모든 군대가 완성되었다.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "그리하여 … 완성되었다"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘과"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "땅과"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그 모든"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "군대가"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:23.040657099Z",
+  "model": "glm-5.2"
+}

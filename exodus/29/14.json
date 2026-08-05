@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그러나 ⟨너는⟩ 수소의 고기와 ⟨את⟩ 그것의 가죽과 ⟨את⟩ 그것의 배설물을 진 바깥에서 불에 태워야 한다. 그것은 속죄 제물이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "고기"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "고기"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "수소의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 가죽"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "그것의 가죽"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 배설물"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "그것의 배설물을"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "태워야 한다"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "바깥에서"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "진"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "속죄 제물"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:07.951081568Z",
+  "model": "glm-5.2"
+}

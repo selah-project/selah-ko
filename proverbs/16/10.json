@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "점술이 왕의 입술 위에 있으니, 판결에서 그의 입이 배신하지 않는다.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "점술이"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "입술"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "판결에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "배신한다"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "그의 입이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:44.080621910Z",
+  "model": "glm-5.2"
+}

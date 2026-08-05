@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그가 ⟨את⟩ 하-바알을 섬기고 그에게 절하였으며, 자기 아버지가 행한 모든 것처럼 ⟨את⟩ 야훼 이스라엘의 엘로힘을 노여워하게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "섬기고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하-바알"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "하-바알을"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "절하였으며"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "노여워하게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것처럼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~하는"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행한"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:22.654492598Z",
+  "model": "glm-5.2"
+}

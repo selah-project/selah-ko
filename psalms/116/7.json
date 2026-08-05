@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "내 네페쉬야, 네 안식处로 돌아가라. 이는 야훼께서 너에게 은혜를 베푸셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬야"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "네 안식处로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "은혜를 베푸셨기"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "너에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:52.397407180Z",
+  "model": "glm-5.2"
+}

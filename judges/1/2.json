@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼께서 말씀하셨다. \"유다가 올라가라. 보라, 내가 ⟨את⟩ 그 땅을 그의 손에 주었노라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ⟨그가⟩ 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "올라가리라"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 주었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:39.253537449Z",
+  "model": "glm-5.2"
+}

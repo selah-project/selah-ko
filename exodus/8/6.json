@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 “내일로” 말하니, ⟨그가⟩ “당신의 말씀대로 하겠습니다. 그리하여 ⟨당신이⟩ 야훼 같은 이가 우리의 엘로힘이심을 알게 되리이다” 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "내일로"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "당신의 말씀대로"
+    },
+    {
+      "surface": "למען",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "당신이 알게 되리이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없음"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "야훼 같은 이가"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리의 엘로힘이심을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:40.458312313Z",
+  "model": "glm-5.2"
+}

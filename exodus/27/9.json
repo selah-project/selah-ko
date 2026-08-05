@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 너는 미쉬칸의 ⟨את⟩ 뜰을 만들되, 남쪽 편으로 남향에 휘장들을 만들어라 — ⟨그⟩ 뜰의 휘장들은 가늘게 꼰 아마 ⟨한⟩ 백 큐빗이 ⟨그⟩ 한 편의 길이이다.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 만들되"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "뜰을"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "뜰"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "미쉬칸의"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "편으로"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "남쪽"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "남향에"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "휘장들"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "뜰의"
+    },
+    {
+      "surface": "שש",
+      "gloss": "가는 아마"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "꼰"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "큐빗"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "길이"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "편의"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:09.570562420Z",
+  "model": "glm-5.2"
+}

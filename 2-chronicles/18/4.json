@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 여호샤팟이 이스라엘 왕에게 말하였다. \"오늘, 청컨대 ⟨את⟩ 야훼의 말씀을 구하십시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …이 말하였다"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "여호샤팟이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "구하십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청컨대"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 말씀"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:57:38.496876847Z",
+  "model": "glm-5.2"
+}

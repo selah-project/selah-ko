@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그녀가 ⟨את⟩ 그의 이름을 요셉이라 불러 말하였다. '야훼께서 내게 다른 아들을 더하시기를.'",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "불러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이름을"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이라"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "더하시기를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:02.876805368Z",
+  "model": "glm-5.2"
+}

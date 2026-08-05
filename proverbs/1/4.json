@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "순박한 자들에게 신중함을 주기 위해, 젊은이에게 다아트와 메지마를.",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "주기 위해"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "순박한 자들에게"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "신중함"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "젊은이에게"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "다아트"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "그리고 메지마"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:19.969321289Z",
+  "model": "glm-5.2"
+}

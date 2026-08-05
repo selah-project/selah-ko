@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그가 놋문들을 부수셨기 때문이다, 그리고 철 빗장들을 잘라버리셨다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "그가 부수셨다"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "문들을"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "놋"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "그리고 빗장들을"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "잘라버리셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:53.586196215Z",
+  "model": "glm-5.2"
+}

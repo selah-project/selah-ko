@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "당신의 왕국은 모든 시대의 왕국이요, 당신의 통치는 모든 세대와 세대에 ⟨이르나이다⟩.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "당신의 왕국은"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "왕국이요"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "시대의"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "그리고 당신의 통치는"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דור",
+      "gloss": "세대와"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "세대에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:35.037518017Z",
+  "model": "glm-5.2"
+}

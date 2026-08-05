@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "나를 대답하소서, 야훼여, 당신의 헤세드가 좋기 때문입니다. 당신의 자비하심이 풍성함을 따라 내게로 얼굴을 돌이키소서.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "나를 대답하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "당신의 헤세드가"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "풍성함을 따라"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "당신의 자비하심이"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "얼굴을 돌이키소서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:11.914639462Z",
+  "model": "glm-5.2"
+}

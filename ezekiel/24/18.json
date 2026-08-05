@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 24:18",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "내가 아침에 백성에게 말하였더니, 저녁에 내 아내가 죽었고, 나는 아침에 명령받은 대로 행하였다.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "내가 말하였더니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성에게"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "죽었고"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "내 아내가"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "저녁에"
+    },
+    {
+      "surface": "ואעש",
+      "gloss": "나는 행하였다"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "명령받은"
+    }
+  ],
+  "timestamp": "2026-08-05T13:59:06.595405710Z",
+  "model": "glm-5.2"
+}

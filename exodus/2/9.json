@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "파르오의 딸이 그녀에게 말하였다. \"이 아이를 데리고 가서 나를 위해 젖먹여 다오. 내가 그대의 삯을 주겠다.\" 그 여인이 ⟨את⟩ 아이를 데려가서 젖먹였다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "데리고 가거라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아이"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "아이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "젖먹여 다오"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "주겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그대의 삯"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "그대의 삯"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "데려갔다"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "여인이"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "아이를"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "젖먹였다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:41.615565324Z",
+  "model": "glm-5.2"
+}

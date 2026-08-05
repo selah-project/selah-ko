@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "그들이 집들을 짓고 ⟨그것들에⟩ 거주하며, 포도원들을 심고 그것의 열매를 먹을 것이다.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "그들이 짓고"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "집들을"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "거주하며"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "심고"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "포도원들을"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "먹을 것이다"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "그것의 열매를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:38.887041797Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그러나 그들은 듣지 아니하였고, 그들의 귀를 기울이지 아니하였다. 그들이 ⟨את⟩ 그들의 목덜미를 뻣뻣하게 하였으니, 듣지 아니하고 훈계를 받아들이지 아니하려고.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 아니"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "들은"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 아니"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "기울인"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 귀"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "그들의 귀를"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "그들이 뻣뻣하게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 목덜미"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "그들의 목덜미를"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "아니하려고"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "듣지"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "그리고 아니하려고"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "받아들이지"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "훈계를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:32:55.557407346Z",
+  "model": "glm-5.2"
+}

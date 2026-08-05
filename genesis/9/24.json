@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리하여 노아가 ⟨그의⟩ 포도주에서 깨어, ⟨את⟩ ⟨그의⟩ 아들인 작은 자가 ⟨그에게⟩ 행한 것을 알게 되었다.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "깨어"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "포도주에서"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "알게 되었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "…행한 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행한"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "아들인"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "작은 자"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:19.528118161Z",
+  "model": "glm-5.2"
+}

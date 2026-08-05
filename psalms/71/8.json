@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "채워지리라 내 입이 당신의 찬양으로, 온 종일 ⟨당신의⟩ 위엄으로.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "채워지리다"
+    },
+    {
+      "surface": "פי",
+      "gloss": "내 입이"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "당신의 찬양으로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "היום",
+      "gloss": "종일"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "당신의 위엄으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:17.540639743Z",
+  "model": "glm-5.2"
+}

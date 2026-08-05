@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "⟨그가⟩ 일어나 가서 샤마론으로 갔더니, ⟨그는⟩ 길 위에 목자들의 양 깎는 집인 벳-에켓에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "가서"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔더니"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "샤마론으로"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그는⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "에켓"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "목자들의"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:06.615916878Z",
+  "model": "glm-5.2"
+}

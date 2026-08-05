@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 아자젤을 위하여 ⟨את⟩ 수염소를 보낸 자는 자기 옷을 빨고, 물로 ⟨את⟩ 자기 몸을 씻을 것이니, 그 후에 진영으로 들어올 것이다.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "그리고 … 보낸 자는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "수염소를"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "수염소를"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "아자젤을 위하여"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "빨고"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "그리고 … 씻을 것이니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 몸을"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "자기 몸을"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물로"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 … 후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "들어올 것이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:26.909459140Z",
+  "model": "glm-5.2"
+}

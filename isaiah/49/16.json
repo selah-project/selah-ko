@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "보라, 내가 ⟨את⟩ 너를 내 손바닥들 위에 새겼다. 네 성벽들이 늘 내 앞에 있다.",
+  "tokens": [
+    {
+      "surface": "הֵ֥ן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כַּפַּ֖יִם",
+      "gloss": "손바닥들"
+    },
+    {
+      "surface": "חַקֹּתִ֑יךָ",
+      "gloss": "내가 ⟨את⟩ 너를 새겼다",
+      "marks": "너"
+    },
+    {
+      "surface": "חוֹמֹתַ֥יִךְ",
+      "gloss": "네 성벽들이"
+    },
+    {
+      "surface": "נֶגְדִּ֖י",
+      "gloss": "내 앞에"
+    },
+    {
+      "surface": "תָּמִֽיד",
+      "gloss": "늘"
+    }
+  ],
+  "timestamp": "2026-08-05T18:16:06.163196422Z",
+  "model": "glm-5.2"
+}

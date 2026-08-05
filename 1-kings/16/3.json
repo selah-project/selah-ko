@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "“보라, 내가 바아사와 그의 집안의 뒤를 다 태워 없애리니, 네 집을 늈밧의 아들 여로보암의 집과 같이 만들 것임이니 —",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "보라, 내가"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "…태워 없애는"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…뒤를"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "바아사"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 …뒤를"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 만들 것임이니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 집"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "네 집"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "…집 같이"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "여로보암"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "늈밧"
+    }
+  ],
+  "timestamp": "2026-08-05T09:52:34.031621233Z",
+  "model": "glm-5.2"
+}

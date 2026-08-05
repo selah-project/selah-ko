@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "포도주와 독주에서 ─ 구별하고, 포도주의 식초와 독주의 식초를 마시지 말며, 포도의 어떤 즙도 마시지 말고, 생포도와 마른 포도를 먹지 말라.",
+  "tokens": [
+    {
+      "surface": "מִיַּיִן",
+      "gloss": "포도주에서"
+    },
+    {
+      "surface": "וְשֵׁכָר",
+      "gloss": "독주와"
+    },
+    {
+      "surface": "יַזִּיר",
+      "gloss": "구별하고"
+    },
+    {
+      "surface": "חֹמֶץ",
+      "gloss": "식초"
+    },
+    {
+      "surface": "יַיִן",
+      "gloss": "포도주의"
+    },
+    {
+      "surface": "וְחֹמֶץ",
+      "gloss": "식초와"
+    },
+    {
+      "surface": "שֵׁכָר",
+      "gloss": "독주의"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "말며"
+    },
+    {
+      "surface": "יִשְׁתֶּה",
+      "gloss": "마시지"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מִשְׁרַת",
+      "gloss": "즙"
+    },
+    {
+      "surface": "עֲנָבִים",
+      "gloss": "포도의"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "말고"
+    },
+    {
+      "surface": "יִשְׁתֶּה",
+      "gloss": "마시지"
+    },
+    {
+      "surface": "וַעֲנָבִים",
+      "gloss": "포도와"
+    },
+    {
+      "surface": "לַחִים",
+      "gloss": "생"
+    },
+    {
+      "surface": "וִיבֵשִׁים",
+      "gloss": "마른"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "יֹאכֵל",
+      "gloss": "먹지"
+    }
+  ],
+  "timestamp": "2026-08-05T08:31:38.494773848Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "다윗이 아비새에게 말하였다. \"그를 멸하지 말아라. 누가 야훼의 마쉬아흐에게 손을 뻗고 무죄하겠는가?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "아비새"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말아라"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "그를 멸"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "뻗고"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "손을"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "마쉬아흐에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "무죄하겠는가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:21.694078084Z",
+  "model": "glm-5.2"
+}

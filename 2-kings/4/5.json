@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그 여인이 그에게서 떠나가, 자신과 자기 아들들을 위해 문을 닫았다. 그들이 그녀에게 그릇들을 가져다주고 있었고, 그녀는 쏟고 있었다.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "그녀가 가고"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "그에게서부터"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "그녀가 닫으니"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "문을"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "자신을 위해"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "그리고 …을 위해"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "그녀의 아들들"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "가까이 가져오고"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "그녀는"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "쏟고 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:30.654407249Z",
+  "model": "glm-5.2"
+}

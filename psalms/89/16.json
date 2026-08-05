@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "그 터루아를 아는 백성, 그들은 복이 있다. 야훼, 그들은 당신의 얼굴의 빛으로 다닌다.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "아는"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "터루아"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "באור",
+      "gloss": "빛으로"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "당신의 얼굴의"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "다닌다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:11.585266325Z",
+  "model": "glm-5.2"
+}

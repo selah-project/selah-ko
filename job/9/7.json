@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "⟨그분은⟩ 해에게 말씀하시되 — 그것이 떠오르지 못하며, 별들을 봉인하신다.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "말씀하시는 ⟨그분⟩"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "해에게"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니하다"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "그것이 떠오르다"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "그리고 ⟨…에 대하여⟩"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "별들을"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "봉인하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:37.542847217Z",
+  "model": "glm-5.2"
+}

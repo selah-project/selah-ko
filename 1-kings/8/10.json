@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "코헨들이 그 거룩한 곳에서 나올 때에 구름이 ⟨את⟩ 야훼의 집에 가득하였다 —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨일어났다⟩"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "나올 때에"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "그 거룩한 곳"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "그리고 그 구름이"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "가득하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:54.480154789Z",
+  "model": "glm-5.2"
+}

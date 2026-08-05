@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "당신께 ⟨는⟩ 고요함이 찬양이 되나이다, 오 엘로힘이시여, 쯔욘에서; 그리고 당신께 ⟨는⟩ 서원이 갚아지리이다.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "당신께"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "고요함이"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "찬양이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "쯔욘에서"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "그리고 당신께"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "갚아지리이다"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "서원이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:23.637579825Z",
+  "model": "glm-5.2"
+}

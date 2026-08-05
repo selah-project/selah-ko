@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 너는 고운 가루를 취하여, 그것으로 ⟨את⟩ 열두 빵을 구워야 한다. 각 빵은 십분의 이가 되어야 한다.",
+  "tokens": [
+    {
+      "surface": "וְלָקַחְתָּ",
+      "gloss": "그리고 너는 취하여"
+    },
+    {
+      "surface": "סֹלֶת",
+      "gloss": "고운 가루를"
+    },
+    {
+      "surface": "וְאָפִיתָ",
+      "gloss": "그리고 너는 구워야 한다"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩",
+      "marks": "열두 빵을"
+    },
+    {
+      "surface": "שְׁתַּיִם",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עֶשְׂרֵה",
+      "gloss": "열"
+    },
+    {
+      "surface": "חַלּוֹת",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "둘"
+    },
+    {
+      "surface": "עֶשְׂרֹנִים",
+      "gloss": "십분의"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "되어야 한다"
+    },
+    {
+      "surface": "הַחַלָּה",
+      "gloss": "그 빵은"
+    },
+    {
+      "surface": "הָאֶחָת",
+      "gloss": "하나당"
+    }
+  ],
+  "timestamp": "2026-08-05T08:24:08.147970570Z",
+  "model": "glm-5.2"
+}

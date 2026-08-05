@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그 후에 다윗이 ⟨את⟩ 블레셋 사람들을 치고 그들을 복종시켰다. 그리고 다윗이 블레셋 사람들의 손에서 ⟨את⟩ '메테그-아마'를 빼앗았다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 되었다"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…의 후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그것"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "치고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "블레셋 사람들"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들을"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "그들을 복종시켰다"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 빼앗았다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'메테그-아마'"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "'메테그-"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "아마'"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…의 손에서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:35.010210543Z",
+  "model": "glm-5.2"
+}

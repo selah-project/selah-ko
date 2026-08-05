@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "카인이 야훼의 면전에서 나아갔더니, 노드 땅에, 에덴의 동편에 거하였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나아갔더니"
+    },
+    {
+      "surface": "קין",
+      "gloss": "카인이"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "의 면전에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "노드"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "동편에"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "에덴의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:09.416986393Z",
+  "model": "glm-5.2"
+}

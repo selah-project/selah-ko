@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 14:29",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 이스라엘 아들들은 마른 땅 위를 바다 한가운데서 걸었고, 그 물들은 그들에게 오른편에서도 벽이 되고 왼편에서도 ⟨벽이 되었다⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 …아들들은"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "걸었고"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "마른 땅 위를"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "그리고 그 물들은"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "벽이 되고"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "오른편에서도"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "왼편에서도"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:24.315186648Z",
+  "model": "glm-5.2"
+}

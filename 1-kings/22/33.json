@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 22:33",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 그것이 생겼다 — 병거 대장들이 보았을 때, 그가 이스라엘 왕이 아니라는 것을, 그들은 그의 뒤에서부터 돌아섰다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 그것이 생겼다"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "보았을 때"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "복수 대장들"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "정관사 병거"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "그리고 그들은 돌아섰다"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "그의 뒤에서부터"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:02.616338677Z",
+  "model": "glm-5.2"
+}

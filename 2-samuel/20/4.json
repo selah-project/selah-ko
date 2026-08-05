@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "왕이 아마사에게 말하였다. \"나를 위하여 ⟨את⟩ 유다 사람들을 삼 일 안에 소집하여라. 그리고 너는 여기 서 있어라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "아마사"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "소집하여라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다 사람들"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람들"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "삼"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너는"
+    },
+    {
+      "surface": "פה",
+      "gloss": "여기"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "서 있어라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:56.396838963Z",
+  "model": "glm-5.2"
+}

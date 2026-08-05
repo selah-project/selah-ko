@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 너는 네 형 아하론을 위해 거룩한 옷들을 만들어라. 영광과 아름다움을 위하여.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 만들어라"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "옷들"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아하론을 위해"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "영광을 위하여"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "그리고 아름다움을 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:04.290607363Z",
+  "model": "glm-5.2"
+}

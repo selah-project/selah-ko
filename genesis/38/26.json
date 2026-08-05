@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 38:26",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "야후다가 ⟨그것들을⟩ 알아보고 말하였다. \"그녀가 나보다 의롭다. 내가 그녀를 내 아들 셸라에게 주지 않았기 때문이다.\" 그리고 그가 다시는 그녀를 알지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "알아보고"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "야후다가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "의롭다"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나보다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "על",
+      "gloss": "～를"
+    },
+    {
+      "surface": "כן",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נתתיה",
+      "gloss": "주지 않았기"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "셸라에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "다시는"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "לדעתה",
+      "gloss": "그녀를 알지 못하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:58.969365506Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그래서 그들이 그들의 곤경 중에서 야훼께 부르짖었고, 그분께서 그들의 곤경들에서부터 그들을 구원하셨다.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "그래서 그들이 부르짖었고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "곤경 중에서"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들의"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "그들의 곤경들에서부터"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "그분께서 그들을 구원하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:05.295536236Z",
+  "model": "glm-5.2"
+}

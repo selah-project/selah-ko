@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "그리고 그가 ⟨아트⟩ 단의 모든 기구들을 만들었는데 — ⟨아트⟩ 솥들과 ⟨아트⟩ 삽들과 ⟨아트⟩ 대야들과 ⟨아트⟩ 고기 갈고리들과 ⟨아트⟩ 불 받침들이다. 그 모든 기구들을 그가 놋으로 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만들었는데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "단의 모든 기구들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "기구들을"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "단의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "솥들을"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "솥들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨아트⟩",
+      "marks": "삽들을"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "삽들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨아ת⟩",
+      "marks": "대야들을"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "대야들을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "고기 갈고리들을"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "고기 갈고리들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨아ת⟩",
+      "marks": "불 받침들을"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "불 받침들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "그 기구들을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "놋으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:11.470161978Z",
+  "model": "glm-5.2"
+}

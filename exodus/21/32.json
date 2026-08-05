@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "만일 ⟨그⟩ 소가 남종이나 여종을 받으면, 은 삼십 세겔을 ⟨그⟩ 그의 주인에게 내야 하고, ⟨그⟩ 소는 돌에 맞아 죽는다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "남종이나"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "받으면"
+    },
+    {
+      "surface": "השור",
+      "gloss": "소가"
+    },
+    {
+      "surface": "או",
+      "gloss": "또는"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "여종을"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "세겔을"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "내야 하고"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "그의 주인에게"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "그리고 ⟨그⟩ 소는"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "돌에 맞아 죽는다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:07.183273224Z",
+  "model": "glm-5.2"
+}

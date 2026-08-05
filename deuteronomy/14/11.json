@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "모든 정결한 새를 ⟨당신들이⟩ 먹을 수 있다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "새를"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "정결한"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "먹을 수 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:01.237648335Z",
+  "model": "glm-5.2"
+}

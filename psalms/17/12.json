@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그의 모습 — 사자처럼 찢으려고 갈망하고, 젊은 사자처럼 은밀한 곳들에 앉아 있다.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "그의 모습"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "사자처럼"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "갈망하고"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "찢으려고"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "젊은 사자처럼"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "앉아 있다"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "은밀한 곳들에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:33.317621126Z",
+  "model": "glm-5.2"
+}

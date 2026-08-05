@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "⟨그의⟩ 거룩한 이름으로 자랑하라, 야훼를 찾는 자들의 마음은 기뻐하라.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "자랑하라"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨그의⟩ … 이름으로"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "기뻐하라"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "찾는 자들의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:18.084950664Z",
+  "model": "glm-5.2"
+}

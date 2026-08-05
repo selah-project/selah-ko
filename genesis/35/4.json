@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그들이 야곱에게 ⟨את⟩ 그들 손에 있는 모든 이방의 엘로힘과 ⟨את⟩ 그들 귀에 있는 귀고리들을 주매, 야곱이 ⟨את⟩ 그것들을 숨겨 쉐임 곁의 상수리나무 아래에 두었다.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "그들이 주매"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 이방의 엘로힘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "이방의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "그들 손에 있는"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "귀고리들"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "귀고리들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "그들 귀에 있는"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "숨겨 두었다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "상수리나무"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "עם",
+      "gloss": "곁의"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "쉐임"
+    }
+  ],
+  "timestamp": "2026-08-05T17:08:49.400654748Z",
+  "model": "glm-5.2"
+}

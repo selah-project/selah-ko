@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 그들은 ⟨את⟩ 야훼 그들의 엘로힘을 섬길 것이요, ⟨את⟩ 그들을 위해 내가 일으킬 다윗 그들의 왕을 ⟨⟨섬길 것이요⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "그리고 그들은 섬길 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "그들의 엘로힘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "다윗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "그들의 왕"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "내가 일으킬 것이다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:37:53.415398934Z",
+  "model": "glm-5.2"
+}

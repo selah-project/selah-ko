@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "야훼 네 엘로님 앞에서 해마다 ⟨그것을⟩ 먹을 것이다, 야훼께서 택하실 곳에서, 너와 네 집안이.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로님"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "⟨너는⟩ ⟨그것을⟩ 먹을 것이다"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해를"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "해 안에"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "택하실"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너와"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "네 집안이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:23.528125443Z",
+  "model": "glm-5.2"
+}

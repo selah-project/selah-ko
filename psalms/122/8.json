@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 122,
+  "translation": "나의 형제들과 나의 벗들 때문에, 내가 이제 네 안의 샬롬을 말하겠다.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "～때문에"
+    },
+    {
+      "surface": "아חי",
+      "gloss": "나의 형제들"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "나의 벗들과"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "내가 ～말하겠다"
+    },
+    {
+      "surface": "נא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네 안의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:51.237063319Z",
+  "model": "glm-5.2"
+}

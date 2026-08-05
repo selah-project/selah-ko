@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그들이 그에게 말하였다. \"당신에게 무엇을 하여야 바다가 우리 위에서 잠잠해지겠습니까? 바다가 점점 거칠어지고 있기 때문입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "하여야"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "잠잠해지겠습니까"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다가"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "우리 위에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다가"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "점점"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "거칠어지고 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:21.257169927Z",
+  "model": "glm-5.2"
+}

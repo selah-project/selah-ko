@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "그가 그 날에 그들을 축복하시며 말씀하였다. “너로 이스라엘이 축복하며 말하기를, '엘로힘이 너를 에프라임 같이, 므나쎄 같이 두시기를' 하게 하셨다.” 그가 에프라임을 므나쎄보다 앞에 두었다.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "축복하시며"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "말씀하였다"
+    },
+    {
+      "surface": "בך",
+      "gloss": "너로"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "축복하며"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "두시기를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "에프라임"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "므나쎄"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에프라임을"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "므나쎄보다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:22.643548333Z",
+  "model": "glm-5.2"
+}

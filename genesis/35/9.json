@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "엘로힘이 야곱에게 다시 나타나셨다 — 그가 파단 아람에서 올 때에 — 그리고 그를 축복하셨다.",
+  "tokens": [
+    {
+      "surface": "וַיֵּרָ֨א",
+      "gloss": "나타나셨다"
+    },
+    {
+      "surface": "אֱלֹהִ֤ים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יַעֲקֹב֙",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "ע֔וֹד",
+      "gloss": "다시"
+    },
+    {
+      "surface": "בְּבֹא֖וֹ",
+      "gloss": "그가 …올 때에"
+    },
+    {
+      "surface": "מִפַּדַּ֣ן",
+      "gloss": "파단에서"
+    },
+    {
+      "surface": "אֲרָ֑ם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "וַיְבָ֖רֶךְ",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩ 그를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:02.647494683Z",
+  "model": "glm-5.2"
+}

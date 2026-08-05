@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그가 ⟨את⟩ 그 곳의 이름을 ‘베이트 엘’이라 불렀다. 그러나 그 도시의 이름은 처음에는 루즈였다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이름"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "그 곳"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "그러나"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "루즈"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 도시"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "처음에는"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:36.818544722Z",
+  "model": "glm-5.2"
+}

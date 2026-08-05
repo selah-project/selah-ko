@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "이는 아도나이 야훼께서 말씀하시기 때문이다: 바벨 왕의 칼이, 너에게 임하리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 때문이다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하시기"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "너에게 임하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:58:05.900565942Z",
+  "model": "glm-5.2"
+}

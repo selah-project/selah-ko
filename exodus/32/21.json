@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "모셰가 아론에게 말하였다. \"이 백성이 당신에게 무엇을 하였기에 당신이 그들 위에 큰 죄를 가져왔는가?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "하였기에"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "가져왔는가"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "죄를"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:36.923635828Z",
+  "model": "glm-5.2"
+}

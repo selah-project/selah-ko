@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "이스라엘 왕이 누구 뒤를 쫓아 나왔습니까? 누구 뒤를 당신이 쫓으십니까? 죽은 개 뒤를, 벼룩 한 마리 뒤를!",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "뒤를"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "쫓아 나왔습니까"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤를"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "쫓으십니까"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤를"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "개"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽은"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤를"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "벼룩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 마리"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:19.877336771Z",
+  "model": "glm-5.2"
+}

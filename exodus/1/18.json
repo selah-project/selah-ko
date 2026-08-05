@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "미츠라임 왕이 산파들을 부르고 ⟨그녀들에게⟩ 말하였다. \"왜 ⟨너희가⟩ 이 일을 행하여 ⟨את⟩ 사내아이들을 살려 두었느냐?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "부르고"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "산파들을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "להן",
+      "gloss": "⟨그녀들에게⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "왜"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "행하여"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "살려 두었느냐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사내아이들"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "사내아이들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:19:08.406012661Z",
+  "model": "glm-5.2"
+}

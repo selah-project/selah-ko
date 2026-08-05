@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 ⟨그⟩가 야훼께 ⟨그⟩를 위해 물었고, 양식을 ⟨그⟩에게 주었으며, ⟨את⟩ 블레셋 사람 골리앗의 칼도 ⟨그⟩에게 주었다.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "물었고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그⟩를 위해"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "양식을"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었으며"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그⟩에게"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "골리앗의 칼"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "골리앗"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "블레셋 사람"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그⟩에게"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:20.071126636Z",
+  "model": "glm-5.2"
+}

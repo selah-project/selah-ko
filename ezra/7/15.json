@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 7:15",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 왕과 그의 자문관들이 예루샬라임에 거처를 두신 이스라엘의 엘에게 자원하여 드린 은과 금을 가져가게 하라.",
+  "tokens": [
+    {
+      "surface": "ולהיבלה",
+      "gloss": "그리고 가져가게 하라"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "ודהב",
+      "gloss": "그리고 금을"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ויעטוהי",
+      "gloss": "그리고 그의 자문관들이"
+    },
+    {
+      "surface": "התנדבו",
+      "gloss": "자원하여 드린"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "엘에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨그분이⟩"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "משכנה",
+      "gloss": "거처를 두신"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:52.585501347Z",
+  "model": "glm-5.2"
+}

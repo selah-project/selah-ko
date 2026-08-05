@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그가 나를 위하여 집을 건축하리니, 그리고 내가 ⟨את⟩ 그의 왕좌를 영원히 굳게 세우리라.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "건축하리라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "그리고 내가 굳게 세우리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 왕좌를"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "그의 왕좌를"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:09.504905350Z",
+  "model": "glm-5.2"
+}

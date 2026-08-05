@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그와 함께하던 그의 사람들을 다윗이 올리셨는데, 각 사람과 그의 집 ⟨이었으며⟩, 그들이 헤브론의 여러 도시에 거주하였다.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "그의 사람들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올리셨는데"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각 사람"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "거주하였다"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "여러 도시에"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "헤브론의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:11.387550392Z",
+  "model": "glm-5.2"
+}

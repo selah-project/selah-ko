@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "내가 \"이것이 무엇입니까\" 하고 말하자, 그가 \"이것은 나아오는 그 에파이다\" 하고 말씀하셨다. 그리고 \"이것은 온 땅 안에서의 그들의 눈이다\" 하고 말씀하셨다.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "말하자"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇입니까"
+    },
+    {
+      "surface": "היא",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것은"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "그 에파이다"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "나아오는"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것은"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "그들의 눈이다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅 안에서의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:41.399134856Z",
+  "model": "glm-5.2"
+}

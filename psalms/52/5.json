@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "너는 체데크를 말하는 것보다 셰케르를, 토브보다 라를 사랑하였다. 셀라.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "사랑하였다"
+    },
+    {
+      "surface": "רע",
+      "gloss": "라를"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "토브보다"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "셰케르를"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "말하는 것보다"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "체데크를"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라."
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:12.650192802Z",
+  "model": "glm-5.2"
+}

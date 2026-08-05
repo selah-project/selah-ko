@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "모셰가 ⟨את⟩ 이스라엘을 수(葦)바다에서 이끌어 내어, 그들이 슈르 광야로 나아갔고, 그들이 광야에서 사흘을 걸었으나 물을 찾지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "이끌어 내시다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מים",
+      "gloss": "~에서"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "수(葦)바다"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "שור",
+      "gloss": "슈르"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "걸었으나"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "사흘을"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "~아니"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "찾지"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:01.706350077Z",
+  "model": "glm-5.2"
+}

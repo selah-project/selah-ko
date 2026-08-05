@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 헤브론에서 다윗에게 아들들이 태어났다. 그의 첫째는 아히노암 이즈르엘 여인의 아들 암논이었다.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "그리고 …이 태어났다"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "헤브론에서"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이었다"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "그의 첫째는"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "암논"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "아히노암의"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "이즈르엘 여인"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:33.713942374Z",
+  "model": "glm-5.2"
+}

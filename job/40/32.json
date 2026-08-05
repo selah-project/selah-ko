@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "네 손을 그 위에 얹어라, 전투를 기억하여라, 더하지 말지어다.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "얹어라"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "네 손바닥을"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "기억하여라"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전투를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말지어다"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "더하지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:30.293095719Z",
+  "model": "glm-5.2"
+}

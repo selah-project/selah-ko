@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "곤고한 자의 모든 날들은 악하나니, 그러나 좋은 마음은 늘 잔치이로다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날들은"
+    },
+    {
+      "surface": "עני",
+      "gloss": "곤고한 자의"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "악하나니"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "그러나 좋은"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "잔치이로다"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "늘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:29.330441748Z",
+  "model": "glm-5.2"
+}

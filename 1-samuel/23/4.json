@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "다윗이 다시 야훼께 물으니, 야훼께서 ⟨그에게⟩ 대답하여 말씀하셨다. \"일어나 케일라로 내려가라. 내가 ⟨את⟩ 펠리쉬티인들을 네 손에 넘겨주겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "다시"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לשאol",
+      "gloss": "물으니"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "대답하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "קום",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "רד",
+      "gloss": "내려가라"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "케일라로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "넘겨주겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "펠리쉬티인들을"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "펠리쉬티인들을"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "네 손에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:07.892660588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 15:12",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "무엇이 네 마음을 데려가느냐? 그리고 무엇이 네 눈들을 깜빡이게 하느냐?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "네 마음을 데려가느냐"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음을"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그리고 무엇이"
+    },
+    {
+      "surface": "ירזמון",
+      "gloss": "깜빡이게 하느냐"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "네 눈들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:05:18.906360546Z",
+  "model": "glm-5.2"
+}

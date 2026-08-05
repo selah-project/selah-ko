@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 그 길 위에서, ⟨그⟩ 숙소에서 일이 있었다. 야훼가 ⟨그⟩를 만났고, ⟨그⟩를 죽이려 하셨다.",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "그리고 일이 있었다"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "그 길 위에서"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "숙소에서"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "그리고 ⟨그⟩를 만났고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "그리고 … 하셨다"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "그를 죽이려"
+    }
+  ],
+  "timestamp": "2026-08-05T17:09:59.449893750Z",
+  "model": "glm-5.2"
+}

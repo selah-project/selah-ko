@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그가 일어나 갔고, ⟨그리고⟩ 여호나탄은 ⟨그⟩ 성 안으로 들어갔다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔고"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "그리고 여호나탄은"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "성 안으로"
+    }
+  ],
+  "timestamp": "2026-08-05T19:36:39.128352617Z",
+  "model": "glm-5.2"
+}

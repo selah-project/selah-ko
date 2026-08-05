@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "다윗과 그의 사람들이 쯔클라그에 도착한 것은 셋째 날이었다. 아말렉 사람들이 네게브와 쯔클라그 쪽으로 쳐들어와서 ⟨את⟩ 쯔클라그를 치고 그것을 불태웠다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "이 되었다"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "도착한 것은"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "그의 사람들이"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "쯔클라그에"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "셋째"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "아말렉 사람들이"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "쳐들어왔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "쪽으로"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "네게브"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ~쪽으로"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "쯔클라그"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "치고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쯔클라그"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "쯔클라그를"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "불태웠다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것을 (불로)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:48.074994790Z",
+  "model": "glm-5.2"
+}

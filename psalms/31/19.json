@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "거짓 입술들이 입을 다물지어다, 그것들이 의인을 향해 오만하게, 거만함과 멸시로 말하는도다.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "입을 다물지어다"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "입술들이"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "말하는도다"
+    },
+    {
+      "surface": "על",
+      "gloss": "향해"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의인을"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "오만하게"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "거만함으로"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "멸시로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:38.717265821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "야훼를 경외하는 자들이 ⟨이제⟩ 말하라: 그의 헤세드는 영원하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨이제⟩"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "경외하는 자들이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:50.346574093Z",
+  "model": "glm-5.2"
+}

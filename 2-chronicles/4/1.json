@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨그가⟩ 놋제단을 만들었으니 — 그 길이가 이십 규빗, 그 너비가 이십 규빗, 그 높이가 십 규빗이었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었으니"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "놋의"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "이십"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "규빗"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그 길이가"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "그리고 이십"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "규빗"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그 너비가"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "그리고 십"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "규빗"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "그 높이가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:25.308294069Z",
+  "model": "glm-5.2"
+}

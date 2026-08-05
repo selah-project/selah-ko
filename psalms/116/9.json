@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "나는 야훼 앞에서, 생명들의 땅에서 걸어가겠다.",
+  "tokens": [
+    {
+      "surface": "אֶ֭תְהַלֵּךְ",
+      "gloss": "나는 … 걸어가겠다"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בְּ֝אַרְצ֗וֹת",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "הַֽחַיִּֽים",
+      "gloss": "생명들의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:36.891373479Z",
+  "model": "glm-5.2"
+}

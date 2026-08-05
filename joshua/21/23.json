@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 단 지파에서 ⟨את⟩ 엘트케와 ⟨את⟩ 그것의 초지, ⟨את⟩ 기브톤과 ⟨את⟩ 그것의 초지를",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "그리고 … 지파에서"
+    },
+    {
+      "surface": "דן",
+      "gloss": "단"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘트케"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "엘트케"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 초지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기브톤"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "기브톤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것의 초지"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "그것의 초지"
+    }
+  ],
+  "timestamp": "2026-08-05T09:10:45.595546308Z",
+  "model": "glm-5.2"
+}

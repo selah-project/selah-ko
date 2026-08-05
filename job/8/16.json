@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 태양 앞에서 수액으로 축축하며, 그의 정원 위로 그의 새싹이 나온다.",
+  "tokens": [
+    {
+      "surface": "רָטֹב",
+      "gloss": "수액으로 축축하며"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "שָׁמֶשׁ",
+      "gloss": "태양"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "그리고 ～ 위로"
+    },
+    {
+      "surface": "גַּנָּתוֹ",
+      "gloss": "그의 정원"
+    },
+    {
+      "surface": "יֹנַקְתּוֹ",
+      "gloss": "그의 새싹이"
+    },
+    {
+      "surface": "תֵצֵא",
+      "gloss": "나온다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:26.045349230Z",
+  "model": "glm-5.2"
+}

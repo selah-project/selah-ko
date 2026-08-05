@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "나는 엘로힘의 집 ⟨안에⟩ 싱싱한 감람나무 같으니, 나는 엘로힘의 헤세드 ⟨안에서⟩ 영원토록 신뢰하였나이다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "감람나무 같으니"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "싱싱한"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "신뢰하였나이다"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "헤세드"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "ועד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:18.283735041Z",
+  "model": "glm-5.2"
+}

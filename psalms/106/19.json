@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그들이 호렙에서 송아지를 만들고, 부어 만든 우상에게 절하였다.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "그들이 만들고"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "송아지를"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "호렙에서"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "절하였다"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "부어 만든 우상에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:38.047566951Z",
+  "model": "glm-5.2"
+}

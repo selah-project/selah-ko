@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "야훼를 위해 행할 때입니다. 그들이 당신의 토라를 무너뜨렸기 때문입니다.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "때"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행할"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 위해"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "그들이 무너뜨렸기 때문입니다"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "당신의 토라를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:36.021725473Z",
+  "model": "glm-5.2"
+}

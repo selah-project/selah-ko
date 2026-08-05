@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "이와 같이 엘이 영원토록 너를 허물 것이요, ⟨그가⟩ 너를 잡아 ⟨네⟩ 천막에서 뽑아낼 것이며, ⟨네⟩ 뿌리를 산 자들의 땅에서 뽑을 것이다. 셀라.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "허물 것이다"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "잡아"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "뽑아낼 것이며"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "천막에서"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "뿌리를"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "산 자들의"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라."
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:12.650441349Z",
+  "model": "glm-5.2"
+}

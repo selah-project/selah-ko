@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼는 좋으시며, 고난의 날에 요새이시다. 그리고 ⟨그분은⟩ 그분에게 피신하는 자들을 아신다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "좋으시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "요새이시다"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "고난의"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "아신다"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "피신하는 자들을"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그분에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:14:44.699235478Z",
+  "model": "glm-5.2"
+}

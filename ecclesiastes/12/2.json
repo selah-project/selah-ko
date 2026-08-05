@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "태양과 ⟨그⟩ 빛과 ⟨그⟩ 달과 ⟨그⟩ 별들이 어두워지기 전, 그리고 ⟨그⟩ 구름들이 ⟨그⟩ 비 뒤에서 돌아오기 전에.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "∼전에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아직 ∼아니"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "어두워지지"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "태양이"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "그리고 빛과"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "그리고 달과"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "그리고 별들이"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "그리고 돌아오기"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "구름들이"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "뒤에서"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "비"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:37.737710609Z",
+  "model": "glm-5.2"
+}

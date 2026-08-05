@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "이는 야훼께서 내게 이같이 말씀하셨기 때문이다: '나는 내 거처에서 고요히 쉬며 바라보겠다 — 빛 위의 맑은 열기 같이, 추수의 더위 속 이슬의 구름 같이.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "쉬며"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "바라보겠다"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "내 거처에서"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "열기"
+    },
+    {
+      "surface": "צח",
+      "gloss": "맑은"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "위의"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "구름"
+    },
+    {
+      "surface": "טל",
+      "gloss": "이슬의"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "더위 속"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "추수의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:27.336498605Z",
+  "model": "glm-5.2"
+}

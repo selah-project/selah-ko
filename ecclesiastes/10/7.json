@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "내가 종들이 말 위에 있는 것을 보았고, 통치자들이 종들처럼 땅 위를 걷는 것을 ⟨보았다⟩.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았다"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "종들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "말"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "통치자들이"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "걷는"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "종들처럼"
+    },
+    {
+      "surface": "על",
+      "gloss": "위를"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:07.178382916Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "⟨내⟩ 엘로힘의 뜻을 행하기를 기뻐하였으니, ⟨그리고⟩ ⟨당신의⟩ 토라는 ⟨나의⟩ 내장 안에 있나이다.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "행하기를"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "⟨당신의⟩ 뜻을"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨나의⟩ 엘로힘이여"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "기뻐하였나이다"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "⟨그리고⟩ ⟨당신의⟩ 토라는"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "안에"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "⟨나의⟩ 내장"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:06.943267323Z",
+  "model": "glm-5.2"
+}

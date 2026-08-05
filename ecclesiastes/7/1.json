@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이름이 좋은 기름보다 낫고, 죽음의 날이 태어난 날보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름이"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "…보다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "기름보다"
+    },
+    {
+      "surface": "המות",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "죽음의"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "낫고"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:18.155367317Z",
+  "model": "glm-5.2"
+}

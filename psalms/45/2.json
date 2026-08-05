@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "내 마음이 좋은 말을 솟아오르게 한다. 내가 말한다, 나의 행한 것들을 왕에게 ⟨로⟩. 나의 혀는 빠른 기록자의 붓이다.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "솟아오르게 한다"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말을"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "나의 행한 것들을"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕에게"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "나의 혀는"
+    },
+    {
+      "surface": "עט",
+      "gloss": "붓이다"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "기록자의"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "빠른"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:06.023415184Z",
+  "model": "glm-5.2"
+}

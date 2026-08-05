@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "짐승들과 ⟨모든⟩ 가축, 기는 것들과 날개 가진 새들이여,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "짐승들"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨모든⟩"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "가축"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "기는 것들"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "⟨및⟩ 새"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "날개 가진"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:51.463455923Z",
+  "model": "glm-5.2"
+}

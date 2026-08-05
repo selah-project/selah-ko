@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 ⟨את⟩ 아하론과 ⟨את⟩ 그의 아들들을 만남의 장막 입구로 가까이 데려오고, 그들을 물로 씻어라.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아하론"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 아들들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "가까이 데려오고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "그리고 씻어라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:15.378657180Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "그리고 우리를 우리의 대적들에게서 건져 내셨다. 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "건져 내셨다"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "우리의 대적들에게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그의"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:11.016863837Z",
+  "model": "glm-5.2"
+}

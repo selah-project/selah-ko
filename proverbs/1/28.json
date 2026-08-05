@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그 때에 그들이 나를 부르리니 내가 대답 아니 하겠고, 나를 간절히 찾으리니 나를 찾지 못하리라.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "그 때에"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "그들이 나를 부르리니"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "내가 대답하겠다"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "그들이 나를 간절히 찾으리니"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "그들이 나를 찾으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:31.661694328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 20:6",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그의 높이가 하늘로 올라갈지라도, 그리고 그의 머리가 구름에 ⟨닿을지라도⟩ —",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "…일지라도"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "올라갈"
+    },
+    {
+      "surface": "לַשָּׁמַיִם",
+      "gloss": "하늘로"
+    },
+    {
+      "surface": "שִׂיאוֹ",
+      "gloss": "그의 높이가"
+    },
+    {
+      "surface": "וְרֹאשׁוֹ",
+      "gloss": "그리고 그의 머리가"
+    },
+    {
+      "surface": "לָעָב",
+      "gloss": "구름에"
+    },
+    {
+      "surface": "יַגִּיעַ",
+      "gloss": "닿을지라도"
+    }
+  ],
+  "timestamp": "2026-08-05T17:26:48.572504052Z",
+  "model": "glm-5.2"
+}

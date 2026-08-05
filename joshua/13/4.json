@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 13:4",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "남쪽에서, 가나안 사람의 모든 땅과, 아페카까지, 그리고 아모리 사람의 경계까지, 시돈 사람들에게 속한 마아라.",
+  "tokens": [
+    {
+      "surface": "מתימן",
+      "gloss": "남쪽에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "가나안 사람의"
+    },
+    {
+      "surface": "ומערה",
+      "gloss": "그리고 마아라"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "לצידנים",
+      "gloss": "시돈 사람들에게 속한"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "아페카"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "아모리 사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:08:10.975902851Z",
+  "model": "glm-5.2"
+}

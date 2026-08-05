@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 왕이 하만에게 말하였다. \"서둘러 ⟨את⟩ 그 의복과 ⟨את⟩ 그 말을 네가 말한 대로 취하고, 왕의 문에 앉아 있는 유다인 모르드개에게 그와 같이 하여라. 네가 말한 모든 것에서 한 말도 빠뜨리지 말라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "하만에게"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "서둘러"
+    },
+    {
+      "surface": "קח",
+      "gloss": "취하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 의복을"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "그 의복을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 말을"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "그 말을"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…대로"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "네가 말한"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 하여라"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그와 같이"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "모르드개에게"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "유다인"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "앉아 있는"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "문에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "빠뜨리지"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "한 말도"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 것에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "네가 말한"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:54.938611201Z",
+  "model": "glm-5.2"
+}

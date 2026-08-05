@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 대야와 그 받침에 기름 부으시고, 거룩히 구별하시어라.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "그리고 기름 부으라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "대야"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "그 대야"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 받침"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "그 받침"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "그리고 거룩히 구별하라"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것을",
+      "marks": "그것"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:39.686903269Z",
+  "model": "glm-5.2"
+}

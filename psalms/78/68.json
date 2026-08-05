@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그리고 ⟨את⟩ 유다 지파를 택하시고, ⟨את⟩ 사랑하시는 시온 산을 ⟨택하셨다⟩.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "그리고 택하시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "지파"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "지파"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "산"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하시는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:43.714345588Z",
+  "model": "glm-5.2"
+}

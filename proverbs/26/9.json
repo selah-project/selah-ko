@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "가시나무가 취한 자의 손에 ⟨올라가듯⟩, 그러하게 속담이 미련한 자들의 입에 ⟨있는 것⟩이니.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "가시나무"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라가듯"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "취한 자의"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "그리고 속담이"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "입에"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "미련한 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:00.226353147Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그가 야훼의 눈에 악을 행하였으니, 그의 아버지 므나쎄가 행한 것과 같았다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그가…행하였으니"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "의 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "같았다"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행한"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "므나쎄가"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:51.200369422Z",
+  "model": "glm-5.2"
+}

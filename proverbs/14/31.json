@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 14:31",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "가난한 자를 억압하는 ⟨이⟩는 그를 지으신 이를 모욕하고, ⟨그리고⟩ 궁핍한 자에게 헨(은혜)를 베푸는 ⟨이⟩는 그를 높이신다.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "억압하는"
+    },
+    {
+      "surface": "דל",
+      "gloss": "가난한 자"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "모욕하는"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "지으신 그"
+    },
+    {
+      "surface": "ומכבדו",
+      "gloss": "그리고 높이는"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "헨(은혜)를 베푸는"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "궁핍한 자"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:21.732135829Z",
+  "model": "glm-5.2"
+}

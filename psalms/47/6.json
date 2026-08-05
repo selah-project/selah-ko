@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "엘로힘이 환호성으로 올라가셨다. 야훼가 쇼파르 소리로 ⟨올라가셨다⟩.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "올라가셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "환호성으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "쇼파르"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:25.725530382Z",
+  "model": "glm-5.2"
+}

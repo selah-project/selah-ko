@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그러므로 『야훼의 전쟁들』이라는 책에 말하여진다: ⟨את⟩ 와헤브를 수파에서, 그리고 ⟨את⟩ 아르논의 강들을.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "יֵאָמַר",
+      "gloss": "말하여진다"
+    },
+    {
+      "surface": "בְּסֵפֶר",
+      "gloss": "책에"
+    },
+    {
+      "surface": "מִלְחֲמֹת",
+      "gloss": "전쟁들"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "와헤브"
+    },
+    {
+      "surface": "וָהֵב",
+      "gloss": "와헤브"
+    },
+    {
+      "surface": "בְּסוּפָה",
+      "gloss": "수파에서"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "아르논의 강들"
+    },
+    {
+      "surface": "הַנְּחָלִים",
+      "gloss": "강들"
+    },
+    {
+      "surface": "אַרְנוֹן",
+      "gloss": "아르논의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:39:55.130789597Z",
+  "model": "glm-5.2"
+}

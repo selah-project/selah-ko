@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 23:22",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "가십시오, 부디, 더 준비하고, 알아내고, 살피십시오. ⟨את⟩ 그의 처소를, ⟨곳⟩ ⟨그의⟩ 발걸음이 있는 ⟨곳을⟩. 누가 거기서 그를 보았는지 ⟨살피십시오⟩. ⟨이는⟩ 나에게 말하기를, 그는 심히 간교하다고 ⟨하였기⟩ 때문이다.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "가십시오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "준비하고"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "알아내고"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "살피십시오"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 처소를"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "그의 처소를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨곳⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "있는"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "⟨그의⟩ 발걸음이"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "ראהו",
+      "gloss": "그를 보았는지"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨이는⟩ … 때문이다"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "심히"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "간교하다고"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨하였기⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:27.557568514Z",
+  "model": "glm-5.2"
+}

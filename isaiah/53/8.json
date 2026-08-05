@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 53,
+  "translation": "강압과 재판에서 ⟨그가⟩ 취해지매, ⟨그의⟩ 세대를 누가 헤아리겠는가? 그가 산 자들의 땅에서 끊어졌음은, 내 백성의 반역으로 말미암아 그에게 ⟨친⟩ 타격이었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "강압에서"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "그리고 재판에서"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "취해지매"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 세대"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "그의 세대"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "헤아리겠는가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "끊어졌음은"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "산 자들의"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "반역으로 말미암아"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성의"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "타격"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:59.592175206Z",
+  "model": "glm-5.2"
+}

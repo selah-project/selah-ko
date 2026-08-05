@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "애씀으로 지쳤으나, 그것의 녹이 많아 그것에게서 나가지 않으니, 불 가운데서 그것의 녹이로다.",
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "애씀으로"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "지쳤으나"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지 않으니"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "나가"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "그것에게서"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "많아"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "그것의 녹이"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불 가운데서"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "그것의 녹이로다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:55:16.178524940Z",
+  "model": "glm-5.2"
+}

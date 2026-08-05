@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼께 묻지 아니하였으므로, ⟨그가⟩ ⟨그를⟩ 죽이시고, ⟨את⟩ 왕권을 다윗에게, 이새의 아들에게 돌리셨다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "아니하였으므로"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "묻지"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "죽이시고"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "돌리셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕권"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "왕권"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들에게"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이새의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:27.722586295Z",
+  "model": "glm-5.2"
+}

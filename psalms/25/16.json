@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "나를 향해 얼굴을 돌리시고 나에게 헨을 베푸소서. 내가 외로우며 가난하기 때문입니다.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "얼굴을 돌리시고"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나를 향해"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "나에게 헨을 베푸소서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "외로우며"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "가난하고"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:52.112509898Z",
+  "model": "glm-5.2"
+}

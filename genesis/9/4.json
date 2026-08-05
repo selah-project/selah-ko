@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "오직, 그 네페쉬 안에 그 피가 있는 대로의 고기를 너희는 먹지 말라.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "고기를"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "그 네페쉬 안에"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "그 피가 있는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "먹을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:03.075031990Z",
+  "model": "glm-5.2"
+}

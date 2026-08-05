@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 132,
+  "translation": "“이것이 나의 안식처, 영원토록. 내가 여기에 머물리니, 내가 그것을 갈망하였기 때문이다.”",
+  "tokens": [
+    {
+      "surface": "זֹאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "מְנוּחָתִ֥י",
+      "gloss": "나의 안식처"
+    },
+    {
+      "surface": "עֲדֵי",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "עַ֑ד",
+      "gloss": "⟨영원토록⟩"
+    },
+    {
+      "surface": "פֹּֽה",
+      "gloss": "여기에"
+    },
+    {
+      "surface": "אֵ֝שֵׁ֗ב",
+      "gloss": "내가 머물리니"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אִוִּתִֽיהָ",
+      "gloss": "내가 그것을 갈망하였기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:46.227991366Z",
+  "model": "glm-5.2"
+}

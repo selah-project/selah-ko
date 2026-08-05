@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "네 마음이 두려움을 되새기리라. 기록하는 자는 어디에, 무게를 다는 자는 어디에, ⟨את⟩ 망대들을 세는 자는 어디에인고?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "네 마음이"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "되새기리라"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "두려움을"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디에"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "기록하는 자는"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디에"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "무게를 다는 자는"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디에"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "세는 자는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "망대들을"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "망대들을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:24.745694029Z",
+  "model": "glm-5.2"
+}

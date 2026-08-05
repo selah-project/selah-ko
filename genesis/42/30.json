@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "“그 땅의 주인인 그 사람이 우리에게 거칠게 말하였고, 우리를 그 땅을 정탐하는 자로 여겼습니다.”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말하였고"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람이"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "주인인"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "거칠게"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "여겼습니다"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "정탐하는 자들"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "정탐하는 자들로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:19.419789795Z",
+  "model": "glm-5.2"
+}

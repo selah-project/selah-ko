@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "내 살갗은 나 위에 거무스름해졌고, 내 뼈는 가뭄에서 타올랐다.",
+  "tokens": [
+    {
+      "surface": "ע֭וֹרִי",
+      "gloss": "내 살갗은"
+    },
+    {
+      "surface": "שָׁחַ֣ר",
+      "gloss": "거무스름해졌고"
+    },
+    {
+      "surface": "מֵעָלָ֑י",
+      "gloss": "나 위에"
+    },
+    {
+      "surface": "וְעַצְמִי",
+      "gloss": "내 뼈는"
+    },
+    {
+      "surface": "חָ֝֗רָה",
+      "gloss": "타올랐다"
+    },
+    {
+      "surface": "מִנִּי",
+      "gloss": "에서"
+    },
+    {
+      "surface": "חֹֽרֶב",
+      "gloss": "가뭄"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:20.753599575Z",
+  "model": "glm-5.2"
+}

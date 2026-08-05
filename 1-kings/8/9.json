@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그 상자 안에는 오직 두 돌판만이 있었으니, 모셰가 호렙에 거기에 두었던 것이요, 이스라엘 자손이 미츠라임 땅에서 나올 때에 야훼께서 그들과 맺으셨던 것이다.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "상자 안에"
+    },
+    {
+      "surface": "רק",
+      "gloss": "오직"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "판만이"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "돌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것이요⟩"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "두었던"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "호렙에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것인데⟩"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "맺으셨던"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨함께⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "나올 때에"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:54.479872176Z",
+  "model": "glm-5.2"
+}

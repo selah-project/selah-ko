@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 111,
+  "translation": "위엄과 화려함이 그의 일이시며, 그의 체다카는 영원히 서 있도다.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "위엄과"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "화려함이"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "그의 일이시며"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "그의 체다카는"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "서 있도다"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:51.938077485Z",
+  "model": "glm-5.2"
+}

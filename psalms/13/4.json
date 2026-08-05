@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "바라보아소서 나를 응답하소서, 야훼 내 엘로힘이시여. 내 눈을 밝히사, 내가 죽음의 잠을 자지 않게 하소서.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "바라보아소서"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "나를 응답하소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "내 엘로힘이시여"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "밝히사"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈을"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "내가 잠을 자"
+    },
+    {
+      "surface": "המות",
+      "gloss": "죽음의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:03.015539518Z",
+  "model": "glm-5.2"
+}

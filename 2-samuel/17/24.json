@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 다윗은 마하나임에 도착하였다. 아브샬롬과 온 이스라엘 사람, 곧 ⟨그와⟩ 함께한 자가 ⟨את⟩ 요르단을 건넜다.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "그리고 다윗은"
+    },
+    {
+      "surface": "בא",
+      "gloss": "도착하였다"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "마하나임에"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "그리고 아브샬롬은"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "건넜다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요르단"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단을"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "곧 그가"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께한"
+    }
+  ],
+  "timestamp": "2026-08-05T09:41:26.922173223Z",
+  "model": "glm-5.2"
+}

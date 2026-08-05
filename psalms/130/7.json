@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 130,
+  "translation": "이스라엘아, 야훼를 바라라. 이는 야훼와 함께 ⟨있는 것은⟩ 헤세드이며, 그분과 함께 ⟨있는 것은⟩ 풍성한 속량임이다.",
+  "tokens": [
+    {
+      "surface": "יַחֵ֥ל",
+      "gloss": "바라라"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֗ל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨…에게⟩"
+    },
+    {
+      "surface": "יְה֫וָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הַחֶ֑סֶד",
+      "gloss": "헤세드"
+    },
+    {
+      "surface": "וְהַרְבֵּ֖ה",
+      "gloss": "풍성한"
+    },
+    {
+      "surface": "עִמּ֣וֹ",
+      "gloss": "그분과 함께"
+    },
+    {
+      "surface": "פְדֽוּת",
+      "gloss": "속량"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:34.131185069Z",
+  "model": "glm-5.2"
+}

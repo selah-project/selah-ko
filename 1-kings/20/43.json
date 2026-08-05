@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이스라엘 왕이 ⟨그의⟩ 집으로 갔다, 시무룩하고 분하여, 그리고 샤므론으로 들어갔다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "그리고 갔다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "על",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "סר",
+      "gloss": "시무룩하고"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "분하여"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 들어갔다"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "샤므론으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:30.882105838Z",
+  "model": "glm-5.2"
+}

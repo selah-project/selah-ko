@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "다윗의. 그가 아비멜렉 앞에서 ⟨את⟩ 그의 행동을 바꾸자 그가 그를 쫓아내었고 그가 떠나갔다.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "그가 바꾸자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 행동(טעמו)"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "그의 행동"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "아비멜렉"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "그가 그를 쫓아내었고"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그가 떠나갔다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:21.954691125Z",
+  "model": "glm-5.2"
+}

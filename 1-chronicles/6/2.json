@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 ⟨이것들이⟩ 게르솜 아들들의 이름이다: 립니와 시므이.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것들은"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "이름이다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "게르솜"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "립니"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "그리고 시므이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:41.787794502Z",
+  "model": "glm-5.2"
+}

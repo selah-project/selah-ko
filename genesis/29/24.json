@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "라반이 그에게 ⟨아트⟩ 질파 — 자기 종女 — 를 주었으니, 레아 자기 딸의 종女로서이다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주었으니"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반이"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "질파"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "질파"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "자기 종女"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "레아"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "자기 딸"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "종女로서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:46.416943977Z",
+  "model": "glm-5.2"
+}

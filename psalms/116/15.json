@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "귀중하다, 야훼의 눈에, ⟨그분의⟩ 헤시드들의 죽음이.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "귀중하다"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "∙ 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "⟨그분의⟩ ∙ 죽음이"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "헤시드들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:38.810293713Z",
+  "model": "glm-5.2"
+}

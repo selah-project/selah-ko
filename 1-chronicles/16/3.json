@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 이스라엘의 모든 사람, 남자부터 여자까지, 각 사람에게 빵 한 덩이와 ⟨한⟩ 대추 양과 건포도 양을 나누어 주었다.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "나누어 주었다"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "남자부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여자"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "각 사람에게"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "한 덩이"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "대추 양"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "건포도 양"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:02.216766832Z",
+  "model": "glm-5.2"
+}

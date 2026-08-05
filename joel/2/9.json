@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "성 안에서 그들이 달리고, 성벽 위에서 그들이 뛰며, 집들 안으로 그들이 올라가고, 창문들을 통해 도둑같이 들어간다.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "성 안에서"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "그들이 달린다"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "성벽 위에서"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "그들이 뛴다"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "집들 안으로"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "그들이 올라간다"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "~을 통해"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "창문들을"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "그들이 들어간다"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "도둑같이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:08:50.315723882Z",
+  "model": "glm-5.2"
+}

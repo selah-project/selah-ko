@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 24:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그가 길 위의 양 우리들에 이르렀는데, 거기 동굴이 있었다. 샤울이 ⟨את⟩ 자기 발을 가리려 ⟨하러⟩ 들어갔고, 다윗과 그의 사람들은 동굴 안쪽에 앉아 있었다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "이르렀다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "גדרות",
+      "gloss": "우리들에"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 거기"
+    },
+    {
+      "surface": "מערה",
+      "gloss": "동굴이"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "להסך",
+      "gloss": "가리려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 발을"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "자기 발을"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "그리고 다윗과"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "그의 사람들은"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "안쪽(끝)에"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "동굴"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "앉아 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:52.516820888Z",
+  "model": "glm-5.2"
+}

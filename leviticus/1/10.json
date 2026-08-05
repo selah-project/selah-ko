@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "만약 그의 코르반이 양 떼에서 — 양들에게서 혹은 염소들에게서 — 올라를 위하여면, 수컷 흠 없는 것을 그가 가까이 가져갈 것이요.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "만약"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "그의 코르반이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "양들에게서"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "염소들에게서"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "올라를 위하여"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "수컷"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "흠 없는 것을"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "그가 가까이 가져갈 것이요"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:56.317233878Z",
+  "model": "glm-5.2"
+}

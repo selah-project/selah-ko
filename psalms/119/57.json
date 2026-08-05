@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "나의 분깃은 야훼이시다 — 내가 말하였다, ⟨그⟩대로 지키려고 ⟨그⟩대의 말씀들을.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "나의 분깃은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼이시다"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "내가 말하였다"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "지키려고"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "⟨그⟩대의 말씀들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:36.027472316Z",
+  "model": "glm-5.2"
+}

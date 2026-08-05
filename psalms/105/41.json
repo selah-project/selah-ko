@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "바위를 여시니 물이 쏟아져 나왔다. 그것이 마른 땅에 강처럼 흘렀다.",
+  "tokens": [
+    {
+      "surface": "פָּ֣תַח",
+      "gloss": "여시니"
+    },
+    {
+      "surface": "צ֭וּר",
+      "gloss": "바위를"
+    },
+    {
+      "surface": "וַיָּז֣וּבוּ",
+      "gloss": "쏟아져 나왔다"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "물이"
+    },
+    {
+      "surface": "הָ֝לְכ֗וּ",
+      "gloss": "흘렀다"
+    },
+    {
+      "surface": "בַּצִּיּ֥וֹת",
+      "gloss": "마른 땅에"
+    },
+    {
+      "surface": "נָהָֽר",
+      "gloss": "강처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:26.117263855Z",
+  "model": "glm-5.2"
+}

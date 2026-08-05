@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 그것을 태운 자는 자기 옷을 물에 빨 것이고, 자기 몸을 물에 씻을 것이고, 저녁까지 부정할 것이다.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "그리고 그것을 태운 자는"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "그것(암소)을"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "빨 것이다"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "그리고 씻을 것이다"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "자기 몸을"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "그리고 부정할 것이다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "저녁"
+    }
+  ],
+  "timestamp": "2026-08-05T18:05:55.186810264Z",
+  "model": "glm-5.2"
+}

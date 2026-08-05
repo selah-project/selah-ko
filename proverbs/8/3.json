@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "문들 곁에서, 도시 어귀에서, 들어가는 입구들 ⟨에서⟩ 그녀가 외친다.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "곁에서"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "문들"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "어귀에서"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "도시"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "들어가는"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "입구들"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "외친다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:43.075046678Z",
+  "model": "glm-5.2"
+}

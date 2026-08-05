@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "좋은 분별력과 ⟨지식을⟩ 저에게 가르쳐 주소서, 오직 당신의 계명들 ⟨안에서⟩ 제가 믿었기 때문입니다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "분별력과"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "⟨지식을⟩"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "저에게 가르쳐 주소서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직 ∼ 때문입니다"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "당신의 계명들 ⟨안에서⟩"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "제가 믿었기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:32.418962887Z",
+  "model": "glm-5.2"
+}

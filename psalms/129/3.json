@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 129,
+  "translation": "밭가는 자들이 나의 등 위에서 밭을 갈았나이다 — 그들이 자기들의 고랑을 길게 하였나이다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "나의 등"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "그들이 밭을 갈았나이다"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "밭가는 자들이"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "그들이 길게 하였나이다"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "자기들의 고랑을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:00.067481987Z",
+  "model": "glm-5.2"
+}

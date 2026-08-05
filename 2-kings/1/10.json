@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘리야가 대답하고 오십 대장에게 말하였다. \"내가 엘로힘의 사람이라면, 불이 하늘에서 내려와서 ⟨את⟩ 너와 ⟨את⟩ 네 오십 명을 삼킬 것이다.\" 그러자 불이 하늘에서 내려와서 ⟨את⟩ 그와 ⟨את⟩ 그의 오십 명을 삼켰다.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "대답하였다"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "엘리야가"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שר",
+      "gloss": "대장"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "그 오십"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "내려올 것이다"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "그 하늘"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "삼킬 것이다"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "너"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "네 오십 명"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "네 오십 명"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "내려왔다"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "그 하늘"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "삼켰다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 오십 명"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "그의 오십 명"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:10.971084185Z",
+  "model": "glm-5.2"
+}

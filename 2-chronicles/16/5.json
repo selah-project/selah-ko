@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 그것은 바르샤가 듣자 일어났고, 그는 ⟨את⟩ 하라마 건축을 그쳤으며, ⟨그가⟩ ⟨את⟩ 그의 역사를 멈추게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일어났다"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "듣자"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "바르샤"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "그가 그쳤다"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "건축을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하라마"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "하라마"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "그가 멈추게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 역사"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "그의 역사"
+    }
+  ],
+  "timestamp": "2026-08-05T12:57:00.165381932Z",
+  "model": "glm-5.2"
+}

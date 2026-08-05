@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 요나에게 ⟨이것이⟩ 크게 악하게 여겨졌고, 그가 분노하였다.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "악하게 여겨졌고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악하게"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "크게"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "분노하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:07.090702890Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 브리아와 쉐마 — 그들은 아이얄론 거주자들의 조상들의 우두머리들이었다 — 그들이 ⟨את⟩ 가트 거주자들을 도망시켰다.",
+  "tokens": [
+    {
+      "surface": "וברעה",
+      "gloss": "그리고 브리아"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "그리고 쉐마"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "우두머리들"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "조상들의"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "거주자들의"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "아이얄론"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "도망시켰다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가트 거주자들을"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "거주자들을"
+    },
+    {
+      "surface": "גת",
+      "gloss": "가트"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:12.517736679Z",
+  "model": "glm-5.2"
+}

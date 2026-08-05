@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "에벨에게 두 아들이 태어났다. 하나의 이름은 펠레그이니, 이는 그의 날들에 땅이 나뉘었기 때문이다. 그의 형제의 이름은 요크탄이다.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "에벨에게"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "태어났다"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름은"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "펠레그이니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "그의 날들에"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "나뉘었기"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름은"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제의"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "요크탄이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:31.679719943Z",
+  "model": "glm-5.2"
+}

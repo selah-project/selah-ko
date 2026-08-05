@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "나 다니엘만이 ⟨את⟩ 그 환상을 보았고, 나와 함께 있던 사람들은 ⟨את⟩ 그 환상을 보지 못하였다. 그럼에도 그들에게 큰 전율이 떨어져, 그들이 숨으며 도망하였다.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "다니엘"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "만이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 환상"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "그 환상"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "그리고 그 사람들은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있던"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 환상"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "그 환상"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "그럼에도"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "전율이"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "큰"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "떨어져"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "숨으며"
+    }
+  ],
+  "timestamp": "2026-08-05T12:29:08.605854747Z",
+  "model": "glm-5.2"
+}

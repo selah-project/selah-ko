@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 11:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "해가 돌아와 왕들이 출정하는 때에 다윗이 ⟨את⟩ 요압과 ⟨את⟩ 그의 종들과 ⟨את⟩ 온 이스라엘을 보내매, 그들이 ⟨את⟩ 암몬 자손을 쳐서 파괴하고 랍바를 포위하였다. 그런데 다윗은 예루샬라임에 머물러 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "이르렀다"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "돌아옴에"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "그 해의"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "출정하는"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "왕들의"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내매"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요압"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요압과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 종들"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들과"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "וישחתו",
+      "gloss": "파괴하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "암몬 자손"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손을"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "포위하였다"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "랍바를"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "머물러 있었다"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:30.520764443Z",
+  "model": "glm-5.2"
+}

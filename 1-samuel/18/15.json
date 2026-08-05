@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "샤울이 그가 매우 슬기롭게 행동함을 보고, 그의 앞에서 두려워하였다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": " ⟨것을⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "슬기롭게 행동하는"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "두려워하였다"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "그의 앞에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:59.141307470Z",
+  "model": "glm-5.2"
+}

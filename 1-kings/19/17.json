@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리할 것이니, 하자엘의 칼에서 벗어난 자를 예후가 죽이고, 예후의 칼에서 벗어난 자를 엘리샤가 죽일 것이다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리할 것이니"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "벗어난 자를"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "칼에서"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "하자엘의"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "죽이고"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "예후가"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "벗어난 자를"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "칼에서"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "예후의"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "죽일 것이다"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:51.764403055Z",
+  "model": "glm-5.2"
+}

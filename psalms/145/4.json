@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "세대가 세대에게 주의 행사를 찬양하며, 주의 위업들을 그들이 선포하나이다.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "세대가"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "세대에게"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "찬양하며"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "주의 행사를"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "그리고 주의 위업들을"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "그들이 선포하나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:39.594531925Z",
+  "model": "glm-5.2"
+}

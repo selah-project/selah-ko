@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 야훼께서 말씀하셨다. \"누가 ⟨את⟩ 아하브를 꾀어, 그가 올라가서 라못 길아드에서 쓰러지게 할 것인가?\" 그리고 한 영은 이렇게 말하고, 다른 영은 저렇게 말하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "꾀어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아하브를"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브를"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 …올라가서"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "그리고 …쓰러지게 할"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "라못에서"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길아드"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …말하였다"
+    },
+    {
+      "surface": "זה",
+      "gloss": "한 영은"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "그리고 다른 영은"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "저렇게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:44.837965662Z",
+  "model": "glm-5.2"
+}

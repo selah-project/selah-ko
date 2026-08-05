@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 내가 ⟨את⟩ 네 살을 산들 위에 놓고, 골짜기들을 네 잔해로 채우리라.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 내가 … 놓으리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 살"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "네 살"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "산들"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "그리고 내가 … 채우리라"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "골짜기들을"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "네 잔해로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:58:30.583348976Z",
+  "model": "glm-5.2"
+}

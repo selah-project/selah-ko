@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그때에 샬로모가 말하였다. \"야훼께서 짙은 구름 안에 거하시겠다고 말씀하셨다.\"",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "샬로모가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "거하시겠다고"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "짙은 구름 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:54.480415941Z",
+  "model": "glm-5.2"
+}

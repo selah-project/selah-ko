@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 유출물이 있는 자의 살에 닿는 자는 자기 옷을 빨고 물에 몸을 씻으며 저녁까지 부정하다.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "그리고 닿는 자는"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "살에"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "유출물이 있는 자의"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "빨고"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 옷을"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "씻으며"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "부정하다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "저녁"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:57.309986501Z",
+  "model": "glm-5.2"
+}

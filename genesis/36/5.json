@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 아홀리바마는 ⟨את⟩ 예이쉬와 ⟨את⟩ 얄라암과 ⟨את⟩ 코라흐를 낳았다. 이들은 에사브의 아들들이다, 그가 가나안 땅에서 얻은.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "그리고 아홀리바마는"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "예이쉬"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "예이쉬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "얄라암"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "얄라암"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "코라흐"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들은"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이다"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "얻은"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:16.959371355Z",
+  "model": "glm-5.2"
+}

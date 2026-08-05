@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "야훼의 훈계들은 바르며, 마음을 기쁘게 한다. 야훼의 계명은 순결하여, 눈들을 밝게 한다.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "훈계들은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "바르며"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "기쁘게 한다"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "계명은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "순결하여"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "밝게 한다"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "눈들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:18.985339492Z",
+  "model": "glm-5.2"
+}

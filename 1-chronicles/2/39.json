@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "아자르야가 ⟨את⟩ 헬레츠를 낳았고, 헬레츠가 ⟨את⟩ 엘아사를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "아자르야가"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "헬레츠를"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "헬레츠를"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "헬레츠가"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘아사를"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "엘아사를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:24.858482024Z",
+  "model": "glm-5.2"
+}

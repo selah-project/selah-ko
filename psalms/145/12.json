@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "사람의 아들들에게 그분의 위업들을 알게 하시려고, 그리고 그분의 왕국의 위엄의 영광을 ⟨알게 하시려고⟩.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "알게 하시려고"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "그분의 위업들을"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "그리고 영광을"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "위엄의"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "그분의 왕국의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:21.631734231Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "곧 야곱이 자기 아버지와 자기 어머니에게 순종하였고, 파단 아람으로 갔음을.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֣ע",
+      "gloss": "순종하였고"
+    },
+    {
+      "surface": "יַעֲקֹ֔ב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אָבִ֖יו",
+      "gloss": "자기 아버지"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "및"
+    },
+    {
+      "surface": "אִמּ֑וֹ",
+      "gloss": "자기 어머니에게"
+    },
+    {
+      "surface": "וַיֵּ֖לֶךְ",
+      "gloss": "갔음을"
+    },
+    {
+      "surface": "פַּדֶּ֥נָֽה",
+      "gloss": "파단"
+    },
+    {
+      "surface": "אֲרָֽם",
+      "gloss": "아람으로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:18.615691374Z",
+  "model": "glm-5.2"
+}

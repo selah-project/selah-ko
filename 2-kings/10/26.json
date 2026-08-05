@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 그들이 바알의 집에서 ⟨את⟩ 기둥들을 꺼내어, ⟨그것을⟩ 불살랐다.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "그리고 그들이 꺼내었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기둥들을"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "기둥들을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "바알의"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "그리고 그들이 그것을 불살랐다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:48.279721877Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "가죽부대의 물이 다 되자, 그녀는 ⟨את⟩ 아이를 던져 한 덩굴나무 아래에 놓았다.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "다 되자"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "가죽부대의"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "그녀는 던져"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아이"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "아이를"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "덩굴나무"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:05.998862959Z",
+  "model": "glm-5.2"
+}

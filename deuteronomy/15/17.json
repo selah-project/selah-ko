@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 ⟨너는⟩ ⟨את⟩ 송곳을 가져다가 그의 귀와 문에 박고, 그가 너에게 영원한 종이 될 것이다. 네 여종에게도 이같이 하여라.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "그리고 ⟨너는⟩ 가져서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "송곳"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "그 송곳을"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "그리고 ⟨너는⟩ 줄 것이다"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "그의 귀에"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "그리고 문에"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ⟨그가⟩ 될 것이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "네 여종에게"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "⟨너는⟩ 할 것이다"
+    },
+    {
+      "surface": "כן",
+      "gloss": "이같이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:23.527621528Z",
+  "model": "glm-5.2"
+}

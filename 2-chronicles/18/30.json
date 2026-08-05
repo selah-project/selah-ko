@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "아람 왕이 자기에게 속한 병거 대장들에게 ⟨את⟩ 명령하였다. \"작은 자나 큰 자와 ⟨את⟩ 싸우지 말고, 오직 이스라엘 왕 ⟨아트⟩ 홀로 ⟨아트⟩ 상대하라.\"",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "병거 대장들을"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "대장들을"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨that⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기에게 속한"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 말라"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "싸우"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아트⟩",
+      "marks": "작은 자"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "작은 자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아트⟩",
+      "marks": "큰 자"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "큰 자"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨rather⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아트⟩",
+      "marks": "이스라엘 왕"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "홀로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:57:55.305111569Z",
+  "model": "glm-5.2"
+}

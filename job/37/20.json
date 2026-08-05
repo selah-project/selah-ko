@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "내가 말하겠다는 것이 ⟨그에게⟩ 알려져야 하겠느냐? 사람이 말하면 참으로 삼켜질 것이다.",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "알려져야 하겠느냐"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…라는 것이"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "내가 말하겠다는"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…면"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "삼켜질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:11:21.778834195Z",
+  "model": "glm-5.2"
+}

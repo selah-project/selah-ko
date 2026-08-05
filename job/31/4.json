@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "⟨그가⟩ ⟨아니⟩ 내 길들을 보지 않으시랴, 그리고 ⟨그가⟩ 내 모든 걸음들을 세지 않으시랴.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "보지 않으시랴"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "내 길들을"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "내 걸음들을"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "세지 않으시랴"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:27.305214523Z",
+  "model": "glm-5.2"
+}

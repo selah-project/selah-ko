@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "나를 꿀벌들처럼 에워쌌다 — 가시나무 불꽃처럼 꺼졌다 — 야훼의 이름으로 내가 그들을 끊어버리리라.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "나를 에워쌌다"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "꿀벌들처럼"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "꺼졌다"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "불꽃처럼"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "가시나무"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "내가 그들을 끊어버리리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:56.758938316Z",
+  "model": "glm-5.2"
+}

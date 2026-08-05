@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "당신이 리비아탄의 머리들을 으깨셨고, 그것을 광야의 백성에게 양식으로 주셨다.",
+  "tokens": [
+    {
+      "surface": "אַתָּה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "רִצַּצְתָּ",
+      "gloss": "으깨셨고"
+    },
+    {
+      "surface": "רָאשֵׁי",
+      "gloss": "머리들을"
+    },
+    {
+      "surface": "לִוְיָתָן",
+      "gloss": "리비아탄의"
+    },
+    {
+      "surface": "תִּתְּנֶנּוּ",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "מַאֲכָל",
+      "gloss": "양식으로"
+    },
+    {
+      "surface": "לְעָם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "לְצִיִּים",
+      "gloss": "광야의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:55.523412612Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "온 회중이 자기 ⟨목소리를⟩ 들어 올리고 ⟨את⟩ 그들의 소리를 내었으며, 그 백성이 그 밤에 울었다.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "들어 올렸다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "내었으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 소리를"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "그들의 소리를"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "울었다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성이"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "그 밤에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T17:18:36.700105068Z",
+  "model": "glm-5.2"
+}

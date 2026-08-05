@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 60:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "네가 버림받고 미움받아 지나가는 이가 없던 것을 대신하여, 내가 너를 영원한 우뚝함, 세대와 세대의 기쁨으로 세우겠다.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "~을 대신하여"
+    },
+    {
+      "surface": "היותך",
+      "gloss": "네가 있은 것을"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "버림받고"
+    },
+    {
+      "surface": "ושנואה",
+      "gloss": "그리고 미움받아"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 없어"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "지나가는 이가"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "내가 너를 세우겠다"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "우뚝함으로"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "기쁨"
+    },
+    {
+      "surface": "דור",
+      "gloss": "세대의"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "그리고 세대"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:50.436654286Z",
+  "model": "glm-5.2"
+}

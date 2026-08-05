@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "나는 내 네페쉬로 금식하며 울었고, 그것이 나에게 모욕이 되었다.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "나는 울었고"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "금식하며"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬로"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "모욕이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:52.584304589Z",
+  "model": "glm-5.2"
+}

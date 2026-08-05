@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "갈망하고 또 샘이 나네, 나의 네페쉬가, 야훼의 뜰들에 — 나의 마음과 나의 육체가 살아 계신 엘을 향해 환성을 지르네.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "갈망하고"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "샘이 나네"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬가"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "뜰들에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "나의 마음과"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "나의 육체가"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "환성을 지르네"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~을 향해"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘을"
+    },
+    {
+      "surface": "חי",
+      "gloss": "살아 계신"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:20.928176853Z",
+  "model": "glm-5.2"
+}

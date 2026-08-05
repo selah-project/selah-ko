@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 1:10",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그러자 그 사람이 — 그 하다스들 사이에 서 있는 ⟨이⟩ — 대답하여 말하였다. \"이들은 야훼께서 땅을 두루 다니시라고 보내신 자들이다.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "그러자 … 대답하여"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람이"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "서 있는"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "그 하다스들"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…가"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "두루 다니시라고"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:25:42.627399889Z",
+  "model": "glm-5.2"
+}

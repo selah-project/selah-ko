@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 요셉이 아침에 그들에게 들어갔고, ⟨את⟩ 그들을 보았더니, 보라, 그들이 근심에 차 ⟨있었다⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 들어갔고"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보았더니"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "보라, 그들이"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "근심에 차"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:20.139102791Z",
+  "model": "glm-5.2"
+}

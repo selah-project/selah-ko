@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "왕이 엘로힘의 사람의 사환 게하시에게 말하며 이르되, 청하건대 엘리샤가 행하신 ⟨את⟩ 모든 큰일들을 내게 다 말해 다오.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "게하시"
+    },
+    {
+      "surface": "נער",
+      "gloss": "사환"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르되"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "말해 다오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "כל הגדלות"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "큰일들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것들을⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하신"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:53.975583337Z",
+  "model": "glm-5.2"
+}

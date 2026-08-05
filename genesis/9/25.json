@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 말하였다. \"저주를 받을지어다, 케나안. 종들의 종이 그의 형제들에게 될 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받을지어다"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "케나안"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종의"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "종"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨그가⟩ 될 것이다"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "그의 형제들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:07.253589216Z",
+  "model": "glm-5.2"
+}

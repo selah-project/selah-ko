@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "나의 원수들이 나에게 악을 말한다: 언제 그가 죽고 그의 이름이 사라질까?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "나의 원수들이"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽고"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "사라질까"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름이"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:37.271632305Z",
+  "model": "glm-5.2"
+}

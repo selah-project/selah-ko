@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 26:38",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "비냐민 아들들은 그들의 가문대로이다: 블라에게 블라 가문, 아쉬벨에게 아쉬벨 가문, 아히람에게 아히람 가문.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "비냐민"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "그들의 가문대로이다"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "블라에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문"
+    },
+    {
+      "surface": "הבלעי",
+      "gloss": "블라"
+    },
+    {
+      "surface": "לאשבל",
+      "gloss": "아쉬벨에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문"
+    },
+    {
+      "surface": "האשבלי",
+      "gloss": "아쉬벨"
+    },
+    {
+      "surface": "לאחירם",
+      "gloss": "아히람에게"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문"
+    },
+    {
+      "surface": "האחירמי",
+      "gloss": "아히람"
+    }
+  ],
+  "timestamp": "2026-08-05T08:44:01.516712950Z",
+  "model": "glm-5.2"
+}

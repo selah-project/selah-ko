@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ 하도람과 ⟨את⟩ 우잘과 ⟨את⟩ 디클라를",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하도람을"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "하도람과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "우잘을"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "우잘과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "디클라를"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "디클라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:31.680103518Z",
+  "model": "glm-5.2"
+}

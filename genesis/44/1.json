@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 그가 ⟨את⟩ 자기 집을 관할하는 자에게 명령하여 말하였다. \"그 사람들의 자루를 음식으로 채우되, 그들이 나를 수 있는 만큼 ⟨하여⟩, 그리고 각 사람의 은을 그의 자루 아귀에 넣어라.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 그가 명령하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 집을 관할하는 자"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨…하는⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "…위에"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "채우라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람들의 자루"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "자루"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들의"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "음식으로"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…하는 만큼"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "그들이 능히"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "나를"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "그리고 넣어라"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은을"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각 사람의"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "…아귀에"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "그의 자루"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:10.923138964Z",
+  "model": "glm-5.2"
+}

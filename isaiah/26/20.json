@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "가라, 내 백성아, 네 골방들에 들어가고, 네 뒤에서 네 문들을 닫으며, 잠깐 순식간에 숨이라, 분노가 지나가기까지.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성아"
+    },
+    {
+      "surface": "בא",
+      "gloss": "들어가라"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "네 골방들에"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "그리고 닫으라"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "네 문들을"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "너를 위하여"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "숨이라"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "조금"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "순간"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "지나가다가"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "분노가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:50.863342489Z",
+  "model": "glm-5.2"
+}

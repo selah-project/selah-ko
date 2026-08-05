@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 나도 ⟨את⟩ 이스라엘 자손들의 신음을 들었으니, 미츠라임이 그들을 부역시키는 자들이었다. 그리고 나는 나의 브리트를 기억하였다.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "그리고 …도"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손들의 신음을"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "신음을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임이"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "부역시키는 자들이었다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "그리고 …기억하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 브리트를"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "나의 브리트"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:33.495201682Z",
+  "model": "glm-5.2"
+}

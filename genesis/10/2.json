@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야펫의 아들들: 고메르, 마고그, 마다이, 와안, 투발, 메셰크, 티라스.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "야펫의"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "고메르"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "마고그"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "마다이"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "와안"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "투발"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "메셰크"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "티라스"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:14.000552942Z",
+  "model": "glm-5.2"
+}

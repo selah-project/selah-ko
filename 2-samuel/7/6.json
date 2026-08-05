@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내가 이스라엘 자손을 미츠라임에서 올라오게 한 날부터 오늘날까지 집에 거하지 아니하였고, 오직 천막과 미쉬칸 안에서 걸어 다녔기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "부터"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "내가 올라오게 한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "미츠라임에서"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘날"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "나는 있었다"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "걸어 다니는"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "천막 안에서"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "그리고 미쉬칸 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:51.873782728Z",
+  "model": "glm-5.2"
+}

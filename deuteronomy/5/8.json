@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "너는 너를 위해 어떤 새긴 형상도, 하늘에 있는 위로부터의 그 어떤 형태도, 땅에 있는 아래로부터의 것도, 물에 있는 땅 아래로부터의 것도 만들지 아니할 것이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니할 것이다"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 만들지"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "새긴 형상도"
+    },
+    {
+      "surface": "כל",
+      "gloss": "어떤"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "형태도"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "있는"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "하늘에"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "위로부터의"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "있는"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "아래로부터의"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "있는"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물에"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "아래로부터의"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:36.611052135Z",
+  "model": "glm-5.2"
+}

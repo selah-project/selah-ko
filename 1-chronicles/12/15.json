@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "이들은 가드의 아들들 중에서 군대의 우두머리들이다. 가장 작은 자라도 백에 하나요, 가장 큰 자는 천에 하나였다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들은"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…의 아들들 중에서"
+    },
+    {
+      "surface": "גד",
+      "gloss": "가드"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "우두머리들"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "군대의"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "백에"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "가장 작은 자"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "가장 큰 자는"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "천에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:23.470764042Z",
+  "model": "glm-5.2"
+}

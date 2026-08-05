@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "당신께는 팔이 위력과 함께 있다. 당신의 손은 강하시며, 당신의 오른손은 높이 드이신다.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "당신께는"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "팔이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "위력"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "강하시다"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "당신의 손은"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "높이 드이신다"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "당신의 오른손은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:11.585013380Z",
+  "model": "glm-5.2"
+}

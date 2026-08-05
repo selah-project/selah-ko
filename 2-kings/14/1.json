@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "이스라엘 왕 요아하즈의 아들 요아쉬의 제이 년에 유다 왕 요아쉬의 아들 아마츠야후가 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…의 년에"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "이"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "요아쉬에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "요아하즈"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이 되었다"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "아마츠야후"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "요아쉬"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:52.240680030Z",
+  "model": "glm-5.2"
+}

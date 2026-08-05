@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 그것을 순금으로 입혔다 — 안에서부터 바깥까지; 그리고 그것을 위로 금 테를 만들었다, 둘레에.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "그리고 그것을 입혔다"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "순"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "안에서부터"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "그리고 바깥까지"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것을 위로"
+    },
+    {
+      "surface": "זר",
+      "gloss": "테를"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:23.726446467Z",
+  "model": "glm-5.2"
+}

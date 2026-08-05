@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이는 이스라엘에게서 난 것임이라. 장인이 그것을 만들었으니, 그것은 엘로힘이 아니다. 오히려 사마리아의 송아지는 부서진 조각들이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "이스라엘에게서"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "낸 것임이라"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "장인이"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "그것을 만들었으니"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오히려"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "부서진 조각들이"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "송아지는"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "사마리아의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:48.505539870Z",
+  "model": "glm-5.2"
+}

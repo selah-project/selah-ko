@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "내가 노래로 엘로힘의 이름을 찬양하며, 감사로 그를 크게 높이리라.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "내가 … 찬양하며"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "노래로"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "그를 크게 높이리라"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "감사로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:00.365328434Z",
+  "model": "glm-5.2"
+}

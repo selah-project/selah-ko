@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "여인과 간음하는 자는 마음이 부족하니, ⟨그것을⟩ 하는 자, 그는 자기 네페쉬를 파괴하는 자이다.",
+  "tokens": [
+    {
+      "surface": "נֹאֵף",
+      "gloss": "간음하는 자"
+    },
+    {
+      "surface": "אִשָּׁה",
+      "gloss": "여인과"
+    },
+    {
+      "surface": "חֲסַר",
+      "gloss": "부족하니"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "מַשְׁחִית",
+      "gloss": "파괴하는 자"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "자기 네페쉬를"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "יַעֲשֶׂנָּה",
+      "gloss": "그것을 하는 자"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:01.837463317Z",
+  "model": "glm-5.2"
+}

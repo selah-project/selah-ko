@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "나를 우슬초로 정결케 하사 내가 깨끗하게 하소서, 나를 씻기사 눈보다 희게 하소서.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "나를 정결케 하소서"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "우슬초로"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "⟨그리하면⟩ 내가 깨끗하게 되리다"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "나를 씻기소서"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "눈보다"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "희리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:58.363515619Z",
+  "model": "glm-5.2"
+}

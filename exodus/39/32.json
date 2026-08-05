@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "이에 미쉬칸, 곧 만남의 장막의 모든 일이 완성되었다. 이스라엘 아들들이 야훼가 ⟨את⟩ 모셰에게 명령하신 모든 것대로 하였으니, 그같이 그들이 하였다.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "그리고 완성되었다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "일"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "미쉬칸"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "그리고 그들이 만들었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것대로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "그들이 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:29.884355343Z",
+  "model": "glm-5.2"
+}

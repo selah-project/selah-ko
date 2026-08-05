@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "산들의 끝까지 내려갔더니, 땅의 빗장들이 나를 영원히 가두었다. 그러나 야훼 나의 엘로힘, ⟨주⟩께서 나의 생명을 구덩이에서 올리셨다.",
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "끝까지"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들의"
+    },
+    {
+      "surface": "야רדתי",
+      "gloss": "내려갔더니"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "빗장들이"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "올리셨다"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "구덩이에서"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "나의 생명을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:58.996978280Z",
+  "model": "glm-5.2"
+}

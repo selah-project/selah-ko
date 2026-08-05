@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 나는 ⟨내가⟩ 보았다, 지혜에 우월함이 있음을, 어리석음에서 ⟨비롯하여⟩ — 마치 빛의 우월함이 어둠에서 ⟨비롯한 것⟩ 같이.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "그리고 보았다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "…임을"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "우월함이"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "지혜에"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "어리석음"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "…같이"
+    },
+    {
+      "surface": "האור",
+      "gloss": "빛의"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "어둠"
+    }
+  ],
+  "timestamp": "2026-08-05T18:29:34.381208139Z",
+  "model": "glm-5.2"
+}

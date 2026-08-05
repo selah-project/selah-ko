@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "아르난이 돌이켜 ⟨את⟩ 그 천사를 보았고, 그와 함께하던 그의 네 아들은 숨어 있었다. 아르난은 밀을 밟고 있었다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌이켜"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "아르난이"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 천사를"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "그 천사"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "그리고 네"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "아들은"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께하던"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "숨어 있었다"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "아르난은"
+    },
+    {
+      "surface": "דש",
+      "gloss": "밟고 있었다"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "밀을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:44.452256692Z",
+  "model": "glm-5.2"
+}

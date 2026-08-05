@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 다윗은 들에서 숨었고, 초하루가 되매 왕이 음식을 먹으려고 자리에 앉았다.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "그리고 숨었고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에서"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되매"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "초하루가"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그리고 앉았다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "על",
+      "gloss": "자리에"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "음식을"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "먹으려고"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:40.070407668Z",
+  "model": "glm-5.2"
+}

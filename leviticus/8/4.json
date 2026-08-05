@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "모셰가 야훼께서 자신에게 명하신 대로 행하매, 회중이 만남의 천막 입구로 모였다.",
+  "tokens": [
+    {
+      "surface": "וַיַּעַשׂ",
+      "gloss": "행하매"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "자신에게"
+    },
+    {
+      "surface": "וַתִּקָּהֵל",
+      "gloss": "모였다"
+    },
+    {
+      "surface": "הָעֵדָה",
+      "gloss": "회중"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "פֶּתַח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:18.632119287Z",
+  "model": "glm-5.2"
+}

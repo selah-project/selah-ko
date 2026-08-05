@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 모셰가 ⟨את⟩ 이 토라의 말씀들을 책에 기록하기를 마치자 — 온전히 마칠 때까지 — ⟨그것이⟩ 이렇게 되었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨그것이⟩ 이렇게 되었다"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "마치자"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "기록하기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 토라의 말씀들"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "그 토라의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "책"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "온전히 마칠"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:13.451847593Z",
+  "model": "glm-5.2"
+}

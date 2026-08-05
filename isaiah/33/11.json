@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "임신하니, 풀섶을. 낳으니, 짚을. 너희 루아흐는, 불이, 너희를 삼키리라.",
+  "tokens": [
+    {
+      "surface": "תַּהֲר֥וּ",
+      "gloss": "임신하니"
+    },
+    {
+      "surface": "חֲשַׁ֖שׁ",
+      "gloss": "풀섶을"
+    },
+    {
+      "surface": "תֵּ֣לְדוּ",
+      "gloss": "낳으니"
+    },
+    {
+      "surface": "קַ֑שׁ",
+      "gloss": "짚을"
+    },
+    {
+      "surface": "רוּחֲכֶ֕ם",
+      "gloss": "너희 루아흐는"
+    },
+    {
+      "surface": "אֵ֖שׁ",
+      "gloss": "불이"
+    },
+    {
+      "surface": "תֹּאכַלְכֶֽם",
+      "gloss": "너희를 삼키리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:34.589027838Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야훼가 ⟨את⟩ 히즈키야후와 ⟨את⟩ 예루샬라임 주민들을 산헤립 아슈르 왕의 손과 모든 자의 손에서 구원하셨다. 그리고 그들을 사방에서 인도하셨다.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "구원하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "히즈키야후"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "히즈키야후"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임 주민들"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "주민들을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "산헤립"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "그리고 손에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 자의"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "인도하셨다"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "사방에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:02:27.361027100Z",
+  "model": "glm-5.2"
+}

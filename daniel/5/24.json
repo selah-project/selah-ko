@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그러므로 그의 앞에서 손의 손바닥 부분이 보내졌고, 이 글씨가 새겨졌다.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "מן",
+      "gloss": "~에서부터"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "그의 앞"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "보내졌고"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "손바닥 부분이"
+    },
+    {
+      "surface": "די",
+      "gloss": "~의"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "손"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "그리고 이 글씨가"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "이"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "새겨졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:27:35.292286780Z",
+  "model": "glm-5.2"
+}

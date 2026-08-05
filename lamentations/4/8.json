@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그들의 모습이 검은 것보다 어두워졌으므로, 거리에서 알아보지 못하였다. 그들의 가죽이 그들의 뼈 위로 달라붙어 말랐으니, 나무 같이 되었다.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "어두워졌다"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "검은 것보다"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "그들의 모습이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "알아보〈지〉"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "거리에서"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "달라붙었다"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "그들의 가죽이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "그들의 뼈"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "말랐다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "나무 같이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:17.154932377Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 ⟨את⟩ 그 집을 보석으로 아름답게 장식하였는데, 그 금은 파르와임의 금이었다.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "그리고 덮었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "귀한"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "아름다움을 위하여"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "그리고 그 금은"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "파르와임"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:57.927633454Z",
+  "model": "glm-5.2"
+}

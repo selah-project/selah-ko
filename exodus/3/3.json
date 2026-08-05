@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "모셰가 말하였다. \"제가 돌아서서 ⟨את⟩ ⟨이⟩ 큰 광경을 보겠습니다. 어찌하여 가시떨기나무가 타지 아니하는가.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "돌아서서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제가"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "보겠습니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "큰 광경"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "광경을"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "큰"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하는가"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "타지"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "가시떨기나무가"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:01.073820468Z",
+  "model": "glm-5.2"
+}

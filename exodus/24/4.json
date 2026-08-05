@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 모셰가 야훼의 ⟨את⟩ 모든 말씀을 기록하였다. 그리고 아침에 일찍 일어나 산 아래에 제단을 쌓고, 이스라엘의 열두 지파를 따라 열두 기둥을 세웠다.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "그리고 …이 기록하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 말씀을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "그리고 일찍 일어났다"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 쌓았다"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "그리고 열두"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열두"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "기둥을"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "…를 따라"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열두"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "지파"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:45.904233431Z",
+  "model": "glm-5.2"
+}

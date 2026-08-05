@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 22:17",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 ⟨그가⟩ 말하였다. \"나는 ⟨את⟩ 온 이스라엘이 산들로 흩어진 것을 보았다, 목자가 없는 양 떼같이. 그리고 야훼께서 말씀하셨다. '이들은 주인이 없다. 각자 자기 집으로 평안히 돌아갈 것이다.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ⟨그가⟩ 말하였다"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "나는 보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "נפצים",
+      "gloss": "흩어진 것을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "산들"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "양 떼같이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "목자가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없다"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "주인이"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "이들에게는"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "돌아갈 것이다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "자기 집으로"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "평안히"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:44.837581260Z",
+  "model": "glm-5.2"
+}

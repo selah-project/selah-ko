@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그들의 땅의 모든 풀을 먹어치웠고, 그들의 땅의 열매를 먹어치웠다.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "먹어치웠고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "풀"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "그들의 땅의"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "먹어치웠다"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "열매"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "그들의 땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:11.447450052Z",
+  "model": "glm-5.2"
+}

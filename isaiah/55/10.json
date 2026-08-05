@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "이는 비와 눈이 하늘에서 내려 그곳으로 돌아가지 않고, 오히려 ⟨את⟩ 땅을 적시고 그것을 낳게 하며 그것을 싹나게 하여, 씨 뿌리는 자에게 씨를 주고 먹는 자에게 양식을 주기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "함같이"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "내려"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "비가"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "그리고 눈이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "그리고 그곳으로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "돌아가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "다만"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오히려"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "적시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "그리고 그것을 낳게 하며"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "그리고 그것을 싹나게 하여"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "그리고 주어"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨를"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "씨 뿌리는 자에게"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "그리고 양식을"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹는 자에게"
+    }
+  ],
+  "timestamp": "2026-08-05T18:16:49.942044126Z",
+  "model": "glm-5.2"
+}

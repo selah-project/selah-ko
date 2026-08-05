@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 75,
+  "translation": "지휘자에게, '파괴하지 마시오', 아사프의 마스모르, 노래.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "파괴하지"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "마시오"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "마스모르"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "아사프의"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:10.233562606Z",
+  "model": "glm-5.2"
+}

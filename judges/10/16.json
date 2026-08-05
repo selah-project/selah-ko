@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그들이 ⟨את⟩ 이방의 엘로힘들을 그들의 한가운데서 제거하였고, ⟨את⟩ 야훼를 섬겼다. 그리고 그의 네페쉬가 이스라엘의 수고로 인해 짧아졌다.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "제거하였고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이방의 엘로힘들을"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘들을"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "이방의"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "그들의 한가운데서"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "섬겼다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "짧아졌다"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "그의 네페쉬가"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "수고로 인해"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:16:03.993743290Z",
+  "model": "glm-5.2"
+}

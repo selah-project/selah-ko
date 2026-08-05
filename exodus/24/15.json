@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "모셰가 산으로 올라가자, 구름이 ⟨את⟩ 그 산을 덮었다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 올라가자"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "구름이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 산"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:41.811650152Z",
+  "model": "glm-5.2"
+}

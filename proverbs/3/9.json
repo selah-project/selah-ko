@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "네 재물로 ⟨את⟩ 야훼를 영예롭게 하라, 그리고 네 모든 소출의 첫 열매로 ⟨‏⟩.",
+  "tokens": [
+    {
+      "surface": "כַּבֵּד",
+      "gloss": "영예롭게 하라"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מֵהוֹנֶךָ",
+      "gloss": "네 재물로"
+    },
+    {
+      "surface": "וּמֵרֵאשִׁית",
+      "gloss": "그리고 …의 첫 열매로"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "תְּבוּאָתֶךָ",
+      "gloss": "네 소출"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:53.357815012Z",
+  "model": "glm-5.2"
+}

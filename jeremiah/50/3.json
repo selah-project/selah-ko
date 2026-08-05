@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "한 민족이 북편에서부터 그녀에게 올라왔으니, 그가 ⟨את⟩ 그녀의 땅을 황무지로 만들 것이다. 거기 사는 자가 없을 것이다 — 사람으로부터 짐승까지, 떠났다, 가버렸다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…이니"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라왔다"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "민족"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "북편에서부터"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "만들 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 땅"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "그녀의 땅"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "황무지로"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아닐"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "사는 자"
+    },
+    {
+      "surface": "בה",
+      "gloss": "거기"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "사람으로부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "짐승"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "떠났다"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "가버렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:45:24.464748585Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "눈을 찡그리는 자는 아픔을 주고, 입술의 어리석은 자는 넘어질 것이다.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "찡그리는"
+    },
+    {
+      "surface": "עין",
+      "gloss": "눈을"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주고"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "아픔을"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "어리석은 자는"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "입술의"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "넘어질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:58.641114654Z",
+  "model": "glm-5.2"
+}

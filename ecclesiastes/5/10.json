@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "재물이 많아질 때에 그것을 먹는 자들도 많아지며, 그것의 소유주에게 무슨 이로움이 있으랴? ⟨그것은⟩ ⟨다만⟩ 그의 눈이 보는 ⟨것⟩ ⟨뿐이다⟩.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "많아질 때에"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "재물이"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "많아지며"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "그것을 먹는 자들도"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그리고 무슨"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "이로움이"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "그것의 소유주에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "있으랴?"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨다만⟩"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "보는"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "그의 눈이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:42.083010269Z",
+  "model": "glm-5.2"
+}

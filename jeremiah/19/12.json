@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "이같이 내가 이 곳에, 야훼의 선언이니, 그리고 그 주민들에게 행하시리라. 그리고 ⟨내가⟩ ⟨את⟩ 이 도시를 토펫처럼 만드시리라.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 행하시리라"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "곳에"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "그리고 그 주민들에게"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "그리고 ⟨내가⟩ 만드시리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 도시"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "도시"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "토펫처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T10:32:55.032022205Z",
+  "model": "glm-5.2"
+}

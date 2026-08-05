@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 노바흐가 가서 ⟨את⟩ 크나트와 ⟨את⟩ 그것의 딸들(마을들)을 점령하고, 그것을 자기 이름 따라 노바흐라 불렀다.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "그리고 노바흐가"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "점령하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "크나트를"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "크나트"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 딸들(마을들)을"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "그것의 딸들(마을들)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "노바흐"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "자기 이름 따라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:46:40.827873133Z",
+  "model": "glm-5.2"
+}

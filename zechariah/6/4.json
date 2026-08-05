@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 내가 대답하여 내 안에서 말하는 ⟨그⟩ 천사에게 말하였다. “이들이 무엇입니까, 나의 주여.”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "그리고 내가 대답하여"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "⟨내가⟩ 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "천사"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말하는"
+    },
+    {
+      "surface": "בי",
+      "gloss": "내 안에서"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇입니까"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "나의 주여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:19:09.111737630Z",
+  "model": "glm-5.2"
+}

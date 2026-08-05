@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그래서 우리가 말하되, 우리가 우리를 위해 ⟨את⟩ 그 제단을 세우는 일을 하자, 올라(번제물)를 위함도 아니요, 제물을 위함도 아니라고 하였다.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "그래서 우리가 말하되"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "하는 일을 하자"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위해"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "세우는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 제단"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "그 제단"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "올라(번제물)를 위함도"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니요"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "제물을 위함도"
+    }
+  ],
+  "timestamp": "2026-08-05T09:11:52.793985300Z",
+  "model": "glm-5.2"
+}

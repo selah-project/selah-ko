@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 92,
+  "translation": "그들은 노년에도 여전히 열매 맺으며, 진액이 넘치고 푸를 것이라.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "여전히"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "열매 맺으며"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "노년에도"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "진액이 넘치고"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "푸를"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:38.358425145Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "파수꾼이 알려 말하되 “그가 그들에게까지 갔으나 돌아오지 않는다. 그리고 그 모는 것이 예후 님쉬의 아들의 모는 것과 같으니, 이는 그가 미친 듯이 모기 때문이다.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "알려"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "파수꾼이"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "בא",
+      "gloss": "갔으나"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "שב",
+      "gloss": "돌아오지"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "그리고 그 모는 것은"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "모는 것과 같으니"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "예후"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "님쉬의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "미친 듯이"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "모기 때문이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:39.694866209Z",
+  "model": "glm-5.2"
+}

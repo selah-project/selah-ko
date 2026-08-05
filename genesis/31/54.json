@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "genesis 31:54",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "야곱은 산에서 제사를 드렸고, 그의 형제들을 음식을 먹으라고 불렀다. 그들이 음식을 먹고, 산에서 밤을 보냈다.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "제사를 드렸고"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제사를"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에서"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "그의 형제들을"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹으라고"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "음식을"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "음식을"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "밤을 보냈다"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:41.179317468Z",
+  "model": "glm-5.2"
+}

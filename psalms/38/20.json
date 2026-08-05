@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "나의 적들은 생명으로 강건하다. 그리고 나를 거짓으로 미워하는 자들은 많아졌다.",
+  "tokens": [
+    {
+      "surface": "וְֽ֭אֹיְבַי",
+      "gloss": "나의 적들은"
+    },
+    {
+      "surface": "חַיִּ֣ים",
+      "gloss": "생명으로"
+    },
+    {
+      "surface": "עָצֵ֑מוּ",
+      "gloss": "강건하다"
+    },
+    {
+      "surface": "וְרַבּ֖וּ",
+      "gloss": "많아졌다"
+    },
+    {
+      "surface": "שֹׂנְאַ֣י",
+      "gloss": "나를 미워하는 자들은"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "거짓으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:48.968453553Z",
+  "model": "glm-5.2"
+}

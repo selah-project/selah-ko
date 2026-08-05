@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 146,
+  "translation": "귀인들을 신뢰하지 말지어다. 사람의 아들에게 — 그에게 구원이 없으므로.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "하지 말지어다"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "신뢰하지"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "귀인들을"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "아들에게"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "없으므로"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "구원이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:36.696471248Z",
+  "model": "glm-5.2"
+}

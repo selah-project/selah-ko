@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "악을 행하는 자들의 비밀 모의에서 나를 숨겨주소서. 불의를 행하는 자들의 소동에서 ⟨나를⟩.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "나를 숨겨주소서"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "비밀 모의에서"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "악을 행하는 자들의"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "소동에서"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "행하는 자들의"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:24.269486669Z",
+  "model": "glm-5.2"
+}

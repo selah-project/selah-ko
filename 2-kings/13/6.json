@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "다만 그들이 ⟨את⟩ 이스라엘로 범죄하게 한 여로보암의 집의 죄에서 떠나지 아니하고, 그 안에서 행하였다. 그리고 아셰라도 역시 사마리아에 서 있었다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "다만"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "떠나지"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "죄에서"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "여로보암"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "범죄하게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘로"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 …역시"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "아셰라"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "서 있었다"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "사마리아에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:48.516235889Z",
+  "model": "glm-5.2"
+}

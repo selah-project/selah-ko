@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그들이 삼 년을 머물렀다 — 아람과 이스라엘 사이에 전쟁이 없었다.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "그들이 머물렀다"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "삼"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁이"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 ~사이에"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:55:14.821244511Z",
+  "model": "glm-5.2"
+}

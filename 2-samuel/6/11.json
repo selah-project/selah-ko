@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "야훼의 언약궤가 갓 사람 오벧-에돔의 집에 석 달 머물렀고, 야훼께서 ⟨את⟩ 오벧-에돔과 ⟨את⟩ 그의 온 집안을 축복하셨다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "머물렀고"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "언약궤가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "오벧-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "갓 사람"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "석"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "달"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "오벧-에돔"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "오벧-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 온 집안"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "집안을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:26.090723540Z",
+  "model": "glm-5.2"
+}

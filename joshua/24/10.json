@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그러나 나는 빌암의 말을 듣기 원하지 않았다. 그가 도리어 ⟨את⟩ 너희를 축복하였으므로, 내가 ⟨את⟩ 너희를 그의 손에서 건져내었다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그러나 …아니했다"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "원하지 않았다"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "듣기를"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "빌암의"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하였다"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "도리어"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "건져내었다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "그의 손에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:12:36.071251053Z",
+  "model": "glm-5.2"
+}

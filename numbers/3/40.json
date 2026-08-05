@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 3:40",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"이스라엘 아들들의 모든 처음 난 남자를 한 달 된 아들 이상으로부터 계수하고, 그들의 이름들의 수를 ⟨את⟩ 들어 올려라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ~께서 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "계수하여라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "처음 난"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "~아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "아들 이상으로부터"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "한 달 된"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "그리고 위로"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "그리고 들어 올려라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이름들의 수를"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "수"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "그들의 이름들의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:57.735266118Z",
+  "model": "glm-5.2"
+}

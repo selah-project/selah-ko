@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "야훼의 진노가 이스라엘에게 타올라, 그들을 블레셋 사람들의 손과 암몬 자손의 손에 팔아넘기셨다.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "타올라"
+    },
+    {
+      "surface": "אף",
+      "gloss": "진노가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에게"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "팔아넘기셨다"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들의"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "손과"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손의"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    }
+  ],
+  "timestamp": "2026-08-05T09:17:01.765521511Z",
+  "model": "glm-5.2"
+}

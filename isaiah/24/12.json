@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "성에 남은 것은 황무함이요, 부서짐이 문을 치는도다.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "남은"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성에"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "황무함이요"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "부서짐이"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "치는도다"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:03.373633284Z",
+  "model": "glm-5.2"
+}

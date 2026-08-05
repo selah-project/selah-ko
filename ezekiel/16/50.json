@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 그들이 거만해졌고, 그리고 내 앞에서 가증한 것을 행하였다. 그리하여 내가 ⟨את⟩ 그들을 내가 본 대로 옮겼다.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "그리고 그들이 거만해졌고"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "그리고 행하였다"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "가증한 것을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "내 앞에서"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "그리하여 내가 옮겼다"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "… 대로"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 본"
+    }
+  ],
+  "timestamp": "2026-08-05T10:51:25.863408516Z",
+  "model": "glm-5.2"
+}

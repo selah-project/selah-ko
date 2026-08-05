@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 20:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그가 ⟨그에게⟩ 말하였다. \"결코 그렇지 않다, ⟨당신은⟩ 죽지 않을 것이다. 보라, 내 아버지가 큰일이나 작은일을 하실 때에 ⟨את⟩ 내 귀를 드러내지 않으실 일이 없다. 그런데 어찌하여 내 아버지가 나에게서 ⟨את⟩ 이 일을 숨기시겠는가? 이것은 아니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "결코 그렇지 않다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "죽지 않을 것이다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "하실"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지가"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "או",
+      "gloss": "이나"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "작은"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "드러내지 않으실"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 귀"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "내 귀를"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "그런데 어찌하여"
+    },
+    {
+      "surface": "יסתיר",
+      "gloss": "숨기시겠는가"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지가"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 일"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "אין",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것은"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:15.286610025Z",
+  "model": "glm-5.2"
+}

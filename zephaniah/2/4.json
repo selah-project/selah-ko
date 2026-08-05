@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "이는 가자가 버림받은 곳이 될 것이요, 아스클론은 황무지가 될 것임이라. 아스돗은 한낮에 쫓겨낼 것이요, 에그론은 뽑힐 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "가자가"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "버림받은 곳이"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "될 것이고"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "아스클론은"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "황무지가"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "아스돗은"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "한낮에"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "쫓아낼 것이다"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "에그론은"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "뽑힐 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:28.006108078Z",
+  "model": "glm-5.2"
+}

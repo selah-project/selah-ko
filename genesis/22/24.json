@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 그의 첩 — 그녀의 이름은 르우마이다 — 그녀도 ⟨또한⟩ ⟨את⟩ 테바흐와 ⟨את⟩ 가함과 ⟨את⟩ 타하쉬와 ⟨את⟩ 마아카를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "그리고 그의 첩은"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "그리고 그녀의 이름은"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "르우마"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "그리고 그녀가 낳았다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그녀도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "테바흐를"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "테바흐"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "가함을"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "가함"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "타하쉬를"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "타하쉬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "마아카를"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "마아카"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:30.804208954Z",
+  "model": "glm-5.2"
+}

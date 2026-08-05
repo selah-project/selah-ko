@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 자기 집을 건축하였다 — 셸로모가 십삼 년에 — 그리고 그가 ⟨את⟩ 온 자기 집을 마쳤다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "자기 집"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자기 집"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "건축하였다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "셋"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "그리고 마쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 자기 집"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자기 집"
+    }
+  ],
+  "timestamp": "2026-08-05T19:47:24.263194880Z",
+  "model": "glm-5.2"
+}

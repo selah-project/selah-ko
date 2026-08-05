@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 그대와 그대의 종들은, 아직도 야훼 엘로힘의 면전을 두려워하지 않음을 내가 압니다.\"",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 그대"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "그대의 종들은"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 압니다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…함을"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "아직도"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "면전을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:11.941593911Z",
+  "model": "glm-5.2"
+}

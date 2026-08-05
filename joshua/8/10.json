@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "여호수아가 아침에 일찍 일어나 ⟨את⟩ 백성을 점고하였다. 그가 이스라엘 장로들과 함께 백성 앞에서 하이로 올라갔다.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "일찍 일어나"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "점고하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "장로들과"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "העי",
+      "gloss": "하이로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:08:25.816155138Z",
+  "model": "glm-5.2"
+}

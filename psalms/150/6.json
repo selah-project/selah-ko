@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 150,
+  "translation": "숨을 쉬는 모든 것은 야를 할렐하라. 야를 할렐하라!",
+  "tokens": [
+    {
+      "surface": "כֹּ֣ל",
+      "gloss": "모든 것은"
+    },
+    {
+      "surface": "הַ֭נְּשָׁמָה",
+      "gloss": "숨을 쉬는"
+    },
+    {
+      "surface": "תְּהַלֵּ֥ל",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "יָ֗הּ",
+      "gloss": "야를"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "야를"
+    }
+  ],
+  "timestamp": "2026-08-05T19:39:04.599303749Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 질그릇 안에, 흐르는 물 위에서 ⟨그가⟩ ⟨את⟩ 그 새 한 마리를 잡을 것이다.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "그리고 잡을 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 새 한 마리를"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "그 새"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "한 마리"
+    },
+    {
+      "surface": "אל",
+      "gloss": "안에"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "그릇"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "질"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "흐르는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:13.332677398Z",
+  "model": "glm-5.2"
+}

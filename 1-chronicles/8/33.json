@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 8:33",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 네르는 ⟨את⟩ 키쉬를 낳았고, 키쉬는 ⟨את⟩ 샤울을 낳았고, 샤울은 ⟨את⟩ 여호나탄과 ⟨את⟩ 말키슈아와 ⟨את⟩ 아비나다브와 ⟨את⟩ 에쉬바알을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "그리고 네르는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "키쉬를"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "키쉬"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "그리고 키쉬는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤울을"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "그리고 샤울은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여호나탄을"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "말키슈아를"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "말키"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "슈아"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아비나다브를"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "아비나다브"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "에쉬바알을"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "에쉬바알"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:45.749358485Z",
+  "model": "glm-5.2"
+}

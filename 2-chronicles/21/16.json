@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 야훼께서 ⟨את⟩ 필리시틴 사람들과 쿠시인들 곁에 있는 아라비안 사람들의 영을 예호람에게 일으키셨다.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "그리고 일으키셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "예호람"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "영"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "영을"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "필리시틴"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "그리고 아라비안 사람들의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~인"
+    },
+    {
+      "surface": "על",
+      "gloss": "~곁에"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "쿠시인들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:20.776172737Z",
+  "model": "glm-5.2"
+}

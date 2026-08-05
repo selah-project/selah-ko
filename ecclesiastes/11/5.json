@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "네가 루아흐의 길이 무엇인지, 뼈들이 어떻게 가득한 태 속에 ⟨있는지⟩ 알지 못함같이, 이같이 너는 모든 것을 ⟨את⟩ 만드시는 엘로힘의 ⟨את⟩ 일을 알지 못하리라.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "같이"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "네가 …아니라"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇인지"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길이"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "루아흐의"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "뼈들이"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "태 속에"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "가득한"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "너는 알지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "일"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "일을"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "만드시는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "모든 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:38.754484542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "“엘 샤다이께서 ⟨את⟩ 너를 축복하시고, 너를 열매 맺게 하시며, 너를 번성하게 하시어, 네가 백성들의 회중이 되게 하시기를.”",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이께서"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "축복하시고"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "너"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "열매 맺게 하시며"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "번성하게 하시어"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "되게 하시기를"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "회중이"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:03.503047759Z",
+  "model": "glm-5.2"
+}

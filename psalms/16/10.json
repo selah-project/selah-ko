@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "주께서 내 네페쉬를 셰올에 버려 두지 않으시며, 주의 헤세드 받는 자를 아파트(부패)를 보게 내버려 두지 않으실 것임이라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "버려 두다"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬를"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "셰올에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "내버려 두다"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "주의 헤세드 받는 자를"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보게"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "아파트(부패)를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:16.767568086Z",
+  "model": "glm-5.2"
+}

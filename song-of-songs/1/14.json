@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "나의 사랑하는 이는 나에게 코퍼르 송이, 엔-게디 포도원들 ⟨에서⟩.",
+  "tokens": [
+    {
+      "surface": "אֶשְׁכֹּל",
+      "gloss": "송이"
+    },
+    {
+      "surface": "הַכֹּפֶר",
+      "gloss": "코퍼르의"
+    },
+    {
+      "surface": "דּוֹדִי",
+      "gloss": "나의 사랑하는 이는"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "בְּכַרְמֵי",
+      "gloss": "포도원들"
+    },
+    {
+      "surface": "עֵין",
+      "gloss": "엔"
+    },
+    {
+      "surface": "גֶּדִי",
+      "gloss": "게디"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:12.616472975Z",
+  "model": "glm-5.2"
+}

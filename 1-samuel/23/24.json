@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 그들이 일어나 샤울보다 먼저 쯔프로 갔다. 그리고 다윗과 그의 사람들은 미쉬칸 아랄바 옆, 곧 예시몬의 남쪽에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "그리고 그들이 일어나"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "쯔프로"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "～보다 먼저"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "그리고 다윗은"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "그의 사람들"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "마온"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "아라바에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～옆"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "남쪽"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "예시몬의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:36.993260455Z",
+  "model": "glm-5.2"
+}

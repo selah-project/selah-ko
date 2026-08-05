@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "기도, 다윗의. 야훼여, ⟨그⟩ 의를 들어주소서. 나의 부르짖음에 귀를 기울이소서. 나의 기도에 주의를 기울이소서 — 속임의 입술이 없이.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "기도"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "들어주소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "의"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "귀를 기울이소서"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "나의 부르짖음"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "주의를 기울이소서"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "나의 기도"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "없이"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "입술이"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속임"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:56.160304881Z",
+  "model": "glm-5.2"
+}

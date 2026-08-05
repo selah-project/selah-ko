@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "하늘의 별들과 그 별자리들이 그 빛을 비추지 아니하고, 해는 떠오를 때에 어두워지며, 달도 그 빛을 비추지 아니할 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "별들과"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "그 별자리들이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "비추지"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "그 빛을"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어두워지며"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해는"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "떠오를 때에"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "달도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할 것이다"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "비추지"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "그 빛을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:22.775343553Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 나는 너와 ⟨그⟩ 여인 사이에, 그리고 너의 씨와 그녀의 씨 사이에 적의를 두리라. 그가 네 머리를 부술 것이요, 너는 그의 발뒤치임을 부수리라.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "적의를"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "두리라"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "너와 … 사이에"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 … 사이에"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "여인은"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 … 사이에"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "너의 씨와"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 … 사이에"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "그녀의 씨"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "너를 부수리라"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리를"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너는"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "그를 부수리라"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "발뒤치임을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:08:38.243409686Z",
+  "model": "glm-5.2"
+}

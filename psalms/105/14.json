@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그가 사람을 그들을 억압하지 못하게 하셨으며, 왕들을 꾸짖으셨더라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "내버려 두셨으며"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "그들을 억압하기를"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "꾸짖으셨더라"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들의 편에서"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "왕들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:26.123465379Z",
+  "model": "glm-5.2"
+}

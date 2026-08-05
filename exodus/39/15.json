@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그들이 ⟨그⟩ 흉배 위에 꼬아 만든 일로 순금 사슬고리를 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그들이 만들었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "그 흉배"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "사슬고리"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "꼬아 만든 것"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "일"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "꼬아 만든"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "순"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:22.883815880Z",
+  "model": "glm-5.2"
+}

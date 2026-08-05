@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 96,
+  "translation": "열방 가운데서 말하라: 야훼가 통치하신다! 세계가 견고히 섰으니 흔들리지 아니하리라. ⟨그가⟩ 민족들을 공의로 심판하시리라.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "열방 가운데서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "통치하신다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "견고히"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "섰으니"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계가"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "흔들리지"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "심판하시리라"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "민족들을"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "공의로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:59.914327232Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 18:13",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리하여 샤울이 그를 자기에게서 옮기시고, 그를 천인대장으로 삼으시니, 그가 백성 앞에서 나가고 들어왔다.",
+  "tokens": [
+    {
+      "surface": "ויסרהו",
+      "gloss": "옮기셨다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "자기에게서"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "삼으셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "지휘관으로"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천의"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나가고"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:59.141017512Z",
+  "model": "glm-5.2"
+}

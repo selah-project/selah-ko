@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리하여 내가 이스라엘 아들들 가운데 모든 처음 난 자 대신 ⟨את⟩ 레위 사람들을 취하였다.",
+  "tokens": [
+    {
+      "surface": "וָאֶקַּח֙",
+      "gloss": "내가 취하였다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "레위 사람들을"
+    },
+    {
+      "surface": "הַלְוִיִּ֔ם",
+      "gloss": "레위 사람들"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בְּכ֖וֹר",
+      "gloss": "처음 난 자"
+    },
+    {
+      "surface": "בִּבְנֵ֥י",
+      "gloss": "아들들 가운데"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:34:05.710088020Z",
+  "model": "glm-5.2"
+}

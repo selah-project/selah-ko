@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "모든 강들이 바다로 흘러가나 바다는 가득 차지 않는다; 강들이 흘러가는 곳으로, 그곳에 그들이 다시 가기로 돌아온다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "강들이"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "흘러가나"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "והים",
+      "gloss": "그리고 바다는"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "가득 차"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "곳"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "강들이"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "흘러가는"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "돌아온다"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "가기로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:14.304462232Z",
+  "model": "glm-5.2"
+}

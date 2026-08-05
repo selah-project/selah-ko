@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "지혜로운 자들의 마음은 애통하는 집에 있고, 어리석은 자들의 마음은 기쁨의 집에 있다.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "지혜로운 자들의"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…에"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "집"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "애통하는"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "어리석은 자들의"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "…에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:18.155767039Z",
+  "model": "glm-5.2"
+}

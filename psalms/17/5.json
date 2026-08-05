@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "나의 걸음을 굳게 붙드셔서, 주의 길들 ⟨안에⟩ 있게 하소서 — 나의 발이 흔들리지 아니하였나이다.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "굳게 붙드셔서"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "나의 걸음을"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "주의 길들 ⟨안에⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "흔들리"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "나의 발이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:46.235306503Z",
+  "model": "glm-5.2"
+}

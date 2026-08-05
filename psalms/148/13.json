@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "야훼의 ⟨이름⟩을 찬양하라. 그의 이름은 홀로 높이셔지고, 그의 위엄은 땅과 하늘 위에 ⟨있기⟩ 때문이다.",
+  "tokens": [
+    {
+      "surface": "יְהַלְל֤וּ",
+      "gloss": "찬양하라"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이름"
+    },
+    {
+      "surface": "שֵׁ֬ם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נִשְׂגָּ֣ב",
+      "gloss": "높이셔지고"
+    },
+    {
+      "surface": "שְׁמ֣וֹ",
+      "gloss": "그의 이름은"
+    },
+    {
+      "surface": "לְבַדּ֑וֹ",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "ה֝וֹד֗וֹ",
+      "gloss": "그의 위엄은"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "וְשָׁמָֽיִם",
+      "gloss": "그리고 하늘"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:18.057719110Z",
+  "model": "glm-5.2"
+}

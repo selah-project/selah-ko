@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야훼께서 그에게 말씀하셨다. \"이것이 아브라함과 이삭과 야곱에게 '네 씨에게 주리라' 하고 맹세한 그 땅이다. 내가 네 눈으로 보게 하였으되, 너는 그리로 건너가지 못하리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "맹세한"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "이삭"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "야곱에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "하고"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "네 씨에게"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "주리라"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "보게 하였으되"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "네 눈으로"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "그리로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하리라"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "건너가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:03:02.489622081Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 도살자들의 우두머리 네부자르아단이 ⟨아그⟩ 그들을 데려, 바벨 왕에게 리블라로 데려갔다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 데려갔다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "네부자르아단"
+    },
+    {
+      "surface": "רב",
+      "gloss": "우두머리"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "도살자들의"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그리고 데려갔다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "리블라로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:12.690314839Z",
+  "model": "glm-5.2"
+}

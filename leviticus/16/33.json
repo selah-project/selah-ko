@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그가 ⟨את⟩ 거룩한 거룩의 장소와 ⟨את⟩ 만남의 텐트와 ⟨את⟩ 그 제단을 위해 속죄하며, 코헨들과 모든 회중의 백성을 위해 속죄할 것이다.",
+  "tokens": [
+    {
+      "surface": "וְכִפֶּר",
+      "gloss": "속죄하며"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "거룩한 거룩의 장소"
+    },
+    {
+      "surface": "מִקְדַּשׁ",
+      "gloss": "거룩의 장소"
+    },
+    {
+      "surface": "הַקֹּדֶשׁ",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "만남의 텐트"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "텐트"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그 제단"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "그 제단"
+    },
+    {
+      "surface": "יְכַפֵּר",
+      "gloss": "속죄할 것이다"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "위해"
+    },
+    {
+      "surface": "הַכֹּהֲנִים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "위해"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הַקָּהָל",
+      "gloss": "회중의"
+    },
+    {
+      "surface": "יְכַפֵּר",
+      "gloss": "속죄할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:44.410359814Z",
+  "model": "glm-5.2"
+}

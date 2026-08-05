@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "이는 아이욥이 말하기를, \"나는 의롭다, 그런데 엘이 내 판결을 거두어 가셨다\" 하였음이라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "아이욥이"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "나는 의롭다"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그런데 엘이"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "거두어 가셨다"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "내 판결을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:28.976733497Z",
+  "model": "glm-5.2"
+}

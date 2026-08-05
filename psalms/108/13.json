@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 108,
+  "translation": "우리에게 환난으로부터 ⟨⟨את⟩⟩ 도움을 주소서. 인간의 구원은 헛되기 때문이다.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "주소서"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "도움을"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "환난으로부터"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "헛되기 때문이다"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "구원은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "인간의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:14.679134343Z",
+  "model": "glm-5.2"
+}

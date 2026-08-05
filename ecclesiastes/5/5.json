@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "네 입을 ⟨את⟩ 네 몸으로 하여금 죄짓게 하는 것에 내어주지 말며, ⟨그⟩ 사자 앞에서 \"그것은 실수이다\"라고 말하지 말라. 어찌하여 엘로힘이 네 목소리로 인해 진노하시며 ⟨את⟩ 네 손의 행한 것을 멸하실까?",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תִּתֵּן",
+      "gloss": "내어주지"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "네 입"
+    },
+    {
+      "surface": "פִּיךָ",
+      "gloss": "네 입"
+    },
+    {
+      "surface": "לַחֲטִיא",
+      "gloss": "죄짓게 하는 것에"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "네 몸"
+    },
+    {
+      "surface": "בְּשָׂרֶךָ",
+      "gloss": "네 몸"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "말며"
+    },
+    {
+      "surface": "תֹּאמַר",
+      "gloss": "말하지"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "הַמַּלְאָךְ",
+      "gloss": "사자"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "그"
+    },
+    {
+      "surface": "שְׁגָגָה",
+      "gloss": "실수"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "이다"
+    },
+    {
+      "surface": "לָמָּה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "יִקְצֹף",
+      "gloss": "진노하실까"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "인해"
+    },
+    {
+      "surface": "קוֹלֶךָ",
+      "gloss": "네 목소리"
+    },
+    {
+      "surface": "וְחִבֵּל",
+      "gloss": "멸하실까"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "행한 것"
+    },
+    {
+      "surface": "מַעֲשֵׂה",
+      "gloss": "행한 것"
+    },
+    {
+      "surface": "יָדֶיךָ",
+      "gloss": "네 손의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:23.021909196Z",
+  "model": "glm-5.2"
+}

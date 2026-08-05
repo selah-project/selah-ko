@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "야훼는 나의 높은 요새가 되셨고, 나의 엘로힘은 나의 피난처인 반석이시다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ─가 되셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나의"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "높은 요새가"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "그리고 나의 엘로힘은"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "반석이시다"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "나의 피난처인"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:37.195479244Z",
+  "model": "glm-5.2"
+}

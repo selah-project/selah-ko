@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그들의 계수된 자는 모든 남자 수대로 한 달부터 위로 육천 이백 명이었다.",
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "그리고 그들의 계수된 자는"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "수대로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "남자"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "한 달"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "그리고 위로"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "육"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "그리고 이백"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:10.697988475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "바락이 ⟨את⟩ 빌암을 데리고 페오르의 꼭대기로 올라갔으니, 그곳은 황무지를 내려다보는 곳이다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "데리고 올라갔다"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "바락이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "빌암을"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "꼭대기로"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "페오르의"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "내려다보는"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을"
+    },
+    {
+      "surface": "פני",
+      "gloss": "표면을"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "황무지"
+    }
+  ],
+  "timestamp": "2026-08-05T08:43:30.883656453Z",
+  "model": "glm-5.2"
+}

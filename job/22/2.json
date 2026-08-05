@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "사람이 엘에게 유익하랴? 그가 스스로 유익을 얻을진대 ⟨엘에게⟩ 유익하랴?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "엘에게"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "유익하랴"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "진대"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "유익하랴"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "스스로 유익을 얻는 자가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:07:28.445521064Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "우리는 고아가 되어 아버지가 없고, 우리의 어머니들은 과부 같다.",
+  "tokens": [
+    {
+      "surface": "יְתוֹמִ֤ים",
+      "gloss": "고아가"
+    },
+    {
+      "surface": "הָיִ֨ינוּ֙",
+      "gloss": "되어"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "אָ֔ב",
+      "gloss": "아버지가"
+    },
+    {
+      "surface": "אִמֹּתֵ֖ינוּ",
+      "gloss": "우리의 어머니들은"
+    },
+    {
+      "surface": "כְּאַלְמָנֽוֹת",
+      "gloss": "과부 같다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:47.569406191Z",
+  "model": "glm-5.2"
+}

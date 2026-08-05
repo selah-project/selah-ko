@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "나의 도디가 대답하고 내게 말씀하셨다. \"일어나라, 나의 라아야, 나의 야파, 그리고 너를 위해 가라.\"",
+  "tokens": [
+    {
+      "surface": "עָנָ֥ה",
+      "gloss": "대답하고"
+    },
+    {
+      "surface": "דוֹדִ֖י",
+      "gloss": "나의 도디가"
+    },
+    {
+      "surface": "וְאָ֣מַר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "내게"
+    },
+    {
+      "surface": "ק֥וּמִי",
+      "gloss": "일어나라"
+    },
+    {
+      "surface": "לָ֛ךְ",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "רַעְיָתִ֥י",
+      "gloss": "나의 라아야"
+    },
+    {
+      "surface": "יָפָתִ֖י",
+      "gloss": "나의 야파"
+    },
+    {
+      "surface": "וּלְכִי",
+      "gloss": "그리고 가라"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "너를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:09.873603182Z",
+  "model": "glm-5.2"
+}

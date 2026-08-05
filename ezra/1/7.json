@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 코레쉬 왕이 ⟨את⟩ 야훼의 집 기명들을 내어놓았으니, 곧 느부캇네자르가 예루샬라임에서 가져갔던 것들이었다. 그것들을 자기 신들의 집에 두었었다.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "그리고 왕"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "코레쉬"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "내어놓았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기명들"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "기명들"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "가져갔던"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "느부캇네자르가"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "그리고 그것들을 … 두었었다"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "자기 신들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:30:48.374250745Z",
+  "model": "glm-5.2"
+}

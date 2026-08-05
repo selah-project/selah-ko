@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "하늘들은 엘의 영광을 이야기하고, 라키아는 그의 손들의 일을 알리네.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "하늘들은"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "이야기하고"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "그리고 일을"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "그의 손들의"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "알리네"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "라키아는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:35.894018762Z",
+  "model": "glm-5.2"
+}

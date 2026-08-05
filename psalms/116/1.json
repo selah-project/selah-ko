@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "사랑하나이다, 깋 약홰가 ⟨את⟩ 제 목소리, 제 간구를 들어주시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "사랑하나이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "들어주시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "제 목소리"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "제 목소리"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "제 간구"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:57.371977855Z",
+  "model": "glm-5.2"
+}

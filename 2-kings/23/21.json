@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "왕이 ⟨את⟩ 온 백성에게 명령하여 말하기를, “너희 엘로힘 야훼를 위해 페사흐를 지키라, 이 브리트 책에 기록된 바와 같이” 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "명령하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 백성"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "지키라"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "페사흐를"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를 위해"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "기록된 바와 같이"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "책에"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "브리트의"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:05:30.163409553Z",
+  "model": "glm-5.2"
+}

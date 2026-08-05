@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "왕권이 야훼의 것이시기 때문이다. 그분이 뭇 민족들 가운데서 다스리신다.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "…이시기 때문이다"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "הַמְּלוּכָ֑ה",
+      "gloss": "왕권이"
+    },
+    {
+      "surface": "וּ֝מֹשֵׁ֗ל",
+      "gloss": "그분이 다스리신다"
+    },
+    {
+      "surface": "בַּגּוֹיִֽם",
+      "gloss": "뭇 민족들 가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:28.316993544Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "포도주를 보지 말아라 — 그것이 붉게 빛날 때에, 그것이 잔에서 빛을 낼 때에, 그것이 부드럽게 내려갈 때에.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "—말아라"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "보지"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—할 때에"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "붉게 빛날"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—할 때에"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "낼"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "잔에서"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "빛을"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "내려갈"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "부드럽게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:10.209633032Z",
+  "model": "glm-5.2"
+}

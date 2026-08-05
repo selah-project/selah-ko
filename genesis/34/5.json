@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야곱은 ⟨את⟩ 디나 자기 딸이 더럽혀졌음을 들었다. 그의 아들들은 가축과 함께 들에 있었으므로, 야곱은 그들이 올 때까지 잠잠하였다.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…임을"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "더럽혀졌다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "디나"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "디나"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "자기 딸"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그의 아들들은"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "자기 가축"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "잠잠하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "באם",
+      "gloss": "그들이 올"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:48.280039657Z",
+  "model": "glm-5.2"
+}

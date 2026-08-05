@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "낳을 때가 있고, 죽을 때가 있다; 심을 때가 있고, 심은 것을 뽑을 때가 있다.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "낳을"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "למות",
+      "gloss": "죽을"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "심을"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "뽑을"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "심은 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:35.956217815Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 그들은 ⟨그⟩ 앞에서 만남의 천막에서 미쉬칸의 섬김을 행하여, 온 회중의 직무와 함께 ⟨그의⟩ 직무를 지키라.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמְרוּ",
+      "gloss": "그리고 …지키라"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨그의⟩ 직무를"
+    },
+    {
+      "surface": "מִשְׁמַרְתּוֹ",
+      "gloss": "⟨그의⟩ 직무"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "그리고 ⟨את⟩"
+    },
+    {
+      "surface": "מִשְׁמֶרֶת",
+      "gloss": "직무"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הָעֵדָה",
+      "gloss": "회중의"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "만남의"
+    },
+    {
+      "surface": "לַעֲבֹד",
+      "gloss": "…행하여"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "섬김을"
+    },
+    {
+      "surface": "עֲבֹדַת",
+      "gloss": "섬김"
+    },
+    {
+      "surface": "הַמִּשְׁכָּן",
+      "gloss": "미쉬칸의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:33.739562303Z",
+  "model": "glm-5.2"
+}

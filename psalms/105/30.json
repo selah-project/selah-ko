@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그들의 땅을 개구리가 들끓게 하셨다, 그들의 왕들의 침실 ⟨안에도⟩.",
+  "tokens": [
+    {
+      "surface": "שָׁרַ֣ץ",
+      "gloss": "들끓게 하셨다"
+    },
+    {
+      "surface": "אַרְצָ֣ם",
+      "gloss": "그들의 땅을"
+    },
+    {
+      "surface": "צְפַרְדְּעִ֑ים",
+      "gloss": "개구리가"
+    },
+    {
+      "surface": "בְּחַדְרֵ֗י",
+      "gloss": "침실"
+    },
+    {
+      "surface": "מַלְכֵיהֶֽם",
+      "gloss": "그들의 왕들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:31.855917963Z",
+  "model": "glm-5.2"
+}

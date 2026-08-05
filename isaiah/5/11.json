@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "화, 아침 일찍 일어나 독주를 좇는 자들에게, 밤늦게까지 머물며 포도주가 그들을 타오르게 하는도다!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "일찍 일어나"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "독주를"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "좇는 자들에게"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "머물며"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "밤늦게까지"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주가"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "그들을 타오르게 하는도다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:59.403669772Z",
+  "model": "glm-5.2"
+}

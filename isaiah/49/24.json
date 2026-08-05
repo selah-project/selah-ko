@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "노획물이 강한 자에게서 빼앗길 수 있느냐? 그리고 포로된 의로운 자가 구출될 수 있느냐?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "빼앗길 수 있느냐"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "강한 자에게서"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "노획물이"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "포로된"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자가"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "구출될 수 있느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:58.999959466Z",
+  "model": "glm-5.2"
+}

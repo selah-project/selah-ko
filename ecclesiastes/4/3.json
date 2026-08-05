@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 이 둘보다 나은 것은 ⟨את⟩ ⟨그⟩ 아직 있지 않았던 자, 곧 해 아래에서 저질러지는 ⟨את⟩ 악한 일을 보지 않은 자이다.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "그리고 …나은 것은"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "이 둘보다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아직 있지 않았던 자"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "아직"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아직"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있지 않았던"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보지 않은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "악한 일을"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "저질러지는"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에서"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:02.343871235Z",
+  "model": "glm-5.2"
+}

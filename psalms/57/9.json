@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "깨어나라 나의 영광아, 깨어나라 네벨과 키노르여, 내가 새벽을 깨우리라.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "깨어나라"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "나의 영광아"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "깨어나라"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "네벨과"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "키노르여"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "내가 깨우리라"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "새벽을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:26.896158836Z",
+  "model": "glm-5.2"
+}

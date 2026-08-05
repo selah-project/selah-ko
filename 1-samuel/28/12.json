@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그 여자가 ⟨את⟩ 쉐무엘을 보고 큰 소리로 소리쳤다. 그 여자가 샤울에게 말하여 이르기를 \"왜 나를 속였습니까? 당신이 샤울이십니다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "그리고 ⟨그녀가⟩ 보고"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여자가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쉐무엘을"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "쉐무엘을"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "그리고 소리쳤다"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 ⟨그녀가⟩ 말하였다"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여자가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "למה",
+      "gloss": "왜"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "나를 속였습니까"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이십니다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:49.479524639Z",
+  "model": "glm-5.2"
+}

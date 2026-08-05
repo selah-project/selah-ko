@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "내가 말하기를 내 발이 미끄러진다 하면, 야훼, 당신의 헤세드가 나를 붙드시나이다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "내가 말하기를"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "미끄러진다"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "내 발이"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "당신의 헤세드가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "나를 붙드시나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:45.483559117Z",
+  "model": "glm-5.2"
+}

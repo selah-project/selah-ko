@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "이는 아도나이께서 나에게 이같이 말씀하셨기 때문이다: 품꾼의 해들처럼 한 해가 더 지나면, 케다르의 모든 영광이 끝장날 것이다.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "כֹּה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "말씀하셨기"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "בְּעוֹד",
+      "gloss": "더 지나면"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "한 해가"
+    },
+    {
+      "surface": "כִּשְׁנֵי",
+      "gloss": "…의 해들처럼"
+    },
+    {
+      "surface": "שָׂכִיר",
+      "gloss": "품꾼"
+    },
+    {
+      "surface": "וְכָלְתָה",
+      "gloss": "끝장날 것이다"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כְּבוֹד",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "קֵדָר",
+      "gloss": "케다르의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:46.404555126Z",
+  "model": "glm-5.2"
+}

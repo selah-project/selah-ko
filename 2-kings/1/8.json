@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그들이 그에게 말하되, \"털이 많은 사람, 허리에 가죽 띠를 띤 자입니다.\" 그가 말하였다, \"그는 티쉬비 엘리야이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하되"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "소유한"
+    },
+    {
+      "surface": "שער",
+      "gloss": "털이"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "띠를 띤"
+    },
+    {
+      "surface": "עור",
+      "gloss": "가죽"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "띤"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "허리에"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "엘리야"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "티쉬비"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그이다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:16.299295914Z",
+  "model": "glm-5.2"
+}

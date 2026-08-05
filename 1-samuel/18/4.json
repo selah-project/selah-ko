@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 여호나탄이 자기 위에 있던 ⟨את⟩ 겉옷을 벗어, 그것을 다윗에게 주고, ⟨또⟩ 자기 군복과 자기 칼과 자기 활과 자기 띠 ⟨까지⟩ ⟨주었더라⟩.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "그리고 벗어"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "겉옷"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "겉옷을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "자기 위에 있던"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "그리고 주고"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "자기 군복과"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 까지"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "자기 칼과"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 까지"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "자기 활과"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 까지"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "자기 띠"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:43.031156732Z",
+  "model": "glm-5.2"
+}

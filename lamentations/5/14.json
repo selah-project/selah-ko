@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "장로들은 성문에서 쉬었고 청년들은 그들의 노래 악기를 그치었다.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "장로들은"
+    },
+    {
+      "surface": "משער",
+      "gloss": "성문에서"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "쉬었고"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "청년들은"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "그들의 노래 악기를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:26.575176686Z",
+  "model": "glm-5.2"
+}

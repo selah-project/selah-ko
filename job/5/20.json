@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "굶주림 중에서 ⟨그가⟩ 너를 죽음에서 속량하시며, 전쟁 중에서 칼의 손에서 ⟨구하시리라⟩.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "굶주림 중에서"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "속량하시며"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "죽음에서"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "전쟁 중에서"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:54.649651722Z",
+  "model": "glm-5.2"
+}

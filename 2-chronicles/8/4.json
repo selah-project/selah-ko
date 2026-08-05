@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그가 광야에서 ⟨את⟩ 타드모르를 건축하였고, 하맛에서 건축한 ⟨את⟩ 모든 저장 도시들을 ⟨같이⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "건축하였고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "타드모르"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "타드모르"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 저장 도시"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "도시들을"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "저장"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "건축한"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "하맛에서"
+    }
+  ],
+  "timestamp": "2026-08-05T14:09:43.651250150Z",
+  "model": "glm-5.2"
+}

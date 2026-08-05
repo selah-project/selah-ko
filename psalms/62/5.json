@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 62,
+  "translation": "오직 그의 높은 곳에서 그를 밀어내려고 그들은 모의하며, 그들은 거짓을 즐기고, 그들의 입으로는 축복하나, 그들의 속으로는 저주한다. 셀라.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "그의 높은 곳에서"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "모의하며"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "밀어내려고"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "즐기고"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "그들의 입으로는"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "축복하나"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "그들의 속으로는"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "저주한다"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:35.944646750Z",
+  "model": "glm-5.2"
+}

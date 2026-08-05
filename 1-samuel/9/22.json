@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "샤무엘이 ⟨את⟩ 샤울과 ⟨את⟩ 그의 사환을 데려다가 방으로 들이시고, 초대받은 자들 가운데 으뜸 자리를 그들에게 주셨다. 그들은 약 삼십 명이었다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "데려다가"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "샤무엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "샤울"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 사환"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "그의 사환을"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "들이시고"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "방으로"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "자리를"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "으뜸"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "초대받은 자들"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "약 삼십"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:09.851414376Z",
+  "model": "glm-5.2"
+}

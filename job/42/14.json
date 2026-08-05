@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그가 첫째의 이름을 예미마라 하고, 둘째의 이름을 케시아라 하고, 셋째의 이름을 케렌-하푸크라 하였다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "첫째의"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "예미마"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름을"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "둘째의"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "케시아"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름을"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "셋째의"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "케렌"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "하푸크"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:39.629256248Z",
+  "model": "glm-5.2"
+}

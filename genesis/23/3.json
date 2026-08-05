@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "아브라함이 그의 죽은 자의 얼꿀에서 일어서, 헷 자손에게 말씀하기를,",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어서"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "פני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "그의 죽은 자의"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "말씀하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "חת",
+      "gloss": "헷"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "하기를"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:20.783583198Z",
+  "model": "glm-5.2"
+}

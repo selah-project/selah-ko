@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그러나 너희가 내게 청종하지 아니하고, ⟨את⟩ 이 모든 계명들을 행하지 아니하면,",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "그러면 만약"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "תִשְׁמְע֖וּ",
+      "gloss": "너희가 청종하지"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "내게"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "그리고 아니하면"
+    },
+    {
+      "surface": "תַעֲשׂ֔וּ",
+      "gloss": "너희가 행하지"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 계명들을"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הַמִּצְוֺ֖ת",
+      "gloss": "계명들을"
+    },
+    {
+      "surface": "הָאֵֽלֶּה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:58.441747501Z",
+  "model": "glm-5.2"
+}

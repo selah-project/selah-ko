@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "젊은 사자들은 가난하고 굶주리나, 야훼를 구하는 자들은 모든 좋은 것을 부족하지 않는다.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "젊은 사자들은"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "가난하고"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "굶주리나"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "구하는 자들은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "부족하지"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:02.739165027Z",
+  "model": "glm-5.2"
+}

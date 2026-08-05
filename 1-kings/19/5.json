@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그가 눕고 잠이 들었다. ⟨한 그루의⟩ 로템 나무 아래서, 보라, 이것이 한 사자가 그를 만지며 그에게 말하였다. \"일어나 먹어라.\"",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "그가 눕고"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "잠이 들었다"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래서"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "로템 나무"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 그루의"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "만지며"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "קום",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "먹어라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:38.682892464Z",
+  "model": "glm-5.2"
+}

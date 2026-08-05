@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "한 널빤지의 길이는 열 아마이고, 한 널빤지의 너비는 한 아마와 반 아마이다.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "아מות",
+      "gloss": "아마이고"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "길이는"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "널빤지의"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "한 아마와"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "반"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "아마이다"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "너비는"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "널빤지의"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:23.362945070Z",
+  "model": "glm-5.2"
+}

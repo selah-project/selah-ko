@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "내가 기뻐하며 그대의 헤세드 안에서 즐거워하리다. 그것은 그대가 ⟨את⟩ 나의 곤고를 보셨기 때문이다. 그대는 내 네페쉬의 곤경을 아셨습니다.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "기뻐하리다"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "그리고 즐거워하리다"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "그대의 헤세드 안에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은 … 때문이다"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "보셨기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 곤고를"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "나의 곤고를"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아셨습니다"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "곤경을"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:40.375964929Z",
+  "model": "glm-5.2"
+}

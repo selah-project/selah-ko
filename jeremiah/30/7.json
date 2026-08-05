@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "오호라, 그 날이 크니, 그와 같은 것은 없고, 그것은 야곱에게 고통의 때이나, 그것에서 ⟨그가⟩ 구원을 받을 것이다.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "오호라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크니"
+    },
+    {
+      "surface": "היום",
+      "gloss": "그 날이"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "그와 같은 것은"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "때이나"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "고통의"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "야곱에게"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "구원을 받을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T19:37:12.006015996Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 15:17",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "레위 사람들이 ⟨את⟩ 헤만 — 요엘의 아들 — 을 세웠고, 그의 형제들 ⟨중에서⟩ 아삽 — 베레크야후의 아들 — 을, 그리고 그들의 형제들인 므라리의 아들들 ⟨중에서⟩ 에이탄 — 쿠샤야후의 아들 — 을 세웠다.",
+  "tokens": [
+    {
+      "surface": "ויעמידו",
+      "gloss": "세웠다"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "헤만"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "헤만"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "요엘의"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에서"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "아삽"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "베레크야후의"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "므라리의"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "그들의 형제들"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "에이탄"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "קושיהו",
+      "gloss": "쿠샤야후의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:38.367337695Z",
+  "model": "glm-5.2"
+}

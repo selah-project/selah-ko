@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "아흐론이 야훼께서 모셰에게 말씀하신 모든 말씀들을 말하고, 백성의 눈 앞에서 그 표징들을 행하였다.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아흐론이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 말씀들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것들⟩을"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "그 표징들을"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "눈 앞에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:28.464251878Z",
+  "model": "glm-5.2"
+}

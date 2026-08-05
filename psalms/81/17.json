@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 81,
+  "translation": "그리고 그에게 밀의 기름짐으로 먹이셨고, 바위에서 꿀로 ⟨너를⟩ 만족하게 하리라.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "그리고 그에게 먹이셨고"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "…의 기름짐으로"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "밀"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "그리고 바위에서"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "꿀"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "만족하게 하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:42.225634741Z",
+  "model": "glm-5.2"
+}

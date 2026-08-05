@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 베이트 레헴과 ⟨את⟩ 에이탐과 ⟨את⟩ 트코아를 건축하고",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "건축하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "베이트 레헴"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "레헴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "에이탐"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "에이탐"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "트코아"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "트코아"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:58.650490063Z",
+  "model": "glm-5.2"
+}

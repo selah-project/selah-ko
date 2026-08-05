@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 19:19",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 너희는 그에게 행하라, 그가 ⟨그의⟩ 형제에게 행하기로 도모한 대로. 그리고 너는 ⟨그⟩ 악을 너의 한가운데서 불어 없애라.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "그리고 너희는 행하라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~대로"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "도모한"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하기로"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "그의 형제에게"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "그리고 너는 불어 없애라"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "그 악을"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "너의 한가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T18:07:20.050630705Z",
+  "model": "glm-5.2"
+}

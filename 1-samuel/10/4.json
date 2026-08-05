@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 그들이 네게 평안을 묻고, 떡 두 덩이를 네게 줄 것이니, 너는 그들의 손에서 취할 것이다.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "그들이 묻고"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "평안을"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "줄 것이다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡 덩이를"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "취할 것이다"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "그들의 손에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:25:54.552496961Z",
+  "model": "glm-5.2"
+}

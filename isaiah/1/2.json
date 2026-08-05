@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "들으라, 하늘들이여, 귀를 기울이라, 땅이여, 이는 야훼께서 말씀하셨기 때문이다. 아들들을 내가 키웠고 높였으나 그들은 나를 거역하였다.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들으라"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘들이여"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "그리고 귀를 기울이라"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 ≈하기 때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "내가 키웠다"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "그리고 높였다"
+    },
+    {
+      "surface": "והם",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "거역하였다"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:39.178387663Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그 사람들이 육지로 돌아가려고 노를 저었으나 능히 ⟨할 수⟩ 없었다. 바다가 그들 위로 점점 더 거칠게 일어 ⟨있었기⟩ ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "그리고 저었다"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들이"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "돌아가려고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "육지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 못하였다"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "능히"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다가"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "계속하여"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "거칠게 일어"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:56.053634806Z",
+  "model": "glm-5.2"
+}

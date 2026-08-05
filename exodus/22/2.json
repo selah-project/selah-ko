@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "만일 해가 ⟨그⟩ 위에 떴으면 — 그에게 피 값이 있다. 완전히 배상해야 한다. 만일 ⟨그에게⟩ 없으면, 그는 자기 도난품 ⟨때문에⟩ 팔려야 한다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "떴으면"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해가"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "피 값이"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "배상"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "해야 한다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으면"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "팔려야 한다"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "자기 도난품 때문에"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:51.538217527Z",
+  "model": "glm-5.2"
+}

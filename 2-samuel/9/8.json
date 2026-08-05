@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그가 다시 절하고 말하였다. \"종이 무엇이기에, 죽은 개 같은 저를 돌아보셨습니까?\"",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "절하고"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "… 말하였다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이기에"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "종이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…이기에"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "돌아보셨습니까"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "개"
+    },
+    {
+      "surface": "המת",
+      "gloss": "죽은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "… 같은"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "저를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:23.595869071Z",
+  "model": "glm-5.2"
+}

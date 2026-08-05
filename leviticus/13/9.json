@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "나병 징후가 사람에게 있게 되면, ⟨그는⟩ 코헨에게 데려져야 한다.",
+  "tokens": [
+    {
+      "surface": "נֶ֣גַע",
+      "gloss": "징후"
+    },
+    {
+      "surface": "צָרַ֔עַת",
+      "gloss": "나병"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "when"
+    },
+    {
+      "surface": "תִהְיֶ֖ה",
+      "gloss": "있게 되면"
+    },
+    {
+      "surface": "בְּאָדָ֑ם",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "וְהוּבָ֖א",
+      "gloss": "데려져야 한다"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "הַכֹּהֵֽן",
+      "gloss": "코헨"
+    }
+  ],
+  "timestamp": "2026-08-05T08:17:06.672568512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "당신에게서 ⟨나의⟩ 찬양이 큰 회중 ⟨안에 있으니⟩, ⟨나는⟩ 나의 서원들을 그를 경외하는 자들 앞에서 갚으리다.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "당신에게서"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "나의 찬양이"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "회중"
+    },
+    {
+      "surface": "רב",
+      "gloss": "큰"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "나의 서원들을"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "갚으리다"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "그를 경외하는 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:20.564875074Z",
+  "model": "glm-5.2"
+}

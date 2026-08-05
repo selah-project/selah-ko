@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "야훼는 위대하시며, 심히 찬양을 받으실 ⟨이시며⟩, 그의 위대하심에는 탐구함이 없나이다.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "위대하시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "그리고 찬양받으실"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "그리고 그의 위대하심에는"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없나이다"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "탐구함이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:39.594450476Z",
+  "model": "glm-5.2"
+}

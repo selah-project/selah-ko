@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그의 아버지 이츠하크가 ⟨그에게⟩ 말하였다. \"당신은 누구오?\" ⟨그가⟩ 말하였다. \"저는 ⟨당신의⟩ 아들, ⟨당신의⟩ 맏아들 에사우입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이츠하크가"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "⟨당신의⟩ 아들"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "⟨당신의⟩ 맏아들"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사우입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:47.332681623Z",
+  "model": "glm-5.2"
+}

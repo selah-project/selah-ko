@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "첫째 달, 그 달의 십사 일에, 저녁들 사이에, 페사흐 ⟨는⟩ 야훼의 것이다.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "…달에"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "네"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "십"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "그 달의"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…사이에"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "저녁들"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "페사흐"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:23.120219456Z",
+  "model": "glm-5.2"
+}

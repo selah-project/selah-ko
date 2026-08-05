@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 예르미야, 야하지엘, 요하난, 요자바드 하게데라티",
+  "tokens": [
+    {
+      "surface": "וְיִרְמְיָ֤ה",
+      "gloss": "그리고 예르미야"
+    },
+    {
+      "surface": "וְיַחֲזִיאֵל֙",
+      "gloss": "그리고 야하지엘"
+    },
+    {
+      "surface": "וְי֣וֹחָנָ֔ן",
+      "gloss": "그리고 요하난"
+    },
+    {
+      "surface": "וְיוֹזָבָ֖ד",
+      "gloss": "그리고 요자바드"
+    },
+    {
+      "surface": "הַגְּדֵרָתִֽי",
+      "gloss": "하게데라티"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:28.500462772Z",
+  "model": "glm-5.2"
+}

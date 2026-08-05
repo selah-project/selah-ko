@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 112,
+  "translation": "부와 재물이 ⟨그⟩의 집에 있고, ⟨그⟩의 체다카는 영원히 서 있도다.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "부가"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "와 재물이"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "그의 집에"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "그의 체다카는"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "서 있도다"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:33.312716830Z",
+  "model": "glm-5.2"
+}

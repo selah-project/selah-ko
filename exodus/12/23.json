@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "야훼께서 미츠라임을 치시려고 지나가실 때 ⟨את⟩ 문턱 위와 ⟨את⟩ 두 문설주 위의 피를 보시면, 야훼께서 그 문을 넘어가실 것이며, 멸하는 자가 너희 집들에 들어와 치지 못하게 하실 것이다. ⟨את⟩ 미츠라임 ⟨את⟩ 피",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "지나가실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "치시려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미츠라임"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임을"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "보시면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "피"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "על",
+      "gloss": "위"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "문턱"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "위"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "문설주"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "넘어가실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "그 문을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "허락하실 것이다"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "멸하는 자가"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "들어오는 것을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "너희 집들"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "치는 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:53:46.758732761Z",
+  "model": "glm-5.2"
+}

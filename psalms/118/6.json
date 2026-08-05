@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "야훼는 ⟨나를⟩ 위한 이시니, 나는 두려워하지 않는다. 사람이 나에게 무엇을 하겠는가?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לי",
+      "gloss": "위한 이시니"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "내가 두려워하겠는다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "하겠는가"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:51.478753069Z",
+  "model": "glm-5.2"
+}

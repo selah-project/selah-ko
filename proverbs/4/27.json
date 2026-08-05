@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "오른쪽으로도 왼쪽으로도 기울이지 말며, 네 발을 악에서 돌이키라.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…말며"
+    },
+    {
+      "surface": "תט",
+      "gloss": "기울이지"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른쪽으로도"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "왼쪽으로도"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "돌이키라"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "네 발을"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "악에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:48.835704373Z",
+  "model": "glm-5.2"
+}

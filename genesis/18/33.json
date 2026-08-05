@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "야훼는 아브라함에게 말씀을 마치신 대로 가셨다, 그리고 아브라함은 자기의 곳으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "가셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "∼대로"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "마치신"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "∼에게"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "그리고 아브라함은"
+    },
+    {
+      "surface": "שב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "자기의 곳으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:42.147771427Z",
+  "model": "glm-5.2"
+}

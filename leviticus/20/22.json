@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "너희는 나의 모든 규례와 나의 모든 법도를 지키고 그것들을 행하여라. 그리하면 내가 너희를 거주하게 하려고 데려가는 그 땅이 너희를 토하여 내지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "너희는 지키고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 모든 규례를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "나의 규례"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "나의 모든 법도를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "나의 법도"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "너희는 행하여라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그것들을",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리하면 … 아니하리라"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "토하여 내지"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "데려가는"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "거주하게 하려고"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그곳에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:49.506936605Z",
+  "model": "glm-5.2"
+}

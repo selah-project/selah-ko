@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그들이 회막 텐트에 들어갈 때에, 그리고 제단에 가까이 가져갈 때에, 그들은 씻었다 — 야훼께서 ⟨את⟩ 모셰에게 명하신 대로이다.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "그들이 들어갈 때에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "텐트"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "회막"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "그리고 가까이 가져갈 때에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "씻었다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰를"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:14.029981884Z",
+  "model": "glm-5.2"
+}

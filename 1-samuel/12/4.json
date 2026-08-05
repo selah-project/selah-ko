@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그들이 말하였다. \"그대가 우리를 억압하지 아니하였고, 우리를 짓밟지 아니하였으며, 아무것도 사람의 손에서 취하지 아니하였다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "그대가 우리를 억압하지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "우리를 짓밟지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "취하지"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "아무것도"
+    }
+  ],
+  "timestamp": "2026-08-05T13:47:43.403150376Z",
+  "model": "glm-5.2"
+}

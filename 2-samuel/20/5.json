@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리하여 아마사가 ⟨את⟩ 유다를 부르러 갔으나, 그가 그에게 정한 정해진 때를 넘기고 지체하였다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "갔고"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "아마사가"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "부르러"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다를"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "지체하였다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "넘기고"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "정해진 때를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "정한"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:25.987503553Z",
+  "model": "glm-5.2"
+}

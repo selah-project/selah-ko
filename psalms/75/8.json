@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 75,
+  "translation": "오직 엘로힘이 판결하시기 때문이다 — 이 사람은 낮추시고 저 사람은 높이신다.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "… 때문이다"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "שֹׁפֵ֑ט",
+      "gloss": "판결하신다"
+    },
+    {
+      "surface": "זֶ֥ה",
+      "gloss": "이 사람은"
+    },
+    {
+      "surface": "יַ֝שְׁפִּ֗יל",
+      "gloss": "낮추시고"
+    },
+    {
+      "surface": "וְזֶ֣ה",
+      "gloss": "저 사람은"
+    },
+    {
+      "surface": "יָרִֽים",
+      "gloss": "높이신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:05.460505832Z",
+  "model": "glm-5.2"
+}

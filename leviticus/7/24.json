@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 스스로 죽은 것의 기름과 찢겨 죽은 것의 기름은 모든 일에 쓰일 수 있으나, 먹어서는 결코 안 된다.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "그리고 …기름은"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "스스로 죽은 것의"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "그리고 …기름은"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "찢겨 죽은 것의"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "만들어질 수 있다"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일에"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "그리고 먹는 것은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "그것을 먹지 말라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:08.109610583Z",
+  "model": "glm-5.2"
+}

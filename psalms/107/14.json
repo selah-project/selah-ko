@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그들이 어둠과 사망의 그늘에서 나오게 하셨으니, 그들의 사슬들을 끊어버리셨다.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "그들을 나오게 하셨으니"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "어둠에서"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "사망의 그늘과"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "그들의 사슬들을"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "끊어버리셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:53.586019178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "해가 떠오르면 ⟨그들이⟩ 모여들고, ⟨그리고⟩ ⟨그들의⟩ 굴에 엎드린다.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "떠오르면"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해가"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "모여들고"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …으로"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "그들의 거처에"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "엎드린다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:45.258480400Z",
+  "model": "glm-5.2"
+}

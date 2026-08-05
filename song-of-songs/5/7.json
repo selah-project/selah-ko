@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "성을 두루 도는 파수꾼들이 ⟨나를⟩ 찾았다 — ⟨그들이⟩ ⟨나를⟩ 쳤고, ⟨나를⟩ 상처 내었으며, 성벽을 지키는 자들이 ⟨את⟩ 나의 너울을 ⟨나에게서⟩ 들어올려 벗겼다.",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "⟨나를⟩ 찾았다"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "파수꾼들이"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "두루 도는"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성을"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "⟨그들이⟩ ⟨나를⟩ 쳤고"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "⟨나를⟩ 상처 내었으며"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "들어올려 벗겼다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 너울을"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "나의 너울을"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "⟨나에게서⟩"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "지키는 자들이"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "성벽을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:14:50.837833841Z",
+  "model": "glm-5.2"
+}

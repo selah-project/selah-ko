@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "하맛 왕은 어디에 있는가, 아르팟 왕과, ⟨그⟩ 성읍 스바르와임 왕과, 헤나와 이와는 어디에 있는가?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "어디에 있는가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "하맛"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "그리고 왕"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "아르팟"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "그리고 왕"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "스바르와임"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "헤나"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "그리고 이와"
+    }
+  ],
+  "timestamp": "2026-08-05T13:53:12.672334339Z",
+  "model": "glm-5.2"
+}

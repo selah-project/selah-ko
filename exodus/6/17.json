@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "게르손의 아들들은 리브니와 시므이이니, 그들의 가족별로다.",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "גֵרְשׁוֹן",
+      "gloss": "게르손의"
+    },
+    {
+      "surface": "לִבְנִי",
+      "gloss": "리브니와"
+    },
+    {
+      "surface": "וְשִׁמְעִי",
+      "gloss": "시므이이니"
+    },
+    {
+      "surface": "לְמִשְׁפְּחֹתָם",
+      "gloss": "그들의 가족별로다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:01.396633236Z",
+  "model": "glm-5.2"
+}

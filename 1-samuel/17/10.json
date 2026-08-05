@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 그 블레셋 사람이 말하였다. \"나는 오늘 ⟨את⟩ 이스라엘의 전열을 모욕하였다. 나에게 한 사람을 주어라, 그러면 우리가 함께 싸우겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "그 블레셋 사람이"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "모욕하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "전열을"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "전열"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "주어라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "한 사람을"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "그러면 우리가 싸우겠다"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:35.883537823Z",
+  "model": "glm-5.2"
+}

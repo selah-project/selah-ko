@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "나는 아도나이 야훼의 능력들로 들어가, 당신의 의(體德)를 기억하겠습니다. 홀로 ⟨계신⟩ 당신의.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "나는 들어가겠습니다"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "능력들로"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "기억하겠습니다"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "당신의 의(體德)를"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "홀로 ⟨계신⟩ 당신의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:14.865469201Z",
+  "model": "glm-5.2"
+}

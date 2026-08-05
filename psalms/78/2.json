@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "내가 내 입을 비유로 열겠다. 내가 옛부터의 수수께끼들을 솟아내리라.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "내가…열겠다"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "비유로"
+    },
+    {
+      "surface": "פי",
+      "gloss": "내 입을"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "내가…솟아내리라"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "수수께끼들을"
+    },
+    {
+      "surface": "מני",
+      "gloss": "옛부터의"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "옛"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:26.382770203Z",
+  "model": "glm-5.2"
+}

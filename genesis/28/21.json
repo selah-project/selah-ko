@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리하여 ⟨내가⟩ 샬롬으로 ⟨내⟩ 아버지의 집으로 돌아가면, 야훼께서 ⟨나에게⟩ 엘로힘이 되실 것이다 —",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "그리하여 ⟨내가⟩ … 돌아가면"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "샬롬으로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨…⟩ 집"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨내⟩ 아버지의"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "…되실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨나에게⟩"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:40.834751712Z",
+  "model": "glm-5.2"
+}

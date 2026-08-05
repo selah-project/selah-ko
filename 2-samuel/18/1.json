@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "다윗이 자신과 함께 있는 ⟨את⟩ 백성을 점검하고, 그들 위에 천인대장들과 백인대장들을 세웠다.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "점검하고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩ ⟨것⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "자신과 함께 있는"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "세웠다"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "천인대장들과"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천(의)"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "백인대장들을"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백(의)"
+    }
+  ],
+  "timestamp": "2026-08-05T13:50:34.804174981Z",
+  "model": "glm-5.2"
+}

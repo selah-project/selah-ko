@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 24:9",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 모압 왕 칦뽀르의 아들 발라크가 일어나 이스라엘과 싸웠다. 그리고 ⟨그가⟩ 사자를 보내 브오르의 아들 빌암을 불러 ⟨את⟩ 너희를 저주하게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "발라크"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "칦뽀르"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "싸웠다"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘과"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보냈다"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "빌암을"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "브오르"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "저주하려고"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:12:36.071085509Z",
+  "model": "glm-5.2"
+}

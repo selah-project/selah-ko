@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "곧 그들의 힘의 영광은 곧 주이시며, 주의 기뻐하심으로 우리의 뿔이 높아지기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "곧 \/ 때문이다"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "영광은"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "그들의 힘의"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "주이시며"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "주의 기뻐하심으로"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "높아지신다"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "우리의 뿔이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:17.865590917Z",
+  "model": "glm-5.2"
+}

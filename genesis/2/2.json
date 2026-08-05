@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "엘로힘이 일곱째 날에 ⟨그⟩ 일을 마치셨다 — 그가 하신 ⟨그⟩ 일 — 그리고 일곱째 날에 ⟨그⟩ 모든 일에서 쉬셨다 — 그가 하신 ⟨그⟩ 일.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "… 마치셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "일곱째 날에"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "그 일을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— 그가"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "하신"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "그리고 … 쉬셨다"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "일곱째 날에"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "일에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— 그가"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "하신"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:23.040868766Z",
+  "model": "glm-5.2"
+}

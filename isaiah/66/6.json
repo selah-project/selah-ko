@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "도성에서부터 소란의 소리가, 성전에서부터 ⟨그⟩ 소리가 들린다. 야훼의 소리이시다 — 그분께서 그분의 원수들에게 보응을 갚으신다.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "소란의"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "도성에서부터"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "성전에서부터"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "갚으신다"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "보응을"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "그분의 원수들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:28.163665808Z",
+  "model": "glm-5.2"
+}

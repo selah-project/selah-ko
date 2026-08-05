@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 121,
+  "translation": "나의 도움은 야훼께로부터, ⟨그가⟩ 하늘과 땅을 만드신 이시다.",
+  "tokens": [
+    {
+      "surface": "עֶ֭זְרִי",
+      "gloss": "나의 도움은"
+    },
+    {
+      "surface": "מֵעִ֣ם",
+      "gloss": "∼로부터"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "עֹ֝שֵׂ֗ה",
+      "gloss": "만드신 이"
+    },
+    {
+      "surface": "שָׁמַ֥יִם",
+      "gloss": "하늘(을)"
+    },
+    {
+      "surface": "וָאָֽרֶץ",
+      "gloss": "그리고 땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:54.046108904Z",
+  "model": "glm-5.2"
+}

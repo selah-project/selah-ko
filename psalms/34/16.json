@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야훼의 눈은 의인들을 향하시고, 그분의 귀는 그들의 부르짖음을 향하시다.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "눈은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향하시고"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의인들을"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "그리고 그분의 귀는"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향하시다"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "그들의 부르짖음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:19.148272059Z",
+  "model": "glm-5.2"
+}

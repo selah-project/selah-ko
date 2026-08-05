@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "한계를 정하셨으니 그들이 넘어가지 못하리니, 다시 돌아와 ⟨그⟩ 땅을 덮지 못하리라.",
+  "tokens": [
+    {
+      "surface": "גְּֽבוּל",
+      "gloss": "한계를"
+    },
+    {
+      "surface": "שַׂ֭מְתָּ",
+      "gloss": "정하셨으니"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "못하니"
+    },
+    {
+      "surface": "יַֽעֲבֹר֑וּן",
+      "gloss": "넘어가지"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "못하리라"
+    },
+    {
+      "surface": "יְ֝שׁוּב֗וּן",
+      "gloss": "다시 돌아와"
+    },
+    {
+      "surface": "לְכַסּ֥וֹת",
+      "gloss": "덮지"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:39.044897452Z",
+  "model": "glm-5.2"
+}

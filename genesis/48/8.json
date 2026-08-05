@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "그리고 이스라엘이 ⟨את⟩ 요셉의 아들들을 보았다. 그리고 말하였다. “이들이 누구냐?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "그리고 보았다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:44:06.727483899Z",
+  "model": "glm-5.2"
+}

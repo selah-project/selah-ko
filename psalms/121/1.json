@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 121,
+  "translation": "올라가는 노래. 내가 산들을 향하여 내 눈을 드니, 나의 도움은 어디서 오는가.",
+  "tokens": [
+    {
+      "surface": "שִׁ֗יר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "לַֽמַּ֫עֲל֥וֹת",
+      "gloss": "올라가는 것들의"
+    },
+    {
+      "surface": "אֶשָּׂ֣א",
+      "gloss": "내가 들리다"
+    },
+    {
+      "surface": "עֵ֭ינַי",
+      "gloss": "나의 눈들을"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "향하여"
+    },
+    {
+      "surface": "הֶהָרִ֑ים",
+      "gloss": "그 산들을"
+    },
+    {
+      "surface": "מֵ֝אַ֗יִן",
+      "gloss": "어디서"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "오는가"
+    },
+    {
+      "surface": "עֶזְרִֽי",
+      "gloss": "나의 도움이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:54.045846280Z",
+  "model": "glm-5.2"
+}

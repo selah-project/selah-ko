@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 13:9",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "내가 명령하매 그들이 ⟨그⟩ 방들을 정결하게 하였고, 나는 거기에 엘로힘의 집 기구들과 ⟨את⟩ 곡물제물과 유향을 도로 가져다 두었다.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "내가 명령하매"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "그들이 정결하게 하였고"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "방들을"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "나는 도로 가져다 두었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "기구들과"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "곡물제물"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "곡물제물"
+    },
+    {
+      "surface": "והלבונה",
+      "gloss": "유향"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:53.102909484Z",
+  "model": "glm-5.2"
+}

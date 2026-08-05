@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "만일 한 사람이 넘어지면, 그의 동무가 ⟨그⟩ 동무를 일으킨다 — ⟨את⟩ —; 그러나 ⟨불쌍하다⟩ 홀로 있는 자가 넘어지면 그를 일으킬 둘째가 없으면!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "넘어지면"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "한 사람"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "일으킨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 동무"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "그의 동무"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "그러나"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "홀로 있는 자"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "넘어지면"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없으면"
+    },
+    {
+      "surface": "שני",
+      "gloss": "둘째"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "그를 일으킬"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:12.947312348Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "지휘자를 위하여, ⟨피리⟩에 맞추어, 다윗의 시편",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자를 위하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨피리⟩에 맞추어"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "⟨관악기⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:46.268069451Z",
+  "model": "glm-5.2"
+}

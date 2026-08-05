@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 이것이 슐로모가 ⟨את⟩ 엘로힘의 집을 건축하기 위하여 기초를 놓은 것이었다 — 첫째 척도로 길이가 육십 아마, 그리고 너비가 이십 아마.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이것이"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "기초를 놓은 것이었다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모가"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "건축하기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "길이는"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "척도로"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "육십"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "그리고 너비가"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "아마"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "이십"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:27.197386875Z",
+  "model": "glm-5.2"
+}

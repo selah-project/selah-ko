@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 코헨이 ⟨את⟩ 그 산 살을 보고 그를 부정하게 선언한다. 그 산 살은 부정하다. 그것은 차라앗이다.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "그리고 보고"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 산 살"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "그 살을"
+    },
+    {
+      "surface": "החי",
+      "gloss": "산"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "그리고 부정하게 선언한다"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "그 살은"
+    },
+    {
+      "surface": "החי",
+      "gloss": "산"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "부정하다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "차라앗"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:16:47.067148800Z",
+  "model": "glm-5.2"
+}

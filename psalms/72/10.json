@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "타르쉬쉬의 왕들과 섬들의 왕들이 ⟨조공을⟩ 바치고, 셰바의 왕들과 세바의 왕들이 ⟨예물을⟩ 가져오리라.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "타르쉬쉬의"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "그리고 섬들의"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "조공을"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "바치고"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "셰바의"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "그리고 세바의"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "예물을"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "가져오리라"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:57.717063477Z",
+  "model": "glm-5.2"
+}

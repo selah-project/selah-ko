@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 9:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "왕이 말씀하셨다. \"샤울의 집에 아직 ⟨사람⟩이 없단 말인가? 내가 그에게 엘로힘의 헤세드를 베풀겠다.\" 찌바가 왕에게 말하였다. \"여호나탄에게 아직 아들이 하나 있습니다. ⟨그는⟩ 두 발이 불구입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "האפס",
+      "gloss": "없단 말인가"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨사람⟩"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "의 집에"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "베풀겠다"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "찌바가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들이"
+    },
+    {
+      "surface": "ליהונתן",
+      "gloss": "여호나탄에게"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "불구입니다"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "두 발이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:59.218210351Z",
+  "model": "glm-5.2"
+}

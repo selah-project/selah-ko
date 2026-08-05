@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 ⟨그들이⟩ 그들의 거룩한 것들을 먹음으로써 ⟨את⟩ 범죄의 죄책감을 그들에게 지우지 ⟨않을 것이다⟩ — 이는 나 야훼가 ⟨그⟩ 거룩하게 하는 자이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "그리고 지울 것이다"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들에게"
+    },
+    {
+      "surface": "עון",
+      "gloss": "범죄"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "죄책감"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "그들이 먹음으로써"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 거룩한 것들"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "그들의 거룩한 것들"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "거룩하게 하는 자"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:53.363790274Z",
+  "model": "glm-5.2"
+}

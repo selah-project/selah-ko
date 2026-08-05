@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 일어났다 — 내가 ⟨את⟩ 이 말들을 들을 때 — 나는 앉아 울고 여러 날 동안 애도하였다; 그리고 나는 단식하며 하늘의 엘로힘 앞에서 기도하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일어났다"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "내가 들을 때"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 말들"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "나는 앉아"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "그리고 울고"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "그리고 애도하였다"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "여러 날 동안"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "그리고 나는 …이었다"
+    },
+    {
+      "surface": "צם",
+      "gloss": "단식하며"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "그리고 기도하였다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…앞에서"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:34:09.369817828Z",
+  "model": "glm-5.2"
+}

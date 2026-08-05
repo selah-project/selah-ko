@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "칼이 밖에 있고 전염병과 기근이 안에 있도다. 들에 있는 자는 칼로 죽고, 성 안에 있는 자는 기근과 전염병이 그를 삼키리라.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "칼이"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "밖에 있고"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "전염병과"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "기근이"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "안에 있도다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "들에 있는"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼로"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽고"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "성 안에 있는"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "기근과"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "전염병이"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "그를 삼키리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:48:41.903479177Z",
+  "model": "glm-5.2"
+}

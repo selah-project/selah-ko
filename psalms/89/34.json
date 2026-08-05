@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "그러나 ⟨나의⟩ 헤세드를 그에게서 거두지 아니하시며, ⟨나의⟩ 진실함에서 거짓을 행하지 아니하시리라.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "그러나 나의 헤세드를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하시며"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "거두"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "그에게서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하시리라"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "거짓을 행하"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "나의 진실함에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:03.131723133Z",
+  "model": "glm-5.2"
+}

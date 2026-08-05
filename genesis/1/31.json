@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 ⟨את⟩ 자신이 만드신 모든 것을 보셨고, 보라, 심히 좋았다. 저녁이 되고 아침이 되니, 여섯째 날이었다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보셨고"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "만드신"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되고"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "저녁이"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되니"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침이"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날이었다"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "여섯째"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:05.665395023Z",
+  "model": "glm-5.2"
+}

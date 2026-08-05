@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "너희가 스스로 부패하게 되는 일이 없도록, 어떤 형상의 형태를, 모든 형상의, 우상을 너희를 위해 만들지 말라 — 수컷의 형상이나 암컷의.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "...하는 일이 없도록"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "너희가 부패하게 되는"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "너희가 만들지"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희를 위해"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "우상"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "형상의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "형상을"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "형태를"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "수컷의"
+    },
+    {
+      "surface": "או",
+      "gloss": "이나"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "암컷의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:27.490068432Z",
+  "model": "glm-5.2"
+}

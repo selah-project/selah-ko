@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "내가 나를 위해 물 웅덩이들을 만들어, 그것으로부터 나무들이 돋아나는 숲에 물을 대었다.",
+  "tokens": [
+    {
+      "surface": "עָשִׂ֥יתִי",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "בְּרֵכ֣וֹת",
+      "gloss": "물 웅덩이들을"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "물"
+    },
+    {
+      "surface": "לְהַשְׁק֣וֹת",
+      "gloss": "물을 대기 위해"
+    },
+    {
+      "surface": "מֵהֶ֔ם",
+      "gloss": "그것으로부터"
+    },
+    {
+      "surface": "יַ֖עַר",
+      "gloss": "숲을"
+    },
+    {
+      "surface": "צוֹמֵ֥חַ",
+      "gloss": "돋아나는"
+    },
+    {
+      "surface": "עֵצִֽים",
+      "gloss": "나무들이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:06.670061299Z",
+  "model": "glm-5.2"
+}

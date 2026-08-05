@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 야로브암은 에프라임 산지에 ⟨את⟩ 셰켐을 건축하였고, 그 안에 거하였다. 그리고 거기서 나가 ⟨את⟩ 페누엘을 건축하였다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "그리고 건축하였다"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "야로브암은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셰켬"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "셰켬을"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산지에"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그리고 거하였다"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "그리고 나가"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "건축하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "페누엘"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "페누엘을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:58.098858993Z",
+  "model": "glm-5.2"
+}

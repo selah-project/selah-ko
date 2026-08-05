@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "요셉이 ⟨את⟩ 자기 아버지 야곱을 데려와 그를 파르오 앞에 세우자, 야곱이 ⟨את⟩ 파르오를 축복하였다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "데려왔다"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야곱"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "자기 아버지를"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "그를 세우자"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오를"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:26.866046925Z",
+  "model": "glm-5.2"
+}

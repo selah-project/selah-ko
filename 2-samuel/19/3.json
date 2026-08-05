@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 19:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그 날에 구원이 온 백성에게 애통이 되었으니, 백성이 그 날에 \"왕이 ⟨그의⟩ 아들 때문에 상심하셨다\"는 말을 들었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "되었으니"
+    },
+    {
+      "surface": "התשעה",
+      "gloss": "구원이"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "애통에게"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들었기"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말을"
+    },
+    {
+      "surface": "נעצב",
+      "gloss": "상심하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:13.458753440Z",
+  "model": "glm-5.2"
+}

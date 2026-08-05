@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "나탄이 자기 집으로 갔고, 야훼께서 ⟨את⟩ 우리야의 아내가 다윗에게 낳은 그 아이를 치시니, ⟨그 아이가⟩ 위중해졌다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "갔고"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자기 집"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "치시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 아이를"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "그 아이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "을"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내가"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우리야의"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "위중해졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:18.384746303Z",
+  "model": "glm-5.2"
+}

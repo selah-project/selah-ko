@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 아노쉬는 구십 년을 살았고, ⟨את⟩ 케나난을 낳았다.",
+  "tokens": [
+    {
+      "surface": "וֽיְחִ֥י",
+      "gloss": "그리고 … 살았다"
+    },
+    {
+      "surface": "אֱנ֖וֹשׁ",
+      "gloss": "아노쉬는"
+    },
+    {
+      "surface": "תִּשְׁעִ֣ים",
+      "gloss": "구십"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "그리고 … 낳았다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "케나난을"
+    },
+    {
+      "surface": "קֵינָֽן",
+      "gloss": "케나난을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:11.229684089Z",
+  "model": "glm-5.2"
+}

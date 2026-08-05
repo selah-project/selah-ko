@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "나는 벽이고, 나의 가슴들은 망대들 같으니, 그 때에 나는 그의 눈에 샬롬을 얻은 자 같았다.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "나는"
+    },
+    {
+      "surface": "חוֹמָ֔ה",
+      "gloss": "벽이고"
+    },
+    {
+      "surface": "וְשָׁדַ֖י",
+      "gloss": "나의 가슴들은"
+    },
+    {
+      "surface": "כַּמִּגְדָּל֑וֹת",
+      "gloss": "망대들 같으니"
+    },
+    {
+      "surface": "אָ֛ז",
+      "gloss": "그 때에"
+    },
+    {
+      "surface": "הָיִ֥יתִי",
+      "gloss": "나는 …였다"
+    },
+    {
+      "surface": "בְעֵינָ֖יו",
+      "gloss": "그의 눈에"
+    },
+    {
+      "surface": "כְּמוֹצְאֵ֥ת",
+      "gloss": "…을 얻은 자 같으니"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "샬롬"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:30.290141108Z",
+  "model": "glm-5.2"
+}

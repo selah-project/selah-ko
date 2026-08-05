@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "노래하던 여인들이 화답하며 말하기를, “샤울은 천 명을 쳤고, 다윗은 만 명을 쳤다.” 하였다.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "화답하며"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "여인들이"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "노래하던"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "쳤고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울은"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "천 명을"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "만 명을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:29:38.856366439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그가 미쉬칸을 위하여 ⟨את⟩ 널판들을 만들었다 — 남쪽 편 곧 남향으로 스무 널판을.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "널판들을"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "널판들"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "미쉬칸을 위하여"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "스무"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "널판"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "…편 곧"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "남쪽"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "남향으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:04.335419014Z",
+  "model": "glm-5.2"
+}

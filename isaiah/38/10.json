@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "내가 말하였다 — “나의 날들의 한가운데서 내가 셰올의 문들로 들어가리라; 나의 남은 해들이 끊어졌다.”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "나의 날들의"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "내가 들어가리라"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "문들로"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "셰올의"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "끊어졌다"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "남은"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "나의 해들이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:23.055034203Z",
+  "model": "glm-5.2"
+}

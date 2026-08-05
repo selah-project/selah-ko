@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 100,
+  "translation": "감사의 노래. 온 땅이여, 야훼께 함성을 올려라.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "노래"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "감사의"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "함성을 올려라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:05.791996467Z",
+  "model": "glm-5.2"
+}

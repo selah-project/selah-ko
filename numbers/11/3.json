@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 그곳의 이름을 타브에라라고 불렀다. 야훼의 불이 그들 가운데 타올랐기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 불렀다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "…의 이름을"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "그곳의"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "타브에라라고"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…이기 때문이다"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "타올랐"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그들 가운데"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:59.772758737Z",
+  "model": "glm-5.2"
+}

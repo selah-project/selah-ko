@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 이제 그들의 목소리를 들으시오. 다만 그들에게 증언하여 경고하시고, 그들 위에서 왕이 될 ⟨그⟩ 왕의 관습을 그들에게 알리시오.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들으시오"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "그들의 목소리를"
+    },
+    {
+      "surface": "אך",
+      "gloss": "다만"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨접속⟩"
+    },
+    {
+      "surface": "העד",
+      "gloss": "증언하여"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "경고하시오"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "알리시오"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "관습을"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "왕이 될"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:28.633565515Z",
+  "model": "glm-5.2"
+}

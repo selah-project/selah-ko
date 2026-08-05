@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "샤울이 야훼께 물었으나, 야훼께서 그에게 대답하지 아니하셨다 — 꿈으로도, 우림으로도, 나비들을 통해서도.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "물었으나"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하셨다"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "대답하지"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "꿈으로도"
+    },
+    {
+      "surface": "גם",
+      "gloss": "우림으로도"
+    },
+    {
+      "surface": "באורים",
+      "gloss": ""
+    },
+    {
+      "surface": "גם",
+      "gloss": "나비들을 통해서도"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:21.597849050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 야훼는 ⟨את⟩ 요셉과 함께하셨고, ⟨그는⟩ 성공하는 사람이 되었으며, ⟨그는⟩ ⟨그의⟩ 주인인 ⟨그⟩ 미츠라임 사람의 집에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요셉"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉과"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "함께하셨고"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "성공하는"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되었으며"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "⟨그의⟩ 주인인"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "⟨그⟩ 미츠라임 사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:57.582084377Z",
+  "model": "glm-5.2"
+}

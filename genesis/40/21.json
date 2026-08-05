@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 술 관원장을 그의 직위에 되돌려 세우시니, 그가 ⟨את⟩ 잔을 파르오의 손바닥 위에 놓았다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "되돌려 세우셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "술 관원장을"
+    },
+    {
+      "surface": "שר",
+      "gloss": "관원장"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "술"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "그의 직위"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "놓았다"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "잔을"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "כף",
+      "gloss": "손바닥"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:26.087614412Z",
+  "model": "glm-5.2"
+}

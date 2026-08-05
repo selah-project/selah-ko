@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "⟨그가⟩ 크루브를 타고 날으셨다. ⟨그가⟩ 루아흐의 날개들 위로 날아오르셨다.",
+  "tokens": [
+    {
+      "surface": "וַיִּרְכַּ֣ב",
+      "gloss": "타고"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "כְּ֭רוּב",
+      "gloss": "크루브를"
+    },
+    {
+      "surface": "וַיָּעֹ֑ף",
+      "gloss": "날으셨다"
+    },
+    {
+      "surface": "וַ֝יֵּ֗דֶא",
+      "gloss": "날아오르셨다"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위로"
+    },
+    {
+      "surface": "כַּנְפֵי",
+      "gloss": "날개들"
+    },
+    {
+      "surface": "רֽוּחַ",
+      "gloss": "루아흐의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:20.481599234Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 3:1",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그녀의 시어미 나오미가 그녀에게 말하였다. \"내 딸아, 내가 너를 위하여 ⟨안식할⟩ 안식처를 구하지 않으랴, 그것이 너에게 좋으랴?\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "나오미"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "그녀의 시어미"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "내 딸아"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨아니냐⟩"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "내가 구하랴"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너를 위하여"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "안식처를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "좋으랴"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:35.244092441Z",
+  "model": "glm-5.2"
+}

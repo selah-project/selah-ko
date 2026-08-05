@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "엘로힘이 빌암에게 오셨다. 그리고 말씀하셨다. \"당신과 함께 ⟨있는⟩ 이 사람들은 누구인가?\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "오셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구인가"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "사람들은"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신과 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T08:41:19.701359836Z",
+  "model": "glm-5.2"
+}

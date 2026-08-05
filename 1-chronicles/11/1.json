@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "온 이스라엘이 다윗에게 헤브론으로 모여서 말하였다. \"보라, 우리는 당신의 뼈와 당신의 살이옵니다.\"",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "모여서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "헤브론으로"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "당신의 뼈"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "당신의 살"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리는 …이옵니다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:49.157102955Z",
+  "model": "glm-5.2"
+}

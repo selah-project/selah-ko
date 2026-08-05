@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그들은 샬롬을 말하지 않고, 오히려 땅의 평안한 자들에게 대해 속이는 말들을 꾸며내기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שָׁל֗וֹם",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "יְדַ֫בֵּ֥רוּ",
+      "gloss": "그들이 말하지"
+    },
+    {
+      "surface": "וְעַ֥ל",
+      "gloss": "오히려 …에게 대해"
+    },
+    {
+      "surface": "רִגְעֵי",
+      "gloss": "평안한 자들"
+    },
+    {
+      "surface": "אֶ֑רֶץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "מִרְמוֹת",
+      "gloss": "속이는"
+    },
+    {
+      "surface": "יַחֲשֹׁבֽוּן",
+      "gloss": "꾸며낸다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:39.990639152Z",
+  "model": "glm-5.2"
+}

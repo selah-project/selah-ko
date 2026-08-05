@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 122,
+  "translation": "예루샬라임의 샬롬을 구하라 — 너를 사랑하는 이들이 평온하기를.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "구하라"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임의"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "평온하기를"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "너를 사랑하는 이들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:51.236760746Z",
+  "model": "glm-5.2"
+}

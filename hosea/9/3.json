@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그들이 야훼의 땅에 거하지 못할 것이요, 에프라임은 미츠라임으로 돌아가며, 아슈르에서 부정한 것을 먹을 것이다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…못할"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "거하지"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "돌아가며"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임은"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임으로"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "아슈르에서"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "부정한 것"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "먹을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:47.274646805Z",
+  "model": "glm-5.2"
+}

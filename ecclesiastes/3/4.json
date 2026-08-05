@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "울 때가 있고, 웃을 때가 있다; 애곡할 때가 있고, 춤출 때가 있다.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "울"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "웃을"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때가"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "애곡할"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "춤출"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:35.956426764Z",
+  "model": "glm-5.2"
+}

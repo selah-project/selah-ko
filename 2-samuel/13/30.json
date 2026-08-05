@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 그들이 길에 있을 때 그 소식이 다윗에게 와서 말하기를, “아브샬롬이 ⟨את⟩ 왕의 아들 전체를 쳤고, 그들 중 한 명도 남지 않았다” 하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이었다"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길에"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "그리고 그 소식이"
+    },
+    {
+      "surface": "באה",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕의 아들 전체를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "전체를"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니다"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "남지 않았다"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "그들 중"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 명도"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:19.894496470Z",
+  "model": "glm-5.2"
+}

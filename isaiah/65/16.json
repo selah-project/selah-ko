@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 65:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "땅에서 ⟨자신을⟩ 축복하는 자는 아멘의 엘에 의해 ⟨자신을⟩ 축복할 것이요, 땅에서 맹세하는 자는 아멘의 엘로 맹세할 것이니, 이는 이전의 환난들이 잊혀졌고, 내 눈에서 숨겨졌기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "이(관계사)"
+    },
+    {
+      "surface": "המתברך",
+      "gloss": "축복하는 자는"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "יתברך",
+      "gloss": "축복할 것이요"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "엘에 의해"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘의"
+    },
+    {
+      "surface": "והנשבע",
+      "gloss": "맹세하는 자는"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "맹세할 것이니"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "엘로"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "נשכחו",
+      "gloss": "잊혀졌고"
+    },
+    {
+      "surface": "הצרות",
+      "gloss": "환난들이"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "이전의"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נסתרו",
+      "gloss": "숨겨졌기"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "내 눈에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:42.034314436Z",
+  "model": "glm-5.2"
+}

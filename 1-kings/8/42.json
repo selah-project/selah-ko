@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그들이 당신의 ⟨위대한⟩ 이름과 ⟨את⟩ 당신의 ⟨강한⟩ 손과 당신의 편 팔에 관해 듣고, 와서 ⟨이⟩ 집을 향해 기도하기 때문이라",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "— 때문이라"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "그들이 듣고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 이름"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "당신의 이름"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "위대한"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 손"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "당신의 손"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "강한"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "당신의 팔"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "편"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "오"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "기도하기"
+    },
+    {
+      "surface": "אל",
+      "gloss": "을 향해"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:15.919797298Z",
+  "model": "glm-5.2"
+}

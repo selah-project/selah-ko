@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 그들에게 물었다, \"너희를 맞으러 올라온 그 사람의 모양이 어떠하냐?\" 그리고 그가 너희에게 ⟨את⟩ 이 말들을 말하였느냐?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "물었다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "어떠하냐"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "모양이"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사람의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라온"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "너희를 맞으러"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "말하였느냐"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 말들을"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:16.299169396Z",
+  "model": "glm-5.2"
+}

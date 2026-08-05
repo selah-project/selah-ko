@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "야훼, 천만군의 엘로힘이시여, 주와 같은 이 누구입니까 — 능력하신 야, 주의 에메트가 주를 둘러싸고 있습니다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "천만군"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "주와 같은"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "능력하신"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "주의 에메트가"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "주를 둘러싸고 있습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:07.694463641Z",
+  "model": "glm-5.2"
+}

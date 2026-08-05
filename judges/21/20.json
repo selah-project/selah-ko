@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 그들이 ⟨את⟩ 베냐민 자손에게 명령하여 말하였다. \"가서 포도원들 ⟨에서⟩ 매복하라.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 그들이 명령하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "베냐민 자손을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "베냐민"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "가라"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "그리고 너희는 매복하라"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "포도원들 ⟨에서⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T17:19:48.603100940Z",
+  "model": "glm-5.2"
+}

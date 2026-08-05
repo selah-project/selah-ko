@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 146,
+  "translation": "나는 나의 사는 동안 야훼를 찬양하겠다. 내가 ⟨아직⟩ 있을 때 나의 엘로힘에게 노래하겠다.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "나는 찬양하겠다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "나의 사는 동안"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "나는 노래하겠다"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "나의 엘로힘에게"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "내가 있을 때"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:36.696359439Z",
+  "model": "glm-5.2"
+}

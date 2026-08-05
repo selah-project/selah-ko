@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 그 남자 엘카나와 온 그의 집이 올라갔다, 야훼께 ⟨את⟩ 때의 제물과 ⟨את⟩ 그의 서원을 제물로 드리기 위하여.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "올라갔다"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 남자"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "엘카나"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "과 온"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집이"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "제물로 드리기 위하여"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "때의 제물"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제물"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "때의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 서원"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "그의 서원"
+    }
+  ],
+  "timestamp": "2026-08-05T09:22:44.603735708Z",
+  "model": "glm-5.2"
+}

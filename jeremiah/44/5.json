@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그러나 그들이 듣지 아니하였고, 그리고 그들이 ⟨את⟩ 그들의 귀를 기울이지 아니하였다 — 그들의 악에서 돌이키지 아니하려고, 다른 엘로힘들에게 분향하지 아니하려고",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "그들이 듣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "그들이 기울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 귀"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "그들의 귀"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "돌이키"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "그들의 악에서"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "아니"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "분향하"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘들에게"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    }
+  ],
+  "timestamp": "2026-08-05T18:21:04.936585078Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "야훼를 기다려라. 강해지고, 네 마음을 굳세게 하여라. 야훼를 기다려라!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "기다려라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "강해지고"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "굳세게 하여라"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음을"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "기다려라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:46.047656039Z",
+  "model": "glm-5.2"
+}

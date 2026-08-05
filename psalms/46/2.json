@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "엘로힘은 우리의 피난처요 힘이시니, 환난 중에 크게 발견되시는 도움이시다.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘은"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리의"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "피난처요"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "힘이시니"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "도움이시다"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "환난 중에"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "발견되시는"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:47.947757486Z",
+  "model": "glm-5.2"
+}

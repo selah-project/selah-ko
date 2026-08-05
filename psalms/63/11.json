@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "그가 칼날 위로 내던져지리니, 자칼들의 몫이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "יַגִּירֻ֥הוּ",
+      "gloss": "그가 내던져지리니"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위로"
+    },
+    {
+      "surface": "יְדֵי",
+      "gloss": "손"
+    },
+    {
+      "surface": "חָ֑רֶב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "מְנָ֖ת",
+      "gloss": "몫이"
+    },
+    {
+      "surface": "שֻׁעָלִ֣ים",
+      "gloss": "자칼들의"
+    },
+    {
+      "surface": "יִהְיֽוּ",
+      "gloss": "될 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:44.708033222Z",
+  "model": "glm-5.2"
+}

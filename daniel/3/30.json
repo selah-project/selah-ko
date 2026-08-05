@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그때에 그 왕이 샤드락, 메쉬악, 그리고 아벳 네고를 바벨 도에서 진흥시키셨다.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "그때에"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "그 왕이"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "진흥시키셨다"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "샤드락을"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "메쉬악을"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "그리고 아벳"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "네고를"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "도에서"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    }
+  ],
+  "timestamp": "2026-08-05T12:26:07.472392100Z",
+  "model": "glm-5.2"
+}

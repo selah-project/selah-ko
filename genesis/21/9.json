@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "사라가 ⟨이집트인⟩ 하갈이 아브라함에게 낳은 아들을 ⟨את⟩ 보니, 그가 놀고 있었다.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "보니"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "사라가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아들을"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "하갈이"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "미츠라임 여인인"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "아브라함에게"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "놀고 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:52.192178305Z",
+  "model": "glm-5.2"
+}

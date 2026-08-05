@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 81,
+  "translation": "나는 야훼, 너의 엘로힘이다. 너를 미츠라임 땅에서 올라오게 한 이이다. 네 입을 넓게 열라, 내가 그것을 채우리라.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "너의 엘로힘"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "올라오게 한 이"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "넓게 열라"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "네 입을"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "내가 그것을 채우리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:07.452432540Z",
+  "model": "glm-5.2"
+}

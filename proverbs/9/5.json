@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "오라, 내 빵을 먹고, 내가 섞은 포도주를 마셔라.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "오라"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "내 빵을"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "마셔라"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "내가 섞은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:40.145802154Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "이스라엘은 야훼께 거룩한 것이요, 그의 소출의 처음 익은 것이었다. 그것을 먹는 자는 모두 벌을 받아 재앙이 그들에게 임하리라, 야훼의 선언이시다.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "거룩한 것"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "처음 익은 것"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "그의 소출의"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "그것을 먹는 자는"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "벌을 받으리라"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "재앙이"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "임하리라"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:25:27.909980586Z",
+  "model": "glm-5.2"
+}

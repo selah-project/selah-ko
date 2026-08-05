@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 146,
+  "translation": "야훼께서 영원토록 다스리신다 — 시온아, 네 엘로힘께서 대대로 ⟨이다⟩. 야를 할렐하라.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "다스리신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘께서"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온아"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "대대로"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "(대에 이르기까지)"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:27.018493441Z",
+  "model": "glm-5.2"
+}

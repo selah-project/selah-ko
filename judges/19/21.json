@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 19:21",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그가 그를 자기 집으로 데려가고, 나귀들에게 여물을 주니, 그들이 발을 씻고 먹고 마셨다.",
+  "tokens": [
+    {
+      "surface": "ויביאהו",
+      "gloss": "그가 그를 데려가고"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "자기 집으로"
+    },
+    {
+      "surface": "ויבול",
+      "gloss": "주니"
+    },
+    {
+      "surface": "לחמורים",
+      "gloss": "나귀들에게 여물을"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "그들이 씻고"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "그들의 발을"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "마셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:21:01.375467850Z",
+  "model": "glm-5.2"
+}

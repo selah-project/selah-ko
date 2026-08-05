@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그들이 ⟨그에게⟩ 말하였다. \"당신들은 ⟨את⟩ 라반을, 나흐르의 아들을 아십니까?\" 그들이 ⟨대답하여⟩ 말하였다. \"압니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "당신들은 아십니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "라반"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "라반"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "나흐르"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "압니다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:48.195297972Z",
+  "model": "glm-5.2"
+}

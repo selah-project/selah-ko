@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "유다와 이스라엘은 안전히 거하였다, 각 사람 ⟨이⟩ 자기 포도나무 아래와 자기 무화과나무 아래에, 단에서부터 브엘셰바까지, 셸로모의 모든 날 동안에.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다는"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "안전히"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각 사람은"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "자기 포도나무"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "그리고 아래에"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "자기 무화과나무"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "단에서부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고까지"
+    },
+    {
+      "surface": "באר",
+      "gloss": "브엘"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날 동안에"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:50.569092177Z",
+  "model": "glm-5.2"
+}

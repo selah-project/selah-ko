@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "들나귀가 풀 위에서 울부짖는가? 소가 자기 사료 위에서 울음소리를 내는가?",
+  "tokens": [
+    {
+      "surface": "הֲיִֽנְהַק",
+      "gloss": "울부짖는가"
+    },
+    {
+      "surface": "פֶּ֥רֶא",
+      "gloss": "들나귀가"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "דֶ֑שֶׁא",
+      "gloss": "풀"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "이나"
+    },
+    {
+      "surface": "יִגְעֶה",
+      "gloss": "울음소리를 내는가"
+    },
+    {
+      "surface": "שּׁ֝֗וֹר",
+      "gloss": "소가"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "בְּלִילֽוֹ",
+      "gloss": "자기 사료"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:20.428299239Z",
+  "model": "glm-5.2"
+}

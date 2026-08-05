@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "너희의 어린것들, 너희의 아내들, 네 진영 안에 있는 네 게르 — 네 나무를 찍는 자에서부터 네 물을 긷는 자까지.",
+  "tokens": [
+    {
+      "surface": "טַפְּכֶ֣ם",
+      "gloss": "너희의 어린것들"
+    },
+    {
+      "surface": "נְשֵׁיכֶ֔ם",
+      "gloss": "너희의 아내들"
+    },
+    {
+      "surface": "וְגֵ֣רְךָ֔",
+      "gloss": "네 게르"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "בְּקֶ֣רֶב",
+      "gloss": "⋯ 안에 있는"
+    },
+    {
+      "surface": "מַחֲנֶ֑יךָ",
+      "gloss": "네 진영"
+    },
+    {
+      "surface": "מֵחֹטֵ֣ב",
+      "gloss": "⋯에서부터 찍는 자"
+    },
+    {
+      "surface": "עֵצֶ֔יךָ",
+      "gloss": "네 나무를"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "⋯까지"
+    },
+    {
+      "surface": "שֹׁאֵ֥ב",
+      "gloss": "긷는 자"
+    },
+    {
+      "surface": "מֵימֶֽיךָ",
+      "gloss": "네 물을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:00:04.277548132Z",
+  "model": "glm-5.2"
+}

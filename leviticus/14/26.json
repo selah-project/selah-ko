@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 코헨은 ⟨그⟩ 왼손 손바닥 위에 기름을 부으셨다.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에서"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "그 기름을"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "부으셨다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨은"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כף",
+      "gloss": "손바닥"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨의"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "왼손"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:35.063275966Z",
+  "model": "glm-5.2"
+}

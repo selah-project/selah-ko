@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "악을 행하는 자는 불의의 입술에 귀를 기울이고, 거짓말하는 자는 멸망을 가져오는 혀에 귀를 준다.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "악을 행하는 자는"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "귀를 기울이고"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "입술"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의의"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓말하는 자는"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "귀를 준다"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀"
+    },
+    {
+      "surface": "הות",
+      "gloss": "멸망을 가져오는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:47.992364400Z",
+  "model": "glm-5.2"
+}

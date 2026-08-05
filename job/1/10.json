@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "당신이 그와 그의 집과 그에게 있는 모든 것을 사방으로 두르지 않으셨습니까? 당신이 그의 손의 일을 복되게 하셨고, 그의 가축은 땅에 퍼졌습니다.”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "…지 않습니까"
+    },
+    {
+      "surface": "את",
+      "gloss": "당신이"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "두르지"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "그리고 …을"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "그리고 …을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게 있는"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "사방으로"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "일"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "그의 손의"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "복되게 하셨고"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "그리고 그의 가축은"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "퍼졌습니다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:48.000500006Z",
+  "model": "glm-5.2"
+}

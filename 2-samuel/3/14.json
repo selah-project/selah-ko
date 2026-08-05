@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "다윗이 샤울의 아들 이쉬-보셋에게 사자들을 보내어 말하였다. \"나의 아내, 내가 백 블레셋 사람의 포피로 나에게 정약한 ⟨את⟩ 미칼을 내놓으라.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "사자들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "איש",
+      "gloss": "이쉬-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "보셋"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "내놓으라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 아내를"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "나의 아내를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "미칼을"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "미칼을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "내가 정약한"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "포피로"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:25.847238248Z",
+  "model": "glm-5.2"
+}

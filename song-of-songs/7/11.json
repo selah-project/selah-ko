@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "나는 내 사랑의 것이며, 그의 갈망이 나를 향하여 있다.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "나는"
+    },
+    {
+      "surface": "לְדוֹדִ֔י",
+      "gloss": "내 사랑의 것이다"
+    },
+    {
+      "surface": "וְעָלַ֖י",
+      "gloss": "그리고 나를 향하여"
+    },
+    {
+      "surface": "תְּשׁוּקָתֽוֹ",
+      "gloss": "그의 갈망이 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:20.484171022Z",
+  "model": "glm-5.2"
+}

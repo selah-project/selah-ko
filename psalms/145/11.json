@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "그들이 주님의 왕국의 영광을 말하고, 그리고 주님의 위업을 이야기하리이다.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "영광을"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "주님의 왕국의"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "그들이 말하고"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "그리고 주님의 위업을"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "이야기하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:21.631657271Z",
+  "model": "glm-5.2"
+}

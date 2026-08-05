@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "야훼께서 ⟨את⟩ 쿠시 사람들을 아사와 유다 앞에서 치시니, 쿠시 사람들이 도망하였다.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "치시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쿠시 사람들을"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "쿠시 사람들을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "...앞에서"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "아사와"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "...앞에서"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "쿠시 사람들이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:57:23.940213029Z",
+  "model": "glm-5.2"
+}

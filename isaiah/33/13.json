@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "멀리 있는 자들은 들어라, 내가 행하신 것을; 가까이 있는 자들은 알아라, 나의 강하심을.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "멀리 있는 자들은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "내가 행하신 것을"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "알아라"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "가까이 있는 자들은"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "나의 강하심을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:17.843714782Z",
+  "model": "glm-5.2"
+}

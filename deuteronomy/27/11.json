@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 모셰가 그 날에 ⟨את⟩ 백성에게 명하여 이르되,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 명하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그 날"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르되"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:52.410256636Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "낮은 자들이 보고 기뻐하리라. 엘로힘을 구하는 자들아, 너희 마음이 살아나라.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "보고"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "낮은 자들이"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "기뻐하리라"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "구하는 자들아"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "살아나라"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "너희 마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:49.398328256Z",
+  "model": "glm-5.2"
+}

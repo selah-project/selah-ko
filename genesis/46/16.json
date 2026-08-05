@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "그리고 가드의 아들들은 치피온과 하기, 슈니와 에츠본, 에리와 아로디와 아르엘리이다.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 …의 아들들"
+    },
+    {
+      "surface": "גד",
+      "gloss": "가드"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "치피온"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "그리고 하기"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "슈니"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "그리고 에츠본"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "에리"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "그리고 아로디"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "그리고 아르엘리"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:20.749782366Z",
+  "model": "glm-5.2"
+}

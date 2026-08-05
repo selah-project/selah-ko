@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이는 이 백성이 천천히 흐르는 실로아의 물을 ⟨⟨את⟩⟩ 경멸하였고, 레찐과 르말랴후의 아들을 기뻐하였음이라.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "경멸하였음으로"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "실로아의 물"
+    },
+    {
+      "surface": "מי",
+      "gloss": "물"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "실로아의"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "흐르는"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "천천히"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "그리고 기뻐하였음으로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레찐"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "레찐"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "그리고 아들을"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "르말랴후"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:42.538191218Z",
+  "model": "glm-5.2"
+}

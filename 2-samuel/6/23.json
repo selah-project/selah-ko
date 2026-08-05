@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 미칼—샤울의 딸—에게는 그녀의 죽는 날까지 아이가 없었다.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "그리고 미칼에게는"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨있었다⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "아이가"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "그녀의 죽는"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:48.916166362Z",
+  "model": "glm-5.2"
+}

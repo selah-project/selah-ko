@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 13:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "벗겨진 산 위에 기를 드높이 들라, 그들에게 소리를 높이라, 손을 흔들라, 그리하여 그들이 귀인들의 문으로 들어오게 하라.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "נשפה",
+      "gloss": "벗겨진"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "들라"
+    },
+    {
+      "surface": "נס",
+      "gloss": "기를"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "높이 드높이라"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "הניפו",
+      "gloss": "흔들라"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 들어오게 하라"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "문으로"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "귀인들의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:40.286937804Z",
+  "model": "glm-5.2"
+}

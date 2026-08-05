@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 다윗의 두 아내가 사로잡혔으니, 아히노암 ⟨이스르엘⟩ 사람이요, 아비가일 — 나발 ⟨카르멜⟩ 사람의 아내더라.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "그리고 두"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "아내"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "사로잡혔으니"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "아히노암"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "⟨이스르엘⟩ 사람"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "그리고 아비가일"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "나발"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨카르멜⟩ 사람"
+    }
+  ],
+  "timestamp": "2026-08-05T09:33:48.809290020Z",
+  "model": "glm-5.2"
+}

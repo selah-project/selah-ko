@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 그들이 ⟨그들의⟩ 네페쉬를 들어올려 돌아가려 ⟨하는⟩ 땅으로, 거기로 그들이 돌아가지 못하리라.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "그리고 … 로"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨하는⟩"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "들어올려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 네페쉬를"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "그들의 네페쉬를"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "돌아가려"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "그들이 돌아가리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:33:22.515053971Z",
+  "model": "glm-5.2"
+}

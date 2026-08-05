@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 3:23",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "에훗이 복도를 통해 나가고, 그를 위해 다락문들을 닫아 잠갔다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나가고"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "에훗이"
+    },
+    {
+      "surface": "המסדרונה",
+      "gloss": "복도를 통해"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "닫아"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "문들을"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "다락"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "그를 위해"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "잠갔다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:43:12.642681256Z",
+  "model": "glm-5.2"
+}

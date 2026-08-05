@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "주님의 모든 행하신 것들이 주님을 찬양하리니, 그리고 주님의 경건한 자들이 주님을 축복하리이다.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "찬양하리니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "주님을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "주님의 행하신 것들이"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "그리고 주님의 경건한 자들이"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "주님을 축복하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:21.631565120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그들이 메리바 물에서 격노케 하였고, 그들의 때문에 모셰에게 해로웠다.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "격노케 하였고"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "מי",
+      "gloss": "물"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "메리바"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "해로웠다"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "모셰에게"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "그들의 때문에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:37.941916806Z",
+  "model": "glm-5.2"
+}

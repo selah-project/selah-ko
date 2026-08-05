@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "슐로모의 잠언들. 지혜로운 아들은 아버지를 기쁘게 하나, 어리석은 아들은 그 어미의 슬픔이다.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "잠언들"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들은"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "기쁘게 하나"
+    },
+    {
+      "surface": "אב",
+      "gloss": "아버지를"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "그리고 아들은"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "어리석은"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "슬픔이다"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "그 어미의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:00.683067418Z",
+  "model": "glm-5.2"
+}

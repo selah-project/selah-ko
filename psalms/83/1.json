@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "노래, 아사프에게 바치는 미즈모르.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "미즈모르"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "아사프에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:40.425660768Z",
+  "model": "glm-5.2"
+}

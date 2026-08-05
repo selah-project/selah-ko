@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 96,
+  "translation": "하늘들은 기뻐하고 땅은 즐거워하라. 바다가 울부짖고 그것의 충만함도 ⟨그리하라⟩.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "기뻐하고"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘들은"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "즐거워하라"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅은"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "울부짖고"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다가"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "그것의 충만함도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:59.914419613Z",
+  "model": "glm-5.2"
+}

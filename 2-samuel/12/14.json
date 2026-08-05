@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그러나 이 일로 네가 ⟨את⟩ 야훼의 원수들을 멸시하였으니, 너에게 태어난 그 아들도 반드시 죽을 것입니다.\"",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "그러나"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "멸시"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "네가 멸시하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 원수들을"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "원수들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "이 일로"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "그 아들"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "태어난"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "מות",
+      "gloss": "반드시"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽을 것입니다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:49:18.384635846Z",
+  "model": "glm-5.2"
+}

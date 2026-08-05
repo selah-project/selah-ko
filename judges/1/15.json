@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그녀가 그에게 말하였다. \"저에게 축복을 주십시오. 남방 땅을 저에게 주셨으니 저에게 물 샘도 주십시오.\" 칼렙이 ⟨את⟩ 윗 샘과 ⟨את⟩ 아랫 샘을 그녀에게 주었다.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "주소서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "축복을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "남방"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "주셨으니"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "주소서"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "샘도"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "칼렙이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "윗 샘을"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "샘"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "윗"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아랫 샘을"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "샘"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "아랫"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:34.115026402Z",
+  "model": "glm-5.2"
+}

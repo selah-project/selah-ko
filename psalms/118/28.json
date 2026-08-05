@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "나의 엘이시며, 당신이시다. 내가 당신을 찬양하리이다. 나의 엘로힘이시며, 내가 당신을 높이리이다.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "나의 엘이시며"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이시다"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "내가 당신을 찬양하리이다"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로힘이시며"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "내가 당신을 높이리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:35.941108771Z",
+  "model": "glm-5.2"
+}

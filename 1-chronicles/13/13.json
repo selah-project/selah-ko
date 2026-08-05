@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 다윗은 ⟨את⟩ 그 언약궤를 자기에게로, 다윗 성으로 옮기지 아니하였고, 그것을 갓 사람 오벳 에돔의 집으로 돌리셨다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 아니하였다"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "옮기"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 언약궤를"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "그 언약궤"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "자기에게로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "그리고 그것을 돌리셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "오벳"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "에돔"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "갓 사람"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:16.010281640Z",
+  "model": "glm-5.2"
+}

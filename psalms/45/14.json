@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "왕의 딸은 안쪽에서 온전히 영화로우니, 금으로 짜 만든 옷이 그녀의 옷이다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "온전히"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "영화로우니"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸은"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "안쪽에서"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "짜 만든"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "옷이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:04.205403373Z",
+  "model": "glm-5.2"
+}

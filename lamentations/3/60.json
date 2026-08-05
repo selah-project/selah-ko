@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그들의 모든 보복을, 그들의 나를 향한 모든 생각들을 당신이 보셨다.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "보셨다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "그들의 보복을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "그들의 생각들을"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 향한"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:12.369514354Z",
+  "model": "glm-5.2"
+}

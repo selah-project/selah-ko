@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "돌아간다, 악인들은, 셰올로 — 모든 민족들, 엘로힘을 잊어버린 자들이.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "돌아간다"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들은"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "셰올로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "잊어버린 자들이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:08.549167373Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "내 눈은 항상 야훼를 향하나니, 그가 ⟨곧⟩ 내 발을 그물에서 빼내실 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "내 눈은"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "항상"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향하나니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "빼내실"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "그물에서"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "내 발을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:52.112396256Z",
+  "model": "glm-5.2"
+}

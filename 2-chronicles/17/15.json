@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 그의 수하에 ⟨있는⟩ ⟨그⟩ 지휘관 예호하난, 그리고 그와 함께 이십팔만 명.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ~의 수하에"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "예호하난"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨그⟩ 지휘관"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "그리고 그와 함께"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "이십만"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "팔만"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "만"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:12.668145801Z",
+  "model": "glm-5.2"
+}

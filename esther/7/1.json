@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "왕이 하만과 함께 에스더 왕비와 ⟨함께⟩ 마시러 들어왔다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "하만과"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "마시러"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨함께⟩"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "왕비"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:21.970118537Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 왕이 바르질라이에게 말씀하였다. \"당신은 나와 함께 건너가시오. 그리하면 내가 당신을 나와 함께 예루샬라임에서 먹여 살리겠소.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "바르질라이에게"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "건너가시오"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "그리하면 내가 먹여 살리겠소"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "당신을"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:43.266905016Z",
+  "model": "glm-5.2"
+}

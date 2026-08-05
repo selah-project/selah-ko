@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "나의 눈이 당신의 말씀을 향하여 다하였나이다, ⟨말하기를⟩ '언제 당신이 나를 위로하시리이까'",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "다하였나이다"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "나의 눈이"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "당신의 말씀을 향하여"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨말하기를⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "당신이 나를 위로하시리이까"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:58.348957037Z",
+  "model": "glm-5.2"
+}

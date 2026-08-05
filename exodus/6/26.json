@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "이 ⟨곳의⟩ 아하론과 모셰는, 야훼께서 그들에게 말씀하신 자들이다 — 이스라엘의 아들들을 미츠라임 땅에서 그들의 군대로 이끌어 내라고 ⟨하셨다⟩. ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "이"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "그리고 모셰는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(그들이다)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "이끌어 내라고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "על",
+      "gloss": "…로"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "그들의 군대"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:07.071595360Z",
+  "model": "glm-5.2"
+}

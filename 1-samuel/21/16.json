@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "\"내가 미친 자들이 모자라서, 너희가 ⟨את⟩ 이 자를 데려와 내 앞에서 미치게 하느냐? 이 자가 내 집에 들어오겠느냐?\"",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "모자라서"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "미친 자들이"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…냐(접속)"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "너희가 데려와"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 자"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이 자를"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "미치게 하느냐"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 앞에서"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "들어오겠느냐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "내 집"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:11.240028442Z",
+  "model": "glm-5.2"
+}

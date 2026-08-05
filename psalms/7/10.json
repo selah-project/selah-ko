@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "악인들의 악이 끝나게 하소서, 부디. 의로운 자를 굳게 세우소서. 마음들을 살피시고 콩팥들을 시험하시는 이는 의로운 엘로힘이시다.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "끝나게 하소서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "부디"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악이"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "그리고 굳게 세우소서"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자를"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "그리고 시험하시는 이는"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "마음들을"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "콩팥들을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:43.997657370Z",
+  "model": "glm-5.2"
+}

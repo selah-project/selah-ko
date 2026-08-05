@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그가 얼굴을 창문 쪽으로 들어 말하였다. “누가 나와 함께, 누가?” 두셋의 내시가 그를 바라보았다.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "들어"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "쪽으로"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "창문"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "바라보았다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "셋"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "내시가"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:28.606522520Z",
+  "model": "glm-5.2"
+}

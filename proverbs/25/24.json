@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "다투는 아내와 한 집에 거하는 것보다 지붕 귀퉁이에 앉는 것이 더 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "더 낫다"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "앉는 것이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "귀퉁이"
+    },
+    {
+      "surface": "גג",
+      "gloss": "지붕"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "~보다"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "다투는"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "그리고 집에"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "거하는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:21.171372598Z",
+  "model": "glm-5.2"
+}

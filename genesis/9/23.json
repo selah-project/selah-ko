@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 9:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리하여 셈과 예펫이 ⟨את⟩ 겉옷을 가져와 그 두 사람의 어깨에 걸고, 뒤로 걸어 들어가 ⟨את⟩ ⟨그들의⟩ 아버지의 벌거벗음을 덮었다. ⟨그들의⟩ 얼굴은 뒤를 향하였고, ⟨그들은⟩ ⟨그들의⟩ 아버지의 벌거벗음을 보지 않았다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "가져와"
+    },
+    {
+      "surface": "שם",
+      "gloss": "셈"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "예펫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "겉옷"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "겉옷을"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "걸고"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "어깨"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "두 사람의"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "걸어 들어가"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "뒤로"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "벌거벗음"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "벌거벗음"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "얼굴은"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "뒤를 향하였고"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "벌거벗음"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "아버지의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "보지"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:19.527968596Z",
+  "model": "glm-5.2"
+}

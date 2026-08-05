@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "엘로힘, 고독한 자들을 집에 거하게 하시며, 갇힌 자들을 번영 가운데로 이끌어 내신다 — 그러나 오직 반항하는 자들은 메마른 땅에 거하였다.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "거하게 하시며"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "고독한 자들을"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "집에"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "이끌어 내신다"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "갇힌 자들을"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "번영 가운데로"
+    },
+    {
+      "surface": "אך",
+      "gloss": "그러나 오직"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "반항하는 자들은"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "메마른 땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:29.010635799Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그런데 너희는 ⟨את⟩ 나지르 사람들에게 포도주를 마시게 하였고, 나비들에게 명령하여 말하기를 '예언하지 말라' 하였다.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "마시게 하였고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나지르 사람들"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "나지르 사람들에게"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "명령하여"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "나비들에게"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "명령하여"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "예언하지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:09:22.329020986Z",
+  "model": "glm-5.2"
+}

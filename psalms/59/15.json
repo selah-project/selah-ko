@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "그리고 저물 때에 돌아오게 하소서, 개처럼 울게 하시며 성을 두루 돌게 하소서.",
+  "tokens": [
+    {
+      "surface": "וְיָשׁ֣וּבוּ",
+      "gloss": "그리고 돌아오게 하소서"
+    },
+    {
+      "surface": "לָ֭עֶרֶב",
+      "gloss": "저물 때에"
+    },
+    {
+      "surface": "יֶהֱמ֥וּ",
+      "gloss": "울게 하시며"
+    },
+    {
+      "surface": "כַכָּ֗לֶב",
+      "gloss": "개처럼"
+    },
+    {
+      "surface": "וִיס֥וֹבְבוּ",
+      "gloss": "두루 돌게 하소서"
+    },
+    {
+      "surface": "עִֽיר",
+      "gloss": "성을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:28.141497860Z",
+  "model": "glm-5.2"
+}

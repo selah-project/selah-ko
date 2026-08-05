@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 149,
+  "translation": "고이들에게 복수를 행하며, 백성들에게 견책을 행하려 함이니,",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "행하려 함이니"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "복수를"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "고이들에게"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "견책을"
+    },
+    {
+      "surface": "בל",
+      "gloss": "백성들에게"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "백성들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:51.745952538Z",
+  "model": "glm-5.2"
+}

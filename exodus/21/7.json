@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "어떤 사람이 ⟨את⟩ 자기 딸을 여종으로 팔면, 그녀는 남종들이 나가는 것 같이 나가지 못한다.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "판다면"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 딸"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "자기 딸"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "여종으로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "나가지 못한다"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "나가는 것 같이"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "남종들"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:09.368842084Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "보아즈가 ⟨את⟩ 룻을 취하니 그가 그의 아내가 되었다. 그가 그녀에게 들어가매 야훼께서 그녀에게 잉태를 허락하셨고, 그녀가 아들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하니"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "보아즈가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "루트(을)"
+    },
+    {
+      "surface": "רות",
+      "gloss": "룻을"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그녀가 되었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내가"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "들어가매"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주셨고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "잉태를"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:06.354615709Z",
+  "model": "glm-5.2"
+}

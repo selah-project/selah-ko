@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "제가 두려워하는 날에, 저는 당신을 신뢰합니다.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "…하는 날에"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "제가 두려워하는"
+    },
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신을"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "신뢰합니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:29.123208366Z",
+  "model": "glm-5.2"
+}

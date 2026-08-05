@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "야곱이 ⟨את⟩ 파르오를 축복하고, 파르오 앞에서 나갔다.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "축복하고"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "파르오"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오를"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나갔다"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:18.908104578Z",
+  "model": "glm-5.2"
+}

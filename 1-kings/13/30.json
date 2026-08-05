@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그가 ⟨את⟩ 그의 시신을 자기 무덤에 두니, 그들이 그를 위해 애도하며 말하였다. \"아아, 나의 형제여.\"",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "그가 … 두니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 시신"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "그의 시신"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "자기 무덤에"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "그들이 … 애도하며"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그를 위해"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "아아"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "나의 형제여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:51:30.801879476Z",
+  "model": "glm-5.2"
+}

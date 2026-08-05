@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "만일 그의 제물인 희생이 서원이나 자원함이면, 그가 ⟨את⟩ 그의 희생을 드리는 날에 먹혀야 하고, 그리고 이튿날에는 ⟨그⟩ 남은 것이 먹혀야 한다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "서원이"
+    },
+    {
+      "surface": "או",
+      "gloss": "또는"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "자원함이면"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "희생이"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "그의 제물인"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "그가 드리는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 희생을"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "그의 희생을"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹혀야 하고"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "그리고 이튿날에는"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "남은 것이"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그 중"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹혀야 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:15.022509850Z",
+  "model": "glm-5.2"
+}

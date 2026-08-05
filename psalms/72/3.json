@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "산들이 백성에게 샬롬을 들어 올리고, 언덕들이 체다카로 ⟨들어 올리리이다⟩.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "그들이 들어 올리고"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들이"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "언덕들이"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "체다카로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:29.473004285Z",
+  "model": "glm-5.2"
+}

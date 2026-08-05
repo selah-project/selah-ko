@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "그들이 악한 말을 스스로 굳게 하고, 숨길 올무들을 이야기하며 말한다. “누가 우리를 보리요?”",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "그들이 굳게 하고"
+    },
+    {
+      "surface": "למו",
+      "gloss": "스스로"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말을"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "이야기하며"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "숨길"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "올무들을"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "보리요"
+    },
+    {
+      "surface": "למו",
+      "gloss": "우리를"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:47.031715828Z",
+  "model": "glm-5.2"
+}

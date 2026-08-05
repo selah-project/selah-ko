@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "자기의 완전함으로 걷는 의로운 자, 그의 뒤를 따르는 자녀들은 복이 있다.",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "걷는"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "자기의 완전함으로"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 자녀들은"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그의 뒤를 따르는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:08.224054986Z",
+  "model": "glm-5.2"
+}

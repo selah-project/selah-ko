@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "체다카의 길에는 생명이 있고, 그 길의 오솔길에는 죽음이 없다.",
+  "tokens": [
+    {
+      "surface": "בְּאֹֽרַח",
+      "gloss": "길에는"
+    },
+    {
+      "surface": "צְדָקָ֥ה",
+      "gloss": "체다카의"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "생명이"
+    },
+    {
+      "surface": "וְדֶ֖רֶךְ",
+      "gloss": "길의"
+    },
+    {
+      "surface": "נְתִיבָ֣ה",
+      "gloss": "오솔길에는"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "없다"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "죽음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:05.848416958Z",
+  "model": "glm-5.2"
+}

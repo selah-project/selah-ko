@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "엘로험이여, 나에게서 멀리 가지 마시옵소서. 나의 엘로험이여, 나의 도움에 서둘러 오시옵소서.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로험이여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…지 마시옵소서"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "멀리 가지"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로험이여"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "나의 도움에"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "서둘러 오시옵소서"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:17.829886297Z",
+  "model": "glm-5.2"
+}

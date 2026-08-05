@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그래서 하눈은 다윗의 종들을 붙잡고, 그들의 수염 절반을 깎아버렸고, 그들의 옷을 엉덩이까지 중간에서 잘라버렸다. 그래서 그들을 보내버렸다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "그래서 붙잡고"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "하눈은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗의 종들을"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "그리고 깎아버렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 수염 절반을"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "절반을"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "그들의 수염"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "그리고 잘라버렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 옷을"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "그들의 옷"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "중간에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "그들의 엉덩이"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "그래서 보내버렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:03.093096511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그가 목마른 네페쉬를 배불리시고, 주린 네페쉬를 좋은 것으로 채우셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "배불리셨다"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "목마른"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "그리고 네페쉬"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "주린"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "채우셨다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:31.047483943Z",
+  "model": "glm-5.2"
+}

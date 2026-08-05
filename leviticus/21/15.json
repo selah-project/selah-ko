@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 ⟨그⟩ 자기 백성 가운데서 ⟨그⟩ 자기 씨를 더럽히지 아니할 것이니, 이는 나 야훼가 ⟨그를⟩ 거룩하게 구별하심이라.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 아니할 것이니"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "더럽히지"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "자기 씨를"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "자기 백성 가운데서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "거룩하게 구별하심이라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:43.491409098Z",
+  "model": "glm-5.2"
+}

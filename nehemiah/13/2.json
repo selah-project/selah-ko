@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그들이 ⟨את⟩ 이스라엘 자손들을 빵과 물로 맞이하지 아니하였고, 그를 고용하여 ⟨את⟩ 빌암을 저주하게 하였으므로, 우리 엘로힘이 ⟨그⟩ 저주를 축복으로 바꾸셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였고"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "맞이하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 자손들을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "빵으로"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "그리고 물로"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "그리고 고용하였고"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "빌암을"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암을"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "저주하게"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "그리고 바꾸셨다"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘이"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "저주를"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "축복으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:39:58.459072641Z",
+  "model": "glm-5.2"
+}

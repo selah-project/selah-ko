@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 138,
+  "translation": "야훼여, 땅의 모든 왕들이 주를 찬양하리이다. 그들이 주의 입의 말씀들을 들었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "주를 찬양하리이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "들이 들었기"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "주의 입의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:23.656303398Z",
+  "model": "glm-5.2"
+}

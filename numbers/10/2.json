@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "너는 은 나팔 둘을 만들어라. 두드려 빚은 것으로 만들되, 그것들이 네게 있어 회중을 부르는 것과 진들을 이동시키는 것을 위한 것이 되게 하라.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "만들어라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네가"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "둘"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "나팔"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "두드려 빚은 것"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "만들되"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "그리고 그것들이 …이 되게 하라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "부르는 것을 위하여"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "그리고 이동시키는 것을 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "진들"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "진들"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:45.469429329Z",
+  "model": "glm-5.2"
+}

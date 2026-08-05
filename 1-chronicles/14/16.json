@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 다비드가 엘로힘이 자에게 명하신 대로 하니, 그들이 ⟨את⟩ 필리쉬티인 진영을 기브온에서부터 게젤까지 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "하니"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다비드가"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "필리쉬티인 진영"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "필리쉬티인"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "기브온에서부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "게젤"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:25.557203287Z",
+  "model": "glm-5.2"
+}

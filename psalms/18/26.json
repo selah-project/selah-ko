@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "헤세드 있는 자에게는 헤세드하시고, 온전한 자에게는 온전하시며,",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "에게"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "헤세드 있는 자"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "헤세드하시고"
+    },
+    {
+      "surface": "עם",
+      "gloss": "에게"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "자"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "온전한"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "온전하시며"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:41.635996857Z",
+  "model": "glm-5.2"
+}

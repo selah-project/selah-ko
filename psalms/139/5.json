@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "뒤에서와 앞에서 나를 에워싸셨다. 그리고 나 위에 ⟨당신의⟩ 손바닥을 얹으셨다.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "뒤에서"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "그리고 앞에서"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "나를 에워싸셨다"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "그리고 얹으셨다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나 위에"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "당신의 손바닥"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:31.794940825Z",
+  "model": "glm-5.2"
+}

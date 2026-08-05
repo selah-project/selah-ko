@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 40:6",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그가 동쪽을 향하는 문으로 들어가, 그것의 계단을 올라가고, ⟨את⟩ ⟨그⟩ 문의 문지방을 재었으니, 너비가 한 갈대였고, ⟨את⟩ 다른 ⟨한⟩ 문지방의 너비도 한 갈대였다.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "그가 … 들어가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…하는"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그것의 앞이"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "…를 향하여"
+    },
+    {
+      "surface": "הקדימה",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 … 올라가고"
+    },
+    {
+      "surface": "במעלותו",
+      "gloss": "그것의 계단을"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "그리고 … 재었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 문의 문지방"
+    },
+    {
+      "surface": "סף",
+      "gloss": "문지방을"
+    },
+    {
+      "surface": "השער",
+      "gloss": "그 문의"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "한 갈대"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "너비가"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "다른 문지방"
+    },
+    {
+      "surface": "סף",
+      "gloss": "문지방"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "다른 … 하나"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "한 갈대"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "너비도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:02:07.517433444Z",
+  "model": "glm-5.2"
+}

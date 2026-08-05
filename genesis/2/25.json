@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그 둘이 벌거벗었으니, ⟨곧⟩ ⟨את⟩ 하아담과 ⟨את⟩ 그의 아내였다. 그리고 부끄러워하지 않았다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "그리고 ~이었다"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "그 둘"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "벌거벗은"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "하아담"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "그리고 그의 아내"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아니했다"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "부끄러워했다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:10.760187112Z",
+  "model": "glm-5.2"
+}

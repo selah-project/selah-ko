@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "타인이 너를 칭찬하게 하고 네 입은 말라, 나그네가 ⟨하고⟩ 네 입술은 말라.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "너를 칭찬하게 하고"
+    },
+    {
+      "surface": "זר",
+      "gloss": "타인이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…말고"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "네 입은"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "나그네가"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "네 입술은"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:29.011899236Z",
+  "model": "glm-5.2"
+}

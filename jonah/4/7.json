@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "엘로힘이 ⟨את⟩ 벌레를 지정하셨으니, 이튿날 새벽이 떠오를 때였다. ⟨그것이⟩ ⟨את⟩ 그 카이카욘을 치니 그것이 말랐다.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "지정하셨으니"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "벌레를"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "떠오를 때"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "새벽이"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "이튿날"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "치니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 카이카욘"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "그 카이카욘을"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "말랐다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:59.947149854Z",
+  "model": "glm-5.2"
+}

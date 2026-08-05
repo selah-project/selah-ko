@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 7:6",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이 에즈라, 바벨에서 올라왔다. 그는 모셰의 토라에 능숙한 소페르인데, 그 토라는 이스라엘의 엘로힘 야훼께서 주신 것이었다. 왕은 그의 모든 청구를 허락하였으니, 그의 엘로힘 야훼의 손이 그 위에 있었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "이"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "에즈라"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라왔다"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "바벨에서"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "소페르"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "능숙한"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "토라에"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "허락하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "…의 손이 …이므로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "그의 엘로힘"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בקשתו",
+      "gloss": "청구를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:32:40.004057129Z",
+  "model": "glm-5.2"
+}

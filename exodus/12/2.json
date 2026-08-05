@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "“이 달이 너희에게 달들의 머리이니, 그것이 너희에게 해의 달들 중 첫째이다.”",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "이 달이"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리이니"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "달들의"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "달들 중"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "해의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:53.503860826Z",
+  "model": "glm-5.2"
+}

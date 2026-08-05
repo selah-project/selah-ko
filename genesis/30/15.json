@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그녀가 ⟨그녀⟩에게 말하였다. \"내 남편을 ⟨את⟩ 취한 것이 적〈은 일〉이라서, 내 아들의 두다임도 ⟨את⟩ 취하려 하는가?\" 라헬이 말하였다. \"그러므로 오늘 밤 그가 당신과 함께 누우리다, 당신 아들 두다임 대〈신에〉.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨그녀⟩에게"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "적은"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "취한 것이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 남편을"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "내 남편"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "취하려 하는가"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두다임도"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "두다임"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들의"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬이"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "누우리다"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신과 함께"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "오늘 밤"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "두다임"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "당신 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:01.477245134Z",
+  "model": "glm-5.2"
+}

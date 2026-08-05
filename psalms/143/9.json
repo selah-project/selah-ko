@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 143,
+  "translation": "야훼여, 내 원수들에게서 나를 건져 내소서. 주께 ⟨로⟩ 내가 ⟨나를⟩ 숨겼습니다.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "나를 건져 내소서"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "내 원수들에게서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "주께 ⟨로⟩"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "내가 ⟨나를⟩ 숨겼습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:02.807251156Z",
+  "model": "glm-5.2"
+}

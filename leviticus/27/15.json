@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 만일 거룩하게 구별한 자가 ⟨את⟩ 자기 집을 무르면, ⟨그는⟩ 당신의 정가의 은의 다섯째를 그것 위에 더할 것이고, 그것은 그의 것이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "거룩하게 구별한 자가"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "무르면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 집을"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "자기 집을"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "그리고 더할 것이다"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "다섯째를"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은의"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "당신의 정가의"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그것 위에"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그리고 될 것이다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그의 것으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:26:30.137546105Z",
+  "model": "glm-5.2"
+}

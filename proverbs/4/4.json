@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 4:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그가 나를 가르치시고 내게 말씀하셨다. \"네가 내 말씀을 네 마음에 굳게 잡으라. 나의 계명들을 지키고 살라.\"",
+  "tokens": [
+    {
+      "surface": "וירני",
+      "gloss": "그가 나를 가르치시고"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "굳게 잡으라"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말씀을"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음에"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "나의 계명들을"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "살라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:35.398228560Z",
+  "model": "glm-5.2"
+}

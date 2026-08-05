@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "에프라임의 죄악이 묶여 있고, 그의 죄가 감추어졌다.",
+  "tokens": [
+    {
+      "surface": "צָרוּר֙",
+      "gloss": "묶여 있고"
+    },
+    {
+      "surface": "עֲוֺ֣ן",
+      "gloss": "죄악이"
+    },
+    {
+      "surface": "אֶפְרָ֔יִם",
+      "gloss": "에프라임의"
+    },
+    {
+      "surface": "צְפוּנָ֖ה",
+      "gloss": "감추어졌다"
+    },
+    {
+      "surface": "חַטָּאתֽוֹ",
+      "gloss": "그의 죄가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:12.263249875Z",
+  "model": "glm-5.2"
+}

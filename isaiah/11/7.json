@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "암소와 곰이 함께 풀을 먹으며, ⟨그것들의⟩ 새끼들이 함께 누우리라; 사자가 소처럼 짚을 먹으리라.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "암소와"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "곰이"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "풀을 먹으며"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "누우리라"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "그것들의 새끼들이"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "소처럼"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹으리라"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "짚을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:49.552511160Z",
+  "model": "glm-5.2"
+}

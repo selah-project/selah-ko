@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 139,
+  "translation": "나의 길과 나의 누움을 흩으셨으며, 나의 모든 길에 익숙하시다.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "나의 길을"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "나의 누움을"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "흩으셨으며"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "나의 길에"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "익숙하시다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:26.854429738Z",
+  "model": "glm-5.2"
+}

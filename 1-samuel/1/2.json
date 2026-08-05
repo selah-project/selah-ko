@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그에게는 두 아내가 있었다. 한 사람의 이름은 한나요, 다른 한 사람의 이름은 피닌나였다. 피닌나에게는 자식들이 있었고, 한나에게는 자식들이 없었다.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "그리고 그에게"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "아내들이"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "한"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "한나"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "다른 한"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "피닌나"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "피닌나에게"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "자식들이"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "그리고 한나에게는"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "자식들이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:22:25.709262208Z",
+  "model": "glm-5.2"
+}

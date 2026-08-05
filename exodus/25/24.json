@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너는 ⟨את⟩ 그것을 순금으로 입히고, 그것에 금 테를 둘러 만들어라.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "너는 입히고"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "순"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "너는 만들어라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "זר",
+      "gloss": "테"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘러"
+    }
+  ],
+  "timestamp": "2026-08-05T08:00:48.368713099Z",
+  "model": "glm-5.2"
+}

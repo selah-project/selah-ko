@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "스바의 여왕이 ⟨את⟩ 셸로모의 모든 지혜와 ⟨그⟩가 지은 집을 보았다.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "…의 여왕이"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "스바"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 지혜를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "지혜"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모의"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "그리고 집을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩을"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "지은"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:43.328692120Z",
+  "model": "glm-5.2"
+}

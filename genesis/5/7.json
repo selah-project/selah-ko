@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "셋이 ⟨את⟩ 에노쉬를 낳은 후에 칠 년과 팔백 년을 살고, 아들들과 딸들을 낳았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "…이 살고"
+    },
+    {
+      "surface": "שת",
+      "gloss": "셋이"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…후에"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "낳은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에노쉬"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "에노쉬를"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "그리고 여덟"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "그리고 딸들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:01.863853431Z",
+  "model": "glm-5.2"
+}

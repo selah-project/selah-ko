@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "그들이 보고 — 그리하여 놀랐다, 두려워 떨며 황급히 도망하였다.",
+  "tokens": [
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "רָ֭אוּ",
+      "gloss": "보고"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "תָּמָ֑הוּ",
+      "gloss": "놀랐다"
+    },
+    {
+      "surface": "נִבְהֲל֥וּ",
+      "gloss": "두려워 떨며"
+    },
+    {
+      "surface": "נֶחְפָּֽזוּ",
+      "gloss": "황급히 도망하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:46.990517583Z",
+  "model": "glm-5.2"
+}

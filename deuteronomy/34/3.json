@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리고 ⟨את⟩ 네겝과 ⟨את⟩ 아랫들과 여리고 골짜기 — 종려나무 성을, 초아르까지.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "네겝"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "네겝과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아랫들"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "아랫들과"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "골짜기"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "여리고"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성을"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "종려나무"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "צער",
+      "gloss": "초아르"
+    }
+  ],
+  "timestamp": "2026-08-05T09:03:02.489522176Z",
+  "model": "glm-5.2"
+}

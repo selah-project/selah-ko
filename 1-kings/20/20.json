@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 그들이 각기 자기 상대를 쳤고, 아람이 도망하였으며, 이스라엘이 그들을 추격하였다. 그리고 아람 왕 벤 하다드가 말과 기병들 위에서 빠져나갔다.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "쳤고"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각기"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "자기 상대를"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "도망하였으며"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람이"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "추격하였다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "빠져나갔다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "벤"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하다드가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "말과"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "기병들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:54:15.084735761Z",
+  "model": "glm-5.2"
+}

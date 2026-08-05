@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 5:14",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "어머니의 태에서 나온 것처럼, 그가 들어온 것처럼 가기 위하여 벌거벗은 채로 돌아간다. 그리고 그가 자기 손으로 가져갈 수 있는 그의 수고에서 그는 아무것도 담지 못한다.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "～처럼"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나온"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "태에서"
+    },
+    {
+      "surface": "아מו",
+      "gloss": "어머니의"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "벌거벗은 채로"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "돌아간다"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "가기 위하여"
+    },
+    {
+      "surface": "כשבא",
+      "gloss": "들어온 것처럼"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "그리고 아무것도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못한다"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "담지"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "그의 수고에서"
+    },
+    {
+      "surface": "שילך",
+      "gloss": "가져갈 수 있는"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "자기 손으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:28.788700566Z",
+  "model": "glm-5.2"
+}

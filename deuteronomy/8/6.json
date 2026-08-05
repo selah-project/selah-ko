@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 너는 야훼 네 엘로힘의 ⟨את⟩ 계명들을 지켜, 그의 길들로行走하고 그를 경외할 것이다.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "그리고 너는 지킬 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "계명들을"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "계명들을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘의"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行走하기 위하여"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "그의 길들에"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "그리고 경외하기 위하여"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:13.911146335Z",
+  "model": "glm-5.2"
+}

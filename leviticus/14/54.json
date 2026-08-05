@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "이것이 ⟨모든⟩ 나병의 표출과 ⟨그⟩ 나텍을 위한 토라이다.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든 ··· 을(를) 위한"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "표출"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "나병의"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "그리고 나텍을 위한"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:02.059535978Z",
+  "model": "glm-5.2"
+}

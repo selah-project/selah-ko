@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "야훼께서 모셰의 말씀대로 행하시어, 파르오와 그의 종들과 그의 백성에게서 ⟨그⟩ 파리 떼를 거두시니, 하나도 남지 않았다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "행하시어"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말씀대로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "거두시니"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "파리 떼를"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "파르오에게서"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "그의 종들에게서"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "그의 백성에게서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "남았다"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나도"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:13.167574984Z",
+  "model": "glm-5.2"
+}

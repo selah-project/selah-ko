@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨את⟩ 파르샨다타와 ⟨את⟩ 달폰과 ⟨את⟩ 아스파타를",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "파르샨다타를"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "파르샨다타"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "달폰을"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "달폰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아스파타를"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "아스파타"
+    }
+  ],
+  "timestamp": "2026-08-05T12:24:20.042762246Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그리하여 야훼의 말씀이 야훼께로부터 예르미야후에게 임하였다. 말씀하시기를 —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리하여 … 임하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야후"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "…께로부터"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T13:56:19.890742763Z",
+  "model": "glm-5.2"
+}

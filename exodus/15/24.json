@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리하여 백성이 모셰에게 불평하며 말하기를, “우리가 무엇을 마신단 말입니까?” 하였다.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "불평하였다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "마신단 말입니까"
+    }
+  ],
+  "timestamp": "2026-08-05T07:54:01.706577702Z",
+  "model": "glm-5.2"
+}

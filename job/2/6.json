@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼께서 ⟨그⟩ 사탄에게 말씀하셨다. \"보라, 그가 네 손에 있으나, 오직 ⟨את⟩ 그의 네페쉬는 지켜라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "사탄"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "보라"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "네 손에 있으나"
+    },
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 네페쉬"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "그의 네페쉬"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지켜라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:03.002667906Z",
+  "model": "glm-5.2"
+}

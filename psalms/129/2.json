@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 129,
+  "translation": "그들이 나의 어린 시절부터 많이 나를 괴롭혔나이다 — 또한 그들이 나를 이기지 못하였나이다.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "많이"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "그들이 나를 괴롭혔나이다"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "나의 어린 시절부터"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였나이다"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "그들이 이기"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:00.067401750Z",
+  "model": "glm-5.2"
+}

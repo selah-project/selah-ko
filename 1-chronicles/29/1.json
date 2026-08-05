@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 29:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "다윗 왕이 온 회중에게 말하였다. \"나의 아들 샬로모는 엘로힘이 ⟨그⟩를 택하신 ⟨유일한⟩ ⟨아들⟩ ⟨이며⟩, 아직 어리고 연약하다. 그리고 이 일은 크니, ⟨이⟩ 요새는 사람의 것이 아니요, 야훼 엘로힘의 것이기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중에게"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "샬로모는"
+    },
+    {
+      "surface": "בני",
+      "gloss": "나의 아들"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "택하신"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "נער",
+      "gloss": "어리고"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "연약하다"
+    },
+    {
+      "surface": "והמלאכה",
+      "gloss": "그리고 이 일은"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "크다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "사람의 것"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "이 요새는"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼의 것"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:51:13.122525766Z",
+  "model": "glm-5.2"
+}

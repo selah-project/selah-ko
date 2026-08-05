@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 79,
+  "translation": "갇힌 자의 탄식이 그대의 ⟨앞에⟩ 들게 하소서. 그대의 팔의 크심 ⟨같이⟩, 사망으로 정해진 자들의 아들들을 풀어 주소서.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "들게 하소서"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "그대의 ⟨앞에⟩"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "…의 탄식이"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "갇힌 자"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "…의 크심 ⟨같이⟩"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "그대의 팔"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "풀어 주소서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들을"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "사망으로 정해진"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:33.929217021Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "왕이 ⟨그⟩ 여인에게 말씀하셨다. \"무엇이 그대에게 있습니까?\" 그녀가 말하였다. \"참으로 여인이온데 과부이옵고 저의 남편이 죽었나이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게 있습니까"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인이온데"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "과부이옵고"
+    },
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽었나이다"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "저의 남편이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:32.304887480Z",
+  "model": "glm-5.2"
+}

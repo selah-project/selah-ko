@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "거룩한 ⟨이가⟩ 야훼 같은 ⟨이가⟩ 없다. ⟨왜냐하면⟩ 그대 외에 ⟨아무도⟩ 없으며, 반석이 우리 엘로힘 같은 ⟨것은⟩ 없기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "야훼 같은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨왜냐하면⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으며"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "그대 외에"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 없다"
+    },
+    {
+      "surface": "צור",
+      "gloss": "반석이"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "우리 엘로힘 같은"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:03.510353009Z",
+  "model": "glm-5.2"
+}

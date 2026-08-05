@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그가 ⟨아트⟩ 길을 따라 나를 데리고 돌아오셨으니, 곧 동쪽을 향한 바깥 미쉬칸 문의 길이었다. 그런데 그것은 닫혀 있었다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "데리고 돌아오셨다"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "길"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "미쉬칸"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "바깥"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "향한"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그런데 그것은"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "닫혀 있었다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:28.860466317Z",
+  "model": "glm-5.2"
+}

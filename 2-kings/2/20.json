@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 그가 말하였다. \"나에게 새 그릇을 가져오고, 거기에 소금을 두십시오.\" 그리하여 그들이 ⟨그것⟩을 그에게로 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "가져오십시오"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "그릇을"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "새"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "그리고 두십시오"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "소금을"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 가져왔다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:16.277580646Z",
+  "model": "glm-5.2"
+}

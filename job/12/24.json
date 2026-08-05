@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 12:24",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그가 땅의 백성의 우두머리들의 마음을 옮기시며, 그들을 길 없는 황무지에서 방황하게 하신다.",
+  "tokens": [
+    {
+      "surface": "מֵסִ֗יר",
+      "gloss": "옮기시며"
+    },
+    {
+      "surface": "לֵ֭ב",
+      "gloss": "마음을"
+    },
+    {
+      "surface": "רָאשֵׁ֣י",
+      "gloss": "우두머리들의"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "וַ֝יַּתְעֵ֗ם",
+      "gloss": "방황하게 하신다"
+    },
+    {
+      "surface": "בְּתֹ֣הוּ",
+      "gloss": "황무지에서"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아닌"
+    },
+    {
+      "surface": "דָֽרֶךְ",
+      "gloss": "길"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:35.272940484Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그는 ⟨את⟩ 모든 금과 은, 그리고 ⟨את⟩ 야훼의 집과 왕궁 보물창고에서 발견된 모든 기물, 그리고 ⟨את⟩ 볼모들도 취하고, 샤마론으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "그는 취하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 금과 은"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "그리고 은"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "모든 기물"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "기물"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "발견된"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "그리고 보물창고에서"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "볼모들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "볼모"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "샤마론으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:35.387749757Z",
+  "model": "glm-5.2"
+}

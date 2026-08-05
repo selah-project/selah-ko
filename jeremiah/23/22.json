@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그러나 ⟨만약⟩ 그들이 나의 소드에 서서 ⟨את⟩ 내 백성에게 내 말을 듣게 하였더라면, 그들이 그들을 그들의 악한 길에서, 그리고 그들의 행위의 악에서 돌이켰으리라.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만약"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "서서"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "나의 소드에"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "듣게 하였더라면"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성에게"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성에게"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "돌이켰으리라"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "그들의 길에서"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악한"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "그리고 악에서"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "그들의 행위의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:48.498543903Z",
+  "model": "glm-5.2"
+}

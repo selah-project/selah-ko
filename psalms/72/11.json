@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 72,
+  "translation": "그리고 모든 왕들이 그에게 엎드려 절하리니, 모든 민족들이 그를 섬기리라.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "그리고 엎드려 절하리니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "그를 섬기리라"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:57.717167982Z",
+  "model": "glm-5.2"
+}

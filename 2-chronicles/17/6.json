@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그의 마음이 야훼의 길들에서 높여졌고, 또한 그가 ⟨את⟩ 산당들과 ⟨את⟩ 아세라들을 유다에서 제거하였다.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "높여졌고"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음이"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "길들에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "또한"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "그가 제거하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "산당들을"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "산당들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "아세라들을"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "아세라들"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "유다에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:56:47.674757657Z",
+  "model": "glm-5.2"
+}

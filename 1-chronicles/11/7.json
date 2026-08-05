@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 다윗이 그 요새에 거하였으므로, 그것을 그의 성, 다윗의 성이라 불렀다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "그리고 …거하였다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "요새에"
+    },
+    {
+      "surface": "על",
+      "gloss": "…므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:44:52.062039846Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "그리하여 그들이 민족에서 민족으로, 왕국에서 다른 백성으로 옮겨 다녔더라.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "옮겨 다녔더라"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "민족에서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～로"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "민족"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "왕국에서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～로"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:26.123318110Z",
+  "model": "glm-5.2"
+}

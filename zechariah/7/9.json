@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 7:9",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "만군의 야훼께서 이같이 말씀하셨다, 이르시기를: 진실한 판결을 판결하라, 그리고 헤세드와 자비를 행하라, 각 사람이 ⟨את⟩ ⟨그의⟩ 형제에게.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르시기를"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "판결"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "진실한"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "판결하라"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "그리고 헤세드"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "그리고 자비"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행하라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각 사람이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "형제"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "형제에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:18:40.205382532Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "나는 태양 아래서 행해지는 ⟨את⟩ 모든 행위를 보았다. 보라, 그 전부가 헛되고 루아흐를 쫓는 것이었다.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "나는 보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "행위"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "행해지는"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "~아래"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "태양"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "그 전부가"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헛되고"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "쫓는"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:53.925740850Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "왕의 시종들이 그에게 말하였다. \"보십시오, 하만이 뜰에 서 있습니다.\" 왕이 말하였다. \"들어오게 하라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "시종들이"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "המן",
+      "gloss": "하만이"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "서"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "뜰에"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "들어오게 하라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:23.820516607Z",
+  "model": "glm-5.2"
+}

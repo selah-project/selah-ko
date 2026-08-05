@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 95,
+  "translation": "그의 손 안에 땅의 깊은 곳들이 ⟨있고⟩, 산들의 높은 봉우리들도 그의 것⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손 안에"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "깊은 곳들이"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "그리고 높은 봉우리들도"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "산들의"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그의 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:12.077502869Z",
+  "model": "glm-5.2"
+}

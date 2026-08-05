@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "다윗이 하다드에제르의 종들에게 있던 ⟨את⟩ 금 방패들을 취하여 예루샬라임으로 가져왔다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "금 방패들을"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "방패들을"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "있던"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "하다드에제르의"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "가져왔다"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임으로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:48:20.832896499Z",
+  "model": "glm-5.2"
+}

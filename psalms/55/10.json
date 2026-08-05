@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "아도나이, 삼키소서, 그들의 혀를 나누소서, 대내가 폭력과 다툼을 성 안에서 보았기 때문이다.",
+  "tokens": [
+    {
+      "surface": "בַּלַּ֣ע",
+      "gloss": "삼키소서"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "פַּלַּ֣ג",
+      "gloss": "나누소서"
+    },
+    {
+      "surface": "לְשׁוֹנָ֑ם",
+      "gloss": "그들의 혀를"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "대"
+    },
+    {
+      "surface": "רָאִ֨יתִי",
+      "gloss": "내가 보았기 때문이다"
+    },
+    {
+      "surface": "חָמָ֖ס",
+      "gloss": "폭력과"
+    },
+    {
+      "surface": "וְרִ֣יב",
+      "gloss": "다툼을"
+    },
+    {
+      "surface": "בָּעִֽיר",
+      "gloss": "성 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:28.747417054Z",
+  "model": "glm-5.2"
+}

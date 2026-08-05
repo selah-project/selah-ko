@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 17:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그들이 너를 가르치는 토라의 입술에 따라, 그리고 그들이 네게 말하는 판결에 따라 행하여라. 그들이 네게 알려 줄 말에서 오른쪽으로나 왼쪽으로나 벗어나지 말지어다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "따라"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입술에"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "그들이 너를 가르치는"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 따라"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "판결에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "그들이 말하는"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 행하여라"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "벗어나지 말지어다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "그들이 알려 줄"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른쪽으로나"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "왼쪽으로나"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:11.146685796Z",
+  "model": "glm-5.2"
+}

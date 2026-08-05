@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼 엘로힘이 말씀하셨다. “사람이 홀로 있는 것이 좋지 않다. 내가 그를 위하여 그를 마주하는 돕는 자를 만들리라.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…않다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋지"
+    },
+    {
+      "surface": "היות",
+      "gloss": "있는 것이"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 만들리라"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를 위하여"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "돕는 자"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "그를 마주하는"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:51.055349552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 17:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "코헨 아하론의 아들 엘아자르에게 말하여, 그가 불태워진 자들 사이에서 ⟨את⟩ 불판들을 들어 올리게 하고, ⟨את⟩ 불은 멀리 흩어버리게 하라. 거룩하여졌기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "들어 올리게 하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "불판들을"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "불판들을"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "사이에서"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "불태워진 것에서"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "불은"
+    },
+    {
+      "surface": "האש",
+      "gloss": "불은"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "흩어버리게 하라"
+    },
+    {
+      "surface": "הלאה",
+      "gloss": "멀리"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "거룩하여졌으므로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:38:02.100234203Z",
+  "model": "glm-5.2"
+}

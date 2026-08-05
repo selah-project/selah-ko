@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "슐로모가 ⟨את⟩ 게제르와 ⟨את⟩ 하맛론 아래 것을 건축하였다.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "건축하였다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "게제르"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "게제르"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "베이트 호론"
+    },
+    {
+      "surface": "בית",
+      "gloss": "베이트-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "호론"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "아래 것"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:38.590076219Z",
+  "model": "glm-5.2"
+}

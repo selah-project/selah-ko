@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "네 행위들을 야훼에게 굴리어 맡기라, 그리하면 네 생각들이 굳게 세워지리라.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "굴리어 맡기라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "네 행위들을"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "그리하면 굳게 세워지리라"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "네 생각들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:10.082434415Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "대개 악인에게는 미래가 없을 것이요, 악인들의 등불은 꺼질 것이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없을 것이요"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "있을"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "미래가"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "악인에게는"
+    },
+    {
+      "surface": "נר",
+      "gloss": "등불은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "꺼질 것이기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:47.512408009Z",
+  "model": "glm-5.2"
+}

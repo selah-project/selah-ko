@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼는 ⟨그에게⟩ 좋으시다, ⟨그⟩ 자신을 찾는 네페쉬에게.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "좋으시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "⟨그에게⟩"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "네페쉬에게"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "⟨그⟩ 자신을 찾는"
+    }
+  ],
+  "timestamp": "2026-08-05T12:17:28.655363947Z",
+  "model": "glm-5.2"
+}

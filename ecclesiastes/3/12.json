@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "나는 그들 안에서 좋은 것이 없음을 알았으니, 다만 기뻐하고 좋은 것을 행하는 것이라, 그의 생의 날들에.",
+  "tokens": [
+    {
+      "surface": "יָדַ֕עְתִּי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "알았으니"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "없음을"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "그들"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "안에서"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "것이"
+    },
+    {
+      "surface": "לִשְׂמ֔וֹחַ",
+      "gloss": "다만"
+    },
+    {
+      "surface": "וְלַעֲשׂ֥וֹת",
+      "gloss": "기뻐하고"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "בְּחַיָּֽיו",
+      "gloss": "것을 행하는 것이라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:32.223519292Z",
+  "model": "glm-5.2"
+}

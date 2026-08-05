@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그의 아들은 아마츠야후, 그의 아들은 아자르야, 그의 아들은 요탐이다.",
+  "tokens": [
+    {
+      "surface": "אֲמַצְיָ֧הוּ",
+      "gloss": "아마츠야후"
+    },
+    {
+      "surface": "בְנ֛וֹ",
+      "gloss": "그의 아들은"
+    },
+    {
+      "surface": "עֲזַרְיָ֥ה",
+      "gloss": "아자르야"
+    },
+    {
+      "surface": "בְנ֖וֹ",
+      "gloss": "그의 아들은"
+    },
+    {
+      "surface": "יוֹתָ֥ם",
+      "gloss": "요탐"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:41:41.421540375Z",
+  "model": "glm-5.2"
+}

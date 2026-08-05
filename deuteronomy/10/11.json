@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 야훼께서 내게 말씀하셨다. \"일어나, 행진하여 ⟨그⟩ 백성 앞에서 가거라. 그리하면 그들이 들어가서 ⟨את⟩ 그 땅을 차지하리니 — 그것은 내가 그들의 조상들에게 맹세하여 그들에게 주기로 한 땅이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "קום",
+      "gloss": "일어나라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가거라"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "행진하여"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "~앞에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 들어가서"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "그리고 차지하리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "~것"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "내가 맹세한"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "그들의 조상들에게"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주기로"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:38.218389414Z",
+  "model": "glm-5.2"
+}

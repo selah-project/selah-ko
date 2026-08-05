@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그러므로 ⟨나는⟩ 스스로를 미워하고 위로를 얻으니, 먼지와 재 위에서이다.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כֵּ֭ן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "אֶמְאַ֣ס",
+      "gloss": "미워하나이다"
+    },
+    {
+      "surface": "וְנִחַ֑מְתִּי",
+      "gloss": "그리고 위로를 얻었나이다"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "עָפָ֥ר",
+      "gloss": "먼지"
+    },
+    {
+      "surface": "וָאֵֽפֶר",
+      "gloss": "그리고 재"
+    }
+  ],
+  "timestamp": "2026-08-05T12:14:08.059497938Z",
+  "model": "glm-5.2"
+}

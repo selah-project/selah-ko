@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "다윗이 그에게 말하였다. \"어찌하여 야훼의 마쉬아흐를 멸하려고 당신의 손을 뻗치는 것을 두려워하지 아니하였습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "איך",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "뻗치는 것을"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "당신의 손을"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "멸하려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "마쉬아흐"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "마쉬아흐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:25:23.395392958Z",
+  "model": "glm-5.2"
+}

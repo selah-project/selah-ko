@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "왕이 대답하여 말씀하셨다. \"그 산 아이를 ⟨그녀에게⟩ 주어라. ⟨그리고⟩ 그것을 죽여서는 안 된다. 그녀가 ⟨그의⟩ 어미이다.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "주어라"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨그녀에게⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 산 아이를"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "태어난 아이를"
+    },
+    {
+      "surface": "החי",
+      "gloss": "산"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "⟨그리고⟩ 죽여서는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "안 된다"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "그것을 죽여서는"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀가"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "⟨그의⟩ 어미이다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:16:02.800785270Z",
+  "model": "glm-5.2"
+}

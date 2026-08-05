@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "이스라엘 여인의 아들이 ⟨את⟩ 그 이름을 찌르고 저주하였다. 그들이 그를 모셰에게 데려왔다. 그의 어머니의 이름은 단 지파의 디브리의 딸 셸로미트이다.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "찌르고"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "여인"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 이름"
+    },
+    {
+      "surface": "השם",
+      "gloss": "그 이름"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "저주하였다"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "데려왔다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 이름"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "어머니의"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "셸로미트"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "디브리"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "지파"
+    },
+    {
+      "surface": "דן",
+      "gloss": "단"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:55.284919272Z",
+  "model": "glm-5.2"
+}

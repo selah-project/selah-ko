@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 49,
+  "translation": "그들이 주리지도, 목마르지도 않으며, 폭염도 태양도 그들을 치지 아니하리니, 이는 그들을 불쌍히 여기시는 이가 그들을 인도하시고, 물 샘들 곁으로 그들을 이끄실 것임이라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "그들이 주리지도"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "목마르지도"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "그들을 치지"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "폭염도"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "태양도"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "그들을 불쌍히 여기시는 이가"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "그들을 인도하시고"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ~곁으로"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "샘들"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "그들을 이끄실 것임이라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:20:21.909569481Z",
+  "model": "glm-5.2"
+}

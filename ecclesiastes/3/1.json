@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "모든 것에 정한 때가 있고, 하늘 아래 모든 소원에 때가 있다.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "모든 것에"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "정한 때가"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "그리고 때가"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "소원에"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…아래"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:35.956036150Z",
+  "model": "glm-5.2"
+}

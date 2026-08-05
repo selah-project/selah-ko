@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 24:33",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 ⟨그가⟩ 그의 앞에 먹을 것을 놓으니, 그가 말하였다. \"나는 먹지 않겠다 — 내가 내 말을 말하기 전에는.\" 그가 말하였다. \"말하라.\"",
+  "tokens": [
+    {
+      "surface": "ויישם",
+      "gloss": "그리고 놓으니"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그의 앞에"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹을 것을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹는다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "내가 말하면"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:10.599826020Z",
+  "model": "glm-5.2"
+}

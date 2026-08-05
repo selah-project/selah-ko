@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "마쉬킬, 아삽의. 내 백성아, 내 토라에 귀를 기울여라. 너희 귀를 내 입의 말들에로 기울여라.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "마쉬킬"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "아삽의"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "귀를 기울여라"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성아"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "내 토라에"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "기울여라"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "너희 귀를"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "말들에로"
+    },
+    {
+      "surface": "פי",
+      "gloss": "내 입의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:26.382574811Z",
+  "model": "glm-5.2"
+}

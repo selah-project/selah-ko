@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "할렐루, 야! 야훼는 선하시기 때문이다. 그의 이름을 위하여 노래하라, 그것이 즐거움 ⟨이기⟩ 때문이다.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "선하시"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "노래하라"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "그의 이름을 위하여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "즐거움"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:56.433241205Z",
+  "model": "glm-5.2"
+}

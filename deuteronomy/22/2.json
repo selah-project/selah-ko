@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 만일 네 형제가 네게 가까이 있지 아니하고, 네가 그를 알지 못하면, 너는 그것을 네 집 안으로 거두어들이고, 그것이 너와 함께 있게 하라. 네 형제가 ⟨את⟩ 그것을 찾을 때까지. 그리고 너는 그에게 되돌려 주어야 한다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "가까이 있"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제가"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "네가 그를 알지 못하면"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "너는 거두어들이고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "안"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "네 집"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "있게 하라"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "찾을"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제가"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "너는 되돌려 주어야 한다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:38.997639943Z",
+  "model": "glm-5.2"
+}

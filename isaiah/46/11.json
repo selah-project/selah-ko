@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "해 뜨는 곳에서 독수리를, 먼 땅에서 나의 계획의 사람을 부르신다. 참으로 내가 말하였으니 참으로 그것을 인도하여 오겠고, 내가 빚었으니 참으로 그것을 이루겠다.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "부르신다"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "해 뜨는 곳에서"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "독수리를"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "먼"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "나의 계획의"
+    },
+    {
+      "surface": "אף",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "내가 말하였으니"
+    },
+    {
+      "surface": "אף",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "인도하여 오겠고"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "내가 빚었으니"
+    },
+    {
+      "surface": "אף",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "이루겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:39.093850094Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "⟨그⟩ 입을 지키는 자는 ⟨그⟩ 네페쉬를 지키나, ⟨그⟩ 입술을 벌리는 자에게는 멸망 ⟨이다⟩.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "지키는 자는"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "입을"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "지키나"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "벌리는 자에게는"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "입술을"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "멸망"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:11.214337948Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "아람과 모압과 암몬 자손들과 블레셋 사람들과 아말렉에게서, 그리고 르홉의 아들 하다드에제르, 조바 왕의 노략물에게서.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "아람에게서"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "그리고 모압"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "그리고 …자손들"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "그리고 블레셋 사람들"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "그리고 아말렉에게서"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "그리고 노략물에게서"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "하다드에제르"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "르홉의"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "조바"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:51.485908617Z",
+  "model": "glm-5.2"
+}

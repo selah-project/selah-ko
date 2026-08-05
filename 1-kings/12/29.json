@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 하나는 베이트 엘에 두었고, ⟨את⟩ 하나는 다네 들여놓았다.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "그리고 두었고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하나는"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나는"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "베이트에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하나는"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나를"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "들여놓았다"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "다네"
+    }
+  ],
+  "timestamp": "2026-08-05T09:51:29.001336475Z",
+  "model": "glm-5.2"
+}

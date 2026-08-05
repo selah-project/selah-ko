@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 고메르의 아들들: 아쉬크나즈, 리파트, 토가르마.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "그리고 아들들"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "고메르의"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "아쉬크나즈"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "리파트"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "토가르마"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:14.000749869Z",
+  "model": "glm-5.2"
+}

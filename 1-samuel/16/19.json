@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리하여 샤울이 사자들을 이쉬에게 보내었고, 말하기를 \"⟨아트⟩ 다윗, ⟨그대⟩의 아들인 그를, 양 떼에게 있는 자를 나에게 보내라\" 하였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리하여 … 보내었고"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "사자들을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "이쉬"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "보내라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "아들인"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "양 떼에게 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T18:09:41.079745366Z",
+  "model": "glm-5.2"
+}

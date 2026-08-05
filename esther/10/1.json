@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 그 왕 아하슈에로쉬가 그 땅 위에 그리고 바다의 섬들 위에 부담을 놓으셨다.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "그리고 놓으셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕이"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "아하슈에로쉬가"
+    },
+    {
+      "surface": "מס",
+      "gloss": "부담을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "그리고 섬들"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:58.999368101Z",
+  "model": "glm-5.2"
+}

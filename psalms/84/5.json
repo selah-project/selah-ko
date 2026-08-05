@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "당신의 집에 사는 자들은 복이 있다, 그들이 계속해서 당신을 찬양한다. 셀라.",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "יוֹשְׁבֵ֣י",
+      "gloss": "사는 자들은"
+    },
+    {
+      "surface": "בֵיתֶ֑ךָ",
+      "gloss": "당신의 집에"
+    },
+    {
+      "surface": "ע֝֗וֹד",
+      "gloss": "계속해서"
+    },
+    {
+      "surface": "יְֽהַלְל֥וּךָ",
+      "gloss": "당신을 찬양한다"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:18.921342743Z",
+  "model": "glm-5.2"
+}

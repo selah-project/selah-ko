@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그들은 요셉이 알아듣고 있음을 알지 못하였으니, 통역사가 그들 사이에 있었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하였으니"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "알지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "을"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "알아듣고 있음"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "통역사가"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "그들 사이에 있었기"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:30.935826588Z",
+  "model": "glm-5.2"
+}

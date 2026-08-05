@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "모셰가 ⟨את⟩ 자기 손을 하늘 위로 내밀자, 미츠라임 온 땅에 삼 일 동안 짙은 어둠이 있었다.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "내밀자"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 손을"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "어둠이"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "짙은"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "삼"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T07:51:44.574588353Z",
+  "model": "glm-5.2"
+}

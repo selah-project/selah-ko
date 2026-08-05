@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그러나 만일 살인자가 자기가 도망하였던 그곳, 곧 ⟨את⟩ ⟨그⟩ 도피처 성읍의 경계를 넘어 나가면 —",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "그러나 만일"
+    },
+    {
+      "surface": "יָצֹ֥א",
+      "gloss": "나가면"
+    },
+    {
+      "surface": "יֵצֵ֖א",
+      "gloss": "분명히 나가면"
+    },
+    {
+      "surface": "הָרֹצֵ֑חַ",
+      "gloss": "살인자가"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "경계를"
+    },
+    {
+      "surface": "גְּבוּל֙",
+      "gloss": "경계"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "성읍"
+    },
+    {
+      "surface": "מִקְלָט֔וֹ",
+      "gloss": "그의 도피처"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "곳"
+    },
+    {
+      "surface": "יָנ֖וּס",
+      "gloss": "도망하였던"
+    },
+    {
+      "surface": "שָֽׁמָּה",
+      "gloss": "그곳"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:39.610695255Z",
+  "model": "glm-5.2"
+}

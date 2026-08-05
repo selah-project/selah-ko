@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "히즈키야후가 자기 얼굴을 벽 쪽으로 돌렸고, 야훼께 기도하였다.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "돌렸고"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "히즈키야후가"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "자기 얼굴을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "쪽으로"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "벽"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "기도하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T10:17:22.292187909Z",
+  "model": "glm-5.2"
+}

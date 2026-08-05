@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "보라, 그분이 물들을 가두시면 그것들이 마르며, 그것들을 보내시면 그것들이 땅을 뒤집는다.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "그분이 가두시면"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물들을"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "그것들이 마르며"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "그것들을 보내시면"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "그것들이 뒤집는다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:03.831903116Z",
+  "model": "glm-5.2"
+}

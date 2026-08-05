@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "이 백성은 내가 나를 위하여 빚어 만든 것이다, 그들이 나의 찬양을 선포할 것이다.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "백성은"
+    },
+    {
+      "surface": "זו",
+      "gloss": "이"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "빚어 만들었다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위하여"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "나의 찬양을"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "선포할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:55:07.866474357Z",
+  "model": "glm-5.2"
+}

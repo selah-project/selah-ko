@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "그리고 ⟨את⟩ 왕의 궁과 ⟨את⟩ 백성의 집을 카스딤이 불태웠으며, 또 ⟨את⟩ 예루샬라임의 성벽들을 헐어버렸다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "왕의 궁을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집을"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "백성의 집을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "불태웠다"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "카스딤이"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "예루샬라임의 성벽들을"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "…의 성벽들을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "헐어버렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:41:17.443916815Z",
+  "model": "glm-5.2"
+}

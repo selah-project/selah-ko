@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "나는 악을 행하는 자들의 모임을 미워하였고, 라샤임과 함께 앉지 아니하리이다.",
+  "tokens": [
+    {
+      "surface": "שָׂ֭נֵאתִי",
+      "gloss": "미워하였다"
+    },
+    {
+      "surface": "קְהַ֣ל",
+      "gloss": "모임을"
+    },
+    {
+      "surface": "מְרֵעִ֑ים",
+      "gloss": "악을 행하는 자들의"
+    },
+    {
+      "surface": "וְעִם",
+      "gloss": "그리고 …과 함께"
+    },
+    {
+      "surface": "רְשָׁעִ֗ים",
+      "gloss": "라샤임"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אֵשֵֽׁב",
+      "gloss": "앉으리"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:17.272805577Z",
+  "model": "glm-5.2"
+}

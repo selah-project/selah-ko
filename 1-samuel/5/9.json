@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그것을 옮긴 후에 야훼의 손이 그 성에 임하매 매우 큰 혼란이 있었고, ⟨그가⟩ ⟨את⟩ 그 성의 사람들을 작은 자부터 큰 자까지 치시니, 종기가 그들에게 터졌다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "옮긴"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것을",
+      "marks": "그것"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "임하매"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "그 성에"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "혼란이"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "큰"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "매우"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "치시니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 성의 사람들을"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들을"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성의"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "작은 자부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰 자"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "터졌다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "종기가"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:56.521649393Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 125,
+  "translation": "올라가는 자들의 노래. 야훼를 신뢰하는 자들은 시온 산과 같으니, 흔들리지 아니하고 영원히 거한다.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는 자들의"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "신뢰하는 자들은"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "…산과 같으니"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "시온"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "흔들리지"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "거한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:16.579100693Z",
+  "model": "glm-5.2"
+}

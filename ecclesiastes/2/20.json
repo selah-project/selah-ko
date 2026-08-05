@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 나는 내가 해 아래에서 수고한 ⟨את⟩ 모든 수고로 인하여 ⟨את⟩ 내 마음이 절망하게 하려 돌이켰다.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "그리고 돌이켰다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "절망하게 하려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 마음"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "내 마음이"
+    },
+    {
+      "surface": "על",
+      "gloss": "인하여"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "수고"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "내가 수고한"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:40.727073113Z",
+  "model": "glm-5.2"
+}

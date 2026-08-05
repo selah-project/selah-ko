@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그는 왕들을 조롱하며, 통치자들은 그에게 놀음거리이다. 그는 모든 요새를 비웃으며, 흙을 쌓아 올려 그것을 점령한다.",
+  "tokens": [
+    {
+      "surface": "וְהוּא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "בַּמְּלָכִים",
+      "gloss": "왕들을"
+    },
+    {
+      "surface": "יִתְקַלָּס",
+      "gloss": "조롱하며"
+    },
+    {
+      "surface": "וְרֹזְנִים",
+      "gloss": "통치자들은"
+    },
+    {
+      "surface": "מִשְׂחָק",
+      "gloss": "놀음거리"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מִבְצָר",
+      "gloss": "요새를"
+    },
+    {
+      "surface": "יִשְׂחָק",
+      "gloss": "비웃으며"
+    },
+    {
+      "surface": "וַיִּצְבֹּר",
+      "gloss": "쌓아 올려"
+    },
+    {
+      "surface": "עָפָר",
+      "gloss": "흙을"
+    },
+    {
+      "surface": "וַיִּלְכְּדָהּ",
+      "gloss": "그것을 점령한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:12.015703457Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "네 머리 위에 있는 네 하늘은 놋이 되고, 네 아래에 있는 땅은 철이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "되고"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "네 하늘은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "네 머리"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "놋이"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "그리고 땅은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "네 아래에 있는"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:49.515427615Z",
+  "model": "glm-5.2"
+}

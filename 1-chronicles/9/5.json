@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 실로니 ⟨자손⟩에게서 ⟨온 자는⟩ 아사야 장자와 그의 아들들이었다.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "그리고 ~에게서"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "실로니"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "아사야"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "장자"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그리고 그의 아들들"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:49.234537961Z",
+  "model": "glm-5.2"
+}

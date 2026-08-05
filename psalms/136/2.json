@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "엘로힘들의 엘로힘께 감사하라, 그의 헤세드는 영원하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "감사하라"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "엘로힘들-의"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "그 엘로힘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:10.168618952Z",
+  "model": "glm-5.2"
+}

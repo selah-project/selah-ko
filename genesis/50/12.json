@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "그의 아들들이 그에게 그리 하였다, 그가 그들에게 명한 대로.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그들이 만들었다"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들이"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그리"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…대로"
+    },
+    {
+      "surface": "צום",
+      "gloss": "그가 그들에게 명한"
+    }
+  ],
+  "timestamp": "2026-08-05T13:35:13.547422259Z",
+  "model": "glm-5.2"
+}

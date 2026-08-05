@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "사람마다 ⟨את⟩ 그의 동료를 도우며, 그의 형제에게 말한다. \"강해져라.\"",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "사람마다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 동료를"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "그의 동료"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "도우며"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "그의 형제에게"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "강해져라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:24.209070632Z",
+  "model": "glm-5.2"
+}

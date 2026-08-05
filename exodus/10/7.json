@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "파르오의 종들이 그에게 말하였다. “이것이 언제까지 우리에게 덫이 되겠습니까? 그 사람들을 보내어 그들의 엘로힘이신 야훼를 섬기게 하십시오. 미츠라임이 망하였다는 것을 아직 모르십니까?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들이"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "되겠습니까"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "덫이"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람들"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들을"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "그리고 섬기게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "그들의 엘로힘이신"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "아직"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "모르십니까"
+    },
+    {
+      "surface": "כי",
+      "gloss": "것을"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "망하였다는"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:43.608860349Z",
+  "model": "glm-5.2"
+}

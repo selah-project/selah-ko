@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 9:13",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 시내이 산 위에 내려오셔서, 그들과 하늘에서부터 말씀하셨다. 그리고 그들에게 바른 판결들과 진실의 토라들, 좋은 규례들과 계명들을 주셨다.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "그리고 … 위에"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "시내이"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "내려오셨다"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "그들과"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "하늘에서부터"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "그리고 주셨다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "판결들"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "바른"
+    },
+    {
+      "surface": "ותורות",
+      "gloss": "그리고 토라들"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "진실의"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "규례들"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "그리고 계명들"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "좋은"
+    }
+  ],
+  "timestamp": "2026-08-05T12:37:44.192257316Z",
+  "model": "glm-5.2"
+}

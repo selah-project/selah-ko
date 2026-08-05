@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "\"실 오라기에서부터 신끈까지, 그리고 만일 네 것 중 모든 것에서 내가 ⟨무엇이든⟩ 가져간다면, 그리하여 네가 '나는 아브라함을 부유하게 ⟨하였다⟩' 하고 말하지 못하게 하려는 것이다.\"",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "실 오라기에서부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 …까지"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "신끈"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "신의"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "내가 ⟨무엇이든⟩ 가져간다면"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 것에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "네가 말하지"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "부유하게 ⟨하였다⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아브라함"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:35.668980460Z",
+  "model": "glm-5.2"
+}

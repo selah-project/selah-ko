@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "열국들 가운데서 보라, 그리고 살피어라, 그리고 크게 놀라, 놀라라. 너희 날들에 한 일이 행하여지고 있으니, 그것이 말하여져도 너희가 믿지 아니할 것이다.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "보라"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "열국들 가운데서"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "그리고 살피어라"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "그리고 크게 놀라"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "놀라라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "일"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "행하여지고 있으니"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "너희 날들에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니할"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "너희가 믿지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "말하여져도"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:25.555231961Z",
+  "model": "glm-5.2"
+}

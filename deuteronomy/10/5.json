@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 내가 돌이켜 그 산에서 내려와 ⟨את⟩ 그 판들을 내가 만든 궤에 두었더니, 그것들이 거기 있게 되었다, 야훼께서 나에게 명하신 것처럼.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "그리고 내가 돌이켜"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "내가 내려와"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "그리고 내가 두었더니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 판들을"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "그 판들을"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "궤에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것을⟩"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "내가 만든"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "그것들이 있게 되었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "처럼"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "명하신 것"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서 나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:15.576289326Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야훼는 홍수 위에 앉으셨고, 야훼는 영원토록 왕으로 앉으신다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "홍수 위에"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "앉으셨고"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "앉으신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕으로"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원토록"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:56.444680446Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "내가 이르러 ⟨את⟩ 너희를 너희 땅과 같은 땅으로, 곧 곡물과 포도주의 땅으로, 빵과 포도원의 땅으로 데려가리라.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "באי",
+      "gloss": "내가 이르러"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "데려가리라"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "너희 땅과 같은"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "곡물"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "포도주"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "포도원"
+    }
+  ],
+  "timestamp": "2026-08-05T13:53:53.493757868Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "obadiah 1:18",
+  "book": "obadiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 야곱의 집은 불이 될 것이며, 요셉의 집은 불꽃이 되고, 에사브의 집은 짚이 되어, 그들이 그들에게 불을 붙여 그들을 삼킬 것이며, 에사브의 집에는 생존자가 없을 것인즉, 이는 야훼께서 말씀하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ── 될 것이다"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "그리고 ⟨그⟩ 집"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "불꽃"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "그리고 ⟨그⟩ 집"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "짚"
+    },
+    {
+      "surface": "ודלקו",
+      "gloss": "그리고 ── 불을 붙일 것이다"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ואכלום",
+      "gloss": "그리고 ── 그들을 삼킬 것이다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 없을 것이다"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "── 될 것이다"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "생존자"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨그⟩ 집에"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는 ── 때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:16.944770704Z",
+  "model": "glm-5.2"
+}

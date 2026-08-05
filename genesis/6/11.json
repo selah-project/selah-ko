@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "땅이 엘로힘 앞에서 부패하였고, 땅이 폭력으로 가득하였다.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "부패하였고"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "가득하였다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:39.544949498Z",
+  "model": "glm-5.2"
+}

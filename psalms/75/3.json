@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 75,
+  "translation": "내가 정한 때를 취하면, 나 곧 내가 공평하게 판단하리이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…하면"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "내가 취하면"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "정한 때를"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나 곧 내가"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "공평하게"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "판단하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:10.233844829Z",
+  "model": "glm-5.2"
+}

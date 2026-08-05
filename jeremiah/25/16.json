@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그들이 마시고, 흔들리며, 미치리니, 내가 그들 가운데 보내는 칼 때문이다.",
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "그들이 마시고"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "흔들리며"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "미치리니"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내는"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "그들 가운데"
+    }
+  ],
+  "timestamp": "2026-08-05T10:35:21.576548384Z",
+  "model": "glm-5.2"
+}

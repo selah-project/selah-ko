@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "참으로 影像 안을 걷는 사람, 참으로 헛되이 시끄럽게 떠드는도다. 모아 쌓아도 누가 그것들을 거둘지 모르니.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "影像 안을"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "걷는"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "אך",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헛되이"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "시끄럽게 떠드는도다"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "모아 쌓아도"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "모르니"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "그것들을 거둘지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:09.779557409Z",
+  "model": "glm-5.2"
+}

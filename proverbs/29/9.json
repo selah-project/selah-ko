@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "지혜로운 사람이 ⟨את⟩ 어리석은 사람과 재판을 벌이면, 그가 분노하든지 웃든지 ⟨안식⟩이 없다.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜로운"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "재판을 벌이면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "어리석은 사람"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "어리석은"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "분노하든지"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "웃든지"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "안식"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:56.649155416Z",
+  "model": "glm-5.2"
+}

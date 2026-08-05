@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "동쪽으로 그가 살았다, 광야 입구까지, 그 강 프랏에서부터, 이는 그들의 가축이 길앗드 땅에서 번성하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "동쪽으로"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "살았다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "입구"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "광야의"
+    },
+    {
+      "surface": "למן",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "그 강"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "프랏"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "그들의 가축이"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "번성하였기"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "길앗드"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:38.855600570Z",
+  "model": "glm-5.2"
+}

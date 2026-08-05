@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"이 아바림 산으로 올라가서, 내가 이스라엘 자손들에게 준 ⟨את⟩ 그 땅을 보아라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "아바림"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "그리고 보아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 준"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…의 자손들에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:44:48.032534245Z",
+  "model": "glm-5.2"
+}

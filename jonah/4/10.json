@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "야훼께서 말씀하셨다. \"너는 그 박씨를 불쌍히 여겼다 — 네가 그것을 위하여 수고하지도 않았고, 네가 그것을 자라게 하지도 않았다. 그것은 하룻밤에 생겼다가 하룻밤에 멸망하였는데 —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "불쌍히 여겼다"
+    },
+    {
+      "surface": "על",
+      "gloss": "을"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "그 박씨"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 않았다"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "수고"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지 않았다"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "자라게"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "하룻밤"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤"
+    },
+    {
+      "surface": "היה",
+      "gloss": "생겼다가"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "하룻밤"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "멸망하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:39.462199169Z",
+  "model": "glm-5.2"
+}

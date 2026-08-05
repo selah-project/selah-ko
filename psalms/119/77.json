@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "주의 긍휼히 여기심이 ⟨나에게⟩ 임하여 내가 살게 하소서. 주의 토라는 나의 즐거움임 ⟨이라⟩.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "임하여"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "주의 긍휼히 여기심이"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "그리고 내가 살게 하소서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이라"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "주의 토라는"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "나의 즐거움"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:10.463001010Z",
+  "model": "glm-5.2"
+}

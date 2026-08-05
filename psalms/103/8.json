@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "자비하시고 은혜로우신 야훼, 노하심에 더디시며 헤세드가 크시도다.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "자비하시고"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "은혜로우신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "더디시며"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "노하심에"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "크시도다"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:18.263722596Z",
+  "model": "glm-5.2"
+}

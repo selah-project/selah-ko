@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "야훼는 영원히 송축받으실 이시다. 아멘, 그리고 아멘.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "송축받으실 이시다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "그리고 아멘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:23.672651403Z",
+  "model": "glm-5.2"
+}

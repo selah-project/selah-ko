@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "도둑을 보면 그와 함께 달려가며, 간음하는 자들과 ⟨함께⟩ 네 몫이 되었다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "보면"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "도둑을"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "달려가며"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "그리고 ⟨…⟩ 와 함께"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "간음하는 자들"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "네 몫이 되었다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:24.750837476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "‘그러므로 ⟨내가⟩ ⟨그⟩ 너를 만나려고 나아왔고, ⟨그⟩ 네 얼굴을 찾아 ⟨그⟩ 너를 찾았노라.’",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כֵּ֭ן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "יָצָ֣אתִי",
+      "gloss": "나아왔고"
+    },
+    {
+      "surface": "לִקְרָאתֶ֑ךָ",
+      "gloss": "너를 만나려고"
+    },
+    {
+      "surface": "לְשַׁחֵ֥ר",
+      "gloss": "찾아"
+    },
+    {
+      "surface": "פָּ֝נֶ֗יךָ",
+      "gloss": "네 얼굴을"
+    },
+    {
+      "surface": "וָאֶמְצָאֶֽךָּ",
+      "gloss": "너를 찾았노라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:42.187805991Z",
+  "model": "glm-5.2"
+}

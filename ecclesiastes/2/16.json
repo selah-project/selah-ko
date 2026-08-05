@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "지혜로운 자에게는 영원히, 어리석은 자와 함께 기억이 남아 있지 않기 때문이다. 이미 지나간 날들에 모든 것이 잊히기 때문이다. 그리고 지혜로운 자가 어찌 어리석은 자와 함께 죽는가!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없기 때문이다"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "기억이"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "지혜로운 자에게"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "어리석은 자"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "이미"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날들에"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "오는"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "모든 것이"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "잊힌다"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "그리고 어찌"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽는가"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "지혜로운 자가"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "어리석은 자"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:50.344172427Z",
+  "model": "glm-5.2"
+}

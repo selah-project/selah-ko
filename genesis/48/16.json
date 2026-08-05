@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "모든 악에서 ⟨את⟩ 나를 구속하신 그 천사, ⟨את⟩ 소년들을 축복하소서. 그리고 그들 안에 나의 이름과 나의 조상들 아브라함과 이삭의 이름이 불리게 하소서. 그리고 그들이 땅 한가운데서 크게 번성하게 하소서.”",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "그 천사"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "구속하신"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악에서"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "축복하소서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "소년들을"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "소년들을"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불리게 하소서"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들 안에"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "나의 이름이"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 — 이름"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "나의 조상들"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함과"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "이삭의"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "번성하게 하소서"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "크게"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:33.326548213Z",
+  "model": "glm-5.2"
+}

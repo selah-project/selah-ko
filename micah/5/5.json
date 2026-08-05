@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 그들은 ⟨את⟩ 아슈르 땅을 칼로, 그리고 ⟨את⟩ 님로드 땅을 그 입구들에서 양 떼처럼 다스리리니, 아슈르가 우리 땅에 들어오며 우리 경계를 밟을 때에 그가 아슈르의 손에서 건져 내실 것이다.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "그리고 그들은 다스리리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아슈르 땅"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "칼로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "님로드 땅"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "님로드"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "그 입구들에서"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "그리고 건져 내실 것이다"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "아슈르의 손에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때에"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "들어오며"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "우리 땅에"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "밟을"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "우리 경계를"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:13.067027958Z",
+  "model": "glm-5.2"
+}

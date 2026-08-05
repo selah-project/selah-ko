@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "네가 심던 날에 너는 울타리를 치고, 아침에 네 씨를 피어나게 할 것이나, 거둘 때에는 고통과 고칠 수 없는 슬픔이 있을 것이다.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "～에 날"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "네 심음"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "너는 울타리 칠 것이다"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "그리고 아침에"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 씨를"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "너는 피어나게 할 것이다"
+    },
+    {
+      "surface": "נד",
+      "gloss": "거둘 때에"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "추수"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "～에 날"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "질병"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "그리고 고통"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "고칠 수 없는"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:55.118036089Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "지혜로운 자의 입의 말들은 헨이요, 미련한 자의 입술은 그를 삼킨다.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "말들은"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "입의"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "지혜로운 자의"
+    },
+    {
+      "surface": "חֵן",
+      "gloss": "헨이다"
+    },
+    {
+      "surface": "וְשִׂפְתוֹת",
+      "gloss": "입술은"
+    },
+    {
+      "surface": "כְּסִיל",
+      "gloss": "미련한 자의"
+    },
+    {
+      "surface": "תְּבַלְעֶנּוּ",
+      "gloss": "그를 삼킨다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:55.666581277Z",
+  "model": "glm-5.2"
+}

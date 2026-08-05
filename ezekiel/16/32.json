@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그 간음하는 여인이여! 그녀는 ⟨자기⟩ 남편 대신 낯선 자들을 받는다.",
+  "tokens": [
+    {
+      "surface": "הָאִשָּׁ֖ה",
+      "gloss": "여인이여"
+    },
+    {
+      "surface": "הַמְנָאָ֑פֶת",
+      "gloss": "간음하는 그"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "대신"
+    },
+    {
+      "surface": "אִישָׁ֔הּ",
+      "gloss": "남편"
+    },
+    {
+      "surface": "תִּקַּ֖ח",
+      "gloss": "받는다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "낯선 자들을"
+    },
+    {
+      "surface": "זָרִֽים",
+      "gloss": "낯선 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T13:59:23.730687226Z",
+  "model": "glm-5.2"
+}

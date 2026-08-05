@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "뱀이 주술 없이 물면, 혀의 소유자에게는 유익이 없다.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יִשֹּׁךְ",
+      "gloss": "물면"
+    },
+    {
+      "surface": "הַנָּחָשׁ",
+      "gloss": "뱀이"
+    },
+    {
+      "surface": "בְּלוֹא",
+      "gloss": "없이"
+    },
+    {
+      "surface": "לַחַשׁ",
+      "gloss": "주술"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "יִתְרוֹן",
+      "gloss": "유익이"
+    },
+    {
+      "surface": "לְבַעַל",
+      "gloss": "소유자에게"
+    },
+    {
+      "surface": "הַלָּשׁוֹן",
+      "gloss": "혀의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:55.666500048Z",
+  "model": "glm-5.2"
+}

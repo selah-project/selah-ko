@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 45:22",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "그들 모두에게, 각 사람에게 옷 한 벌씩을 주었다. 그리고 베냐민에게는 은 삼백과 옷 다섯 벌을 주었다.",
+  "tokens": [
+    {
+      "surface": "לכלם",
+      "gloss": "그들 모두에게"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "각 사람에게"
+    },
+    {
+      "surface": "חלפות",
+      "gloss": "갈아입을"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "옷을"
+    },
+    {
+      "surface": "ולבנימן",
+      "gloss": "그리고 베냐민에게는"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "셋"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "그리고 다섯"
+    },
+    {
+      "surface": "חלפת",
+      "gloss": "갈아입을"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "옷"
+    }
+  ],
+  "timestamp": "2026-08-05T17:09:45.182538481Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 나는 두루마리에 쓰고, 봉인하고, 증인들을 부르고, 저울로 그 은을 달았다.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "그리고 나는 썼다"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "두루마리에"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "그리고 봉인했다"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "그리고 증인들을 불렀다"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "증인들"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "그리고 나는 달았다"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "그 은을"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "저울로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:38:31.445115490Z",
+  "model": "glm-5.2"
+}

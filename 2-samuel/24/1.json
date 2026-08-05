@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 야훼의 진노가 이스라엘을 향해 타오르는 것이 더해졌고, 그분이 그들 가운데서 ⟨את⟩ 다윗을 움직이사 말씀하셨다. \"가서, 이스라엘을 계수하고 ⟨את⟩ 유다도 ⟨그렇게 하라⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "그리고 더해졌다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "진노가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "타오르는 것이"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘을 향해"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "그리고 움직이사"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들 가운데서"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "계수하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "유다도"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다도"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:30.961278933Z",
+  "model": "glm-5.2"
+}

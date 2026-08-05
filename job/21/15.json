@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "\"샤다이가 무엇이기에 우리가 그를 섬기는가. 그리고 우리가 그에게 간구할 때 무엇이 유익한가.\"",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무엇이기에"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "우리가 그를 섬기는가"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그리고 무엇이"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "유익한가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "우리가 간구할"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:06:37.982693832Z",
+  "model": "glm-5.2"
+}

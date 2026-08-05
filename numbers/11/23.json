@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"야훼의 손이 짧은가? 이제 네가 ⟨그것을⟩ 볼 것이다 — 내 말이 네게 이루어지는지 아닌지를.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "היד",
+      "gloss": "손이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "짧은가"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "네가 볼 것이다"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "네게 이루어지는지"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말이"
+    },
+    {
+      "surface": "אם",
+      "gloss": "인지"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닌지"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:59.281474166Z",
+  "model": "glm-5.2"
+}

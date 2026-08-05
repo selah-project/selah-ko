@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그의 형제들이 보았다 — 그들의 아버지가 그의 모든 형제들보다 ⟨את⟩ 그를 사랑한다는 것을. 그들이 ⟨את⟩ 그를 미워하였다. 그리고 능히 그에게 평화롭게 말하지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…다는 것을"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑한다"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "그들의 아버지가"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…보다"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 모든 형제들"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "미워하였다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…못하였다"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "능히"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "말하지"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "평화롭게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:07.162826908Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야곱은 홀로 남겨졌다. 그리고 ⟨한⟩ 사람이 그와 함께 씨름하였다 — 새벽이 떠오르기까지.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "남겨졌다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "그리고 씨름하였다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "떠오르기"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "새벽이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:02.845824438Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "내가 ⟨את⟩ 아하브의 집을 아비야의 아들 여로보암의 집같이, 또 아히야의 아들 바아사의 집같이 주었으니",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "내가 … 주었으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아하브의 집을"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브의"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "… 집같이"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "여로보암의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "네밧의"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "또 … 집같이"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "바아사의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "아히야의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:20.376209566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "영원한 경계를 옮기지 말며, 고아들의 밭에 들어가지 말아라.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "말아라"
+    },
+    {
+      "surface": "תַּ֭סֵּג",
+      "gloss": "옮기지"
+    },
+    {
+      "surface": "גְּב֣וּל",
+      "gloss": "경계를"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "וּבִשְׂדֵ֥י",
+      "gloss": "~에 들어가지 말며"
+    },
+    {
+      "surface": "יְתוֹמִ֗ים",
+      "gloss": "고아들의"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "말아라"
+    },
+    {
+      "surface": "תָּבֹֽא",
+      "gloss": "들어가지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:02.312127697Z",
+  "model": "glm-5.2"
+}

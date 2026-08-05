@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 여호수아가 아침에 일찍 일어났고, 코헨들이 ⟨את⟩ 야훼의 아론을 메었다.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "그리고 일찍 일어났고"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아가"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "아침에"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "메었다"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아론"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "아론을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:05:02.433918534Z",
+  "model": "glm-5.2"
+}

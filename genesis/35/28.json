@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "이츠하크의 날이 100년 그리고 80년이었다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "그리고 …이었다"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…의 날이"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이츠하크"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "100"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "그리고 80"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:54.437499298Z",
+  "model": "glm-5.2"
+}

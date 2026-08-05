@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "화가 ⟨있다⟩, 불의한 규정을 제정하는 자들에게, 곧 고된 것을 기록하는 자들에게, ⟨그들이⟩ 기록하였다.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "제정하는 자들에게"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "규정을"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의한"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "그리고 기록하는 자들에게"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "고된 것을"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "기록하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:07.490189630Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "야훼의 얼굴은 악을 행하는 자들을 향하시어, 그들의 기억을 땅에서 끊어버리려 하신다.",
+  "tokens": [
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "얼굴은"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בְּעֹ֣שֵׂי",
+      "gloss": "행하는 자들을"
+    },
+    {
+      "surface": "רָ֑ע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "לְהַכְרִ֖ית",
+      "gloss": "끊어버리려"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "זִכְרָֽם",
+      "gloss": "그들의 기억을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:15.298527334Z",
+  "model": "glm-5.2"
+}

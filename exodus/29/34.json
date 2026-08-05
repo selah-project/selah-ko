@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 만일 성임의 고기와 빵에서 아침까지 남는 것이 있으면, 너는 ⟨את⟩ 남은 것을 불에 태워야 한다. 그것은 먹지 못한다. 거룩한 것이기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "남으면"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "…에서 고기"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "성임의"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "그리고 …에서"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "빵"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "너는 태워야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "남은 것"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "남은 것"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹을 수 있다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한 것"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:45.262475222Z",
+  "model": "glm-5.2"
+}

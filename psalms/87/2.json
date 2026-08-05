@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 87,
+  "translation": "야훼께서는 쯔욘의 문들을 사랑하시며, 야곱의 모든 거처들보다 ⟨더하시다⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "사랑하시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서는"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "문들을"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "쯔욘의"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "거처들보다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:17.924031180Z",
+  "model": "glm-5.2"
+}

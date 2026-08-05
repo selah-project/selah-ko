@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그의 관리들과 그의 용사들과 함께 도시 밖에 있는 샘들의 물을 막고자 의논하였고, 그들이 그를 도왔다.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "그리고 의논하였다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "그의 관리들"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "그리고 그의 용사들"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "막고자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "물"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "…의 물"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "그 샘들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "밖에"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "도시"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "그리고 그들이 그를 도왔다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:01:58.060539385Z",
+  "model": "glm-5.2"
+}

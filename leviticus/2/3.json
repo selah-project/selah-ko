@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 그 민하 가운데 남은 것은 아하론과 그의 아들들의 것이니, 그것은 야훼의 불 제물들 중에서도 거룩 중의 거룩이다.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "그리고 남은 것은"
+    },
+    {
+      "surface": "מן",
+      "gloss": "가운데"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "그 민하"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아하론과"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "그의 아들들의 것이니"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩 중의 거룩이다"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "불 제물들 중에서도"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:11:39.310843367Z",
+  "model": "glm-5.2"
+}

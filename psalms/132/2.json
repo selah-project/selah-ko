@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 132,
+  "translation": "그가 야훼께 맹세하고, 야곱의 강하신 이에게 서원하였으니 —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "맹세하고"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "서원하였으니"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "강하신 이에게"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:45.635483189Z",
+  "model": "glm-5.2"
+}

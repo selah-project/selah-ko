@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 가축을 치는 자는 그것을 갚을 것이요, 사람을 치는 자는 죽임을 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "그리고 치는 자는"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "가축을"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "그것을 갚을 것이요"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "치는 자는"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람을"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽임을 당할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:48.183822725Z",
+  "model": "glm-5.2"
+}

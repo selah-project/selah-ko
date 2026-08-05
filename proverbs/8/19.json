@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "나의 열매는 순금보다 좋고, 정은보다 나으며, 나의 수확은 택한 은보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "좋다"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "나의 열매는"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "순금보다"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "정은보다 나으며"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "나의 수확은"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "은보다"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "택한"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:24.881301366Z",
+  "model": "glm-5.2"
+}

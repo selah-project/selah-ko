@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "형제들에게 '내 백성'이라 말하고, 자매들에게 '루하마'라 말하라.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "형제들에게"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "그리고 자매들에게"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "루하마"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:07.935873966Z",
+  "model": "glm-5.2"
+}

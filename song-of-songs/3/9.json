@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "가마를, 샬로모 왕이 자신을 위해 만들었으니, 레바논의 나무들로 ⟨만들었다⟩.",
+  "tokens": [
+    {
+      "surface": "אַפִּרְיוֹן",
+      "gloss": "가마를"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "자신을 위해"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "שְׁלֹמֹה",
+      "gloss": "샬로모"
+    },
+    {
+      "surface": "מֵעֲצֵי",
+      "gloss": "나무들로"
+    },
+    {
+      "surface": "הַלְּבָנוֹן",
+      "gloss": "레바논의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:09.448516238Z",
+  "model": "glm-5.2"
+}

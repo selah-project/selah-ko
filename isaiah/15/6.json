@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "님림의 물들이 황무지가 되었으니, 마른 풀과 사라진 어린풀과 푸른 것이 없기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מֵי",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "נִמְרִים",
+      "gloss": "님림의"
+    },
+    {
+      "surface": "מְשַׁמּוֹת",
+      "gloss": "황무지가"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "되었으니"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יָבֵשׁ",
+      "gloss": "마른"
+    },
+    {
+      "surface": "חָצִיר",
+      "gloss": "풀과"
+    },
+    {
+      "surface": "כָלָה",
+      "gloss": "사라진"
+    },
+    {
+      "surface": "דֶּשֶׁא",
+      "gloss": "어린풀과"
+    },
+    {
+      "surface": "יֶרֶק",
+      "gloss": "푸른 것이"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "없기"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "때문이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:15:34.776672686Z",
+  "model": "glm-5.2"
+}

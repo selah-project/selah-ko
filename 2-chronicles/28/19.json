@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "이는 야훼께서 ⟨את⟩ 유다를 낮추셨기 때문이다, 이스라엘 왕 아하즈로 인하여. 그가 유다에서 절제를 풀어버렸으며, 야훼께 크게 배신하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "낮추셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다를"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "아하즈"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "절제를 풀어버렸으며"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "유다에서"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "크게"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "배신하였기"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼께"
+    }
+  ],
+  "timestamp": "2026-08-05T13:00:27.825360363Z",
+  "model": "glm-5.2"
+}

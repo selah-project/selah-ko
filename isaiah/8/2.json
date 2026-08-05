@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 내가 나를 ⟨위해⟩ 신실한 증인들을 세원하리니 — ⟨את⟩ 코헨 우리야와 ⟨את⟩ 여브레키야후의 아들 즈카르야를.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "증인을 세우리라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 ⟨위해⟩"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "증인들을"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "신실한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "코헨 우리야"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "우리야"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "즈카르야"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "즈카르야를"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "여브레키야후의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:42.080309624Z",
+  "model": "glm-5.2"
+}

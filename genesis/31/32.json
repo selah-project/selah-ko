@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 31:32",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그대가 ⟨את⟩ 그대의 엘로힘을 누구에게서 찾든, 그는 살지 못한다. 우리 형제들 앞에서 ⟨그대⟩ ⟨스스로⟩ 알아보라 — 무엇이 나와 함께 있는지 — 그리고 그것을 그대에게로 가져가라. 그러나 야곱은 라헬이 그것들을 훔쳤다는 것을 알지 못하였다.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "누구를"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "찾든"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그대의 엘로힘을"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "그대의 엘로힘을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못한다"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "살지"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "우리 형제들"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "알아보라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "나와 함께 있다"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "그리고 가져가라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게로"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "알지 못하였다"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "라헬이 ~라는것을"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "라헬이"
+    },
+    {
+      "surface": "גנבתם",
+      "gloss": "훔쳤다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:47.330820955Z",
+  "model": "glm-5.2"
+}

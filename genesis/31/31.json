@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "야곱이 대답하여 라반에게 말하였다. 내가 두려워하였기 때문이다 — 내가 말하였기 때문이다, 그대가 ⟨아마도⟩ ⟨את⟩ 그대의 딸들을 내게서 빼앗을까 하여.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "대답하여"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "라반에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "내가 두려워하였기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "내가 말하였기"
+    },
+    {
+      "surface": "פן",
+      "gloss": "아마도"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "빼앗을까하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그대의 딸들을"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "그대의 딸들을"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "내게서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:56:47.330602866Z",
+  "model": "glm-5.2"
+}

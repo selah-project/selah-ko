@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "그들의 죄악 위에 죄악을 더하시고, 그들이 그대의 체다카 안으로 들어오지 못하게 하소서.",
+  "tokens": [
+    {
+      "surface": "תְּֽנָה",
+      "gloss": "더하시고"
+    },
+    {
+      "surface": "עָ֭וֺן",
+      "gloss": "죄악을"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "עֲוֺנָ֑ם",
+      "gloss": "그들의 죄악"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "하지"
+    },
+    {
+      "surface": "יָ֝בֹ֗אוּ",
+      "gloss": "들어오지 못하게"
+    },
+    {
+      "surface": "בְּצִדְקָתֶֽךָ",
+      "gloss": "그대의 체다카 안으로"
+    }
+  ],
+  "timestamp": "2026-08-05T14:03:41.143537557Z",
+  "model": "glm-5.2"
+}

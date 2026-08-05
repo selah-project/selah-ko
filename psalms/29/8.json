@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야훼의 소리가 광야를 뒤흔드시나니, 야훼께서 카데스 광야를 뒤흔드신다.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "뒤흔드시나니"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야를"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "뒤흔드신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야를"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "카데스"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:07.936125104Z",
+  "model": "glm-5.2"
+}

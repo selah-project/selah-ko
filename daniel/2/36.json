@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "이것이 그 꿈이며, 그것의 풀이를 우리가 왕 앞에서 말씀드리겠습니다.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "그 꿈이며"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "그리고 그것의 풀이를"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "우리가 말씀드리겠습니다"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "～앞에서"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "왕"
+    }
+  ],
+  "timestamp": "2026-08-05T12:25:56.233019886Z",
+  "model": "glm-5.2"
+}

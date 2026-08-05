@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 내 아버지 다윗의 마음에 있었다 — 야훼 이스라엘의 엘로힘의 이름을 위해 집을 건축하려고.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ~였다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "~함께"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "마음"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "건축하려고"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "~이름을 위해"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:53:23.574666775Z",
+  "model": "glm-5.2"
+}

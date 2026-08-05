@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "만일 당신이 ⟨את⟩ 이 일을 행하면, 그리고 엘로힘이 당신에게 명하시면, 당신이 견딜 수 있을 것이며, 이 온 백성도 자기 자리로 샬롬으로 갈 것이다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 일"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "당신이 … 행하면"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "그리고 … 명하시면"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "그리고 … 수 있을 것이며"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "견딜"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성도"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "על",
+      "gloss": "…로"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "자기 자리"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "갈 것이다"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "샬롬으로"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:43.933577284Z",
+  "model": "glm-5.2"
+}

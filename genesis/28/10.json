@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "야곱이 브엘-셰바에서 나와 하란을 향하여 갔다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나와"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "브엘-에서"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "셰바"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "하란을 향하여"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:43.342938226Z",
+  "model": "glm-5.2"
+}

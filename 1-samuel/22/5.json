@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 나비 가드가 다윗에게 말하였다. \"그 요새에 머물지 말고, 가서 ⟨당신⟩은 유다 땅으로 들어가라.\" 그래서 다윗이 가서 하레트 숲에 이르렀다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "גד",
+      "gloss": "가드가"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "머물"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "그 요새에"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "그리고 들어가라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨당신⟩은"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅으로"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그래서 갔다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 이르렀다"
+    },
+    {
+      "surface": "יער",
+      "gloss": "숲에"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "하레트"
+    }
+  ],
+  "timestamp": "2026-08-05T17:20:31.917347278Z",
+  "model": "glm-5.2"
+}

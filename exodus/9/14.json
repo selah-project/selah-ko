@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "이는 이번에 내가 ⟨את⟩ 모든 재앙을 보내어 네 마음과 네 종들과 네 백성에게 내릴 것이기 때문이다. 그리하여 네가 알게 되리니, 온 땅에 나와 같은 이가 없음을.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "…번에"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 재앙을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "나의 재앙"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "네 마음"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "그리고 네 종들에게"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "그리고 네 백성에게"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "…위하여"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "네가 알게 되리니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…을"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없음을"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "나와 같은 이가"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온 …에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T07:50:16.447624649Z",
+  "model": "glm-5.2"
+}

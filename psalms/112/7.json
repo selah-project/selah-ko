@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 112,
+  "translation": "나쁜 소식을 ⟨들어도⟩ 그가 두려워하지 아니하니, 그의 마음이 굳건하여 야훼를 신뢰함이다.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "소식을"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "나쁜"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "굳건하여"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음이"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "신뢰함"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:35.475401263Z",
+  "model": "glm-5.2"
+}

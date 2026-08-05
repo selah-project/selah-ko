@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 34:33",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "그가 너와 함께 ⟨그것을⟩ 갚으시리요, ⟨그것은⟩ 네가 버렸기 때문인가? ⟨그것은⟩ 네가 선택하고 나는 아니기 때문인가? 그러면 네가 아는 것을 말하라.",
+  "tokens": [
+    {
+      "surface": "המעמך",
+      "gloss": "네가 함께"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "갚으시리요"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문인가"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "네가 버렸기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문인가"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "선택하고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그러면"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "네가 아는 것을"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말하라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:36.615136119Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그런데 그 사람 모셰는 지극히 온유하였으니, 땅 위에 있는 모든 사람 중에서 ⟨가장 온유하였다⟩.",
+  "tokens": [
+    {
+      "surface": "וְהָאִישׁ",
+      "gloss": "그런데 그 사람"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "모셰는"
+    },
+    {
+      "surface": "עָנָו",
+      "gloss": "온유하였으니"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "지극히"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "모든 … 중에서"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "그"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "…의 표면"
+    },
+    {
+      "surface": "הָאֲדָמָה",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T08:36:01.718894473Z",
+  "model": "glm-5.2"
+}

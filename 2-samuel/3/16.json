@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그녀의 남편이 그녀와 함께 가면서, 걸으며 울며 그녀를 뒤따랐다, 바후림까지. 아브너가 그에게 \"가서 돌아가라\" 하니, 그가 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "가면서"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "그녀와 함께"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "그녀의 남편이"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "걸으며"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "울며"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "그녀를 뒤따랐다"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "바후림"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "하니"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브너가"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "돌아가라"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그가 돌아갔다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:25.847414533Z",
+  "model": "glm-5.2"
+}

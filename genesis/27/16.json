@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 염소 새끼들의 가죽을 ⟨את⟩ 그의 두 손과 그의 목의 매끈한 곳 위에 입혔다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "가죽"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "가죽"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "새끼들의"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "염소"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "입혔다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "그의 두 손"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "매끈한 곳"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "그의 목의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:53.855776433Z",
+  "model": "glm-5.2"
+}

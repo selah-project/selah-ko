@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 ⟨그는⟩ 그 위에 빵의 진열을 야훼 앞에 차려놓았다 — 야훼께서 ⟨את⟩ 모셰에게 명하신 대로.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "차려놓았다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "진열을"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵의"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "~한 대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:09:33.812548292Z",
+  "model": "glm-5.2"
+}

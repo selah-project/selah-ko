@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그들의 기름기로 ⟨그들⟩은 닫아버렸다, 그들의 입으로 그들은 교만하게 말하였다.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "그들의 기름기로"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "닫아버렸다"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "그들의 입으로"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "교만하게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:33.317451324Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 112,
+  "translation": "악인은 보고 분노한다. ⟨그⟩ 이를 갈고 녹아 없어진다. 악인들의 소망은 망할 것이다.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "악인은"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "분노한다"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "이를"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "갈고"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "녹아 없어진다"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "소망은"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "망할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:20.832751141Z",
+  "model": "glm-5.2"
+}

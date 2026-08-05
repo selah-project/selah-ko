@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그들이 그들에게 진을 치고, ⟨את⟩ 땅의 소출을 훼손하였다 — 앗자에 이르기까지. 그리고 이스라엘 안에 생명 유지를 위한 양식을, 양이나 소나 나귀를 남기지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 치고"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "훼손하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅의 소출을"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "소출"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "～에 이르기까지"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "～에 들어가"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "앗자"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "남기지 아니하였다"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "생명 유지를 위한 양식을"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘 안에"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "양이나"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "소나"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "나귀를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:15:14.540443114Z",
+  "model": "glm-5.2"
+}

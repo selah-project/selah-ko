@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "피를 찾으시는 이가 ⟨את⟩ 그것들을 기억하셨다. 고통받는 자들의 부르짖음을 잊지 않으셨다.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "דֹרֵ֣שׁ",
+      "gloss": "찾으시는 이가"
+    },
+    {
+      "surface": "דָּ֭מִים",
+      "gloss": "피를"
+    },
+    {
+      "surface": "אוֹתָ֣ם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "זָכָ֑ר",
+      "gloss": "기억하셨다"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "아니하셨다"
+    },
+    {
+      "surface": "שָׁ֝כַ֗ח",
+      "gloss": "잊으시는 것을"
+    },
+    {
+      "surface": "צַעֲקַ֥ת",
+      "gloss": "부르짖음을"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "고통받는 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:58.261930059Z",
+  "model": "glm-5.2"
+}

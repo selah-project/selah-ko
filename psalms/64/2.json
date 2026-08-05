@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "엘로힘, 내 기도의 소리를 들어주소서. 원수의 두려움에서 내 생명을 지켜주소서.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "들어주소서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "내 소리를"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "내 기도(에서)"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "두려움에서"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "원수의"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "지켜주소서"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "내 생명을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:24.269372064Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "선한 자는 야훼께로부터 은총을 이끌어내고, 악한 꾀를 부리는 사람은 ⟨그가⟩ 정죄하신다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "선한 자는"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "이끌어내고"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "은총을"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "야훼께로부터"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "악한 꾀를 부리는"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "정죄하신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:02.704967296Z",
+  "model": "glm-5.2"
+}

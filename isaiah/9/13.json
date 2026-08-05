@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그래서 야훼께서 ⟨את⟩ 이스라엘에게서 머리와 꼬리, 종려 잎과 갈대를 하루에 잘라 내셨다.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "그래서 잘라 내셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "이스라엘에게서"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "와 꼬리"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "종려 잎"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "과 갈대"
+    },
+    {
+      "surface": "יום",
+      "gloss": "하루에"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:41.203470333Z",
+  "model": "glm-5.2"
+}

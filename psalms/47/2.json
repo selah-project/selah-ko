@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "모든 민족들아, 손뼐을 쳐라. 엘로힘께 환호성으로 소리질러라.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "민족들아"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "쳐라"
+    },
+    {
+      "surface": "כף",
+      "gloss": "손바닥을"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "소리질러라"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘께"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "환호성의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:07.852546165Z",
+  "model": "glm-5.2"
+}

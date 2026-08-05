@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "나 또한 그를 장자로 주리니, 땅의 왕들 가운데 가장 높은 자이게 하리라.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "또한"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "장자로"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "그를 … 주리니"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "가장 높은 자이게"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "… 왕들 가운데"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:41.989300348Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "모든 육체가 함께 숨을 거두고, ⟨그리고⟩ 사람은 먼지로 돌아갈 것이다.",
+  "tokens": [
+    {
+      "surface": "יִגְוַ֣ע",
+      "gloss": "숨을 거두고"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בָּשָׂ֣ר",
+      "gloss": "육체가"
+    },
+    {
+      "surface": "יָ֑חַד",
+      "gloss": "함께"
+    },
+    {
+      "surface": "וְ֝אָדָ֗ם",
+      "gloss": "그리고 사람은"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨으로⟩"
+    },
+    {
+      "surface": "עָפָ֥ר",
+      "gloss": "먼지"
+    },
+    {
+      "surface": "יָשֽׁוּב",
+      "gloss": "돌아갈 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:35.605671788Z",
+  "model": "glm-5.2"
+}

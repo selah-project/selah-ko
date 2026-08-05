@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 145,
+  "translation": "당신은 ⟨את⟩ 당신의 손을 여시며, 모든 생명의 소원을 ⟨채워⟩ 만족케 하신다.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "여시며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 손을"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "당신의 손을"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "그리고 만족케 하신다"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חי",
+      "gloss": "생명의"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "소원을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:35.037999259Z",
+  "model": "glm-5.2"
+}

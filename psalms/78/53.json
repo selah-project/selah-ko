@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그리고 그들을 안전하게 인도하셨으므로 그들은 두려워하지 아니하였고, 바다는 ⟨את⟩ 그들의 원수들을 덮었다.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "그리고 그들을 인도하셨으므로"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "안전하게"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 아니하였고"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "그들은 두려워하지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 원수들을"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "그들의 원수들을"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "덮었다"
+    },
+    {
+      "surface": "הים",
+      "gloss": "바다는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:47.334780882Z",
+  "model": "glm-5.2"
+}

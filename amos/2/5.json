@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리하여 내가 불을 유다에 보내리니, 그것이 예루샬라임의 견고한 궁들을 삼키리라.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "그리하여 내가 보내리니"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불을"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "유다에"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "그것이 삼키리라"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "견고한 궁들을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:10:07.219425423Z",
+  "model": "glm-5.2"
+}

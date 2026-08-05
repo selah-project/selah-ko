@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "분노로 말미암아 나의 눈이 쇠하며, 나의 모든 원수들로 인하여 ⟨눈이⟩ 늙었나이다.",
+  "tokens": [
+    {
+      "surface": "עָֽשְׁשָׁ֣ה",
+      "gloss": "쇠하며"
+    },
+    {
+      "surface": "מִכַּ֣עַס",
+      "gloss": "분노로 말미암아"
+    },
+    {
+      "surface": "עֵינִ֑י",
+      "gloss": "나의 눈이"
+    },
+    {
+      "surface": "עָֽ֝תְקָ֗ה",
+      "gloss": "늙었나이다"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "나의 모든"
+    },
+    {
+      "surface": "צוֹרְרָֽי",
+      "gloss": "원수들로 인하여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:36.255763833Z",
+  "model": "glm-5.2"
+}

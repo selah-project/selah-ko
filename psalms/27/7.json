@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "야훼여, ⟨내가⟩ ⟨내⟩ 소리로 부를 때 ⟨나를⟩ 들어 주소서; 그리고 ⟨나를⟩ 은혜 베푸사 ⟨나를⟩ 응답하소서.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "들어 주소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "⟨내⟩ 소리로"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "⟨내가⟩ 부를 때"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "은혜 베푸사"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "응답하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:34.550278231Z",
+  "model": "glm-5.2"
+}

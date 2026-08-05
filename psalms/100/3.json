@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 100,
+  "translation": "알아라. 야훼, ⟨그⟩ 분이 엘로힘이시다. ⟨그⟩ 분이 우리를 지으셨고, 우리가 ⟨스스로 만든 것이⟩ 아니니, 우리는 ⟨그⟩ 분의 백성, ⟨그⟩ 분의 기르시는 양 떼이다.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "알아라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "."
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그⟩ 분이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이시다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그⟩ 분이"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "우리를 지으셨고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니니"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨그⟩ 분의 백성"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "양 떼"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "⟨그⟩ 분의 기르시는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:05.792308628Z",
+  "model": "glm-5.2"
+}

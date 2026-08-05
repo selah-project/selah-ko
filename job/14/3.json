@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "아프 ⟨이런⟩ 자 위에도 눈을 여시고, ⟨את⟩ 나를 당신과 함께 심판으로 이끌어 드시나이까?",
+  "tokens": [
+    {
+      "surface": "אַף",
+      "gloss": "또한"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "זֶ֭ה",
+      "gloss": "이런"
+    },
+    {
+      "surface": "פָּקַ֣חְתָּ",
+      "gloss": "여시나이까"
+    },
+    {
+      "surface": "עֵינֶ֑ךָ",
+      "gloss": "눈"
+    },
+    {
+      "surface": "וְאֹ֘תִ֤י",
+      "gloss": "⟨את⟩",
+      "marks": "나를"
+    },
+    {
+      "surface": "תָבִ֖יא",
+      "gloss": "이끌어 드시나이까"
+    },
+    {
+      "surface": "בְמִשְׁפָּ֣ט",
+      "gloss": "심판으로"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "당신과 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:55.533113436Z",
+  "model": "glm-5.2"
+}

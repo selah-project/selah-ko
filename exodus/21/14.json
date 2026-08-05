@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 21:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그러나 어떤 사람이 교활함으로 이웃을 쳐서 죽이려고 미리 모의한다면 — 내 제단에서부터 ⟨그를⟩ 데려내어 죽일 것이다.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "그러나"
+    },
+    {
+      "surface": "יזד",
+      "gloss": "모의한다면"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "על",
+      "gloss": "대적하여"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "이웃을"
+    },
+    {
+      "surface": "להרגו",
+      "gloss": "그를 죽이려"
+    },
+    {
+      "surface": "בערמה",
+      "gloss": "교활함으로"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "내 제단"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "데려내어"
+    },
+    {
+      "surface": "למות",
+      "gloss": "죽일 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:44.986877342Z",
+  "model": "glm-5.2"
+}

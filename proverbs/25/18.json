@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "망치와 칼과 날카로운 화살, 곧 이웃에게 거짓 증인으로 응답하는 사람이다.",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "망치"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "와 칼"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "과 화살"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "날카로운"
+    },
+    {
+      "surface": "איש",
+      "gloss": "…인 사람"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "응답하는"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "이웃에게"
+    },
+    {
+      "surface": "עד",
+      "gloss": "증인으로"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:33.450201098Z",
+  "model": "glm-5.2"
+}

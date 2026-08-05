@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그리고 나는 그들에게 모욕이 되었으니, 그들이 나를 보고 그들의 머리를 흔드네.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "되었으니"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "모욕이"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "그들이 나를 보고"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "흔드네"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "그들의 머리를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:49.932860742Z",
+  "model": "glm-5.2"
+}

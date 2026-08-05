@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "문들아, 너희 머리들을 들어 올려라. 그리고 영원한 문들아, 들어 올려져라. 그러면 영광의 왕이 ⟨그⟩ 들어옴이로다.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "들어 올려라"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "문들아"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "너희 머리들을"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "그리고 들어 올려져라"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "문들아"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그러면 ⟨그⟩ 들어옴이로다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "영광의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:19.228549039Z",
+  "model": "glm-5.2"
+}

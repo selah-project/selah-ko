@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 50:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "\"어찌하여 내가 왔는데 아무도 없었느냐? 내가 불렀는데 대답하는 자가 없었느냐? 내 손이 ⟨속전에서⟩ 너무 짧아 구원할 능력이 내게 없단 말이냐? 보라, 내가 꾸짖으매 바다를 말리시며, 강들을 광야로 만드신다. 그 물고기들이 물이 없어 썩고, 목말라 죽는다.\"",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "내가 왔는데"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 ⟨없었느냐⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "내가 불렀는데"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 ⟨없었느냐⟩"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "대답하는 자가"
+    },
+    {
+      "surface": "הקצור",
+      "gloss": "너무 짧아"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "짧아"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "내 손이"
+    },
+    {
+      "surface": "מפדות",
+      "gloss": "⟨속전에서⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "또는"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없단"
+    },
+    {
+      "surface": "בי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "כח",
+      "gloss": "능력이"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "구원할"
+    },
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "בגערתי",
+      "gloss": "내가 꾸짖으매"
+    },
+    {
+      "surface": "אחריב",
+      "gloss": "말리신다"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "만드신다"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "강들을"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야로"
+    },
+    {
+      "surface": "תבאש",
+      "gloss": "썩고"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "그 물고기들이"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "없어"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "그리고 죽는다"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "목말라"
+    }
+  ],
+  "timestamp": "2026-08-05T19:47:32.002672871Z",
+  "model": "glm-5.2"
+}

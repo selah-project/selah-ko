@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그들이 그 위에 강제 노동의 관리자들을 두어, 그들의 무거운 짐으로 그를 억압하려 하였다. 그가 파르오를 위해 ⟨את⟩ 피톰과 ⟨את⟩ 라메세스, 곧 저장 성읍들을 건축하였다.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "그들이 두었다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "관리자들을"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "강제 노동의"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…하기 위하여"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "그를 억압하려"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "그들의 무거운 짐으로"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "그가 건축하였다"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성읍들을"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "저장"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "파르오를 위해"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "피톰"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "피톰"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "라메세스"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "라메세스"
+    }
+  ],
+  "timestamp": "2026-08-05T07:45:07.887047074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 너는 파르오에게 말하여라: \"이렇게 야훼께서 말씀하셨다: 이스라엘은 내 아들, 내 장자이다.\"",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "그리고 너는 말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "내 아들"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "내 장자"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:11.893273189Z",
+  "model": "glm-5.2"
+}

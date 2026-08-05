@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 3:6",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그 밤— 짙은 어둠이 ⟨그것을⟩ 취하게 하라. 그것이 한 해의 날들 가운데서 기뻐하지 못하게 하라. 달들의 수 가운데 그것이 들어오지 못하게 하라.",
+  "tokens": [
+    {
+      "surface": "הלילה",
+      "gloss": "그 밤은"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "취하게 ⟨그것을⟩"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "짙은 어둠이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 못하게 하라"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "기뻐"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "가운데서 ⟨…⟩ 날들"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "한 해의"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "수 가운데"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "달들의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 못하게 하라"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "들어오"
+    }
+  ],
+  "timestamp": "2026-08-05T12:01:25.363263762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "악함으로는 사람이 굳게 서지 못하나, 의인들의 뿌리는 흔들리지 아니한다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "굳게 서지 못하나"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "악함으로는"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "뿌리는"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의인들의"
+    },
+    {
+      "surface": "בל",
+      "gloss": "결코"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "흔들리지 않는다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:02.705154403Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "나태한 자가 말한다. \"길에 사자가 있다, 광장들 사이에 사자가 있다\" 하고.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "나태한 자가"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길에"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "사자가"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "광장들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:02.642616463Z",
+  "model": "glm-5.2"
+}

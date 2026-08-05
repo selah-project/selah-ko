@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "\"그래서 내가 ⟨את⟩ 내 빵과 ⟨את⟩ 내 물과 ⟨את⟩ 내 양 떼 깎는 자들을 위해 잡은 고기를 가져다가, 내가 알지 못하는 ⟨곳에서⟩ 온 자들에게 주어야 한단 말인가?\"",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "그래서 가져가야 한단 말인가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 빵을"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "내 빵"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 물을"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "내 물"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 고기를"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "내 고기"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "위해"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "잡은"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "양 떼 깎는 자들을"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "그리고 주어야 한단 말인가"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "자들에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 알지"
+    },
+    {
+      "surface": "אי",
+      "gloss": "⟨곳에서⟩"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "온"
+    },
+    {
+      "surface": "המה",
+      "gloss": "자들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:07.758748270Z",
+  "model": "glm-5.2"
+}

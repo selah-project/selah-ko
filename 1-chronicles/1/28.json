@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "아브라함의 아들들은 이삭과 이스마엘이다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "이스마엘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:13.852937005Z",
+  "model": "glm-5.2"
+}

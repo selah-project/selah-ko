@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 7:4",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 그들과 함께, 그들의 계보에, 그들의 조상 가문에, 전쟁 군대의 부대들이 있었다. 삼만 육천이다. 그들이 아내들과 아들들을 많게 하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ועליהם",
+      "gloss": "그리고 그들에게"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "그들의 계보에"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…의 가문에"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "그들의 조상"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "부대들"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "군대"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "전쟁"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "서른"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "그리고 여섯"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "그들이 많게 하였다"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "아내들"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "그리고 아들들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:59.643661201Z",
+  "model": "glm-5.2"
+}

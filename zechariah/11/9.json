@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 내가 말하였다. \"나는 너희를 ⟨את⟩ 치지 않겠다. 죽는 것은 죽고, 멸해지는 것은 멸해지며, 남아 있는 것들은 서로 ⟨את⟩ 이웃의 살을 먹으리라.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 내가 말하였다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "내가 치겠다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "죽는 것은"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "죽으리라"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "그리고 멸해지는 것은"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "멸해지리라"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "그리고 남아 있는 것들은"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "먹으리라"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "각자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "살을"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "살"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "이웃의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:21:00.423496756Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "아브람이 미츠라임에 들어갔을 때, 미츠라임 사람들이 ⟨את⟩ 그 여인을 보았다 — 그녀가 심히 아름다웠기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨일어났다⟩"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "들어갔을 때"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브람이"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "미츠라임에"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "미츠라임 사람들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 여인을"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "그 여인"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— 때문이다"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "아름다웠기"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그녀가"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:58.386652082Z",
+  "model": "glm-5.2"
+}

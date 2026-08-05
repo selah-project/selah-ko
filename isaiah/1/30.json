@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "대저 너희가 시드는 잎사귀를 가진 나무 같고, 물이 없는 동산 같이 되리라.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "대저"
+    },
+    {
+      "surface": "תִֽהְי֔וּ",
+      "gloss": "너희가 되리라"
+    },
+    {
+      "surface": "כְּאֵלָ֖ה",
+      "gloss": "같고"
+    },
+    {
+      "surface": "נֹבֶ֣לֶת",
+      "gloss": "시드는"
+    },
+    {
+      "surface": "עָלֶ֑הָ",
+      "gloss": "잎사귀를 가진"
+    },
+    {
+      "surface": "וּֽכְגַנָּ֔ה",
+      "gloss": "그리고 ~동산 같이"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "물이"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "לָֽהּ",
+      "gloss": "그것에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:31.391543923Z",
+  "model": "glm-5.2"
+}

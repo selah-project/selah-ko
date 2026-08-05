@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "갈라 ⟨이시다⟩ ⟨את⟩ 갈대 바다를 두 부분으로, 그의 헤세드는 영원하시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "갈라 ⟨이시다⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "갈대"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "두 부분으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하시기"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:42.524439778Z",
+  "model": "glm-5.2"
+}

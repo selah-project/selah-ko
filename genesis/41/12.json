@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그리고 거기에 ⟨את⟩ 우리와 함께 한 히브리 소년이 있었으니, 살육관장의 종이라, 우리가 그에게 말하매 그가 ⟨את⟩ 우리의 꿈들을 우리에게 풀어 주었고, 각자 자기 꿈에 따라 풀어 주었나이다.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "그리고 거기에"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ 우리와",
+      "marks": "함께 한"
+    },
+    {
+      "surface": "נער",
+      "gloss": "소년이"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "히브리"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종이라"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "관원장의"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "살육"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "우리가 말하매"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "그가 풀어 주었고"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 꿈들을"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "우리의 꿈들을"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "자기 꿈에 따라"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "풀어 주었나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:35:03.496469248Z",
+  "model": "glm-5.2"
+}

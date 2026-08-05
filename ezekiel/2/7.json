@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 너는 그들에게 ⟨את⟩ 내 말들을 말할 것이다. 그들이 듣든지 혹은 그들이 그치든지 — 반역이 그들이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "그리고 너는…말할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 말들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "내 말들을"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "אם",
+      "gloss": "든지"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "그들이 듣는다"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "그들이 그친다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— 때문이다"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "반역"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:47:38.792160176Z",
+  "model": "glm-5.2"
+}

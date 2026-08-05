@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "엘로힘 체바옷, 우리를 ⟨되돌려⟩ 주소서. 당신의 얼굴을 ⟨비추어⟩ 주소서, 그리하면 우리가 구원을 얻으리이다.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "체바옷"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "우리를 돌이켜 주소서"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "비추어 주소서"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "당신의 얼굴을"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "구원을 얻으리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:39.251111142Z",
+  "model": "glm-5.2"
+}

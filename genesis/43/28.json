@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 43:28",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그들이 말하였다. \"종의 아버지는 샬롬이옵니다. 아직 살아 계십니다.\" 그들이 허리를 굽히고 엎드려 절하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬이옵니다"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "종의"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "아버지는"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "아직"
+    },
+    {
+      "surface": "חי",
+      "gloss": "살아 계십니다"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "그들이 허리를 굽히고"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "엎드려 절하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:14.841736984Z",
+  "model": "glm-5.2"
+}

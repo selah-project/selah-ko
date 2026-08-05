@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "영원토록 다투지 않으시며, 대대로 분을 품지 않으신다.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "לָנֶ֥צַח",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "יָרִ֑יב",
+      "gloss": "다투지 않으신다"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "대대로"
+    },
+    {
+      "surface": "יִטּֽוֹר",
+      "gloss": "품지 않으신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:27.102505087Z",
+  "model": "glm-5.2"
+}

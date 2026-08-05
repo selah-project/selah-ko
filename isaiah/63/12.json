@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 63:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 63,
+  "translation": "모셰의 오른편으로 그의 영광의 팔을 인도하신 이, 그들의 앞에서 물들을 가르신 이, 그를 위하여 영원한 이름을 만드신 이?",
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "인도하신 이"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "오른편으로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "팔을"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "그의 영광의"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "가르신 이"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물들을"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "그들의 앞에서"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "만드시려"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를 위하여"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:27.417352963Z",
+  "model": "glm-5.2"
+}

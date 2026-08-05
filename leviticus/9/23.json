@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "모셰와 아론이 회막 안으로 들어갔다가 나와서, 백성을 축복하였다. 그리고 야훼의 영광이 온 백성에게 나타났다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "들어갔다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "그리고 아론"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～안으로"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "회막"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "나왔다"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "축복하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "나타났다"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "～에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:05.962267734Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "수놓은 옷으로 왕께 인도되리니, 처녀들, 그녀의 뒤에, 그녀의 동무들이 그대께 인도되리라.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "수놓은 옷으로"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "인도되리니"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕께"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "처녀들"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "뒤에"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "동무들이"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "인도되리라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:04.205487558Z",
+  "model": "glm-5.2"
+}

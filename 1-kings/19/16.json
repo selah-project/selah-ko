@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 ⟨את⟩ 님시의 아들 예후에게 기름을 부어 이스라엘 위에 왕으로 ⟨세우고⟩, ⟨아벨-메콜라⟩의 사밧의 아들 엘리샤에게 기름을 부어 너를 대신하여 나비로 ⟨세우라⟩.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "예후를"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "예후에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "님시의"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "기름을 부어라"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕으로"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "엘리샤를"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "엘리샤에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "사밧의"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "아벨-메콜라"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "기름을 부어라"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "나비로"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "너를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T09:54:11.017289749Z",
+  "model": "glm-5.2"
+}

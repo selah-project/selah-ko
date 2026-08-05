@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 17:8",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "만일 판결에 관한 어떤 사건이 너를 넘어서는 것이면 — 피와 피 사이에, 재판과 재판 사이에, 그리고 재앙과 재앙 사이에 — 네 성문 안에서 송사의 사건들이면, 너는 일어나 그 곳으로 올라가리라, 곧 야훼 네 엘로힘이 ⟨그⟩ 택하실 ⟨그⟩ 곳으로.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "넘어서는 것이면"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "너를"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "어떤 사건이"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "판결에 관한"
+    },
+    {
+      "surface": "בין",
+      "gloss": "~와"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "피 사이에"
+    },
+    {
+      "surface": "בין",
+      "gloss": "~와"
+    },
+    {
+      "surface": "דין",
+      "gloss": "재판"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "재판 사이에"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 ~와"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "재앙"
+    },
+    {
+      "surface": "לנגע",
+      "gloss": "재앙 사이에"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "사건들이면"
+    },
+    {
+      "surface": "ריבת",
+      "gloss": "송사의"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "네 성문 안에서"
+    },
+    {
+      "surface": "וקמת",
+      "gloss": "너는 일어나"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "올라가리라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~로"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "그 곳"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "택하실"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:14.909043883Z",
+  "model": "glm-5.2"
+}

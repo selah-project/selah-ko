@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 32:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그가 스스로 힘을 내어 ⟨את⟩ 무너진 성벽 전부를 건축하고, 망대들 위에 올라세웠으며, 바깥으로 ⟨또 다른⟩ 성벽을 쌓고, ⟨את⟩ 다윗 성의 밀로를 견고하게 하였다. 그는 창을 많이 만들고 방패들을 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "스스로 힘을 내어"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "건축하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "무너진 성벽 전부"
+    },
+    {
+      "surface": "כל",
+      "gloss": "전부"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "הפרוצה",
+      "gloss": "무너진"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "올라세웠으며"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המגדלות",
+      "gloss": "망대들"
+    },
+    {
+      "surface": "ולחוצה",
+      "gloss": "바깥으로"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "성벽"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "또 다른"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "견고하게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗 성의 밀로"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "밀로"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "창"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "많이"
+    },
+    {
+      "surface": "ומגנים",
+      "gloss": "방패들을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:02:20.517256431Z",
+  "model": "glm-5.2"
+}

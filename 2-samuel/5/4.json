@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "다윗이 왕이 될 때 나이 삼십 세였고, 사십 년을 통치하였다.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "나이"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "세였고"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "왕이 될 때"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "통치하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:37.023600442Z",
+  "model": "glm-5.2"
+}

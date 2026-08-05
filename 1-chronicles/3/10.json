@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "슐로모의 아들은 르하브암이며, 그의 아들은 아비야, 그의 아들은 아사, 그의 아들은 예호샤팟이다.",
+  "tokens": [
+    {
+      "surface": "וּבֶן",
+      "gloss": "아들은"
+    },
+    {
+      "surface": "שְׁלֹמֹ֖ה",
+      "gloss": "슐로모의"
+    },
+    {
+      "surface": "רְחַבְעָ֑ם",
+      "gloss": "르하브암이며"
+    },
+    {
+      "surface": "אֲבִיָּ֥ה",
+      "gloss": "아비야"
+    },
+    {
+      "surface": "בְנ֛וֹ",
+      "gloss": "그의 아들은"
+    },
+    {
+      "surface": "אָסָ֥א",
+      "gloss": "아사"
+    },
+    {
+      "surface": "בְנ֖וֹ",
+      "gloss": "그의 아들은"
+    },
+    {
+      "surface": "יְהוֹשָׁפָ֥ט",
+      "gloss": "예호샤팟"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:41:41.421333348Z",
+  "model": "glm-5.2"
+}

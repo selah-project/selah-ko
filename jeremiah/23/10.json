@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 23:10",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "간음하는 자들 때문에 땅이 가득하니, 저주 때문에 땅이 애곡하고, 광야의 목장들이 말랐기 때문이다. 그들의 달리는 것은 악하고, 그들의 힘은 옳지 않다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "간음하는 자들"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "가득하니"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "저주"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "애곡하고"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "말랐"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "목장들이"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야의"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "…이다"
+    },
+    {
+      "surface": "מרוצתם",
+      "gloss": "그들의 달리는 것은"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악하고"
+    },
+    {
+      "surface": "וגבורתם",
+      "gloss": "그들의 힘은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "כן",
+      "gloss": "옳지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:49.166316670Z",
+  "model": "glm-5.2"
+}

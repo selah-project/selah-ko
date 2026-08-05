@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼께서 내게 말씀하셨다. “그들에게 말하라. 올라가지 말고, 싸우지도 말라. ⟨내가⟩ 너희 가운데 ⟨있지⟩ 않기 때문이다. 그리하면 너희가 너희 원수들 앞에서 패하지 않을 것이다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "말고"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "올라가지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨하지⟩ 말라"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "싸우지도"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "⟨없다⟩"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "너희 가운데"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "하지"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "패할"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "너희 원수들"
+    }
+  ],
+  "timestamp": "2026-08-05T13:41:25.761640900Z",
+  "model": "glm-5.2"
+}

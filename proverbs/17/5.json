@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "가난한 자를 조롱하는 것은 그를 지으신 이를 모욕하는 것이요, 재앙을 기뻐하는 자는 벌을 면하지 못할 것이다.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "조롱하는 것은"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "가난한 자를"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "모욕하는 것이요"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "그를 지으신 이를"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "기뻐하는 자는"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "재앙을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "면할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:17.000736745Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 12:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그의 슬기로움에 따라 사람은 칭찬을 받고, 비뚤어진 마음은 멸시를 당한다.",
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "∼에 따라"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "그의 슬기로움"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "칭찬을 받고"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람은"
+    },
+    {
+      "surface": "ונעוה",
+      "gloss": "그리고 비뚤어진"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음은"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨당한다⟩"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "멸시를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:03.621403675Z",
+  "model": "glm-5.2"
+}

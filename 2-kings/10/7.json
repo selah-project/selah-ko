@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그 편지가 그들에게 이르매, 그들이 그 왕의 아들들을 데려다가 칠십 명을 잡아죽이고, 그들의 머리를 광주리에 넣은 뒤 그에게 이즈르엘로 보내었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "있었는데"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "이르매"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "그 편지가"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 데려다가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 왕의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕의"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "잡아죽이고"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "칠십"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명을"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "그들이 놓고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 머리"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "그들의 머리를"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "광주리에"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "그들이 보내되"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "이즈르엘로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:14:03.773182813Z",
+  "model": "glm-5.2"
+}

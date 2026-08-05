@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "수소 한 마리, 수양 한 마리, 일 년 된 어린 양 한 마리를 올라로 ⟨위하여⟩.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "수소"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 마리"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "소 떼"
+    },
+    {
+      "surface": "איל",
+      "gloss": "수양"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 마리"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "어린 양"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 마리"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "일 년"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "올라로 ⟨위하여⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T13:38:19.459620124Z",
+  "model": "glm-5.2"
+}

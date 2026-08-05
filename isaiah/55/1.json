@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "오, 목마른 모든 자, 물들에게로 와라. 그리고 은이 없는 자, 와서 사고 먹어라. 그리고 와서, 은 없이, 값 없이 포도주와 젖을 사라.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "오"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "목마른 자"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "와라"
+    },
+    {
+      "surface": "למים",
+      "gloss": "물들에게로"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 ∼인 자"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "와라"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "사고"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "그리고 먹어라"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "그리고 와라"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "사라"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "없이"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "그리고 없이"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "값"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "그리고 젖을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:27.793588251Z",
+  "model": "glm-5.2"
+}

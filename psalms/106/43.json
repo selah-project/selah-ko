@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "여러 번 그들을 건지셨으나, 그들은 자기들의 도모로 반역하였고, 자기들의 죄악으로 말미암아 쇠하여졌다.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "여러 번"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "많이"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "그들을 건지셨으나"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "반역하였고"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "자기들의 도모로"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "쇠하여졌다"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "자기들의 죄악으로 말미암아"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:02.543491315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 양 떼가 약할 때에는 그것들을 놓지 아니하였으니, 약한 것들은 라반의 것이 되고 힘센 것들은 야곱의 것이 되었다.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "그리고 …이 약할 때에"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "놓지"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그리하여 …이 되었다"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "약한 것들은"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "라반의"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "그리고 힘센 것들은"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "야곱의"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:39.559100139Z",
+  "model": "glm-5.2"
+}

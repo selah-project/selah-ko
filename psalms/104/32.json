@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "땅을 바라보시면 ⟨그것이⟩ 흔들리고, 산들을 만지시면 ⟨그것들이⟩ 연기를 내나이다.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "바라보시면"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "흔들리고"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "만지시면"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "산들을"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "연기를 내나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:01.889602030Z",
+  "model": "glm-5.2"
+}

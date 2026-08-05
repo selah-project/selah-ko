@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 나는 ⟨את⟩ 매매 증서를 취했으니 — ⟨את⟩ 봉인된 것, 규정들과 규례들, 그리고 ⟨את⟩ 열린 것을.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "그리고 나는 취했다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "매매 증서"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "증서"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "매매"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "봉인된 것"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "봉인된 것"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "규정들"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "그리고 규례들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "열린 것"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "열린 것"
+    }
+  ],
+  "timestamp": "2026-08-05T10:38:31.445216428Z",
+  "model": "glm-5.2"
+}

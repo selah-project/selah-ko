@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 80,
+  "translation": "당신께서는 우리를 이웃들에게 다툼거리로 내놓으셨으니, 우리 원수들이 우리를 비웃습니다.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "내놓으셨나이다"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "다툼거리로"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "이웃들에게"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "우리 원수들이"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "비웃습니다"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:39.251031175Z",
+  "model": "glm-5.2"
+}

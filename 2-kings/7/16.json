@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "백성이 나가서 ⟨את⟩ 아람 진영을 노획하였다. 그리하여 고운 가루 한 스아가 한 세겔에, 보리 두 스아가 한 세겔에 있었으니, 야훼의 말씀대로였다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나가서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "노획하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아람 진영"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리하여 …있었으니"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "한 스아"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "고운 가루"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "한 세겔에"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "두 스아"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "보리"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "한 세겔에"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말씀대로였다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:02.668335904Z",
+  "model": "glm-5.2"
+}

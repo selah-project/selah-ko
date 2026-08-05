@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "체다카의 길에 나는 걷고, 미쉬파트의 길들 한가운데를 ⟨다닌다⟩.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "길에"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "체다카의"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "나는 걷고"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데를"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "길들"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "미쉬파트의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:43.406766780Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 33:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "의(體다카)로 걷고 바름을 말하며, 억압의 이득을 미워하고, 뇌물을 붙잡음에서 자기 손을 떨어버리며, 피 흘림을 듣에서 자기 귀를 막으며, 악을 봄에서 자기 눈을 감는 자 —",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "걷고"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "의(體다카)로"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "바름을"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "미워하고"
+    },
+    {
+      "surface": "בבצע",
+      "gloss": "이득을"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "억압의"
+    },
+    {
+      "surface": "נער",
+      "gloss": "떨어버리며"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "자기 손을"
+    },
+    {
+      "surface": "מתמך",
+      "gloss": "붙잡음에서"
+    },
+    {
+      "surface": "בשחד",
+      "gloss": "뇌물을"
+    },
+    {
+      "surface": "אטם",
+      "gloss": "막으며"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "자기 귀를"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "듣에서"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "피 흘림을"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "감는"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "자기 눈을"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "봄에서"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "악을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:17.844051169Z",
+  "model": "glm-5.2"
+}

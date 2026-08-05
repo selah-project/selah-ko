@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 네가 이스라엘 왕들의 길로 걸어, ⟨את⟩ 유다와 ⟨את⟩ 예루샬라임 거민들을 음란하게 하였으니, 아하브의 집이 음란한 것 같으며, 또 네 아버지의 집의 네 형제들, 너보다 나은 자들을 죽였도다.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "그리고 네가 걸었으니"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "그리고 음란하게 하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "유다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "예루샬라임 거민들"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거민들을"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "음란한 것 같으니"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브의"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "형제들"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "형제들,"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "아버지"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "나은 자들,"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "너보다"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "죽였도다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:39:49.053553201Z",
+  "model": "glm-5.2"
+}

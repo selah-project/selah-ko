@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 빈야민 지파에서 ⟨아래 도시들⟩을 ⟨את⟩ 기브온과 그 초장을, ⟨את⟩ 게바와 그 초장을 ⟨주었으니⟩",
+  "tokens": [
+    {
+      "surface": "וּמִמַּטֵּה",
+      "gloss": "그리고 ~에서 지파"
+    },
+    {
+      "surface": "בִנְיָמִן",
+      "gloss": "빈야민"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "기브온"
+    },
+    {
+      "surface": "גִּבְעוֹן",
+      "gloss": "기브온"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 초장"
+    },
+    {
+      "surface": "מִגְרָשֶׁהָ",
+      "gloss": "그 초장"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "게바"
+    },
+    {
+      "surface": "גֶּבַע",
+      "gloss": "게바"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 초장"
+    },
+    {
+      "surface": "מִגְרָשֶׁהָ",
+      "gloss": "그 초장"
+    }
+  ],
+  "timestamp": "2026-08-05T18:08:50.409094369Z",
+  "model": "glm-5.2"
+}

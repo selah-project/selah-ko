@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 ⟨너는⟩ ⟨את⟩ 한 수양을 취하고, 아론과 그의 아들들이 그 수양의 머리 위에 ⟨את⟩ 그들의 손을 얹을 것이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "수양"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "수양을"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "한"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "얹을 것이다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론과"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그의 아들들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 손"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "그들의 손을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "수양의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:07.951210871Z",
+  "model": "glm-5.2"
+}

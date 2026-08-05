@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 67,
+  "translation": "민족들이 기뻐하고 즐거이 노래하리니, 곧 ⟨그⟩들이 백성들을 공평으로 심판하시고 땅의 민족들을 인도하실 것임이라. 셀라.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "기뻐하고"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "즐거이 노래하리니"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "심판하실"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들을"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "공평으로"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "민족들을"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "인도하실"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:23.559123469Z",
+  "model": "glm-5.2"
+}

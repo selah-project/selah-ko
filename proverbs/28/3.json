@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "가난한 남자가 가난한 자들을 억누르는 것은, 쓸어가는 비와도 같으니 ⟨그로 인해⟩ 빵이 없게 된다.",
+  "tokens": [
+    {
+      "surface": "גֶּ֣בֶר",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "רָ֭שׁ",
+      "gloss": "가난한"
+    },
+    {
+      "surface": "וְעֹשֵׁ֣ק",
+      "gloss": "억누르는"
+    },
+    {
+      "surface": "דַּלִּ֑ים",
+      "gloss": "가난한 자들을"
+    },
+    {
+      "surface": "מָטָ֥ר",
+      "gloss": "비와도 같으니"
+    },
+    {
+      "surface": "סֹחֵ֗ף",
+      "gloss": "쓸어가는"
+    },
+    {
+      "surface": "וְאֵ֣ין",
+      "gloss": "없게 된다"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "빵이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:09.721599174Z",
+  "model": "glm-5.2"
+}

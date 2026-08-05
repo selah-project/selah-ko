@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "야훼께 감사하라, 그는 선하시기 때문이다. 그의 헤세드는 영원하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "감사하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "선하시기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:10.168420874Z",
+  "model": "glm-5.2"
+}

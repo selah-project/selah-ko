@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 나를 사랑하고 ⟨나의⟩ 계명들을 지키는 자들에게 천 대까지 헤세드를 베푸신다.",
+  "tokens": [
+    {
+      "surface": "וְעֹשֶׂה",
+      "gloss": "그리고 베푸신다"
+    },
+    {
+      "surface": "חֶסֶד",
+      "gloss": "헤세드를"
+    },
+    {
+      "surface": "לַאֲלָפִים",
+      "gloss": "천 대까지"
+    },
+    {
+      "surface": "לְאֹהֲבַי",
+      "gloss": "나를 사랑하는 자들에게"
+    },
+    {
+      "surface": "וּלְשֹׁמְרֵי",
+      "gloss": "그리고 지키는 ⟨자들에게⟩"
+    },
+    {
+      "surface": "מִצְוֺתָיו",
+      "gloss": "⟨나의⟩ 계명들을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:00.119787575Z",
+  "model": "glm-5.2"
+}

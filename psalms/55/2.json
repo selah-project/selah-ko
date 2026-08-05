@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "엘로힘, 제 기도에 귀를 기울이소서. 제 간구에서 ⟨얼굴을⟩ 숨기지 마소서.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "귀를 기울이소서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "제 기도에"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "숨기"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "제 간구에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:36.434232214Z",
+  "model": "glm-5.2"
+}

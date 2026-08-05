@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 참으로 그녀는 내 누이 — 내 아버지의 딸이나 내 어머니의 딸은 아닙니다. 그녀가 내 아내가 되었습니다.\"",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "내 누이"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "내 아버지의"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그녀는"
+    },
+    {
+      "surface": "אך",
+      "gloss": "다만"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닙니다"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "내 어머니의"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그녀가 ~ 되었습니다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내가"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:00.837363017Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "나의 한숨 소리로 말미암아 내 뼈가 내 살에 들러붙었다.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "…소리로 말미암아"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "나의 한숨"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "들러붙었다"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "내 뼈가"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "내 살에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:04.444548608Z",
+  "model": "glm-5.2"
+}

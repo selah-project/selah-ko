@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 24:8",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "분노가 치밀어 오르 보복의 보복을 행하기 위해서이다. 내가 ⟨את⟩ 그녀의 피를 드러난 바위 위에 주었다. 덮이지 않기 위해서이다.",
+  "tokens": [
+    {
+      "surface": "להעלות",
+      "gloss": "치밀어 오르"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "분노가"
+    },
+    {
+      "surface": "לנקם",
+      "gloss": "보복의"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "보복을"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "주었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 피"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "그녀의 피를"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "드러난"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "바위"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "아니하기"
+    },
+    {
+      "surface": "הכסות",
+      "gloss": "덮이지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:55:25.279442208Z",
+  "model": "glm-5.2"
+}

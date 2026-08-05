@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "할렐루, 하늘들에서 야훼를 ⟨את⟩ 할렐하라, 높은 곳들에서 그를 할렐하라.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘들"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "그를 할렐하라"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "높은 곳들에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:54.933256905Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "야훼는 찬송받으실지어다, 시온으로부터, 예루샬라임에 거하시는 ⟨그분⟩. 할렐루-야.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "찬송받으실지어다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "시온으로부터"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "거하시는"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "할렐루"
+    },
+    {
+      "surface": "יה",
+      "gloss": "-야"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:52.679751941Z",
+  "model": "glm-5.2"
+}

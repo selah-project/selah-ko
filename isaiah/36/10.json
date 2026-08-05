@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 36:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 이제, 내가 야훼 없이 ⟨아닌⟩ 이 땅에 올라와 그것을 멸하러 한 것인가? 야훼께서 내게 말씀하셨다. 이 땅에 올라가 그것을 멸하라.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그리고 이제"
+    },
+    {
+      "surface": "המבלעדי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "עליתי",
+      "gloss": "내가 올라왔는가"
+    },
+    {
+      "surface": "על",
+      "gloss": "에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "이 땅"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "להשחיתה",
+      "gloss": "그것을 멸하러"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "이 땅"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "והשחיתה",
+      "gloss": "그리고 그것을 멸하라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:17:09.004049987Z",
+  "model": "glm-5.2"
+}

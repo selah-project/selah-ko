@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그가 그것을 그들의 손에서 받아 ⟨את⟩ 그것을 조각도로 새기고, 그것을 부어 만든 송아지로 만들었다. 그들이 말하였다. \"이스라엘아, 이것들이 너를 이집트 땅에서 올려온 네 엘로힘이다.\"",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "받아"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "그들의 손에서"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "새기고"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "조각도로"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "그것을 만들었다"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "송아지로"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "부어 만든"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이것들이"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것들이⟩"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "너를 올려온"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "이집트 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T08:05:14.808568544Z",
+  "model": "glm-5.2"
+}

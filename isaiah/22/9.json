@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 ⟨את⟩ 다윗 성의 틈들을 너희가 보았으니, 그것들이 많아졌으므로, 너희는 ⟨את⟩ 아래 저수지의 물을 모았다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "다윗 성의 틈들을"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "틈들을"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성의"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "너희가 보았으니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…이므로"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "그것들이 많아졌으니"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "너희는 모았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아래 저수지의 물을"
+    },
+    {
+      "surface": "מי",
+      "gloss": "물을"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "저수지의"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "아래"
+    }
+  ],
+  "timestamp": "2026-08-05T10:12:17.594666924Z",
+  "model": "glm-5.2"
+}

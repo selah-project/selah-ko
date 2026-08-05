@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 6:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그들이 기브아에 있는 아비나답의 집에서 그것을 들어 올렸다 — 엘로힘의 궤와 함께 — 그리고 아효가 ⟨그⟩ 궤 앞에서 걸었다.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "그들이 … 들어 올렸다"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "아비나답의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "기브아에"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "아효가"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걸었다"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "궤"
+    }
+  ],
+  "timestamp": "2026-08-05T09:37:11.500105404Z",
+  "model": "glm-5.2"
+}

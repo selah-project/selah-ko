@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "구덩이를 파는 자는 그것에 빠지고, 울타리를 뚫는 자는 뱀에게 물린다.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "파는 자"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "구덩이를"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것에"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "빠지고"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "뚫는 자"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "울타리를"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "물린다"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "뱀에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:07.178483883Z",
+  "model": "glm-5.2"
+}

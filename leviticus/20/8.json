@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "너희는 ⟨아닌⟩ 규례들을 지키고, ⟨아닌⟩ 그것들을 행하여라. 나는 너희를 거룩하게 구별하시는 야훼이다.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "규례들을"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "나의 규례들을"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "행하여라"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "너희를 거룩하게 구별하시는"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:40.788687940Z",
+  "model": "glm-5.2"
+}

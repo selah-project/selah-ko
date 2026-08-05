@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 나, 내가 징계하였다 — 내가 ⟨그⟩들의 팔들을 강하게 하였다. 그런데 ⟨그⟩들은 나에 대하여 악을 도모한다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "내가 징계하였다"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "내가 강하게 하였다"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "그들의 팔들을"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "그런데 나에 대하여"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "도모한다"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:52.543209202Z",
+  "model": "glm-5.2"
+}

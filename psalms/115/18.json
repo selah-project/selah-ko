@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 115,
+  "translation": "그러나 우리는 야를 송축하리라, 이제부터 영원까지. 할렐루 야.",
+  "tokens": [
+    {
+      "surface": "וַאֲנַ֤חְנוּ",
+      "gloss": "그러나 우리는"
+    },
+    {
+      "surface": "נְבָ֘רֵ֤ךְ",
+      "gloss": "송축하리라"
+    },
+    {
+      "surface": "יָ֗הּ",
+      "gloss": "야를"
+    },
+    {
+      "surface": "מֵֽעַתָּ֥ה",
+      "gloss": "이제부터"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "그리고 …까지"
+    },
+    {
+      "surface": "עוֹלָ֗ם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "할렐루"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "야"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:30.571257694Z",
+  "model": "glm-5.2"
+}

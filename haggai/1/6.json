@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 1:6",
+  "book": "haggai",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "너희가 많이 뿌렸으나 ⟨그것을⟩ 거두어 들임은 적고, 먹어도 배부름에 이르지 못하며, 마셔도 취함에 이르지 못하며, 옷을 입어도 그것이 더웁지 못하고, 품삯을 버는 자는 뚫린 주머니에 품삯을 버는도다.",
+  "tokens": [
+    {
+      "surface": "זרעתם",
+      "gloss": "너희가 뿌렸으나"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "많이"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "⟨그것을⟩ 거두어 들임은"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "적고"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "먹어도"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "이르지 못하며"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "배부름에"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "마셔도"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "이르지 못하며"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "취함에"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "옷을 입어도"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "아니하고"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "더웁지"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "והמשתכר",
+      "gloss": "그리고 품삯을 버는 자는"
+    },
+    {
+      "surface": "משתכר",
+      "gloss": "품삯을 버는도다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "주머니"
+    },
+    {
+      "surface": "נקוב",
+      "gloss": "뚫린"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:15.939061909Z",
+  "model": "glm-5.2"
+}

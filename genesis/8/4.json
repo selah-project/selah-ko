@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "방주가 일곱째 달, 그 달의 십칠 일에 아라라트 산들 위에 머물렀다.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "머물렀다"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주가"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "달"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일에"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "그 달의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "산들"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "아라라트"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:36.257890867Z",
+  "model": "glm-5.2"
+}

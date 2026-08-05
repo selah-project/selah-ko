@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "죽은 자들은 살지 못하며 르파임들은 일어나지 못합니다. 그러므로 주님께서 그들을 심판하사 멸망시키셨고, 그들의 모든 기억을 멸하셨습니다.",
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "죽은 자들은"
+    },
+    {
+      "surface": "בל",
+      "gloss": "못하며"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "살지"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "르파임들은"
+    },
+    {
+      "surface": "בל",
+      "gloss": "못합니다"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "일어나지"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "주님께서 심판하사"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "멸망시키셨고"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "멸하셨습니다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "기억을"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:21:25.528146998Z",
+  "model": "glm-5.2"
+}

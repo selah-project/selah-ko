@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "이제 청하건대, 내 주인 앗수르 왕에게 담보를 서라. 내가 그대에게 말 이천 필을 주리니, 그대가 그것들 위에 탈 기병을 스스로 낼 수 있다면 말이다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "담보를 서라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 주인"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주인"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아트⟩",
+      "marks": "왕"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "앗수르"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "주리니"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "이천"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "말"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "낼 수 있다면"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "스스로 낼"
+    },
+    {
+      "surface": "לך",
+      "gloss": "그대가"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "탈 기병"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그것들 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:23.300101071Z",
+  "model": "glm-5.2"
+}

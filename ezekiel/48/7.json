@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "그리고 르우벤 경계를 따라, 동쪽 끝에서 서쪽 끝까지, 예후다 하나이다.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "그리고 …위에"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "르우벤"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "…끝에서"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "끝"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "서쪽"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    }
+  ],
+  "timestamp": "2026-08-05T11:04:56.798671797Z",
+  "model": "glm-5.2"
+}

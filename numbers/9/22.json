@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 9:22",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "이틀이든, 한 달이든, 여러 날이든, 그 구름이 ⟨그⟩ 거처 위에 머물러 머무르면 이스라엘 자손이 진을 쳤고 떠나지 않았다. 그것이 올라가면 그들이 떠났다.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "이든"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "이틀이든"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "한 달이든"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "여러 날이든"
+    },
+    {
+      "surface": "בהאריך",
+      "gloss": "머물러"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "그 구름이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨그⟩ 거처"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "머무르면"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그것 위에"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니했다"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "ובהעלתו",
+      "gloss": "올라가면"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "그들이 떠났다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:33:20.177191059Z",
+  "model": "glm-5.2"
+}

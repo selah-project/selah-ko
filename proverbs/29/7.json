@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "의인은 가난한 자들의 송사를 알고, 악인은 지식을 깨닫지 못한다.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "알고"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의인은"
+    },
+    {
+      "surface": "דין",
+      "gloss": "송사를"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "가난한 자들의"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "깨닫는다"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:28.532321988Z",
+  "model": "glm-5.2"
+}

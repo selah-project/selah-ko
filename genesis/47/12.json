@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "요셉은 ⟨את⟩ 그의 아버지와 ⟨את⟩ 그의 형제들과 ⟨את⟩ 그의 아버지의 온 집을 떡으로 먹여 살렸으니, 어린 아이들의 수에 따라 ⟨이었다⟩.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "먹여 살렸으니"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아버지"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 형제들"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아버지의 온 집"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지의"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "떡으로"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "수에 따라"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "어린 아이들의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:20.411149935Z",
+  "model": "glm-5.2"
+}

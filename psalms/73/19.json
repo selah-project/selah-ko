@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "어찌 그들이 순식간에 황폐함이 되었는가! 그들은 끝이 났다, 공포들에서 사라졌다.",
+  "tokens": [
+    {
+      "surface": "אֵ֤יךְ",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "הָ֣יוּ",
+      "gloss": "되었는가"
+    },
+    {
+      "surface": "לְשַׁמָּ֣ה",
+      "gloss": "황폐함이"
+    },
+    {
+      "surface": "כְרָ֑גַע",
+      "gloss": "순식간에"
+    },
+    {
+      "surface": "סָ֥פוּ",
+      "gloss": "사라졌다"
+    },
+    {
+      "surface": "תַּ֝מּ֗וּ",
+      "gloss": "끝이 났다"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "בַּלָּהֽוֹת",
+      "gloss": "공포들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:34.273160316Z",
+  "model": "glm-5.2"
+}

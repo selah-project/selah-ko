@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "혹은 그가 범한 그의 범죄가 그에게 알려지면, 그는 ⟨את⟩ 그의 코르반(제물)을 가져와야 하니 — 염소 수컷, 흠 없는 것이라야 한다.",
+  "tokens": [
+    {
+      "surface": "אֽוֹ",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "הוֹדַ֤ע",
+      "gloss": "알려지면"
+    },
+    {
+      "surface": "אֵלָיו֙",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "חַטָּאת֔וֹ",
+      "gloss": "그의 범죄가"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "חָטָ֖א",
+      "gloss": "범한"
+    },
+    {
+      "surface": "בָּ֑הּ",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "וְהֵבִ֧יא",
+      "gloss": "그리고 가져와야 한다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 코르반"
+    },
+    {
+      "surface": "קָרְבָּנ֛וֹ",
+      "gloss": "그의 코르반을"
+    },
+    {
+      "surface": "שְׂעִ֥יר",
+      "gloss": "털이 많은 염소"
+    },
+    {
+      "surface": "עִזִּ֖ים",
+      "gloss": "염소의"
+    },
+    {
+      "surface": "זָכָ֥ר",
+      "gloss": "수컷"
+    },
+    {
+      "surface": "תָּמִֽים",
+      "gloss": "흠 없는 것"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:04.453390079Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "아모츠의 아들 예샤야후가 보고한, 유다와 예루샬라임에 관한, 그 말씀이.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "그 말씀이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "예샤야후가"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "아모츠의"
+    },
+    {
+      "surface": "על",
+      "gloss": "관한"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "예루샬라임"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:20.552034250Z",
+  "model": "glm-5.2"
+}

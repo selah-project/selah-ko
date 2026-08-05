@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 18:2",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "다윗이 ⟨את⟩ 백성을 보내니, 삼분의 일은 요아브의 손에, 삼분의 일은 요아브의 형제 츠루야의 아들 아비샤이의 손에, 삼분의 일은 가트 사람 이타이의 손에 맡겼다. 왕이 백성에게 말씀하셨다. \"나도 너희와 함께 나아가겠다.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내니"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "삼분의 일은"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브의"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "삼분의 일은"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "아비샤이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "츠루야의"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브의"
+    },
+    {
+      "surface": "והשלשת",
+      "gloss": "삼분의 일은"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "이타이"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "가트 사람"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "나아가겠다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "너희와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T13:50:34.804340806Z",
+  "model": "glm-5.2"
+}

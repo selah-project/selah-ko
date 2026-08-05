@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내가 바다인가, 아니면 타닌인가, 그대서 나 위에 파수꾼을 세우신 ⟨것⟩인가?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "바다인가"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אם",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "타닌인가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그래서"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "세우신"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나 위에"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "파수꾼을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:32.111018983Z",
+  "model": "glm-5.2"
+}

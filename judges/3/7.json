@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "이스라엘 아들들이 야훼의 눈에 악을 행하였다. 그들이 ⟨את⟩ 야훼 그들의 엘로힘을 잊어버리고, ⟨את⟩ 바알들과 ⟨또⟩ ⟨את⟩ 아세라들을 섬겼다.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "그리고 …이 행하였다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "악을"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…의 눈에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "그리고 그들이 잊어버리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "그들의 엘로힘을"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "그리고 그들이 섬겼다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바알들을"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "바알들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아세라들을"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "아세라들을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:13:29.656185023Z",
+  "model": "glm-5.2"
+}

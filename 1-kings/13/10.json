@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그가 다른 길로 가되, 자기가 ⟨아르바이트 엘에⟩ 온 그 길로는 돌아가지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֖לֶךְ",
+      "gloss": "그가 가니"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "길로"
+    },
+    {
+      "surface": "אַחֵ֑ר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "שָׁ֣ב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "בַּדֶּ֔רֶךְ",
+      "gloss": "그 길로"
+    },
+    {
+      "surface": "אֲשֶׁ֛ר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "בָּ֥א",
+      "gloss": "그가 온"
+    },
+    {
+      "surface": "בָ֖הּ",
+      "gloss": "그것으로"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "베이트"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "엘"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:58.930903657Z",
+  "model": "glm-5.2"
+}

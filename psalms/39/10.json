@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "내가 잠잠하였고 내 입을 열지 아니하였으니, 그것은 ⟨오직⟩ 그 일을 행하신 이가 바로 당신이시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "내가 잠잠하였고"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였으니"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "열지"
+    },
+    {
+      "surface": "פי",
+      "gloss": "내 입을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이시기"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "행하신 이가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:29:46.347831969Z",
+  "model": "glm-5.2"
+}

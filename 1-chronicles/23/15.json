@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "모셰의 아들들은 게르쉼과 엘리에제르이다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰의"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "게르쉼"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "그리고 엘리에제르"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:41.743187388Z",
+  "model": "glm-5.2"
+}

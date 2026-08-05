@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "거만이 오면 수치도 오고, ⟨그러나⟩ 겸손한 자들 ⟨에게는⟩ 지혜가 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "בָּֽא",
+      "gloss": "오면"
+    },
+    {
+      "surface": "זָד֭וֹן",
+      "gloss": "거만이"
+    },
+    {
+      "surface": "וַיָּבֹ֣א",
+      "gloss": "오고"
+    },
+    {
+      "surface": "קָל֑וֹן",
+      "gloss": "수치도"
+    },
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "⟨그러나⟩"
+    },
+    {
+      "surface": "צְנוּעִ֥ים",
+      "gloss": "겸손한 자들"
+    },
+    {
+      "surface": "חָכְמָֽה",
+      "gloss": "지혜"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:45.894804366Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 르파흐는 ⟨그의⟩ 아들이요, 레셉과 텔라흐는 ⟨그의⟩ 아들이요, 타한은 ⟨그의⟩ 아들이다.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "그리고 르파흐는"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들이요"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "그리고 레셉과"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "그리고 텔라흐는"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들이요"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "그리고 타한은"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:43:31.285985850Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야훼께서 그에게 죄악을 헤아리지 않으시는 사람, 그의 루아흐 안에 속임이 없는 ⟨사람⟩은 복이 있다.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복이 있다"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하시는"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "헤아리"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악을"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "그의 루아흐 안에"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "속임이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:22.117812828Z",
+  "model": "glm-5.2"
+}

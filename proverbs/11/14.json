@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "지략이 없으면 백성이 무너지나, 구원은 모사가 많은 데 있다.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "없으면"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "지략이"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "무너지나"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "구원은"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "많은 데"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "모사가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:28.891486041Z",
+  "model": "glm-5.2"
+}

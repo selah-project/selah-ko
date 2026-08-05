@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "아삽의 시편이다. 엘, 엘로힘, 야훼께서 말씀하셨다. 그리고 ⟨그가⟩ 땅을 부르셨다, 해 뜨는 곳부터 그것이 들어가는 곳까지.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "시편"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "아삽의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 부르셨다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "해 뜨는 곳부터"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "해의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "그것이 들어가는 곳"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:48.643914322Z",
+  "model": "glm-5.2"
+}

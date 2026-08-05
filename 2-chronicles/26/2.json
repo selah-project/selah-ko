@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그가 ⟨את⟩ 엘롯을 건축하고, 그것을 유다에게 되돌려 주었으니, 왕이 그의 조상들과 함께 눕고 난 뒤였다.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "건축하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘롯을"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "엘롯"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "되돌려 주었으니"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "유다에게"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…뒤"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "눕고"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와 함께"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "그의 조상들"
+    }
+  ],
+  "timestamp": "2026-08-05T13:00:50.338458859Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "내가 예전 날들을 헤아렸다, 영원의 해들을.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "내가 헤아렸다"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들을"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "예전"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "해들을"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "영원의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:59.381066896Z",
+  "model": "glm-5.2"
+}

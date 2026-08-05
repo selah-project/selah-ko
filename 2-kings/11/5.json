@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 그가 그들에게 명령하여 이르기를, 이것이 너희가 행할 말씀이다. 너희 중 삼분의 일은 샤밧에 들어오는 자들로 왕궁의 초소를 지키는 자들이 되고,",
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "그리고 그가 그들에게 명령하셨다"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "말씀이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…를"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "너희가 행할"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "삼분의 일은"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "너희 중"
+    },
+    {
+      "surface": "באי",
+      "gloss": "들어오는 자들"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "샤밧에"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "그리고 지키는 자들"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "초소를"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    }
+  ],
+  "timestamp": "2026-08-05T13:51:52.606672257Z",
+  "model": "glm-5.2"
+}

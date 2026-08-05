@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 19:10",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "온 백성이 모든 이스라엘 지파 가운데서 다투며 말하게 되었는데, 이르기를, \"왕이 우리를 우리 원수들의 손에서 건지셨고, 그가 우리를 블레셋 사람들의 손에서 구출하셨는데, 이제 그가 아브샬롬 때문에 이 땅에서 도망하였다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "되었는데"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "נדון",
+      "gloss": "다투며"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든 …가운데서"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "지파"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "건지셨고"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "…손에서"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "우리 원수들의"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "מלטנו",
+      "gloss": "구출하셨는데"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "…손에서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들의"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "이 땅"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:14.313885608Z",
+  "model": "glm-5.2"
+}

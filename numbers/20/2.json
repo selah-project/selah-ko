@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "회중에게 물이 없었다. 그들이 모셰와 아하론에게 모여 들었다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨이었다⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "회중에게"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "모여 들었다"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:34.954459205Z",
+  "model": "glm-5.2"
+}

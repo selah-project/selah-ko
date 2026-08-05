@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "나 ⟨곧⟩ 왕의 입을 지키라, 그리고 엘로힘의 맹세 ⟨때문에⟩.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "나 ⟨곧⟩"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "입을"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "שְׁמוֹר",
+      "gloss": "지키라"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "그리고 …⟨때문에⟩"
+    },
+    {
+      "surface": "דִּבְרַת",
+      "gloss": "…⟨때문에⟩"
+    },
+    {
+      "surface": "שְׁבוּעַת",
+      "gloss": "맹세"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:36.758839678Z",
+  "model": "glm-5.2"
+}

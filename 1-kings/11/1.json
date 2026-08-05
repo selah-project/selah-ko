@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 왕 셸로모는 많은 이방 여인들을 사랑하였으니, ⟨곧⟩ ⟨את⟩ 파르오의 딸과 모압 여인들, 암몬 여인들, 에돔 여인들, 츠돈 여인들, 헷 여인들을 ⟨함께⟩.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "그리고 왕은"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "사랑하였다"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "여인들을"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "이방의"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "많은"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "파르오의 딸"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "모압 여인들"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "암몬 여인들"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "에돔 여인들"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "츠돈 여인들"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "헷 여인들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:29.298525037Z",
+  "model": "glm-5.2"
+}

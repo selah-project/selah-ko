@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 모셰와 아하론이 온 이스라엘 자손에게 말하였다. “저녁이 되면, 너희가 야훼께서 너희를 미츠라임 땅에서 이끌어 내셨음을 알게 될 것이다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ~가 말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "그리고 아하론"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "저녁이 되면"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "너희가 알게 될 것이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "이끌어 내셨음을"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    }
+  ],
+  "timestamp": "2026-08-05T07:55:59.232234446Z",
+  "model": "glm-5.2"
+}

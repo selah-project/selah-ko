@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "내가 원하는 것은 헤세드이지 제물이 아니며, 엘로힘을 아는 것은 올라보다 낫기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "헤세드"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "내가 원하셨다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …아니다"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제물"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "그리고 …아는 것"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "올라보다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:54.100604569Z",
+  "model": "glm-5.2"
+}

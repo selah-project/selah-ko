@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그러므로 악인들은 심판에서 일어서지 못하며, 죄인들은 의인들의 회중에 ⟨서지⟩ 못한다.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "⟨그러므로·그 위에⟩"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יָקֻמוּ",
+      "gloss": "일어서다"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "악인들"
+    },
+    {
+      "surface": "בַּמִּשְׁפָּט",
+      "gloss": "심판에서"
+    },
+    {
+      "surface": "וְחַטָּאִים",
+      "gloss": "그리고 죄인들"
+    },
+    {
+      "surface": "בַּעֲדַת",
+      "gloss": "회중에"
+    },
+    {
+      "surface": "צַדִּיקִֽים",
+      "gloss": "의인들의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:51.291235662Z",
+  "model": "glm-5.2"
+}

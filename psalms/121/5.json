@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 121,
+  "translation": "야훼께서 ⟨당신을⟩ 지키신다, 야훼께서 ⟨당신의⟩ 그늘이시다, ⟨당신의⟩ 오른손 위에.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "지키신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "그늘이시다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "오른"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:52.904987878Z",
+  "model": "glm-5.2"
+}

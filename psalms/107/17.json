@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "어리석은 자들은 그들의 반역의 길로 말미암아, 그리고 그들의 죄악들로 인해 고통을 받았다.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "어리석은 자들은"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "길로 말미암아"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "그들의 반역의"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "그리고 그들의 죄악들로 인해"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "고통을 받았다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:05.295063520Z",
+  "model": "glm-5.2"
+}

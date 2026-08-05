@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 브에롯 사람들이 깃타임으로 도망하여, 거기에서 오늘까지 거류인으로 있었다.)",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "그리고 …이 도망하여"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "브에롯 사람들"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "깃타임으로"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "그리고 …이 있었다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에서"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "거류인으로"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:36:21.257429832Z",
+  "model": "glm-5.2"
+}

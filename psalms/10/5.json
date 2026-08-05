@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그의 길들은 모든 때에 견고하니, 주의 판결들이 그의 눈앞에서 높이 ⟨있으나⟩, 그의 모든 대적들을 그가 코웃음 친다.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "견고하니"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "그의 길들은"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "높이"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "주의 판결들이"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "그의 눈앞에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "그의 모든"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "대적들을"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "그가 코웃음 친다"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:43.167030379Z",
+  "model": "glm-5.2"
+}

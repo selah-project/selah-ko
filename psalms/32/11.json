@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야훼 안에서 기뻐하라, 의인들아, 환호하라. 마음이 바른 모든 너희여, 즐거이 소리 내어라.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "기뻐하라"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼 안에서"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "환호하라"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의인들아"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "즐거이 소리 내어라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "바른"
+    },
+    {
+      "surface": "לב",
+      "gloss": "마음이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:01.150997331Z",
+  "model": "glm-5.2"
+}

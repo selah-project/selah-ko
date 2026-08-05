@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "나와 함께 야훼를 크게 하라, 그리고 우리가 그의 이름을 함께 높이자.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "크게 하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "그리고 우리가 높이자"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름을"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:21.955202716Z",
+  "model": "glm-5.2"
+}

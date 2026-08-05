@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그들이 멈추어 설 때 ⟨그것들도⟩ 섰고, 그들이 들어올려질 때 ⟨그것들도⟩ 들어올려졌다 — 루아흐(숨)가 ⟨그⟩ 생물 안에 있었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "그들이 멈추어 설 때"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "섰다"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "그리고 그들이 들어올려질 때"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "들어올려졌다"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들(바퀴들)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐(숨)"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "그 생물"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그들 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:50:04.813008029Z",
+  "model": "glm-5.2"
+}

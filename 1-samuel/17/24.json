@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그리고 이스라엘의 모든 남자가 ⟨את⟩ 그 사나이를 보고, 그의 앞에서 도망하였다, 그리고 심히 두려워하였다.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "보고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사나이를"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "그 사나이를"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "그리고 도망하였다"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "그의 앞에서"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "그리고 두려워하였다"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:06.906341383Z",
+  "model": "glm-5.2"
+}

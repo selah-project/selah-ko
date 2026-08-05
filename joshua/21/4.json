@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 21:4",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "제비가 케핫 가문들에게로 나왔다. 레위 사람들 가운데 있는 코헨 아론의 자손들에게 유다 지파에서, 시므온 지파에서, 베냐민 지파에서 제비로 열세 성읍이 있게 되었다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나왔다"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "제비가"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "가문들에게로"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "케핫"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "있게 되었다"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "자손들에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "지파에서"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "그리고 지파에서"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "시므온"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "그리고 지파에서"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "베냐민"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "제비로"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "성읍이"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "세"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    }
+  ],
+  "timestamp": "2026-08-05T09:11:05.942877267Z",
+  "model": "glm-5.2"
+}

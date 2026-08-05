@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 40:36",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "그리고 그 구름이 미쉬칸 위에서 올라올 때마다, 이스라엘 자손이 그들의 모든 여정에서 떠나 전진하였다.",
+  "tokens": [
+    {
+      "surface": "ובהעלות",
+      "gloss": "그리고 올라올 때"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "그 구름이"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "그 미쉬칸"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "전진하였다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "그들의 여정에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:07.562664628Z",
+  "model": "glm-5.2"
+}

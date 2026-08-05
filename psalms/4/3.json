@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "사람의 아들들아, 언제까지, 나의 영광이 수치가 되는 것을 — 헛됨을 사랑하며 거짓을 구하느냐? 셀라.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들아"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "עד",
+      "gloss": "언제까지"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨그것이⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "나의 영광이"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "수치가 되는 것을"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "사랑하며"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "헛됨을"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "구하느냐"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:22.366797820Z",
+  "model": "glm-5.2"
+}

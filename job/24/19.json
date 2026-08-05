@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 24:19",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "가뭄과 더위가 눈의 물들을 빼앗아 가듯, 셰올이 죄 지은 자들을 ⟨빼앗아 간다⟩.",
+  "tokens": [
+    {
+      "surface": "צִיָּ֤ה",
+      "gloss": "가뭄"
+    },
+    {
+      "surface": "גַם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "חֹ֗ם",
+      "gloss": "더위"
+    },
+    {
+      "surface": "יִגְזְל֥וּ",
+      "gloss": "빼앗아 가듯"
+    },
+    {
+      "surface": "מֵֽימֵי",
+      "gloss": "물들"
+    },
+    {
+      "surface": "שֶׁ֗לֶג",
+      "gloss": "눈"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "셰올"
+    },
+    {
+      "surface": "חָטָֽאוּ",
+      "gloss": "죄 지은 자들을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:08:22.738114256Z",
+  "model": "glm-5.2"
+}

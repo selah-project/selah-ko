@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 히즈키야후와 방백들이 와서 ⟨את⟩ 그 더미들을 보았고, 야훼를 송축하였으며 ⟨את⟩ 그의 백성 이스라엘을 송축하였다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "그리고 와서"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "히즈키야후와"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "그리고 방백들이"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "그리고 보았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 더미들을"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "그 더미들을"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "그리고 송축하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 백성 이스라엘을"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T13:02:20.454416314Z",
+  "model": "glm-5.2"
+}

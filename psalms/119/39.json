@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "내가 두려워하는 나의 치욕을 ⟨거두어⟩ 주소서, 오직 ⟨주의⟩ 규례들은 선하니이다.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "⟨거두어⟩ 주소서"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "나의 치욕을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "내가 두려워하는"
+    },
+    {
+      "surface": "כי",
+      "gloss": "오직"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "⟨주의⟩ 규례들은"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "선하니이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:50.680329877Z",
+  "model": "glm-5.2"
+}

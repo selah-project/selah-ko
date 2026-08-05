@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "거짓 소문을 받아들이지 말아라. 악인과 함께 ⟨네⟩ 손을 두어 폭력의 증인이 되지 말아라.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "…말아라"
+    },
+    {
+      "surface": "תִשָּׂ֖א",
+      "gloss": "받아들이지"
+    },
+    {
+      "surface": "שֵׁ֣מַע",
+      "gloss": "소문을"
+    },
+    {
+      "surface": "שָׁ֑וְא",
+      "gloss": "거짓"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "…말아라"
+    },
+    {
+      "surface": "תָּ֤שֶׁת",
+      "gloss": "두어"
+    },
+    {
+      "surface": "יָֽדְךָ֙",
+      "gloss": "손을"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "רָשָׁ֔ע",
+      "gloss": "악인과"
+    },
+    {
+      "surface": "לִהְיֹ֖ת",
+      "gloss": "되"
+    },
+    {
+      "surface": "עֵ֥ד",
+      "gloss": "증인이"
+    },
+    {
+      "surface": "חָמָֽס",
+      "gloss": "폭력의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:22.265764242Z",
+  "model": "glm-5.2"
+}

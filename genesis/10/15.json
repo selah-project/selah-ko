@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 가나안은 ⟨את⟩ 그의 첫째 찌돈과 ⟨את⟩ 헷을 낳았다.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "그리고 가나안은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "찌돈"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "찌돈"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "그의 첫째"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "헷"
+    },
+    {
+      "surface": "חת",
+      "gloss": "헷을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:36.432996165Z",
+  "model": "glm-5.2"
+}

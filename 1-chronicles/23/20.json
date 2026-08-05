@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "우찌엘의 아들들은 미카가 우두머리, 위쉬야가 둘째였다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "우찌엘의"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "미카가"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "우두머리"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "위쉬야가"
+    },
+    {
+      "surface": "השני",
+      "gloss": "둘째"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:39.340165561Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "모셰가 듣고, 그것이 그의 눈에 좋았다.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֣ע",
+      "gloss": "그리고 듣고"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "וַיִּיטַ֖ב",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "בְּעֵינָֽיו",
+      "gloss": "그의 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:29.819305968Z",
+  "model": "glm-5.2"
+}

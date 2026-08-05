@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 129,
+  "translation": "그들이 지붕들 위의 풀처럼 되게 하라 — 채 뽑히기도 전에 마르는.",
+  "tokens": [
+    {
+      "surface": "יִ֭הְיוּ",
+      "gloss": "되게 하라"
+    },
+    {
+      "surface": "כַּחֲצִ֣יר",
+      "gloss": "풀처럼"
+    },
+    {
+      "surface": "גַּגּ֑וֹת",
+      "gloss": "지붕들 위의"
+    },
+    {
+      "surface": "שֶׁקַּדְמַ֖ת",
+      "gloss": "채 …하기도 전에"
+    },
+    {
+      "surface": "שָׁלַ֣ף",
+      "gloss": "뽑히기"
+    },
+    {
+      "surface": "יָבֵֽשׁ",
+      "gloss": "마르는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:45.305463502Z",
+  "model": "glm-5.2"
+}

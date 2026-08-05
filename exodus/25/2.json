@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "이스라엘 자손에게 말하여, 그들이 나를 위해 테루마를 가져오게 하라. 그의 마음이 자원하게 하는 모든 사람에게서 ⟨나의⟩ 테루마를 가져와라 — ⟨את⟩ 나의 테루마를.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "그들이 가져오게 하라"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나를 위해"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "테루마"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "자원하게 하는"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음이"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "가져와라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 테루마를"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "나의 테루마"
+    }
+  ],
+  "timestamp": "2026-08-05T19:34:34.443156960Z",
+  "model": "glm-5.2"
+}

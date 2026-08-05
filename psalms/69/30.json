@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "그러나 나는 가난하고 괴로우니, 엘로힘, 당신의 구원이 나를 높이 세우소서.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그러나 나는"
+    },
+    {
+      "surface": "עני",
+      "gloss": "가난하고"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "괴로우니"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "당신의 구원이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "나를 높이 세우소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:00.365227416Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그를 억압하여 억압하면 — 그가 ⟨만약⟩ 나에게 부르짖어 부르짖으면, 내가 듣고 그의 부르짖음을 들으리니.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "만약"
+    },
+    {
+      "surface": "עַנֵּ֥ה",
+      "gloss": "억압하여"
+    },
+    {
+      "surface": "תְעַנֶּ֖ה",
+      "gloss": "억압하면"
+    },
+    {
+      "surface": "אֹת֑וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "—"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨만약⟩"
+    },
+    {
+      "surface": "צָעֹפ",
+      "gloss": "부르짖어"
+    },
+    {
+      "surface": "יִצְעַק֙",
+      "gloss": "부르짖으면"
+    },
+    {
+      "surface": "אֵלַ֔י",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "שָׁמֹ֥עַ",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "אֶשְׁמַ֖ע",
+      "gloss": "들으리니"
+    },
+    {
+      "surface": "צַעֲקָתֽוֹ",
+      "gloss": "그의 부르짖음을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:57:59.061254773Z",
+  "model": "glm-5.2"
+}

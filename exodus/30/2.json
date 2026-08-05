@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "한 암마가 그것의 길이, 한 암마가 그것의 너비 — 정사각형이 되어야 한다 — 그리고 두 암마가 그것의 높이, 그것의 뿔들은 ⟨그것⟩에게서 ⟨나와야⟩ 한다.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "한 암마가"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "그것의 길이"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "한 암마가"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "그것의 너비"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "정사각형"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "되어야 한다"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "두 암마가"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "그것의 높이"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것에게서"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "그것의 뿔들은"
+    }
+  ],
+  "timestamp": "2026-08-05T13:37:16.161850194Z",
+  "model": "glm-5.2"
+}

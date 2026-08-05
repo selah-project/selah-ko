@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 23:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 이 일 후에, 아브라함이 ⟨את⟩ 사라, ⟨그의⟩ 아내를 매장하였다—마므레 앞에 있는 마크펠라 밭의 동굴로, 곧 그것은 가나안 땅의 헤브론이다.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "이"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "매장하였다"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사라"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "사라"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "동굴로"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "밭의"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "마크펠라"
+    },
+    {
+      "surface": "על",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "פני",
+      "gloss": "—"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "마므레"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "곧 그것은"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "헤브론이다"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:45.379156755Z",
+  "model": "glm-5.2"
+}

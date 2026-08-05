@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 개들이 이즈벨을 예즈르엘의 구역에서 먹되, 그것을 묻는 자가 없으리라. ⟨그⟩ 문을 열고 도망하였다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "이즈벨을"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "이즈벨을"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "먹되"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "개들이"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "… 구역에서"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "예즈르엘의"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없으리라"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "묻는 자가"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "열고"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "⟨그⟩ 문을"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "도망하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:20.376408426Z",
+  "model": "glm-5.2"
+}

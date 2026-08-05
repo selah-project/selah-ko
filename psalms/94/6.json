@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "과부와 거류민을 죽이고, 고아들을 살해한다.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "과부와"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "거류민을"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "죽이고"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "고아들을"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "살해한다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:35.312552567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "예후가 이즈르엘에 들어오자 이제벨이 듣고 눈 화장을 하고 ⟨את⟩ 자기 머리를 단장하며 창문 너머로 내다보았다.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "들어오자"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "예후"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "이즈르엘에"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "그리고 이제벨"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "넣고"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "안타몬 화장품을"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "자기 눈에"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "단장하며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 머리"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "자기 머리를"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "내다보았다"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "너머로"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "창문"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:28.606331325Z",
+  "model": "glm-5.2"
+}

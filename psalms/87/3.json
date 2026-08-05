@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 87,
+  "translation": "영광스러운 일들이 너에 대해 말하여진다, 엘로힘의 도시여. 셀라.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "영광스러운 일들이"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "말하여진다"
+    },
+    {
+      "surface": "בך",
+      "gloss": "너에 대해"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "도시여"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:17.924155955Z",
+  "model": "glm-5.2"
+}

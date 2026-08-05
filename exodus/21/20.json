@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 어떤 사람이 몽둥이로 ⟨את⟩ 자기 남종이나 ⟨את⟩ 자기 여종을 쳐서, 그가 자기 손 아래에서 죽으면, 반드시 보복을 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "쳐서"
+    },
+    {
+      "surface": "איש",
+      "gloss": "어떤 사람이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 남종을"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "자기 남종을"
+    },
+    {
+      "surface": "או",
+      "gloss": "이나"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 여종을"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "자기 여종을"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "몽둥이로"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "그리고 죽으면"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "~아래에서"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "자기 손"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "보복으로"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "보복을 당할 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:08.406985823Z",
+  "model": "glm-5.2"
+}

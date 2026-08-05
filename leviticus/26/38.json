@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "그리고 너희는 민족들 가운데서 멸망할 것이며, 너희 원수들의 땅이 ⟨את⟩ 너희를 삼킬 것이다.",
+  "tokens": [
+    {
+      "surface": "וַאֲבַדְתֶּם",
+      "gloss": "그리고 너희는 멸망할 것이며"
+    },
+    {
+      "surface": "בַּגּוֹיִם",
+      "gloss": "민족들 가운데서"
+    },
+    {
+      "surface": "וְאָכְלָה",
+      "gloss": "삼킬 것이다"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "אֹיְבֵיכֶם",
+      "gloss": "너희 원수들의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:04:09.167116383Z",
+  "model": "glm-5.2"
+}

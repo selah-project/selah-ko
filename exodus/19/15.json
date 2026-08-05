@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그가 ⟨그⟩ 백성에게 말하였다. \"삼 일 동안 준비되어 있어라. 여인에게 가까이하지 말라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있어라"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "준비되어"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "삼 …동안"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "일"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "가까이하지"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여인"
+    }
+  ],
+  "timestamp": "2026-08-05T17:18:35.565164822Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "나에게서 돌아서라, 모든 불의를 행하는 자들아, 야훼께서 내 울음소리를 들으셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "돌아서라"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "행하는 자들"
+    },
+    {
+      "surface": "און",
+      "gloss": "불의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들으셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "내 울음"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:08.090897962Z",
+  "model": "glm-5.2"
+}

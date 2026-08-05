@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 3:8",
+  "book": "nahum",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "너가 물이 그녀를 둘러싸고 강들 가운데에 앉아 있는 노 아몬보다 나으냐? 그녀의 성벽은 바다에서, 바다가 그녀의 방벽이었다.",
+  "tokens": [
+    {
+      "surface": "התיטבי",
+      "gloss": "너가 나으냐"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "노에서"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "아몬"
+    },
+    {
+      "surface": "הישבה",
+      "gloss": "앉아 있는"
+    },
+    {
+      "surface": "ביארים",
+      "gloss": "강들 가운데에"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘러싸고"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "방벽은"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다가"
+    },
+    {
+      "surface": "מים",
+      "gloss": "바다에서"
+    },
+    {
+      "surface": "חומתה",
+      "gloss": "그녀의 성벽이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:20.506584132Z",
+  "model": "glm-5.2"
+}

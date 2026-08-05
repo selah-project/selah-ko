@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "내 엘로힘, 내 위에 내 네페쉬가 유려하나니 그러므로 내가 ⟨그⟩샤를 기억하리라, 야르덴 땅에서와, 헤르몬들에서와, 미차르 산에서.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "내 엘로힘"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "내 위에"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "유려하나니"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "내가 기억하리라"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "야르덴"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "헤르몬들에서와"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "산에서"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "미차르"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:42.268864613Z",
+  "model": "glm-5.2"
+}

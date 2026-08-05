@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 온 이스라엘 사람들이 명절에 왕에게 모였으니, 곧 일곱째 달이었다.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "모였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "명절에"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "곧"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "달이었다"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "일곱째"
+    }
+  ],
+  "timestamp": "2026-08-05T12:52:55.879493086Z",
+  "model": "glm-5.2"
+}

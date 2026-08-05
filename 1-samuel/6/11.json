@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 그들이 ⟨את⟩ 야훼의 궤를 수레에 싣고, ⟨את⟩ 궤와 ⟨את⟩ 금쥐들과 ⟨את⟩ 그들의 종기들의 상들을 함께 실었더라.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "그리고 그들이 싣고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "궤"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "수레"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "궤"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "궤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "금쥐들"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "쥐들"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "상들"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "상들"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "그들의 종기들의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:24:33.860090834Z",
+  "model": "glm-5.2"
+}

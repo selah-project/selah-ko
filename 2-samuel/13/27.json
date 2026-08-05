@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "아브샬롬이 ⟨그를⟩ 몹시 간청하매, ⟨그가⟩ ⟨את⟩ 암논과 ⟨את⟩ 왕의 아들들 모두를 그와 함께 보내었다.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "몹시 간청하매"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨그를⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "아브샬롬이"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "보내었다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "암논"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "암논"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "왕의 아들들 모두"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모두"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:05.052631955Z",
+  "model": "glm-5.2"
+}

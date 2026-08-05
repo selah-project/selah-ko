@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 5:8",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "만일 내가 왕의 눈에 헨을 얻었고, 만일 왕이 좋게 여기시는 것이라면 — ⟨את⟩ 나의 청을 주시고 ⟨את⟩ 나의 요청을 이루시려면, 왕과 하만이 내가 그들을 위해 마련하는 잔치에 오시고, 내일은 왕의 말씀대로 하겠습니다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "내가 … 얻었고"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨을"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "…의 눈에"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋게 여기시는 것이라면"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 청"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "나의 청을"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "그리고 이루시려면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 요청"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "나의 요청을"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "오시고"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "그리고 하만이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "잔치에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 마련하는"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들을 위해"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "그리고 내일은"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 … 하겠습니다"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "…대로"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:29:18.084132965Z",
+  "model": "glm-5.2"
+}

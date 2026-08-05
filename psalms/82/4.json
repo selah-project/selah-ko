@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 82,
+  "translation": "가난한 자와 궁핍한 자를 건져 내라; 악인들의 손에서 그들을 빼내라.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "건져 내라"
+    },
+    {
+      "surface": "דל",
+      "gloss": "가난한 자를"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "궁핍한 자와"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "빼내라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:15.342000358Z",
+  "model": "glm-5.2"
+}

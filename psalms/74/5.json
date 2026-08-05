@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "알려졌다, 마치 높은 곳으로 가져오는 자처럼, 나무 우거진 곳에 도끼들이.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "알려졌다"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "마치 가져오는 자처럼"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "높은 곳으로"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "우거진 곳에"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "도끼들이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:53.816006695Z",
+  "model": "glm-5.2"
+}

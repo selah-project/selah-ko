@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "이제 이것을 깨달아라, 엘로아흐를 잊어버린 자들아, 내가 찢으리라, 그리하면 건져낼 자가 없으리라.",
+  "tokens": [
+    {
+      "surface": "בִּינוּ",
+      "gloss": "깨달아라"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "이제"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "שֹׁכְחֵי",
+      "gloss": "잊어버린 자들아"
+    },
+    {
+      "surface": "אֱלוֹהַּ",
+      "gloss": "엘로아흐를"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "…하여, 그리하면"
+    },
+    {
+      "surface": "אֶטְרֹף",
+      "gloss": "내가 찢으리라"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "…가 없으리라"
+    },
+    {
+      "surface": "מַצִּיל",
+      "gloss": "건져낼 자"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:33.914094830Z",
+  "model": "glm-5.2"
+}

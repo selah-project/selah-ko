@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "슬기로운 ⟨자는⟩ 악을 보고 숨으며, 미련한 ⟨자들은⟩ 지나가고 벌을 받는다.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "슬기로운"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보고"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악을"
+    },
+    {
+      "surface": "ולסתר",
+      "gloss": "숨으며"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "미련한"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "지나가고"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "벌을 받는다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:41.426366933Z",
+  "model": "glm-5.2"
+}

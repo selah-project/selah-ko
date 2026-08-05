@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "우리의 유산이 낯선 자들에게 돌아갔고, 우리의 집들이 타국인들에게 ⟨돌아갔다⟩.",
+  "tokens": [
+    {
+      "surface": "נַחֲלָתֵ֨נוּ֙",
+      "gloss": "우리의 유산이"
+    },
+    {
+      "surface": "נֶֽהֶפְכָ֣ה",
+      "gloss": "돌아갔고"
+    },
+    {
+      "surface": "לְזָרִ֔ים",
+      "gloss": "낯선 자들에게"
+    },
+    {
+      "surface": "בָּתֵּ֖ינוּ",
+      "gloss": "우리의 집들이"
+    },
+    {
+      "surface": "לְנָכְרִֽים",
+      "gloss": "타국인들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:47.569298750Z",
+  "model": "glm-5.2"
+}

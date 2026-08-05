@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "너로 하여금 선한 자들의 길을 걷고, 의로운 자들의 길들을 지키게 하려 함이니,",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "~하게 하려 함이니"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "걸으며"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "선한 자들의"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "길들을"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들의"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "지키고"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:50.063532767Z",
+  "model": "glm-5.2"
+}

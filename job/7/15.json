@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리하여 나의 네페쉬는 교살을, 나의 뼈들에서의 죽음을 택하였다",
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "그리하여 … 택하였다"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "교살을"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬는"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음을"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "나의 뼈들에서의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:02:29.160682283Z",
+  "model": "glm-5.2"
+}

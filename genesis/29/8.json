@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 29:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그들이 말하였다. \"할 수 없습니다. 모든 떼가 모일 때까지, 그들이 ⟨את⟩ 그 돌을 우물 아구에서부터 굴려 낼 때까지 — 그런 다음 우리가 양 떼에게 물을 먹입니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아닙니다"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "할 수"
+    },
+    {
+      "surface": "עד",
+      "gloss": "때까지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "모일"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "떼가"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "그들이 굴려 낼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 돌"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서부터"
+    },
+    {
+      "surface": "פי",
+      "gloss": "아구"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "우물"
+    },
+    {
+      "surface": "והשקינו",
+      "gloss": "물을 먹입니다"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "양 떼에게"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:48.195721133Z",
+  "model": "glm-5.2"
+}

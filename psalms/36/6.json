@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "야훼, 하늘들에 ⟨있는⟩ 당신의 헤세드(인애), 당신의 신실하심은 구름들에까지 ⟨미친다⟩",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "하늘들에"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "당신의 헤세드(인애)"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "당신의 신실하심은"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "구름들에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:02.032609677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그들이 모두 대답하며 네게 말하기를, '너도 우리처럼 약하여졌고, 우리에게 비겨졌구나' 하리라.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "그들이 모두"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "대답하며"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "גם",
+      "gloss": "도"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "약하여졌고"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "우리처럼"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "비겨졌구나"
+    }
+  ],
+  "timestamp": "2026-08-05T10:10:33.513291328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "아하브의 온 집이 멸망할 것이니, 내가 아하브에게서 벽에 소변보는 자와, 갇힌 자와, 남은 자를 이스라엘 가운데서 끊어 버리리라.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "그리고 멸망하리라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집이"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브의"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "내가 끊어 버리리라"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "아하브에게서"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "벽에 소변보는 자를"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "벽에"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "갇힌 자와"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "남은 자를"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘 가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:00.885224326Z",
+  "model": "glm-5.2"
+}

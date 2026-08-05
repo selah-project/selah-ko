@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "샤다이가 거기서 왕들을 흩으실 때, ⟨그것이⟩ 짤몬에서 눈처럼 하얗게 되었도다.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "흩으실 때"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이가"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "왕들을"
+    },
+    {
+      "surface": "בה",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "하얗게 되었도다"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "짤몬에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:42.099394994Z",
+  "model": "glm-5.2"
+}

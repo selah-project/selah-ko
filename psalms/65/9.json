@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "땅끝에 사는 자들도 ⟨그대의⟩ 표적들로 인해 두려워하며, 아침과 저녁의 나가는 곳들이 ⟨그대가⟩ 환성을 지르게 하시나이다.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "두려워하며"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "사는 자들도"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "땅끝에"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "⟨그대의⟩ 표적들로 인해"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "나가는 곳들이"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침과"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "저녁의"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "환성을 지르게 하시나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:45.745559283Z",
+  "model": "glm-5.2"
+}

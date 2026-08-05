@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 분노와 진노로 ⟨את⟩ 민족들에게 보복을 행하시리니, 그들은 순종하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "그리고 행하시리니"
+    },
+    {
+      "surface": "באף",
+      "gloss": "분노로"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "그리고 진노로"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "보복을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "민족들"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "순종하지 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:35.728758275Z",
+  "model": "glm-5.2"
+}

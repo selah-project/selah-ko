@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "어찌 그리 아름다운가, 야곱아, 네 천막들은! 이스라엘아, 네 거처들은!",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "어찌 그리"
+    },
+    {
+      "surface": "טֹּ֥בוּ",
+      "gloss": "아름다운가"
+    },
+    {
+      "surface": "אֹהָלֶ֖יךָ",
+      "gloss": "네 천막들은"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "야곱아"
+    },
+    {
+      "surface": "מִשְׁכְּנֹתֶ֖יךָ",
+      "gloss": "네 거처들은"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "이스라엘아"
+    }
+  ],
+  "timestamp": "2026-08-05T08:42:42.414968551Z",
+  "model": "glm-5.2"
+}

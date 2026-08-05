@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "모셰가 진영으로 돌아갔다, 그와 이스라엘의 장로들이 함께.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "장로들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:10:58.914713406Z",
+  "model": "glm-5.2"
+}

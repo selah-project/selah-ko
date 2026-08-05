@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 ⟨את⟩ ⟨그⟩ 빛을 보셨는데, ⟨그것이⟩ 좋았다. 엘로힘이 ⟨그⟩ 빛과 ⟨그⟩ 어둠 사이를 구분하셨다.",
+  "tokens": [
+    {
+      "surface": "ורא",
+      "gloss": "보셨는데"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 빛"
+    },
+    {
+      "surface": "האור",
+      "gloss": "빛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋았다"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "구분하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이를"
+    },
+    {
+      "surface": "האור",
+      "gloss": "빛"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "과"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "어둠"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:21.127211372Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 야훼께서 말씀하셨다. \"스돔과 아모라의 부르짖음이 — 과연 크고, 그들의 죄가 — 과연 심히 무겁기 때문이라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "부르짖음"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "스돔"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "그리고 아모라의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— 과연"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "크고"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "그리고 그들의 죄가"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— 과연"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "심히 무겁기"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "때문이라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:17.404055505Z",
+  "model": "glm-5.2"
+}

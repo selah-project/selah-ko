@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그를 찾아낸 자들이, ⟨그가⟩ 나무를 줍고 있는 ⟨את⟩ 그를, 모셰와 아하론과 온 회중에게로 데려왔다.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "데려왔다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "찾아낸 자들이"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "줍고 있는"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "나무를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰와"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "과"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론과"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "과"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "회중"
+    }
+  ],
+  "timestamp": "2026-08-05T08:36:52.539217048Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그 나무가 커지고 힘이 있었다. 그 높이가 하늘에까지 미치고, 그 보임이 온 땅의 끝까지 ⟨미쳤다⟩.",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "커지고"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "그 나무가"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "그리고 힘이 있었다"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "그리고 그 높이가"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "미치고"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "하늘에까지"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "그리고 그 보임이"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "…의 끝까지"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T12:25:54.038788260Z",
+  "model": "glm-5.2"
+}

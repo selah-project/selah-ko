@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 ⟨את⟩ 모든 전리품과 ⟨את⟩ 모든 포획물을 — 사람과 가축 중에서 — 가져갔다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "가져갔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 전리품"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "전리품"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 포획물"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "포획물"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "가축"
+    }
+  ],
+  "timestamp": "2026-08-05T08:46:35.532471775Z",
+  "model": "glm-5.2"
+}

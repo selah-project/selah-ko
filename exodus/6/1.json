@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"이제 네가 보리니, 내가 파르오에게 행하는 것이 무엇인지 — 그가 강한 손으로 그들을 보내고, 강한 손으로 그들을 그의 땅에서 쫓아내리라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "네가 보리니"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "무엇인지"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "내가 행하는"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "파르오에게"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "강한"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "그가 보내고"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "강한"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "그가 쫓아내리라"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "그의 땅에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:08.426082171Z",
+  "model": "glm-5.2"
+}

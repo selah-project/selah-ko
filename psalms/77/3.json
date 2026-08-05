@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "나의 고통의 날에 아도나이를 내가 구하였다. 밤에 나의 손이 펼쳐졌고 쉬지 아니하였다. 나의 네페쉬는 위로 받기를 거부하였다.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…의 날에"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "나의 고통"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이를"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "내가 구하였다"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "나의 손이"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "펼쳐졌고"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "쉬지"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "거부하였다"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "위로 받기를"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:22.676793614Z",
+  "model": "glm-5.2"
+}

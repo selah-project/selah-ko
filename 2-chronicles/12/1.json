@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 그것이 일어났다, 르하브암의 왕국이 견고해지고 그가 강해졌을 때, 그가 ⟨את⟩ 야훼의 토라를 버렸다, 그리고 온 이스라엘이 그와 함께 ⟨하였다⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 그것이 일어났다"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "견고해지고"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "왕국이"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "르하브암의"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "그가 강해졌을 때"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "버렸다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "토라를"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "토라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:50.215030436Z",
+  "model": "glm-5.2"
+}

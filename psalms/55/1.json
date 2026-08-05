@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "합창대 지휘자에게, 현악 반주에 맞추어. 마쉬킬, 다윗의.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "합창대 지휘자에게"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "현악 반주에 맞추어"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "마쉬킬"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:36.434060537Z",
+  "model": "glm-5.2"
+}

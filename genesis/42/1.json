@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "야곱이 미츠라임에 곡식이 있음을 보고, ⟨그⟩ 아들들에게 말하였다. \"왜 서로 쳐다보고 있느냐?\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있다"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "곡식이"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "미츠라임에"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "그의 아들들에게"
+    },
+    {
+      "surface": "למה",
+      "gloss": "왜"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "서로 쳐다보느냐"
+    }
+  ],
+  "timestamp": "2026-08-05T13:34:37.615318634Z",
+  "model": "glm-5.2"
+}

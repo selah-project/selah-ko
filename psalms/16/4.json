@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그들의 우상들은 고통이 많아지리라 — 다른 ⟨것⟩을 향해 서두는 자들이다. 그들의 피의 부어 드림은 내가 붓지 않으리라. 그들의 이름 ⟨את⟩ 내 입술 위에 올리지 않으리라.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "많아지리다"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "그들의 우상들은·그들의 고통들은"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "서두는"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아님"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "내가 붓지 않으리라"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "그들의 부어 드림"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "피의"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "그리고 아님"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "올리지 않으리라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 이름"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "그들의 이름"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "내 입술"
+    }
+  ],
+  "timestamp": "2026-08-05T11:24:39.195409110Z",
+  "model": "glm-5.2"
+}

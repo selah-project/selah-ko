@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "물에 ⟨비친⟩ 얼굴이 얼굴에 ⟨비치듯⟩, 사람의 마음도 ⟨그⟩ 사람에게 ⟨비친다⟩.",
+  "tokens": [
+    {
+      "surface": "כַּמַּיִם",
+      "gloss": "물에"
+    },
+    {
+      "surface": "הַפָּנִים",
+      "gloss": "얼굴이"
+    },
+    {
+      "surface": "לַפָּנִים",
+      "gloss": "얼굴에"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "비치듯"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "마음도"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "그 사람에게"
+    },
+    {
+      "surface": "לָאָדָם",
+      "gloss": "비친다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:26.772772177Z",
+  "model": "glm-5.2"
+}

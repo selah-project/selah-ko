@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "어떤 말(事物)이 있어서, 누가 '보라, 이것은 새 것이다' 하고 말할 ⟨수가⟩ 있겠는가? 그것은 이미 영원들부터 있었으니, 곧 우리보다 먼저 있었던 것이다.",
+  "tokens": [
+    {
+      "surface": "יֵ֥שׁ",
+      "gloss": "있"
+    },
+    {
+      "surface": "דָּבָ֛ר",
+      "gloss": "어떤 말(事物)"
+    },
+    {
+      "surface": "שֶׁיֹּאמַ֥ר",
+      "gloss": "말할"
+    },
+    {
+      "surface": "רְאֵה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "זֶ֖ה",
+      "gloss": "이것은"
+    },
+    {
+      "surface": "חָדָ֣שׁ",
+      "gloss": "새"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "것이다"
+    },
+    {
+      "surface": "כְּבָר֙",
+      "gloss": "이미"
+    },
+    {
+      "surface": "הָיָ֣ה",
+      "gloss": "있었으니"
+    },
+    {
+      "surface": "לְעֹֽלָמִ֔ים",
+      "gloss": "영원들부터"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "הָיָ֖ה",
+      "gloss": "있었던"
+    },
+    {
+      "surface": "מִלְּפָנֵֽנוּ",
+      "gloss": "우리보다 먼저"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:15.464489433Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "아도나이께서 말씀하셨다. \"바산에서부터 내가 돌이키리라, 바다의 깊은 곳들에서부터 내가 돌이키리라.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이께서"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "바산에서부터"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "내가 돌이키리라"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "내가 돌이키리라"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "깊은 곳들에서부터"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:58.167404123Z",
+  "model": "glm-5.2"
+}

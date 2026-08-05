@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "이 일 후에 다윗이 블레셋 사람들을 쳐서 그들을 복종시키셨고, 블레셋 사람들의 손에서 ⟨את⟩ 가드와 그 딸들⟨을⟩ 취하셨다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨일어났다⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "이것"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "그리고 ⟨그가⟩ 쳤다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "블레셋 사람들"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "그리고 그들을 복종시켰다"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "그리고 ⟨그가⟩ 취했다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가드"
+    },
+    {
+      "surface": "גת",
+      "gloss": "가드"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "그리고 그 딸들"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:47:45.122897763Z",
+  "model": "glm-5.2"
+}

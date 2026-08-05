@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 138,
+  "translation": "내가 부르짖은 날에 주께서 내게 응답하셨다. 내 네페쉬 안에서 나를 능력으로 격려하셨다.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "내가 부르짖은"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "주께서 내게 응답하셨다"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "나를 격려하셨다"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "내 네페쉬 안에서"
+    },
+    {
+      "surface": "עז",
+      "gloss": "능력으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:23.656225466Z",
+  "model": "glm-5.2"
+}

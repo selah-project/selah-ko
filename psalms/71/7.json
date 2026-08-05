@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "표적처럼 내가 되었나니, 많은 자들에게. 그러나 당신은 나의 피난처, 능력이시다.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "표적처럼"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "내가 되었다"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "많은 자들에게"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "그러나 당신은"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "나의 피난처시다"
+    },
+    {
+      "surface": "עז",
+      "gloss": "능력"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:17.540544897Z",
+  "model": "glm-5.2"
+}

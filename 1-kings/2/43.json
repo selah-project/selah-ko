@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그런데 어찌하여 네가 ⟨את⟩ 야훼의 맹세와 ⟨את⟩ 내가 네게 명령한 그 계명을 지키지 아니하였느냐?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "그런데 어찌하여"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였느냐"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "지키지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 맹세"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "맹세"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 계명"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "계명"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "내가 명령한"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T09:46:00.700425411Z",
+  "model": "glm-5.2"
+}

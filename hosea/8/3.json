@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이스라엘은 좋은 것을 버렸다; 원수가 ⟨그⟩를 뒤쫓으리라.",
+  "tokens": [
+    {
+      "surface": "זָנַח",
+      "gloss": "버렸다"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "좋은 것을"
+    },
+    {
+      "surface": "אוֹיֵב",
+      "gloss": "원수가"
+    },
+    {
+      "surface": "יִרְדְּפוֹ",
+      "gloss": "뒤쫓으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:47.094414287Z",
+  "model": "glm-5.2"
+}

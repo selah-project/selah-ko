@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 96,
+  "translation": "대 야훼는 크시며 심히 찬양받으실 이시다, 그는 모든 엘로힘 위에 경외할 이시다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "크시며"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "찬양받으실"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "경외할"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "이시다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:17.378804517Z",
+  "model": "glm-5.2"
+}

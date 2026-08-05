@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 ⟨그가⟩ 너를 가까이 이끄셨으며, 너와 함께 ⟨את⟩ 네 형제 레위의 아들들도; 그런데도 너희가 코르반(제사장직)도 구하느냐?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "가까이 이끄셨으며"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "너를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "네 형제"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "레위의"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "너와 함께"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "구하느냐"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "코르반(제사장직)"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:35.050382363Z",
+  "model": "glm-5.2"
+}

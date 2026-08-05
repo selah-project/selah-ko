@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "보라, 달에 이르기까지도 밝지 않으니, 별들도 그의 눈에 깨끗하지 못하다.",
+  "tokens": [
+    {
+      "surface": "הֵ֣ן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "…에 이르기까지도"
+    },
+    {
+      "surface": "יָ֭רֵחַ",
+      "gloss": "달"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "…아니하다"
+    },
+    {
+      "surface": "יַאֲהִ֑יל",
+      "gloss": "밝지"
+    },
+    {
+      "surface": "וְ֝כוֹכָבִ֗ים",
+      "gloss": "별들"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "…아니다"
+    },
+    {
+      "surface": "זַכּ֥וּ",
+      "gloss": "깨끗하지"
+    },
+    {
+      "surface": "בְעֵינָֽיו",
+      "gloss": "그의 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:07:40.709255322Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 20:5",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "사자들이 돌아와 말하였다. \"벤 하다드가 이같이 말한다. '내가 네게 보내어 말하기를, 네 은과 네 금과 네 아내들과 네 아들들은 내게로 네가 주어야 한다 ⟨하였다⟩.'\"",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "돌아왔다"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "사자들이"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말한다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "벤"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하다드"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "네 은과"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "네 금과"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "네 아내들과"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "네 아들들은"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "네가 주어야 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:54:03.180778486Z",
+  "model": "glm-5.2"
+}

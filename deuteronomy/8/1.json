@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 8:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "모든 계명 곧 내가 오늘 너희에게 명하는 ⟨것⟩을, 너희는 지켜 행하라. 그리하여 너희가 살고 번성하여, 야훼께서 너희 조상들에게 맹세하신 ⟨את⟩ 그 땅에 들어가서 그것을 상속하기 위함이다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "계명"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "명하는"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "너희는 지키라"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "행하다"
+    },
+    {
+      "surface": "למען",
+      "gloss": "위함이다"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "살고"
+    },
+    {
+      "surface": "ורביתם",
+      "gloss": "번성하여"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "들어가서"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "상속하기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것을⟩"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "맹세하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "조상들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:53:04.662301299Z",
+  "model": "glm-5.2"
+}

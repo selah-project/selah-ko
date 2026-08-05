@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "와서 ⟨그⟩ 엘로힘의 행하신 일들을 보라, 인자들 ⟨위⟩에 ⟨⟩ 경이로우신 일이시다.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "오라"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "행하신 일들을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "경이로우신"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "일이시다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "아담의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:06.719727702Z",
+  "model": "glm-5.2"
+}

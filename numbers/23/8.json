@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "내가 무엇을 꿰뚫으리요 — 엘이 꿰뚫지 아니하셨는데! 그리고 내가 무엇에 노하리요 — 야훼께서 노하지 아니하셨는데!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "꿰뚫으리요"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "꿰뚫지"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "무엇에"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "노하리요"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "노하지"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:43:32.584604178Z",
+  "model": "glm-5.2"
+}

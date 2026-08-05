@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "가난하고 죽어가는 저는 어려서부터 ⟨그대의⟩ 두려움들을 지니고 살아왔으며, ⟨그것에⟩ 압도당하옵니다.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "가난하고"
+    },
+    {
+      "surface": "אני",
+      "gloss": "저는"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "죽어가는"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "어려서부터"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "지니고 살아왔으며"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "⟨그대의⟩ 두려움들을"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "⟨그것에⟩ 압도당하옵니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:57.432423663Z",
+  "model": "glm-5.2"
+}

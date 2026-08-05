@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 53,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 악인들 ⟨함께⟩ 그의 무덤을 받았으며, ⟨את⟩ 부자 ⟨함께⟩ 그의 죽음에서 ⟨이루어졌다⟩ — 그가 폭력을 행하지 아니하였고, 그의 입에 속임이 없었기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "악인들"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "그의 무덤을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "부자"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "부자"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "그의 죽음에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "폭력을"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 없었다"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속임이"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "그의 입에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:50.795815148Z",
+  "model": "glm-5.2"
+}

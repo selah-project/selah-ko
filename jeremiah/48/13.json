@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "그리고 모압이 김오쉬로 인해 부끄러울 것이다, 마치 이스라엘 집이 그들의 피난처인 벧-엘로 인해 부끄러웠던 것처럼.",
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "그리고 부끄러울 것이다"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압이"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "김오쉬로 인해"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "마치"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "부끄러웠던 것처럼"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "로 인해"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "그들의 피난처"
+    }
+  ],
+  "timestamp": "2026-08-05T10:43:30.048539616Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "어찌하여 영원히 우리를 잊으시며, 긴 날들 동안 우리를 버려 두시나이까?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "우리를 잊으시며"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "우리를 버려 두시나이까"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "긴"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:49.314206003Z",
+  "model": "glm-5.2"
+}

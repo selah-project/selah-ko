@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 38:9",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "내가 구름을 그것의 옷으로 삼고, 짙은 어둠을 그것의 강보로 싸매던 때에,",
+  "tokens": [
+    {
+      "surface": "בשומי",
+      "gloss": "내가 …로 삼고"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "구름을"
+    },
+    {
+      "surface": "לבשו",
+      "gloss": "그것의 옷으로"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "짙은 어둠을"
+    },
+    {
+      "surface": "חתלתו",
+      "gloss": "그것의 강보로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:11:30.802113925Z",
+  "model": "glm-5.2"
+}

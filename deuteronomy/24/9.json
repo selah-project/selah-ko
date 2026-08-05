@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "기억하여라, ⟨את⟩ 야훼 네 엘로힘이 미르얌에게 길에서, 너희가 미츠라임에서 나올 때에, 행하신 것을.",
+  "tokens": [
+    {
+      "surface": "זָכ֕וֹר",
+      "gloss": "기억하여라"
+    },
+    {
+      "surface": "אֵ֧ת",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "어떤 것을"
+    },
+    {
+      "surface": "עָשָׂ֛ה",
+      "gloss": "행하신"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "לְמִרְיָ֑ם",
+      "gloss": "미르얌에게"
+    },
+    {
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "길에서"
+    },
+    {
+      "surface": "בְּצֵאתְכֶ֥ם",
+      "gloss": "너희가 나올 때에"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "미츠라임에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:24.091472640Z",
+  "model": "glm-5.2"
+}

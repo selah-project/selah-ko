@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 왕은 ⟨את⟩ 은과 ⟨את⟩ 금을 예루샬라임에 돌들 같이 ⟨되게⟩ 하셨고, ⟨את⟩ 백향목들은 평지에 있는 돌무화과나무들 같이 많이 주셨다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 …주셨고"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "은"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "금"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금을"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "예루샬라임에"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "돌들 같이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "백향목들"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "백향목들은"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "돌무화과나무들 같이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곳의"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "평지에 있는"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "많이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:51:25.863299413Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 142,
+  "translation": "나의 소리로 야훼께 부르짖고, 나의 소리로 야훼께 은혜를 구하나이다.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "나의 소리로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "부르짖고"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "나의 소리로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "은혜를 구하나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:00.460918400Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 137,
+  "translation": "바벨의 강물 가에서, 거기에 우리가 앉았고, 우리는 또한 울었으니 — ⟨את⟩ 쯔온을 기억하며.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "~에서"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "강물"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "우리가 앉았다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "우리는 울었다"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "기억하며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쯔온"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "쯔온"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:24.648591287Z",
+  "model": "glm-5.2"
+}

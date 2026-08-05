@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 다윗이 광야에서 나발이 ⟨את⟩ 그의 양 떼를 깎고 있다는 것을 들었다.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "그리고 들었다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "깎고 있다는 것을"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "나발이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 양 떼를"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "그의 양 떼를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:42.309840534Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 44:6",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 너는 반역, 곧 이스라엘의 집에게 말하여라. 이렇게 아도나이 야훼께서 말씀하셨다. \"이스라엘의 집아, 너희의 모든 가증한 것들로부터 너희에게 족하다.\"",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "그리고 너는 말하여라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "반역"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이렇게"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "רב",
+      "gloss": "족하다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…로부터 모든"
+    },
+    {
+      "surface": "תועבותיכם",
+      "gloss": "너희 가증한 것들"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:14.472542983Z",
+  "model": "glm-5.2"
+}

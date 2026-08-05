@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "무엇을 너희는 행하겠는가, 정한 날에, 그리고 야훼의 절기 날에?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "너희는 행하겠는가"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "…날에"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "정한"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "그리고 …날에"
+    },
+    {
+      "surface": "חג",
+      "gloss": "절기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:08:18.042438069Z",
+  "model": "glm-5.2"
+}

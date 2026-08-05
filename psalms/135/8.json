@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "그가 미츠라임의 처음 난 자들을 치셨다 — 사람에게서 짐승까지.",
+  "tokens": [
+    {
+      "surface": "שֶֽׁ֭הִכָּה",
+      "gloss": "그가 치셨다"
+    },
+    {
+      "surface": "בְּכוֹרֵ֣י",
+      "gloss": "처음 난 자들을"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "미츠라임의"
+    },
+    {
+      "surface": "מֵ֝אָדָ֗ם",
+      "gloss": "사람에게서"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "בְּהֵמָֽה",
+      "gloss": "짐승"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:58.981622414Z",
+  "model": "glm-5.2"
+}

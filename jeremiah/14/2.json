@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 14:2",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "유다가 슬퍼하며, 그 성문들이 쇠약하니, 그들이 땅을 향해 어두워지고, 예루샬라임의 부르짖음이 올라가다.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "슬퍼하며"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다가"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "그 성문들이"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "쇠약하니"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "어두워지고"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅을 향해"
+    },
+    {
+      "surface": "וצוחת",
+      "gloss": "부르짖음이"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임의"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "올라가다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:31:57.203505920Z",
+  "model": "glm-5.2"
+}

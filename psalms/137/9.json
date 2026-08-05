@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 137,
+  "translation": "복되다, ⟨그⟩ 잡아서 ⟨את⟩ 네 젖먹이들을 바위에 부딪쳐 깨뜨리는 자가.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֤י",
+      "gloss": "복되다"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵ֓ז",
+      "gloss": "잡아서"
+    },
+    {
+      "surface": "וְנִפֵּ֬ץ",
+      "gloss": "깨뜨리는"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "네 젖먹이들을"
+    },
+    {
+      "surface": "עֹ֝לָלַ֗יִךְ",
+      "gloss": "네 젖먹이들을"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "~에"
+    },
+    {
+      "surface": "הַסָּֽלַע",
+      "gloss": "바위"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:03.663233153Z",
+  "model": "glm-5.2"
+}

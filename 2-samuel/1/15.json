@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "다윗이 소년들 중 하나를 불러 말하였다. \"다가가서 그를 쳐라.\" 그가 그를 쳐서 그가 죽었다.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "하나를"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "소년들 중"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "גש",
+      "gloss": "다가가서"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "쳐라"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "그가 그를 쳐서"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:25:21.101400047Z",
+  "model": "glm-5.2"
+}

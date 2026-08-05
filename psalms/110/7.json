@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 110,
+  "translation": "길 가의 시내에서 마시리니, 그러므로 머리를 드시리라.",
+  "tokens": [
+    {
+      "surface": "מִ֭נַּחַל",
+      "gloss": "시내에서"
+    },
+    {
+      "surface": "בַּדֶּ֣רֶךְ",
+      "gloss": "길 가의"
+    },
+    {
+      "surface": "יִשְׁתֶּ֑ה",
+      "gloss": "마시리니"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כֵּ֝֗ן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "יָרִ֥ים",
+      "gloss": "드시리라"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "머리"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:50.576808230Z",
+  "model": "glm-5.2"
+}

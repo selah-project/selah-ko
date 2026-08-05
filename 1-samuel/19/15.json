@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 샤울이 ⟨את⟩ 그 사자들을 보내어 ⟨את⟩ 다윗을 보게 하시며 말씀하셨다. \"그를 그 침상 위에 올려 나에게로 가져오라, 그를 죽이기 위하여.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내셨다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사자들을"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "그 사자들을"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보게 하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하며"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "올려 가져오라"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "그 침상 위에"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게로"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "그를 죽이기 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T17:14:01.543172905Z",
+  "model": "glm-5.2"
+}

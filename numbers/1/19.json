@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "야훼께서 모셰에게 명령하신 대로 — 그가 ⟨את⟩ 그들을 시나이 광야에서 계수하였다.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰에게"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "그가 계수하였다"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "시나이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:27:16.257384522Z",
+  "model": "glm-5.2"
+}

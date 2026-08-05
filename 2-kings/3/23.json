@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그들이 말하였다. \"피다. 왕들이 진멸되어 서로 치았으니, 이제 모아브아, 노략물로!\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피다"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것은"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "진멸되어"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "진멸되었다"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "치았으니"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 동료를"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "자기 동료를"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "노략물로"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모아브아"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:43.547902677Z",
+  "model": "glm-5.2"
+}

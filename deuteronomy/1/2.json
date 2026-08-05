@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "호렙에서부터 스일 산 길을 따라 카데쉬 바르네아까지 열하루 길이었다.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "열"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "호렙에서"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길"
+    },
+    {
+      "surface": "הר",
+      "gloss": "산"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "스일"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "카데쉬"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "바르네아"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:57.511592362Z",
+  "model": "glm-5.2"
+}

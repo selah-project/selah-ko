@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "그가 자기 모든 형제들에게 입맞추고, 그들 위에서 울었다. 그리고 그 후에 그의 형제들이 그와 함께 말하였다.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "그가 입맞추고"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "자기 형제들에게"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "그가 울었다"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들 위에서"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "그리고 ~의 후에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들이"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:31.351963028Z",
+  "model": "glm-5.2"
+}

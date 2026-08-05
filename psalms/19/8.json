@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "야훼의 토라는 완전하여 네페쉬를 되돌리며, 야훼의 증거는 신실하여 순진한 이를 지혜롭게 한다.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "토라는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "완전하여"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "되돌리며"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬를"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "증거는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "신실하여"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "지혜롭게 한다"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "순진한 이를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:40.147727686Z",
+  "model": "glm-5.2"
+}

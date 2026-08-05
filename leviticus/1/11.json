@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그것을 제단의 북쪽 옆에서, 야훼의 면전에서 잡을 것이요. 아하론의 아들들, 코헨들이 ⟨את⟩ 그 피를 제단 위에, 사방으로 뿌릴 것이요.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "잡을 것이요"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "옆에서"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단의"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "북쪽"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "뿌릴 것이요"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론의"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 피를"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "그 피를"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "사방으로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:10:56.317354325Z",
+  "model": "glm-5.2"
+}

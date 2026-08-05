@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "나의 네페쉬가 당신의 구원을 갈망하여 다하였나이다, 당신의 말씀을 내가 바라나이다.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "다하였나이다"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "당신의 구원을"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬가"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "당신의 말씀을"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "바라나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:58.348734992Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "모셰가 아하론에게 말하였다. \"제단으로 나아가, ⟨את⟩ 네 속죄 제물과 ⟨את⟩ 네 올라 제물을 행하여, 너와 백성을 위해 속죄하라. 그리고 ⟨את⟩ 백성의 코르반을 행하여, 그들을 위해 속죄하라 — 야훼께서 명령하신 대로.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "나아가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "행하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 속죄 제물"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "네 속죄 제물"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "네 올라 제물"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "네 올라 제물"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "속죄하라"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "을 위해"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "행하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성의 코르반"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "코르반"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "속죄하라"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "그들을 위해"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:33.555861010Z",
+  "model": "glm-5.2"
+}

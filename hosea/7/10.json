@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이스라엘의 교만이 ⟨그의⟩ 면전에서 응답하였으나, 그들이 야훼 그들의 엘로힘에게로 돌아오지 아니하였고, 이 모든 것에서 ⟨그를⟩ 구하지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "그리고 응답하였으나"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "교만이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "면전에서"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "돌아오"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "그들의 엘로힘"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "그를 구하"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "이 모든"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "것에서"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:26.303255622Z",
+  "model": "glm-5.2"
+}

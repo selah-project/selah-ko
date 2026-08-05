@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "다윗과 온 이스라엘이 예루샬라임으로 갔으니, ⟨그것은⟩ 여부스이다. 거기에 그 땅의 거주자들인 여부스 족속이 있었다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "갔으니"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임으로"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "여부스이다"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "여부스 족속"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "거주자들인"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:49.157493279Z",
+  "model": "glm-5.2"
+}

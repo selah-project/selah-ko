@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 다윗이 샤울에게 말하였다. \"제가 누구이며, 제 생애가 무엇이며, 이스라엘에서 제 아버지의 가문이 무엇이기에, 제가 왕의 사위가 되겠습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "제가"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "그리고 무엇"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "제 생애가"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "가문이"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "제 아버지의"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "이스라엘에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이기에"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "제가 되겠습니까"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "사위가"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:30:04.466598490Z",
+  "model": "glm-5.2"
+}

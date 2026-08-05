@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "굽어진 것은 곧게 할 수 없고, 부족한 것은 셀 수 없다.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "굽어진 것은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "할 수 있다"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "곧게 하"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "그리고 부족한 것은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "할 수 있다"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "셀"
+    }
+  ],
+  "timestamp": "2026-08-05T14:05:53.925830375Z",
+  "model": "glm-5.2"
+}

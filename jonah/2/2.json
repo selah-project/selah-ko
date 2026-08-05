@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "요나가 그의 엘로힘 야훼께 기도하였다 — 그 물고기 뱃속에서.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "기도하였다"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "요나"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "그의 엘로힘"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "뱃속에서"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "그 물고기"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:09.618653218Z",
+  "model": "glm-5.2"
+}

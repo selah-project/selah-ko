@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "칼레브의 첩 마아카는 ⟨את⟩ 셰베르와 ⟨את⟩ 티르하나를 낳았다.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "첩"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "칼레브"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "마아카는"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "셰베르"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "티르하나"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "티르하나"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:52.479276115Z",
+  "model": "glm-5.2"
+}

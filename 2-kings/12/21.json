@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그의 종들이 일어나 음모를 꾸미고, ⟨את⟩ 요아쉬를 밋-밀로, 쉴라로 내려가는 ⟨그⟩ 길에서 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종들이"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "꾸미고"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "음모를"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요아쉬를"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "요아쉬"
+    },
+    {
+      "surface": "בית",
+      "gloss": "밋-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "밀로"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "내려가는"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "쉴라로"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:58.907840594Z",
+  "model": "glm-5.2"
+}

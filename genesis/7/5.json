@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 노아가 행하였다, 야훼께서 그에게 명하신 모든 것을.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 행하였다"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아가"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "명하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    }
+  ],
+  "timestamp": "2026-08-05T18:33:37.873265257Z",
+  "model": "glm-5.2"
+}

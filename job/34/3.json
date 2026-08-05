@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 34,
+  "translation": "이는 귀가 말들을 시험하고, 입천장이 먹으려고 맛을 봄이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "귀가"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "시험하고"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "입천장이"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "맛을 봄이다"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹으려고"
+    }
+  ],
+  "timestamp": "2026-08-05T12:10:20.620328090Z",
+  "model": "glm-5.2"
+}

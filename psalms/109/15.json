@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그것들이 야훼 앞에서 항상 있게 하시며, 땅에서 그들의 기억이 끊어지게 하소서.",
+  "tokens": [
+    {
+      "surface": "יִהְי֣וּ",
+      "gloss": "있게 하시며"
+    },
+    {
+      "surface": "נֶֽגֶד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "תָּמִ֑יד",
+      "gloss": "항상"
+    },
+    {
+      "surface": "וְיַכְרֵ֖ת",
+      "gloss": "끊어지게 하소서"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "זִכְרָֽם",
+      "gloss": "그들의 기억이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:16.026751227Z",
+  "model": "glm-5.2"
+}

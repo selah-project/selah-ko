@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 147,
+  "translation": "위대하시다, 우리 아도나이시며, 크신 능력이시다 — 그분의 통찰에는 셈이 없다.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "위대하시다"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "우리 아도나이시며"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "크신"
+    },
+    {
+      "surface": "כח",
+      "gloss": "능력이시다"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "그분의 통찰에는"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "셈이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:11.107437133Z",
+  "model": "glm-5.2"
+}

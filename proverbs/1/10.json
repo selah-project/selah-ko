@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "내 아들아, 죄인들이 너를 꾀더라도 동의하지 말아라.",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "내 아들아"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "만약"
+    },
+    {
+      "surface": "יְפַתּ֥וּךָ",
+      "gloss": "너를 꾀더라도"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "죄인들이"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "하지 말아라"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "동의⟨하다⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:11.799895298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 88,
+  "translation": "주의 진노가 나를 휩쓸고 지나갔고, 주의 공포들이 나를 끊어 버렸다.",
+  "tokens": [
+    {
+      "surface": "עָ֭לַי",
+      "gloss": "나를"
+    },
+    {
+      "surface": "עָבְר֣וּ",
+      "gloss": "휩쓸고 지나갔다"
+    },
+    {
+      "surface": "חֲרוֹנֶ֑יךָ",
+      "gloss": "주의 진노가"
+    },
+    {
+      "surface": "בִּ֝עוּתֶ֗יךָ",
+      "gloss": "주의 공포들이"
+    },
+    {
+      "surface": "צִמְּתוּתֻֽנִי",
+      "gloss": "나를 끊어 버렸다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:35.480413217Z",
+  "model": "glm-5.2"
+}

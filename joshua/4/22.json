@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 너희는 ⟨את⟩ 너희 아들들에게 알게 하여 말하기를, '마른 땅으로 이스라엘이 ⟨את⟩ 이 야르덴을 건넜다' 하라.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "그리고 너희는 알게 하라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 아들들"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "너희 아들들에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "마른 땅으로"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "건넜다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 야르덴"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "야르덴"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:04:47.718365943Z",
+  "model": "glm-5.2"
+}

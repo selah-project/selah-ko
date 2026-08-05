@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "레하브암이 ⟨으로⟩ 쉐켐으로 갔으니, 쉐켐으로 온 이스라엘이 모여 ⟨את⟩ 그를 왕으로 삼으려 하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "가셨다"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "레하브암이"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "쉐켐으로"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "쉐켐으로"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "왕으로 삼으려"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    }
+  ],
+  "timestamp": "2026-08-05T18:13:08.095263840Z",
+  "model": "glm-5.2"
+}

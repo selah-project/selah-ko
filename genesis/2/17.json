@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그러나 좋음과 나쁨의 아는 ⟨그⟩ 나무에서는, 네가 그것을 먹지 말라 — 네가 그것을 먹는 그 날에, 죽어 네가 죽으리라.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "그러나 … 나무에서는"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "아는"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋음"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "나쁨"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "네가 먹지"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…그 날에"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "네가 먹는"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽어"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "네가 죽으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:51.055077706Z",
+  "model": "glm-5.2"
+}

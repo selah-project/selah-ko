@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "그리고 파르오가 요셉에게 말하였다. \"엘로힘이 ⟨את⟩ 너를 ⟨את⟩ 이 모든 것을 알게 하신 후에, 너처럼 슬기롭고 지혜로운 자가 ⟨없다⟩.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "알게 하신"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "너를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 것을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "슬기롭고"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "지혜로운 자가"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "너처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T17:59:34.287668302Z",
+  "model": "glm-5.2"
+}

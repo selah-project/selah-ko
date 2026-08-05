@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "야훼께서 내게 ⟨את⟩ 두 돌 판들을 주셨다. 엘로힘의 손가락으로 새겨진 것이며, 그 위에는 야훼께서 너희에게 말씀하신 모든 말씀들이 있었으니, 회중의 날에 산에서 불 가운데서 너희에게 ⟨말씀하신⟩ 것이었다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 돌 판들"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "판들"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "돌"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "새겨진"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "손가락으로"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "그 위에는"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "산에서"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "האש",
+      "gloss": "불"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:52:58.954010648Z",
+  "model": "glm-5.2"
+}

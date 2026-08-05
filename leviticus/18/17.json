@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "여자의 벌거와 그 딸의 벌거를 드러내지 마라. 그 아들의 딸 ⟨את⟩과 그 딸의 딸 ⟨את⟩을, 그 벌거를 드러내려고 취하지 마라. 그들은 가까운 친족이니, 그것은 창행이다.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "벌거"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여자의"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "그 딸의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 마라"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "드러내"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 아들의 딸"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "아들의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 딸의 딸"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "딸의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "하지 마라"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "취"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "드러내려고"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "벌거를"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "가까운 친족이니"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "창행"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:22.949227259Z",
+  "model": "glm-5.2"
+}

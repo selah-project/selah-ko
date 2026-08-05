@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "기억하소서, 제가 ⟨어떤⟩ 찰나인지를. 헛되이 모든 인류를 창조하셨나이까?",
+  "tokens": [
+    {
+      "surface": "זְכָר",
+      "gloss": "기억하소서"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "제가"
+    },
+    {
+      "surface": "מֶה",
+      "gloss": "어떤"
+    },
+    {
+      "surface": "חָ֑לֶד",
+      "gloss": "찰나인지를"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "שָׁ֝֗וְא",
+      "gloss": "헛되이"
+    },
+    {
+      "surface": "בָּרָ֥אתָ",
+      "gloss": "창조하셨나이까"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "자손을"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "인류의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:08.412056848Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "진실로, 야훼여, 아슈르의 왕들이 ⟨את⟩ 모든 나라들과 ⟨את⟩ 그들의 땅을 황폐하게 하였습니다.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "진실로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "황폐하게 하였습니다"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들이"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 나라들과"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "나라들을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 땅을"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "그들의 땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:59.357530554Z",
+  "model": "glm-5.2"
+}

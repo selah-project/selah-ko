@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 18:25",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "이제 야훼가 없이 내가 ⟨이⟩ 곳을 치러 올라와서 멸하려 한 것인가? 야훼께서 내게 말씀하셨다. “⟨이⟩ 땅을 치러 올라가라, 그것을 멸하여라.””",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "המבלעדי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "עליתי",
+      "gloss": "올라왔는가"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을\/를 치러"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "곳"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "להשחיתו",
+      "gloss": "멸하려"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라가라"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을\/를 치러"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "והשחיתה",
+      "gloss": "그리고 멸하여라"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:54.910240546Z",
+  "model": "glm-5.2"
+}

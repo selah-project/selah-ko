@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 71,
+  "translation": "당신 안에서, 야훼여, 제가 피신하였으니, 영원히 부끄러움을 당하지 않게 ⟨하옵소서⟩.",
+  "tokens": [
+    {
+      "surface": "בְּךָֽ",
+      "gloss": "당신 안에서"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "חָסִ֑יתִי",
+      "gloss": "제가 피신하였으니"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "⟨부디⟩ …않게"
+    },
+    {
+      "surface": "אֵב֥וֹשָׁה",
+      "gloss": "부끄러움을 당하지"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:11.691810515Z",
+  "model": "glm-5.2"
+}

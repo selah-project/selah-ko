@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그릇들이 가득 차자, 그녀가 자기 아들에게 말하였다. “이리로 ⟨나에게⟩ 그릇을 하나 더 가져오너라.” 그가 그녀에게 말하였다. “그릇이 더 없습니다.” 그리고 기름이 멈추었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨그것이⟩ 일어났다"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "가득 차자"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "그릇들이"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "그녀가 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "그녀의 아들"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "가까이 가져오너라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "그릇을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "그릇이"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "⟨그것이⟩ 멈추었다"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "기름이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:30.654597521Z",
+  "model": "glm-5.2"
+}

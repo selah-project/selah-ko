@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그들이 다른 돌들을 취하여 그 돌들 대신에 가져오고, 다른 흙을 취하여 ⟨그가⟩ ⟨את⟩ 그 집을 발라야 할 것이다.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "그리고 그들이 취할 것이다"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "돌들을"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "다른"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "그리고 그들이 가져올 것이다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "그 돌들의"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "그리고 흙을"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "그가 취할 것이다"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "그리고 그가 바를 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:45.192282460Z",
+  "model": "glm-5.2"
+}

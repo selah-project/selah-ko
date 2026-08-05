@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "광야와 건조한 땅이 기뻐할 것이다, 그리고 아라바가 환호하며 수선화처럼 피어날 것이다.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "기뻐할 것이다"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야가"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "그리고 건조한 땅이"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "그리고 환호하며"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "아라바가"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "그리고 피어날 것이다"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "수선화처럼"
+    }
+  ],
+  "timestamp": "2026-08-05T13:53:49.899519839Z",
+  "model": "glm-5.2"
+}

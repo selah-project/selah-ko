@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 코헨은 ⟨את⟩ 그 올라와 ⟨את⟩ 그 민하를 그 제단 위에서 올릴 것이며, 코헨이 그를 위해 속죄할 것이고, 그는 정결하게 될 것이다.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "그리고 올릴 것이다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 올라"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "그 올라"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 민하"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "그 민하"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "그 제단 위에서"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "그리고 속죄할 것이다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그를 위해"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "그리고 정결하게 될 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:05.766932172Z",
+  "model": "glm-5.2"
+}

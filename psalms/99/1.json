@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 99,
+  "translation": "야훼가 다스리신다, 민족들이 떨 것이다. ⟨그는⟩ 크루빔에 좌정하신 이, 땅이 흔들린다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "다스리신다"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "떨 것이다"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "좌정하신 이"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "크루빔에"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "흔들린다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:20.371723926Z",
+  "model": "glm-5.2"
+}

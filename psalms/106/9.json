@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리하여 그가 갈대 바다를 꾸짖으시니 그것이 마르고, 그들을 깊은 물들 가운데로 인도하셨다 — 마치 광야와 같이.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "그리하여 그가 꾸짖으시니"
+    },
+    {
+      "surface": "בים",
+      "gloss": "바다를"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "갈대"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "그것이 마르고"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "그들을 인도하셨다"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "깊은 물들 가운데로"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "마치 광야와 같이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:34.562778322Z",
+  "model": "glm-5.2"
+}

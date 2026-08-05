@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "소들이 없으면 구유는 비어 있고, 소의 힘에 의하여 수확이 풍성하다.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "없으면"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "소들이"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "구유는"
+    },
+    {
+      "surface": "בר",
+      "gloss": "비어 있고"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "풍성하다"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "수확이"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "힘에 의하여"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:08.736868604Z",
+  "model": "glm-5.2"
+}

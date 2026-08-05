@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 갓트와 ⟨את⟩ 마레샤와 ⟨את⟩ 지프를",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "갓트"
+    },
+    {
+      "surface": "גת",
+      "gloss": "갓트"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "마레샤"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "마레샤"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "지프"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "지프"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:58.650686448Z",
+  "model": "glm-5.2"
+}

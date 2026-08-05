@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그들이 그의 루아흐(영)를 괴롭게 하였으므로, 그가 ⟨그의⟩ 입술로 경솔히 말하였다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…하였으므로"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "괴롭게 하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 루아흐(영)"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "그의 루아흐(영)"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "경솔히 말하였다"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "그의 입술로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:41.864917342Z",
+  "model": "glm-5.2"
+}

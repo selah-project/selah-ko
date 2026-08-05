@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 50:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "그 땅의 거주자, 그 가나안 사람이 ⟨את⟩ 아타드의 타작마당에서의 그 상을 보고, 그들이 말하였다. \"이것은 미츠라임 사람들에게 무거운 상이다.\" 그러므로 그 이름을 아벨 미츠라임이라 부르게 되었다. 그것은 요르단 건너편에 있다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보았을 때"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "거주자"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "그 가나안 사람이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 상을"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "그 상을"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "타작마당에서의"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "그 아타드의"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "상"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "무거운"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "미츠라임 사람들에게"
+    },
+    {
+      "surface": "על",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "부르게 되었다"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "그 이름을"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "아벨"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "건너편에"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "그 요르단"
+    }
+  ],
+  "timestamp": "2026-08-05T13:35:13.547301022Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "땅에서 기어 다니는 모든 것의 형상, 땅 아래 물에 있는 모든 물고기의 형상",
+  "tokens": [
+    {
+      "surface": "תַּבְנִ֕ית",
+      "gloss": "형상"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "רֹמֵ֖שׂ",
+      "gloss": "기어 다니는 것의"
+    },
+    {
+      "surface": "בָּאֲדָמָ֑ה",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "תַּבְנִ֛ית",
+      "gloss": "형상"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דָּגָ֥ה",
+      "gloss": "물고기의"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "⟨그것으로⟩"
+    },
+    {
+      "surface": "בַּמַּ֥יִם",
+      "gloss": "물에 있는"
+    },
+    {
+      "surface": "מִתַּ֥חַת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "לָאָֽרֶץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:43.211047259Z",
+  "model": "glm-5.2"
+}

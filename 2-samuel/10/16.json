@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "하다드에제르가 보내어 그 강 건너편에 있는 ⟨את⟩ 아람을 이끌어내었고, 그들이 헬람에 이르렀다. 하다드에제르의 군대 장관 쇼바크가 그들의 앞에 섰다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내어"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "하다드에제르가"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "이끌어내었고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아람"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "건너편에"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "그 강"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "그들이 이르렀다"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "헬람에"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "그리고 쇼바크가"
+    },
+    {
+      "surface": "שר",
+      "gloss": "장관"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "군대"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "하다드에제르의"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "그들의 앞에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:13.167770779Z",
+  "model": "glm-5.2"
+}

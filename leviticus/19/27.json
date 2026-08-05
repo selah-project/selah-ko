@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "너희는 너희 머리의 가장자리를 둥글게 깎지 말며, ⟨את⟩ 너희 수염의 가장자리를 훼손하지 말라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "너희는 둥글게 깎지"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "가장자리를"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "너희 머리의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …말라"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "너희는 훼손하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너희 수염의 가장자리를"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "가장자리"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "너희 수염의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:18.905267804Z",
+  "model": "glm-5.2"
+}

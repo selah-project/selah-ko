@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "악인은 악인들의 망을 탐내나, 의로운 자들의 뿌리는 ⟨열매를⟩ 준다.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "탐내나"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인은"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "망을"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "그리고 뿌리는"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들의"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "준다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:26.936727611Z",
+  "model": "glm-5.2"
+}

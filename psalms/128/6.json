@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 128,
+  "translation": "그리고 ⟨당신이⟩ ⟨당신의⟩ 아들들의 아들들을 보게 ⟨하시기를⟩. 샬롬이 이스라엘 위에.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "그리고 보게"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "당신의 아들들의"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:04.567695452Z",
+  "model": "glm-5.2"
+}

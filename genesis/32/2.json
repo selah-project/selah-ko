@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야곱은 ⟨그의⟩ 길을 갔다. 엘로힘의 사자들이 그를 만났다.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "야곱은"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걸어갔다"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "그의 길을"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "만났다"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "…의 사자들이"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:06.038693581Z",
+  "model": "glm-5.2"
+}

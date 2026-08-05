@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "그가 강들을 광야로 만드시며, 물의 샘들을 갈증 ⟨땅⟩으로 만드신다.",
+  "tokens": [
+    {
+      "surface": "יָשֵׂם",
+      "gloss": "만드신다"
+    },
+    {
+      "surface": "נְהָרוֹת",
+      "gloss": "강들을"
+    },
+    {
+      "surface": "לְמִדְבָּר",
+      "gloss": "광야로"
+    },
+    {
+      "surface": "וּמוֹצָאֵי",
+      "gloss": "그리고 샘들을"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "물의"
+    },
+    {
+      "surface": "לְצִמָּאוֹן",
+      "gloss": "갈증으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:12.040908640Z",
+  "model": "glm-5.2"
+}

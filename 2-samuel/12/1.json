@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "야훼께서 ⟨את⟩ 나탄을 보내사 다윗에게 ⟨이르시니⟩, 그가 그에게 이르렀고 그에게 말하였다. \"한 성에 두 사람이 있었는데, 한 사람은 부자이고 한 사람은 가난하였다.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "보내사"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나탄을"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "나탄을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "이르렀고"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었는데"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "한 성에"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "한 사람은"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "부자이고"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "한 사람은"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "가난하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:39:32.903639707Z",
+  "model": "glm-5.2"
+}

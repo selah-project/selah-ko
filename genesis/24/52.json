@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "아브라함의 종이 ⟨את⟩ 그들의 말을 듣고 나자, 그가 땅에 엎드려 야훼께 절하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "일어났다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…할 때에"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종이"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 말"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "그들의 말을"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "엎드려 절하였다"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    }
+  ],
+  "timestamp": "2026-08-05T17:54:26.784758242Z",
+  "model": "glm-5.2"
+}

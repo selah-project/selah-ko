@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "에메트가 땅에서 움트고, 체데크가 하늘에서 내려다보네.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "에메트가"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "움트고"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "체데크가"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "하늘에서"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "내려다보네"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:16.417986115Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 1:4",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 다윗이 그에게 말하였다: \"어떻게 되었는가, ⟨그⟩ 일을? 청하건대 내게 알려 주오.\" 그가 말하였다: \"그 백성이 전쟁에서 도망하였고, 또한 많은 자가 백성 중에서 쓰러졌고, 그들이 죽었다. 그리고 또한 샤울과 그의 아들 여호나단도 죽었다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "מה",
+      "gloss": "어떻게"
+    },
+    {
+      "surface": "היה",
+      "gloss": "되었는가"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "알려 주오"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "נס",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "전쟁"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "많은 자가"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "쓰러졌고"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "그들이 죽었다"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울과"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "여호나단"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "죽었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:23.589133742Z",
+  "model": "glm-5.2"
+}

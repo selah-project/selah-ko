@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "복이 ⟨있도다⟩ 그 사람에게, 야 ⟨이⟩ 징계하시며 당신의 토라에서 그를 가르치시는",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복이"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "그 사람에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨이⟩"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "징계하시며"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "당신의 토라에서"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "가르치시는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:41.257018486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "방백들이 바룩에게 말하였다. 가서 당신과 예레미야를 숨기시오. 아무도 ⟨당신들⟩이 어디 있는지 알지 못하게 하시오.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "방백들이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "바룩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "숨기시오"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "예레미야를"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "아무도"
+    },
+    {
+      "surface": "אל",
+      "gloss": "알지 못하게"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "알지"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "어디"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨당신들⟩이"
+    }
+  ],
+  "timestamp": "2026-08-05T10:40:12.628829416Z",
+  "model": "glm-5.2"
+}

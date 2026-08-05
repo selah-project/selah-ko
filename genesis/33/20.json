@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "그리고 ⟨그가⟩ 거기에 제단을 세웠고, 그것을 '엘, 이스라엘의 엘로힘'이라 불렀다.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "그리고 세웠다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "그리고 불렀다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘,"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:32.035195276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 땅의 안식 ⟨产⟩것은 너희가 먹을 것으로 ⟨될 것이다⟩ — 너에게와 네 종에게와 네 여종에게와 네 품꾼에게와 네 객에게, 너와 함께 거류하는 ⟨자⟩에게.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "그리고 …될 것이다"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "안식"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희가"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "먹을 것으로"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게와"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "네 종에게와"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "네 여종에게와"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "네 품꾼에게와"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "네 객에게"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "거류하는"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T08:24:56.250745668Z",
+  "model": "glm-5.2"
+}

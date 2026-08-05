@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "에사브가 ⟨את⟩ 자기 아내들을 가나안의 딸들 가운데서 취하였다 — ⟨את⟩ 에이라, 에이론 그 히트인의 딸, 그리고 ⟨את⟩ 오홀리바마, 아나의 딸, 즉 치본 그 히위인의 딸을.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "에사브가"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "취하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아내들을"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "자기 아내들을"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "…의 딸들 가운데서"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에이라"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "에이라,"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…의 딸,"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "에이론"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "그 히트인의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "오홀리바마"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "오홀리바마,"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…의 딸,"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "아나의"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…의 딸,"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "치본"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "그 히위인의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:13.988707779Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "그녀가 가서 엘리야후의 말씀대로 하니, 그와 그녀와 그녀의 집이 ⟨여러⟩ 날 동안 먹었다.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "가서"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "하니"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "말씀대로"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "엘리야후의"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "먹었다"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "그녀와"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "그녀의 집이"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T09:52:55.754471352Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "추수가 지나고, 여름이 끝났는데, 우리는 구원 얻지 못하였도다.",
+  "tokens": [
+    {
+      "surface": "עָבַ֥ר",
+      "gloss": "지나고"
+    },
+    {
+      "surface": "קָצִ֖יר",
+      "gloss": "추수가"
+    },
+    {
+      "surface": "כָּ֣לָה",
+      "gloss": "끝났는데"
+    },
+    {
+      "surface": "קָ֑יִץ",
+      "gloss": "여름이"
+    },
+    {
+      "surface": "וַאֲנַ֖חְנוּ",
+      "gloss": "우리는"
+    },
+    {
+      "surface": "ל֥וֹא",
+      "gloss": "못하였도다"
+    },
+    {
+      "surface": "נוֹשָֽׁעְנוּ",
+      "gloss": "구원 얻지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:29:04.487517677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"백성에게로 가서 오늘과 내일 그들을 거룩하게 하고, 그들이 자기 옷을 빨게 하라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "거룩하게 하라"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "빨게 하라"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "자기 옷을"
+    }
+  ],
+  "timestamp": "2026-08-05T07:56:04.382196870Z",
+  "model": "glm-5.2"
+}

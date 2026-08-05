@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "모셰가 야훼께로 돌아가 말하였다. \"아도나이, 어찌하여 이 백성에게 악을 행하셨습니까? 어찌하여 저를 보내셨습니까?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "돌아가"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "악을 행하셨습니까"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "백성에게"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "저를 보내셨습니까"
+    }
+  ],
+  "timestamp": "2026-08-05T07:47:01.948696128Z",
+  "model": "glm-5.2"
+}

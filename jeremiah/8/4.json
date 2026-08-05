@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 너는 그들에게 말할 것이다. 야훼가 이같이 말씀하신다. 사람들이 넘어지고 다시 일어나지 아니하겠느냐? 혹시 돌아서고 다시 돌아서지 아니하겠느냐?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "말할 것이다"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "넘어지겠느냐"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "일어나리라"
+    },
+    {
+      "surface": "אם",
+      "gloss": "혹시"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "돌아서겠느냐"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "돌아서리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:29:32.901459970Z",
+  "model": "glm-5.2"
+}

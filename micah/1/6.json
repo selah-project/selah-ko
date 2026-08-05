@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 1:6",
+  "book": "micah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 나는 샤므론을 밭의 돌무더기로, 포도나무 심을 곳으로 만들겠다. 그리고 나는 그 돌들을 골짜기로 쏟아내고, 그 터들을 드러내겠다.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "그리고 나는 만들겠다"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "샤므론을"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "돌무더기로"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "밭의"
+    },
+    {
+      "surface": "למטעי",
+      "gloss": "심을 곳으로"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "포도나무"
+    },
+    {
+      "surface": "והגרתי",
+      "gloss": "그리고 나는 쏟아내겠다"
+    },
+    {
+      "surface": "לגי",
+      "gloss": "골짜기로"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "그 돌들을"
+    },
+    {
+      "surface": "ויסדיה",
+      "gloss": "그 터들을"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "드러내겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:09.245164715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "왜냐하면 그것은 요벨이니, 너희에게 거룩하게 ⟨그것⟩이 될 것이다. 너희는 밭에서 ⟨את⟩ 그것의 소출을 먹을 것이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "요벨이니"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩하게"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "밭"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "너희는 먹을 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그것의 소출을"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "그것의 소출"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:06.549062630Z",
+  "model": "glm-5.2"
+}

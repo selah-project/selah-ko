@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "거룩한 곳에서 물로 ⟨את⟩ 자기 몸을 씻고, ⟨את⟩ 자기 의복을 입고 나와서, ⟨את⟩ 자기 올라와 ⟨את⟩ 백성의 올라를 드리며, 자신과 백성을 위해 속죄하는 것이며",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "씻고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 몸을"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "자기 몸을"
+    },
+    {
+      "surface": "במים",
+      "gloss": "물로"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "입고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 의복을"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "자기 의복을"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나와서"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "드리며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 올라를"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "자기 올라를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "백성의 올라를"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "올라를"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "속죄하는 것이며"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "자신을 위해"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "—을 위해"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:29.427592666Z",
+  "model": "glm-5.2"
+}

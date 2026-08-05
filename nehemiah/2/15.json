@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 2:15",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 나는 밤에 골짜기로 올라가, 성벽에서 살피고, 돌이켜 골짜기 문으로 들어와서, 돌아왔다.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "나는 ~였다"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라가"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "골짜기로"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "나는 ~였다"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "살피고"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "성벽에서"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "돌이켜"
+    },
+    {
+      "surface": "ואבוא",
+      "gloss": "들어와서"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "문으로"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "골짜기"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "돌아왔다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:35:52.070374733Z",
+  "model": "glm-5.2"
+}

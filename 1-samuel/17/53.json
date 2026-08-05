@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "이스라엘 자손들이 블레셋 사람들 뒤를 쫓다가 돌아왔고, 그들의 진영을 노획하였다.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "돌아왔고"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "쫓다가"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤를"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "블레셋 사람들"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "노획하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 진영을"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "그들의 진영"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:49.364244448Z",
+  "model": "glm-5.2"
+}

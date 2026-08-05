@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 레위 사람들도 ⟨더 이상⟩ ⟨את⟩ 미쉬칸과 ⟨את⟩ 그 모든 기구를 그것의 섬김을 위하여 메는 ⟨일이⟩ 없다.",
+  "tokens": [
+    {
+      "surface": "וְגַ֖ם",
+      "gloss": "그리고 …도"
+    },
+    {
+      "surface": "לַלְוִיִּ֑ם",
+      "gloss": "레위 사람들"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "לָשֵׂ֧את",
+      "gloss": "메는"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "미쉬칸"
+    },
+    {
+      "surface": "הַמִּשְׁכָּ֛ן",
+      "gloss": "미쉬칸"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 모든 기구"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כֵּלָ֖יו",
+      "gloss": "그의 기구"
+    },
+    {
+      "surface": "לַעֲבֹדָתֽוֹ",
+      "gloss": "그것의 섬김을 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:41.349675215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리하여 모셰가 그 날에 ⟨את⟩ 이 노래를 기록하고, 그것을 ⟨את⟩ 이스라엘의 아들들에게 가르쳤다.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "그리고 기록하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 노래"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "그 노래를"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "그리고 가르쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아래에 기록된 것을 표시함⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:13.451650568Z",
+  "model": "glm-5.2"
+}

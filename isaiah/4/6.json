@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 숫카가 낮의 더위를 피해 그늘이 되고, 폭풍우와 비를 피해 피난처와 은신처가 될 것이다.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "그리고 숫카가"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "그늘이"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "낮의"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "더위를 피해"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "그리고 피난처가"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "그리고 은신처가"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "폭풍우를 피해"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "그리고 비를 피해"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:13.090352054Z",
+  "model": "glm-5.2"
+}

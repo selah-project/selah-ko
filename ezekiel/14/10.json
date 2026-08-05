@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 14:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그들은 자기들의 죄악을 담당할 것이다 — 묻는 자의 죄악 같이, 나비의 죄악 같이 될 것이다.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "그리고 담당할 것이다"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "자기들의 죄악을"
+    },
+    {
+      "surface": "כעון",
+      "gloss": "…의 죄악 같이"
+    },
+    {
+      "surface": "הדרש",
+      "gloss": "묻는 자의"
+    },
+    {
+      "surface": "כעון",
+      "gloss": "…의 죄악 같이"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "나비의"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "될 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:50:56.044418596Z",
+  "model": "glm-5.2"
+}

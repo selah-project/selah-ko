@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "숨은 곳에서 온전한 자를 쏘려고, 갑자기 ⟨그를⟩ 쏘며 두려워하지 아니한다.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "쏘려고"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "숨은 곳에서"
+    },
+    {
+      "surface": "תם",
+      "gloss": "온전한 자를"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "갑자기"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "⟨그를⟩ 쏘며"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "두려워하지"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:47.031525445Z",
+  "model": "glm-5.2"
+}

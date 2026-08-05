@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너는 ⟨את⟩ 카포레트를 아론 위에, 위에서부터 놓아라. 그리고 아론 안에 ⟨את⟩ 증거를, 내가 네게 줄 것을 넣어라.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "너는 놓아라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "카포레트를"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "카포레트"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "위에서부터"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "아론"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "너는 넣어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "증거를"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "증거"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…것을"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "내가 줄"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:00:48.368041906Z",
+  "model": "glm-5.2"
+}

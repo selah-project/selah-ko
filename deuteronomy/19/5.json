@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 그의 이웃과 함께 숲에 들어가서 나무를 찍을 때, 그의 손이 도끼에 밀려 그 나무를 베어내리라고 하는데, 쇠가 그 나무 자루에서 빠져나가 ⟨את⟩ 그의 이웃에게 닿아 죽게 되면 — 그 사람은 이 성읍들 중 하나로 도망하여 살 것이다.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "그리고 ⟨그가⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "들어가면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이웃"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "그의 이웃"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "숲에"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "찍기 위하여"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "나무를"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "밀려"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손이"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "도끼에"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "베어내다"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "그 나무를"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "빠져나가"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "그 쇠가"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "그 나무"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "닿으면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 이웃"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "그의 이웯"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "죽으면"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "도망하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "성읍들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "그리고 살 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:18.053190118Z",
+  "model": "glm-5.2"
+}

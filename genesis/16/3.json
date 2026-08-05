@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 사라이가 — 아브라함의 아내가 — 아브라임이 가나안 땅에 거주한 지 십 년의 끝에 ⟨את⟩ 하갈을, ⟨그⟩ 미츠라임 사람, 자기 여종을 데리고, ⟨그녀를⟩ 아브라함 자기 남편에게 주어, 그에게 아내로 삼았다.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "그리고 … 데리고"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "사라이가"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "…의 아내"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하갈을"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "하갈"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "그 미츠라임 사람"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "자기 여종을"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "…의 끝에"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "십"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "년"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "거주한 지"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "아브라임이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "… 땅에"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "그리고 … 주어"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "아브라함에게"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "아브라함에게"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "자기 남편"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "아내로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:05.636123978Z",
+  "model": "glm-5.2"
+}

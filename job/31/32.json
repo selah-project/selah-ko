@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "바깥에 나그네가 유숙하지 못하였고, 내 문을 길가는 자에게 내가 열었노라.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "바깥에"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "유숙하"
+    },
+    {
+      "surface": "גר",
+      "gloss": "나그네가"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "내 문을"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "길가는 자에게"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "내가 열었노라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:09:38.460666036Z",
+  "model": "glm-5.2"
+}

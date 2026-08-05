@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그리고 ⟨그들은⟩ 민족들 사이에 섞였으며, 그들의 행위들을 배웠다.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "섞였으며"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "민족들 사이에"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "배웠다"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "그들의 행위들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:41.865180738Z",
+  "model": "glm-5.2"
+}

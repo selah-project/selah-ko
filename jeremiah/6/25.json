@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "들로 나가지 말고, 길에서도 걷지 말라. 대적의 칼이 있고, 두려움이 사방에 있기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "나가지"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "길에서도"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…말고"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "걷지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "대적의"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "두려움이"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "사방에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:28:24.319370733Z",
+  "model": "glm-5.2"
+}

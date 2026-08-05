@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "야훼는 ⟨את⟩ 다윗의 집을 멸하시기를 원하지 않으셨으니, 다윗과 맺은 ⟨그⟩ 브리트 때문이며, 그가 다윗과 그의 아들들에게 모든 날 동안 등불을 주겠다고 말씀하신 것 같았다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "원하지 않으셨으니"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "원하다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "멸하시기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗의 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "למען",
+      "gloss": "때문이며"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "브리트"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…⟨그⟩"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "맺은"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "다윗과"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "…것 같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하신"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주겠다고"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "등불을"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "그의 아들들에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T12:58:26.402323080Z",
+  "model": "glm-5.2"
+}

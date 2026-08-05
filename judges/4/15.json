@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 4:15",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "야훼께서 바라크 앞에서 칼날로 ⟨את⟩ 시스라와 ⟨את⟩ 모든 병거와 ⟨את⟩ 모든 진영을 무찌셨다. 시스라가 병거에서 내려 도보로 도망하였다.",
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "무찌셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "시스라와"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "시스라와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 병거와"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "병거와"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 진영을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "진영을"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "…로"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼날"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…앞에서"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "바라크"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "내려"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "시스라가"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "병거"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "도망하였다"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "도보로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:43:46.260097565Z",
+  "model": "glm-5.2"
+}

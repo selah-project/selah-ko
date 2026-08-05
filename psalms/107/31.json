@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 107,
+  "translation": "사람의 아들들에게 베푸신 그의 기이한 일들과, 야훼께 그의 헤세드를 감사하라.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "감사하라"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드를"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "그의 기이한 일들과"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들에게"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:12.172300169Z",
+  "model": "glm-5.2"
+}

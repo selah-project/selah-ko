@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 103,
+  "translation": "하늘이 땅 위에 높은 것 같이, 그의 헤세드가 그를 경외하는 자들 위에 강하시다.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "대저"
+    },
+    {
+      "surface": "כִגְבֹ֣הַּ",
+      "gloss": "높은 것 같이"
+    },
+    {
+      "surface": "שָׁ֭מַיִם",
+      "gloss": "하늘이"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "גָּבַ֥ר",
+      "gloss": "강하시다"
+    },
+    {
+      "surface": "חַ֝סְדּ֗וֹ",
+      "gloss": "그의 헤세드가"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יְרֵאָֽיו",
+      "gloss": "그를 경외하는 자들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:27.102857708Z",
+  "model": "glm-5.2"
+}

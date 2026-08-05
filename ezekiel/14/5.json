@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "이는 내가 ⟨את⟩ 이스라엘 족을 그들의 마음으로 잡으려 함이니, 그들이 그들의 우상들로 말미암아 모두 나에게서 멀어졌음이라.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "이는 …함이니"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "잡으려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘 족"
+    },
+    {
+      "surface": "בית",
+      "gloss": "족"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "그들의 마음으로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "멀어졌음이라"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "나에게서"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "그들의 우상들로 말미암아"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "모두"
+    }
+  ],
+  "timestamp": "2026-08-05T10:51:07.460832813Z",
+  "model": "glm-5.2"
+}

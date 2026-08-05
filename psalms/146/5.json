@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 146,
+  "translation": "행복하구나, 도움이 야곱의 엘에 ⟨있는⟩ ⟨자⟩, 그의 기대가 야훼 자기의 엘로힘에게 ⟨있는⟩ ⟨자⟩.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֗י",
+      "gloss": "행복하구나"
+    },
+    {
+      "surface": "שֶׁ֤אֵ֣ל",
+      "gloss": "…의"
+    },
+    {
+      "surface": "יַעֲקֹ֣ב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "בְּעֶזְר֑וֹ",
+      "gloss": "도움이"
+    },
+    {
+      "surface": "שִׂ֝בְר֗וֹ",
+      "gloss": "그의 기대가"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֱלֹהָֽיו",
+      "gloss": "자기의 엘로힘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:03.956482323Z",
+  "model": "glm-5.2"
+}

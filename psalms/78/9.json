@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "에프라임의 아들들은, 활을 당기어 화살을 던지는 자들, 전투의 날에 돌아섰다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임의"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "당기어"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "던지는"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "활을"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "돌아섰다"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "전투의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:27.114940653Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 25:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "죽음을 영원히 삼키셨고, 아도나이 야훼께서 모든 얼굴에서 눈물을 닦아 주실 것이다. 그리고 ⟨그가⟩ 그분의 백성의 수치를 온 땅에서 걷어내실 것이다 — 이는 야훼께서 말씀하셨기 때문이다.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "삼키셨고"
+    },
+    {
+      "surface": "המות",
+      "gloss": "죽음을"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "그리고 닦아 주실 것이다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "눈물을"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "얼굴"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "그리고 수치를"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그분의 백성의"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "걷어내실 것이다"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀하셨기"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:23.402647730Z",
+  "model": "glm-5.2"
+}

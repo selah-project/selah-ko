@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "올라를 잡는 곳에서 그들이 ⟨את⟩ 아쉠을 잡을 것이며, 그리고 ⟨את⟩ 그의 피를 제단 위에 둘레에 뿌릴 것이다.",
+  "tokens": [
+    {
+      "surface": "בִּמְקוֹם",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "יִשְׁחֲטוּ",
+      "gloss": "그들이 잡는"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "올라"
+    },
+    {
+      "surface": "הָעֹלָה",
+      "gloss": "올라를"
+    },
+    {
+      "surface": "יִשְׁחֲטוּ",
+      "gloss": "그들이 잡을 것이며"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "아쉠"
+    },
+    {
+      "surface": "הָאָשָׁם",
+      "gloss": "아쉠을"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "그리고 ⟨את⟩"
+    },
+    {
+      "surface": "דָּמוֹ",
+      "gloss": "그의 피를"
+    },
+    {
+      "surface": "יִזְרֹק",
+      "gloss": "뿌릴 것이다"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "제단"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "둘레에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:38.848021252Z",
+  "model": "glm-5.2"
+}

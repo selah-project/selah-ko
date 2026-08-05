@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 5:4",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "야훼여, 당신이 스에이르에서 나오실 때에, 에돔의 들에서 행진하실 때에, 땅이 흔들렸다. 심지어 하늘도 방울방울 떨어졌다. 심지어 구름도 물을 방울방울 떨어뜨렸다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "나오실 때에"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "스에이르에서"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "행진하실 때에"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "들에서"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "에돔의"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "흔들렸다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "심지어"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘도"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "방울방울 떨어졌다"
+    },
+    {
+      "surface": "גם",
+      "gloss": "심지어"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "구름도"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "방울방울 떨어뜨렸다"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:14:13.180900178Z",
+  "model": "glm-5.2"
+}

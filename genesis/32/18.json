@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 ⟨그는⟩ ⟨את⟩ 첫째에게 명령하여 이르기를: \"내 형 에사브가 너를 만나서 너에게 묻기를 — '너는 누구의 것이냐? 어디로 가느냐? 네 앞에 있는 이것들은 누구의 것이냐?' 하거든,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 명령하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "첫째에게"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "첫째"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "when"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "너를 만나면"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에사브"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "내 형"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "그리고 너에게 물으면"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "למי",
+      "gloss": "누구의"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너는"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "어디로"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "가느냐"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "그리고 누구의"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이것들은"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "네 앞에 있는"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:12.794230457Z",
+  "model": "glm-5.2"
+}

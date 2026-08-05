@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "곧 ⟨את⟩ 금과 ⟨את⟩ 은, ⟨את⟩ 놋쇠와 ⟨את⟩ 쇠와 ⟨את⟩ 주석과 ⟨את⟩ 납이다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "곧"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "금"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "은"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "놋쇠"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "놋쇠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쇠"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "쇠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "주석"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "주석"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "납"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "납"
+    }
+  ],
+  "timestamp": "2026-08-05T08:45:48.575372751Z",
+  "model": "glm-5.2"
+}

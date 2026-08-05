@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "샬롬 제물의 수소에게서 제거되는 것과 같이 — 코헨이 그것들을 올라가는 제물의 제단 위에서 사르실 것이다.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "~와 같이"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "제거되는 것"
+    },
+    {
+      "surface": "משור",
+      "gloss": "수소에게서"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "제물"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "샬롬"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "그리고 사르실 것이다"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "올라가는 제물"
+    }
+  ],
+  "timestamp": "2026-08-05T13:39:00.005437044Z",
+  "model": "glm-5.2"
+}

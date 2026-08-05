@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 하자엘, 아람의 왕이 죽었고, 그의 아들 벤-하닷이 그를 대신하여 왕위에 올랐다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "그리고 죽었고"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "하자엘이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람의"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕위에 올랐다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "벤-하닷"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:39.374550432Z",
+  "model": "glm-5.2"
+}

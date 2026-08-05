@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "에글론 왕, 하나; 게제르 왕, 하나;",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "왕"
+    },
+    {
+      "surface": "עֶגְלוֹן֙",
+      "gloss": "에글론"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "왕"
+    },
+    {
+      "surface": "גֶּ֖זֶר",
+      "gloss": "게제르"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "하나"
+    }
+  ],
+  "timestamp": "2026-08-05T09:07:36.730062024Z",
+  "model": "glm-5.2"
+}

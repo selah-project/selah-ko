@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 136,
+  "translation": "인도하신 ⟨이⟩, 그의 백성을 광야에서 — 그의 헤세드는 영원하다.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "인도하신 ⟨이⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성을"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하다"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "그의 헤세드는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:04.327086417Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "셈우엘이 말하였다. \"⟨את⟩ 온 이스라엘을 미츠파로 모으십시오. 그리하면 내가 그대들을 위해 야훼께 기도하겠습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "셈우엘이"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "모으십시오"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "미츠파로"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "기도하겠습니다"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "그대들을 위해"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T09:24:43.199851947Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "어느 날 그가 그곳에 와서, 그 다락방으로 들어가 거기에 누웠다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 그날이 왔다"
+    },
+    {
+      "surface": "היום",
+      "gloss": "어느 날"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "와서"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "들어가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "그 다락방"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "누웠다"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "거기에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:01.318007579Z",
+  "model": "glm-5.2"
+}

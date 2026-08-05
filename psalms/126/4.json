@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 126,
+  "translation": "야훼여, ⟨את⟩ 우리의 포로귀환을 남방의 시내들같이 돌이키소서.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "돌이키소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 포로귀환을"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "우리의 포로귀환"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "시내들같이"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "남방의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:28.336283802Z",
+  "model": "glm-5.2"
+}

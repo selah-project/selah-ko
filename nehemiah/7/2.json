@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 내가 ⟨את⟩ 나의 형제 하나니와 ⟨את⟩ 성채의 관리자 하난야를 예루샬라임 위에 명하여 세웠으니, 그는 진실한 사람 같고 엘로힘을 경외하는 자라서 많은 사람들 위에 섰기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "내가 명하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하나니"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "하나니"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "나의 형제"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하난야"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "하난야"
+    },
+    {
+      "surface": "שר",
+      "gloss": "관리자"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "성채의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "사람 같고"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "진실한"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "그리고 경외하는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "많은 사람들 위에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:35:36.865344410Z",
+  "model": "glm-5.2"
+}

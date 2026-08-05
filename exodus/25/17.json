@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 너는 순금으로 카포레트를 만들되, 그것의 길이는 두 암마와 반, 그것의 너비는 한 암마와 반이게 하여라.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "그리고 너는 만들되"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "카포레트를"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "순"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "두 암마"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "와 반"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "그것의 길이는"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "한 암마"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "와 반"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "그것의 너비는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:00:33.553967697Z",
+  "model": "glm-5.2"
+}

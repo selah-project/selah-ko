@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "요엘의 아들들: 쉐마야 ⟨그의⟩ 아들, 고그 ⟨그의⟩ 아들, 시미 ⟨그의⟩ 아들.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "요엘"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "쉐마야"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "고그"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "시미"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:42:30.235472728Z",
+  "model": "glm-5.2"
+}

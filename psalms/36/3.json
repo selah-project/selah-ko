@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "이는 그가 자기 눈으로 자기에게 매끄럽게 하여, 자기의 악을 발견하여 미워하기를 그쳤음이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "매끄럽게 하여"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "자기에게"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "자기 눈으로"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "발견하여"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "자기의 악을"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "미워하기를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:00.378398414Z",
+  "model": "glm-5.2"
+}

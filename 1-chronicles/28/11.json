@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 다윗은 ⟨그의⟩ 아들 슐로모에게 ⟨את⟩ ⟨그⟩ 현관의 설계와 ⟨את⟩ 그의 방들과 그의 보물실들과 그의 다락들과 그의 내실들, 그리고 ⟨את⟩ ⟨그⟩ 카포레트의 집을 주었다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주었다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "슐로모에게"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "현관의 설계"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "설계"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "현관의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 방들"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "그의 방들"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "그리고 그의 보물실들"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "그리고 그의 다락들"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "그리고 그의 방들"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "내실들"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "그리고 집"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "카포레트의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:51:20.647752021Z",
+  "model": "glm-5.2"
+}

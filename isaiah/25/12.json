@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 네 성벽들의 높은 요새, 견고한 높이를 — 그가 낮추실 것이다, 끌어내리실 것이다, 땅에 닿게 하실 것이다, 먼지까지.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "그리고 요새"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "높은"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "네 성벽들의"
+    },
+    {
+      "surface": "השח",
+      "gloss": "낮추실 것이다"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "끌어내리실 것이다"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "닿게 하실 것이다"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "먼지"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:27.733580328Z",
+  "model": "glm-5.2"
+}

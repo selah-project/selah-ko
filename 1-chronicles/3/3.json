@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "다섯째 스바티야는 아비탈에게서, 여섯째 이트르암은 그의 아내 에글라에게서이다.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "다섯째"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "스파티야"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "아비탈에게서"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "여섯째"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "이트르암"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "에글라에게서"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "그의 아내"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:29.914117139Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "네 순들은 석류나무 파르데스, 귀한 열매들과 함께, 코페르, 네르드와 함께이라.",
+  "tokens": [
+    {
+      "surface": "שְׁלָחַ֨יִךְ֙",
+      "gloss": "네 순들은"
+    },
+    {
+      "surface": "פַּרְדֵּ֣ס",
+      "gloss": "파르데스"
+    },
+    {
+      "surface": "רִמּוֹנִ֔ים",
+      "gloss": "석류나무"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "∼와 함께"
+    },
+    {
+      "surface": "פְּרִ֣י",
+      "gloss": "열매"
+    },
+    {
+      "surface": "מְגָדִ֑ים",
+      "gloss": "귀한"
+    },
+    {
+      "surface": "כְּפָרִ֖ים",
+      "gloss": "코페르"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "∼와 함께"
+    },
+    {
+      "surface": "נְרָדִֽים",
+      "gloss": "네르드"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:43.404584193Z",
+  "model": "glm-5.2"
+}

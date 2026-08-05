@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "화 있도다, 많은 백성들이 바다들의 부름 같이 부르는도다! 그리고 민족들의 소란이 거창한 물들의 소란 같으니, 그들이 소란친다!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화 있도다"
+    },
+    {
+      "surface": "המון",
+      "gloss": "부름"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "백성들이"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "～의 부름 같이"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "바다들"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "부르는도다"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "그리고 소란"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "민족들"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "～의 소란 같이"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물들"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "거창한"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "그들이 소란친다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:55.118132748Z",
+  "model": "glm-5.2"
+}

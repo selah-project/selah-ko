@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "엘로힘이 ⟨את⟩ 노아와 ⟨את⟩ 그의 아들들을 축복하셨다. 그리고 그들에게 말씀하셨다. \"열매를 맺고 번성하여 ⟨את⟩ 땅을 채우라.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "노아"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 아들들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들을"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "열매를 맺고"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "번성하여"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "채우라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:03.074091239Z",
+  "model": "glm-5.2"
+}

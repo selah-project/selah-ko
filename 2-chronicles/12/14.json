@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 그가 악을 행하였으니, 이는 그가 야훼를 찾기 위하여 그의 마음을 예비하지 아니하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 그가 … 행하였으니"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였기"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "예비하지"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "그의 마음을"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "찾기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:56:16.494361939Z",
+  "model": "glm-5.2"
+}

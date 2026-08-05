@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "광야에서 바위들을 가르시고, 큰 깊음 같이 ⟨그들에게⟩ 마시게 하셨다.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "가르시고"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "바위들을"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "마시게 하셨다"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "깊음 같이"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:23.287833971Z",
+  "model": "glm-5.2"
+}

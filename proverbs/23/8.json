@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "네가 먹은 네 조각을 네가 토하여 내리라, 그리고 네 기쁜 말들을 망치리라.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "네 조각을"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "네가 먹은"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "토하여 내리라"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "그리고 망치리라"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "네 말들을"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "기쁜"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:16.553563063Z",
+  "model": "glm-5.2"
+}

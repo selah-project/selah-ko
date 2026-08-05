@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "속임수가 악을 꾸미는 자들의 마음에 있고, 샬롬을 도모하는 자들에게는 기쁨이 있다.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "속임수가"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "마음에"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "꾸미는 자들의"
+    },
+    {
+      "surface": "רע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "그리고 도모하는 자들에게는"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬을"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "기쁨이"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:33.263017872Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "야훼께서 모셰에게 말씀하셨다. 아하론의 두 아들의 죽음 후에 — 그들이 야훼 앞에 가까이 나아갈 때에 — 그리고 그들이 죽었으므로.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אַחֲרֵי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "מוֹת",
+      "gloss": "죽음"
+    },
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "두"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "아하론"
+    },
+    {
+      "surface": "בְּקָרְבָתָם",
+      "gloss": "그들이 나아갈 때에"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וַיָּמֻתוּ",
+      "gloss": "그리고 그들이 죽었으므로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:20:07.575323184Z",
+  "model": "glm-5.2"
+}

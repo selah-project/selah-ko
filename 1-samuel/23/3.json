@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "다윗의 사람들이 그에게 말하였다. \"보라, 우리가 여기 유다에 있는데도 두려운데, 하물며 우리가 케일라로, 펠리쉬티인의 진영으로 내려간다면 얼마나 더하겠습니까!\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리가"
+    },
+    {
+      "surface": "פה",
+      "gloss": "여기"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "유다에"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "두렵거든"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "하물며"
+    },
+    {
+      "surface": "כי",
+      "gloss": "어찌"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "간다면"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "케일라로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "진영"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "펠리쉬티인의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:07.892538709Z",
+  "model": "glm-5.2"
+}

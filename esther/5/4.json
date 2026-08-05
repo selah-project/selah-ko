@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "에스더가 말하였다. \"만일 왕께서 좋으시다면, 왕과 하만이 오늘 제가 그를 위해 마련한 잔치에 오시기를.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더가"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨께서⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋으시다면"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "오시기를"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕과"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "하만이"
+    },
+    {
+      "surface": "היום",
+      "gloss": "오늘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨으로⟩"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "잔치에"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "제가 마련한"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T17:26:47.556588065Z",
+  "model": "glm-5.2"
+}

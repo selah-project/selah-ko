@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼 엘로님이 그를 에덴 동산에서 내보내사 ⟨את⟩ 그 땅을 경작하게 하셨으니, 그는 거기서 취해졌음이었다.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "그를 내보내사"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로님이"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "동산에서"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "에덴"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "경작하게 하셨으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "취해졌음이었다"
+    },
+    {
+      "surface": "משם",
+      "gloss": "거기서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:35.347710228Z",
+  "model": "glm-5.2"
+}

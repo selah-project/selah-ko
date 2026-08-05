@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 3:20",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "야훼께서 너희에게 쉼을 주신 것 같이 너희 형제들에게도 쉼을 주시고, 그들도 야훼 너희 엘로힘이 야르덴 저편에서 그들에게 주시는 ⟨את⟩ 그 땅을 차지하기까지 — 그리고 나서야 너희는 각자 내가 너희에게 준 자기 소유지로 돌아갈 것이다.”",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "쉼을 주시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "너희 형제들에게"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "너희에게一样"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "그리고 차지하고"
+    },
+    {
+      "surface": "גם",
+      "gloss": "also"
+    },
+    {
+      "surface": "הם",
+      "gloss": "they"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨그⟩ 땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘이"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "주시는"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "저편에서"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "야르덴"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "그리고 너희는 돌아갈 것이다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "לירשתו",
+      "gloss": "자기 소유지로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 준"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:20.565722347Z",
+  "model": "glm-5.2"
+}

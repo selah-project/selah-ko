@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 115,
+  "translation": "야훼께서 ⟨복을⟩ 더하시리니, ⟨복을⟩ 더하시리니 당신들에게와 당신들의 자녀들에게.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "더하시리니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "당신들에게"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "당신들에게"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "자녀들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:34.046233551Z",
+  "model": "glm-5.2"
+}

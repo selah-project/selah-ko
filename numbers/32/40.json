@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 모셰가 ⟨את⟩ 길르앗을 므낫세의 아들 마키르에게 주었고, ⟨그가⟩ 그 안에 거하였다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주셨다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "길르앗"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "길르앗을"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "마키르에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…의 아들"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "므낫세"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그리고 거하였다"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:46:49.707756422Z",
+  "model": "glm-5.2"
+}

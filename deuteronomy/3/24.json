@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "아도나이 야훼여, ⟨주⟩는 ⟨주⟩의 종에게 ⟨주⟩의 위대하심과 ⟨את⟩ ⟨주⟩의 강한 손을 보이기 시작하셨다. 하늘에서나 땅에서 ⟨주⟩와 같은 행적과 ⟨주⟩와 같은 능력을 행하는 엘이 누구이겠습니까?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨주⟩는"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "— 시작하셨다"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "보이기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨주⟩의 강한 손을"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨주⟩의 종에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아래와 동일⟩",
+      "marks": "위대하심과 강한 손을 함께 표시"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "⟨주⟩의 위대하심"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "⟨주⟩의 강한 손을"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "⟨주⟩의 손"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "강한"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구이겠습니까"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "하늘에서나"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하는"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "⟨주⟩와 같은 행적"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "그리고 ⟨주⟩와 같은 능력"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:06.935289168Z",
+  "model": "glm-5.2"
+}

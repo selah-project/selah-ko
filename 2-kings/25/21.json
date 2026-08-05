@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 바벨 왕이 ⟨את⟩ 그들을 치사, 르블라에서 — 하맛 땅에 — 죽이셨다. 그리고 유다는 자기 땅에서 사로잡혀 옮겨졌다.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "그리고 치사"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "바벨"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "그리고 죽이셨다"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "르블라에서"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "하맛"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "그리고 사로잡혀 옮겨졌다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다는"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "자기 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:50.292479643Z",
+  "model": "glm-5.2"
+}

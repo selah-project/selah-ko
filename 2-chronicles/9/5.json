@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 그녀가 왕에게 말하였다. \"내 땅에서 들은 그 말씀이 참되었습니다 — ⟨그⟩ 왕의 말씀들에 관하여, 그리고 ⟨그⟩ 지혜에 관하여.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "그리고 그녀가 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "참되었습니다"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 말씀이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩ ⟨—⟩"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "내가 들은"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "내 땅에서"
+    },
+    {
+      "surface": "על",
+      "gloss": "에 관하여"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "왕의 말씀들"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 관하여"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "왕의 지혜"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:42.959206164Z",
+  "model": "glm-5.2"
+}

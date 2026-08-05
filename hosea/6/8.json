@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "길앗, 아벤을 행하는 자들의 성읍, 피로 더럽혀진 곳이다.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "길앗은"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "성읍이다"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "…을 행하는 자들의"
+    },
+    {
+      "surface": "און",
+      "gloss": "아벤"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "교활한"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "피로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:05:54.100802627Z",
+  "model": "glm-5.2"
+}

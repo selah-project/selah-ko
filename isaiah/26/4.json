@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "야훼를 신뢰하라, 영원토록. 대신 야, 야훼 안에 영원한 반석이시기 때문이다.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "신뢰하라"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "…을 야훼"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "…까지 영원"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…이기 때문이다 정녕"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "…안에 야,"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צור",
+      "gloss": "반석이시다"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "영원한"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:11.137712247Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "분노가 웃음보다 낫다. ⟨왜냐하면⟩ 얼굴의 근심으로 ⟨인하여⟩ 마음이 좋아지기 때문이다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "분노가"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "웃음보다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨왜냐하면⟩"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "근심으로"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "얼굴의"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "⟨인하여⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "좋아지기"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:18.155669819Z",
+  "model": "glm-5.2"
+}

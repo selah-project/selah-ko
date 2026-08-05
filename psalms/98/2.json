@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 98,
+  "translation": "야훼께서 ⟨그⟩ 구원을 알리셨다. 민족들의 눈 앞에 ⟨그⟩ 의를 드러내셨다.",
+  "tokens": [
+    {
+      "surface": "הוֹדִ֣יעַ",
+      "gloss": "알리셨다"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "יְשׁוּעָת֑וֹ",
+      "gloss": "구원을"
+    },
+    {
+      "surface": "לְעֵינֵ֥י",
+      "gloss": "눈 앞에"
+    },
+    {
+      "surface": "הַ֝גּוֹיִ֗ם",
+      "gloss": "민족들의"
+    },
+    {
+      "surface": "גִּלָּ֥ה",
+      "gloss": "드러내셨다"
+    },
+    {
+      "surface": "צִדְקָתֽוֹ",
+      "gloss": "의를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:04.063783741Z",
+  "model": "glm-5.2"
+}

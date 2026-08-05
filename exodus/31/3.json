@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "“그리고 내가 그를 ⟨את⟩ 채우셨다 — 엘로힘의 루아흐(영)로, 지혜로, 그리고 분별력으로, 그리고 앎으로, 그리고 모든 일(기술)로.”",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "채우셨다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐(영)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "지혜로"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "그리고 분별력으로"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "그리고 앎으로"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "일(기술)로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:05.567753162Z",
+  "model": "glm-5.2"
+}

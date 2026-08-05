@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "네 아들들이 그에게 죄를 지었다면, 그들의 반역의 손에 그들을 넘기셨으리라.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "~라면"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "네 아들들이"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "죄를 지었다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "그들을 넘기셨으리라"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "그들의 반역의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:23.848947782Z",
+  "model": "glm-5.2"
+}

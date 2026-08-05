@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "무너짐 앞에서 사람의 마음이 교만해지고, 영광 앞에는 겸손이 있다.",
+  "tokens": [
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "~앞에서"
+    },
+    {
+      "surface": "שֶׁ֭בֶר",
+      "gloss": "무너짐"
+    },
+    {
+      "surface": "יִגְבַּ֣הּ",
+      "gloss": "교만해지고"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "וְלִפְנֵ֖י",
+      "gloss": "~앞에는"
+    },
+    {
+      "surface": "כָב֣וֹד",
+      "gloss": "영광"
+    },
+    {
+      "surface": "עֲנָוָֽה",
+      "gloss": "겸손이 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:25.152480287Z",
+  "model": "glm-5.2"
+}

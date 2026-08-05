@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "상처의 멍은 악을 씻어내고, 매질은 뱃속 깊은 곳에 ⟨이른다⟩.",
+  "tokens": [
+    {
+      "surface": "חַבֻּר֣וֹת",
+      "gloss": "멍은"
+    },
+    {
+      "surface": "פֶּ֭צַע",
+      "gloss": "상처의"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "씻어내고"
+    },
+    {
+      "surface": "בְּרָ֑ע",
+      "gloss": "악을"
+    },
+    {
+      "surface": "וּ֝מַכּ֗וֹת",
+      "gloss": "그리고 매질은"
+    },
+    {
+      "surface": "חַדְרֵי",
+      "gloss": "깊은 곳에"
+    },
+    {
+      "surface": "בָֽטֶן",
+      "gloss": "뱃속"
+    }
+  ],
+  "timestamp": "2026-08-05T11:57:02.178168149Z",
+  "model": "glm-5.2"
+}

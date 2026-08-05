@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "엘로힘의 등불이 아직 꺼지기 전이었고, 셰무엘은 야훼의 헤칼에 누워 있었다 — 그곳은 엘로힘의 언약궤가 있는 곳이었다.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "그리고 등불은"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "아직"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "꺼지기 전이었다"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "그리고 셰무엘은"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "누워 있었다"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "헤칼에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— 그곳은"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "궤가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:48.044639065Z",
+  "model": "glm-5.2"
+}

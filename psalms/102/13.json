@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 102,
+  "translation": "그리고 당신은, 야훼여, 영원토앗 앉으시며, 당신의 기억은 세대와 세대에 ⟨이르리이다⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 당신은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원토록"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "앉으시며"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "당신의 기억은"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "세대에"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "그리고 세대"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:32.448901329Z",
+  "model": "glm-5.2"
+}

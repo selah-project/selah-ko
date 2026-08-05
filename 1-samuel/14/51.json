@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "키쉬는 샤울의 아버지였고, 넬은 아브네르의 아버지였다 — 그들은 아비엘의 아들들이었다.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "그리고 키쉬는"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지였다,"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "그리고 넬은"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "아버지였다,"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "아브네르의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들들이었다"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "아비엘의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:28:02.341389651Z",
+  "model": "glm-5.2"
+}

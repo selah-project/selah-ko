@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그들이 왕의 명령에서 벗어나지 아니하였으니 — 코헨들과 레위인들에게 ⟨내린⟩, 모든 일과 보물창고들에 관한 것이었다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 … 아니하였으니"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "벗어나"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "명령에서"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "코헨들"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "그리고 레위인들"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "일"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "그리고 보물창고들에 관한"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:03.386131577Z",
+  "model": "glm-5.2"
+}

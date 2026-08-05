@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "너희는 ⟨את⟩ 내 규례와 ⟨את⟩ 내 법례를 지킬지니, ⟨그⟩ 사람이 그것들을 행하면 그것들로 인해 살리라. 나는 야훼이시다.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "너희는 지킬지니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 규례"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "내 규례"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "내 법례"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "내 법례"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하면"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "살리라"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그것들로 인해"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:58.009576963Z",
+  "model": "glm-5.2"
+}

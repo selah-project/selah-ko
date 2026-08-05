@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 모셰가 야훼의 말씀에 따라 ⟨את⟩ 이스라엘의 아들들에게 명령하여 이르기를, \"요셉의 아들들의 지파가 옳게 말하고 있다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 명령하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "על",
+      "gloss": "따라"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입(말씀)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "כן",
+      "gloss": "옳게"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "지파"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "말하고 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:46.009151933Z",
+  "model": "glm-5.2"
+}

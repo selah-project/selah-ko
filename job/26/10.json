@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "물들의 표면 위에 둘레를 그으셨다 — 빛과 어둠의 경계까지.",
+  "tokens": [
+    {
+      "surface": "חֹֽק",
+      "gloss": "한계를"
+    },
+    {
+      "surface": "חָ֭ג",
+      "gloss": "그으셨다"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "표면"
+    },
+    {
+      "surface": "מָ֑יִם",
+      "gloss": "물들의"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "תַּכְלִ֖ית",
+      "gloss": "경계"
+    },
+    {
+      "surface": "א֣וֹר",
+      "gloss": "빛과"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "…의"
+    },
+    {
+      "surface": "חֹֽשֶׁךְ",
+      "gloss": "어둠의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:07:56.323622736Z",
+  "model": "glm-5.2"
+}

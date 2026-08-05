@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "이십 년의 끝에 — 슐로모가 ⟨את⟩ 야훼의 집과 ⟨את⟩ 그의 집을 건축한 때 — 그리 되었다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리 되었다"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "끝에"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "이십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "건축한"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "슐로모가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 집"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "그의 집"
+    }
+  ],
+  "timestamp": "2026-08-05T14:09:43.650785430Z",
+  "model": "glm-5.2"
+}

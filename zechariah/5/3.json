@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 5:3",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그가 내게 말하였다. \"이것은 온 땅 위로 나아가는 저주이다. 이는 이쪽의 모든 도둑이 그것과 같이 지워지고, 저쪽의 모든 맹세하는 자도 그것과 같이 지워지기 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것은"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "저주이다"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "나아가는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "פני",
+      "gloss": "∼의 면에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "도둑이"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "이쪽의"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "그것과 같이"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "지워지고"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "맹세하는 자도"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "저쪽의"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "그것과 같이"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "지워지기"
+    }
+  ],
+  "timestamp": "2026-08-05T17:22:43.259403884Z",
+  "model": "glm-5.2"
+}

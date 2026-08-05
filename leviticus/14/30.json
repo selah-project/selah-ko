@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 ⟨그는⟩ 그의 손이 미치는 것에서, ⟨את⟩ 산비둘기들 중 하나 혹은 비둘기 새끼들 중에서 ⟨하나를⟩ 만들 ⟨것이다⟩,",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 만들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하나"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "그 하나를"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "그 산비둘기들"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "새끼들"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "그 비둘기"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "that which"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "미치는"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손이"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:15.612749676Z",
+  "model": "glm-5.2"
+}

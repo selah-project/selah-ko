@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 148,
+  "translation": "해와 달은 그를 할렐하라, 빛의 별들은 모두 그를 할렐하라.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "그를 할렐하라"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "와 달"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "그를 할렐하라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모두"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "별들"
+    },
+    {
+      "surface": "אור",
+      "gloss": "빛의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:54.933510361Z",
+  "model": "glm-5.2"
+}

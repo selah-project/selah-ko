@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그리고 아하론과 그의 아들들이 ⟨את⟩ 그 숫양의 고기와 ⟨את⟩ 그 바구니에 있는 빵을, 만남의 장막 어귀에서 먹어야 한다.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "그리고 먹어야 한다"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론이"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "그의 아들들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 숫양의 고기를"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "고기를"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "그 숫양의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 빵을"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "그 빵을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "바구니에 있는"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "어귀에서"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막의"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:45.394475988Z",
+  "model": "glm-5.2"
+}

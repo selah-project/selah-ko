@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "하늘 끝에서 그것의 나아감이, 그리고 그것의 회전이 그것들의 끝까지 ⟨이르며⟩, 그것의 열기에서 숨겨진 것이 없다.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "끝에서"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "그것의 나아감이"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "그리고 그것의 회전이"
+    },
+    {
+      "surface": "על",
+      "gloss": "까지"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "그것들의 끝"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "숨겨진 것이"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "그것의 열기에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:40.147626989Z",
+  "model": "glm-5.2"
+}

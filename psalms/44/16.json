@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "온종일 나의 수치가 내 앞에 있으며, 내 얼굴의 부끄러움이 나를 덮었나이다.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "종일"
+    },
+    {
+      "surface": "כְּלִמָּתִי",
+      "gloss": "나의 수치가"
+    },
+    {
+      "surface": "נֶגְדִּי",
+      "gloss": "내 앞에 있으며"
+    },
+    {
+      "surface": "וּבֹשֶׁת",
+      "gloss": "부끄러움이"
+    },
+    {
+      "surface": "פָּנַי",
+      "gloss": "내 얼굴의"
+    },
+    {
+      "surface": "כִּסָּתְנִי",
+      "gloss": "나를 덮었나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:45.135360447Z",
+  "model": "glm-5.2"
+}

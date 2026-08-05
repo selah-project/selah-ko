@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "의인들의 형통함으로 ⟨그⟩ 성읍이 환호하고, 악인들의 멸망으로 ⟨그것이⟩ 기뻐하리라.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "형통함으로"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의인들의"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "환호하고"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "성읍이"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "그리고 멸망으로"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들의"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "기뻐하리라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:27:52.236230544Z",
+  "model": "glm-5.2"
+}

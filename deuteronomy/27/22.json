@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "저주를 받을 자는 ⟨자기⟩ 자매, ⟨자기⟩ 아버지의 딸 ⟨혹은⟩ ⟨자기⟩ 어머니의 딸과 동침하는 자이다. 그리고 ⟨온⟩ 백성이 아멘이라고 말할 것이다.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "저주를 받을 자는"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "동침하는"
+    },
+    {
+      "surface": "עם",
+      "gloss": "과"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "⟨자기⟩ 자매"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…의 딸"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨자기⟩ 아버지"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨혹은⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…의 딸"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "⟨자기⟩ 어머니"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 …이(가) 말할 것이다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨온⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "아멘이라고"
+    }
+  ],
+  "timestamp": "2026-08-05T08:59:25.999535701Z",
+  "model": "glm-5.2"
+}

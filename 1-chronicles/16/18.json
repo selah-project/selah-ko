@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "말씀하시기를 \"너에게 ⟨את⟩ 가나안 땅을, 너희 유산의 몫을 주겠다\" 하셨다.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "말씀하시기를"
+    },
+    {
+      "surface": "לך",
+      "gloss": "너에게"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "주겠다"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "몫을"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "너희 유산의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:46:40.624749953Z",
+  "model": "glm-5.2"
+}

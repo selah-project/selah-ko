@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "이스라엘 자손에게 말하여 이르기를, 너희를 위하여 ⟨את⟩ 도피성들을 너희에게 정하라. 내가 모셰의 손으로 너희에게 말하였던 그것들이다.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "말하여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "정하라"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희를 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "도피성들을"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "성들을"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "도피"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "내가 … 말하였던"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손으로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    }
+  ],
+  "timestamp": "2026-08-05T09:11:00.374750729Z",
+  "model": "glm-5.2"
+}

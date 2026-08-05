@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 말씀하셨다. \"물들 한가운데 라키아가 있어, 물과 물 사이를 가르게 하라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "있어"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "라키아가"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "하게 하라"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "가르"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이를"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    },
+    {
+      "surface": "למים",
+      "gloss": "물과"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:21.822116786Z",
+  "model": "glm-5.2"
+}

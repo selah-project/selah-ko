@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그의 형제들이 그를 시기하였다. 그러나 그의 아버지는 ⟨את⟩ 그 말씀을 간직하였다.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "시기하였더라"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들이"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "그러나 그의 아버지는"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "간직하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 말씀을"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "그 말씀을"
+    }
+  ],
+  "timestamp": "2026-08-05T13:35:40.369802565Z",
+  "model": "glm-5.2"
+}

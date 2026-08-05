@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "남편은 — 자기 백성 중에서 — 부정하게 되지 않으며, ⟨그리하여⟩ 자신을 더럽히지 않는다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "부정하게 되다"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "남편은"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "자기 백성 중에서"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "자신을 더럽히다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:21:51.234824720Z",
+  "model": "glm-5.2"
+}

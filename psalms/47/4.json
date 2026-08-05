@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "그가 민족들을 우리 아래 ⟨복종시키시고⟩, 나라들을 우리 발 아래 두셨다.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "⟨복종시키시고⟩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "민족들을"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "우리 아래"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "나라들을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "우리 발"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:07.852712851Z",
+  "model": "glm-5.2"
+}

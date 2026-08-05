@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그리하여 내가 ⟨את⟩ 야아자냐를 데려왔다 — 예르미야의 아들이요 하바츠냐의 아들인, 그리고 ⟨את⟩ 그의 형제들과 ⟨את⟩ 그의 모든 아들들과 ⟨את⟩ 레갑 사람의 온 집을.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "그리하여 내가 데려왔다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야아자냐를"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "야아자냐"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "예르미야의"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "하바츠냐의"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 형제들"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그의 모든 아들들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "그의 아들들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "레갑 사람의 온 집"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "레갑 사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:39:47.474247702Z",
+  "model": "glm-5.2"
+}

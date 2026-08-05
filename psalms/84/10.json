@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "우리의 방패시여, 보소서, 엘이시여. 그리고 ⟨당신의⟩ 기름부음받은 이의 얼굴을 살피소서.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "우리의 방패시여"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘이시여"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "그리고 살피소서"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴을"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "⟨당신의⟩ 기름부음받은 이의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:19.131186566Z",
+  "model": "glm-5.2"
+}

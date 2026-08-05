@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "엘리야후가 아하브에게 말하였다. \"올라가서 먹고 마셔라. 큰 비의 소리가 ⟨들리기⟩ 때문이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "엘리야후가"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "아하브에게"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "올라가서"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "마셔라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리가"
+    },
+    {
+      "surface": "המון",
+      "gloss": "큰"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "비의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:52.812555Z",
+  "model": "glm-5.2"
+}

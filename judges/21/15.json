@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 21:15",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "백성이 브냐민으로 인해 뉘우쳤으니, 이는 야훼께서 이스라엘 지파들 가운데 틈을 내셨기 때문이었다.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "뉘우쳤으니"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "브냐민으로 인해"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "내셨기"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "틈을"
+    },
+    {
+      "surface": "בשבטי",
+      "gloss": "지파들 가운데"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T18:10:25.644668997Z",
+  "model": "glm-5.2"
+}

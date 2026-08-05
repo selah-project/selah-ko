@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 5:27",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 왕 셸모하는 온 이스라엘에서 부역을 일으켰다. 그리고 그 부역은 삼만 명이었다.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "그리고 일으켰다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸모하는"
+    },
+    {
+      "surface": "מס",
+      "gloss": "부역을"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘에서"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ~이었다"
+    },
+    {
+      "surface": "המס",
+      "gloss": "그 부역은"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "삼십"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "명이었다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:47:21.557960885Z",
+  "model": "glm-5.2"
+}

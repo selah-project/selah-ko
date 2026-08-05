@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "낮에는 구름으로 그들을 인도하시고, 밤에는 온밤 불빛으로 ⟨인도하셨다⟩.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "그들을 인도하시고"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "구름으로"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "낮에는"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "밤에는"
+    },
+    {
+      "surface": "באור",
+      "gloss": "빛으로"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:23.287732883Z",
+  "model": "glm-5.2"
+}

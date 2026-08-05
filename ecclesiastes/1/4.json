@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "한 세대가 가고 한 세대가 오나, 땅은 영원히 서 있다.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "한 세대가"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "가고"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "한 세대가"
+    },
+    {
+      "surface": "בא",
+      "gloss": "오나"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "땅은"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "서 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:50.788229875Z",
+  "model": "glm-5.2"
+}

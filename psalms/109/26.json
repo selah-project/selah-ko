@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "야훼 나의 엘로힘이시여, 나를 도우소서. 나의 헤세드 따라 나를 구원하소서.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "나를 도우소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "나의 엘로님이시여"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "나를 구원하소서"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "나의 헤세드 따라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:49.933131272Z",
+  "model": "glm-5.2"
+}

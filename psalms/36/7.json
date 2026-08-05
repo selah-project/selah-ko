@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "당신의 체다카(의)는 엘의 산들 같고, 당신의 판단은 큰 심연, 인간과 짐승을 야훼께서 구원하신다",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "당신의 체다카(의)는"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "산들 같고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "당신의 판단은"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "심연"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "큰"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "인간과"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "짐승을"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "구원하신다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:02.032722017Z",
+  "model": "glm-5.2"
+}

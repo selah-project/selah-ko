@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그들이 롯을 부르며 그에게 말하였다. “이밤에 ⟨그대⟩에게 들어온 그 사람들이 어디에 있느냐? 그들을 우리에게로 끌어내라. 그리하면 우리가 그들을 ⟨את⟩ 알겠다.”",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "부르며"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "롯을"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "איה",
+      "gloss": "어디에 있느냐"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "באו",
+      "gloss": "들어온"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨그대⟩에게"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "이밤에"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "끌어내라"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "우리에게로"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "알겠다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:23.676167991Z",
+  "model": "glm-5.2"
+}

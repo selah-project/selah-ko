@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "은으로 가난한 자들을 사고, 신 한 켤레로 궁핍한 자를 사고, 그리고 곡식의 쭉정이를 팔려고.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "사고"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "은으로"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "가난한 자들을"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "그리고 궁핍한 자를"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "～로"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "신 한 켤레"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "그리고 쭉정이를"
+    },
+    {
+      "surface": "בר",
+      "gloss": "곡식의"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "팔려고"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:22.435713200Z",
+  "model": "glm-5.2"
+}

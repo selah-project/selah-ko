@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "땅이 싹을 내고, 씨를 맺는 풀씨가 ⟨그⟩ 종류대로, 씨가 그 안에 있는 과실을 맺는 나무가 ⟨그⟩ 종류대로 내었다. 엘로힘이 보시니 좋았다.",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "내고"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "싹을"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "풀"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "맺는"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "씨를"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "종류대로"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "나무가"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "맺는"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "과실을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "씨가"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "종류대로"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보시니"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋았다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:26.567518212Z",
+  "model": "glm-5.2"
+}

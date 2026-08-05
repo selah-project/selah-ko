@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "샤울이 그녀에게 야훼로 맹세하여 이르기를, \"야훼께서 살아 계시니, 이 일로 말미암아 죄가 당신에게 미치지 아니할 것이다\" 하였다.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "그리고 ⟨그가⟩ 맹세하였다"
+    },
+    {
+      "surface": "לה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "야훼로"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "חי",
+      "gloss": "살아 계시니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "미치지 아니할 것이다"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄가"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "말미암아"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이 일로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:49.479350939Z",
+  "model": "glm-5.2"
+}

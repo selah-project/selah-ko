@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "보소서, 그들이 나의 네페쉬를 노리고 잠복하였으니, 강한 자들이 나를 대적하여 모였나이다. 야훼여, 나의 반역도 아니요 나의 죄도 아니옵니다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "그들이 잠복하였으니"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "나의 네페쉬를 노리고"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "모였나이다"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나를 대적하여"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "강한 자들이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니며"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "나의 반역도"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니옵니다"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "나의 죄도"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:54.886108146Z",
+  "model": "glm-5.2"
+}

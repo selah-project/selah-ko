@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 45:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "\"너도 명령을 받았으니 이것을 행하라. 미츠라임 땅에서 너희 어린아이들과 너희 아내들을 위하여 수레를 너희를 위해 취하고, 너희 아버지를 ⟨את⟩ 데리고 오너라.\"",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "너도"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "명령받았으니"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것을"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "행하라"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희를 위해"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "수레를"
+    },
+    {
+      "surface": "לטפכם",
+      "gloss": "어린아이들과"
+    },
+    {
+      "surface": "ולנשיכם",
+      "gloss": "아내들을 위하여"
+    },
+    {
+      "surface": "ונשאתם",
+      "gloss": "데리고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아버지"
+    },
+    {
+      "surface": "아ביכם",
+      "gloss": "아버지를"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "오너라"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:53.935195188Z",
+  "model": "glm-5.2"
+}

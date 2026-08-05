@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "이 모든 것이 우리에게 임하였으나, 우리는 잊지 아니하였고, 우리가 ⟨엘로힘⟩의 브리트를 배반하며 거짓되게 행하지도 아니하였다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "우리에게 임하였다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하였다"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "우리가 잊지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하였다"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "거짓되게 행하"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "브리트 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:45.851995706Z",
+  "model": "glm-5.2"
+}

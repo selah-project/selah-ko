@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "이 일들 후에, 아하슈에로쉬 왕의 진노가 가라앉으매, ⟨그⟩가 ⟨את⟩ 와쉬티와 그녀가 한 일과 그녀에 대해 내려진 것을 기억하였다.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "후에"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "이 일들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "가라앉으매"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "진노"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "아하슈에로쉬"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "기억하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "와쉬티"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "와쉬티"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그녀가 한 일"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "그녀가 하다"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그녀에 대해 내려진 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "내려진"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그녀에 대해"
+    }
+  ],
+  "timestamp": "2026-08-05T14:06:54.979003488Z",
+  "model": "glm-5.2"
+}

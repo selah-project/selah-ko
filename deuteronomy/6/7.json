@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "너는 그것들을 네 아들들에게 반복하여 가르치며, 집에 앉아 있을 때나 길을 갈 때나, 누울 때나 일어날 때나 그것들을 말하여라.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "너는 반복하여 가르치며"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "네 아들들에게"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "말하여라"
+    },
+    {
+      "surface": "בם",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "앉아 있을 때나"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "집에"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "갈 때나"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "누울 때나"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "일어날 때나"
+    }
+  ],
+  "timestamp": "2026-08-05T08:51:25.634790870Z",
+  "model": "glm-5.2"
+}

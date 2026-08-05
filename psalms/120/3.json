@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 120,
+  "translation": "무엇이 네게 주어지며, 무엇이 네게 더해지겠느냐, 속이는 혀야?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주어지며"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "그리고 무엇이"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "더해지겠느냐"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀야"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "속이는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:51.634394879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 6:25",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 큰 기근이 사마리아에 있었고, 보라, 그것을 에워싸는 자들이 있었다 — 나귀 머리 하나가 은 팔십 ⟨세겔⟩에, 그리고 비둘기 똥 한 깝의 사분의 일이 은 다섯 ⟨세겔⟩에 이르기까지.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 있었다"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "기근이"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "사마리아에"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "에워싸는 자들이"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "היות",
+      "gloss": "이르기까지"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "머리가"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "나귀"
+    },
+    {
+      "surface": "בשמנים",
+      "gloss": "팔십에"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "ורבע",
+      "gloss": "그리고 사분의 일이"
+    },
+    {
+      "surface": "הקב",
+      "gloss": "한 깝의"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "똥"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "비둘기"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "다섯에"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은"
+    }
+  ],
+  "timestamp": "2026-08-05T09:58:06.676793406Z",
+  "model": "glm-5.2"
+}

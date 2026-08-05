@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그들이 모든 때에 ⟨את⟩ 백성을 재판하였으니, 어려운 사건은 ⟨아서⟩ 모셰에게로 가져오고, 모든 작은 사건은 그들이 친히 재판하였다.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "그들이 …재판하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "어려운 사건은"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "사건은"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "어려운"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "가져오고"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "사건은"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "작은"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이 친히"
+    }
+  ],
+  "timestamp": "2026-08-05T07:55:13.156584583Z",
+  "model": "glm-5.2"
+}

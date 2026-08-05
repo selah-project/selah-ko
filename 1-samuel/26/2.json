@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "샤울이 일어나씨다, 그리고 그가 치프 광야로 내려가씨다, 그와 함께 삼천 명의, 이스라엘의 뽑힌 사내들이, ⟨את⟩ 다윗을 그 치프 광야에서 찾기 위하여.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나셨다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "내려가셨다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "광야"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "치프"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "셋의"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "천"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사내"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "뽑힌"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "찾기 위하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "다윗을"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "광야에서"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "치프"
+    }
+  ],
+  "timestamp": "2026-08-05T18:36:53.451479541Z",
+  "model": "glm-5.2"
+}

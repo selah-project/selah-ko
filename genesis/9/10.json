@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 ⟨את⟩ 모든 살아 있는 네페쉬와〈함께〉, 곧 너희와 함께 하는 ⟨그것⟩, 날짐승 가운데, 가축 가운데, 그리고 땅의 모든 들짐승 가운데, 방주에서 나온 모든 것에게서, 땅의 모든 들짐승에게까지.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "살아 있는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희와 함께 하는"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "날짐승 가운데"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "가축 가운데"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "חית",
+      "gloss": "들짐승"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희와 함께"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "모든 것에게서"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "나온"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "방주에서"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든 …에게까지"
+    },
+    {
+      "surface": "חית",
+      "gloss": "들짐승"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:22.406808612Z",
+  "model": "glm-5.2"
+}

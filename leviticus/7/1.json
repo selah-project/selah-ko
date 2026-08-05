@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 이것이 아쉠의 토라이다. 그것은 거룩 중의 거룩이다.",
+  "tokens": [
+    {
+      "surface": "וְזֹאת",
+      "gloss": "그리고 이것이"
+    },
+    {
+      "surface": "תּוֹרַת",
+      "gloss": "토라이다"
+    },
+    {
+      "surface": "הָאָשָׁם",
+      "gloss": "아쉠의"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "거룩"
+    },
+    {
+      "surface": "קָדָשִׁים",
+      "gloss": "중의 거룩"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "그것은 …이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:03:38.847743217Z",
+  "model": "glm-5.2"
+}

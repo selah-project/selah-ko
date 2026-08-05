@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "네 아버지의 말씀을 들어라 — 이가 너를 낳았다 — 그리고 네 어머니가 늙었다 하여 멸시하지 말라.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "네 아버지에게"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이가"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "너를 낳았다"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 말라"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "멸시하지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때에"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "늙었다"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "네 어머니가"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:40.799509151Z",
+  "model": "glm-5.2"
+}

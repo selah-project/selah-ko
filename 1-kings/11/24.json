@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그가 사람들을 자기에게 모았고, 다윗이 ⟨את⟩ 그들을 죽일 때에 그는 약탈대 우두머리가 되었다. 그들이 다메섹으로 갔고, 거기에 거주하였고, 다메섹에서 다스렸다.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "모았고"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "자기에게"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "사람들을"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "שר",
+      "gloss": "우두머리"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "약탈대"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "죽일 때에"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "갔고"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "다메섹으로"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "거주하였고"
+    },
+    {
+      "surface": "בה",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "다스렸다"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "다메섹에서"
+    }
+  ],
+  "timestamp": "2026-08-05T09:50:27.724760880Z",
+  "model": "glm-5.2"
+}

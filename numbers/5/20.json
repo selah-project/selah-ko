@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그러나 너는 네 남편 아래서 돌이키고, 더럽혀졌으며, 어떤 남자가 네 안에 그의 동침을 네 남편 외에 주었다면 —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그러나 너는"
+    },
+    {
+      "surface": "כי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "돌이키고"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "~아래서"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "네 남편"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "더럽혀졌으며"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "주었다면"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자가"
+    },
+    {
+      "surface": "בך",
+      "gloss": "네 안에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 동침을"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "그의 동침을"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "~외에"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "네 남편"
+    }
+  ],
+  "timestamp": "2026-08-05T08:31:04.449980298Z",
+  "model": "glm-5.2"
+}

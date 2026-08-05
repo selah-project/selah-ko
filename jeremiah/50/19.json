@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "내가 ⟨את⟩ 이스라엘을 그의 거처로 되돌리리니, 그가 카르멜과 바산에서 먹이를 얻고, 에프라임 산과 길아드에서 그의 네페쉬가 배부르리라.",
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "내가 되돌리리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ ...으로⟩"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "그의 거처로"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "그가 먹이를 얻고"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "카르멜에서"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "바산과"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "⟨ ...에서⟩"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임 산"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "길아드"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "배부르리라"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "그의 네페쉬가"
+    }
+  ],
+  "timestamp": "2026-08-05T10:45:12.852652044Z",
+  "model": "glm-5.2"
+}

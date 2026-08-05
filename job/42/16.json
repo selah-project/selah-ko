@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "이 후에 욥이 백사십 년을 살며, ⟨את⟩ 자기 아들들과 ⟨את⟩ 자기 아들들의 아들들, 곧 사 대를 보았다.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "살았다"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "욥이"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "사십"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "년을"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기 아들들"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "자기 아들들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "자기 아들들의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "자기 아들들"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "사"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "대를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:39.629465337Z",
+  "model": "glm-5.2"
+}

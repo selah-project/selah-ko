@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 민족들의 회중이 ⟨주를⟩ 둘러싸게 하소서. 그리고 그 위로, 높은 곳에서 돌아오소서.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "그리고 ⟨⟨회중이⟩"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "민족들의"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "⟨주를⟩ 둘러싸게 하소서"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "그리고 그 위로"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "높은 곳에서"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "돌아오소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:08.460966341Z",
+  "model": "glm-5.2"
+}

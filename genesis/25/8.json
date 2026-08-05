@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 아브라함이 숨을 거두어, 좋은 노년에, 늙고 만족하여 죽었으며, ⟨그의⟩ 백성에게로 모였다.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "그리고 숨을 거두어"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그리고 죽었으며"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "노년에"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "늙고"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "그리고 만족하여"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "그리고 모였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게로"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "⟨그의⟩ 백성"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:38.007530841Z",
+  "model": "glm-5.2"
+}

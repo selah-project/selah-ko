@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 68,
+  "translation": "네 엘로힘이 네 힘을 명하셨다. 엘로힘이여, 주께서 우리를 위해 행하신 ⟨이⟩ 것을 강하게 하소서.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "명하셨다"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "네 힘을"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "강하게 하소서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "זו",
+      "gloss": "이"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "행하신"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리를 위해"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:09.691779910Z",
+  "model": "glm-5.2"
+}

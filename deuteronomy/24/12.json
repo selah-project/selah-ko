@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 만약 ⟨그⟩ 사람이 가난한 자라면, 그의 담보 안에서 눕지 말라.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "그리고 만약"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "가난한 자라면"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תִשְׁכַּ֖ב",
+      "gloss": "눕지"
+    },
+    {
+      "surface": "בַּעֲבֹטֽוֹ",
+      "gloss": "그의 담보 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:58:24.091815420Z",
+  "model": "glm-5.2"
+}

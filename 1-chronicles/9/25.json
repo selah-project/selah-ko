@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 그들의 형제들은 ⟨그들의⟩ 마을들에 ⟨있었는데⟩, 일곱째 날마다 들어와서, 때로부터 때까지 이 ⟨자들⟩과 함께 ⟨하였다⟩.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "그리고 그들의 형제들은"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "그들의 마을들에"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "들어와서"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "일곱째 ⟨날⟩마다"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날들"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "때로부터"
+    },
+    {
+      "surface": "אל",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עת",
+      "gloss": "때"
+    },
+    {
+      "surface": "עם",
+      "gloss": "와 함께"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이 ⟨자들⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:20.139598267Z",
+  "model": "glm-5.2"
+}

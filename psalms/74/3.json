@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 74,
+  "translation": "⟨당신의⟩ 발걸음을 끊임없는 폐허들로 들이소서 — 대적이 성소에서 행한 온갖 악행을!",
+  "tokens": [
+    {
+      "surface": "הָרִ֣ימָה",
+      "gloss": "들어 올리소서"
+    },
+    {
+      "surface": "פְּעָמֶ֭יךָ",
+      "gloss": "당신의 발걸음을"
+    },
+    {
+      "surface": "לְמַשּׁוּאֹ֣ת",
+      "gloss": "폐허들로"
+    },
+    {
+      "surface": "נֶ֑צַח",
+      "gloss": "끝없는"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온갖"
+    },
+    {
+      "surface": "הֵרַ֖ע",
+      "gloss": "악을 행한"
+    },
+    {
+      "surface": "אוֹיֵ֣ב",
+      "gloss": "대적이"
+    },
+    {
+      "surface": "בַּקֹּֽדֶשׁ",
+      "gloss": "성소에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:21.479103319Z",
+  "model": "glm-5.2"
+}

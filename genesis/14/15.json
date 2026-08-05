@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 그가 밤에 그들에 맞서 자기와 자기 종들을 나누어 그들을 치니, 그리고 그들을 추격하여 호바까지 이르렀다. 그것은 다메섹의 왼편이다.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "나누니"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그들에 맞서"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤에"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "그리고 자기 종들을"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "그들을 치니"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "그들을 추격하여"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "호바"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "왼편이다"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "다메섹의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:42.543096029Z",
+  "model": "glm-5.2"
+}

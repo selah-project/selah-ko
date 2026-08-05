@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 그 은을 그들의 손에 맡겨 일하는 자들에게 주게 한 그 사람들에게 회계하지 아니하였으니, 이는 그들이 신실하게 행하였음이라.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "아니하였으니"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "회계하지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 사람들"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들에게"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "맡겨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 은"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "그 은을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "그들의 손"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주게 한"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "일하는 자들에게"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "일"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "신실하게"
+    },
+    {
+      "surface": "הם",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "행하였음이라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:24.948778203Z",
+  "model": "glm-5.2"
+}

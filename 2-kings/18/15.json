@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 히즈키야가 야훼의 집에서 발견된 모든 은과 왕의 집 보물 창고의 ⟨은을⟩ 주었다.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "그리고 주었다"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "히즈키야"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "발견된 모든 은"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "은"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "발견된"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "그리고 보물 창고의"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:49.656093381Z",
+  "model": "glm-5.2"
+}

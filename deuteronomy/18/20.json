@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "오직 그 나비가, 내가 말하라고 명하지 아니한 것을 ⟨את⟩ 내 이름으로 말하려고 거만하게 행하고, 혹은 다른 엘로힘들의 이름으로 말하는 것이라면, 그 나비 그가 죽을 것이다.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "오직"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "그 나비"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "거만하게 행하고"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "말하려고"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "내 이름으로"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "것(아셔가 가리키는 바)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "내가 명"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "말하라고"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말하는"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름으로"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘들"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "다른"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "죽을 것이다"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "그 나비"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:55.796186832Z",
+  "model": "glm-5.2"
+}

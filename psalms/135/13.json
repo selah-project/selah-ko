@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 135,
+  "translation": "야훼여, 당신의 이름은 영원하시고, 야훼여, 당신의 기억은 세대와 세대에 이르나이다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "당신의 이름은"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "영원하시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "당신의 기억은"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "세대에"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "그리고 세대에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:44.313148112Z",
+  "model": "glm-5.2"
+}

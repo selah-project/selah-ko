@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "obadiah 1:7",
+  "book": "obadiah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "경계까지 너를 쫓아내었도다, 네 ⟨브리트⟩의 모든 사람들이. 너를 속였도다, 네 ⟨샬롬⟩의 사람들이 ⟨그⟩ 능하였도다, 네 ⟨것⟩이다. 네 빵을 먹는 자들이 네 아래에 덫을 놓았도다 — 깨달음이 없도다!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "경계"
+    },
+    {
+      "surface": "שלחוך",
+      "gloss": "너를 쫓아내었도다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "네 브리트의"
+    },
+    {
+      "surface": "השיאוך",
+      "gloss": "너를 속였도다"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "능하였도다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네 ⟨것⟩이다"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "사람들이"
+    },
+    {
+      "surface": "שלמך",
+      "gloss": "네 샬롬의"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "네 빵을"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "놓았도다"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "덫을"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "네 아래에"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없도다"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "깨달음이"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:43.753723184Z",
+  "model": "glm-5.2"
+}

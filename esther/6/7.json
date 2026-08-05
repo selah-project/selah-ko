@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "하만이 왕에게 말하였다. \"왕이 ⟨그⟩ 영광을 기뻐하는 ⟨그⟩ 사람 ⟨에게는⟩⋯\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "המן",
+      "gloss": "하만이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "기뻐하는"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "영광을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:23:23.820818298Z",
+  "model": "glm-5.2"
+}

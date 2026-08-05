@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그 때에 야로브암의 아들 아비야가 병들었다.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "그"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "병들었다"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "아비야가"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "야로브암의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:51:38.521081123Z",
+  "model": "glm-5.2"
+}

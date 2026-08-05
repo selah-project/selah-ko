@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "공허의 성이 부서졌고, 모든 집은 들어감에서 닫혔도다.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "부서졌고"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "성이"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "공허의"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "닫혔도다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집은"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "들어감에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:03.373438673Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "내 안의 생각이 많아질 때, 당신의 위로들이 내 네페쉬를 기쁘게 하시나이다.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "많아질 때"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "생각이"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "내 안의"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "당신의 위로들이"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "기쁘게 하시나이다"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:45.483661357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그들이 말하였다. \"우리가 당신의 눈에 헨을 얻었다면, ⟨את⟩ 이 땅이 당신의 종들에게 소유로 주어지게 하시고, 우리를 ⟨את⟩ 하르덴을 건너가게 하지 마십시오.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만약"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "우리가 얻었다면"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "당신의 눈에"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "주어지게 하시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "당신의 종들에게"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "소유로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마십시오"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "우리를 건너가게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하르덴"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "하르덴"
+    }
+  ],
+  "timestamp": "2026-08-05T08:45:52.452796609Z",
+  "model": "glm-5.2"
+}

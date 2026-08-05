@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 60,
+  "translation": "우리에게 ⟨적을 대적하는⟩ 도움을 주소서, ⟨이는⟩ ⟨사람의⟩ 구원은 헛됨이다.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "주소서"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "도움을"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "적을 대적하는"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "헛됨이다"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "구원은"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:01:49.591232649Z",
+  "model": "glm-5.2"
+}

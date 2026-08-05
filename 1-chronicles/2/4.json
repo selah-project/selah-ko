@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 타마르, 그의 며느리가 그에게 ⟨את⟩ 페레츠와 ⟨את⟩ 제라흐를 낳았다. 예후다의 모든 아들 ⟨총⟩ 다섯이었다.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "그리고 타마르"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "그의 며느리"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "페레츠"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "페레츠"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "제라흐"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "제라흐"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다의"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "다섯"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:38.112208894Z",
+  "model": "glm-5.2"
+}

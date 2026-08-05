@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "다윗이 야훼께 ⟨את⟩ 이 노래의 말씀들을 말하였다 — 야훼께서 그의 모든 원수들의 손에서, 그리고 샤울의 손에서 ⟨את⟩ 그를 건지신 날에.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 노래의 말씀들을"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말씀들을"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "이 노래의"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "건지신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "원수들의"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "그리고 손에서"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:42:48.131142437Z",
+  "model": "glm-5.2"
+}

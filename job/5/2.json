@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "분노가 어리석은 자를 죽이고, 시기가 미련한 자를 죽이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "어리석은 자를"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "죽이고"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "분노가"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "그리고 미련한 자를"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "죽인다"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "시기가"
+    }
+  ],
+  "timestamp": "2026-08-05T18:28:05.262964152Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "지휘자에게, 코라흐 아들들을 위한 미즈모르.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "지휘자에게"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "아들들을 위한"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "코라흐"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "미즈모르"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:24.527716874Z",
+  "model": "glm-5.2"
+}

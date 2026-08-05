@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 나는 ⟨아⟩ 네게 ⟨את⟩ 그들의 죄악의 햇수를 날수에 맞추어 주었으니, 삼백 구십 일이다. 그리하여 네가 이스라엘 집의 죄악을 담당할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "내가 주었다"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 죄악의 햇수"
+    },
+    {
+      "surface": "שני",
+      "gloss": "…의 햇수"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "그들의 죄악"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "…의 수에 맞추어"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "셋"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "그리고 구십"
+    },
+    {
+      "surface": "יום",
+      "gloss": "일"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "그리하여 네가 담당할 것이다"
+    },
+    {
+      "surface": "עון",
+      "gloss": "죄악"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…의 집"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T10:48:10.332147986Z",
+  "model": "glm-5.2"
+}

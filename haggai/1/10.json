@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그러므로 너희 때문에 하늘이 이슬을 보류하고, 땅도 그 소출을 보류하였다.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그러므로"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "너희"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "보류하고"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘이"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "이슬을"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "땅도"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "보류하였다"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "그 소출을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:47.374098227Z",
+  "model": "glm-5.2"
+}

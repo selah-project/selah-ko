@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그들이 그에게 종이 될 것이니, 그리하여 그들이 섬기는 바를 알리라: 나를 섬기는 것과, 땅들의 나라들을 섬기는 것을.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "될 것이니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "종이"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "그리하여 그들이 알리라"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "나를 섬기는 바를"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "그리고 ⟨...⟩ 섬기는 것을"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "나라들을"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "땅들의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:49.450707483Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 146,
+  "translation": "할렐루야. 나의 네페쉬야, 야를 ⟨את⟩ 야훼를 찬양하여라.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "할렐루"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "찬양하여라"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬야"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:36.696162503Z",
+  "model": "glm-5.2"
+}

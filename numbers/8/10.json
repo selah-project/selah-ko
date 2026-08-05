@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 너는 ⟨את⟩ 레위인들을 야훼 앞으로 가까이 가져오고, 이스라엘 자손들이 ⟨את⟩ 그들의 손을 레위인들 위에 얹을 것이다.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "가까이 가져오고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레위인들을"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위인들을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞으로"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "얹을 것이다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 손을"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "그들의 손을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위인들"
+    }
+  ],
+  "timestamp": "2026-08-05T08:32:47.712824402Z",
+  "model": "glm-5.2"
+}

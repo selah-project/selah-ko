@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리하여 이스라엘의 천 명 중에서 지파마다 천 명씩 바쳐졌으니, 곧 전쟁에 무장한 자 만 이천 명이었다.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "그리하여 바쳐졌으니"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "천 명 중에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천 명(씩)"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "지파마다"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "이"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "십"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "무장한 자"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "전쟁에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:46:08.934369764Z",
+  "model": "glm-5.2"
+}

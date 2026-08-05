@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "꿀을 얻었으면 네게 충분한 만큼 먹어라, 그것으로 배불리 《하여》 게우지 않도록.",
+  "tokens": [
+    {
+      "surface": "דְּבַ֣שׁ",
+      "gloss": "꿀을"
+    },
+    {
+      "surface": "מָ֭צָאתָ",
+      "gloss": "얻었으면"
+    },
+    {
+      "surface": "אֱכֹ֣ל",
+      "gloss": "먹어라"
+    },
+    {
+      "surface": "דַּיֶּ֑ךָּ",
+      "gloss": "네게 충분한 만큼"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "…않도록"
+    },
+    {
+      "surface": "תִּ֝שְׂבָּעֶ֗נּוּ",
+      "gloss": "그것으로 배불리"
+    },
+    {
+      "surface": "וַהֲקֵֽאתֽוֹ",
+      "gloss": "그리고 게우지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:36.918565279Z",
+  "model": "glm-5.2"
+}

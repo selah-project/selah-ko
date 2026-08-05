@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 104,
+  "translation": "⟨그⟩분은 ⟨그⟩분의 사자들을 바람으로 만드시고, ⟨그⟩분의 시종들을 타오르는 불로 ⟨만드신다⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "만드시는"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "그분의 사자들을"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "바람으로"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "그분의 시종들을"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    },
+    {
+      "surface": "להט",
+      "gloss": "타오르는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:55.891897893Z",
+  "model": "glm-5.2"
+}

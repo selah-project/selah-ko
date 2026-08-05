@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그가 그에게 말하하였다. \"당신은 아십니다 — ⟨את⟩ 내가 당신을 섬긴 것을, 그리고 ⟨את⟩ 당신의 가축이 어떠하였는지를, 나와 함께.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "아십니다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내가 당신을 섬긴 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "내가 당신을 섬긴 것"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 가축이 어떠하였는지"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "היה",
+      "gloss": "어떠하였는지"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "당신의 가축"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:45.118228576Z",
+  "model": "glm-5.2"
+}

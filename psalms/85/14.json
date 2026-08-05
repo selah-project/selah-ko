@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 85,
+  "translation": "체데크가 그분 앞에서 나아가며, 그분의 발걸음들을 길로 놓을 것이다.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "체데크가"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "그분 앞에서"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "나아가며"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "놓을 것이다"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "길로"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "그분의 발걸음들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:06.168710520Z",
+  "model": "glm-5.2"
+}

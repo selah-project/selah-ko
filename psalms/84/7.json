@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 84,
+  "translation": "바카의 골짜기를 지나는 자들은 그것을 샘으로 만드나니, 이른 비도 복들로 그것을 덮는다.",
+  "tokens": [
+    {
+      "surface": "עֹבְרֵ֤י",
+      "gloss": "지나는 자들은"
+    },
+    {
+      "surface": "בְּעֵ֣מֶק",
+      "gloss": "골짜기를"
+    },
+    {
+      "surface": "הַבָּכָא",
+      "gloss": "바카의"
+    },
+    {
+      "surface": "מַעְיָ֣ן",
+      "gloss": "샘으로"
+    },
+    {
+      "surface": "יְשִׁית֑וּהוּ",
+      "gloss": "만드나니"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "בְּרָכ֗וֹת",
+      "gloss": "복들로"
+    },
+    {
+      "surface": "יַעְטֶ֥ה",
+      "gloss": "덮는다"
+    },
+    {
+      "surface": "מוֹרֶֽה",
+      "gloss": "이른 비"
+    }
+  ],
+  "timestamp": "2026-08-05T11:39:18.921630506Z",
+  "model": "glm-5.2"
+}

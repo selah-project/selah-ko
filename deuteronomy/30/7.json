@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 30,
+  "translation": "그리고 야훼 네 엘로힘이 ⟨את⟩ 이 모든 저주들, 이것들을 네 원수들 위에, 그리고 너를 미워하는 자들 위에, 너를 쫓았던 자들 위에 두실 것이다.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "두실 것이다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 저주들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "～모든"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "저주들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이것들을"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위에"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "네 원수들"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 ～위에"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "너를 미워하는 자들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "～하였던"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "너를 쫓았던 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T09:01:07.608649361Z",
+  "model": "glm-5.2"
+}

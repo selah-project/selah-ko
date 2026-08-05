@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 89,
+  "translation": "주의 것은 하늘, 또한 주의 것은 땅 — 세계와 그 충만함을 주가 터를 놓으셨습니다.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "주의 것은"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "אף",
+      "gloss": "또한"
+    },
+    {
+      "surface": "לך",
+      "gloss": "주의 것은"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계와"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "그 충만함을"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "주가"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "터를 놓으셨나이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:07.695011394Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "만일 ⟨그가⟩ 일어나서 지팡이를 짚고 밖으로 다니면, 친 사람은 면죄될 것이다. 다만 ⟨그가⟩ 그의 쉬는 ⟨것⟩을 치러 주어야 하며, 온전히 고쳐 주어야 한다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "일어나서"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "그리고 다니면"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "밖으로"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에 기대어"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "자기 지팡이를"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "그리고 면죄될 것이다"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "친 ⟨자는⟩"
+    },
+    {
+      "surface": "רק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "그의 쉼을"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "그가 주어야 한다"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "그리고 고쳐 주어야 한다"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "온전히 고쳐야 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:08.406851099Z",
+  "model": "glm-5.2"
+}

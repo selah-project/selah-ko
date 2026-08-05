@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "그리고 다윗의 집에 알려졌다, 말하기를: 아람이 에프라임 위에 머물러 있다, 하니, 그의 마음과 그의 백성의 마음이 숲의 나무들이 바람 앞에서 흔들리듯 흔들렸다.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "그리고 알려졌다"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "~의 집에"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "머물러 있다"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "그리고 흔들렸다"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "그의 마음"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "그리고 ~의 마음"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그의 백성"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "~처럼 흔들리는"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무들"
+    },
+    {
+      "surface": "יער",
+      "gloss": "숲"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "~앞에서"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람"
+    }
+  ],
+  "timestamp": "2026-08-05T10:08:56.718846776Z",
+  "model": "glm-5.2"
+}

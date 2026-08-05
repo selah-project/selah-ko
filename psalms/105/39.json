@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 105,
+  "translation": "구름을 덮개로 펴시고, 밤을 비추기 위해 불을 ⟨두셨다⟩.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "펴시고"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "구름을"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "덮개로"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "그리고 불을"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "비추기 위해"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "밤을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:07.897256208Z",
+  "model": "glm-5.2"
+}

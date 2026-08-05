@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 24:9",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그것은 아론과 그의 아들들의 것이 되고, 그들이 그것을 거룩한 곳에서 먹어야 한다. 그것이 야훼의 불 제물들 중에서 그에게 지극히 거룩한 것이기 때문이다 — 영원한 규례로.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "그것은…것이 되고"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아론의"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "그리고 그의 아들들의"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "그들이 그것을 먹어야 한다"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "곳에서"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한 것"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "거룩한 것들"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "불 제물들 중에서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "חק",
+      "gloss": "규례로"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:23:55.284610547Z",
+  "model": "glm-5.2"
+}

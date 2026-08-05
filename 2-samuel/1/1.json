@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "샤울의 죽음 후에, 다윗이 ⟨את⟩ 아말렉을 치고 돌아왔고, 다윗이 치클라그에 머물었다 — ⟨이틀을⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 ⟨일어났다⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽음"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "그리고 다윗은"
+    },
+    {
+      "surface": "שב",
+      "gloss": "돌아왔고"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "치고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아말렉"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "아말렉"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "그리고 머물었다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗이"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "치클라그에"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "둘"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:50.860937664Z",
+  "model": "glm-5.2"
+}

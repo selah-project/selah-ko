@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "한 움큼의 평온함이 두 주먹의 수고와 바람의 괴로움보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "채움 곧"
+    },
+    {
+      "surface": "כף",
+      "gloss": "한 움큼(손바닥)의"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "평온함이"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "~보다"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "두 주먹의"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "수고와"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "괴로움이"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "바람(루아흐)의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:53.105357276Z",
+  "model": "glm-5.2"
+}

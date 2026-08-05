@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 ⟨그가⟩ 그 위에 ⟨את⟩ 흉패를 두고, 흉패 안에 ⟨את⟩ 우리임과 ⟨את⟩ 툼임을 넣었다.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "두고"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "흉패"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "흉패를"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "넣었다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...안에"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "흉패"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "우리임"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "우리임"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "툼임"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "툼임을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:14:07.007309304Z",
+  "model": "glm-5.2"
+}

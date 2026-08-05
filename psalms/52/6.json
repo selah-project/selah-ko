@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 52,
+  "translation": "너는 속이는 혀의, 모든 삼키는 말들을 사랑하였다.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "사랑하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말들을"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "삼키는"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "혀의"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "속이는"
+    }
+  ],
+  "timestamp": "2026-08-05T14:02:12.650362254Z",
+  "model": "glm-5.2"
+}

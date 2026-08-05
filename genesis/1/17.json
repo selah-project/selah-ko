@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 ⟨그것들을⟩ 라키아의 하늘에 두셨다, 땅을 비추기 위하여.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "주셨다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "라키아의"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘에"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "비추기 위하여"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅을"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:23.892786412Z",
+  "model": "glm-5.2"
+}

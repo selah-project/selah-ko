@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그가 서둘러 ⟨그녀의⟩ 항아리를 구유에 쏟고, 또 우물로 달려가서 물을 길으니, 그가 그의 모든 낙타들에게 길었다.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "서둘러"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "쏟고"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "항아리를"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "구유"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "달려가니"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "또"
+    },
+    {
+      "surface": "אל",
+      "gloss": "로"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "우물"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "물을 길으니"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "그가 길었다"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "그의 낙타들에게"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:03.020258509Z",
+  "model": "glm-5.2"
+}

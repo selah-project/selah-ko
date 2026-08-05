@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "지혜에게 “너는 내 누이다” ⟨라고 말하고⟩, 명철을 ⟨가까운⟩ 친척이라 불러라.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "지혜에게"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "내 누이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "너는"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "친척을"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "명철을"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "불러라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:53:21.828576074Z",
+  "model": "glm-5.2"
+}

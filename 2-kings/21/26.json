@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 ⟨그들이⟩ ⟨את⟩ 그를 그의 묘실에 묻었으니, 우자의 동산에; 그의 아들 요시야가 그를 대신하여 왕이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "그리고 ⟨그들이⟩ 묻었으니"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "그의 묘실에"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "동산에"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "우자의"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "그리고 … 왕이 되었다"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "요시야가"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "그를 대신하여"
+    }
+  ],
+  "timestamp": "2026-08-05T18:14:49.334896430Z",
+  "model": "glm-5.2"
+}

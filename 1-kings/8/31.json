@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "한 사람이 이웃에게 죄를 짓고 맹세를 요구받아 그에게 저주의 맹세를 시키게 될 때, 그가 주의 제단 앞, 이 집에서 맹세를 하러 오는 경우 —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 경우(אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨경우⟩"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "죄를 짓고"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "이웃에게"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "요구받아"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "맹세를"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "맹세를 시키게"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "오는"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "맹세를"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "주의 제단"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에서"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:48:42.392849362Z",
+  "model": "glm-5.2"
+}

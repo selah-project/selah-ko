@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 46,
+  "translation": "강이 있다, 그 물줄기들이 엘로힘의 성을 기쁘게 하니, 곧 엘리온의 미쉬칸들의 거룩한 곳이다.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "강"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "그 물줄기들이"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "기쁘게 하니"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "성을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩한 곳"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "미쉬칸들의"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "엘리온의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:53.802300877Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "야훼, 당신의 예슈아를 기다렸고, 당신의 미츠봇을 행하였다.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "기다렸고"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "당신의 예슈아를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼,"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "당신의 미츠봇을"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "행하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:00.415615386Z",
+  "model": "glm-5.2"
+}

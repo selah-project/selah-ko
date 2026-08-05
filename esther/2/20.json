@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "에스더는 모르드개가 그녀에게 명령한 대로, 자기 출생을 알리지 아니하였고 ⟨את⟩ 자기 백성도 ⟨알리지 아니하였다⟩; 에스더는 모르드개의 ⟨את⟩ 말을 행하였다 — 그녀가 그와 함께했던 때처럼.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더는"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "알리"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "자기 출생을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "자기 백성을"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "자기 백성"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개가"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "말을"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "말"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "모르드개의"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더는"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행하였다"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…때처럼"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "함께했던"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "양육받을"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:31.995410214Z",
+  "model": "glm-5.2"
+}

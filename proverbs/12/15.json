@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "어리석은 자의 길은 그의 눈에 바르나, 조언을 듣는 ⟨이⟩는 지혜롭다.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "길은"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "어리석은 자의"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "바르나"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "그의 눈에"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "그리고 듣는"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "조언을"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "지혜롭다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:41.368256248Z",
+  "model": "glm-5.2"
+}

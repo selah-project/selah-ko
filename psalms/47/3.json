@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "대위 야훼, 지존이시며 경외할 이시다. 온 땅 위에 ⟨계신⟩ 큰 왕이시다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대위"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "지존이시며"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "경외할 이시다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕이시다"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T11:31:07.852630590Z",
+  "model": "glm-5.2"
+}

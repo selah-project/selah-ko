@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 131,
+  "translation": "이스라엘아, 야훼를 바라라, 지금부터 영원까지.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "바라라"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "지금부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:37.179086755Z",
+  "model": "glm-5.2"
+}

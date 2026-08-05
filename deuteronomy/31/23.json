@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 31:23",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 눈의 아들 여호수아에게 명령하시고, 말씀하셨다. \"강하게 하라 그리고 담대하게 하라, 네가 ⟨את⟩ 이스라엘의 아들들을 내가 그들에게 맹세한 그 땅으로 인도할 것이기 때문이다. 그리고 나는 너와 함께 있을 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "그리고 ⟨그가⟩ 명령하셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여호수아"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "여호수아에게"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "נון",
+      "gloss": "눈의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "강하게 하라"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "그리고 담대하게 하라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "네가"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "인도할"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨아래에 기록된 것을 표시함⟩",
+      "marks": "이스라엘의 아들들"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨것⟩"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "내가 맹세한"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "그리고 나는"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "너와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T13:42:13.451744943Z",
+  "model": "glm-5.2"
+}

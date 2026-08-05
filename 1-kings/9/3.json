@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 9:3",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 야훼께서 그에게 말씀하셨다. \"내가 ⟨את⟩ 네 기도와 ⟨את⟩ 네가 내 앞에서 간구하였던 네 간구를 들었다. 내가 네가 건축한 ⟨את⟩ 이 집을 거룩하게 하였으니, 내 이름을 영원까지 거기에 두기 위함이다. 그리고 내 눈과 내 마음이 거기에 모든 날 동안 있을 것이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 …말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 기도"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "네 기도"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "네 간구"
+    },
+    {
+      "surface": "תחנתך",
+      "gloss": "네 간구"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…를"
+    },
+    {
+      "surface": "התחננתה",
+      "gloss": "간구하였던"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "거룩하게 하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 집"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "집"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…를"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "건축한"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "두기 위함이다"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "내 이름"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "그리고 …있을 것이다"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "내 눈"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "그리고 내 마음"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기에"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "날 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T09:49:07.840113191Z",
+  "model": "glm-5.2"
+}

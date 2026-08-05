@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그가 말하였다. \"내가 ⟨את⟩ 당신의 소리를 동산에서 들었고, 두려워하였습니다. 내가 벌거벗었기 때문입니다. 그리하여 숨었습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "당신의 소리"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "당신의 소리"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "내가 들었고"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "동산에서"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "두려워하였습니다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "벌거벗었"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "숨었습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:46.412139004Z",
+  "model": "glm-5.2"
+}

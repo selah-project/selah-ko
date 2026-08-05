@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 10:32",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "이들이 노아의 아들들의 씨족들이니, 그들의 세대별로, 그들의 민족들 가운데서이며, 이들로부터 땅의 민족들이 홍수 이후에 나뉘어 나갔다.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "이들이"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "씨족들이니"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "נח",
+      "gloss": "노아"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "그들의 세대별로"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "그들의 민족들 가운데서이며"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "그리고 이들로부터"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "나뉘어 나갔다"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "이후에"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "홍수"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:37.517385396Z",
+  "model": "glm-5.2"
+}

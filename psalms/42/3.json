@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "내 네페쉬가 엘로힘을, 살아 계신 엘을, 목말라하니, 언제 내가 가서 엘로힘의 얼굴들을 보았는가.",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "목말라하니"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "엘을"
+    },
+    {
+      "surface": "חי",
+      "gloss": "살아 계신"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "언제"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "내가 가서"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "보았는가"
+    },
+    {
+      "surface": "פני",
+      "gloss": "얼굴들을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:20.757883667Z",
+  "model": "glm-5.2"
+}

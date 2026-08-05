@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 모든 죽은 네페쉬 위로 — 가지 아니한다. ⟨그⟩ 아버지와 어머니로 — 더럽히지 아니한다.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "그리고 위로"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "네페쉬"
+    },
+    {
+      "surface": "מת",
+      "gloss": "죽은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "가"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "아버지로"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "그리고 어머니로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "더럽히지"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:15.079047386Z",
+  "model": "glm-5.2"
+}

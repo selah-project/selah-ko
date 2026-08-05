@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 야훼께서 백성 가운데 ⟨את⟩ 그 불타는 뱀들을 보내셨다. 그것들이 백성을 물었으므로, 이스라엘에서 많은 백성이 죽었다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "백성 가운데"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 불타는 뱀들을"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "그 뱀들을"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "불타는"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "그리고 물었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성을"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성을"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "그리고 죽었다"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "רב",
+      "gloss": "많은"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "이스라엘에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:11:35.494945987Z",
+  "model": "glm-5.2"
+}

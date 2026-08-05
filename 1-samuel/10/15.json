@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "샤울의 아저씨가 말하였다. \"나에게 알려 주십시오. 쉬무엘이 당신들에게 무엇이라 말하였습니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "아저씨가"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울의"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "알려"
+    },
+    {
+      "surface": "נא",
+      "gloss": "주십시오"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇이라"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말하였습니까"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "당신들에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "쉬무엘이"
+    }
+  ],
+  "timestamp": "2026-08-05T13:44:47.378765139Z",
+  "model": "glm-5.2"
+}

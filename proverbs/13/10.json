@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "오직 교만으로부터 다툼이 생기나, 함께 상의하는 자들과는 지혜가 ⟨있다⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "교만으로부터"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "생기나"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "다툼이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨아트⟩",
+      "marks": "함께 상의하는 자들"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "함께 상의하는 자들"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:22.324462464Z",
+  "model": "glm-5.2"
+}

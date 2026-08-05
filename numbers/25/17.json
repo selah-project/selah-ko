@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "미디언 족속을 억압하라, ⟨그리고⟩ ⟨את⟩ 미디언 족속을 쳐라.",
+  "tokens": [
+    {
+      "surface": "צָר֖וֹר",
+      "gloss": "억압하라"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "미디언 족속"
+    },
+    {
+      "surface": "הַמִּדְיָנִ֑ים",
+      "gloss": "미디언 족속"
+    },
+    {
+      "surface": "וְהִכִּיתֶ֖ם",
+      "gloss": "그리고 쳐라"
+    },
+    {
+      "surface": "אוֹתָֽם",
+      "gloss": "그들을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:42:47.338785409Z",
+  "model": "glm-5.2"
+}

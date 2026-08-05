@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "친구 ⟨같이⟩, 내게 형제 ⟨같이⟩ 행하였고, 어머니를 애도하는 ⟨자⟩ ⟨같이⟩ 어두워하며 몸을 낮추었다.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "친구 ⟨같이⟩"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "형제 ⟨같이⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "행하였고"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "애도하는 ⟨자⟩ ⟨같이⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "어머니를"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "어두워하며"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "몸을 낮추었다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:24.483024060Z",
+  "model": "glm-5.2"
+}

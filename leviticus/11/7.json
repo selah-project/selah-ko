@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 ⟨את⟩ 하지르는 — 그것이 굽을 갈라놓기 때문이며, 굽을 완전히 갈라놓되, 그것은 되새김질을 올리지 아니한다 — 그것은 너희에게 타메이다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하지르"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "하지르"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— 그것이 …이기 때문이며"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "갈라놓는"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "굽"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "그리고 완전히 갈라진"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "갈라짐"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "굽"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 그것은"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "되새김질"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "올리지"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "타메"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-05T08:15:43.693186378Z",
+  "model": "glm-5.2"
+}

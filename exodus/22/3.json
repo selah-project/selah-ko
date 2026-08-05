@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "도난품이 소에서 나귀까지, 양까지, 살아 ⟨있는 것으로⟩ 그의 손에서 발견되면, 두 배를 배상해야 한다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "발견되면"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "(강조)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에서"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "도난품이"
+    },
+    {
+      "surface": "משור",
+      "gloss": "소에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "나귀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "שה",
+      "gloss": "양"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "살아"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "두 배를"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "배상해야 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:51.538359294Z",
+  "model": "glm-5.2"
+}

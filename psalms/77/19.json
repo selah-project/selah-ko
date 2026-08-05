@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "소리, 당신의 우렛소리가 소용돌이 속에 — 번개들이 세계를 비추었더라, 땅이 떨었고 땅이 흔들렸다.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "당신의 우렛소리가"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "소용돌이 속에"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "비추었더라"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "번개들이"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계를"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "떨었고"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "땅이 흔들렸다"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:06.043071976Z",
+  "model": "glm-5.2"
+}

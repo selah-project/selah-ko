@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "이스라엘의 아들들이 레위 사람들에게 ⟨את⟩ 이 성읍들과 ⟨את⟩ 그것들의 목초지들을 주었으니, 야훼께서 모셰의 손을 통하여 명령하신 대로 제비뽑기로였다.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "그리고 …주었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…의 아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "레위 사람들에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 성읍들"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "그 성읍들을"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그것들의 목초지들"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "그것들의 목초지들을"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…한 대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…의 손을 통하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "제비뽑기로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:11:06.985353568Z",
+  "model": "glm-5.2"
+}

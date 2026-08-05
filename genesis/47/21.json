@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 47,
+  "translation": "그리고 ⟨את⟩ 그 백성을 — 그가 옮기셨다, 도시들로, 미츠라임 경계 끝에서부터 그 끝까지.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "그 백성"
+    },
+    {
+      "surface": "העם",
+      "gloss": "그 백성"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "옮기셨다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "도시들로"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "끝에서부터"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 ~까지"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "그 끝"
+    }
+  ],
+  "timestamp": "2026-08-05T07:43:47.390630633Z",
+  "model": "glm-5.2"
+}

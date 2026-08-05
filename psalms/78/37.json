@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 78,
+  "translation": "그들의 마음은 그와 함께 굳게 서지 못하였고, 그의 브리트 안에서 신실하지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "그들의 마음은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "굳게 서지"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "신실하지 못하였고"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "그의 브리트 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:37:50.471534440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "이 백성의 인도자들이 ⟨그들을⟩ 미혹하는 자들이 되었고, 그리고 그 인도받는 자들은 삼켜지는 자들이 되었다.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "인도자들이"
+    },
+    {
+      "surface": "העם",
+      "gloss": "이 백성의"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "미혹하는 자들"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "그리고 그 인도받는 자들은"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "삼켜지는 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:41.203781682Z",
+  "model": "glm-5.2"
+}

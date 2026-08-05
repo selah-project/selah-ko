@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 35:27",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그의 행적들, ⟨그⟩ 이전 것들과 ⟨그⟩ 이후 것들, 보라, 그것들은 이스라엘과 예후다 왕들의 책에 기록되어 있다.",
+  "tokens": [
+    {
+      "surface": "ודבריו",
+      "gloss": "그의 행적들"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "이전 것들"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "이후 것들"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "보라, 그것들은"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "기록되어 있다"
+    },
+    {
+      "surface": "על",
+      "gloss": "~에"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "책"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "왕들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "예후다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:32:34.680267465Z",
+  "model": "glm-5.2"
+}

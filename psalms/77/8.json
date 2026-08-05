@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "영원히 아도나이 ⟨께서⟩ 버리시는가? 그리고 더 이상 기쁘게 받지 아니하시는가?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "영원히"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "버리시는가"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하시는가"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "더 이상"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "기쁘게 받지"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:59.381311164Z",
+  "model": "glm-5.2"
+}

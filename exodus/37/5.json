@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 채를 그 고리들에, ⟨그⟩ 양약궤의 옆판 위에 끼워 넣어 ⟨그⟩ 양약궤를 메게 하였다.",
+  "tokens": [
+    {
+      "surface": "וַיָּבֵא",
+      "gloss": "끼워 넣었다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "채를"
+    },
+    {
+      "surface": "הַבַּדִּים",
+      "gloss": "채를"
+    },
+    {
+      "surface": "בַּטַּבָּעֹת",
+      "gloss": "그 고리들에"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "צַלְעֹת",
+      "gloss": "옆판(들)의"
+    },
+    {
+      "surface": "הָאָרֹן",
+      "gloss": "그 양약궤의"
+    },
+    {
+      "surface": "לָשֵׂאת",
+      "gloss": "메게 하였다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "양약궤를"
+    },
+    {
+      "surface": "הָאָרֹן",
+      "gloss": "양약궤를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:34.769874767Z",
+  "model": "glm-5.2"
+}

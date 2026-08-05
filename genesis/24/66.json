@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 종이 이츠하크에게 ⟨את⟩ 모든 일들을 이야기하였다 — ⟨그⟩ 자기가 행한 것들을.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "이야기하였다"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "이츠하크에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 일들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "일들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "행한"
+    }
+  ],
+  "timestamp": "2026-08-05T13:33:28.137088255Z",
+  "model": "glm-5.2"
+}

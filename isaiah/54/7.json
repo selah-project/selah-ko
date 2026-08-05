@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 54,
+  "translation": "잠깐 동안 너를 버렸으나, 큰 자비로 너를 모으리라.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "잠깐"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "동안"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "너를 버렸으나"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "자비로"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "큰"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "너를 모으리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:15.273656706Z",
+  "model": "glm-5.2"
+}

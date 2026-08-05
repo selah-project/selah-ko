@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그가 그들에게 말하였다. \"아직 사흘 ⟨이⟩ 있으니 내게로 돌아오라.\" 그래서 백성이 떠났다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 … 말하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "아직"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "셋의"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "돌아오라"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게로"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "그래서 … 떠났다"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:17.184552299Z",
+  "model": "glm-5.2"
+}

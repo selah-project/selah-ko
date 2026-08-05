@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "이스라엘의 아들들이 곡식을 사러 들어온 자들 가운데로 들어왔으니, 가나안 땅에 기근이 있었기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "들어왔다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "사러"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데로"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "들어온 자들의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "기근이"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:13.994197262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이스라엘이 죄를 지었다. 그리고 그들이 내가 그들에게 명령한 ⟨את⟩ 내 브리트를 어기었다. 그리고 그들이 헤렘에서 취하고, 그리고 훔치고, 그리고 부인하고, 그리고 그것을 그들의 그릇에 넣었다.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "죄를 지었다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "어기었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 브리트를"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "내 브리트를"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "명령한"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "취하고"
+    },
+    {
+      "surface": "מן",
+      "gloss": "에서"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "헤렘"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "훔치고"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "부인하고"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "넣었다"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "그들의 그릇에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:05:46.496473644Z",
+  "model": "glm-5.2"
+}

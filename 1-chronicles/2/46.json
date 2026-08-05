@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 칼레브의 첩 에이파는 ⟨את⟩ 하란과 ⟨את⟩ 모차와 ⟨את⟩ 가제즈를 낳았으며, 하란은 ⟨את⟩ 가제즈를 낳았다.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "그리고 에이파는"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "첩"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "칼레브"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "낳았으며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하란"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "하란"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모차"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "모차"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "가제즈"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "가제즈"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "그리고 하란은"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "낳았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "가제즈"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "가제즈"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:52.479020322Z",
+  "model": "glm-5.2"
+}

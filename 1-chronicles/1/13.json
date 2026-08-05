@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 카나안은 ⟨את⟩ 그의 첫째 쯔돈을 낳았고 ⟨את⟩ 헷을 ⟨낳았다⟩.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "그리고 카나안은"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "쯔돈을"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "쯔돈을"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "그의 첫째"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "헷을"
+    },
+    {
+      "surface": "חת",
+      "gloss": "헷을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:40:30.555319198Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "내가 엘의 손에 ⟨대해⟩ ⟨את⟩ 너희를 가르치리니, 샤다이와 함께 있는 것은 내가 숨기지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "가르치리니"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것은"
+    },
+    {
+      "surface": "עם",
+      "gloss": "함께 있는"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이와"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אכח드",
+      "gloss": "숨기지"
+    }
+  ],
+  "timestamp": "2026-08-05T19:39:26.995682811Z",
+  "model": "glm-5.2"
+}

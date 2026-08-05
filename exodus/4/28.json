@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "모셰가 아론에게 ⟨야훼⟩ ⟨께서⟩ 자기를 보내신 모든 말씀과 ⟨아울러⟩ ⟨그⟩가 명하신 모든 표적들을 알리니,",
+  "tokens": [
+    {
+      "surface": "וַיַּגֵּד",
+      "gloss": "알리니"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "לְאַהֲרֹן",
+      "gloss": "아론에게"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 말씀"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "말씀"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨야훼⟩ ⟨께서⟩"
+    },
+    {
+      "surface": "שְׁלָחוֹ",
+      "gloss": "자기를 보내신"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "모든 표적들"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הָאֹתֹת",
+      "gloss": "표적들을"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "צִוָּהוּ",
+      "gloss": "명하신"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:49.917768678Z",
+  "model": "glm-5.2"
+}

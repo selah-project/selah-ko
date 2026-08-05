@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 115,
+  "translation": "그것들을 만드는 자들이 그것들 같이 될 것이다, 그것들 안에서 피신하는 모든 자가.",
+  "tokens": [
+    {
+      "surface": "כְּ֭מוֹהֶם",
+      "gloss": "그것들 같이"
+    },
+    {
+      "surface": "יִהְי֣וּ",
+      "gloss": "될 것이다"
+    },
+    {
+      "surface": "עֹשֵׂיהֶ֑ם",
+      "gloss": "그것들을 만드는 자들이"
+    },
+    {
+      "surface": "כֹּ֭ל",
+      "gloss": "모든 자가"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "～하는"
+    },
+    {
+      "surface": "בֹּטֵ֣חַ",
+      "gloss": "피신하는"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "그것들 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:25.825623974Z",
+  "model": "glm-5.2"
+}

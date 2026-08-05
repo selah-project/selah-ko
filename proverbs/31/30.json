@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "헨은 거짓이요 아름다움은 헛되나, 야훼를 경외하는 아내, 그녀가 칭찬받을 것이다.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "거짓이요"
+    },
+    {
+      "surface": "החן",
+      "gloss": "헨은"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "헛되나"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "아름다움은"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "아내,"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "경외하는"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀가"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "칭찬받을 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:57.806593528Z",
+  "model": "glm-5.2"
+}

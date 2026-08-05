@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "내 입술로 ⟨당신의⟩ 입의 모든 미쉬파팜을 열거하였다.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "내 입술로"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "열거하였다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "미쉬파팜을"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "⟨당신의⟩ 입의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:05.978885906Z",
+  "model": "glm-5.2"
+}

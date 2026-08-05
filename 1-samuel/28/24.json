@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그 여인에게는 집에 매어 기르는 송아지가 있었는데, 그녀가 급히 그것을 잡고, 밀가루를 가져와 반죽하고, 그것으로 무교병을 구웠다.",
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "그 여인에게는"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "송아지가"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "매어 기르는"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "급히"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "그것을 잡고"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "가져와"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "밀가루를"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "반죽하고"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "구웠다"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "무교병"
+    }
+  ],
+  "timestamp": "2026-08-05T09:32:52.381843957Z",
+  "model": "glm-5.2"
+}

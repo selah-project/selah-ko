@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "사슴이 물줄기를 갈망하듯, 이와 같이 내 네페쉬가 당신을, 엘로힘을, 갈망한다.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "사슴이"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "갈망하듯"
+    },
+    {
+      "surface": "על",
+      "gloss": "~를"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "물줄기를"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물(줄기)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "이와 같이"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬가"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "갈망한다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "당신을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:30:20.757777670Z",
+  "model": "glm-5.2"
+}

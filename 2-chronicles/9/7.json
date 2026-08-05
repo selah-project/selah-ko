@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "왕의 사람들은 복되고, 왕의 이 종들은 복되니 — 왕 앞에 항상 서서 ⟨את⟩ 왕의 지혜를 듣는 ⟨자들⟩!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "복되고"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "왕의 사람들은"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "그리고 복되니"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이 종들은"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "서서"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "왕 앞에"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "항상"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "그리고 듣는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕의 지혜를"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "왕의 지혜"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:42.959573855Z",
+  "model": "glm-5.2"
+}

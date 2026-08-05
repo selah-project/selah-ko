@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "그리고 하자엘, 아람의 왕이 ⟨את⟩ 이스라엘을 억압하였다, 여호아하즈의 모든 날 동안.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "그리고 하자엘이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람의"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "억압하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "날 동안"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "여호아하즈의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:39.374300834Z",
+  "model": "glm-5.2"
+}

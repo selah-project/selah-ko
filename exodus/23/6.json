@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "네 가난한 자의 재판을 그의 소송에서 기울이지 말라.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תַטֶּ֛ה",
+      "gloss": "기울이지"
+    },
+    {
+      "surface": "מִשְׁפַּ֥ט",
+      "gloss": "재판을"
+    },
+    {
+      "surface": "אֶבְיֹנְךָ֖",
+      "gloss": "네 가난한 자의"
+    },
+    {
+      "surface": "בְּרִיבֽוֹ",
+      "gloss": "그의 소송에서"
+    }
+  ],
+  "timestamp": "2026-08-05T07:59:13.935667216Z",
+  "model": "glm-5.2"
+}

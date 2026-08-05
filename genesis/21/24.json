@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "아브라함이 말하였다. \"내가 맹세하겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 ～가 말하였다"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "맹세하겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:08:31.218018185Z",
+  "model": "glm-5.2"
+}

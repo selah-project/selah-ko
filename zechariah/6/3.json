@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "그리고 셋째 전차에는 흰 말들, 넷째 전차에는 얼룩진 강한 말들이었다.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "그리고 셋째 전차에는"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "셋째"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "말들이"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "흰"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "그리고 넷째 전차에는"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "넷째"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "말들이"
+    },
+    {
+      "surface": "בר드ים",
+      "gloss": "얼룩진"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "강한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:19:09.111622836Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 109,
+  "translation": "그의 날들이 적게 하소서, 그의 직분은 다른 이가 가져가게 하소서.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "되게 하소서"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "그의 날들이"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "적게"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "그의 직분은"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "가져가게 하소서"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른 이가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:49.718742963Z",
+  "model": "glm-5.2"
+}

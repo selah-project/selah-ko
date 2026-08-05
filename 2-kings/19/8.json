@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 라브 샤케가 돌아가서, 아슈르 왕이 리브나와 싸우고 있음을 발견하였으니, 이는 그가 라키쉬에서 떠났음을 들었기 때문이었다.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "그리고 …돌아가서"
+    },
+    {
+      "surface": "רב",
+      "gloss": "라브"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "샤케가"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "그리고 …발견하였으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아슈르 왕을"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕을"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "싸우고 있음을"
+    },
+    {
+      "surface": "על",
+      "gloss": "맞서"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "리브나와"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들었기"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이었다"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "떠났음을"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "라키쉬에서"
+    }
+  ],
+  "timestamp": "2026-08-05T10:03:47.609176341Z",
+  "model": "glm-5.2"
+}

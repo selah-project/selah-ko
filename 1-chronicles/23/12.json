@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "크핫의 아들들은 아므람, 이스할, 헤브론, 웃시엘, 넷이다.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "크핫의"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "아므람"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "이스할"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "헤브론"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "웃시엘"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "넷이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:36.698883784Z",
+  "model": "glm-5.2"
+}

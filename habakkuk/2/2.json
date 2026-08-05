@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 2:2",
+  "book": "habakkuk",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "야훼께서 내게 대답하여 말씀하셨다. 환상을 기록하고, 그것을 판 위에 밝히 새기어, ⟨그것을⟩ 읽는 자가 달리게 하라.",
+  "tokens": [
+    {
+      "surface": "ויענני",
+      "gloss": "내게 대답하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말씀하셨다"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "기록하라"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "환상을"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "그리고 밝히 새기어"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "그 판"
+    },
+    {
+      "surface": "למען",
+      "gloss": "~하게 하려"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "달리다"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "읽는 자가"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그것을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:15:23.541209224Z",
+  "model": "glm-5.2"
+}

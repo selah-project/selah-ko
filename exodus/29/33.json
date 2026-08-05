@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "그들이 ⟨את⟩ 그것들을 먹을 것이다 — 그것들로 카파르가 이루어진 것 — ⟨את⟩ 그들의 손을 채워 ⟨את⟩ 그들을 거룩하게 하기 위하여. ⟨그러나⟩ 외인은 먹지 못하리니, 거룩이기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "그들이 먹을 것이다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그것들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "카파르가 이루어진"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그것들로"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "채워"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 손을"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "그들의 손"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "거룩하게 하기 위하여"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "외인은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못하리니"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹지"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "거룩이기"
+    },
+    {
+      "surface": "הם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:51.678483200Z",
+  "model": "glm-5.2"
+}

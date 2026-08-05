@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "다만 네가 야훼 네 엘로힘의 목소리를 부지런히 듣고, ⟨내가⟩ 오늘 네게 명하는 ⟨את⟩ 이 모든 계명을 지켜 행하려 한다면 —",
+  "tokens": [
+    {
+      "surface": "רַק",
+      "gloss": "다만"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "…면"
+    },
+    {
+      "surface": "שָׁמוֹעַ",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "תִּשְׁמַע",
+      "gloss": "부지런히 들으면"
+    },
+    {
+      "surface": "בְּקוֹל",
+      "gloss": "목소리를"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "네 엘로힘의"
+    },
+    {
+      "surface": "לִשְׁמֹר",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "행하려"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "이 모든 계명을"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הַמִּצְוָה",
+      "gloss": "계명을"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "이"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מְצַוְּךָ",
+      "gloss": "명하는"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "오늘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:55:21.238413865Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "이것이 남아 있는 땅이다: 블레셋 사람들의 모든 구역들과 온 그슈리.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이다"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "남아 있는"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "구역들"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "블레셋 사람들의"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 온"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "그슈리"
+    }
+  ],
+  "timestamp": "2026-08-05T09:08:10.975656559Z",
+  "model": "glm-5.2"
+}

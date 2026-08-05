@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 그들이 큰 소리로, 환성과 나팔과 쇼파르로 야훼께 맹세하였다.",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "그리고 그들이 맹세하였다"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "소리로"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "큰"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "그리고 환성으로"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "그리고 나팔로"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "그리고 쇼파르로"
+    }
+  ],
+  "timestamp": "2026-08-05T12:56:52.407188986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그것의 끝은 뱀처럼 물고, 독사처럼 독을 뿜는다.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "그것의 끝은"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "뱀처럼"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "물고"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "독사처럼"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "독을 뿜는다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:58:10.209719331Z",
+  "model": "glm-5.2"
+}

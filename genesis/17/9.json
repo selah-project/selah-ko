@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "엘로힘이 아브라함에게 말씀하셨다. \"그리고 너는 ⟨את⟩ 내 브리트를 지킬지니, 너와 너의 씨가 너의 뒤를 따라 그들의 대대로.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 브리트를"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "내 브리트를"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "지킬지니"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "너"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "그리고 너의 씨가"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "너의 뒤를 따라"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "그들의 대대로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:04.619345078Z",
+  "model": "glm-5.2"
+}

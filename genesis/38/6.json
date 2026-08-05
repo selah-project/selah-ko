@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 38,
+  "translation": "야훼다가 자기 장자 에르에게 아내를 취하였다. ⟨그녀의⟩ 이름은 타말이다.",
+  "tokens": [
+    {
+      "surface": "וַיִּקַּח",
+      "gloss": "취하였다"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "야훼다가"
+    },
+    {
+      "surface": "אִשָּׁה",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "לְעֵר",
+      "gloss": "에르에게"
+    },
+    {
+      "surface": "בְּכוֹרוֹ",
+      "gloss": "자기 장자"
+    },
+    {
+      "surface": "וּשְׁמָהּ",
+      "gloss": "이름은"
+    },
+    {
+      "surface": "תָּמָר",
+      "gloss": "타말이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:35:32.703133564Z",
+  "model": "glm-5.2"
+}

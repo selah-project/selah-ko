@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "솔로몬의 잠언들 — 다윗의 아들, 이스라엘의 왕.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "잠언들"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "솔로몬"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T11:51:19.968901367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "허물 없이 그들이 달려가며 스스로 준비하니, 나를 만나려고 깨어 나와 ⟨보시옵소서⟩.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "없이"
+    },
+    {
+      "surface": "עון",
+      "gloss": "허물"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "그들이 달려가며"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "스스로 준비하니"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "깨어 나와"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "나를 만나려고"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "⟨보시옵소서⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:05.535027532Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 ⟨את⟩ 온 회중을 만남의 천막 입구로 모으라.”",
+  "tokens": [
+    {
+      "surface": "וְאֵת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "온 회중"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הָעֵדָה",
+      "gloss": "회중"
+    },
+    {
+      "surface": "הַקְהֵל",
+      "gloss": "모으라"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "פֶּתַח",
+      "gloss": "입구"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "천막"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:13:18.631870177Z",
+  "model": "glm-5.2"
+}

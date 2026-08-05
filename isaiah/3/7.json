@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그 날에 그가 들어서며 이렇게 말하리니, “나는 낫는 자가 아니며, 내 집에는 빵도 없고 옷도 없으니, 나를 이 백성의 치리자로 삼지 마옵소서.”",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "들어서며"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "그 날에"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하리니"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니며"
+    },
+    {
+      "surface": "아היה",
+      "gloss": "나는 ⟨…⟩ 아니다"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "낫는 자"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "그리고 내 집에는"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없고"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵도"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "그리고 ⟨…⟩ 없으니"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "옷도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "마옵소서"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "나를 ⟨…⟩ 삼지"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "치리자로"
+    },
+    {
+      "surface": "עם",
+      "gloss": "이 백성의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:30.472354737Z",
+  "model": "glm-5.2"
+}

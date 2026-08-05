@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "땅이다, 곧 야훼 네 엘로힘이 찾으시는 ⟨את⟩ ⟨그것⟩, 항상. 야훼 네 엘로힘의 눈들이 ⟨그⟩ 위에 계신다, 해의 시작부터 그리고 해의 끝까지.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "땅이다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "곧"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘이"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "찾으시는"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨그것⟩"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "항상"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "눈들이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘의"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨그⟩ 위에"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "시작부터"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "해의"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 ─까지"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "끝"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:07:33.676576298Z",
+  "model": "glm-5.2"
+}

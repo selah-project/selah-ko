@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "에스라 ⟨코헨⟩이 ⟨את⟩ 토라를 남자와 여자와, 듣고 깨닫는 모든 이의 회중 앞에 가져왔으니, 일곱째 달 하루였다.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "가져왔으니"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "에스라"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "토라"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "∼앞에"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "회중"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "남자부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "∼까지"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "여자"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "깨닫는"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "듣고"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "∼에"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "하루"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "달"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "일곱째"
+    }
+  ],
+  "timestamp": "2026-08-05T14:09:11.282303356Z",
+  "model": "glm-5.2"
+}

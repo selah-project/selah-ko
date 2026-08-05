@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "지나치게 의로운 자가 되지 말며, 지나치게 지혜로운 자가 되지 말라 — 왜 황무하게 되겠는가?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "말며"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "되지"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운 자"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "지나치게"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "지혜로운 자가 되지"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "지나치게"
+    },
+    {
+      "surface": "למה",
+      "gloss": "왜"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "황무하게 되겠는가"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:23.804198277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 149,
+  "translation": "이스라엘은 자기를 지으신 분 안에서 기뻐하며, 쯔욘의 아들들은 그들의 왕 안에서 ⟨뛸듯⟩ 환하라.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "기뻐하라"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘은"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "자기를 지으신 분 ⟨안에서⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들은"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "쯔욘의"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "환하라"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "그들의 왕 ⟨안에서⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:45.964387110Z",
+  "model": "glm-5.2"
+}

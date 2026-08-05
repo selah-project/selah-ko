@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "곧은 자들의 완전함이 그들을 인도하고, 배신자들의 비뚤어짐이 그들을 망친다.",
+  "tokens": [
+    {
+      "surface": "תֻּמַּ֣ת",
+      "gloss": "완전함이"
+    },
+    {
+      "surface": "יְשָׁרִ֣ים",
+      "gloss": "곧은 자들의"
+    },
+    {
+      "surface": "תַּנְחֵ֑ם",
+      "gloss": "그들을 인도하고"
+    },
+    {
+      "surface": "וְסֶ֖לֶף",
+      "gloss": "비뚤어짐이"
+    },
+    {
+      "surface": "בּוֹגְדִ֣ים",
+      "gloss": "배신자들의"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "그들을 망친다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:45.895014668Z",
+  "model": "glm-5.2"
+}

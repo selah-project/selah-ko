@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 76,
+  "translation": "빛나시는 이는 당신이시다, 약탈의 산들보다 위대하신 분이시다.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "빛나시는 이는"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신이시다"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "위대하신 분이시다"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "산들보다"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "약탈의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:57.281598558Z",
+  "model": "glm-5.2"
+}

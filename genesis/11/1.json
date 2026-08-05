@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 온 땅이 ⟨하나의⟩ 입술과 하나의 말들이 ⟨되었다⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 되었다"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅이"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "입술과"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "하나의"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "말들이"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "하나의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:54.405449834Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "그리고 여호나탄이 다윗에게 말하였다. \"오라, 우리가 들로 나가자.\" 그리고 두 사람이 들로 나갔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "여호나탄이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "오라"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "우리가 나가자"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들로"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "그리고 나갔다"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "두 사람이"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "들로"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:49.921344387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 65,
+  "translation": "죄악들의 일들이 나를 누르나이다; 우리의 반역들을, 당신께서 덮으시리이다.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "일들이"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "죄악들의"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "나를 누르나이다"
+    },
+    {
+      "surface": "מני",
+      "gloss": "나를"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "우리의 반역들을"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신께서"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "덮으시리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:23.637800036Z",
+  "model": "glm-5.2"
+}

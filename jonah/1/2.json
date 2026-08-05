@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "“일어나라, 그 큰 도시 니느웨로 가라, 그리고 ⟨그것⟩ 위에 외쳐라, 그들의 악이 내 앞에 올라왔기 때문이다.”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "일어나라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "니느웨"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "도시"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "큰"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "외쳐라"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨그것⟩ 위에"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "올라왔다"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "그들의 악이"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "내 앞에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:08.967499077Z",
+  "model": "glm-5.2"
+}

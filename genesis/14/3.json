@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "이 모든 자들이 시딤 골짜기에 모였으니, 그것은 곧 소금 바다이다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "자들이 모였으니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "골짜기"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "시딤"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것은 곧"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다이다"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "소금"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:51.336145347Z",
+  "model": "glm-5.2"
+}

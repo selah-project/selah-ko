@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "라멕이 자기에게 두 아내를 취하였으니, 한 명의 이름은 아다요, 둘째의 이름은 찔라였다.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하였으니"
+    },
+    {
+      "surface": "לו",
+      "gloss": "자기에게"
+    },
+    {
+      "surface": "למך",
+      "gloss": "라멕이"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "아내를"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름은"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "한 명의"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "아다요"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "이름은"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "둘째의"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "찔라였다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:10.284178160Z",
+  "model": "glm-5.2"
+}

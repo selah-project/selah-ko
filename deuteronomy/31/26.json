@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "이 토라의 책을 취하여, 너희는 ⟨את⟩ 그것을 너희 엘로힘 야훼의 브리트(언약)의 아론(궤) 옆에 두어라. 그것이 거기서 너희에게 증거로 있을 것이다.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 토라의 책"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "책"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "토라"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "너희는 두어라"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그것"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "옆에"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "아론(궤)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트(언약)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "בך",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "증거로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:41.676068755Z",
+  "model": "glm-5.2"
+}

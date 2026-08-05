@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "혹은 산 살이 다시 돌아와 희게 뒤바뀌면, 그는 코헨에게 와야 한다.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "다시 돌아오면"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "살이"
+    },
+    {
+      "surface": "החי",
+      "gloss": "산"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "그리고 뒤바뀌면"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "희게"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "그리고 와야 한다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "코헨"
+    }
+  ],
+  "timestamp": "2026-08-05T08:16:47.067263315Z",
+  "model": "glm-5.2"
+}

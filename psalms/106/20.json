@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "그들이 ⟨את⟩ 그들의 영광을 풀을 먹는 소의 형상으로 바꾸었다.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "그들이 바꾸었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 영광을"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "그들의 영광을"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "형상으로"
+    },
+    {
+      "surface": "שור",
+      "gloss": "소의"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "먹는"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "풀을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:38.047679942Z",
+  "model": "glm-5.2"
+}

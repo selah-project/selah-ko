@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "일곱에게 몫을 주고, 여덟에게도 ⟨주어라⟩, 땅 위에 어떤 악이 일어날지 네가 알지 못하기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "תֶּן",
+      "gloss": "주어라"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "몫을"
+    },
+    {
+      "surface": "לְשִׁבְעָ֖ה",
+      "gloss": "일곱에게"
+    },
+    {
+      "surface": "וְגַ֣ם",
+      "gloss": "그리고 또한"
+    },
+    {
+      "surface": "לִשְׁמוֹנָ֑ה",
+      "gloss": "여덟에게"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תֵדַ֔ע",
+      "gloss": "네가 알 것이다"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "무엇이"
+    },
+    {
+      "surface": "יִּהְיֶ֥ה",
+      "gloss": "있을 것인지"
+    },
+    {
+      "surface": "רָעָ֖ה",
+      "gloss": "악이"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "그 땅"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:37.558892711Z",
+  "model": "glm-5.2"
+}

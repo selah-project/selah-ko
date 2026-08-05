@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그들이 너를 구뎅이로 내려놓으리니, 네가 바다들의 한가운데서 살해된 자의 죽음들로 죽으리라.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "구뎅이로"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "그들이 너를 내려놓으리니"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "죽으리라"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "죽음들로"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "살해된 자의"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "한가운데서"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "바다들의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:56:42.553177542Z",
+  "model": "glm-5.2"
+}

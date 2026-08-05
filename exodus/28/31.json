@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 너는 ⟨את⟩ 에폿의 겉옷을 온전히 청색 천으로 만들 것이다.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֛יתָ",
+      "gloss": "그리고 너는 만들 것이다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "에폿의 겉옷"
+    },
+    {
+      "surface": "מְעִ֥יל",
+      "gloss": "겉옷"
+    },
+    {
+      "surface": "הָאֵפ֖וֹד",
+      "gloss": "에폿의"
+    },
+    {
+      "surface": "כְּלִ֥יל",
+      "gloss": "온전히"
+    },
+    {
+      "surface": "תְּכֵֽלֶת",
+      "gloss": "청색 천"
+    }
+  ],
+  "timestamp": "2026-08-05T19:46:53.750365985Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "롯이 ⟨그⟩ 문턱으로 그들에게 나아갔고, ⟨그⟩ 문은 ⟨그⟩ 뒤에서 닫혔다.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "롯이"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "⟨그⟩ 문턱으로"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "⟨그⟩ 문은"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "닫혔다"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨그⟩ 뒤에서"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:23.676416539Z",
+  "model": "glm-5.2"
+}

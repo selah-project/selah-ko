@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "민낫세가 ⟨את⟩ 에프라임을, 에프라임이 ⟨את⟩ 민낫세를, 그들이 함께 예후다를 거슬러 한다. 이 모든 것에서도 그의 노는 돌이키지 않고, 그의 손은 여전히 펴 있다.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "민낫세가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에프라임을"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "에프라임이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "민낫세를"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "민낫세"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "함께"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "על",
+      "gloss": "거슬러"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다를"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "이 모든"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "것에서도"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하시고"
+    },
+    {
+      "surface": "שב",
+      "gloss": "돌이키"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "그의 노는"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "여전히"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손은"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "펴 있다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:09:49.772776456Z",
+  "model": "glm-5.2"
+}

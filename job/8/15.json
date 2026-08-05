@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 ⟨그것⟩ ⟨집⟩에 기대어도 서지 못하고, 그것을 붙잡아도 일어서지 못한다.",
+  "tokens": [
+    {
+      "surface": "יִשָּׁעֵן",
+      "gloss": "그가 기대어도"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨～에⟩"
+    },
+    {
+      "surface": "בֵּיתוֹ",
+      "gloss": "⟨그의⟩ 집"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "그리고 못하고"
+    },
+    {
+      "surface": "יַעֲמֹד",
+      "gloss": "서지"
+    },
+    {
+      "surface": "יַחֲזִיק",
+      "gloss": "붙잡아도"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "그것을"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "그리고 못한다"
+    },
+    {
+      "surface": "יָקוּם",
+      "gloss": "일어서지"
+    }
+  ],
+  "timestamp": "2026-08-05T12:03:26.045219686Z",
+  "model": "glm-5.2"
+}

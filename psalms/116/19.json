@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 116,
+  "translation": "야훼의 집 뜰 안에서, 예루샬라임, 당신의 한가운데서. 야를 할렐하라.",
+  "tokens": [
+    {
+      "surface": "בְּחַצְר֤וֹת",
+      "gloss": "뜰 안에서"
+    },
+    {
+      "surface": "בֵּ֤ית",
+      "gloss": "집"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בְּֽת֘וֹכֵ֤כִי",
+      "gloss": "당신의 한가운데서"
+    },
+    {
+      "surface": "יְֽרוּשָׁלִָ֗ם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "할렐하라"
+    },
+    {
+      "surface": "יָֽהּ",
+      "gloss": "야를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:34.495056291Z",
+  "model": "glm-5.2"
+}

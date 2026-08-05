@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "모셰가 ⟨את⟩ 레위 사람들에게 — 야훼의 브리트(언약)의 아론(궤)을 메는 자들에게 — 명령하여 말하기를",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "명령하셨다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "레위 사람들"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "레위 사람들"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "메는 자들"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "아론(궤)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "브리트(언약)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:02:41.675884875Z",
+  "model": "glm-5.2"
+}

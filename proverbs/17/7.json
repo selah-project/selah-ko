@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "거만한 입술은 네발에게 어울리지 않으니, 거짓의 입술이 고귀한 자에게야 더욱 그러하다.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "～아니다"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "어울리"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "네발에게"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "～의 입술은"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "거만한"
+    },
+    {
+      "surface": "אף",
+      "gloss": "더욱"
+    },
+    {
+      "surface": "כי",
+      "gloss": "그러하다"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "고귀한 자에게"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "～의 입술이"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:17.001134644Z",
+  "model": "glm-5.2"
+}

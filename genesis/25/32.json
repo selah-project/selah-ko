@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "에서가 말하였다. \"보십시오, 저는 죽으러 가고 있습니다. 그런데 이것이 저에게 무엇이 장자권입니까?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "에서가"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보십시오"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "저는"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "가고 있습니다"
+    },
+    {
+      "surface": "למות",
+      "gloss": "죽으러"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "그런데 왜"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "저에게"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "장자권입니까"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:22.734678631Z",
+  "model": "glm-5.2"
+}

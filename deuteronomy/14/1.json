@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "너희는 야훼 너희 엘로힘의 아들들이니, 너희는 스스로 베어 상처를 내지 말며, 죽은 자를 위하여 눈 사이에 대머리를 내지 말 것이다.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "아들들이니"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "너희는"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희 엘로힘의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하라"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "너희는 스스로 베어 상처를 내지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니하라"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "너희는 내지"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "대머리를"
+    },
+    {
+      "surface": "בין",
+      "gloss": "~사이에"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "너희 눈"
+    },
+    {
+      "surface": "למת",
+      "gloss": "죽은 자를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:22.309420129Z",
+  "model": "glm-5.2"
+}

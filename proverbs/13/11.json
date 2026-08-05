@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "헛된 수단으로 얻은 재물은 줄어들고, 손으로 모으는 이는 늘린다.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "재물은"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "헛된 수단으로부터"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "줄어들고"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "모으는 이는"
+    },
+    {
+      "surface": "על",
+      "gloss": "…로"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "늘린다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:22.324545276Z",
+  "model": "glm-5.2"
+}

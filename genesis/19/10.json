@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그 사람들이 손을 내밀어 ⟨את⟩ 룻을 그들에게 집 안으로 끌어들이고, ⟨את⟩ 문을 닫았다.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "그들이 내밀어"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "그 사람들이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "손을"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "그들의 손을"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "그들이 끌어들이고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "룻을"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "룻을"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "집 안으로"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "문을"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "문을"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "닫았다"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:34.274690992Z",
+  "model": "glm-5.2"
+}

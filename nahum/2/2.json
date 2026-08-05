@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 2:2",
+  "book": "nahum",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "산산이 치는 자가 네 얼굴 앞에 올라왔도다. 요새를 지키고, 길을 살피며, 허리를 굳세게 하고, 힘을 크게 강하게 하라.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "올라왔도다"
+    },
+    {
+      "surface": "מפיץ",
+      "gloss": "산산이 치는 자가"
+    },
+    {
+      "surface": "על",
+      "gloss": "앞에"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "네 얼굴"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "요새를"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "살피며"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "굳세게 하고"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "허리를"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "강하게 하라"
+    },
+    {
+      "surface": "כח",
+      "gloss": "힘을"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "크게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:14:08.500465002Z",
+  "model": "glm-5.2"
+}

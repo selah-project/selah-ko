@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 36,
+  "translation": "그리고 ⟨את⟩ 보스마트, 이쉬마엘의 딸, 즉 네바욧의 자매를.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "보스마트"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "보스마트,"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…의 딸,"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "이쉬마엘의"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "…의 자매"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "네바욧의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:13.988891389Z",
+  "model": "glm-5.2"
+}

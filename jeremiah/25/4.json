@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 야훼께서 ⟨את⟩ 그의 모든 종 나비들을 여러분에게 보내셨으니, 일찍 일어나 보내시고 또 보내셨으나, 여러분은 듣지 아니하였고 ⟨את⟩ 여러분의 귀를 기울여 듣지 아니하였다.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "그리고 보내셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "여러분에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 모든 종 나비들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "그의 종"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "그 나비들을"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "일찍 일어나"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "그리고 보내셨다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 ~아니"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "여러분은 듣지"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ~아니"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "여러분은 기울이지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "여러분의 귀"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "여러분의 귀를"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "듣기(위해)"
+    }
+  ],
+  "timestamp": "2026-08-05T10:35:40.777851595Z",
+  "model": "glm-5.2"
+}

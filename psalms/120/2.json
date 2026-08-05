@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 120,
+  "translation": "야훼여, 거짓 입술에서, 속이는 혀에서 내 네페쉬를 건져 주소서.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "건져 주소서"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "내 네페쉬를"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "에서 · 입술"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "에서 · 혀"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "속이는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:51.634294393Z",
+  "model": "glm-5.2"
+}

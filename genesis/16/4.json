@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 ⟨그가⟩ 하갈에게 들어갔더니, 그녀가 임신하였다. 그녀가 임신하였음을 보고 자기 여주인이 자기 눈에 가벼워졌다.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 … 들어갔더니"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "하갈"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "그녀가 임신하였다"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "그녀가 보고"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…임을"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "임신하였"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "가벼워졌다"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "자기 여주인이"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "자기 눈에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:51:05.636273513Z",
+  "model": "glm-5.2"
+}

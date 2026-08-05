@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 66,
+  "translation": "민족들아, ⟨목소리를 높여 찬양하라 우리⟩ 엘로힘을 송축 ⟨하여라⟩, 그리고 그의 찬양의 소리를 들리게 하라.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "송축하여라"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "민족들아"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "우리 엘로힘을"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "그리고 들리게 하라"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리를"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "그의 찬양의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:34:06.720397525Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 35,
+  "translation": "그리고 만일 그가 철 기구로 ⟨그⟩를 쳐서 죽으면, ⟨그⟩는 살인자이다. 그 살인자는 반드시 죽임을 당할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "기구로"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "철"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "쳐서"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "죽으면"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "살인자"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨그⟩는"
+    },
+    {
+      "surface": "מות",
+      "gloss": "반드시"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "죽임을 당할 것이다"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "그 살인자는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:48:08.728278530Z",
+  "model": "glm-5.2"
+}

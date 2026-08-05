@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 그 전쟁은 길어졌다 — 샤울의 집과 다윗의 집 사이에. 다윗은 나아가며 강하여지고, 샤울의 집은 나아가며 약하여졌다.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "그리고 …이었다"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "그 전쟁은"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "길어졌다"
+    },
+    {
+      "surface": "בין",
+      "gloss": "사이에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "그리고 …사이에"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "그리고 다윗은"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "나아가며"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "강하여지고"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "그리고 …의 집은"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "나아가며"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "약하여졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:35:33.713706432Z",
+  "model": "glm-5.2"
+}

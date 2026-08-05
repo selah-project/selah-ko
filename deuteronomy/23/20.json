@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "너는 네 형제에게 이자를 받아서 꾸어주지 말 것이니, 은의 이자, 양식의 이자, 꾸어주면서 이자를 받는 모든 것의 이자이다.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "말 것이니"
+    },
+    {
+      "surface": "תַשִּׁ֣יךְ",
+      "gloss": "너는 받아서 꾸어주지"
+    },
+    {
+      "surface": "לְאָחִ֔יךָ",
+      "gloss": "네 형제에게"
+    },
+    {
+      "surface": "נֶ֥שֶׁךְ",
+      "gloss": "이자를"
+    },
+    {
+      "surface": "כֶּ֖סֶף",
+      "gloss": "은의"
+    },
+    {
+      "surface": "נֶ֣שֶׁךְ",
+      "gloss": "이자"
+    },
+    {
+      "surface": "אֹ֑כֶל",
+      "gloss": "양식의"
+    },
+    {
+      "surface": "נֶ֕שֶׁךְ",
+      "gloss": "이자"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דָּבָ֖ר",
+      "gloss": "것의"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "יִשָּֽׁךְ",
+      "gloss": "꾸어주면서 이자를 받는"
+    }
+  ],
+  "timestamp": "2026-08-05T19:35:32.933000959Z",
+  "model": "glm-5.2"
+}

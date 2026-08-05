@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "말하라 — 솔로몬의 아들 유다 왕 르하브암에게, 그리고 유다와 베냐민에 있는 온 이스라엘에게, 이르기를 —",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "르하브암"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "솔로몬의"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "유다에 있는"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "와 베냐민"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    }
+  ],
+  "timestamp": "2026-08-05T19:40:00.698302766Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "만일 그녀의 아버지가 그녀를 그에게 주기를 거듭 거절하면, 그는 은을 처녀들의 마흐르대로 달아내야 한다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "거듭"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "거절하면"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "그녀의 아버지가"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "그녀를 주기를"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "은을"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "달아내야 한다"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "마흐르대로"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "처녀들의"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:23.952045103Z",
+  "model": "glm-5.2"
+}

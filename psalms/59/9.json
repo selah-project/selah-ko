@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 59,
+  "translation": "그러나 당신은, 야훼, 그들을 비웃으시리다; 모든 민족들을 조롱하시리다.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그러나 당신은"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "비웃으시리다"
+    },
+    {
+      "surface": "למו",
+      "gloss": "그들을"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "조롱하시리다"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:33:20.019500706Z",
+  "model": "glm-5.2"
+}

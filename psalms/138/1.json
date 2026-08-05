@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 138,
+  "translation": "다윗의 시. 내가 온 마음으로 주를 찬양하며 엘로힘 앞에서 주를 향해 노래하리이다.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "내가 주를 찬양하며"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "마음으로"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "주를 향해 노래하리이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:49:23.655970386Z",
+  "model": "glm-5.2"
+}

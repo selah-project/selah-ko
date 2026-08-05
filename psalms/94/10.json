@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 94,
+  "translation": "열국을 징계하시는 이가 책망하지 아니하시는가 인류에게 지식을 가르치시는 ⟨이가 모르시랴⟩",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "징계하시는"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "열국을"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "∼하지 아니하시는가"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "책망하지"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "가르치시는"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "인류에게"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "지식을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:40:41.256835999Z",
+  "model": "glm-5.2"
+}

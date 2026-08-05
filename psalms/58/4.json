@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 58,
+  "translation": "악인들은 태에서부터 낯선 자가 되고, 거짓을 말하는 자들은 배에서부터 헤맸다.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "낯선 자가 되고"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악인들은"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "태에서부터"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "헤맸다"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "배에서부터"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말하는 자들은"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "거짓을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:58.518763495Z",
+  "model": "glm-5.2"
+}

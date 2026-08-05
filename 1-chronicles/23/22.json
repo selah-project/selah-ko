@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "엘아자르가 죽었는데, 그에게 아들들이 없고 딸들만 있었으므로, 그들의 형제인 키쉬의 아들들이 그들을 데려아내었다.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "죽었는데"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르가"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "없고"
+    },
+    {
+      "surface": "היו",
+      "gloss": "있었으므로"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "만"
+    },
+    {
+      "surface": "אם",
+      "gloss": "오직"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "딸들"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "데려아내었다"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "키쉬의"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "그들의 형제인"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:50.235542217Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "야훼께서 그에게 말씀하셨다. \"사람에게 입을 놓은 이가 누구인가? 혹은 누가 벙어리를, 혹은 귀머거리를, 혹은 눈 뜬 자를, 혹은 소경을 놓는가? ⟨그것은⟩ 나 야훼가 아닌가?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누구인가"
+    },
+    {
+      "surface": "שם",
+      "gloss": "놓은"
+    },
+    {
+      "surface": "פה",
+      "gloss": "입을"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "놓는가"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "벙어리를"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "귀머거리를"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "눈 뜬 자를"
+    },
+    {
+      "surface": "או",
+      "gloss": "혹은"
+    },
+    {
+      "surface": "עור",
+      "gloss": "소경을"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "아닌가"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    }
+  ],
+  "timestamp": "2026-08-05T07:48:59.854904511Z",
+  "model": "glm-5.2"
+}

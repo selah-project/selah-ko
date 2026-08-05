@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 관대한 자는 관대한 일들을 꾀하리니, 그는 관대한 일들 위에 굳게 서리라.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "그리고 관대한 자는"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "관대한 일들을"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "꾀하리니"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그리고 그는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "관대한 일들"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "굳게 서리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:01.832884717Z",
+  "model": "glm-5.2"
+}

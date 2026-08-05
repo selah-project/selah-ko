@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 그 땅의 금은 좋다 — 그곳에 베돌라크와 쇼함 돌이 있다.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "그리고 금은"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳에"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "베돌라크"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "그리고 돌이"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "쇼함"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:46.984379382Z",
+  "model": "glm-5.2"
+}

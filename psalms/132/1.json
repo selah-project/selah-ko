@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 132,
+  "translation": "올라가는 노래이다. 야훼여, 다윗을 기억하시고 ⟨את⟩ 그의 모든 고통을 ⟨기억해 주소서⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "노래"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "올라가는 것들"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "기억하시고"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 모든 고통"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "그의 고통을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:45.635281535Z",
+  "model": "glm-5.2"
+}

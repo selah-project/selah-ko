@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "악을 행하는 자들이 ⟨나의⟩ 살을 먹어치우려고 ⟨나⟩에게 가까이 다가올 때 — ⟨나의⟩ 대적들과 ⟨나의⟩ 원수들이 ⟨나에게⟩ ⟨함께⟩ ⟨있었⟩는데, 그들은 비틀거리며 넘어졌다.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "가까이 다가올 때"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "악을 행하는 자들이"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "먹어치우려고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 살"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "나의 살을"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "나의 대적들과"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "나의 원수들이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "המה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "비틀거리며"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "넘어졌다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:39.362560689Z",
+  "model": "glm-5.2"
+}

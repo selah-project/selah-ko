@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "바람을 지키는 자는 파종하지 아니하고, 구름들을 보는 자는 거두지 아니할 것이다.",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵ֥ר",
+      "gloss": "지키는 자"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "바람을"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יִזְרָ֑ע",
+      "gloss": "파종할 것이다"
+    },
+    {
+      "surface": "וְרֹאֶ֥ה",
+      "gloss": "그리고 보는 자"
+    },
+    {
+      "surface": "בֶעָבִ֖ים",
+      "gloss": "구름들을"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יִקְצֽוֹר",
+      "gloss": "거둘 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:21:37.559209251Z",
+  "model": "glm-5.2"
+}

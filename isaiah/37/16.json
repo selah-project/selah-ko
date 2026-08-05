@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "\"야훼 체바옷, 이스라엘의 엘로힘, ⟨그⟩ 그루브들 위에 좌정하신 이, 모든 땅의 왕국들 중에서 홀로 ⟨그⟩ 엘로힘이신 당신, 당신이 ⟨את⟩ 하늘과 ⟨את⟩ 땅을 만드셨다.\"",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "체바옷"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "좌정하신"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "그루브들"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "곧"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "그 엘로힘이신"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "홀로"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "왕국들"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "만드셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하늘"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    }
+  ],
+  "timestamp": "2026-08-05T10:16:42.719435144Z",
+  "model": "glm-5.2"
+}

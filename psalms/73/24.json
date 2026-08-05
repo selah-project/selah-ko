@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 73,
+  "translation": "⟨당신⟩의 계획으로 나를 인도하시고, 그 후에 영광으로 나를 받으신다.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "당신의 계획으로"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "나를 인도하시고"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "그 후에"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광으로"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "나를 받으신다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:25.158415725Z",
+  "model": "glm-5.2"
+}

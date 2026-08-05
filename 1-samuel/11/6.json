@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "엘로힘의 루아흐가 샤울 위에 강하게 임하셨다 — 그가 ⟨את⟩ ⟨그⟩ 말씀들, ⟨이⟩ 것들을 들을 때에 — 그의 진노가 맹렬히 타올랐다.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "강하게 임하셨다"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "그가 들을 때에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "말씀들"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨그⟩ 말씀들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨이⟩ 것들을"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "타올랐다"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "그의 진노가"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "맹렬히"
+    }
+  ],
+  "timestamp": "2026-08-05T18:48:06.066585314Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 56:8",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "아도나이 야훼의 말씀이시니, 이스라엘의 쫓겨난 자들을 모으시는 이시라. 내가 그 위에 또 모으리니, 그 모인 자들에게로.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "말씀이시니"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "모으시는 이시라"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "쫓겨난 자들을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "또"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "내가 모으리니"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "לנקבציו",
+      "gloss": "그 모인 자들에게로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:23:13.616389181Z",
+  "model": "glm-5.2"
+}

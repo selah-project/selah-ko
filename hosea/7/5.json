@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "우리 왕의 날에, 고관들이 포도주의 열기로 병들었으며, 그가 조롱하는 자들과 ⟨함께⟩ ⟨את⟩ ⟨그⟩ 손을 내밀었도다.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "날에"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "우리 왕의"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "병들었으며"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "고관들이"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "열기로"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "포도주의"
+    },
+    {
+      "surface": "משך",
+      "gloss": "내밀었도다"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "그의 손을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "조롱하는 자들"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "조롱하는 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:52.518929128Z",
+  "model": "glm-5.2"
+}

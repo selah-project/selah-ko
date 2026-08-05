@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "네 루아흐 안에서 성급하게 화내지 말아라, 어리석은 자들의 품 안에 분노가 머물기 때문이다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "말아라"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "성급하게 하다"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "네 루아흐 안에서"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "화내다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "분노가"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "품 안에"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "어리석은 자들의"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "머문다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:17.903712455Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "아브라함에게, ⟨그⟩ 소유로, 헷 자손들의 눈앞에서, ⟨다시⟩ ⟨그⟩ 도시의 문으로 들어오는 모든 ⟨이⟩ ⟨앞에서⟩.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "아브라함에게"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "소유로"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "눈앞에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "חת",
+      "gloss": "헷"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "באי",
+      "gloss": "들어오는"
+    },
+    {
+      "surface": "שער",
+      "gloss": "문으로"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "그 도시의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:45.379020627Z",
+  "model": "glm-5.2"
+}

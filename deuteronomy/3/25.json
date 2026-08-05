@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "청하건대, 내가 건너가서 ⟨את⟩ 그 좋은 땅을 보게 하소서 — 그것은 요르단 건너편에 있는 것, 이 좋은 산과 레바논이다.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "내가 건너가게 하소서"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하건대"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "그리고 내가 보게 하소서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 좋은 땅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "건너편에 있는"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "요르단"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "그 산"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "그리고 레바논"
+    }
+  ],
+  "timestamp": "2026-08-05T08:50:11.471022666Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "또한 그의 모든 날들이 어둠 속에서 먹는다. 그리고 화가 많고, 그의 병과 분노이다.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "그의 날들이"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "어둠 속에서"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "먹는다"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "그리고 화가"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "많고"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "그리고 그의 병"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "그리고 분노이다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:28.788976225Z",
+  "model": "glm-5.2"
+}

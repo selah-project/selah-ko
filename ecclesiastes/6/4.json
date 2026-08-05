@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "허무함으로 왔고, 어둠 속으로 가며, 어둠 속에서 그 이름이 덮이는 ⟨것⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "허무함으로"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔고"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "어둠 속으로"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "가며"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "어둠 속에서"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그 이름이"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "덮이는"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:59.487652049Z",
+  "model": "glm-5.2"
+}

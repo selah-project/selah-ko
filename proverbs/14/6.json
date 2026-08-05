@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "조롱하는 자가 지혜를 구하여도 ⟨없지만⟩, 깨닫는 자에게 ⟨지식은⟩ 쉽다.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "구하여도"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "조롱하는 자가"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "지혜를"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없지만"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "그리고 ⟨지식은⟩"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "깨닫는 자에게"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "쉽다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:55:09.214809766Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "야훼, 우리 주님, 온 땅에 ⟨당신의⟩ 이름이 얼마나 위대하신지",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "우리 주님"
+    },
+    {
+      "surface": "מה",
+      "gloss": "얼마나"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "위대하신지"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "이름이"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T11:23:44.005065870Z",
+  "model": "glm-5.2"
+}

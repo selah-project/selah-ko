@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "증인들의 손이 그에게 처음으로 있으리니, 그를 죽이기 위해서이다; 그리고 온 백성의 손이 그 뒤에 있으리라. 그리고 너는 네 한가운데서 그 악을 제거하리라.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "손이"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "증인들의"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "있으리니"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "처음으로"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "그를 죽이기 위해서이다"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "그리고 손이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "그 뒤에"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "그리고 너는 제거하리라"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "그 악을"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "네 한가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T08:57:14.908954138Z",
+  "model": "glm-5.2"
+}

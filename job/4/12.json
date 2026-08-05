@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 ⟨나에게⟩ 말이 은밀히 왔고, 내 귀가 그것의 속삭임을 받았다.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "⟨나에게⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말이"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "은밀히 왔다"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "받았다"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "내 귀가"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "속삭임을"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "그것의"
+    }
+  ],
+  "timestamp": "2026-08-05T19:39:18.762878949Z",
+  "model": "glm-5.2"
+}

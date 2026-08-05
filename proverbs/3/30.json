@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "까닭 없이 사람과 다투지 말라 — 만일 그가 너에게 악으로 갚지 ⟨않았다면⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "다투지"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…와"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "까닭 없이"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨않았다면⟩"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "너에게 갚지"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "악으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:38.615202092Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "아브라함이 죽은 후에 일이 있었다. 엘로힘이 ⟨את⟩ 그의 아들 이삭을 축복하셨다. 이삭은 ⟨את⟩ 라하이 로이의 샘 곁에 거하였다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "일이 있었다"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "후에"
+    },
+    {
+      "surface": "מות",
+      "gloss": "죽은"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함이"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이삭을"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭을"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "거하였다"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "이삭은"
+    },
+    {
+      "surface": "עם",
+      "gloss": "곁에"
+    },
+    {
+      "surface": "באר",
+      "gloss": "샘"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "라하이"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "로이"
+    }
+  ],
+  "timestamp": "2026-08-05T17:53:42.460307088Z",
+  "model": "glm-5.2"
+}

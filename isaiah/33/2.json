@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "야훼여, 우리에게 헨을 베푸소서. 우리가 ⟨주⟩를 기다렸나이다. 아침마다 그들의 팔이 되어 주시고, 환난의 때에 우리의 구원도 되어 주소서.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "우리에게 헨을 베푸소서"
+    },
+    {
+      "surface": "לך",
+      "gloss": "주를"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "우리가 기다렸나이다"
+    },
+    {
+      "surface": "היה",
+      "gloss": "되어 주소서"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "그들의 팔이"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "아침마다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "또한"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "우리의 구원"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "때에"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "환난의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:14:28.102280059Z",
+  "model": "glm-5.2"
+}

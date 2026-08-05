@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 9:1",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "이스라엘아, 민족들처럼 환호하며 기뻐하지 말라. 네가 네 엘로힘을 버리고 음란하였기 때문이다. 네가 모든 타작마당 위에서 창녀의 삯을 사랑하였다.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…하지 말라"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "기뻐하지"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
+    },
+    {
+      "surface": "אל",
+      "gloss": "~에"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "환호하며"
+    },
+    {
+      "surface": "כעמים",
+      "gloss": "민족들처럼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "זנית",
+      "gloss": "음란하였"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "버리고"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘을"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "사랑하였"
+    },
+    {
+      "surface": "אתנן",
+      "gloss": "창녀의 삯을"
+    },
+    {
+      "surface": "על",
+      "gloss": "~위에서"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "גרנות",
+      "gloss": "타작마당"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "곡물"
+    }
+  ],
+  "timestamp": "2026-08-05T11:07:47.274357940Z",
+  "model": "glm-5.2"
+}

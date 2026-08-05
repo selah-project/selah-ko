@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "그리고 그대는 그대의 주인 아하브의 집을 쳐야 한다. 내가 나의 종들 나비들의 피와, 야훼의 모든 종들의 피를 이젤벨의 손에서 갚으리라.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "그리고 그대는 쳐야 한다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아하브의 집"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "아하브의"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "그대의 주인"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "내가 갚으리라"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "피를"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "나의 종들"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "나비들의"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "그리고 피를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "종들의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "이젤벨의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:59:00.885130302Z",
+  "model": "glm-5.2"
+}

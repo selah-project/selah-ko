@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 55,
+  "translation": "보라, 내가 그를 민족들에게 증인으로 주었노니, 백성들의 나기드(지도자)이자 명령자라.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "עד",
+      "gloss": "증인으로"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "민족들에게"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "내가 그를 주었노니"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "나기드(지도자)이자"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "그리고 명령자라"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "백성들의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:22:27.794058441Z",
+  "model": "glm-5.2"
+}

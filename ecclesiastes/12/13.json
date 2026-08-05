@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "모든 말씀의 끝, 전부가 들린 바이다: ⟨את⟩ 엘로힘을 경외하고 ⟨את⟩ 그의 미츠봇을 지킬지니, 이것이 온 인간이기 ⟨때문이다⟩.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "끝"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀의"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "전부가"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "들린 바이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘로힘"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "경외하고"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그의 미츠봇"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "그의 미츠봇"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "지킬지니"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "인간"
+    }
+  ],
+  "timestamp": "2026-08-05T18:29:19.604844426Z",
+  "model": "glm-5.2"
+}

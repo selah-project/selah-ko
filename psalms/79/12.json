@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 79,
+  "translation": "그리고 우리의 이웃들에게 그들의 품으로 일곱 배로 갚으소서. 그들의 치욕을, 그들이 그대를 모욕한 그것을, 아도나이여.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "그리고 갚으소서"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "우리의 이웃들에게"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "일곱 배로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "그들의 품"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "그들의 치욕을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "그들이 그대를 모욕한"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:33.929306276Z",
+  "model": "glm-5.2"
+}

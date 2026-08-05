@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "아람이 자기들이 이스라엘 앞에서 패배한 것을 보고, 함께 모였다.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "보고"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…것을"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "패배한"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…앞에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "그들이 모였다"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "함께"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:13.167663289Z",
+  "model": "glm-5.2"
+}

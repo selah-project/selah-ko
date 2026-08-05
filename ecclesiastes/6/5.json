@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 6,
+  "translation": "태양도 보지 못하고 알지도 못하였으니, 이에게는 저에게보다 안식이 있다.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "또한"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "태양"
+    },
+    {
+      "surface": "לא",
+      "gloss": "보지"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "못하였고"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "알지도"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "못하였으니"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "안식이"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "이에게는"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "저에게보다(더)"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:48.175191956Z",
+  "model": "glm-5.2"
+}

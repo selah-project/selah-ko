@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "아슈르 왕이 ⟨את⟩ 이스라엘을 포로로 끌고 갔다, 아슈르로; 그리고 그들을 할라흐와 하보르, 고잔 강 ⟨가⟩, 그리고 마대의 성읍들에 정착시켰다.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "그리고 포로로 끌고 갔다"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…의 왕"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "아슈르"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "아슈르로"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "그리고 그들을 정착시켰다"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "할라흐에"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "그리고 하보르"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "강"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "고잔"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "그리고 …의 성읍들"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "마대"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:27.862282142Z",
+  "model": "glm-5.2"
+}

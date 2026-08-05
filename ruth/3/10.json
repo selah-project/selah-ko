@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그가 말하였다. \"야훼께 ⟨축복 받으시기를⟩, 내 딸아. 그대가 행한 그대의 헤세드, 처음보다 나중이 더 ⟨크니⟩ — 가난하든 부자든 젊은 남자들을 따라가지 아니하였으니.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "축복 받으시기를"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "너(2인칭 여성 단수)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "내 딸아"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "더 잘하였으니"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "당신의 헤세드를"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "나중의"
+    },
+    {
+      "surface": "מן",
+      "gloss": "보다"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "처음의"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "아니하였으니"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "따라가는 것을"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "뒤를"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "젊은 남자들"
+    },
+    {
+      "surface": "אם",
+      "gloss": "이든"
+    },
+    {
+      "surface": "דל",
+      "gloss": "가난하"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "이든"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "부자"
+    }
+  ],
+  "timestamp": "2026-08-05T12:16:15.765151784Z",
+  "model": "glm-5.2"
+}

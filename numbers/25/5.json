@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "그리고 모셰가 이스라엘의 판사들에게 말하였다. \"각자 ⟨자기⟩ 사람들 중 바알 페오르에게 달라붙은 자들을 죽이라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "판사들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "죽이라"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "자기 사람들을"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "달라붙은 자들을"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "바알에게"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "페오르"
+    }
+  ],
+  "timestamp": "2026-08-05T13:40:35.318585104Z",
+  "model": "glm-5.2"
+}

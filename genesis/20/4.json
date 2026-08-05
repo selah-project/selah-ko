@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "아비멜렉은 ⟨그⟩녀에게 가까이 하지 아니하였다. 그리고 ⟨그⟩가 \"아도나이, 의로운 민족도 죽이시나이까?\" 하고 말하였다.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "아비멜렉은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "가까이 하지"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "민족"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…도"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로운"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "죽이시나이까"
+    }
+  ],
+  "timestamp": "2026-08-05T17:52:12.868624622Z",
+  "model": "glm-5.2"
+}

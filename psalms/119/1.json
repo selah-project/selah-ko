@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "오, ⟨그⟩ 길이 온전한 ⟨자들⟩, 야훼의 토라 안에서 걷는 ⟨자들⟩의 행복이여!",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֥י",
+      "gloss": "오, …의 행복이여"
+    },
+    {
+      "surface": "תְמִֽימֵי",
+      "gloss": "온전한"
+    },
+    {
+      "surface": "דָ֑רֶךְ",
+      "gloss": "길이"
+    },
+    {
+      "surface": "הַֽ֝הֹלְכִ֗ים",
+      "gloss": "걷는"
+    },
+    {
+      "surface": "בְּתוֹרַ֥ת",
+      "gloss": "토라 안에서"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "야훼의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:39.144247706Z",
+  "model": "glm-5.2"
+}

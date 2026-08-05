@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그리고 유다가 헤브론에 거주하는 가나안 사람에게로 나아갔다 — 헤브론의 옛 이름은 키르야트 아르바였다 — 그리고 그들이 ⟨את⟩ 셰샤이와 ⟨את⟩ 아히만과 ⟨את⟩ 탈마이를 쳤다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "나아갔다"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게로"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "가나안 사람"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "거주하는"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "헤브론에"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "그리고 … 이름은"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "헤브론의"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "옛"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "키르야트"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "아르바"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "쳤다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셰샤이를"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "셰샤이"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아히만을"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "아히만"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "탈마이를"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "탈마이"
+    }
+  ],
+  "timestamp": "2026-08-05T09:12:22.268576570Z",
+  "model": "glm-5.2"
+}

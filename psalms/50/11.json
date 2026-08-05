@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "나는 산들의 모든 새를 아신다. 그리고 들판의 들짐승은 ⟨나와⟩ 함께이다.",
+  "tokens": [
+    {
+      "surface": "יָ֭דַעְתִּי",
+      "gloss": "나는 … 아신다"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ע֣וֹף",
+      "gloss": "새를"
+    },
+    {
+      "surface": "הָרִ֑ים",
+      "gloss": "산들의"
+    },
+    {
+      "surface": "וְזִ֥יז",
+      "gloss": "그리고 들짐승은"
+    },
+    {
+      "surface": "שָׂ֝דַ֗י",
+      "gloss": "들판의"
+    },
+    {
+      "surface": "עִמָּדִֽי",
+      "gloss": "⟨나와⟩ 함께이다"
+    }
+  ],
+  "timestamp": "2026-08-05T18:26:03.527288072Z",
+  "model": "glm-5.2"
+}

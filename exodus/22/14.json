@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "만일 그것의 임자가 ⟨그것과⟩ 함께 있었으면 배상하지 아니하여도 되나니, 만일 그것이 삯으로 빌린 것이라면 삯으로 ⟨임했기⟩ 때문이다.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "그것의 임자가"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "함께 있었으면"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하여도"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "배상하여야"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "삯으로 빌린 것이라면"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "것이"
+    },
+    {
+      "surface": "בא",
+      "gloss": "왔으니"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "그것의 삯으로"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:23.951774183Z",
+  "model": "glm-5.2"
+}

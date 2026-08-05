@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "그리고 너도 할례 받지 못한 자들 가운데서 부서질 것이요, 칼에 죽임 당한 자들과 함께 누울 것이다.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "그리고 너도"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "할례 받지 못한 자들"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "부서질 것이요"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "누울 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "칼에 죽임 당한 자들"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "죽임 당한 자들"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "칼에"
+    }
+  ],
+  "timestamp": "2026-08-05T10:58:20.379430187Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "왕은 큰 군대로 구원 얻지 못한다. 장사는 큰 힘으로 건짐 받지 못한다.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕은"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "구원 얻지 못한다"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "큰"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "군대로"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "장사는"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "건짐 받지 못한다"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "큰"
+    },
+    {
+      "surface": "כח",
+      "gloss": "힘으로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:44.745179325Z",
+  "model": "glm-5.2"
+}

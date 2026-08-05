@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그가 말하였다. \"나는 아브라함의 종이다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "종"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "아브라함의"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    }
+  ],
+  "timestamp": "2026-08-05T18:34:10.600235081Z",
+  "model": "glm-5.2"
+}

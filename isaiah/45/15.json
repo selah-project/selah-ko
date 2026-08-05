@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "참으로 당신은 ⟨자신을⟩ 숨기시는 엘이시다. 이스라엘의 엘로힘, 구원자시다.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "참으로"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이시다"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "숨기시는"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘이시다"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "구원자시다"
+    }
+  ],
+  "timestamp": "2026-08-05T13:54:00.075986961Z",
+  "model": "glm-5.2"
+}

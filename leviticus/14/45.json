@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그는 ⟨את⟩ 그 집을 헐어버린다 — ⟨את⟩ 그 돌들과 ⟨את⟩ 그 나무들과 ⟨את⟩ 그 집의 모든 먼지를 — 그리고 그것들을 성읍 바깥으로, 부정한 곳으로 내어버린다.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "그는 헐어버린다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 집을"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 돌들을"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "그 돌들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "그 나무들을"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "그 나무들"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "모든"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "먼지"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "그 집의"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "그리고 내어버린다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "바깥"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "성읍의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…로"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "곳"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "부정한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:18:32.716297462Z",
+  "model": "glm-5.2"
+}

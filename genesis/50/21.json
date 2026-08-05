@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 50,
+  "translation": "그러니 이제 두려워하지 말아라. 나는 너희와 너희 어린 것들을 먹여 살리겠다. 그리하고 ⟨그는⟩ 그들을 위로하였고, 그들의 마음에 대고 말하였다.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "그러니 이제"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 말아라"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "두려워하지"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "나는"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "먹여 살리겠다"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "너희를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "너희 어린 것들을"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "너희 어린 것들을"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "그리하고 그는 위로하였고"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "그들을"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "על",
+      "gloss": "대고"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "그들의 마음에"
+    }
+  ],
+  "timestamp": "2026-08-05T17:09:39.631067410Z",
+  "model": "glm-5.2"
+}

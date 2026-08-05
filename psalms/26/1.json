@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "다윗의 ⟨시⟩. 야훼여, 나를 심판해 주십시오. 내가 나의 완전함 안에서 걸어왔고, 야훼 안에서 신뢰하였으니, 흔들리지 않겠습니다.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "다윗의"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "나를 심판해 주십시오"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "나의 완전함 안에서"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "걸어왔고"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "야훼 안에서"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "신뢰하였으니"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "흔들리겠습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:27:28.838620040Z",
+  "model": "glm-5.2"
+}

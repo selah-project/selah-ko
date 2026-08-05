@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그가 ⟨את⟩ 비둘기를 자기에게서 보내시니, 물들이 ⟨그⟩ 땅의 표면에서 줄어들었는지 보려 하였다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그가 보내시니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "비둘기"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "비둘기를"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "자기에게서"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보려 하였다"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "줄어들었는지"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "에서"
+    },
+    {
+      "surface": "פני",
+      "gloss": "표면"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:42:41.614796595Z",
+  "model": "glm-5.2"
+}

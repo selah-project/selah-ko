@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "반석 안으로 들어가고 먼지 속에 숨겨져라, 야훼의 공포 앞에서, 그리고 그의 위엄의 광휘 앞에서.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "들어가고"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "반석 안으로"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "그리고 숨겨져라"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "먼지 속에"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "─앞에서"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "공포"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "그리고 ─의 광휘 앞에서"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "그의 위엄의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:06:51.213558549Z",
+  "model": "glm-5.2"
+}

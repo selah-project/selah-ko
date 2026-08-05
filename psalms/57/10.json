@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "내가 민족들 가운데서 아도나이, ⟨당신을⟩ 찬양하리다; 만국들 가운데서 ⟨당신을⟩ 노래하리다.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "내가 ⟨당신을⟩ 찬양하리다"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "민족들 가운데서"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "⟨당신을⟩ 노래하리다"
+    },
+    {
+      "surface": "בל",
+      "gloss": "만국들"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "가운데서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:26.896396932Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 예슈아는 ⟨את⟩ 요야킴을 낳았고, 요야킴은 ⟨את⟩ 엘리아쉬브를 낳았고, 엘리아쉬브는 ⟨את⟩ 요야다를 낳았다.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "그리고 예슈아는"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요야킴을"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "요야킴을"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "요야킴은"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "낳았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "엘리아쉬브를"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "엘리아쉬브를"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "엘리아쉬브는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "요야다를"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "요야다를"
+    }
+  ],
+  "timestamp": "2026-08-05T12:38:58.815140392Z",
+  "model": "glm-5.2"
+}

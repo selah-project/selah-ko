@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그가 ⟨את⟩ 그의 왕국 영광의 부를, 그리고 ⟨את⟩ 그의 위대함의 탁월한 아름다움을 보이며, 여러 날 — 팔십과 백, ⟨곧 180⟩ 날 ⟨동안⟩이었다.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "그가 …보이며"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "부"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "부"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "영광"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "그의 왕국"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "탁월함"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "탁월함"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "아름다움"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "그의 위대함"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "여러"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "팔십"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "그리고 백"
+    },
+    {
+      "surface": "יום",
+      "gloss": "낮"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:29.614106945Z",
+  "model": "glm-5.2"
+}

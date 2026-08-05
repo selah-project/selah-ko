@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "어떤 가증한 것도 먹지 말아라.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "아니하다"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "너는 먹지"
+    },
+    {
+      "surface": "כל",
+      "gloss": "어떤 것도"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "가증한"
+    }
+  ],
+  "timestamp": "2026-08-05T08:54:22.309734393Z",
+  "model": "glm-5.2"
+}

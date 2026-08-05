@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 51,
+  "translation": "엘로힘, 피에서 저를 건져내소서. 내 구원의 엘로힘이여, 제 혀가 당신의 체다카를 기뻐 노래하리이다.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "저를 건져내소서"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "피(들)에서"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…의 엘로힘"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "내 구원의"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "기뻐 노래하리이다"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "제 혀가"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "당신의 체다카를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:08.284255401Z",
+  "model": "glm-5.2"
+}

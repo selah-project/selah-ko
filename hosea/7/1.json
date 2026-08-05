@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내가 이스라엘을 고치려 할 때 에프라임의 악함이 드러나고 쇼메론의 악행들이 ⟨드러났⟩으니, 그들이 거짓을 행하였기 때문이다. 도적이 들어오고 부대가 밖에서 약탈한다.",
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "내가 고치려 할 때"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "드러나고"
+    },
+    {
+      "surface": "עון",
+      "gloss": "악함이"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "에프라임의"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "악행들이"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "쇼메론의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "왜냐하면"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "그들이 행하였다"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "거짓을"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "그리고 도적이"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "들어온다"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "약탈한다"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "부대가"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "밖에서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:06:45.513493910Z",
+  "model": "glm-5.2"
+}

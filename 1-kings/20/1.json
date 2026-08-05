@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "벤-하다드, 아람 왕이 ⟨את⟩ 온 군대를 모았고, 그와 함께 삼십이 명의 왕과 말과 병거가 있었다. 그가 올라가서 슈메론을 에워싸고, 그 안에서 싸웠다.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "그리고 벤-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하다드"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…왕"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "아람"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "모았고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 군대"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "그의 군대를"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "그리고 삼십"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그와 함께"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "그리고 말과"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "병거"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "그가 올라가서"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "에워싸고"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에 대하여"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "슈메론을"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "그리고 싸웠다"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에서"
+    }
+  ],
+  "timestamp": "2026-08-05T13:50:02.220712772Z",
+  "model": "glm-5.2"
+}

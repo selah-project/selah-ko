@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "네가 엘로힘께 서원을 하거든 그것을 이행하기를 미루지 말라. 것이다 엘로힘은 미련한 자들에게 기뻐하심이 없으심이라. 네가 서원한 것을 이행하라.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…하거든"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "네가…하거든"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "서원을"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "엘로힘께"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "미루지"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "그것을 이행하기를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "것이다"
+    },
+    {
+      "surface": "אין",
+      "gloss": "…없으심이라"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "기뻐하심"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "미련한 자들에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네가 서원한 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…한 것"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "네가 서원"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "이행하라"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:58.682706413Z",
+  "model": "glm-5.2"
+}

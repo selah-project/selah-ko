@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 예루샬라임에서 ⟨그에게⟩ 태어난 ⟨이들⟩은 ⟨이렇다⟩ — 시마, 쇼바브, 나탄, 슐로모, 넷이었다. 바트-슈아, 즉 아미엘의 딸에게서 ⟨태어났다⟩.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "그리고 이들은"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "태어났다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "예루샬라임에서"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "시마"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "쇼바브"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "나탄"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "슐로모"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "넷"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "…의 딸에게서"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "슈아"
+    },
+    {
+      "surface": "בת",
+      "gloss": "딸"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "아미엘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:41:44.700182267Z",
+  "model": "glm-5.2"
+}

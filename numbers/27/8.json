@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "“그리고 너는 이스라엘의 아들들에게 말하여 이르기를 — ⟨어떤⟩ 사람이 죽고 그에게 아들이 없으면, 너희는 ⟨את⟩ 그의 유산을 그의 딸에게로 넘기어라.”",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "너는 말하여"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "איש",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "כי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "죽고"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "그리고 아들이"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없으면"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "너희는 넘기어라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그의 유산을"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "그의 유산을"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "그의 딸에게로"
+    }
+  ],
+  "timestamp": "2026-08-05T08:44:56.386131109Z",
+  "model": "glm-5.2"
+}

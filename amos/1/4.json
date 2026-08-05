@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "그래서 내가 불을 하자엘의 집에 보내리니, ⟨그것이⟩ 벤하닷의 성채들을 삼키리라.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "그래서 보내리니"
+    },
+    {
+      "surface": "אש",
+      "gloss": "불"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "하자엘"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "삼키리라"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "성채들"
+    },
+    {
+      "surface": "בן",
+      "gloss": "벤"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "하닷"
+    }
+  ],
+  "timestamp": "2026-08-05T14:00:39.342728779Z",
+  "model": "glm-5.2"
+}

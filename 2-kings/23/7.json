@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 야훼의 집에 있던 ⟨את⟩ 그 카데쉬들의 집들을 허셨으니, 거기서 여인들이 아쉐라를 위하여 집들을 짜던 곳이었다.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "허셨으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 카데쉬들의 집들을"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "집들을"
+    },
+    {
+      "surface": "הקדשim",
+      "gloss": "그 카데쉬들"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…곳"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "여인들이"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "짜던"
+    },
+    {
+      "surface": "שם",
+      "gloss": "거기서"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "집들을"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "아쉐라를 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T10:05:50.579536873Z",
+  "model": "glm-5.2"
+}

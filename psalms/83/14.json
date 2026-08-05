@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "엘로힘이시여, 그들을 둥글게 굴러가는 것처럼, 바람 앞의 쭉정이처럼 만드소서.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "엘로힘이시여"
+    },
+    {
+      "surface": "שִׁיתֵמוֹ",
+      "gloss": "그들을 만드소서"
+    },
+    {
+      "surface": "כַגַּלְגַּל",
+      "gloss": "둥글게 굴러가는 것처럼"
+    },
+    {
+      "surface": "כְּקַשׁ",
+      "gloss": "쭉정이처럼"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "앞의"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "바람"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:41.547557913Z",
+  "model": "glm-5.2"
+}

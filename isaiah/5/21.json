@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 5:21",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "화, 자기 눈에 지혜로운 자들, 그리고 자기 얼굴 앞에 슬기로운 자들에게!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "화"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "지혜로운 자들"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "자기 눈에"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "그리고 ⟨…⟩ 앞에"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "자기 얼굴"
+    },
+    {
+      "surface": "נבנים",
+      "gloss": "슬기로운 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T10:07:58.135984064Z",
+  "model": "glm-5.2"
+}

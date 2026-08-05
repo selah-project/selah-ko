@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "테홈의 샘들과 하늘의 창들이 닫히고, 하늘로부터의 비가 그쳤다.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "닫히고"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "샘들이"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "테홈의"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "창들이"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "그쳤다"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "비가"
+    },
+    {
+      "surface": "מן",
+      "gloss": "부터"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘로-"
+    }
+  ],
+  "timestamp": "2026-08-05T17:49:36.257620485Z",
+  "model": "glm-5.2"
+}

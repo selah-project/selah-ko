@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "셸로모가 야훼의 이름을 위하여 집을 짓고, 자신의 왕국을 위하여 집을 짓기로 하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "하였다"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모가"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "짓기로"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집을"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "이름을 위하여"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "그리고 집을"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "자신의 왕국을 위하여"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:02.105290764Z",
+  "model": "glm-5.2"
+}

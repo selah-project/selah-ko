@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "그가 그들에게 말하였다. \"아니다. 이 땅의 벌거벗은 것을 보려고 너희가 왔다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "벌거벗은 것"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "이 땅의"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "너희가 왔다"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "보려고"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:09.228962078Z",
+  "model": "glm-5.2"
+}

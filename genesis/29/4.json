@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "야곱이 그들에게 말하였다. \"나의 형제들이여, 어디에서 오셨습니까?\" 그들이 말하였다. \"우리는 하란에서 왔습니다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "형제들이여"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "어디에서"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "오셨습니까"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "그들이 말하였다"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "하란에서"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "우리는"
+    }
+  ],
+  "timestamp": "2026-08-05T17:55:43.653371570Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그녀가 와서 하-엘로힘의 사람에게 알리었더니, 그가 말하였다. “가서 ⟨את⟩ 기름을 팔아 ⟨네⟩ 빚을 갚고, 너와 네 아들들은 남은 것으로 살아라.”",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "그녀가 와서"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "알리었더니"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "하-엘로힘의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "가거라"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "팔아"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "기름"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "기름을"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "갚고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 빚"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "네 빚을"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "너와"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "네 아들들"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "살아라"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "남은 것으로"
+    }
+  ],
+  "timestamp": "2026-08-05T09:57:30.654716464Z",
+  "model": "glm-5.2"
+}

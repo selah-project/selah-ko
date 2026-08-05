@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 샤울이 말하였다. \"들어라, 아히툽의 아들아.\" 그리고 ⟨그⟩가 말하였다. \"제가 여기 있습니다, 주인이여.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울이"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들어라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "청하노니"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "아히툽의"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "제가 여기 있습니다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "주인이여"
+    }
+  ],
+  "timestamp": "2026-08-05T13:46:20.071328722Z",
+  "model": "glm-5.2"
+}

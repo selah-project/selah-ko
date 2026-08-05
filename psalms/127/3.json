@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 127,
+  "translation": "보라, 자녀들은 야훼의 유업이요, 태의 열매는 상급이다.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "유업이요"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "자녀들은"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "상급이다"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "열매는"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "태의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:48:29.124450961Z",
+  "model": "glm-5.2"
+}

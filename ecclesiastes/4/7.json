@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 나는 돌이켜 해 아래 ⟨있는⟩ 헛됨을 보았다.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "그리고 나는 돌이켜"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "헛됨을"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "~아래에"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:53.105442603Z",
+  "model": "glm-5.2"
+}

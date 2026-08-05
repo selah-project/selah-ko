@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "이스라엘의 아들들이 라므세스에서 떠나, 숙곳에 진을 쳤다.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "떠나"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들이"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "라므세스에서"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 쳤다"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "숙곳에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:47:38.599645887Z",
+  "model": "glm-5.2"
+}

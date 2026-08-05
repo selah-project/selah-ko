@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "돌 세공인의 작업으로, 인장 새김으로, 너는 ⟨את⟩ 두 돌을 이스라엘 아들들의 이름에 따라 새기려니와; 금 테두리 장식으로 둘러싸여, 너는 그것들을 만들려니와",
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "작업으로"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "세공인의"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "돌"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "새김으로"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "인장"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "너는 새기려니와"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 돌을"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "두"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "돌"
+    },
+    {
+      "surface": "על",
+      "gloss": "따라"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "이름에"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들의"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "둘러싸여"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "테두리 장식으로"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "너는 만들려니와"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그것들을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:01:50.930177588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "가난한 자는 간청을 말하고, 부유한 자는 거칠게 대답한다.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "간청을"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "말하고"
+    },
+    {
+      "surface": "רש",
+      "gloss": "가난한 자는"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "그리고 부유한 자는"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "대답한다"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "거칠게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:56:36.328499690Z",
+  "model": "glm-5.2"
+}

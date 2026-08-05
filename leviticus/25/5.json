@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "⟨את⟩ 네 추수의 자생한 것을 거두지 말며, ⟨את⟩ 네 따지 않은 포도송이의 포도를 거두어들이지 말라 — 안식의 해가 땅에 ⟨있을 것⟩이다.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자생한 것"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "자생한 것"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "네 추수"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…말며"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "거두지"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "포도"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "포도"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "네 따지 않은 포도송이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "거두어들이지"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "…의 해"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "안식"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있을 것"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "땅에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:24:56.250547059Z",
+  "model": "glm-5.2"
+}

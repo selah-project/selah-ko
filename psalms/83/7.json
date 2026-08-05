@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "아돔의 텐트들과 이쉬마엘 사람들, 모압과 하가르 사람들,",
+  "tokens": [
+    {
+      "surface": "אָהֳלֵ֣י",
+      "gloss": "텐트들"
+    },
+    {
+      "surface": "אֱ֭דוֹם",
+      "gloss": "아돔의"
+    },
+    {
+      "surface": "וְיִשְׁמְעֵאלִ֗ים",
+      "gloss": "그리고 이쉬마엘 사람들"
+    },
+    {
+      "surface": "מוֹאָ֥ב",
+      "gloss": "모압"
+    },
+    {
+      "surface": "וְהַגְרִֽים",
+      "gloss": "그리고 하가르 사람들"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:43.800049298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "온유한 자들이 먹고 배부르리니, 야훼를 찾는 자들이 그를 찬양하리로다. 당신들의 마음이 영원히 살리이다.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "먹고"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "온유한 자들이"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "그리고 배부르리니"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "찬양하리로다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "그를 찾는 자들이"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "살리이다"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "당신들의 마음이"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "영원히"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:20.564978988Z",
+  "model": "glm-5.2"
+}

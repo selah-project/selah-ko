@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "그리고 ⟨내가⟩ 넓은 곳에서 걸어 다니리니, 이는 내가 주의 티끌들을 구하였음이다.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "그리고 걸어 다니리니"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "넓은 곳에서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "주의 티끌들을"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "내가 구하였음이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:31.644580118Z",
+  "model": "glm-5.2"
+}

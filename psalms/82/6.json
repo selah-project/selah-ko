@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 82,
+  "translation": "내가 말하였다 — \"너희는 엘로힘이요, 너희 모두는 엘 엘리온의 아들들이라고.\"",
+  "tokens": [
+    {
+      "surface": "אֲֽנִי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אָ֭מַרְתִּי",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "אַתֶּ֑ם",
+      "gloss": "너희는"
+    },
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "아들들이라고"
+    },
+    {
+      "surface": "עֶלְי֣וֹן",
+      "gloss": "엘 엘리온의"
+    },
+    {
+      "surface": "כֻּלְּכֶֽם",
+      "gloss": "너희 모두는"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:14.851589808Z",
+  "model": "glm-5.2"
+}

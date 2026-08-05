@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "⟨주의⟩ 종에게 ⟨주의⟩ 말씀을 세우사, ⟨그것은⟩ ⟨주의⟩ 경외에 이르는 것이니이다.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "세우사"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "⟨주의⟩ 종에게"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "⟨주의⟩ 말씀을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것은⟩"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "⟨주의⟩ 경외에 이르는 것이니이다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:45:50.680229160Z",
+  "model": "glm-5.2"
+}

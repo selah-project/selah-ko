@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "그리고 야훼께서 ⟨את⟩ 왕을 치시매, 그가 죽는 날까지 나병 환자가 되어 자유의 집에 거하였고, 왕의 아들 요탐이 궁을 관장하며 ⟨את⟩ 그 땅의 백성을 재판하였다.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "치시매"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "되어"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "나병 환자"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "יום",
+      "gloss": "날"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "그의 죽는"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "거하였고"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "집에"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "자유의"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "요탐이"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "על",
+      "gloss": "관장하며"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "궁을"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "재판하였다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "백성"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:00:40.749027100Z",
+  "model": "glm-5.2"
+}

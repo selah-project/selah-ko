@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그들이 ⟨את⟩ 하르데ᆞ너를 건너, 아로에르에 진을 쳤다 — 가드의 골짜기 한가운데에 있는 그 도성의 오른편에, 그리고 야져르를 향하여.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "그들이 건넜다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "하르데ᆞ너"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "하르데ᆞ너"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "그들이 진을 쳤다"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "아로에르에"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "오른편에"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 도성의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그것⟩은"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "한가운데에"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "그 골짜기"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "가드의"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 ⟨…⟩을 향하여"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "야져르를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:44:31.092229322Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "기쁨과 환희가 풍성한 밭에서 거두어지리니, 포도원에서 부르짖지 못하리라. 포도주 틀에서 밟는 자가 포도주를 밟지 못하리라. 내가 환호를 그치게 하였다.",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "거두어지리니"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "기쁨이"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "그리고 환희가"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…에서"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "풍성한 밭"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "그리고 포도원에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "노래하리라"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "부르짖으리라"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "틀에서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "밟으리라"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "밟는 자가"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "환호를"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "내가 그치게 하였다"
+    }
+  ],
+  "timestamp": "2026-08-05T10:11:48.836097759Z",
+  "model": "glm-5.2"
+}

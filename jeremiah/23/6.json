@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 23:6",
+  "book": "jeremiah",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그의 날들에 예후다가 구원을 받고 이스라엘이 안전히 거주하리라. 그리고 이것이 그의 이름이니, 그들이 그를 부를 ⟨이름은⟩ — 야훼 체디케누.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "그의 날들에"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "구원을 받고"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "예후다가"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "그리고 이스라엘이"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "거주하리라"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "안전히"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "그리고 이것이"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "그의 이름이니"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그가"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "그들이 부를"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צדקנו",
+      "gloss": "체디케누"
+    }
+  ],
+  "timestamp": "2026-08-05T10:34:48.096406346Z",
+  "model": "glm-5.2"
+}

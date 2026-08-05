@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그가 모셰에게 말하였다. “나, ⟨그대의⟩ 장인 이트로가 ⟨그대에게⟩ ⟨오고⟩ 있습니다. 그리고 ⟨그대의⟩ 아내와 그녀의 두 아들도 그녀와 함께.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그가 말하였다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "그대의 장인"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "이트로"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨오고⟩ 있다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "그대에게"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "그리고 그대의 아내"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "그리고 두"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "그녀의 아들"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "그녀와 함께"
+    }
+  ],
+  "timestamp": "2026-08-05T19:46:48.073512185Z",
+  "model": "glm-5.2"
+}

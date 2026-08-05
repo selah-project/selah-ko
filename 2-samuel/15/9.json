@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "왕이 ⟨그⟩에게 “샬롬 속에서 가라” 하고 말씀하시니, ⟨그⟩가 일어나 헤브론으로 갔다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨그⟩에게"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "לך",
+      "gloss": "가라"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "샬롬 속에서"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "일어나"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "갔다"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "헤브론으로"
+    }
+  ],
+  "timestamp": "2026-08-05T19:32:09.786633903Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 ⟨그⟩ 여인이 임신하였고, 그리고 ⟨그녀가⟩ 아들을 낳았다. 그리고 ⟨그녀가⟩ ⟨את⟩ 그를 보니, 그가 좋았기 때문이다. 그리고 ⟨그녀가⟩ 그를 석 달 동안 숨겼다.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "그리고 … 임신하였고"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨그⟩ 여인이"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "그리고 … 낳았다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "그리고 … 보니"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…이기 때문이다"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋았"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "그리고 … 숨겼다"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "석"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "달 동안"
+    }
+  ],
+  "timestamp": "2026-08-05T18:02:01.890208024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 19,
+  "translation": "그리고 그 위에 결박된 뚜껑이 없는, 열려 있는 모든 그릇은 — 부정한 것이다.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "그리고 모든"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "그릇은"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "열려 있는"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "… 인"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없는"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "결박된"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "뚜껑"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "부정한"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:40:26.429699021Z",
+  "model": "glm-5.2"
+}

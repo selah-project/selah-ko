@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 83,
+  "translation": "엘로힘, 잠잠하지 마소서. 침묵하지 마시며, 엘이여, 고요하지 마소서.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이여"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "잠잠"
+    },
+    {
+      "surface": "לך",
+      "gloss": "당신에게"
+    },
+    {
+      "surface": "אל",
+      "gloss": "하지 마시며"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "침묵"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "하지 마소서"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "고요"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘이여"
+    }
+  ],
+  "timestamp": "2026-08-05T11:38:40.425848817Z",
+  "model": "glm-5.2"
+}

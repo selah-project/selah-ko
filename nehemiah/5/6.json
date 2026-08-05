@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 그들의 부르짖음과 ⟨이⟩ 이 말들을 들었을 때에 내게 심히 격분이 일었다.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "격분이 일었다"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "심히"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "때에"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "들었을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들의 부르짖음을"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "그들의 부르짖음"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "이 말들을"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말들"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:35:24.253257078Z",
+  "model": "glm-5.2"
+}

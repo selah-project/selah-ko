@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 141,
+  "translation": "마치 땅을 가르고 쪼개는 자처럼, 우리의 뼈들이 셰올의 입에 흩어졌기 때문이라.",
+  "tokens": [
+    {
+      "surface": "כְּמ֤וֹ",
+      "gloss": "마치 ~처럼"
+    },
+    {
+      "surface": "פֹלֵ֣חַ",
+      "gloss": "가르는 자"
+    },
+    {
+      "surface": "וּבֹקֵ֣עַ",
+      "gloss": "그리고 쪼개는"
+    },
+    {
+      "surface": "בָּאָ֑רֶץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "נִפְזְר֥וּ",
+      "gloss": "흩어졌기 때문이라"
+    },
+    {
+      "surface": "עֲ֝צָמֵ֗ינוּ",
+      "gloss": "우리의 뼈들이"
+    },
+    {
+      "surface": "לְפִ֣י",
+      "gloss": "입에"
+    },
+    {
+      "surface": "שְׁאֽוֹל",
+      "gloss": "셰올의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:06.360024424Z",
+  "model": "glm-5.2"
+}

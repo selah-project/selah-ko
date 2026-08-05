@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "금 ⟨동그란 장식들을⟩ 우리가 너를 위해 만들겠다, 은 점들과 함께.",
+  "tokens": [
+    {
+      "surface": "תּוֹרֵ֤י",
+      "gloss": "⟨동그란 장식들⟩을"
+    },
+    {
+      "surface": "זָהָב֙",
+      "gloss": "금"
+    },
+    {
+      "surface": "נַעֲשֶׂ֤ה",
+      "gloss": "우리가 만들겠다"
+    },
+    {
+      "surface": "לָּ֔ךְ",
+      "gloss": "너를 위해"
+    },
+    {
+      "surface": "עִ֖ם",
+      "gloss": "함께"
+    },
+    {
+      "surface": "נְקֻדּ֥וֹת",
+      "gloss": "점들"
+    },
+    {
+      "surface": "הַכָּֽסֶף",
+      "gloss": "은"
+    }
+  ],
+  "timestamp": "2026-08-05T12:13:03.602803804Z",
+  "model": "glm-5.2"
+}

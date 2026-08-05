@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 56,
+  "translation": "엘로님을 신뢰하리이다 — 두려워하지 않으리라. 인간이 나에게 무엇을 행하겠습니까?",
+  "tokens": [
+    {
+      "surface": "בֵּֽאלֹהִ֣ים",
+      "gloss": "엘로님을"
+    },
+    {
+      "surface": "בָּ֭טַחְתִּי",
+      "gloss": "신뢰하리이다"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אִירָ֑א",
+      "gloss": "두려워하…"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "יַּעֲשֶׂ֖ה",
+      "gloss": "행하겠습니까"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "인간이"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "나에게"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:16.953905276Z",
+  "model": "glm-5.2"
+}

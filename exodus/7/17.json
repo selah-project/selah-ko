@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 7:17",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "야훼께서 이같이 말씀하셨다. “이것으로 네가 알 것이다 — 곧 내가 야훼인 것을. 보라, 내가 내 손에 있는 지팡이로 강에 있는 물들을 치면, 그것들이 피로 변할 것이다.”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "이것으로"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "네가 알 것이다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "친다"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "지팡이로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "내 손에 있는"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들을"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨그⟩"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "강에 있는"
+    },
+    {
+      "surface": "ונהפכו",
+      "gloss": "그것들이 변할 것이다"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "피로"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:37.625284390Z",
+  "model": "glm-5.2"
+}

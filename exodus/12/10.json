@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그리고 너희는 그것에서 아침까지 남겨 두지 말며, 그것에서 아침까지 남은 것은 불에 태워야 한다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "그리고 …지 말며"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "너희는 남겨 두"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "그리고 남은 것은"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그것에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…까지"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "아침"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "너희는 태워야 한다"
+    }
+  ],
+  "timestamp": "2026-08-05T07:52:10.620978722Z",
+  "model": "glm-5.2"
+}

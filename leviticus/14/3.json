@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "그리고 코헨이 진영 밖으로 나가 코헨이 살피고, 보라, 창질의 징조가 창질 환자에게서 낫게 되었으면 —",
+  "tokens": [
+    {
+      "surface": "וְיָצָא",
+      "gloss": "그리고 ⟨그가⟩ 나가"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "מִחוּץ",
+      "gloss": "바깥"
+    },
+    {
+      "surface": "לַמַּחֲנֶה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "וְרָאָה",
+      "gloss": "그리고 ⟨그가⟩ 살피고"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "코헨이"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "그리고 보라"
+    },
+    {
+      "surface": "נִרְפָּא",
+      "gloss": "낫게 되었으면"
+    },
+    {
+      "surface": "נֶגַע",
+      "gloss": "징조"
+    },
+    {
+      "surface": "הַצָּרַעַת",
+      "gloss": "창질의"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "에게서"
+    },
+    {
+      "surface": "הַצָּרוּעַ",
+      "gloss": "창질 환자"
+    }
+  ],
+  "timestamp": "2026-08-05T08:17:37.856265608Z",
+  "model": "glm-5.2"
+}

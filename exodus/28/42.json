@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 28:42",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "그리고 너는 그들을 위해 베 바지들을 만들어라. 벌거벗은 살을 가리기 위하여, 허리에서 허벅지까지 이르게 하여라.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "그리고 만들어라"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들을 위해"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "바지들을"
+    },
+    {
+      "surface": "בד",
+      "gloss": "베"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "가리기 위하여"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "살을"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "벌거벗은"
+    },
+    {
+      "surface": "ממתנים",
+      "gloss": "허리에서"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지 이르게"
+    },
+    {
+      "surface": "ירכים",
+      "gloss": "허벅지"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "하여라"
+    }
+  ],
+  "timestamp": "2026-08-05T08:03:14.879636533Z",
+  "model": "glm-5.2"
+}

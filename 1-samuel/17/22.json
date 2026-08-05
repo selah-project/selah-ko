@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 17,
+  "translation": "다윗은 ⟨את⟩ 그 물품들을 자신에게서 내려놓았다, 물품 지키는 이의 손에 ⟨아래⟩, 그리고 그 진영 쪽으로 달렸다, 그리고 와서 자기 형제들에게 샬롬을 물었다.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "내려놓았다"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 물품들을"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "그 물품들을"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "자신에게서"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨아래⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손에"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "지키는 이의"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "물품"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "그리고 달렸다"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "그 진영 쪽으로"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 와서"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "물었다"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "자기 형제들에게"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "샬롬을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:06.906153695Z",
+  "model": "glm-5.2"
+}

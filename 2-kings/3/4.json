@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 메쉬아 모압 왕은 양 떼를 치는 자였으니, 이스라엘 왕에게 십만의 어린 양과 십만의 수양 양모를 바쳤다.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "그리고 메쉬아는"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압의"
+    },
+    {
+      "surface": "היה",
+      "gloss": "…이었다"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "양 떼를 치는 자"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "그리고 그가 바쳤다"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "…왕에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "백"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "어린 양"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "그리고 백"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "천"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "수양"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "양모"
+    }
+  ],
+  "timestamp": "2026-08-05T09:56:37.285917365Z",
+  "model": "glm-5.2"
+}

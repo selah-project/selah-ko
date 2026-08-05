@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "ko",
+  "chapter": 8,
+  "translation": "그리고 그들이 바다에서 바다까지, 북에서 동쪽까지 방황하며, 야훼의 ⟨את⟩ 말씀을 찾으려 앞뒤로 헤매리라. 그러나 찾지 못하리라.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "방황하며"
+    },
+    {
+      "surface": "מים",
+      "gloss": "바다에서"
+    },
+    {
+      "surface": "עד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "ים",
+      "gloss": "바다"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "북에서"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 까지"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "동쪽"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "앞뒤로 헤매리라"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "찾으려"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼의 말씀을"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀을"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그러나 못하리라"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "찾지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:11:51.586663990Z",
+  "model": "glm-5.2"
+}

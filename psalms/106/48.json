@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 106,
+  "translation": "찬송받으실지라, 야훼 이스라엘의 엘로힘, 영원으로부터 영원까지. 그리고 온 백성이 ⟨아멘⟩이라 말하라. 할렐루 야.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "찬송받으실지라"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מן",
+      "gloss": "으로부터"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "그리고 …까지"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "영원"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 말하라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "⟨아멘⟩이라"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "할렐루"
+    },
+    {
+      "surface": "יה",
+      "gloss": "야"
+    }
+  ],
+  "timestamp": "2026-08-05T11:43:52.893252954Z",
+  "model": "glm-5.2"
+}

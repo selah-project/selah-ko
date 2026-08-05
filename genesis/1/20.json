@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "엘로힘이 말씀하셨다. \"물들이 살아 있는 네페쉬의 떼를 끓게 하라, 그리고 새가 땅 위 라키아의 하늘 면 위로 날게 하라.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "끓게 하라"
+    },
+    {
+      "surface": "המים",
+      "gloss": "물들이"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "떼를"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬의"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "살아 있는"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "그리고 새가"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "날게 하라"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "פני",
+      "gloss": "면"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "라키아의"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘"
+    }
+  ],
+  "timestamp": "2026-08-05T17:48:23.893734229Z",
+  "model": "glm-5.2"
+}

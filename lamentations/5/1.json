@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "야훼여, 우리에게 무슨 일이 일어났는지 기억하소서. 주목하여 ⟨את⟩ 우리의 치욕을 보소서.",
+  "tokens": [
+    {
+      "surface": "זְכֹ֤ר",
+      "gloss": "기억하소서"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "מֶֽה",
+      "gloss": "무슨"
+    },
+    {
+      "surface": "הָ֣יָה",
+      "gloss": "일어났는지"
+    },
+    {
+      "surface": "לָ֔נוּ",
+      "gloss": "우리에게"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "주목하여"
+    },
+    {
+      "surface": "וּרְאֵ֥ה",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "우리의 치욕을"
+    },
+    {
+      "surface": "חֶרְפָּתֵֽנוּ",
+      "gloss": "우리의 치욕을"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:47.569104460Z",
+  "model": "glm-5.2"
+}

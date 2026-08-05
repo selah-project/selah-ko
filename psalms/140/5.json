@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 140,
+  "translation": "야훼여, 악인의 손에서 나를 지키시고, 폭력의 사람들에게서 나를 보호하소서. 그들이 내 걸음을 밀어내려 도모하였습니다.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "나를 지키소서"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼여"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "손에서"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인의"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "사람에게서"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "폭력의"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "나를 보호하소서"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "도모하였다"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "밀어내려"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "내 걸음을"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:35.871051711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 40,
+  "translation": "보소서, 저는 미천합니다. 제가 무엇을 대답하오리까? 제 손을 제 입에 두었나이다.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "미천합니다"
+    },
+    {
+      "surface": "מה",
+      "gloss": "무엇을"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "대답하오리까"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "제 손을"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "두었나이다"
+    },
+    {
+      "surface": "למו",
+      "gloss": "제"
+    },
+    {
+      "surface": "פי",
+      "gloss": "입에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:14.950171698Z",
+  "model": "glm-5.2"
+}

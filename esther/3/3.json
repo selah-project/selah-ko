@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 왕의 문에 있는 왕의 신하들이 모르드개에게 말하였다. “당신은 어찌하여 ⟨את⟩ 왕의 명령을 어기는가?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "그리고 … 말하였다"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "신하들이"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "문에 있는"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "모르드개에게"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "당신은"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "어기는가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "왕의 명령을"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "명령"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕의"
+    }
+  ],
+  "timestamp": "2026-08-05T12:22:32.017419818Z",
+  "model": "glm-5.2"
+}

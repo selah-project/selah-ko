@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 53,
+  "translation": "악을 행하는 자들이 ⟨정말⟩ 모르는가, 내 백성을 먹는 자들이 빵을 먹듯 먹었음에도, 엘로힘을 부르지 아니하였는가.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "⟨정말⟩ …아닌가"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "모르는가"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "행하는 자들"
+    },
+    {
+      "surface": "און",
+      "gloss": "악"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "먹는 자들이"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성을"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "먹었음에도"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘을"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "부르지 하였는가"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:41.349556856Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 28,
+  "translation": "의로운 자들이 뛰어날 때 영광이 크나, 악한 자들이 일어나면 사람이 숨겨진다.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "뛰어날 때"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "의로운 자들이"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "크나"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "영광이"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "그러나 일어나면"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악한 자들이"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "숨겨진다"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:14.214537885Z",
+  "model": "glm-5.2"
+}

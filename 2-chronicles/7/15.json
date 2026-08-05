@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이제 나의 눈들은 열려 있고, 나의 귀들은 이 곳의 기도에 귀를 기울일 것이다.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "이제"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "나의 눈들은"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "열려"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "그리고 나의 귀들은"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "귀 기울여"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "…의 기도에"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "이 곳"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:47.353703052Z",
+  "model": "glm-5.2"
+}

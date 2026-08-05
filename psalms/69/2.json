@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "엘로힘, 저를 구원하여 주십시오. 물이 네페쉬까지 들어왔습니다.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "저를 구원하여 주십시오"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문입니다"
+    },
+    {
+      "surface": "באו",
+      "gloss": "들어왔습니다"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "~까지"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:11.585880989Z",
+  "model": "glm-5.2"
+}

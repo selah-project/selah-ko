@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그리고 ⟨את⟩ ⟨그⟩ 채들을 — 싯딤 나무들로 — 만들고, 그것들을 금으로 덮었다 — ⟨את⟩ ⟨그⟩ 탁자를 메기 위한 것이었다.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "그리고 만들었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 채들을"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "그 채들을"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "나무들로"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "싯딤"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "그리고 덮었다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "금으로"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "메기 위한"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 탁자를"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "그 탁자를"
+    }
+  ],
+  "timestamp": "2026-08-05T08:08:56.467972358Z",
+  "model": "glm-5.2"
+}

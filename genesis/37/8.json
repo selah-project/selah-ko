@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "그의 형제들이 그에게 말하였다. \"당신이 우리 위에 왕으로 통치하겠다는 말입니까? 아니면 당신이 우리를 다스리겠다는 말입니까?\" 그리고 그들이 그의 꿈들 때문에, 그리고 그의 말들 때문에 ⟨그⟩ ⟨את⟩ 그를 더욱 미워하였다.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "לו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "그의 형제들이"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕으로 통치하겠다는"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "통치하다"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "우리 위에"
+    },
+    {
+      "surface": "אם",
+      "gloss": "아니면"
+    },
+    {
+      "surface": "משול",
+      "gloss": "다스리다"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "다스리다"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "우리를"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "그들이 더하였다"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "더욱"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "미워하였다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "חלמתיו",
+      "gloss": "그의 꿈들"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "그리고 —"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "그의 말들"
+    }
+  ],
+  "timestamp": "2026-08-05T17:58:04.522007808Z",
+  "model": "glm-5.2"
+}

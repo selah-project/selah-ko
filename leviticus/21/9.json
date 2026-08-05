@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 21,
+  "translation": "그리고 코헨 ⟨인⟩ 남자의 딸이 — 만일 그녀이 음행하기 시작하면, ⟨את⟩ 그녀의 아버지를 그녀이 더럽히는 것이니, 불에 태워질 것이다.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "그리고 딸"
+    },
+    {
+      "surface": "איש",
+      "gloss": "남자"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "코헨"
+    },
+    {
+      "surface": "כי",
+      "gloss": "만일"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "그녀이 시작하면"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "음행하기"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그녀의 아버지를"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "그녀의 아버지"
+    },
+    {
+      "surface": "היא",
+      "gloss": "그녀이"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "더럽히는 것이니"
+    },
+    {
+      "surface": "באש",
+      "gloss": "불에"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "태워질 것이다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:22:15.078664064Z",
+  "model": "glm-5.2"
+}

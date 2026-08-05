@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 7:13",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "내가 하늘을 닫아 비가 내리지 아니하게 하거나, 혹은 내가 메뚜기에게 명령하여 땅을 먹게 하거나, 혹은 내가 역병을 내 백성 가운데 보내거나 하면 —",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "보라"
+    },
+    {
+      "surface": "אעצר",
+      "gloss": "내가 닫으면"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니하여"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "있게 되지"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "비가"
+    },
+    {
+      "surface": "והן",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "내가 명령하면"
+    },
+    {
+      "surface": "על",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "메뚜기"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "먹게 하여"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "땅(은)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "내가 보내면"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "역병을"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "내 백성 가운데"
+    }
+  ],
+  "timestamp": "2026-08-05T12:55:47.353415298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "슈무엘이 아침까지 누웠고, 야훼의 집의 문들 ⟨את⟩ 을 열었다. 그리고 슈무엘은 그 환상을 엘리에게 알려 주는 것을 두려워하였다.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "그리고 … 누웠다"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "슈무엘이"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "아침까지"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "그리고 … 열었다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "문들"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "문들"
+    },
+    {
+      "surface": "בית",
+      "gloss": "집의"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "그리고 슈무엘은"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "두려워하였다"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "알려 주는 것을"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 환상"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "그 환상을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "엘리"
+    }
+  ],
+  "timestamp": "2026-08-05T13:45:03.149528350Z",
+  "model": "glm-5.2"
+}

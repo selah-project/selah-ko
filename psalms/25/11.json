@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "야훼, ⟨당신의⟩ 이름을 위하여 ⟨나의⟩ 죄악을 사하여 주소서, 그것이 크기 때문이다.",
+  "tokens": [
+    {
+      "surface": "לְמַֽעַן",
+      "gloss": "위하여"
+    },
+    {
+      "surface": "שִׁמְךָ֥",
+      "gloss": "⟨당신의⟩ 이름을"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "וְֽסָלַחְתָּ֥",
+      "gloss": "사하여 주소서"
+    },
+    {
+      "surface": "לַ֝עֲוֺנִ֗י",
+      "gloss": "⟨나의⟩ 죄악을"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "크기"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "그것이"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:30.964877828Z",
+  "model": "glm-5.2"
+}

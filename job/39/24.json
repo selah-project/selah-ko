@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 39,
+  "translation": "요란함과 격노함으로 그가 땅을 마시고, 그것이 쇼파르 소리이기 ⟨때문에⟩ 믿지 않는다.",
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "요란함"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "격노함으로"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "그가 …마시고"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅을"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "믿다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "때문에"
+    },
+    {
+      "surface": "קול",
+      "gloss": "소리"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "쇼파르"
+    }
+  ],
+  "timestamp": "2026-08-05T12:12:28.430808540Z",
+  "model": "glm-5.2"
+}

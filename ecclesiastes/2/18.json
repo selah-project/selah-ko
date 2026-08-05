@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "그리고 나는 내가 해 아래에서 수고한 ⟨את⟩ 모든 내 수고를 미워하였다. 내가 그것을 내 뒤에 올 사람에게 남겨야 하기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "그리고 미워하였다"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나는"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 내 수고"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "내 수고를"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "수고하는"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "내가 그것을 남겨야 하기 때문이다"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "사람에게"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "올"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "내 뒤에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:40.726850778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 58,
+  "translation": "부르짖어라, 목청으로, 아끼지 말라, 쇼파르처럼 네 소리를 높여라. 그리고 내 백성에게 그들의 반역을, 야곱의 집에는 그들의 죄를 알려라.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "부르짖어라"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "목청으로"
+    },
+    {
+      "surface": "אל",
+      "gloss": "아끼지 말라"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "아끼지"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "쇼파르처럼"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "높여라"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "네 소리를"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "그리고 알려라"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "내 백성에게"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "그들의 반역을"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "그리고 …의 집에는"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "그들의 죄를"
+    }
+  ],
+  "timestamp": "2026-08-05T10:24:14.079488985Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 43,
+  "translation": "그가 ⟨그의⟩ 얼굴을 씻고 나와 ⟨스스로를⟩ 억제하였다. 그리고 말하였다, \"빵을 차려라.\"",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "씻고"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴을"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "나와"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "억제하였다"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "차려라"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "빵을"
+    }
+  ],
+  "timestamp": "2026-08-05T18:01:09.605214719Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 93,
+  "translation": "야훼가 다스리신다, 위엄을 입으셨다. 야훼가 온으로 띠를 띠셨다. 그리하여 ⟨그⟩ 세계가 견고히 섰다, 흔들리지 아니한다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "다스리신다"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "위엄을"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "입으셨다"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "입으셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "עז",
+      "gloss": "온으로"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "띠를 띠셨다"
+    },
+    {
+      "surface": "אף",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "견고히 섰다"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "세계가"
+    },
+    {
+      "surface": "בל",
+      "gloss": "아니한다"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "흔들리지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:03.307534582Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "내가 보니, 보라, 한 손이 나에게 보내졌고, 보라, 그 안에 책 두루마리가 있었다.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "내가 보니"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손이"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "보내졌고"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "나에게"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "בו",
+      "gloss": "그 안에"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "두루마리가"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "책"
+    }
+  ],
+  "timestamp": "2026-08-05T10:47:24.094416359Z",
+  "model": "glm-5.2"
+}

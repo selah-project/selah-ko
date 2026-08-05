@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 5:2",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "아람에서 부대가 나가 포로로 데려갔으니, 이스라엘 땅에서 한 어린 소녀를 ⟨데려갔는데⟩, 그녀는 나아만의 아내 앞에서 섬겼다.",
+  "tokens": [
+    {
+      "surface": "וארם",
+      "gloss": "아람에서"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "나갔다"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "부대가"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "사로잡아 갔다"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "소녀를"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "어린"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "그녀는 ⟨있었다⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "앞에서"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "아내의"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "나아만의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:52:24.292253386Z",
+  "model": "glm-5.2"
+}

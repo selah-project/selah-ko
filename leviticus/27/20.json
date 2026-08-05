@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "그리고 만일 ⟨그⟩가 ⟨את⟩ 그 밭을 무르지 아니하고, 또 만일 ⟨그⟩가 ⟨את⟩ 그 밭을 다른 사람에게 팔았으면, 다시는 무르지 못할 것이다.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "그리고 만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "무르지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 밭"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "그 밭"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "또 만일"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "팔았으면"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 밭"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "그 밭"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "다른 사람"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못할"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "무르"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "다시는"
+    }
+  ],
+  "timestamp": "2026-08-05T08:26:37.911452685Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 121,
+  "translation": "야훼께서 ⟨당신의⟩ 나감과 ⟨당신의⟩ 들어옴을 지키시리니, 이제부터 영원까지.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "지키시리니"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "나감과"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "들어옴을"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "이제부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:52.905360007Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 48,
+  "translation": "그리고 야곱이 요셉에게 말하였다. \"엘 샤다이(전능자)가 내게 나타나셨다 — 루즈에서, 가나안 땅에서 — 그리고 ⟨아무에게⟩ 나를 축복하셨다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "요셉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "엘"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "샤다이"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "나타나셨다"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "루즈에서"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "가나안"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "축복하셨다"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나를"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:05.692881497Z",
+  "model": "glm-5.2"
+}

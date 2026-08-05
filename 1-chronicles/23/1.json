@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 다윗은 늙고 날들이 충만하였으며, ⟨그⟩가 ⟨את⟩ ⟨그⟩ 아들 셸로모를 이스라엘 위에 왕으로 세우셨다.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "그리고 다윗은"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "늙고"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "충만하였으며"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "날들이"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "왕으로 세우셨다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "셸로모"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "셸로모를"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "그의 아들"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T12:49:53.123148456Z",
+  "model": "glm-5.2"
+}

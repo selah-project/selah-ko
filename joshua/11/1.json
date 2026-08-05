@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 일어난 일이 이것이었다 — 하초르 왕 야빈이 듣자, 그가 마돈 왕 요밥에게, 그리고 시므론 왕에게, 그리고 아크삽 왕에게 사자를 보냈다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 일어난 일이 이것이었다"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "듣자"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "야빈이"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "하초르"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "그가 보냈다"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "요밥"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "마돈"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "시므론"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "왕"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "아크삽"
+    }
+  ],
+  "timestamp": "2026-08-05T09:08:43.315282470Z",
+  "model": "glm-5.2"
+}

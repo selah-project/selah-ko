@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "둘이 하나보다 나으니, 그들에게 그들의 수고에 좋은 삯이 있기 때문이다.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "둘"
+    },
+    {
+      "surface": "מן",
+      "gloss": "보다"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "하나"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יש",
+      "gloss": "있다"
+    },
+    {
+      "surface": "להם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "삯"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "그들의 수고에"
+    }
+  ],
+  "timestamp": "2026-08-05T12:19:12.947103359Z",
+  "model": "glm-5.2"
+}

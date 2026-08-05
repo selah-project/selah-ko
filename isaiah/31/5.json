@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 31:5",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "나는 새들처럼 날아오르듯, 만군의 야훼께서 예루샬라임 위에서 보호하시리니, 방어하시고 건져내시며, 넘어지지 않게 하시고 빠져나가게 하시리라.",
+  "tokens": [
+    {
+      "surface": "כצפרים",
+      "gloss": "새들처럼"
+    },
+    {
+      "surface": "עפות",
+      "gloss": "날아오르듯"
+    },
+    {
+      "surface": "כן",
+      "gloss": "그같이"
+    },
+    {
+      "surface": "יגן",
+      "gloss": "보호하시리니"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "만군의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임"
+    },
+    {
+      "surface": "גנון",
+      "gloss": "방어하시고"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "건져내시며"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "넘어지지 않게 하시고"
+    },
+    {
+      "surface": "והמליט",
+      "gloss": "빠져나가게 하시리라"
+    }
+  ],
+  "timestamp": "2026-08-05T10:15:54.045436689Z",
+  "model": "glm-5.2"
+}

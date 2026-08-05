@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 129,
+  "translation": "야훼는 의로우시다 — 그가 악한 자들의 밧줄을 끊으셨나이다.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "야훼는"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "의로우시다"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "그가 끊으셨나이다"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "밧줄을"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "악한 자들의"
+    }
+  ],
+  "timestamp": "2026-08-05T14:04:00.067575811Z",
+  "model": "glm-5.2"
+}

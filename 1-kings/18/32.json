@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그리고 그가 ⟨את⟩ 그 돌들로 야훼의 이름 안에 제단을 쌓았다. 그리고 제단 둘레에, 곡식种子 두 사아 용적만큼, 도랑을 만들었다.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "쌓았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 돌들을"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "그 돌들"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "제단을"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "이름 안에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "만들었다"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "도랑을"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "용적만큼"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "두 사아"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "곡식种子"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "둘레에"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "제단"
+    }
+  ],
+  "timestamp": "2026-08-05T09:53:51.872830710Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그의 뒤에 ⟨아브짠⟩이 ⟨את⟩ 이스라엘을 판결하였으니, 벧레헴의 ⟨아브짠⟩이었다.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "판결하였으니"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "그의 뒤에"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘을"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "아브짠"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "벧"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "레헴의"
+    }
+  ],
+  "timestamp": "2026-08-05T13:43:52.386215071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 77,
+  "translation": "당신의 팔로 당신의 백성을 구속하셨다. 야곱과 요셉의 자손을. 셀라.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "구속하셨다"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "팔로"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "당신의 백성을"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손을"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱의"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "그리고 요셉의"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "셀라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:36:58.331829677Z",
+  "model": "glm-5.2"
+}

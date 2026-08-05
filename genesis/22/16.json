@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "말씀하셨다. \"나의 ⟨자신⟩으로 나는 맹세하였다 — 야훼의 선언 — 네가 ⟨את⟩ 이 일을 행하였으므로, 그리고 네가 ⟨את⟩ 네 아들, ⟨את⟩ 네 독자를 아끼지 아니하였으므로.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "בי",
+      "gloss": "나의 ⟨자신⟩으로"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "나는 맹세하였다"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "선언"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יען",
+      "gloss": "∼하였으므로"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "네가 행하였"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이 일을"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "일을"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "이"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 ∼아니하였으므로"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "네가 아끼지"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 아들을"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "네 아들"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 독자를"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "네 독자"
+    }
+  ],
+  "timestamp": "2026-08-05T19:33:50.989534202Z",
+  "model": "glm-5.2"
+}

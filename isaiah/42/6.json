@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "나 야훼가 의로움으로 ⟨그⟩대를 부르셨다. ⟨그⟩대의 손을 굳게 잡으리니, ⟨그⟩대를 지키고 ⟨그⟩대를 백성의 브리트로, 민족들의 빛으로 주리라.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "나"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼가"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "부르셨다"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "의로움으로"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "굳게 잡으리니"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "손을"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "지키고"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "주리라"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "브리트로"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "빛으로"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들의"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:41.744904671Z",
+  "model": "glm-5.2"
+}

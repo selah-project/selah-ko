@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "파르오가 ⟨את⟩ 모셰와 ⟨את⟩ 아하론을 다시 불러들이고, 그들에게 말하였다. “가서 너희의 엘로힘이신 야훼를 섬기라. 그런데 누가, 누가 가는가?”",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "그리고 다시 불러들이고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모셰"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰를"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아하론"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "아하론을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "그들에게"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "가라"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "섬기라"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼를"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "너희의 엘로힘이신"
+    },
+    {
+      "surface": "מי",
+      "gloss": "누가"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "그리고 누가"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "가는가"
+    }
+  ],
+  "timestamp": "2026-08-05T13:36:43.609038938Z",
+  "model": "glm-5.2"
+}

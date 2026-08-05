@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "빌암은 ⟨את⟩ 눈을 들어, ⟨את⟩ 이스라엘이 그 지파들을 따라 거처하는 것을 보았다. 그리고 엘로힘의 루아흐가 ⟨그⟩ 위에 임하였다.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "들어"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "빌암은"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "눈을"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "눈을"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "이스라엘을"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "거처하는"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "지파들을"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "임하였다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "위에"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "루아흐가"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:42:08.398430879Z",
+  "model": "glm-5.2"
+}

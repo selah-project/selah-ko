@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 5:2",
+  "book": "esther",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "왕이 ⟨את⟩ 에스더 ⟨그⟩ 왕비가 뜰에 서 있는 것을 보았을 때, ⟨그녀가⟩ 그의 눈에 헨을 얻으므로, 왕이 손에 든 ⟨את⟩ 금 홀을 에스더에게 내밀었다. 그리하여 에스더가 가까이 가서 ⟨את⟩ ⟨그⟩ 홀의 머리를 만졌다.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "그리고 …이 되었다"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "…을 보았을 때"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "에스더 그 왕비가"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "그 왕비가"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "서 있는 것을"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "뜰에"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "얻으므로"
+    },
+    {
+      "surface": "חן",
+      "gloss": "헨을"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "그의 눈에"
+    },
+    {
+      "surface": "ויושט",
+      "gloss": "내밀었다"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "왕이"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "에스더에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "금 홀을"
+    },
+    {
+      "surface": "שרביט",
+      "gloss": "홀"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "금"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…인"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "손에 든"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "가까이 가서"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "에스더가"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "만졌다"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "…의 머리를"
+    },
+    {
+      "surface": "השרביט",
+      "gloss": "그 홀의"
+    }
+  ],
+  "timestamp": "2026-08-05T17:27:14.826815375Z",
+  "model": "glm-5.2"
+}

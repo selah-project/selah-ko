@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 143,
+  "translation": "대적이 나의 네페쉬를 쫓아, 나의 생명을 땅바닥까지 짓이겼고, 어둠 속에 나를 앉게 하였으니, 영원 전의 죽은 자들처럼.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "대적이"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "쫓아,"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "나의 네페쉬를"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 생명을"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "땅바닥까지 짓이겼고,"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "어둠 속에"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "나를 앉게 하였으니,"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "영원 전의"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "죽은 자들처럼."
+    },
+    {
+      "surface": "כמתי",
+      "gloss": ""
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T11:50:16.750144263Z",
+  "model": "glm-5.2"
+}

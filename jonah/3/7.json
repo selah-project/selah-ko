@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 3:7",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 그가 부르짖었고 말하였다, 니느웨에서, 왕과 그의 고관들의 명령으로 ⟨하여⟩ 이르기를: 사람과 짐승, 소와 양은 아무것도 맛보지 말라, 먹이지 말라, 그리고 물을 마시지 말라.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "그리고 부르짖었고"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "니느웨에서"
+    },
+    {
+      "surface": "מטעם",
+      "gloss": "명령으로"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕"
+    },
+    {
+      "surface": "וגדליו",
+      "gloss": "그리고 그의 고관들"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "이르기를"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "사람"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "그리고 짐승"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "그 소"
+    },
+    {
+      "surface": "והצאן",
+      "gloss": "그리고 그 양"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "יטעמו",
+      "gloss": "맛보지"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "아무것도"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "먹이지"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "그리고 물을"
+    },
+    {
+      "surface": "אל",
+      "gloss": "말라"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "마시지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:13:39.063281154Z",
+  "model": "glm-5.2"
+}

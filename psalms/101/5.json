@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 101,
+  "translation": "은밀히 이웃을 비방하는 자, 그를 멸절시키겠다. 눈이 높고 마음이 넓은 자, 그를 내가 견디지 못하겠다.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "비방하는 자"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "은밀히"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "그의 이웃을"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "멸절시키겠다"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "높은"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "눈이"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "그리고 넓은"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "마음이"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "그를"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "내가 견디겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:42:43.517586817Z",
+  "model": "glm-5.2"
+}

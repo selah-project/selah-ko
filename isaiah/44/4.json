@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "그리고 그들은 풀 사이에서 돋아나리라, 물줄기 가에서 버드나무들처럼.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "그리고 그들은 돋아나리라"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "사이에서"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "풀"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "버드나무들처럼"
+    },
+    {
+      "surface": "על",
+      "gloss": "가에서"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "물줄기"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:24.971094298Z",
+  "model": "glm-5.2"
+}

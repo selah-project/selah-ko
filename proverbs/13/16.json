@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 13,
+  "translation": "모든 슬기로운 자는 지식으로 행하고, 어리석은 자는 어리석음을 펼친다.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "슬기로운 자는"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "행하고"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "지식으로"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "어리석은 자는"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "펼친다"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "어리석음을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:54:23.599872341Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 14,
+  "translation": "온 유다 백성이 ⟨את⟩ 아자르야를 취하였으니, ⟨그는⟩ 열여섯 살이었고, 그의 아버지 아마츠야후 대신에 그를 왕으로 세웠다.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "취하였으니"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "유다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "아자르야를"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "아자르야"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "그는"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…살"
+    },
+    {
+      "surface": "שש",
+      "gloss": "여섯"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "열"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "해"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "왕으로 세웠다"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그를"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "대신에"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "그의 아버지"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "아마츠야후"
+    }
+  ],
+  "timestamp": "2026-08-05T10:01:32.734363450Z",
+  "model": "glm-5.2"
+}

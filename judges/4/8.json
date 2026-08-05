@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 4,
+  "translation": "그리고 바라크가 그녀에게 말하였다. “만일 당신이 나와 함께 가신다면, 내가 가겠습니다. 그러나 만일 당신이 나와 함께 가시지 않는다면, 나는 가지 않겠습니다.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "그리고 말하였다"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "그녀에게"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "바라크가"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "가신다면"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "내가 가겠습니다"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "그러나 만일"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "가시지 않는다면"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "가지 않겠습니다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:15:26.352419062Z",
+  "model": "glm-5.2"
+}

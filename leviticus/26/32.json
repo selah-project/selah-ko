@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 26,
+  "translation": "나 ⟨야훼⟩ 자신이 ⟨את⟩ 그 땅을 황무하게 하리니, 그 안에 사는 너희 원수들이 그것 ⟨את⟩을 보고 놀라리라.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "나가 황무하게 하리니"
+    },
+    {
+      "surface": "אני",
+      "gloss": "나 자신이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 땅을"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "그 땅을"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "놀라리라"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것을 보고"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "너희 원수들이"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "사는"
+    },
+    {
+      "surface": "בה",
+      "gloss": "그 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T08:25:54.980566308Z",
+  "model": "glm-5.2"
+}

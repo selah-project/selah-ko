@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "나를 백성의 다툼에서 건져내시고, 민족들의 머리로 나를 세우셨다. 내가 알지 못하던 백성이 나를 섬긴다.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "건져내시고"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "다툼에서"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성의"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "나를 세우셨다"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "머리로"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들의"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하던"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "내가 알지"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "나를 섬긴다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:25:40.967815894Z",
+  "model": "glm-5.2"
+}

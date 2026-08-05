@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 95,
+  "translation": "오라, 우리가 야훼께 노래하자, 우리의 구원의 반석에게 환성을 올리자.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "오라"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "우리가 노래하자"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "야훼께"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "우리가 환성을 올리자"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "반석에게"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "우리의 구원의"
+    }
+  ],
+  "timestamp": "2026-08-05T11:41:12.077023821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그리고 ⟨את⟩ 곤고한 백성을 구원하시며, 높은 자들 위에는 당신의 눈을 두사 그들을 낮추신다.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "곤고한 백성을"
+    },
+    {
+      "surface": "עם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "עני",
+      "gloss": "곤고한"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "구원하시며"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "그리고 당신의 눈을"
+    },
+    {
+      "surface": "על",
+      "gloss": "～위에"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "높은 자들"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "낮추신다"
+    }
+  ],
+  "timestamp": "2026-08-05T09:43:26.179533545Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 22,
+  "translation": "그가 고통받는 자의 고통을 멸시하지 아니하시며 미워하지 아니하셨고, 그에게서 ⟨그의⟩ 얼굴을 숨기지 아니하셨으며, ⟨그가⟩ 그에게 부르짖을 때에 들어주셨다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…가"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "멸시하셨다"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "미워하셨다"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "고통을"
+    },
+    {
+      "surface": "עני",
+      "gloss": "고통받는 자의"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "그리고 아니"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "숨기셨다"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "그의 얼굴을"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "그에게서"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "그리고 그가 부르짖을 때에"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "들어주셨다"
+    }
+  ],
+  "timestamp": "2026-08-05T11:26:20.564695102Z",
+  "model": "glm-5.2"
+}

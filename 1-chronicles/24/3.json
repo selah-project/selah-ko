@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "다윗이 그들을 나누었다 — 엘아자르의 아들들 중에서는 자독이, 이타마르의 아들들 중에서는 아히멜렉이, 그들의 직무에 따라 그들의 섬김에 맞게 하였다.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "그리고 …이 그들을 나누었다"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "다윗"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "그리고 자독"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…중에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "엘아자르"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "그리고 아히멜렉"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…중에서"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "이타마르"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "그들의 직무에"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "그들의 섬김에"
+    }
+  ],
+  "timestamp": "2026-08-05T14:08:21.583392522Z",
+  "model": "glm-5.2"
+}

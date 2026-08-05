@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 33,
+  "translation": "야훼께서 말씀하셨다. \"보라, ⟨나와 함께⟩ 자리가 있다. 너는 ⟨그⟩ 바위 위에 서 있어야 한다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "자리"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "나와 함께"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "너는 서 있어야 한다"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "바위"
+    }
+  ],
+  "timestamp": "2026-08-05T08:04:49.701407410Z",
+  "model": "glm-5.2"
+}

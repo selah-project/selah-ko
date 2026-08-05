@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 111,
+  "translation": "영원무궁토록 견고하게 세워져 있다. 에메트와 야샤르로 행해졌다.",
+  "tokens": [
+    {
+      "surface": "סְמוּכִ֣ים",
+      "gloss": "견고하게 세워져 있다"
+    },
+    {
+      "surface": "לָעַ֣ד",
+      "gloss": "영원무궁토록"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": ""
+    },
+    {
+      "surface": "עֲ֝שׂוּיִ֗ם",
+      "gloss": "행해졌다"
+    },
+    {
+      "surface": "בֶּאֱמֶ֥ת",
+      "gloss": "에메트로"
+    },
+    {
+      "surface": "וְיָשָֽׁר",
+      "gloss": "와 야샤르로"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:49.354775196Z",
+  "model": "glm-5.2"
+}

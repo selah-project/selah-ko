@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 32,
+  "translation": "야곱이 그들을 보았을 때 말하였다. “엘로힘의 진영이다.” 그리고 ⟨그가⟩ 그 곳의 이름을 마하나임이라 불렀다.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "야곱이"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…할 때"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "그들을 보았다"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "진영"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘의"
+    },
+    {
+      "surface": "זה",
+      "gloss": "이다"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "불렀다"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름을"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "그 곳의"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "마하나임이라"
+    }
+  ],
+  "timestamp": "2026-08-05T17:57:06.038807404Z",
+  "model": "glm-5.2"
+}

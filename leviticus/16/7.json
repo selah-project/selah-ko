@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 두 숫염소를 취하여, 야훼 앞에, 만남의 장막 입구에서 그것들을 세울 것이다.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "그리고 취하여"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "두 숫염소를"
+    },
+    {
+      "surface": "שני",
+      "gloss": "두"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "숫염소를"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "그리고 세울 것이다"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "그것들을"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "~앞에"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "입구에서"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "장막의"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "만남의"
+    }
+  ],
+  "timestamp": "2026-08-05T08:19:12.612544970Z",
+  "model": "glm-5.2"
+}

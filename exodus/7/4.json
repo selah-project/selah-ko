@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "파르오가 너희에게 듣지 아니하면, 내가 ⟨את⟩ 나의 손을 미츠라임 위에 두어, ⟨את⟩ 나의 군대, ⟨את⟩ 나의 백성 이스라엘의 아들들을 미츠라임 땅에서 큰 심판들로 끌어내겠다.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "아니하면"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "듣지"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "파르오가"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "두어"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 손"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "나의 손을"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "미츠라임 위에"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "끌어내겠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 군대"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "나의 군대"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "나의 백성"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나의 백성"
+    },
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "심판들로"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "큰"
+    }
+  ],
+  "timestamp": "2026-08-05T07:49:12.346897470Z",
+  "model": "glm-5.2"
+}

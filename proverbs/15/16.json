@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "적은 것이라도 야훼를 경외함이 많은 보물과 그 안의 혼란보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טוֹב",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "מְעַט",
+      "gloss": "적은 것"
+    },
+    {
+      "surface": "בְּיִרְאַת",
+      "gloss": "경외함"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "מֵאוֹצָר",
+      "gloss": "보물보다"
+    },
+    {
+      "surface": "רָב",
+      "gloss": "많은"
+    },
+    {
+      "surface": "וּמְהוּמָה",
+      "gloss": "그리고 혼란"
+    },
+    {
+      "surface": "בוֹ",
+      "gloss": "그 안에"
+    }
+  ],
+  "timestamp": "2026-08-05T18:39:04.809568642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 11:20",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 만일 그 왕의 노가 타올라 네게 말하기를, '왜 너희가 그 성읍에 가까이 가서 싸우려 하였느냐? 그들이 그 성벽 위에서 쏘는 것을 알지 못하였느냐?' 하거든",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "그리고 ⟨그리하면⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "만일"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "타올라"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "노가"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "그 왕의"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "그리고 말하기를"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "왜"
+    },
+    {
+      "surface": "נגשתם",
+      "gloss": "너희가 가까이 가서"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "그 성읍"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "싸우려 하였느냐"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "하지"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "너희가 알지 못하였느냐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그들이 쏘는 것"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "것을"
+    },
+    {
+      "surface": "ירו",
+      "gloss": "그들이 쏘는"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "그 성벽"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:44.415138372Z",
+  "model": "glm-5.2"
+}

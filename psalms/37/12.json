@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 37,
+  "translation": "악인이 의인을 꾀하고, 그를 향해 이를 갈 것이다.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "꾀하고"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "악인이"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "의인을"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "그리고 갈 것이다"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "그를 향해"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "이를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:28:40.696690466Z",
+  "model": "glm-5.2"
+}

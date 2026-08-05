@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "나의 네페쉬가 나 안에서 쇠약해질 때에, 나는 ⟨את⟩ 야훼를 기억하였다. 그리고 나의 기도가 ⟨주⟩에게, ⟨그⟩ 주의 거룩한 성전으로 들어갔다.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "쇠약해질 때에"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "나 안에서"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "나의 네페쉬가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "야훼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "기억하였다"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "그리고 들어갔다"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨주⟩에게"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "나의 기도가"
+    },
+    {
+      "surface": "אל",
+      "gloss": "으로"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "성전"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "주의 거룩한"
+    }
+  ],
+  "timestamp": "2026-08-05T11:12:58.997066122Z",
+  "model": "glm-5.2"
+}

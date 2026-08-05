@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "내가 배신자들을 보고 몹시 슬퍼하였으니, 그들이 주의 말씀을 지키지 아니하였기 때문이다.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았다"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "배신자들"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "그리고 몹시 슬퍼하였다"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "주의 말씀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니하였다"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "그들이 지키지"
+    }
+  ],
+  "timestamp": "2026-08-05T11:47:35.760183763Z",
+  "model": "glm-5.2"
+}

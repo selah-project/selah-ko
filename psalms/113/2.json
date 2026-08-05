@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 113,
+  "translation": "야훼의 이름이 복되시다, 이제부터 영원까지.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨있을지니⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "이름이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "복되시다"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "이제부터"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "까지"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "영원"
+    }
+  ],
+  "timestamp": "2026-08-05T11:44:35.789987826Z",
+  "model": "glm-5.2"
+}

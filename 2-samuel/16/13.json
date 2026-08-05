@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 16:13",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 16,
+  "translation": "다윗과 그의 사람들이 길을 가는데, 시므이는 맞은편 산 비탈을 따라 가면서 가며 저주하고, 맞은편에서 돌을 던지며, 흙을 흙으로 던졌다.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "가니"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "다윗과"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "그의 사람들이"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "길을"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "시므이는"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "가면서"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "비탈을"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "산"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "맞은편"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "가며"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "저주하고"
+    },
+    {
+      "surface": "ויסקל",
+      "gloss": "던지며"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "돌을"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "맞은편에서"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "흙을"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "흙으로"
+    }
+  ],
+  "timestamp": "2026-08-05T17:15:21.995371451Z",
+  "model": "glm-5.2"
+}

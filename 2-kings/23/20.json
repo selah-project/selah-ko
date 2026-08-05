@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "그리고 그곳의 제단들 위에서 바모트의 모든 코헨들을 제물로 드려 죽였고, 그 위에 사람의 뼈를 태웠다. 그리하여 예루샬라임으로 돌아갔다.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "제물로 드려 죽였고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "바모트의 모든 코헨들을"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "코헨들을"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "바모트의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "그곳의"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "제단들"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "태웠다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "사람의 뼈를"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "뼈"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람의"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "그 위에"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "돌아갔다"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임으로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:05:33.614888067Z",
+  "model": "glm-5.2"
+}

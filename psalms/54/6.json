@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 54,
+  "translation": "보소서, 엘로힘 ⟨이⟩ 나를 돕는 ⟨이⟩시며, 아도나이 ⟨께서⟩ 내 네페쉬를 붙드는 ⟨이⟩와 함께하시나이다.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "보소서"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "엘로힘"
+    },
+    {
+      "surface": "עֹזֵ֣ר",
+      "gloss": "돕는"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "나를"
+    },
+    {
+      "surface": "אֲדֹנָ֗י",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "בְּֽסֹמְכֵ֥י",
+      "gloss": "붙드는"
+    },
+    {
+      "surface": "נַפְשִֽׁי",
+      "gloss": "내 네페쉬를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:32:13.753260558Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 18:16",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그가 말하였다. \"내가 ⟨את⟩ 온 이스라엘이 산들 위에 양 떼처럼 흩어진 것을 보았으니, ⟨그것에는⟩ 목자가 없었다. 야훼께서 말씀하셨다. '이들에게는 주인들이 없나니, 각자가 평화 속에서 ⟨저마다⟩ 자기 집으로 돌아갈 것이다.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "내가 보았으니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "온 이스라엘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘이"
+    },
+    {
+      "surface": "נפוצים",
+      "gloss": "흩어진"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "산들"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "양 떼처럼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨…인데, 그것에는⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "없었다"
+    },
+    {
+      "surface": "להן",
+      "gloss": "그것에는"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "목자가"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "לא",
+      "gloss": "없나니"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "주인들이"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "이들에게는"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "돌아갈 것이다"
+    },
+    {
+      "surface": "איש",
+      "gloss": "각자가"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "자기 집으로"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "평화 속에서"
+    }
+  ],
+  "timestamp": "2026-08-05T12:57:34.021250328Z",
+  "model": "glm-5.2"
+}

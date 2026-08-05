@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리하여 네가 네 길을 안전히 걸으리라. 그리고 네 발은 부딪히지 아니하리라.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "그리하여"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "네가 걸으리라"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "안전히"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "네 길을"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "그리고 네 발은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "부딪히리라"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:11.141187171Z",
+  "model": "glm-5.2"
+}

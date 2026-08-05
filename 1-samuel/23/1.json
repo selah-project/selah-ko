@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 23,
+  "translation": "다윗에게 알려 말하였다. \"보라, 펠리쉬티인들이 케일라에서 싸우고, 그들은 ⟨את⟩ 타작마당들을 약탈하고 있다.\"",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "알려 말하였다"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "말하기를"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "펠리쉬티인들이"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "싸우고 있다"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "케일라에서"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "그들은"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "약탈하고 있다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "타작마당들을"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "타작마당들을"
+    }
+  ],
+  "timestamp": "2026-08-05T09:31:07.892211308Z",
+  "model": "glm-5.2"
+}

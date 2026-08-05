@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 12:7",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 12,
+  "translation": "그러나 이제 가축에게 물어보아라, 그것들이 너를 가르치리라. 하늘의 새들에게도, 그것들이 네게 말해 주리라.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "그러나 이제"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "물어보아라"
+    },
+    {
+      "surface": "נא",
+      "gloss": "제발"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "가축에게"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "그것들이 너를 가르치리라"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "새들에게도"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "하늘의"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "그것들이 말해 주리라"
+    },
+    {
+      "surface": "לך",
+      "gloss": "네게"
+    }
+  ],
+  "timestamp": "2026-08-05T12:04:27.986487518Z",
+  "model": "glm-5.2"
+}

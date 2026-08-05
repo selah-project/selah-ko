@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "이 네 키가 야자나무와 같고, 네 두 유방이 포도송이 같구나.",
+  "tokens": [
+    {
+      "surface": "זֹ֤את",
+      "gloss": "이"
+    },
+    {
+      "surface": "קוֹמָתֵךְ֙",
+      "gloss": "네 키가"
+    },
+    {
+      "surface": "דָּמְתָ֣ה",
+      "gloss": "같고"
+    },
+    {
+      "surface": "לְתָמָ֔ר",
+      "gloss": "야자나무와"
+    },
+    {
+      "surface": "וְשָׁדַ֖יִךְ",
+      "gloss": "네 두 유방이"
+    },
+    {
+      "surface": "לְאַשְׁכֹּלֽוֹת",
+      "gloss": "포도송이 같구나"
+    }
+  ],
+  "timestamp": "2026-08-05T12:15:21.367478930Z",
+  "model": "glm-5.2"
+}

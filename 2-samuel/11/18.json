@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그리고 요아브가 보내어 다윗에게 ⟨את⟩ 전쟁의 모든 말을 알렸다.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "그리고 보내어"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "요아브가"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "알렸다"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "다윗에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "전쟁의 모든 말"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "말을"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "전쟁의"
+    }
+  ],
+  "timestamp": "2026-08-05T09:38:44.414937759Z",
+  "model": "glm-5.2"
+}

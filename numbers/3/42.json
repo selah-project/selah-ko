@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "그리고 모셰는 야훼께서 ⟨그에게⟩ 명령하신 대로, ⟨את⟩ 이스라엘 아들들 가운데 모든 처음 난 자를 계수하였다.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "그리고 … 계수하였다"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰는"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "… 대로"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "명령하신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "모든 처음 난 자를"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "처음 난 자"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "아들들 가운데"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    }
+  ],
+  "timestamp": "2026-08-05T08:28:48.157706726Z",
+  "model": "glm-5.2"
+}

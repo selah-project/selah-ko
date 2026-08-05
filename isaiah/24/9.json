@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "노래로 포도주를 마시지 못하리니, 독주는 마시는 자에게 쓰리라.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "노래로"
+    },
+    {
+      "surface": "לא",
+      "gloss": "못"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "마시지"
+    },
+    {
+      "surface": "יין",
+      "gloss": "포도주를"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "쓰리라"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "독주는"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "마시는 자에게"
+    }
+  ],
+  "timestamp": "2026-08-05T10:13:03.373265263Z",
+  "model": "glm-5.2"
+}

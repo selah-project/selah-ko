@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 64,
+  "translation": "엘로힘이 ⟨그들에게⟩ 화살을 쏘셨다 — 갑자기; 그들이 ⟨그⟩ 상처가 되었다.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "그리고 쏘셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "화살을"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "갑자기"
+    },
+    {
+      "surface": "היו",
+      "gloss": "그들이 되었다"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "그들의 상처가"
+    }
+  ],
+  "timestamp": "2026-08-05T17:27:00.705903499Z",
+  "model": "glm-5.2"
+}

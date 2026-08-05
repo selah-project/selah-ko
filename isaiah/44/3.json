@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 44,
+  "translation": "내가 마른 자 위에 물을 부으며, 마른 땅 위에 흐름을 부리리니, 내가 네 씨 위에 나의 루아흐(영)를 쏟고, 네 자손 위에 나의 복을 부으리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "내가"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "부으며"
+    },
+    {
+      "surface": "מים",
+      "gloss": "물을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "마른 자"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "그리고 흐름을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "마른 땅"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "부으리니"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "나의 루아흐를"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "네 씨"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "그리고 나의 복을"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "네 자손"
+    }
+  ],
+  "timestamp": "2026-08-05T10:19:24.970944755Z",
+  "model": "glm-5.2"
+}

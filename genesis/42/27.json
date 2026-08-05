@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 42:27",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 42,
+  "translation": "한 사람이 여관에서 자기의 나귀에게 먹이를 주려고 ⟨את⟩ 자기의 자루를 열고, ⟨את⟩ 자기의 은을 보았다 — 보라, 그것이 자기의 자루의 입구에 있었다.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "열고"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "한 사람이"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기의 자루를"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "자기의 자루를"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "주려고"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "먹이를"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "자기의 나귀에게"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "여관에서"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "보았다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "자기의 은을"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "자기의 은을"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그것이"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "입구에"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "자기의 자루의"
+    }
+  ],
+  "timestamp": "2026-08-05T18:00:18.631880287Z",
+  "model": "glm-5.2"
+}

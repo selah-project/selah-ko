@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 29,
+  "translation": "네가 아하론과 그의 아들들에게 이같이 행할 것이다 — 내가 ⟨את⟩ 너를 명령한 모든 것에 따라. 칠 일 동안 네가 그들의 손을 채울 것이다.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "네가 행할 것이다"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "아하론과"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "그의 아들들에게"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "내가 명령한"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "너를"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "칠 일 동안"
+    },
+    {
+      "surface": "ימים",
+      "gloss": ""
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "네가 채울 것이다"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "그들의 손을"
+    }
+  ],
+  "timestamp": "2026-08-05T08:02:51.678799769Z",
+  "model": "glm-5.2"
+}

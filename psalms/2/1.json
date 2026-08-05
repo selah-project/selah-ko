@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "어찌하여 민족들이 소동하며, 백성들이 헛된 것을 읊조리는가?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "어찌하여"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "소동하는가"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "민족들이"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "백성들이"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "읊조리는가"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "헛된 것을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:22:42.290806076Z",
+  "model": "glm-5.2"
+}

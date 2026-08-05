@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "칼로 넘어지리니, 이스라엘 경계에서 내가 ⟨את⟩ 너희를 심판하리라. 그러면 너희가 알리라, 곧 내가 야훼임을.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "칼로"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "넘어지리니"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에서"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "경계"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "내가 심판하리라"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "너희를"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "그러면 너희가 알리라"
+    },
+    {
+      "surface": "כי",
+      "gloss": "곧"
+    },
+    {
+      "surface": "אני",
+      "gloss": "내가"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼임을"
+    }
+  ],
+  "timestamp": "2026-08-05T10:50:29.107568933Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 7,
+  "translation": "많은 부상자들을 그녀가 쓰러뜨렸기 때문이다, 그리고 강한 자들, 그녀가 죽인 자 전부가.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "때문이다"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "많은"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "부상자들을"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "그녀가 쓰러뜨렸다"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "그리고 강한 자들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "전부가"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "그녀가 죽인 자"
+    }
+  ],
+  "timestamp": "2026-08-05T11:52:59.452829716Z",
+  "model": "glm-5.2"
+}

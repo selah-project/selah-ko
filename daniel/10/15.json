@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 그가 이 말들대로 나와 말하였을 때, 나는 내 얼굴을 땅으로 향하고 입을 다물었다.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "그리고 그가 말하였을 때"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "나와"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "말들대로"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "나는 두었다"
+    },
+    {
+      "surface": "פני",
+      "gloss": "내 얼굴을"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "땅으로(향하고)"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "그리고 입을 다물었다"
+    }
+  ],
+  "timestamp": "2026-08-05T12:30:05.640757926Z",
+  "model": "glm-5.2"
+}

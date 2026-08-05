@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ko",
+  "chapter": 11,
+  "translation": "그가 ⟨את⟩ 그 요새들을 굳게 하시고, 그것들에 지휘관들을 두시며, 식량과 기름과 포도주의 저장고들을 두셨다.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "그리고…굳게 하시고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "그 요새들을"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "그 요새들"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "그리고…두시며"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "그것들에"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "지휘관들을"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "그리고 저장고들을"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "식량"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "그리고 기름"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "그리고 포도주"
+    }
+  ],
+  "timestamp": "2026-08-05T12:54:59.205487846Z",
+  "model": "glm-5.2"
+}

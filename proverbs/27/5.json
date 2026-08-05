@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "드러난 책망은 숨겨진 사랑보다 낫다.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "낫다"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "책망은"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "드러난"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "사랑보다"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "숨겨진"
+    }
+  ],
+  "timestamp": "2026-08-05T11:59:36.204075931Z",
+  "model": "glm-5.2"
+}

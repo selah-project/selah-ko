@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그가 ⟨그⟩에게 말하였다. \"나는 가지 않겠다. 다만 내 고향 땅과 내 친척에게로 가겠다.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그에게"
+    },
+    {
+      "surface": "לא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "가겠다"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…이지만"
+    },
+    {
+      "surface": "אם",
+      "gloss": "다만"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…으로"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "내 땅"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …으로"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "내 친척"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "가겠다"
+    }
+  ],
+  "timestamp": "2026-08-05T08:34:10.352463830Z",
+  "model": "glm-5.2"
+}

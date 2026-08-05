@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 41,
+  "translation": "내가 북쪽에서 ⟨한 사람을⟩ 일으켰고 ⟨그가⟩ 왔다; 해 뜨는 곳에서부터 그가 내 이름을 부른다. 그가 고관들 위에 진흙처럼, 그리고 질그릇 빚는 자처럼 진흙을 밟으며 임할 것이다.",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "내가 일으켰다"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "북쪽에서"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "그리고 ⟨그가⟩ 왔다"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "~에서 뜨는 곳"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "해"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "그가 부른다"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "내 이름을"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "그리고 그가 임할 것이다"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "고관들"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "같이"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "진흙"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "그리고 ~같이"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "빚는 자"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "밟는다"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "진흙"
+    }
+  ],
+  "timestamp": "2026-08-05T10:18:33.178625352Z",
+  "model": "glm-5.2"
+}

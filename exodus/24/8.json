@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 24,
+  "translation": "그리고 모셔가 ⟨את⟩ ⟨그⟩ 피를 취하여 백성 위에 뿌리며 말하였다. “보라, 야훼께서 너희와 더불어 이 모든 말씀들에 따라 맺으신 브리트의 피이다.”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "취하여"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셔가"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "피를"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "피를"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "뿌리며"
+    },
+    {
+      "surface": "על",
+      "gloss": "위에"
+    },
+    {
+      "surface": "העם",
+      "gloss": "백성"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "말하였다"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "보라"
+    },
+    {
+      "surface": "דם",
+      "gloss": "피이다"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "브리트의"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "맺으신"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "맺으신"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼께서"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "너희와 더불어"
+    },
+    {
+      "surface": "על",
+      "gloss": "따라"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "말씀들에"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "이"
+    }
+  ],
+  "timestamp": "2026-08-05T07:58:56.339763165Z",
+  "model": "glm-5.2"
+}

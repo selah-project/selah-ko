@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "내가 평안하지도, 조용하지도, 쉬지도 못하였는데 소란이 찾아왔다.",
+  "tokens": [
+    {
+      "surface": "לֹ֤א",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שָׁלַ֨וְתִּי",
+      "gloss": "평안하였다"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "שָׁקַ֥טְתִּי",
+      "gloss": "조용하였다"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "아니"
+    },
+    {
+      "surface": "נָ֗חְתִּי",
+      "gloss": "쉬었다"
+    },
+    {
+      "surface": "וַיָּ֥בֹא",
+      "gloss": "왔다"
+    },
+    {
+      "surface": "רֹֽגֶז",
+      "gloss": "소란이"
+    }
+  ],
+  "timestamp": "2026-08-05T12:00:40.584518965Z",
+  "model": "glm-5.2"
+}

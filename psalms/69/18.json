@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 69,
+  "translation": "당신의 종에게서 당신의 얼굴을 숨기지 마시고, 내게 곤경이 이르렀으니 속히 나를 대답하소서.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "그리고 …하지 마시고"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "숨기지"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "당신의 얼굴을"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "당신의 종에게서"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…하니"
+    },
+    {
+      "surface": "צר",
+      "gloss": "곤경이"
+    },
+    {
+      "surface": "לי",
+      "gloss": "내게"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "속히"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "나를 대답하소서"
+    }
+  ],
+  "timestamp": "2026-08-05T11:35:11.914818583Z",
+  "model": "glm-5.2"
+}

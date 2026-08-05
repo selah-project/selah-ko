@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 5,
+  "translation": "그리고 그 재산은 불량한 고통 중에서 망하였고, 그는 아들을 낳았으나 그의 손에는 아무것도 없다.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "그리고 망하였다"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "그 재산은"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "그"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "고통 중에서"
+    },
+    {
+      "surface": "רע",
+      "gloss": "불량한"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "그리고 낳았다"
+    },
+    {
+      "surface": "בן",
+      "gloss": "아들을"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "없다"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "그의 손에는"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "아무것도"
+    }
+  ],
+  "timestamp": "2026-08-05T12:20:28.788497399Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ko",
+  "chapter": 1,
+  "translation": "사람이 해 아래에서 수고하는 온갖 수고에서 무슨 남음이 ⟨있겠는가⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "무슨"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "남음이"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온갖"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "수고에서"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "수고하는"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "아래에서"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "해"
+    }
+  ],
+  "timestamp": "2026-08-05T12:18:50.788151141Z",
+  "model": "glm-5.2"
+}

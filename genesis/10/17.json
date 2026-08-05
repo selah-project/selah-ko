@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 ⟨את⟩ 하위 사람을, 그리고 ⟨את⟩ 아르크 사람을, 그리고 ⟨את⟩ 신 사람을.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "하위 사람"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "하위 사람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "아르크 사람"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "아르크 사람"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
+      "marks": "신 사람"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "신 사람"
+    }
+  ],
+  "timestamp": "2026-08-05T17:50:25.232186583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 119,
+  "translation": "저는 땅에서 나그네이옵니다 — 주의 계명들을 저에게서 숨기지 마소서.",
+  "tokens": [
+    {
+      "surface": "גֵּ֣ר",
+      "gloss": "나그래이옵니다"
+    },
+    {
+      "surface": "אָנֹכִ֣י",
+      "gloss": "저는"
+    },
+    {
+      "surface": "בָאָ֑רֶץ",
+      "gloss": "땅에서"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "—하지 마소서"
+    },
+    {
+      "surface": "תַּסְתֵּ֥ר",
+      "gloss": "숨기소서"
+    },
+    {
+      "surface": "מִ֝מֶּ֗נִּי",
+      "gloss": "저에게서"
+    },
+    {
+      "surface": "מִצְוֺתֶֽיךָ",
+      "gloss": "주의 계명들을"
+    }
+  ],
+  "timestamp": "2026-08-05T11:46:12.739790669Z",
+  "model": "glm-5.2"
+}

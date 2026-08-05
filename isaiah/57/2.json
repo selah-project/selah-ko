@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ko",
+  "chapter": 57,
+  "translation": "샬롬이 임하리니, 그들이 ⟨그들의⟩ 잠자리에서 쉬리라. 곧바로 걷는 자가.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "임하리니"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "샬롬이"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "쉬리라"
+    },
+    {
+      "surface": "על",
+      "gloss": "에서"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "그들의 잠자리"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "걷는 자가"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "곧바로"
+    }
+  ],
+  "timestamp": "2026-08-05T10:23:22.735327516Z",
+  "model": "glm-5.2"
+}

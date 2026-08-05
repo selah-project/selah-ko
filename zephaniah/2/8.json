@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "내가 모압의 모욕과 암몬 자손들의 비방을 들었는데, 그들이 ⟨את⟩ 내 백성을 모욕하고 자기们的 경계를 넘어 거만하게 행하였음이라.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "내가 … 들었는데"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "모욕"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "모압의"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "비방"
+    },
+    {
+      "surface": "בני",
+      "gloss": "자손들의"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "암몬"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "그들이"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "모욕하고"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 백성"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "내 백성을"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "거만하게 행하였음이라"
+    },
+    {
+      "surface": "על",
+      "gloss": "넘어"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "그들의 경계를"
+    }
+  ],
+  "timestamp": "2026-08-05T11:17:21.587517926Z",
+  "model": "glm-5.2"
+}

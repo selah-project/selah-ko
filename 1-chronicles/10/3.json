@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "ko",
+  "chapter": 10,
+  "translation": "그리고 그 전투가 샤울에게 무거워졌고, 활 쏘는 자들이 그를 찾아냈으며, 그가 활 쏘는 자들로 인해 고통스러워하였다.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "무거워졌고"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "그 전투가"
+    },
+    {
+      "surface": "על",
+      "gloss": "에게"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "샤울"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "그를 찾아냈으며"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "활 쏘는 자들이"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "활로"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "고통스러워하였다"
+    },
+    {
+      "surface": "מן",
+      "gloss": "로 인해"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "활 쏘는 자들"
+    }
+  ],
+  "timestamp": "2026-08-05T12:45:41.977201378Z",
+  "model": "glm-5.2"
+}

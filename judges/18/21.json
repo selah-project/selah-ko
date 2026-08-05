@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ko",
+  "chapter": 18,
+  "translation": "그들이 돌이켜 떠나며 ⟨아이들⟩과 ⟨가축⟩과 ⟨재물⟩을 자기들 앞에 두었다.",
+  "tokens": [
+    {
+      "surface": "וַיִּפְנוּ",
+      "gloss": "돌이켜"
+    },
+    {
+      "surface": "וַיֵּלֵכוּ",
+      "gloss": "떠나며"
+    },
+    {
+      "surface": "וַיָּשִׂימוּ",
+      "gloss": "두었다"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "아이들"
+    },
+    {
+      "surface": "הַטַּף",
+      "gloss": "아이들"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "가축"
+    },
+    {
+      "surface": "הַמִּקְנֶה",
+      "gloss": "가축"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "재물"
+    },
+    {
+      "surface": "הַכְּבוּדָּה",
+      "gloss": "재물"
+    },
+    {
+      "surface": "לִפְנֵיהֶם",
+      "gloss": "자기들 앞에"
+    }
+  ],
+  "timestamp": "2026-08-05T09:20:12.992239387Z",
+  "model": "glm-5.2"
+}

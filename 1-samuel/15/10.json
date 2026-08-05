@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 15:10",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 15,
+  "translation": "야훼의 말씀이 쉼무엘에게 임하셨다, 일러 이르시기를",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…이었다"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "말씀이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼의"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…에게"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "쉼무엘"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "일러 이르시기를"
+    }
+  ],
+  "timestamp": "2026-08-05T09:27:48.592690004Z",
+  "model": "glm-5.2"
+}

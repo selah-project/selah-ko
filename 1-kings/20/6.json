@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "ko",
+  "chapter": 20,
+  "translation": "내일 이 시각에 내가 ⟨את⟩ 내 종들을 네게 보내리니, 그들이 ⟨את⟩ 네 집과 ⟨את⟩ 네 종들의 집들을 수색할 것이다. 그리 되면, 네 눈이 탐내는 모든 것을 그들이 그들의 손에 두고 가져가리라.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨그러나⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨아니라⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "이 시각에"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "내일"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "내가 보내리니"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "내 종들을"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "내 종들을"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "네게"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "그들이 수색할 것이다"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "네 집을"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "네 집과"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "네 종들의 집들을"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "집들을"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "네 종들의"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "그리 되면"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든 것을"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "탐내는"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "네 눈이"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "그들이 두고"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "그들의 손에"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "가져가리라"
+    }
+  ],
+  "timestamp": "2026-08-05T09:54:03.180957245Z",
+  "model": "glm-5.2"
+}
