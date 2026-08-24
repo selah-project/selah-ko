@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 22,
-  "translation": "네 앞 길에서, 어떤 나무 위에나 땅 위에 새 둥지를 만나게 되어, 그 안에 새끼들이나 알이 있고 어미가 새끼들이나 알 위에 앉아 있거든, 너는 어미를 새끼들과 함께 取해서는 안 된다.",
+  "translation": "네가 길에서, 어떤 나무 위에서든지 혹은 땅 위에서든지 새 둥지를 만나게 되면, 그 안에 새끼들이 있거나 알들이 있거나, 어미가 새끼들 위에 혹은 알들 위에 앉아 있어도, 너는 그 새끼들과 함께 ⟨그⟩ 어미를 取해서는 안 된다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "…할 때에"
+      "gloss": "만나게 되면"
     },
     {
       "surface": "יקרא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "קן",
-      "gloss": "둥지를"
+      "gloss": "둥지"
     },
     {
       "surface": "צפור",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "בכל",
-      "gloss": "모든"
+      "gloss": "어떤 …에서든지"
     },
     {
       "surface": "עץ",
-      "gloss": "나무에"
+      "gloss": "나무"
     },
     {
       "surface": "או",
-      "gloss": "또는"
+      "gloss": "혹은"
     },
     {
       "surface": "על",
-      "gloss": "…위에"
+      "gloss": "위에서"
     },
     {
       "surface": "הארץ",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "אפרחים",
-      "gloss": "새끼들이"
+      "gloss": "새끼들"
     },
     {
       "surface": "או",
-      "gloss": "또는"
+      "gloss": "혹은"
     },
     {
       "surface": "ביצים",
-      "gloss": "알이"
+      "gloss": "알들"
     },
     {
       "surface": "והאם",
-      "gloss": "그리고 어미가"
+      "gloss": "어미는"
     },
     {
       "surface": "רבצת",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "על",
-      "gloss": "…위에"
+      "gloss": "위에"
     },
     {
       "surface": "האפרחים",
@@ -81,23 +81,23 @@
     },
     {
       "surface": "או",
-      "gloss": "또는"
+      "gloss": "혹은"
     },
     {
       "surface": "על",
-      "gloss": "…위에"
+      "gloss": "위에"
     },
     {
       "surface": "הביצים",
-      "gloss": "알"
+      "gloss": "알들"
     },
     {
       "surface": "לא",
-      "gloss": "…않다"
+      "gloss": "않는다"
     },
     {
       "surface": "תקח",
-      "gloss": "취해야 한다"
+      "gloss": "취해서는 안 된다"
     },
     {
       "surface": "האם",
@@ -105,13 +105,13 @@
     },
     {
       "surface": "על",
-      "gloss": "…와 함께"
+      "gloss": "함께"
     },
     {
       "surface": "הבנים",
       "gloss": "새끼들"
     }
   ],
-  "timestamp": "2026-08-05T08:57:13.216820829Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:47.356309271Z",
+  "model": "glm-5.3"
 }

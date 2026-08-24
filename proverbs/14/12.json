@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 14,
-  "translation": "어떤 길이 사람 앞에 바른 ⟨것처럼 보일⟩ 수 있으나, 그 끝은 죽음의 길들이다.",
+  "translation": "어떤 길이 사람 앞에 곧게 보이나, 그 끝은 죽음의 길들이다.",
   "tokens": [
     {
-      "surface": "יֵ֤שׁ",
+      "surface": "יש",
       "gloss": "있다"
     },
     {
-      "surface": "דֶּ֣רֶךְ",
-      "gloss": "길이"
+      "surface": "דרך",
+      "gloss": "길"
     },
     {
-      "surface": "יָ֭שָׁר",
-      "gloss": "바른"
+      "surface": "ישר",
+      "gloss": "곧은"
     },
     {
-      "surface": "לִפְנֵי",
-      "gloss": "～앞에"
+      "surface": "לפני",
+      "gloss": "앞에"
     },
     {
-      "surface": "אִ֑ישׁ",
+      "surface": "איש",
       "gloss": "사람"
     },
     {
-      "surface": "וְ֝אַחֲרִיתָ֗הּ",
-      "gloss": "그리고 그것의 끝은"
+      "surface": "ואחריתה",
+      "gloss": "그리고 그 끝은"
     },
     {
-      "surface": "דַּרְכֵי",
-      "gloss": "길들이다"
+      "surface": "דרכי",
+      "gloss": "길들"
     },
     {
-      "surface": "מָֽוֶת",
-      "gloss": "죽음의"
+      "surface": "מות",
+      "gloss": "죽음"
     }
   ],
-  "timestamp": "2026-08-05T18:27:34.337001084Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:19.862677593Z",
+  "model": "glm-5.3"
 }

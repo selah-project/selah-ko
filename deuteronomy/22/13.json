@@ -5,37 +5,37 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 22,
-  "translation": "어떤 남자가 여자를 맞이하여 그녀에게 들어가고, 그녀를 미워하면 —",
+  "translation": "어떤 남자가 여자를 맞이하였는데, 그에게 들어간 후에 그녀를 미워하였다면 —",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "～하면"
+      "surface": "כי",
+      "gloss": "…하였다면"
     },
     {
-      "surface": "יִקַּ֥ח",
-      "gloss": "맞이하면"
+      "surface": "יקח",
+      "gloss": "맞이하였다"
     },
     {
-      "surface": "אִ֖ישׁ",
+      "surface": "איש",
       "gloss": "남자가"
     },
     {
-      "surface": "אִשָּׁ֑ה",
+      "surface": "אשה",
       "gloss": "여자를"
     },
     {
-      "surface": "וּבָ֥א",
-      "gloss": "들어가고"
+      "surface": "ובא",
+      "gloss": "들어간 후에"
     },
     {
-      "surface": "אֵלֶ֖יהָ",
-      "gloss": "그녀에게"
+      "surface": "אליה",
+      "gloss": "그에게"
     },
     {
-      "surface": "וּשְׂנֵאָֽהַ",
-      "gloss": "미워하면"
+      "surface": "ושנאה",
+      "gloss": "그녀를 미워하였다"
     }
   ],
-  "timestamp": "2026-08-05T08:58:01.088467386Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:09.795956115Z",
+  "model": "glm-5.3"
 }

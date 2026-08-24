@@ -5,81 +5,81 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 16,
-  "translation": "그리고 七일 동안 네 모든 영토 안에 누룩이 네게 보이지 않을 것이요, 네가 첫째 날 저녁에 잡아 바치는 그 고기에서 아침까지 남는 것이 없을 것이다.",
+  "translation": "그리고 칠 일 동안 네 온 경계 안에서 누룩(שאר)이 네게 보이지 않을 것이다. 첫째 날 저녁에 네가 제물로 잡는 고기에서 아무것도 아침까지 남아 있지 않을 것이다.",
   "tokens": [
     {
-      "surface": "וְלֹא",
-      "gloss": "그리고 …아닐"
+      "surface": "ולא",
+      "gloss": "그리고 …않을 것이다"
     },
     {
-      "surface": "יֵרָאֶה",
-      "gloss": "보이지"
+      "surface": "יראה",
+      "gloss": "보이지 않을"
     },
     {
-      "surface": "לְךָ",
+      "surface": "לך",
       "gloss": "네게"
     },
     {
-      "surface": "שְׂאֹר",
-      "gloss": "누룩이"
+      "surface": "שאר",
+      "gloss": "누룩"
     },
     {
-      "surface": "בְכָל",
-      "gloss": "모든"
+      "surface": "בכל",
+      "gloss": "온"
     },
     {
-      "surface": "גְּבֻלְךָ",
-      "gloss": "네 영토 안에"
+      "surface": "גבלך",
+      "gloss": "네 경계 안에서"
     },
     {
-      "surface": "שִׁבְעַת",
-      "gloss": "七"
+      "surface": "שבעת",
+      "gloss": "칠"
     },
     {
-      "surface": "יָמִים",
-      "gloss": "天 동안"
+      "surface": "ימים",
+      "gloss": "일 동안"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "그리고 …아닐"
+      "surface": "ולא",
+      "gloss": "그리고 …않을 것이다"
     },
     {
-      "surface": "יָלִין",
-      "gloss": "남는 것이"
+      "surface": "ילין",
+      "gloss": "남아 있지 않을"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "에서"
     },
     {
-      "surface": "הַבָּשָׂר",
-      "gloss": "고기"
+      "surface": "הבשר",
+      "gloss": "그 고기"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "그"
+      "surface": "אשר",
+      "gloss": "⟨그것⟩ 즉"
     },
     {
-      "surface": "תִּזְבַּח",
-      "gloss": "잡아 바치는"
+      "surface": "תזבח",
+      "gloss": "네가 제물로 잡는"
     },
     {
-      "surface": "בָּעֶרֶב",
+      "surface": "בערב",
       "gloss": "저녁에"
     },
     {
-      "surface": "בַּיּוֹם",
-      "gloss": "날"
+      "surface": "ביום",
+      "gloss": "날에"
     },
     {
-      "surface": "הָרִאשׁוֹן",
+      "surface": "הראשון",
       "gloss": "첫째"
     },
     {
-      "surface": "לַבֹּקֶר",
+      "surface": "לבקר",
       "gloss": "아침까지"
     }
   ],
-  "timestamp": "2026-08-05T08:55:55.641454947Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:11.963729968Z",
+  "model": "glm-5.3"
 }

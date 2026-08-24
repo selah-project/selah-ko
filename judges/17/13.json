@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 17,
-  "translation": "미카가 말하였다. “이제 나는 야훼께서 나를 선대하실 것을 안다. 레위인이 내게 코헨이 되었으니.”",
+  "translation": "미카가 말하였다. \"이제 나는 야훼께서 나에게 선을 베푸실 것을 알았다. 레위인이 나에게 코헨이 되었으므로.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "나는 안다"
+      "gloss": "나는 알았다"
     },
     {
       "surface": "כי",
-      "gloss": "⟨that⟩"
+      "gloss": "…것을"
     },
     {
       "surface": "ייטיב",
-      "gloss": "선대하실 것을"
+      "gloss": "선을 베푸실 것이다"
     },
     {
       "surface": "יהוה",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "לי",
-      "gloss": "나를"
+      "gloss": "나에게"
     },
     {
       "surface": "כי",
-      "gloss": "⟨because⟩"
+      "gloss": "…으므로"
     },
     {
       "surface": "היה",
-      "gloss": "되었으니"
+      "gloss": "되었으므로"
     },
     {
       "surface": "לי",
-      "gloss": "내게"
+      "gloss": "나에게"
     },
     {
       "surface": "הלוי",
@@ -60,6 +60,6 @@
       "gloss": "코헨이"
     }
   ],
-  "timestamp": "2026-08-05T09:19:13.494739378Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:52.479029988Z",
+  "model": "glm-5.3"
 }

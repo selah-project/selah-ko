@@ -5,45 +5,45 @@
   "book": "job",
   "lang": "ko",
   "chapter": 33,
-  "translation": "내가 깨끗하다, 반역이 없이, 내가 순결하다, 그리고 나에게 ⟨⟨는⟩⟩ 불의가 없다.",
+  "translation": "\"저는 깨끗하니 ⟨전역이⟩ 없고, 저는 순결하니 저에게 ⟨는⟩ 불법이 없습니다\" — 평서형으로: \"저는 깨끗하여 전역(פשע)이 없고, 저는 순결하여 저에게 죄악(עון)이 없다\".",
   "tokens": [
     {
-      "surface": "זַ֥ךְ",
+      "surface": "זך",
       "gloss": "깨끗하다"
     },
     {
-      "surface": "אֲנִ֗י",
-      "gloss": "내가"
+      "surface": "אני",
+      "gloss": "나는"
     },
     {
-      "surface": "בְּֽלִ֫י",
+      "surface": "בלי",
       "gloss": "없이"
     },
     {
-      "surface": "פָּ֥שַׁע",
-      "gloss": "반역"
+      "surface": "פשע",
+      "gloss": "전역"
     },
     {
-      "surface": "חַ֥ף",
+      "surface": "חף",
       "gloss": "순결하다"
     },
     {
-      "surface": "אָנֹכִ֑י",
-      "gloss": "내가"
+      "surface": "אנכי",
+      "gloss": "나는"
     },
     {
-      "surface": "וְלֹ֖א",
-      "gloss": "그리고 없다"
+      "surface": "ולא",
+      "gloss": "그리고 …아니다"
     },
     {
-      "surface": "עָוֺ֣ן",
-      "gloss": "불의"
+      "surface": "עון",
+      "gloss": "죄악"
     },
     {
-      "surface": "לִֽי",
+      "surface": "לי",
       "gloss": "나에게"
     }
   ],
-  "timestamp": "2026-08-05T14:04:45.318874451Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:03.781654418Z",
+  "model": "glm-5.3"
 }

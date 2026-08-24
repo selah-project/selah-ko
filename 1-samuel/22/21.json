@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ko",
   "chapter": 22,
-  "translation": "아비야타르가 다윗에게 알리었다. 샤울이 야훼의 코헨들을 죽였다고.",
+  "translation": "아비아타르가 다윗에게 알렸다. 샤울이 야훼의 코하님들을 ⟨את⟩ 죽였다고.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "알리었다"
+      "gloss": "알렸다"
     },
     {
       "surface": "אביתר",
-      "gloss": "아비야타르가"
+      "gloss": "아비아타르가"
     },
     {
       "surface": "לדוד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "…라고"
     },
     {
       "surface": "הרג",
-      "gloss": "죽였다고"
+      "gloss": "죽였다"
     },
     {
       "surface": "שאול",
@@ -34,17 +34,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "코헨들을"
+      "marks": "코하님들"
     },
     {
       "surface": "כהני",
-      "gloss": "코헨들을"
+      "gloss": "코하님들을"
     },
     {
       "surface": "יהוה",
       "gloss": "야훼의"
     }
   ],
-  "timestamp": "2026-08-05T09:30:46.183671948Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:54.052227767Z",
+  "model": "glm-5.3"
 }

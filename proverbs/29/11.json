@@ -5,27 +5,27 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 29,
-  "translation": "克斯일은 ⟨그의⟩ 온 루아흐를 내보내고, 지혜로운 ⟨사람⟩은 뒤로 ⟨그것을⟩ 잠재운다.",
+  "translation": "어리석은 자는 자기 루아흐(숨)를 온통 내보이지만, 지혜로운 자는 그것을 뒤로 미루어 가라앉힌다.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "온"
+      "gloss": "온통"
     },
     {
       "surface": "רוחו",
-      "gloss": "그의 루아흐"
+      "gloss": "자기 루아흐(숨)"
     },
     {
       "surface": "יוציא",
-      "gloss": "내보내고"
+      "gloss": "내보내다"
     },
     {
       "surface": "כסיל",
-      "gloss": "克斯일은"
+      "gloss": "어리석은 자"
     },
     {
       "surface": "וחכם",
-      "gloss": "지혜로운"
+      "gloss": "지혜로운 자는"
     },
     {
       "surface": "באחור",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "ישבחנה",
-      "gloss": "잠재운다"
+      "gloss": "가라앉히다"
     }
   ],
-  "timestamp": "2026-08-05T11:59:56.649477316Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:37.895507233Z",
+  "model": "glm-5.3"
 }

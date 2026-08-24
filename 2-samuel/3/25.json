@@ -5,89 +5,89 @@
   "book": "2-samuel",
   "lang": "ko",
   "chapter": 3,
-  "translation": "그대는 ⟨את⟩ 아브네르 벤 넬을 알고 있었다. 그가 그대를 유혹하려 왔음을, 그리고 ⟨את⟩ 그대의 나가는 것과 ⟨את⟩ 그대의 들어가는 것을 알고, ⟨את⟩ 그대가 하는 모든 것을 알고자 했음을.",
+  "translation": "당신은 아브넬 네르의 아들을 알지 못하였습니까 — 그가 당신을 속이려고 왔으며, 당신이 나가는 것과 들어오는 것을 알며, 당신이 하는 모든 것을 알려고 ⟨온⟩ 것이다.",
   "tokens": [
     {
-      "surface": "יָדַעְתָּ",
-      "gloss": "알고 있었다"
+      "surface": "ידעת",
+      "gloss": "알지 못하였습니까"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "아브네르"
+      "marks": "아브넬"
     },
     {
-      "surface": "אַבְנֵר",
-      "gloss": "아브네르"
+      "surface": "אבנר",
+      "gloss": "아브넬"
     },
     {
-      "surface": "בֶּן",
-      "gloss": "벤"
+      "surface": "בן",
+      "gloss": "아들"
     },
     {
-      "surface": "נֵר",
-      "gloss": "넬"
+      "surface": "נר",
+      "gloss": "네르"
     },
     {
-      "surface": "כִּי",
-      "gloss": "that"
+      "surface": "כי",
+      "gloss": "—"
     },
     {
-      "surface": "לְפַתֹּתְךָ",
-      "gloss": "그대를 유혹하려"
+      "surface": "לפתתך",
+      "gloss": "당신을 속이려고"
     },
     {
-      "surface": "בָּא",
-      "gloss": "왔음을"
+      "surface": "בא",
+      "gloss": "왔으며"
     },
     {
-      "surface": "וְלָדַעַת",
-      "gloss": "그리고 알고자 했음을"
+      "surface": "ולדעת",
+      "gloss": "알며"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그대의 나가는 것"
+      "marks": "당신이 나가는 것"
     },
     {
-      "surface": "מוֹצָאֲךָ",
-      "gloss": "그대의 나가는 것"
+      "surface": "מוצאך",
+      "gloss": "당신이 나가는 것"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "그대의 들어가는 것"
+      "marks": "들어오는 것"
     },
     {
-      "surface": "מְבוֹאֲךָ",
-      "gloss": "그대의 들어가는 것"
+      "surface": "מבואך",
+      "gloss": "들어오는 것"
     },
     {
-      "surface": "וְלָדַעַת",
-      "gloss": "그리고 알고자 했음을"
+      "surface": "ולדעת",
+      "gloss": "알려고"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "모든 것"
     },
     {
-      "surface": "כָּל",
-      "gloss": "모든"
+      "surface": "כל",
+      "gloss": "모든 것"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "것을"
+      "surface": "אשר",
+      "gloss": "—"
     },
     {
-      "surface": "אַתָּה",
-      "gloss": "그대가"
+      "surface": "אתה",
+      "gloss": "당신이"
     },
     {
-      "surface": "עֹשֶׂה",
+      "surface": "עשה",
       "gloss": "하는"
     }
   ],
-  "timestamp": "2026-08-05T09:36:25.776738755Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:26:55.583432675Z",
+  "model": "glm-5.3"
 }

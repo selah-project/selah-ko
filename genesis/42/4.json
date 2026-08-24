@@ -5,12 +5,12 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 42,
-  "translation": "그러나 요셉의 아우 베냐민은, 야곱이 그의 형들과 함께 보내지 아니하였으니, 이는 그가 말하기를 \"재앙이 그를 만날까 하노라\" 하였음이다.",
+  "translation": "그러나 야곱은 요셉의 아우 베냐민은 ⟨את⟩ 그의 형들과 함께 보내지 아니하였으니, 이는 그가 말하기를 \"그가 재앙을 만날까 두렵다\" 하였기 때문이다.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "베냐민을"
+      "marks": "베냐민"
     },
     {
       "surface": "בנימין",
@@ -22,24 +22,24 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "요셉의"
+      "gloss": "요셉"
     },
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "아니하였으니"
     },
     {
       "surface": "שלח",
-      "gloss": "보내셨다"
+      "gloss": "보내지"
     },
     {
       "surface": "יעקב",
-      "gloss": "야곱이"
+      "gloss": "야곱은"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그의 형들과"
+      "marks": "그의 형들"
     },
     {
       "surface": "אחיו",
@@ -47,25 +47,25 @@
     },
     {
       "surface": "כי",
-      "gloss": "for"
+      "gloss": "이는"
     },
     {
       "surface": "אמר",
-      "gloss": "말하였다"
+      "gloss": "말하기를"
     },
     {
       "surface": "פן",
-      "gloss": "lest"
+      "gloss": "…할까 두렵다"
     },
     {
       "surface": "יקראנו",
-      "gloss": "만날까"
+      "gloss": "그가 만나다"
     },
     {
       "surface": "אסון",
-      "gloss": "재앙이"
+      "gloss": "재앙"
     }
   ],
-  "timestamp": "2026-08-05T13:34:37.615749206Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:45.746696962Z",
+  "model": "glm-5.3"
 }

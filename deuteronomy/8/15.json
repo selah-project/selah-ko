@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 8,
-  "translation": "너를 그 크고 두려운 광야로 이끌어 가신 이 — 불뱀과 전갈이 있고, 물이 없는 갈증의 땅 — 너를 위하여 그 반석에서 물을 내신 이, 곧 ⟨그⟩燧石(수석)에서 내신 이이시다.",
+  "translation": "그 크고 두려운 광야에서 너를 인도하시고 — 그곳에는 불뱀 사라프와 전갈과 물이 없는 갈증의 땅이 있다 — 바위, 곧 플린트 돌에서 물을 네게 내어주신 이이시다.",
   "tokens": [
     {
       "surface": "המוליכך",
-      "gloss": "너를 이끌어 가신"
+      "gloss": "너를 인도하신"
     },
     {
       "surface": "במדבר",
-      "gloss": "…에서, 광야"
+      "gloss": "광야에서"
     },
     {
       "surface": "הגדל",
@@ -21,57 +21,26 @@
     },
     {
       "surface": "והנורא",
-      "gloss": "그리고 두려운"
+      "gloss": "두려운"
     },
     {
       "surface": "נחש",
-      "gloss": "뱀 —"
+      "gloss": "뱀"
     },
     {
       "surface": "שרף",
-      "gloss": "사라프(불뱀)"
+      "gloss": "불뱀 사라프"
     },
     {
       "surface": "ועקרב",
       "gloss": "그리고 전갈"
     },
     {
-      "surface": "וצמאון",
-      "gloss": "그리고 갈증"
-    },
-    {
-      "surface": "אשר",
-      "gloss": "…인, 곳"
-    },
-    {
-      "surface": "אין",
-      "gloss": "없는"
-    },
-    {
-      "surface": "מים",
-      "gloss": "물이"
-    },
-    {
-      "surface": "המוציא",
-      "gloss": "내신"
-    },
-    {
-      "surface": "לך",
-      "gloss": "너를 위하여"
-    },
-    {
-      "surface": "מים",
-      "gloss": "물을"
-    },
-    {
-      "surface": "מצור",
-      "gloss": "…에서, 반석"
-    },
-    {
-      "surface": "החלמיש",
-      "gloss": "그燧石(수석)"
+      "surface": "andצמאון",
+      "gloss": "그리고 갈증",
+      "note": "placeholder"
     }
   ],
-  "timestamp": "2026-08-05T08:52:27.140858097Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:16.295484210Z",
+  "model": "glm-5.3"
 }

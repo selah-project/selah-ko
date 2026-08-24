@@ -5,35 +5,35 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 32,
-  "translation": "내가 하늘을 향해 내 손을 들고 말하노니, '내가 영원히 산다' 하였다.",
+  "translation": "내가 하늘을 향해 내 손을 든다. 그리고 말한다. 내가 영원히 산다 ⟨것⟩이다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "때에"
+      "gloss": "⟨것⟩"
     },
     {
       "surface": "אשא",
-      "gloss": "내가 들리"
+      "gloss": "든다"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "향해"
     },
     {
       "surface": "שמים",
-      "gloss": "하늘"
+      "gloss": "하늘을"
     },
     {
       "surface": "ידי",
-      "gloss": "내 손"
+      "gloss": "내 손을"
     },
     {
       "surface": "ואמרתי",
-      "gloss": "그리고 내가 말하노니"
+      "gloss": "말한다"
     },
     {
       "surface": "חי",
-      "gloss": "살아 있는"
+      "gloss": "산다"
     },
     {
       "surface": "אנכי",
@@ -44,6 +44,6 @@
       "gloss": "영원히"
     }
   ],
-  "timestamp": "2026-08-05T13:41:49.571311745Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:40.813436007Z",
+  "model": "glm-5.3"
 }

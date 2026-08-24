@@ -5,65 +5,65 @@
   "book": "isaiah",
   "lang": "ko",
   "chapter": 10,
-  "translation": "비록 당신의 백성 이스라엘이 바다의 모래 같을지라도, 그 안에서 남은 자가 돌아오리라. 결정된 멸절이 의(義)로 넘치리라.",
+  "translation": "이스라엘아, 그대의 백성이 바다의 모래 같을지라도 그 안에서 남은 자(샤아르)만이 돌아올 것이다. 결정된 멸절이 체다카로 넘칠 것이다.",
   "tokens": [
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
+      "gloss": "~할지라도"
+    },
+    {
+      "surface": "אם",
       "gloss": "비록"
     },
     {
-      "surface": "אִם",
-      "gloss": "…일지라도"
+      "surface": "יהיה",
+      "gloss": "있을 것이다"
     },
     {
-      "surface": "יִהְיֶ֞ה",
-      "gloss": "있을지라도"
+      "surface": "עמך",
+      "gloss": "그대의 백성이"
     },
     {
-      "surface": "עַמְּךָ֤",
-      "gloss": "당신의 백성"
+      "surface": "ישראל",
+      "gloss": "이스라엘아"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
-      "gloss": "이스라엘이"
+      "surface": "כחול",
+      "gloss": "모래 같을"
     },
     {
-      "surface": "כְּח֣וֹל",
-      "gloss": "모래"
-    },
-    {
-      "surface": "הַיָּ֔ם",
+      "surface": "הים",
       "gloss": "바다의"
     },
     {
-      "surface": "שְׁאָ֖ר",
-      "gloss": "남은 자가"
+      "surface": "שאר",
+      "gloss": "남은 자"
     },
     {
-      "surface": "יָשׁ֣וּב",
-      "gloss": "돌아오리라"
+      "surface": "ישוב",
+      "gloss": "돌아올 것이다"
     },
     {
-      "surface": "בּ֑וֹ",
+      "surface": "בו",
       "gloss": "그 안에서"
     },
     {
-      "surface": "כִּלָּי֥וֹן",
+      "surface": "כליון",
       "gloss": "멸절이"
     },
     {
-      "surface": "חָר֖וּץ",
+      "surface": "חרוץ",
       "gloss": "결정된"
     },
     {
-      "surface": "שׁוֹטֵ֥ף",
-      "gloss": "넘치리라"
+      "surface": "שוטף",
+      "gloss": "넘칠"
     },
     {
-      "surface": "צְדָקָֽה",
-      "gloss": "의(義)로"
+      "surface": "צדקה",
+      "gloss": "체다카(의)로"
     }
   ],
-  "timestamp": "2026-08-05T10:09:53.283745435Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:32.128222503Z",
+  "model": "glm-5.3"
 }

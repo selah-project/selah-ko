@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 23,
-  "translation": "너는 ⟨한⟩ 종을 그의 주인에게 넘겨주지 말지니, 그가 그의 주인에게서 도망하여 네게로 왔은즉.",
+  "translation": "네게로 피해 온 종을 그 주인에게 넘겨 주지 말 것이니, 그가 자기 주인에게서 벗어나 네게로 왔은즉",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "⟨not⟩"
+      "gloss": "…지 말 것이니"
     },
     {
       "surface": "תסגיר",
-      "gloss": "너는 넘겨주지 말지니"
+      "gloss": "넘겨 주지"
     },
     {
       "surface": "עבד",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אדניו",
-      "gloss": "그의 주인"
+      "gloss": "그 주인"
     },
     {
       "surface": "אשר",
-      "gloss": "그가"
+      "gloss": "…가"
     },
     {
       "surface": "ינצל",
-      "gloss": "도망하여"
+      "gloss": "벗어나"
     },
     {
       "surface": "אליך",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "אדניו",
-      "gloss": "그의 주인"
+      "gloss": "자기 주인"
     }
   ],
-  "timestamp": "2026-08-05T08:58:25.553235286Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:42.447054737Z",
+  "model": "glm-5.3"
 }

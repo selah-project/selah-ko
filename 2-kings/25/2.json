@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 25,
-  "translation": "그리고 그 도성은 포위 속에 들어갔다, ⊯디키야후 왕의 십일년까지.",
+  "translation": "그리고 ⟨그⟩ 성은 포위 속에 들어갔다, 찌드키야후 왕의 십일 년까지.",
   "tokens": [
     {
       "surface": "ותבא",
-      "gloss": "그리고 ∼은 들어갔다"
+      "gloss": "들어갔다"
     },
     {
       "surface": "העיר",
-      "gloss": "그 도성은"
+      "gloss": "성은"
     },
     {
       "surface": "במצור",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "∼까지"
+      "gloss": "까지"
     },
     {
       "surface": "עשתי",
-      "gloss": "열한"
+      "gloss": "십"
     },
     {
       "surface": "עשרה",
-      "gloss": "한"
+      "gloss": "일"
     },
     {
       "surface": "שנה",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "למלך",
-      "gloss": "∼의 왕"
+      "gloss": "왕의"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "צדקיהו"
+      "gloss": "찌드키야후"
     }
   ],
-  "timestamp": "2026-08-05T10:07:16.427902150Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:21.995068101Z",
+  "model": "glm-5.3"
 }

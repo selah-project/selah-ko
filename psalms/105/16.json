@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 105,
-  "translation": "그리고 그가 기근을 그 땅 위에 부르셨으며, 빵의 지팡이를 온전히 꺾으셨더라.",
+  "translation": "그리고 그가 ⟨그⟩ 땅 위에 기근을 부르시니, 떡의 지팡이를 온전히 꺾으셨다.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "그리고 부르셨으며"
+      "gloss": "그리고 그가 부르시니"
     },
     {
       "surface": "רעב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "על",
-      "gloss": "～위에"
+      "gloss": "위에"
     },
     {
       "surface": "הארץ",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "לחם",
-      "gloss": "빵의"
+      "gloss": "떡의"
     },
     {
       "surface": "שבר",
-      "gloss": "꺾으셨더라"
+      "gloss": "꺾으셨다"
     }
   ],
-  "timestamp": "2026-08-05T11:43:26.123694508Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:27.331990188Z",
+  "model": "glm-5.3"
 }

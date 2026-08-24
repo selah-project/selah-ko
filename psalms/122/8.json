@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 122,
-  "translation": "나의 형제들과 나의 벗들 때문에, 내가 이제 네 안의 샬롬을 말하겠다.",
+  "translation": "나의 형제들과 나의 동료들 때문에, 내가 이제 샬롬을 말하겠다 — ⟨샬롬이⟩ 네 안에 ⟨있기를⟩.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "～때문에"
+      "gloss": "때문에"
     },
     {
-      "surface": "아חי",
+      "surface": "אחי",
       "gloss": "나의 형제들"
     },
     {
       "surface": "ורעי",
-      "gloss": "나의 벗들과"
+      "gloss": "나의 동료들"
     },
     {
       "surface": "אדברה",
-      "gloss": "내가 ～말하겠다"
+      "gloss": "내가 말하겠다"
     },
     {
       "surface": "נא",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "שלום",
-      "gloss": "샬롬을"
+      "gloss": "샬롬"
     },
     {
       "surface": "בך",
-      "gloss": "네 안의"
+      "gloss": "네 안에"
     }
   ],
-  "timestamp": "2026-08-05T11:47:51.237063319Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:12.404163721Z",
+  "model": "glm-5.3"
 }

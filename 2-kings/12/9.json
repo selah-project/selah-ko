@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 12,
-  "translation": "그리고 코헨들이 동의하였다, 백성에게서 은을 취하지 아니하고, 그리고 ⟨את⟩ 집의 틈새를 보수하지 아니하〈기로〉.",
+  "translation": "그러자 코헨들이 ⟨את⟩ 백성에게서 은을 받지 않기로, 그리고 ⟨את⟩ 그 집의 훼손을 수리하지 않기로 동의하였다.",
   "tokens": [
     {
       "surface": "ויאתו",
-      "gloss": "그리고 동의하였다"
+      "gloss": "동의하였다"
     },
     {
       "surface": "הכהנים",
@@ -17,19 +17,20 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "아니하고"
+      "gloss": "하지 않기로"
     },
     {
       "surface": "קחת",
-      "gloss": "취하지"
+      "gloss": "받지"
     },
     {
       "surface": "כסף",
-      "gloss": "은을"
+      "gloss": "은"
     },
     {
       "surface": "מאת",
-      "gloss": "에게서"
+      "gloss": "⟨את⟩",
+      "marks": "백성 (으로부터)"
     },
     {
       "surface": "העם",
@@ -37,26 +38,26 @@
     },
     {
       "surface": "ולבלתי",
-      "gloss": "그리고 아니하"
+      "gloss": "그리고 하지 않기로"
     },
     {
       "surface": "חזק",
-      "gloss": "보수하지"
+      "gloss": "수리하다"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "집의 틈새를"
+      "marks": "훼손"
     },
     {
       "surface": "בדק",
-      "gloss": "틈새를"
+      "gloss": "훼손"
     },
     {
       "surface": "הבית",
-      "gloss": "집의"
+      "gloss": "그 집"
     }
   ],
-  "timestamp": "2026-08-05T10:00:55.301407165Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:29:30.261836035Z",
+  "model": "glm-5.3"
 }

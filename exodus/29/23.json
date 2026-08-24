@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 29,
-  "translation": "그리고 빵 한 둥근 덩이와, 기름 빵 한 과자와, 한 얇은 과자를 — 야훼의 면전에 있는 무교병 바구니에서 ⟨취하라⟩.",
+  "translation": "그리고 빵 한 덩이와, 기름 바른 빵 한 과자와, 누룩 없는 빵 광주리에서 ⟨그⟩ 얇은 전병 하나를 — 야훼 앞에 있는 그 광주리에서.",
   "tokens": [
     {
       "surface": "וככר",
-      "gloss": "그리고 둥근 덩이"
+      "gloss": "그리고 한 덩이"
     },
     {
       "surface": "לחם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אחת",
-      "gloss": "한"
+      "gloss": "하나"
     },
     {
       "surface": "וחלת",
-      "gloss": "그리고 과자"
+      "gloss": "그리고 한 과자"
     },
     {
       "surface": "לחם",
@@ -29,41 +29,41 @@
     },
     {
       "surface": "שמן",
-      "gloss": "기름"
+      "gloss": "기름 바른"
     },
     {
       "surface": "אחת",
-      "gloss": "한"
+      "gloss": "하나"
     },
     {
       "surface": "ורקיק",
-      "gloss": "그리고 얇은 과자"
+      "gloss": "그리고 얇은 전병"
     },
     {
       "surface": "אחד",
-      "gloss": "한"
+      "gloss": "하나"
     },
     {
       "surface": "מסל",
-      "gloss": "에서 바구니"
+      "gloss": "광주리에서"
     },
     {
       "surface": "המצות",
-      "gloss": "무교병"
+      "gloss": "누룩 없는 빵"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "것"
     },
     {
       "surface": "לפני",
-      "gloss": "면전에"
+      "gloss": "앞에"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼의"
+      "gloss": "야훼"
     }
   ],
-  "timestamp": "2026-08-05T08:03:10.926745173Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:19:14.638662092Z",
+  "model": "glm-5.3"
 }

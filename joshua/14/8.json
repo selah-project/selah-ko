@@ -5,62 +5,62 @@
   "book": "joshua",
   "lang": "ko",
   "chapter": 14,
-  "translation": "그런데 나와 함께 올라간 내 형제들은 ⟨את⟩ 백성의 마음을 녹였다. 그러나 나는 나의 엘로힘, 야훼를 따라 온전히 채웠다.",
+  "translation": "그런데 나와 함께 올라갔던 내 형제들은 백성의 마음을 녹였다. 그러나 나는 내 엘로힘 야훼를 온전히 따랐다.",
   "tokens": [
     {
-      "surface": "וְאַחַי֙",
+      "surface": "ואחי",
       "gloss": "그런데 내 형제들은"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "～한"
+      "surface": "אשר",
+      "gloss": "~였던"
     },
     {
-      "surface": "עָל֣וּ",
-      "gloss": "올라간"
+      "surface": "עלו",
+      "gloss": "올라갔던"
     },
     {
-      "surface": "עִמִּ֔י",
+      "surface": "עמי",
       "gloss": "나와 함께"
     },
     {
-      "surface": "הִמְסִ֖יו",
+      "surface": "המסיו",
       "gloss": "녹였다"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "백성의 마음을"
+      "marks": "백성의 마음"
     },
     {
-      "surface": "לֵ֣ב",
-      "gloss": "마음을"
+      "surface": "לב",
+      "gloss": "마음"
     },
     {
-      "surface": "הָעָ֑ם",
+      "surface": "העם",
       "gloss": "백성의"
     },
     {
-      "surface": "וְאָנֹכִ֣י",
+      "surface": "ואנכי",
       "gloss": "그러나 나는"
     },
     {
-      "surface": "מִלֵּ֔אתִי",
-      "gloss": "채웠다"
+      "surface": "מלאתי",
+      "gloss": "온전히 따랐다"
     },
     {
-      "surface": "אַחֲרֵ֖י",
-      "gloss": "～를 따라"
+      "surface": "אחרי",
+      "gloss": "~를 뒤따라"
     },
     {
-      "surface": "יְהוָ֥ה",
-      "gloss": "야훼를"
+      "surface": "יהוה",
+      "gloss": "야훼"
     },
     {
-      "surface": "אֱלֹהָֽי",
-      "gloss": "나의 엘로힘"
+      "surface": "אלהי",
+      "gloss": "내 엘로힘"
     }
   ],
-  "timestamp": "2026-08-05T17:11:54.432917914Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:34.294480039Z",
+  "model": "glm-5.3"
 }

@@ -5,79 +5,79 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 11,
-  "translation": "그러나 시혼이 이스라엘을 ⟨⟨את⟩⟩ 신뢰하지 아니하여 ⟨그⟩ ⟨자기⟩ 영토를 통과하게 하지 아니하였다. 그리고 시혼이 ⟨⟨את⟩⟩ ⟨자기⟩ 모든 백성을 모아 야하스에 진을 쳤다. 그리고 이스라엘과 싸웠다.",
+  "translation": "그러나 시혼은 이스라엘이 ⟨את⟩ 자기 영토를 지나가는 것을 믿어 주지 않았다. 시혼은 ⟨את⟩ 자기 백성 전체를 모았고, 그들이 야하츠에 진을 쳤으며, 그가 이스라엘과 싸웠다.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "그러나 아니하였다"
+      "gloss": "그러나 …하지 않았다"
     },
     {
       "surface": "האמין",
-      "gloss": "신뢰하지"
+      "gloss": "믿어 주지 않았다"
     },
     {
       "surface": "סיחון",
-      "gloss": "시혼이"
+      "gloss": "시혼은"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이스라엘을"
+      "marks": "이스라엘"
     },
     {
       "surface": "ישראל",
-      "gloss": "이스라엘"
+      "gloss": "이스라엘이"
     },
     {
       "surface": "עבר",
-      "gloss": "통과하게"
+      "gloss": "지나가는"
     },
     {
       "surface": "בגבלו",
-      "gloss": "그의 영토를"
+      "gloss": "자기 영토를"
     },
     {
       "surface": "ויאסף",
-      "gloss": "그리고 모아"
+      "gloss": "모았다"
     },
     {
       "surface": "סיחון",
-      "gloss": "시혼이"
+      "gloss": "시혼은"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "모든 백성을"
+      "marks": "자기 백성 전체"
     },
     {
       "surface": "כל",
-      "gloss": "모든"
+      "gloss": "전체"
     },
     {
       "surface": "עמו",
-      "gloss": "그의 백성"
+      "gloss": "자기 백성"
     },
     {
       "surface": "ויחנו",
-      "gloss": "그리고 진을 쳤다"
+      "gloss": "진을 쳤다"
     },
     {
       "surface": "ביהצה",
-      "gloss": "야하스에"
+      "gloss": "야하츠에"
     },
     {
       "surface": "וילחם",
-      "gloss": "그리고 싸웠다"
+      "gloss": "싸웠다"
     },
     {
       "surface": "עם",
-      "gloss": "와(과)"
+      "gloss": "…과"
     },
     {
       "surface": "ישראל",
       "gloss": "이스라엘"
     }
   ],
-  "timestamp": "2026-08-05T13:43:42.834578796Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:37.795331584Z",
+  "model": "glm-5.3"
 }

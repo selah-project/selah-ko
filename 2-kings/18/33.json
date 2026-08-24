@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 18,
-  "translation": "列국의 엘로힘들이 각자 ⟨את⟩ 자기 땅을 아슈르 왕의 손에서 건져내었느냐?",
+  "translation": "열국의 엘로힘들이 각기 ⟨את⟩ 자기 땅을 아슈르 왕의 손에서 정녕 건져 내었느냐?",
   "tokens": [
     {
       "surface": "ההצל",
-      "gloss": "건져내었느냐"
+      "gloss": "정녕 건져 내다"
     },
     {
       "surface": "הצילו",
-      "gloss": "그들이 건져내었느냐"
+      "gloss": "건져 내었느냐"
     },
     {
       "surface": "אלהי",
-      "gloss": "엘로힘들이"
+      "gloss": "엘로힘들의"
     },
     {
       "surface": "הגוים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "각자"
+      "gloss": "각기"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ארצו",
-      "gloss": "자기 땅을"
+      "gloss": "자기 땅"
     },
     {
       "surface": "מיד",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "מלך",
-      "gloss": "왕의"
+      "gloss": "왕"
     },
     {
       "surface": "אשור",
       "gloss": "아슈르"
     }
   ],
-  "timestamp": "2026-08-05T10:02:28.257621419Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:28.650709159Z",
+  "model": "glm-5.3"
 }

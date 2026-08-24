@@ -5,31 +5,31 @@
   "book": "daniel",
   "lang": "ko",
   "chapter": 8,
-  "translation": "그리고 ⟨그⟩ 숫염소는 내가 운하 앞에 서 있는 것을 보았던, 두 뿔을 가진 숫양에게까지 왔다. 그리고 ⟨그⟩ 숫염소는 자기 힘의 격노로 그에게 달려갔다.",
+  "translation": "그것이 내가 그 운하 앞에 서 있는 것을 보았던, 두 뿔 가진 숫양에게까지 이르러, 자기 힘의 격노로 그것을 향해 달려갔다.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "그리고 왔다"
+      "gloss": "이르렀다"
     },
     {
       "surface": "עד",
-      "gloss": "～에게까지"
+      "gloss": "까지"
     },
     {
       "surface": "האיל",
-      "gloss": "숫양에게"
+      "gloss": "숫양"
     },
     {
       "surface": "בעל",
-      "gloss": "소유자"
+      "gloss": "가진"
     },
     {
       "surface": "הקרנים",
-      "gloss": "그 뿔들의"
+      "gloss": "두 뿔"
     },
     {
       "surface": "אשר",
-      "gloss": "～것을"
+      "gloss": "것을"
     },
     {
       "surface": "ראיתי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "～앞에"
+      "gloss": "앞에"
     },
     {
       "surface": "האבל",
@@ -49,21 +49,21 @@
     },
     {
       "surface": "וירץ",
-      "gloss": "그리고 달려갔다"
+      "gloss": "달려갔다"
     },
     {
       "surface": "אליו",
-      "gloss": "그에게"
+      "gloss": "그것을 향해"
     },
     {
       "surface": "בחמת",
-      "gloss": "～의 격노로"
+      "gloss": "격노로"
     },
     {
       "surface": "כחו",
       "gloss": "자기 힘의"
     }
   ],
-  "timestamp": "2026-08-05T12:29:15.905830378Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:04.621053078Z",
+  "model": "glm-5.3"
 }

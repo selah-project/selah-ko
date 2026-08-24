@@ -1,1 +1,73 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "exodus 3:14", "book": "exodus", "lang": "ko", "chapter": 3, "translation": "엘로힘이 모셰에게 말씀하셨다. \"에흐예 아셰르 에흐예(나는 나인 자다).\" 그리고 말씀하셨다. \"이스라엘 아들들에게 이렇게 말하여라. '에흐예가 나를 너희에게 보내셨다.'\"", "tokens": [{"surface": "ויאמר", "gloss": "그리고 말씀하셨다"}, {"surface": "אלהים", "gloss": "엘로힘이"}, {"surface": "אל", "gloss": "에게"}, {"surface": "משה", "gloss": "모셰"}, {"surface": "אהיה", "gloss": "אֶהְיֶה"}, {"surface": "אשר", "gloss": "אֲשֶׁר"}, {"surface": "אהיה", "gloss": "אֶהְיֶה"}, {"surface": "ויאמר", "gloss": "그리고 말씀하셨다"}, {"surface": "כה", "gloss": "이렇게"}, {"surface": "תאמר", "gloss": "말하여라"}, {"surface": "לבני", "gloss": "아들들에게"}, {"surface": "ישראל", "gloss": "이스라엘"}, {"surface": "אהיה", "gloss": "אֶהְיֶה"}, {"surface": "שלחני", "gloss": "나를 보내셨다"}, {"surface": "אליכם", "gloss": "너희에게"}], "timestamp": "2026-08-05T19:46:30.592751135Z", "model": "glm-5.2"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "ko",
+  "chapter": 3,
+  "translation": "엘로힘이 모셰에게 말씀하셨다. \"아녜 아셰르 아녜 (나는 ⟨있는⟩ 나다).\" 또 이르셨다. \"이스라엘 자손에게 이같이 말하라. '아녜 (나는 ⟨있다〉), 나를 너희에게 보내셨다.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘로힘이"
+    },
+    {
+      "surface": "אל",
+      "gloss": "에게"
+    },
+    {
+      "surface": "משה",
+      "gloss": "모셰"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "아녜 (나는 있다)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "아셰르 (…것)"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "아녜 (나다)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "이르셨다"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "말하라"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "자손에게"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "아녜"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "나를 보내셨다"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "너희에게"
+    }
+  ],
+  "timestamp": "2026-08-24T15:17:45.173028367Z",
+  "model": "glm-5.3"
+}

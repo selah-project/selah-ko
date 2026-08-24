@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 17,
-  "translation": "재앙으로 죽은 자가 만 사천 칠백 명이었다. 코라의 일로 죽은 자들 외에였다.",
+  "translation": "그 재앙에 죽은 자가 만 사천칠백 명이었는데, 코라흐의 일로 죽은 자들은 이와 별개였다.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "이었다"
+      "gloss": "이었는데"
     },
     {
       "surface": "המתים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "במגפה",
-      "gloss": "재앙으로"
+      "gloss": "재앙에"
     },
     {
       "surface": "ארבעה",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "עשר",
-      "gloss": "十"
+      "gloss": "열"
     },
     {
       "surface": "אלף",
-      "gloss": "千"
+      "gloss": "천"
     },
     {
       "surface": "ושבע",
-      "gloss": "七"
+      "gloss": "칠"
     },
     {
       "surface": "מאות",
-      "gloss": "百"
+      "gloss": "백"
     },
     {
       "surface": "מלבד",
-      "gloss": "외에였다"
+      "gloss": "별개였다"
     },
     {
       "surface": "המתים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "על",
-      "gloss": "～로"
+      "gloss": "로"
     },
     {
       "surface": "דבר",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "קרח",
-      "gloss": "코라의"
+      "gloss": "코라흐의"
     }
   ],
-  "timestamp": "2026-08-05T13:39:26.993119680Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:24.480126070Z",
+  "model": "glm-5.3"
 }

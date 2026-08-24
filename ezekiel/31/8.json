@@ -1,1 +1,101 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "ezekiel 31:8", "book": "ezekiel", "lang": "ko", "chapter": 31, "translation": "엘로힘의 동산의 백향목들도 그를 가리지 못하였고, 잣나무들도 그의 가지들과 같지 못하였으며, 플라타너스들도 그의 가지들만 못하였다. 엘로힘의 동산의 어떤 나무도 그 아름다움에서 그와 같지 못하였다.", "tokens": [{"surface": "אֲרָזִ֣ים", "gloss": "나무들의"}, {"surface": "לֹֽא", "gloss": "아니"}, {"surface": "עֲמָמֻהוּ֮", "gloss": "다다랐다"}, {"surface": "בְּגַן", "gloss": "(גן)"}, {"surface": "אֱלֹהִים", "gloss": "엘로힘의"}, {"surface": "בְּרוֹשִׁ֗ים", "gloss": "나무들의"}, {"surface": "לֹ֤א", "gloss": "아니"}, {"surface": "דָמוּ֙", "gloss": "비겼다"}, {"surface": "אֶל", "gloss": "-에"}, {"surface": "סְעַפֹּתָ֔יו", "gloss": "그의 가지들"}, {"surface": "וְעַרְמֹנִ֥ים", "gloss": "나무들"}, {"surface": "לֹֽא", "gloss": "아니"}, {"surface": "הָי֖וּ", "gloss": "같았다"}, {"surface": "כְּפֹֽארֹתָ֑יו", "gloss": "그의 잔가지들"}, {"surface": "כָּל", "gloss": "모든"}, {"surface": "עֵץ֙", "gloss": "나무가"}, {"surface": "בְּגַן", "gloss": "(גן)"}, {"surface": "אֱלֹהִ֔ים", "gloss": "엘로힘의"}, {"surface": "לֹ֤א", "gloss": "아니"}, {"surface": "דָמָ֥ה", "gloss": "비겼다"}, {"surface": "אֵלָ֖יו", "gloss": "-에게"}, {"surface": "בְּיָפְיֽוֹ", "gloss": "그의 아름다움에"}], "timestamp": "2026-08-05T19:47:25.142789131Z", "model": "glm-5.2"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 31:8",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 31,
+  "translation": "엘의 정원의 백향목들이 그를 가리지 못하였고, 편백나무들은 그의 가지들과 비교되지 못하였으며, 플라타너스들은 그의 잔가지들 같지 못하였다. 엘의 정원의 모든 나무가 그의 아름다움에서 그와 같지 못하였다.",
+  "tokens": [
+    {
+      "surface": "ארזים",
+      "gloss": "백향목들이"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…하지 못하였고"
+    },
+    {
+      "surface": "עממהו",
+      "gloss": "그를 가리지"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "정원의"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "편백나무들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…하지 못하였으며"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "비교되지"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…과"
+    },
+    {
+      "surface": "סעפתיו",
+      "gloss": "그의 가지들"
+    },
+    {
+      "surface": "וערמנים",
+      "gloss": "플라타너스들은"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…하지"
+    },
+    {
+      "surface": "היו",
+      "gloss": "같지 못하였다"
+    },
+    {
+      "surface": "כפארתיו",
+      "gloss": "그의 잔가지들"
+    },
+    {
+      "surface": "כל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "나무가"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "정원의"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "엘의"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…하지"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "같지 못하였다"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "그와"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "그의 아름다움에서"
+    }
+  ],
+  "timestamp": "2026-08-24T15:32:54.218615034Z",
+  "model": "glm-5.3"
+}

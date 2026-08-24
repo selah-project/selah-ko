@@ -5,87 +5,87 @@
   "book": "zephaniah",
   "lang": "ko",
   "chapter": 1,
-  "translation": "사람과 짐승을 거두어들이리니; 하늘의 날짐승과 바다의 물고기를 거두어들이리니. 그리고 걸림돌들을 ⟨את⟩ 악인들 ⟨과 함께⟩, 그리고 내가 ⟨את⟩ 사람을 끊어 버리리니 땅의 면에서, 야훼의 선언이시다.",
+  "translation": "사람과 짐승을 거두시고, 하늘의 새들과 바다의 물고기들을 거두시며, 그리고 걸림돌들을 — ⟨את⟩ 악인들을 ⟨함께⟩; 사람을 땅의 면 위에서 끊어 버리시리니 — 야훼의 선언이다.",
   "tokens": [
     {
-      "surface": "אָסֵ֨ף",
-      "gloss": "거두어들이리니"
+      "surface": "אסף",
+      "gloss": "거두시고"
     },
     {
-      "surface": "אָדָ֜ם",
-      "gloss": "사람"
+      "surface": "אדם",
+      "gloss": "사람을"
     },
     {
-      "surface": "וּבְהֵמָ֗ה",
+      "surface": "ובהמה",
       "gloss": "그리고 짐승을"
     },
     {
-      "surface": "אָסֵ֤ף",
-      "gloss": "거두어들이리니"
+      "surface": "אסף",
+      "gloss": "거두시며"
     },
     {
-      "surface": "עוֹף",
-      "gloss": "날짐승"
+      "surface": "עוף",
+      "gloss": "새들을"
     },
     {
-      "surface": "הַשָּׁמַ֨יִם֙",
+      "surface": "השמים",
       "gloss": "하늘의"
     },
     {
-      "surface": "וּדְגֵ֣י",
-      "gloss": "그리고 물고기를"
+      "surface": "ודגי",
+      "gloss": "그리고 물고기들을"
     },
     {
-      "surface": "הַיָּ֔ם",
+      "surface": "הים",
       "gloss": "바다의"
     },
     {
-      "surface": "וְהַמַּכְשֵׁל֖וֹת",
+      "surface": "והמכשלות",
       "gloss": "그리고 걸림돌들을"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "악인들"
+      "marks": "악인들을"
     },
     {
-      "surface": "הָרְשָׁעִ֑ים",
-      "gloss": "악인들"
+      "surface": "הרשעים",
+      "gloss": "악인들을"
     },
     {
-      "surface": "וְהִכְרַתִּ֣י",
-      "gloss": "그리고 내가 끊어 버리리니"
+      "surface": "והכרתי",
+      "gloss": "그리고 끊어 버리시리니"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "사람을"
     },
     {
-      "surface": "הָאָדָ֗ם",
+      "surface": "האדם",
       "gloss": "사람을"
     },
     {
-      "surface": "מֵעַ֛ל",
-      "gloss": "～에서"
+      "surface": "מעל",
+      "gloss": "위에서"
     },
     {
-      "surface": "פְּנֵ֥י",
-      "gloss": "면(面)"
+      "surface": "פני",
+      "gloss": "면"
     },
     {
-      "surface": "הָאֲדָמָ֖ה",
+      "surface": "האדמה",
       "gloss": "땅의"
     },
     {
-      "surface": "נְאֻם",
-      "gloss": "선언이시다"
+      "surface": "נאם",
+      "gloss": "선언이다"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "야훼의"
     }
   ],
-  "timestamp": "2026-08-05T19:39:10.577714435Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:34:46.831608235Z",
+  "model": "glm-5.3"
 }

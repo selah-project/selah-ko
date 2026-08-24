@@ -5,81 +5,81 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 43,
-  "translation": "바룩 네리야의 아들이 ⟨그⟩ 너를 부추겨 ⟨את⟩ 우리를 대적하게 하여, ⟨את⟩ 우리를 카스딤의 손에 넘겨 우리를 죽이고 우리를 바벨로 사로잡아 가게 하려 함이라.",
+  "translation": "바룩이 — 네리야의 아들 — 그가 그대를 부추겨 우리를 거스르게 하여, 우리를 카스디m(칼데아) 사람들의 손에 넘기어 우리를 죽이고 우리를 바벨로 잡아가게 하려 함이다.",
   "tokens": [
     {
-      "surface": "כִּ֗י",
-      "gloss": "because"
+      "surface": "כי",
+      "gloss": "…함이다"
     },
     {
-      "surface": "בָּרוּךְ֙",
-      "gloss": "바룩"
+      "surface": "ברוך",
+      "gloss": "바룩이"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "아들"
     },
     {
-      "surface": "נֵ֣רִיָּ֔ה",
-      "gloss": "네리야의"
+      "surface": "נריה",
+      "gloss": "네리야"
     },
     {
-      "surface": "מַסִּ֥ית",
+      "surface": "מסית",
       "gloss": "부추겨"
     },
     {
-      "surface": "אֹתְךָ֖",
-      "gloss": "너를",
-      "marks": "⟨את⟩ 너를 — 가리키는 대상: 우리를 대적하여"
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "그대를"
     },
     {
-      "surface": "בָּ֑נוּ",
-      "gloss": "우리를 대적하여"
+      "surface": "בנו",
+      "gloss": "우리를 거스르게 하여"
     },
     {
-      "surface": "לְמַעַן֩",
-      "gloss": "~하기 위하여"
+      "surface": "למען",
+      "gloss": "…하려"
     },
     {
-      "surface": "תֵּ֨ת",
-      "gloss": "넘겨"
+      "surface": "תת",
+      "gloss": "넘기어"
     },
     {
-      "surface": "אֹתָ֤נוּ",
-      "gloss": "⟨את⟩ 우리를",
-      "marks": "우리를 — 가리키는 대상: 카스딤의 손에"
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "우리를"
     },
     {
-      "surface": "בְיַֽד",
+      "surface": "ביד",
       "gloss": "손에"
     },
     {
-      "surface": "הַכַּשְׂדִּים֙",
-      "gloss": "카스딤의"
+      "surface": "הכשדים",
+      "gloss": "카스디(칼데아) 사람들의"
     },
     {
-      "surface": "לְהָמִ֣ית",
+      "surface": "להמית",
       "gloss": "죽이고"
     },
     {
-      "surface": "אֹתָ֔נוּ",
-      "gloss": "⟨את⟩ 우리를",
-      "marks": "우리를 — 가리키는 대상: 죽이고"
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "우리를"
     },
     {
-      "surface": "וּלְהַגְל֥וֹת",
-      "gloss": "사로잡아 가게"
+      "surface": "ולהגלות",
+      "gloss": "잡아가게"
     },
     {
-      "surface": "אֹתָ֖נוּ",
-      "gloss": "⟨את⟩ 우리를",
-      "marks": "우리를 — 가리키는 대상: 바벨로"
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "우리를"
     },
     {
-      "surface": "בָּבֶֽל",
+      "surface": "בבל",
       "gloss": "바벨로"
     }
   ],
-  "timestamp": "2026-08-05T18:20:51.273324724Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:32:24.877317938Z",
+  "model": "glm-5.3"
 }

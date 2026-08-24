@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 1,
-  "translation": "그리고 ⟨그가⟩ ⟨את⟩ 그의 모이주머니를 깃털들과 함께 제거하고, 그것을 재 자리인 곳으로, 제단의 동쪽 옆에 던질 것이다.",
+  "translation": "그리고 그것의 멱틀과 그 깃털을 제거하여, 재를 두는 곳으로, 제단 동쪽 옆에 버릴 것이다.",
   "tokens": [
     {
       "surface": "והסיר",
-      "gloss": "그리고 제거할 것이다"
+      "gloss": "제거하여"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그의 모이주머니를"
+      "marks": "그것의 멱틀"
     },
     {
       "surface": "מראתו",
-      "gloss": "그의 모이주머니를"
+      "gloss": "그것의 멱틀을"
     },
     {
       "surface": "בנצתה",
-      "gloss": "깃털들과 함께"
+      "gloss": "그 깃털을"
     },
     {
       "surface": "והשליך",
-      "gloss": "그리고 던질 것이다"
+      "gloss": "버릴 것이다"
     },
     {
       "surface": "אתה",
@@ -39,15 +39,15 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "그 제단의"
+      "gloss": "제단"
     },
     {
       "surface": "קדמה",
-      "gloss": "동쪽으로"
+      "gloss": "동쪽"
     },
     {
       "surface": "אל",
-      "gloss": "～으로"
+      "gloss": "으로"
     },
     {
       "surface": "מקום",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "הדשן",
-      "gloss": "그 재"
+      "gloss": "재를 두는"
     }
   ],
-  "timestamp": "2026-08-05T08:11:04.619765336Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:48.985578889Z",
+  "model": "glm-5.3"
 }

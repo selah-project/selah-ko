@@ -5,19 +5,19 @@
   "book": "daniel",
   "lang": "ko",
   "chapter": 6,
-  "translation": "그때 왕이 그 말을 듣고 크게 근심하였고, 다니엘을 건져내려고 마음을 썼다. 해가 질 때까지 그는 그를 건져내려고 애썼다.",
+  "translation": "그때에 왕은 그 말을 듣고 그것 때문에 몹시 마음 아파하셨으며, 다니엘을 건져 내려고 그에게 마음을 두시고, 해가 지기까지 그를 구하려고 애쓰셨다.",
   "tokens": [
     {
       "surface": "אדין",
-      "gloss": "그때"
+      "gloss": "그때에"
     },
     {
       "surface": "מלכא",
-      "gloss": "왕이"
+      "gloss": "왕은"
     },
     {
       "surface": "כדי",
-      "gloss": "—"
+      "gloss": "…함을"
     },
     {
       "surface": "מלתא",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "שגיא",
-      "gloss": "크게"
+      "gloss": "몹시"
     },
     {
       "surface": "באש",
-      "gloss": "근심하였고"
+      "gloss": "마음 아파하셨으며"
     },
     {
       "surface": "עלוהי",
-      "gloss": "—"
+      "gloss": "그것 때문에"
     },
     {
       "surface": "ועל",
-      "gloss": "그리고 ⟨on⟩"
+      "gloss": "그리고 …에게"
     },
     {
       "surface": "דניאל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "썼다"
+      "gloss": "두시고"
     },
     {
       "surface": "בל",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "לשיזבותה",
-      "gloss": "건져내려고"
+      "gloss": "건져 내려고"
     },
     {
       "surface": "ועד",
-      "gloss": "그리고 ⟨까지⟩"
+      "gloss": "그리고 …까지"
     },
     {
       "surface": "מעלי",
-      "gloss": "질"
+      "gloss": "지기"
     },
     {
       "surface": "שמשא",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "הוא",
-      "gloss": "그는"
+      "gloss": "그가"
     },
     {
       "surface": "משתדר",
-      "gloss": "애썼다"
+      "gloss": "애쓰셨다"
     },
     {
       "surface": "להצלותה",
-      "gloss": "그를 건져내려고"
+      "gloss": "구하려고"
     }
   ],
-  "timestamp": "2026-08-05T12:29:06.900892671Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:53.442785142Z",
+  "model": "glm-5.3"
 }

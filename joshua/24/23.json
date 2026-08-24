@@ -5,32 +5,32 @@
   "book": "joshua",
   "lang": "ko",
   "chapter": 24,
-  "translation": "\"그리고 이제 너희 가운데 있는 ⟨그⟩ 이방의 엘로힘들을 제거하여라. 그리고 ⟨את⟩ 너희의 마음을 이스라엘의 엘로힘이신 야훼께로 기울여라.\"",
+  "translation": "그러므로 이제 너희 가운데 있는 ⟨את⟩ 타족속의 신들을 제거하고, 너희 마음을 ⟨את⟩ 이스라엘의 엘로힘 야훼께로 기울이라.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "그리고 이제"
+      "gloss": "그러므로 이제"
     },
     {
       "surface": "הסירו",
-      "gloss": "제거하여라"
+      "gloss": "제거하라"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이방의 엘로힘들"
+      "marks": "타족속의 신들"
     },
     {
       "surface": "אלהי",
-      "gloss": "엘로힘들을"
+      "gloss": "…의 신들"
     },
     {
       "surface": "הנכר",
-      "gloss": "이방의"
+      "gloss": "타족속"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "~인"
     },
     {
       "surface": "בקרבכם",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "והטו",
-      "gloss": "그리고 기울여라"
+      "gloss": "기울이라"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "너희의 마음"
+      "marks": "너희 마음"
     },
     {
       "surface": "לבבכם",
-      "gloss": "너희의 마음을"
+      "gloss": "너희 마음"
     },
     {
       "surface": "אל",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "엘로힘이신"
+      "gloss": "엘로힘"
     },
     {
       "surface": "ישראל",
-      "gloss": "이스라엘의"
+      "gloss": "이스라엘"
     }
   ],
-  "timestamp": "2026-08-05T09:12:41.702369035Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:12.179534245Z",
+  "model": "glm-5.3"
 }

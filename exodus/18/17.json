@@ -5,49 +5,49 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 18,
-  "translation": "모셰의 장인이 그에게 말하였다. \"네가 하고 있는 이 일이 좋지 않다.\"",
+  "translation": "모셰의 장인이 그에게 말하였다. \"당신이 하고 있는 이 일이 좋지 않으니\"",
   "tokens": [
     {
-      "surface": "וַיֹּאמֶר",
-      "gloss": "말하셨다"
+      "surface": "ויאמר",
+      "gloss": "말하였다"
     },
     {
-      "surface": "חֹתֵן",
-      "gloss": "장인이"
+      "surface": "חתן",
+      "gloss": "장인"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "모셰의"
     },
     {
-      "surface": "אֵלָיו",
+      "surface": "אליו",
       "gloss": "그에게"
     },
     {
-      "surface": "לֹא",
-      "gloss": "아니다"
+      "surface": "לא",
+      "gloss": "not"
     },
     {
-      "surface": "טוֹב",
-      "gloss": "좋은"
+      "surface": "טוב",
+      "gloss": "좋다"
     },
     {
-      "surface": "הַדָּבָר",
-      "gloss": "그 일이"
+      "surface": "הדבר",
+      "gloss": "이 일"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "⟨that which⟩"
+      "surface": "אשר",
+      "gloss": "…하는"
     },
     {
-      "surface": "אַתָּה",
-      "gloss": "네가"
+      "surface": "אתה",
+      "gloss": "당신이"
     },
     {
-      "surface": "עֹשֶׂה",
-      "gloss": "하고 있는"
+      "surface": "עשה",
+      "gloss": "하고 있다"
     }
   ],
-  "timestamp": "2026-08-05T17:10:43.059054515Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:46.220898638Z",
+  "model": "glm-5.3"
 }

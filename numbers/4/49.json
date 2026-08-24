@@ -5,87 +5,87 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 4,
-  "translation": "야훼의 ⟨입⟩ ⟨말씀⟩대로 모셰의 손으로 그들을 점수(點數)하셨는데, 각 사람이 자기의 섬기는 일과 자기의 짐에 따라 ⟨점수를 받았다⟩. 그들의 점수된 자는 야훼께서 ⟨את⟩ 모셰에게 명령하신 대로였다.",
+  "translation": "야훼의 입의 말씀에 따라 모셰의 손으로 그들을 점검하셨다, 각 사람이 각 사람의 섬김에 따라, 그리고 그의 짐에 따라; 그렇게 그들이 점검되었으니, 야훼께서 ⟨את⟩ 모셰에게 명령하신 대로였다.",
   "tokens": [
     {
-      "surface": "עַל",
-      "gloss": "…대로"
+      "surface": "על",
+      "gloss": "~에 따라"
     },
     {
-      "surface": "פִּ֨י",
-      "gloss": "입"
+      "surface": "פי",
+      "gloss": "입의 말씀"
     },
     {
-      "surface": "יְהוָ֜ה",
-      "gloss": "야훼"
+      "surface": "יהוה",
+      "gloss": "야훼의"
     },
     {
-      "surface": "פָּקַ֤ד",
-      "gloss": "점수하셨다"
+      "surface": "פקד",
+      "gloss": "점검하셨다"
     },
     {
-      "surface": "אוֹתָם֙",
+      "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "그들"
+      "marks": "그들을"
     },
     {
-      "surface": "בְּיַד",
-      "gloss": "…의 손으로"
+      "surface": "ביד",
+      "gloss": "손으로"
     },
     {
-      "surface": "מֹשֶׁ֔ה",
-      "gloss": "모셰"
+      "surface": "משה",
+      "gloss": "모셰의"
     },
     {
-      "surface": "אִ֥ישׁ",
-      "gloss": "각 사람"
+      "surface": "איש",
+      "gloss": "각 사람이"
     },
     {
-      "surface": "אִ֛ישׁ",
-      "gloss": "각 사람"
+      "surface": "איש",
+      "gloss": "각 사람의"
     },
     {
-      "surface": "עַל",
-      "gloss": "…에 따라"
+      "surface": "על",
+      "gloss": "~에 따라"
     },
     {
-      "surface": "עֲבֹדָת֖וֹ",
-      "gloss": "그의 섬기는 일"
+      "surface": "עבדתו",
+      "gloss": "섬김에"
     },
     {
-      "surface": "וְעַל",
-      "gloss": "그리고 …에 따라"
+      "surface": "ועל",
+      "gloss": "그리고 ~에 따라"
     },
     {
-      "surface": "מַשָּׂא֑וֹ",
+      "surface": "משאו",
       "gloss": "그의 짐"
     },
     {
-      "surface": "וּפְקֻדָ֕יו",
-      "gloss": "그리고 그의 점수된 자"
+      "surface": "ופקדיו",
+      "gloss": "그리고 그의 점검된 자들"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "…한 것"
+      "surface": "אשר",
+      "gloss": "~것"
     },
     {
-      "surface": "צִוָּ֥ה",
+      "surface": "צוה",
       "gloss": "명령하신"
     },
     {
-      "surface": "יְהוָ֖ה",
-      "gloss": "야훼"
+      "surface": "יהוה",
+      "gloss": "야훼께서"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "모셰"
+      "marks": "모셰에게"
     },
     {
-      "surface": "מֹשֶֽׁה",
+      "surface": "משה",
       "gloss": "모셰"
     }
   ],
-  "timestamp": "2026-08-05T08:29:29.801441506Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:57.157610254Z",
+  "model": "glm-5.3"
 }

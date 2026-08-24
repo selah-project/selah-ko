@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 23,
-  "translation": "요시야의 나머지 행적과 그가 행한 모든 것, 그것들이 유다 왕들의 『날들의 말들』 책에 기록되어 있지 아니한가?",
+  "translation": "요시야의 나머지 행적과 그가 행한 모든 것 — 그것들이 『유다 왕들의 연대기 책』에 기록되어 있지 아니한가.",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "그리고 나머지"
+      "gloss": "나머지"
     },
     {
       "surface": "דברי",
-      "gloss": "…의"
+      "gloss": "행적"
     },
     {
       "surface": "יאשיהו",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "…것"
+      "gloss": "것"
     },
     {
       "surface": "עשה",
-      "gloss": "그가 행한"
+      "gloss": "행한"
     },
     {
       "surface": "הלא",
-      "gloss": "아니한가"
+      "gloss": "어찌 ~아닌가"
     },
     {
       "surface": "הם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "기록되어"
+      "gloss": "기록되어 있지"
     },
     {
       "surface": "על",
-      "gloss": "…에"
+      "gloss": "위에"
     },
     {
       "surface": "ספר",
@@ -53,21 +53,21 @@
     },
     {
       "surface": "דברי",
-      "gloss": "…의"
+      "gloss": "~의 기록"
     },
     {
       "surface": "הימים",
-      "gloss": "날들의"
+      "gloss": "날들"
     },
     {
       "surface": "למלכי",
-      "gloss": "…의"
+      "gloss": "왕들의"
     },
     {
       "surface": "יהודה",
-      "gloss": "유다 왕들"
+      "gloss": "유다"
     }
   ],
-  "timestamp": "2026-08-05T10:05:55.222768996Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:24.883211962Z",
+  "model": "glm-5.3"
 }

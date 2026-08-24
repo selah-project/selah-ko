@@ -5,61 +5,61 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 42,
-  "translation": "이것으로 너희가 시험을 받을 것이다. 파르오의 삶으로 말미암아, 너희의 가장 어린 형제가 이리로 오지 않으면 너희는 여기서 나가지 못하리라.",
+  "translation": "이것으로 너희가 시험받으리니, 파르오의 생명으로 맹세하노니, 너희 막내 동생이 여기로 오지 아니하면 너희는 여기서 나가지 못하리라.",
   "tokens": [
     {
-      "surface": "בְּזֹאת",
+      "surface": "בזאת",
       "gloss": "이것으로"
     },
     {
-      "surface": "תִּבָּחֵנוּ",
-      "gloss": "너희가 시험을 받을 것이다"
+      "surface": "תבחנו",
+      "gloss": "너희가 시험받으리니"
     },
     {
-      "surface": "חֵי",
-      "gloss": "삶으로"
+      "surface": "חי",
+      "gloss": "생명으로"
     },
     {
-      "surface": "פַרְעֹה",
-      "gloss": "파르오의"
+      "surface": "פרעה",
+      "gloss": "파르오"
     },
     {
-      "surface": "אִם",
-      "gloss": "만약"
+      "surface": "אם",
+      "gloss": "…아니하면"
     },
     {
-      "surface": "תֵּצְאוּ",
-      "gloss": "너희가 나가리라"
+      "surface": "תצאו",
+      "gloss": "너희는 나가지 못하리라"
     },
     {
-      "surface": "מִזֶּה",
+      "surface": "מזה",
       "gloss": "여기서"
     },
     {
-      "surface": "כִּי",
-      "gloss": "오직"
+      "surface": "כי",
+      "gloss": ""
     },
     {
-      "surface": "אִם",
-      "gloss": "～이면"
+      "surface": "אם",
+      "gloss": ""
     },
     {
-      "surface": "בְּבוֹא",
-      "gloss": "오는 것이"
+      "surface": "בבוא",
+      "gloss": "오지"
     },
     {
-      "surface": "אֲחִיכֶם",
-      "gloss": "너희 형제가"
+      "surface": "אחיכם",
+      "gloss": "너희 동생"
     },
     {
-      "surface": "הַקָּטֹן",
-      "gloss": "가장 어린"
+      "surface": "הקטן",
+      "gloss": "막내"
     },
     {
-      "surface": "הֵנָּה",
-      "gloss": "이리로"
+      "surface": "הנה",
+      "gloss": "여기로"
     }
   ],
-  "timestamp": "2026-08-05T17:09:06.416306420Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:49.693605912Z",
+  "model": "glm-5.3"
 }

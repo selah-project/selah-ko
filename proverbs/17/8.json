@@ -5,31 +5,31 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 17,
-  "translation": "뇌물은 그 소유자들의 눈에 헨의 돌이니, 그가 향하는 모든 곳마다 깨달음을 얻는다.",
+  "translation": "뇌물은 그 가진 자의 눈에 헨(은혜)의 돌과 같아서, 그가 어디로든 향하면 형통하다.",
   "tokens": [
     {
       "surface": "אבן",
-      "gloss": "돌은"
+      "gloss": "돌"
     },
     {
       "surface": "חן",
-      "gloss": "헨의"
+      "gloss": "헨(은혜)"
     },
     {
       "surface": "השחד",
-      "gloss": "뇌물"
+      "gloss": "그 뇌물은"
     },
     {
       "surface": "בעיני",
-      "gloss": "～의 눈에"
+      "gloss": "~의 눈에"
     },
     {
       "surface": "בעליו",
-      "gloss": "그 소유자들의"
+      "gloss": "그 가진 자"
     },
     {
       "surface": "אל",
-      "gloss": "～로"
+      "gloss": "향하여"
     },
     {
       "surface": "כל",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "～곳마다"
+      "gloss": "~하는 곳"
     },
     {
       "surface": "יפנה",
-      "gloss": "그가 향하는"
+      "gloss": "그가 향하면"
     },
     {
       "surface": "ישכיל",
-      "gloss": "깨달음을 얻는다"
+      "gloss": "형통하다"
     }
   ],
-  "timestamp": "2026-08-05T11:56:17.001231283Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:44.705878Z",
+  "model": "glm-5.3"
 }

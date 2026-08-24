@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 21,
-  "translation": "그러므로 그 곳을 브엘셰바라 불렀다. 거기서 그 둘이 맹세하였기 때문이다.",
+  "translation": "그러므로 그곳을 브엘-셰바라 불렀다. 거기서 그 둘이 맹세하였기 때문이다.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "on"
+      "gloss": "그"
     },
     {
       "surface": "כן",
-      "gloss": "그러므로"
+      "gloss": "때문에"
     },
     {
       "surface": "קרא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "למקום",
-      "gloss": "곳을"
+      "gloss": "그곳을"
     },
     {
       "surface": "ההוא",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "באר",
-      "gloss": "브엘"
+      "gloss": "브엘-"
     },
     {
       "surface": "שבע",
-      "gloss": "셰바라"
+      "gloss": "셰바"
     },
     {
       "surface": "כי",
-      "gloss": "때문이다"
+      "gloss": "때문에"
     },
     {
       "surface": "שם",
@@ -52,6 +52,6 @@
       "gloss": "그 둘이"
     }
   ],
-  "timestamp": "2026-08-05T17:53:50.054693070Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:40.417886363Z",
+  "model": "glm-5.3"
 }

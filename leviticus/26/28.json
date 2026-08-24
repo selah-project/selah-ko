@@ -5,54 +5,54 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 26,
-  "translation": "그러면 내가 너희와 함께 크리(거역)의 격노로行走하고, 나도 ⟨또한⟩ 너희를 징계하리니, 너희 죄들로 말미암아 일곱 배이리라.",
+  "translation": "그러면 나도 ⟨거스르는⟩ 진노 가운데서 너희와 함께 행하시며, 너희의 죄들 때문에 ⟨아직도⟩ 일곱 배로 너희를 ⟨את⟩ 징계하시리니, 바로 내가 그리하시리라.",
   "tokens": [
     {
-      "surface": "וְהָלַכְתִּי",
-      "gloss": "그러면 내가行走하리니"
+      "surface": "והלכתי",
+      "gloss": "행하시며"
     },
     {
-      "surface": "עִמָּכֶם",
+      "surface": "עמכם",
       "gloss": "너희와 함께"
     },
     {
-      "surface": "בְּחֵמַת",
-      "gloss": "격노로"
+      "surface": "בחמת",
+      "gloss": "진노 가운데서"
     },
     {
-      "surface": "קֶרִי",
-      "gloss": "크리(거역)의"
+      "surface": "קרי",
+      "gloss": "거스르는"
     },
     {
-      "surface": "וְיִסַּרְתִּי",
-      "gloss": "그리고 징계하리니"
+      "surface": "ויסרתי",
+      "gloss": "징계하시리니"
     },
     {
-      "surface": "אֶתְכֶם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "너희를"
+      "marks": "너희"
     },
     {
-      "surface": "אַף",
-      "gloss": "또한"
+      "surface": "אף",
+      "gloss": "아직도"
     },
     {
-      "surface": "אֲנִי",
-      "gloss": "나"
+      "surface": "אני",
+      "gloss": "바로 내가"
     },
     {
-      "surface": "שֶׁבַע",
-      "gloss": "일곱 배"
+      "surface": "שבע",
+      "gloss": "일곱 배로"
     },
     {
-      "surface": "עַל",
-      "gloss": "—로 말미암아"
+      "surface": "על",
+      "gloss": "때문에"
     },
     {
-      "surface": "חַטֹּאתֵיכֶם",
-      "gloss": "너희 죄들"
+      "surface": "חטאתיכם",
+      "gloss": "너희의 죄들"
     }
   ],
-  "timestamp": "2026-08-05T18:04:15.993650905Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:37.748565358Z",
+  "model": "glm-5.3"
 }

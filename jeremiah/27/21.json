@@ -5,73 +5,73 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 27,
-  "translation": "이는 만군의 야훼, 이스라엘의 엘로힘이시라, ⟨그⟩ 남은 기명들에 관하여 — 야훼의 집에, 그리고 유다 왕의 집에, 그리고 예루샬라임에 — 남아 있는 ⟨그⟩ 기명들에 관하여 이같이 말씀하셨기 때문이다.",
+  "translation": "이는 야훼 츠바옷, 이스라엘의 엘로힘께서 이같이 말씀하셨기 때문이다 — 야훼의 집과 유다 왕의 집과 예루샬라임에 남아 있는 그 기명들에 대하여.",
   "tokens": [
     {
-      "surface": "כִּ֣י",
-      "gloss": "이是因为"
+      "surface": "כי",
+      "gloss": "이는 … 때문이다"
     },
     {
-      "surface": "כֹ֥ה",
+      "surface": "כה",
       "gloss": "이같이"
     },
     {
-      "surface": "אָמַ֛ר",
+      "surface": "אמר",
       "gloss": "말씀하셨다"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "יהוה",
       "gloss": "야훼"
     },
     {
-      "surface": "צְבָא֖וֹת",
-      "gloss": "만군의"
+      "surface": "צבאות",
+      "gloss": "츠바옷"
     },
     {
-      "surface": "אֱלֹהֵ֣י",
-      "gloss": "엘로힘이시다"
+      "surface": "אלהי",
+      "gloss": "엘로힘"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "이스라엘의"
     },
     {
-      "surface": "עַל",
-      "gloss": "관하여"
+      "surface": "על",
+      "gloss": "에 대하여"
     },
     {
-      "surface": "הַכֵּלִ֗ים",
+      "surface": "הכלים",
       "gloss": "그 기명들"
     },
     {
-      "surface": "הַנּֽוֹתָרִים֙",
+      "surface": "הנותרים",
       "gloss": "남아 있는"
     },
     {
-      "surface": "בֵּ֣ית",
-      "gloss": "집에"
+      "surface": "בית",
+      "gloss": "집"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "야훼의"
     },
     {
-      "surface": "וּבֵ֥ית",
-      "gloss": "그리고 집에"
+      "surface": "ובית",
+      "gloss": "그리고 … 집"
     },
     {
-      "surface": "מֶֽלֶךְ",
+      "surface": "מלך",
       "gloss": "왕의"
     },
     {
-      "surface": "יְהוּדָ֖ה",
+      "surface": "יהודה",
       "gloss": "유다"
     },
     {
-      "surface": "וִירוּשָׁלִָֽם",
-      "gloss": "그리고 예루샬라임에"
+      "surface": "וירושלם",
+      "gloss": "그리고 예루샬라임"
     }
   ],
-  "timestamp": "2026-08-05T10:36:23.202855091Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:31:26.686904823Z",
+  "model": "glm-5.3"
 }

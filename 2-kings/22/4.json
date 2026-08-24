@@ -5,78 +5,78 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 22,
-  "translation": "힐키야후 대제사장에게 올라가라, 그가 ⟨את⟩ 집 야훼에 들여진 은전을 셈하기를, 문지기들이 백성에게서 거둔 그것을.",
+  "translation": "힐키야후 대(大)코헨에게 올라가라. 그가 야훼의 집에 들여진 ⟨את⟩ 은을 다 취합하게 하라. 그것은 문지기들이 ⟨את⟩ 백성에게서부터 거두어 모은 것이다.",
   "tokens": [
     {
-      "surface": "עֲלֵ֗ה",
+      "surface": "עלה",
       "gloss": "올라가라"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "…에게"
     },
     {
-      "surface": "חִלְקִיָּ֨הוּ֙",
+      "surface": "חלקיהו",
       "gloss": "힐키야후"
     },
     {
-      "surface": "הַכֹּהֵ֣ן",
-      "gloss": "제사장"
+      "surface": "הכהן",
+      "gloss": "코헨(제사장)"
     },
     {
-      "surface": "הַגָּד֔וֹל",
-      "gloss": "대(大)"
+      "surface": "הגדול",
+      "gloss": "대(大)…코헨"
     },
     {
-      "surface": "וְיַתֵּ֣ם",
-      "gloss": "그리고 …온전하게 하기를"
+      "surface": "ויתם",
+      "gloss": "그가 …다 취합하게 하라"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "은전"
+      "marks": "은"
     },
     {
-      "surface": "הַכֶּ֔סֶף",
-      "gloss": "은전"
+      "surface": "הכסף",
+      "gloss": "은"
     },
     {
-      "surface": "הַמּוּבָ֖א",
+      "surface": "המובא",
       "gloss": "들여진"
     },
     {
-      "surface": "בֵּ֣ית",
-      "gloss": "집"
+      "surface": "בית",
+      "gloss": "…의 집"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "gloss": "야훼"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "그것을"
+      "surface": "אשר",
+      "gloss": "…것"
     },
     {
-      "surface": "אָסְפ֛וּ",
-      "gloss": "거둔"
+      "surface": "אספו",
+      "gloss": "거두어 모은"
     },
     {
-      "surface": "שֹׁמְרֵ֥י",
-      "gloss": "지키는 자들"
+      "surface": "שמרי",
+      "gloss": "문지기들"
     },
     {
-      "surface": "הַסַּ֖ף",
-      "gloss": "문"
+      "surface": "הסף",
+      "gloss": "문지(門-)…의 문턱 지키는 이"
     },
     {
-      "surface": "מֵאֵ֥ת",
-      "gloss": "…에게서"
+      "surface": "מאת",
+      "gloss": "⟨את⟩ …에게서부터"
     },
     {
-      "surface": "הָעָֽם",
+      "surface": "העם",
       "gloss": "백성"
     }
   ],
-  "timestamp": "2026-08-05T10:05:18.060320931Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:40:50.194557837Z",
+  "model": "glm-5.3"
 }

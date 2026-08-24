@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 13,
-  "translation": "바라보아소서 나를 응답하소서, 야훼 내 엘로힘이시여. 내 눈을 밝히사, 내가 죽음의 잠을 자지 않게 하소서.",
+  "translation": "돌아보시고 저에게 응답하소서, 야훼 저의 엘로힘이여. 저의 눈을 비추어 주소서, 저가 죽음의 잠을 자지 않도록.",
   "tokens": [
     {
       "surface": "הביטה",
-      "gloss": "바라보아소서"
+      "gloss": "돌아보시고"
     },
     {
       "surface": "ענני",
-      "gloss": "나를 응답하소서"
+      "gloss": "저에게 응답하소서"
     },
     {
       "surface": "יהוה",
@@ -21,29 +21,29 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "내 엘로힘이시여"
+      "gloss": "저의 엘로힘이여"
     },
     {
       "surface": "האירה",
-      "gloss": "밝히사"
+      "gloss": "비추어 주소서"
     },
     {
       "surface": "עיני",
-      "gloss": "내 눈을"
+      "gloss": "저의 눈을"
     },
     {
       "surface": "פן",
-      "gloss": "lest"
+      "gloss": "…하지 않도록"
     },
     {
       "surface": "אישן",
-      "gloss": "내가 잠을 자"
+      "gloss": "잠을 자지"
     },
     {
       "surface": "המות",
       "gloss": "죽음의"
     }
   ],
-  "timestamp": "2026-08-05T18:26:03.015539518Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:27.007443134Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "ko",
   "chapter": 8,
-  "translation": "이는 이 백성이 천천히 흐르는 실로아의 물을 ⟨⟨את⟩⟩ 경멸하였고, 레찐과 르말랴후의 아들을 기뻐하였음이라.",
+  "translation": "이 백성이 부드럽게 흐르는 ⟨את⟩ 쉴로아의 물들을 멸시하고 레친과 르말야후의 아들과 ⟨את⟩ 함께 기뻐하는 까닭에",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "이는"
+      "gloss": "까닭에"
     },
     {
       "surface": "כי",
-      "gloss": "때문에"
+      "gloss": "…하는"
     },
     {
       "surface": "מאס",
-      "gloss": "경멸하였음으로"
+      "gloss": "멸시하고"
     },
     {
       "surface": "העם",
-      "gloss": "백성이"
+      "gloss": "이 백성이"
     },
     {
       "surface": "הזה",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "실로아의 물"
+      "marks": "쉴로아의 물들을"
     },
     {
       "surface": "מי",
-      "gloss": "물"
+      "gloss": "물들"
     },
     {
       "surface": "השלח",
-      "gloss": "실로아의"
+      "gloss": "쉴로아의"
     },
     {
       "surface": "ההלכים",
@@ -46,30 +46,30 @@
     },
     {
       "surface": "לאט",
-      "gloss": "천천히"
+      "gloss": "부드럽게"
     },
     {
       "surface": "ומשוש",
-      "gloss": "그리고 기뻐하였음으로"
+      "gloss": "기뻐하고"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "레찐"
+      "gloss": "⟨את⟩ 함께",
+      "marks": "레친"
     },
     {
       "surface": "רצין",
-      "gloss": "레찐"
+      "gloss": "레친"
     },
     {
       "surface": "ובן",
-      "gloss": "그리고 아들을"
+      "gloss": "아들과"
     },
     {
       "surface": "רמליהו",
-      "gloss": "르말랴후"
+      "gloss": "르말야후"
     }
   ],
-  "timestamp": "2026-08-05T10:08:42.538191218Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:59.710029774Z",
+  "model": "glm-5.3"
 }

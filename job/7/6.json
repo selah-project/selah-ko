@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "ko",
   "chapter": 7,
-  "translation": "나의 날들은 베틀보다 빠르고 희망 없이 다하여진다.",
+  "translation": "나의 날들은 베틀의 북보다 빠르니, 소망 없이 다하였다.",
   "tokens": [
     {
       "surface": "ימי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "קלו",
-      "gloss": "빠르다"
+      "gloss": "빠르니"
     },
     {
       "surface": "מני",
-      "gloss": "～보다"
+      "gloss": "보다"
     },
     {
       "surface": "ארג",
-      "gloss": "베틀"
+      "gloss": "베틀의 북"
     },
     {
       "surface": "ויכלו",
-      "gloss": "그리고 다하여진다"
+      "gloss": "다하였다"
     },
     {
       "surface": "באפס",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "תקוה",
-      "gloss": "희망"
+      "gloss": "소망"
     }
   ],
-  "timestamp": "2026-08-05T12:02:39.061322805Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:52.935717531Z",
+  "model": "glm-5.3"
 }

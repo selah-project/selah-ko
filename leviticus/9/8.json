@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 9,
-  "translation": "아하론이 제단으로 나아가, ⟨את⟩ 자기를 위한 속죄 제물인 송아지를 잡았다.",
+  "translation": "아론이 제단으로 가까이 나아가, 자기 것인 하타트(속죄 제물) 수송아지를 ⟨את⟩ 잡았다.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "나아가"
+      "gloss": "나아가다"
     },
     {
       "surface": "אהרן",
-      "gloss": "아하론이"
+      "gloss": "아론"
     },
     {
       "surface": "אל",
@@ -30,25 +30,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "송아지"
+      "marks": "수송아지"
     },
     {
       "surface": "עגל",
-      "gloss": "송아지"
+      "gloss": "수송아지"
     },
     {
       "surface": "החטאת",
-      "gloss": "속죄 제물인"
+      "gloss": "하타트(속죄 제물)"
     },
     {
       "surface": "אשר",
-      "gloss": "which\/that"
+      "gloss": "⟨것인⟩"
     },
     {
       "surface": "לו",
-      "gloss": "자기를 위한"
+      "gloss": "자기 것인"
     }
   ],
-  "timestamp": "2026-08-05T08:14:33.556046244Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:05.420261673Z",
+  "model": "glm-5.3"
 }

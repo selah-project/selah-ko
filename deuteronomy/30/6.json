@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 30,
-  "translation": "그리고 야훼 네 엘로힘이 ⟨את⟩ 네 마음과 ⟨את⟩ 네 씨의 마음에 할례를 베푸실 것이다. 네 마음 전부와 네 네페쉬 전부로 야훼 네 엘로힘을 사랑하기 위하여, 네 생명을 위하여.",
+  "translation": "네 엘로힘 야훼께서 ⟨את⟩ 네 마음과 ⟨את⟩ 네 자손의 마음에 할례를 베푸셔서, 네가 네 온 마음과 온 네페쉬로 네 엘로힘 야훼를 사랑하게 하실 것이다 — 네 생명을 위하여.",
   "tokens": [
     {
       "surface": "ומל",
-      "gloss": "할례를 베푸실 것이다"
+      "gloss": "할례를 베푸셔서"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼가"
+      "gloss": "야훼"
     },
     {
       "surface": "אלהיך",
-      "gloss": "네 엘로힘이"
+      "gloss": "네 엘로님이"
     },
     {
       "surface": "את",
@@ -26,29 +26,29 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "네 마음에"
+      "gloss": "네 마음"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "네 씨의 마음"
+      "marks": "네 자손의 마음"
     },
     {
       "surface": "לבב",
-      "gloss": "마음에"
+      "gloss": "…의 마음"
     },
     {
       "surface": "זרעך",
-      "gloss": "네 씨의"
+      "gloss": "네 자손"
     },
     {
       "surface": "לאהבה",
-      "gloss": "사랑하기 위하여"
+      "gloss": "사랑하게 하실"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "야훼"
+      "marks": "네 엘로님在小 야훼"
     },
     {
       "surface": "יהוה",
@@ -56,33 +56,33 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "네 엘로힘을"
+      "gloss": "네 엘로님"
     },
     {
       "surface": "בכל",
-      "gloss": "～전부로"
+      "gloss": "온"
     },
     {
       "surface": "לבבך",
-      "gloss": "네 마음"
+      "gloss": "마음으로"
     },
     {
       "surface": "ובכל",
-      "gloss": "그리고 ～전부로"
+      "gloss": "그리고 온"
     },
     {
       "surface": "נפשך",
-      "gloss": "네 네페쉬"
+      "gloss": "네페쉬로"
     },
     {
       "surface": "למען",
-      "gloss": "～을 위하여"
+      "gloss": "…을 위하여"
     },
     {
       "surface": "חייך",
       "gloss": "네 생명"
     }
   ],
-  "timestamp": "2026-08-05T09:01:07.608520509Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:05.256763143Z",
+  "model": "glm-5.3"
 }

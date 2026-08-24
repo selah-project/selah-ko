@@ -5,19 +5,19 @@
   "book": "job",
   "lang": "ko",
   "chapter": 40,
-  "translation": "그의 뼈들은 구리管的 같고, 그의 뼈대는 쇠막대기 같다.",
+  "translation": "그의 뼈는 청동의 파이프요, 그의 뼈대는 무쇠 주괴와 같다.",
   "tokens": [
     {
       "surface": "עצמיו",
-      "gloss": "그의 뼈들은"
+      "gloss": "그의 뼈는"
     },
     {
       "surface": "אפיקי",
-      "gloss": "管 같고"
+      "gloss": "파이프"
     },
     {
       "surface": "נחושה",
-      "gloss": "구리"
+      "gloss": "청동의"
     },
     {
       "surface": "גרמיו",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "כמטיל",
-      "gloss": "막대기 같다"
+      "gloss": "주괴와 같다"
     },
     {
       "surface": "ברזל",
-      "gloss": "쇠"
+      "gloss": "무쇠"
     }
   ],
-  "timestamp": "2026-08-05T12:12:07.539280824Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:46.264029671Z",
+  "model": "glm-5.3"
 }

@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 119,
-  "translation": "나는 그대의 말씀을因해 기뻐한다, 큰 전리품을 찾은 ⟨자⟩ ⟨같이⟩.",
+  "translation": "나는 주의 말씀을 ⟨인하여⟩ 기뻐하니, 많은 전리품을 찾은 ⟨자⟩ 같다.",
   "tokens": [
     {
-      "surface": "שש",
-      "gloss": "기뻐한다"
+      "surface": "שָׂשׂ",
+      "gloss": "기뻐하니"
     },
     {
-      "surface": "אנכי",
+      "surface": "אָנֹכִי",
       "gloss": "나는"
     },
     {
-      "surface": "על",
-      "gloss": "因해"
+      "surface": "עַל",
+      "gloss": "⟨인하여⟩"
     },
     {
-      "surface": "אמרתך",
-      "gloss": "그대의 말씀을"
+      "surface": "אִמְרָתֶךָ",
+      "gloss": "주의 말씀을"
     },
     {
-      "surface": "כמוצא",
-      "gloss": "찾은 ⟨자⟩ ⟨같이⟩"
+      "surface": "כְּמוֹצֵא",
+      "gloss": "찾은 ⟨자⟩ 같다"
     },
     {
-      "surface": "שלל",
+      "surface": "שָׁלָל",
       "gloss": "전리품을"
     },
     {
-      "surface": "רב",
-      "gloss": "큰"
+      "surface": "רָב",
+      "gloss": "많은"
     }
   ],
-  "timestamp": "2026-08-05T11:47:13.944130937Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:21.008826845Z",
+  "model": "glm-5.3"
 }

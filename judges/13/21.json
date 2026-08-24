@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 13,
-  "translation": "그리고 야훼의 사자가 마노아와 그의 아내에게 더 이상 나타나지 아니하시니, 그때 마노아가 그가 야훼의 사자임을 알았다.",
+  "translation": "야훼의 천사는 마노아와 그의 아내에게 더 나타나지 아니하셨다. 그 때에 마노아가 그가 야훼의 천사인 줄 알았다.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "그리고 … 아니"
+      "gloss": "아니하셨다"
     },
     {
       "surface": "יסף",
-      "gloss": "더하셨다"
+      "gloss": "더 (다시 더하다)"
     },
     {
       "surface": "עוד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מלאך",
-      "gloss": "사자가"
+      "gloss": "천사는"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "להראה",
-      "gloss": "나타나셨다"
+      "gloss": "나타나"
     },
     {
       "surface": "אל",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "그리고 … 에게"
+      "gloss": "과"
     },
     {
       "surface": "אשתו",
-      "gloss": "그의 아내"
+      "gloss": "그의 아내에게"
     },
     {
       "surface": "אז",
-      "gloss": "그때"
+      "gloss": "그 때에"
     },
     {
       "surface": "ידע",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "인 줄"
     },
     {
       "surface": "מלאך",
-      "gloss": "사자"
+      "gloss": "천사"
     },
     {
       "surface": "יהוה",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "이심을"
+      "gloss": "그가 …이다"
     }
   ],
-  "timestamp": "2026-08-05T09:17:57.800299216Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:42.474940485Z",
+  "model": "glm-5.3"
 }

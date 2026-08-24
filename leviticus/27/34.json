@@ -5,58 +5,58 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 27,
-  "translation": "이것들이 야훼께서 시나이 산에서 이스라엘 자손에게 ⟨⟨את⟩⟩ 모셰에게 명하신 ⟨그⟩ 명령들이다.",
+  "translation": "이것들이 야훼께서 시내 산에서 이스라엘 자손에게 모셰에게 명령하신 계명들이다.",
   "tokens": [
     {
-      "surface": "אֵ֣לֶּה",
+      "surface": "אלה",
       "gloss": "이것들이"
     },
     {
-      "surface": "הַמִּצְוֺ֗ת",
-      "gloss": "명령들"
+      "surface": "המצות",
+      "gloss": "계명들"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
-      "gloss": "—"
+      "surface": "אשר",
+      "gloss": "어느"
     },
     {
-      "surface": "צִוָּ֧ה",
-      "gloss": "명하신"
+      "surface": "צוה",
+      "gloss": "명령하신"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "야훼께서"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "모셰"
     },
     {
-      "surface": "מֹשֶׁ֖ה",
-      "gloss": "모셰"
+      "surface": "משה",
+      "gloss": "모셰에게"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "에게"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "자손"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "이스라엘"
     },
     {
-      "surface": "בְּהַ֖ר",
+      "surface": "בהר",
       "gloss": "산에서"
     },
     {
-      "surface": "סִינָֽי",
-      "gloss": "시나이"
+      "surface": "סיני",
+      "gloss": "시내"
     }
   ],
-  "timestamp": "2026-08-05T08:26:03.239024686Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:27.963841042Z",
+  "model": "glm-5.3"
 }

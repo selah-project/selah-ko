@@ -5,62 +5,62 @@
   "book": "zephaniah",
   "lang": "ko",
   "chapter": 2,
-  "translation": "내가 모압의 모욕과 암몬 자손들의 비방을 들었는데, 그들이 ⟨את⟩ 내 백성을 모욕하고 자기们的 경계를 넘어 거만하게 행하였음이라.",
+  "translation": "모아브의 모욕과 암몬 자손들의 능욕을 내가 들었다. 그들이 ⟨את⟩ 내 백성을 모욕하였고 그들의 경계를 거슬러 스스로 크게 높였다.",
   "tokens": [
     {
-      "surface": "שמעתי",
-      "gloss": "내가 … 들었는데"
+      "surface": "שָׁמַ֨עְתִּי֙",
+      "gloss": "내가 들었다"
     },
     {
-      "surface": "חרפת",
-      "gloss": "모욕"
+      "surface": "חֶרְפַּ֣ת",
+      "gloss": "모욕을"
     },
     {
-      "surface": "מואב",
-      "gloss": "모압의"
+      "surface": "מוֹאָ֔ב",
+      "gloss": "모아브의"
     },
     {
-      "surface": "וגדופי",
-      "gloss": "비방"
+      "surface": "וְגִדּוּפֵ֖י",
+      "gloss": "능욕을"
     },
     {
-      "surface": "בני",
+      "surface": "בְּנֵ֣י",
       "gloss": "자손들의"
     },
     {
-      "surface": "עמון",
+      "surface": "עַמּ֑וֹן",
       "gloss": "암몬"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֤ר",
       "gloss": "그들이"
     },
     {
-      "surface": "חרפו",
-      "gloss": "모욕하고"
+      "surface": "חֵֽרְפוּ֙",
+      "gloss": "모욕하였고"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "내 백성"
+      "marks": "내 백성을"
     },
     {
-      "surface": "עמי",
-      "gloss": "내 백성을"
+      "surface": "עַמִּ֔י",
+      "gloss": "내 백성"
     },
     {
-      "surface": "ויגדילו",
-      "gloss": "거만하게 행하였음이라"
+      "surface": "וַיַּגְדִּ֖ילוּ",
+      "gloss": "스스로 크게 높였다"
     },
     {
-      "surface": "על",
-      "gloss": "넘어"
+      "surface": "עַל",
+      "gloss": "거슬러"
     },
     {
-      "surface": "גבולם",
-      "gloss": "그들의 경계를"
+      "surface": "גְּבוּלָֽם",
+      "gloss": "그들의 경계"
     }
   ],
-  "timestamp": "2026-08-05T11:17:21.587517926Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:34:47.360968750Z",
+  "model": "glm-5.3"
 }

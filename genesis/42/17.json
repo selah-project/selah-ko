@@ -5,20 +5,19 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 42,
-  "translation": "그리고 그가 ⟨그⟩들을 감옥에 모아 넣으셨다 — 삼 일 동안.",
+  "translation": "그가 ⟨⟨את⟩ 그들을⟩ 함께 감옥에 가두니, 사흘이었다.",
   "tokens": [
     {
       "surface": "ויאסף",
-      "gloss": "그리고 모아 넣으셨다"
+      "gloss": "가두니"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "그들"
+      "gloss": "⟨את⟩ 그들을"
     },
     {
       "surface": "אל",
-      "gloss": "～로"
+      "gloss": "안으로"
     },
     {
       "surface": "משמר",
@@ -26,13 +25,13 @@
     },
     {
       "surface": "שלשת",
-      "gloss": "삼"
+      "gloss": "셋의"
     },
     {
       "surface": "ימים",
-      "gloss": "일"
+      "gloss": "날들"
     }
   ],
-  "timestamp": "2026-08-05T18:35:24.876292438Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:04.810412513Z",
+  "model": "glm-5.3"
 }

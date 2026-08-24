@@ -1,1 +1,57 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "ezekiel 27:19", "book": "ezekiel", "lang": "ko", "chapter": 27, "translation": "베단과 야완은 우잘로부터 네 물품 가운데 ⟨두었으니⟩ — 가공한 철과 카씨아와 향초 갈대가 네 교역품 가운데 있었다.", "tokens": [{"surface": "וְדָ֤ן", "gloss": "그리고 דן"}, {"surface": "וְיָוָן֙", "gloss": "그리고 יָוָן"}, {"surface": "מְאוּזָּ֔ל", "gloss": "מְאוּזָּל"}, {"surface": "בְּעִזְבוֹנַ֖יִךְ", "gloss": "네 물품들로"}, {"surface": "נָתָ֑נוּ", "gloss": "그들이 주었다"}, {"surface": "בַּרְזֶ֤ל", "gloss": "철을"}, {"surface": "עָשׁוֹת֙", "gloss": "광택이 나게 한"}, {"surface": "קִדָּ֣ה", "gloss": "계피를"}, {"surface": "וְקָנֶ֔ה", "gloss": "그리고 향초를"}, {"surface": "בְּמַעֲרָבֵ֖ךְ", "gloss": "네 시장에서"}, {"surface": "הָיָֽה", "gloss": "있었다"}], "timestamp": "2026-08-05T19:47:41.270898090Z", "model": "glm-5.2"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 27:19",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 27,
+  "translation": "베단과 야완이 우잘로부터 네 물물교역에 넘겼다 — 닦은 쇠, 키다(계수 나무 껍질)와 향 갈대를; 그것이 네 시장에 있었다.",
+  "tokens": [
+    {
+      "surface": "ודן",
+      "gloss": "베단과"
+    },
+    {
+      "surface": "ולון",
+      "gloss": "야완"
+    },
+    {
+      "surface": "מאוזל",
+      "gloss": "우잘로부터"
+    },
+    {
+      "surface": "בעזבוניך",
+      "gloss": "네 물물교역에"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "넘겼다"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "쇠"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "닦은"
+    },
+    {
+      "surface": "קדה",
+      "gloss": "키다"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "향 갈대"
+    },
+    {
+      "surface": "במערבך",
+      "gloss": "네 시장에"
+    },
+    {
+      "surface": "היה",
+      "gloss": "있었다"
+    }
+  ],
+  "timestamp": "2026-08-24T15:33:02.302549285Z",
+  "model": "glm-5.3"
+}

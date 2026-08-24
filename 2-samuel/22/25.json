@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "ko",
   "chapter": 22,
-  "translation": "그리하여 야훼께서 내게 갚아 주셨다 — 내 의에 따라, 내 순결에 따라, 그의 눈앞에서.",
+  "translation": "그러므로 야훼께서 내 의(體다카)대로, 눈앞에서의 내 순결대로 내게 갚아 주셨다.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "그리하여 갚아 주셨다"
+      "gloss": "갚아 주셨다"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼께서"
+      "gloss": "야훼"
     },
     {
       "surface": "לי",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "כצדקתי",
-      "gloss": "내 의에 따라"
+      "gloss": "내 의(體다카)대로"
     },
     {
       "surface": "כברי",
-      "gloss": "내 순결에 따라"
+      "gloss": "내 순결대로"
     },
     {
       "surface": "לנגד",
-      "gloss": "～앞에서"
+      "gloss": "눈앞에서의"
     },
     {
       "surface": "עיניו",
       "gloss": "그의 눈"
     }
   ],
-  "timestamp": "2026-08-05T09:43:26.179149754Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:27:57.653138116Z",
+  "model": "glm-5.3"
 }

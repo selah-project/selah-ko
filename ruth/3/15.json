@@ -5,73 +5,73 @@
   "book": "ruth",
   "lang": "ko",
   "chapter": 3,
-  "translation": "그가 말하였다 — 네게 있는 그 겉옷을 가져오고, 그것을 잡아라. 그녀가 그것을 잡으니, 그가 보리 여섯 ⟨되⟩를 재고 그녀에게 얹었다. 그가 ⟨그⟩ 성읍으로 들어갔다.",
+  "translation": "그가 말하였다. \"네게 걸쳐진 그 숄을 이리 가져오고, 그것을 잡아라.\" 그녀가 그것을 잡으니, 그가 보리 여섯 되를 되어 그것을 그녀에게 얹었다. 그리고 그가 ⟨그⟩ 성읍으로 들어갔다.",
   "tokens": [
     {
-      "surface": "וַיֹּ֗אמֶר",
-      "gloss": "그가 말하였다"
+      "surface": "ויאמר",
+      "gloss": "말하였다"
     },
     {
-      "surface": "הָ֠בִי",
+      "surface": "הבי",
       "gloss": "가져오라"
     },
     {
-      "surface": "הַמִּטְפַּ֧חַת",
-      "gloss": "그 겉옷을"
+      "surface": "המטפחת",
+      "gloss": "그 숄을"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "그것이"
     },
     {
-      "surface": "עָלַ֛יִךְ",
-      "gloss": "네게 있는"
+      "surface": "עליך",
+      "gloss": "네게 걸쳐진"
     },
     {
-      "surface": "וְאֶֽחֳזִי",
+      "surface": "ואחזי",
       "gloss": "잡아라"
     },
     {
-      "surface": "בָ֖הּ",
+      "surface": "בה",
       "gloss": "그것을"
     },
     {
-      "surface": "וַתֹּ֣אחֶז",
-      "gloss": "그녀가 잡으니"
+      "surface": "ותאחז",
+      "gloss": "잡으니"
     },
     {
-      "surface": "בָּ֑הּ",
+      "surface": "בה",
       "gloss": "그것을"
     },
     {
-      "surface": "וַיָּ֤מָד",
-      "gloss": "그가 재고"
+      "surface": "וימד",
+      "gloss": "되어"
     },
     {
-      "surface": "שֵׁשׁ",
+      "surface": "שש",
       "gloss": "여섯"
     },
     {
-      "surface": "שְׂעֹרִים֙",
-      "gloss": "보리"
+      "surface": "שערים",
+      "gloss": "보리 되"
     },
     {
-      "surface": "וַיָּ֣שֶׁת",
+      "surface": "וישת",
       "gloss": "얹었다"
     },
     {
-      "surface": "עָלֶ֔יהָ",
+      "surface": "עליה",
       "gloss": "그녀에게"
     },
     {
-      "surface": "וַיָּבֹ֖א",
-      "gloss": "그가 들어갔다"
+      "surface": "ויבא",
+      "gloss": "들어갔다"
     },
     {
-      "surface": "הָעִֽיר",
-      "gloss": "⟨그⟩ 성읍으로"
+      "surface": "העיר",
+      "gloss": "성읍으로"
     }
   ],
-  "timestamp": "2026-08-05T12:16:44.893322287Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:04.284081083Z",
+  "model": "glm-5.3"
 }

@@ -1,1 +1,81 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "ezekiel 25:6", "book": "ezekiel", "lang": "ko", "chapter": 25, "translation": "이는 아도나이 야훼께서 이같이 말씀하셨기 때문이다: 네가 손뼉을 치고 발로 구르며, 온 마음의 멸시로 이스라엘 땅을 향해 기뻐하였으므로 —", "tokens": [{"surface": "כִּ֣י", "gloss": "이는 … 때문이다"}, {"surface": "כֹ֤ה", "gloss": "이같이"}, {"surface": "אָמַר֙", "gloss": "말씀하셨다"}, {"surface": "אֲדֹנָ֣י", "gloss": "אֲדֹנָי가"}, {"surface": "יְהוִ֔ה", "gloss": "야훼"}, {"surface": "יַ֚עַן", "gloss": "…하였으므로"}, {"surface": "מַחֲאָ֣ךָ", "gloss": "네가 쳤으므로"}, {"surface": "יָ֔ד", "gloss": "손(뼉을)"}, {"surface": "וְרַקְעֲךָ֖", "gloss": "그리고 네가 구르며"}, {"surface": "בְּרָ֑גֶל", "gloss": "발로"}, {"surface": "וַתִּשְׂמַ֤ח", "gloss": "그리고 기뻐하였으므로"}, {"surface": "בְּכָל", "gloss": "온"}, {"surface": "שָׂאטְךָ֙", "gloss": "멸시로"}, {"surface": "בְּנֶ֔פֶשׁ", "gloss": "마음의"}, {"surface": "אֶל", "gloss": "향해"}, {"surface": "אַדְמַ֖ת", "gloss": "땅을"}, {"surface": "יִשְׂרָאֵֽל", "gloss": "이스라엘"}], "timestamp": "2026-08-05T19:47:45.773569837Z", "model": "glm-5.2"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 25:6",
+  "book": "ezekiel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "이는 야훼 아도나이가 이같이 말씀하셨다 ⟨이기 때문이다⟩: 네가 손뼉을 치고 발로 구르며, 온 멸시를 네페쉬에 가득 담아 이스라엘의 땅을 향해 기뻐하였다.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "이는"
+    },
+    {
+      "surface": "כה",
+      "gloss": "이같이"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "말씀하셨다"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "아도나이"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "יען",
+      "gloss": "⟨이기 때문이다⟩"
+    },
+    {
+      "surface": "מחאך",
+      "gloss": "네가 손뼉을 치고"
+    },
+    {
+      "surface": "יד",
+      "gloss": "손"
+    },
+    {
+      "surface": "ורקעך",
+      "gloss": "발로 구르며"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "발로"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "기뻐하였다"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "온"
+    },
+    {
+      "surface": "שאטך",
+      "gloss": "멸시"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "네페쉬에"
+    },
+    {
+      "surface": "אל",
+      "gloss": "향해"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "땅"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
+    }
+  ],
+  "timestamp": "2026-08-24T15:33:15.109122046Z",
+  "model": "glm-5.3"
+}

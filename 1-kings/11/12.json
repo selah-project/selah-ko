@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ko",
   "chapter": 11,
-  "translation": "오직 네 날들에는 내가 그것을 행하지 않으리라. 네 아비 다윗을 위하여, 네 아들의 손에서 내가 그것을 찢으리라.",
+  "translation": "다만 네 날들에는 내가 그것을 행하지 않겠다. 네 아버지 다윗 때문에. 네 아들의 손에서 그것을 찢어 내겠다.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "오직"
+      "gloss": "다만"
     },
     {
       "surface": "בימיך",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "…아니"
     },
     {
       "surface": "אעשנה",
-      "gloss": "행하지"
+      "gloss": "행하지 않겠다"
     },
     {
       "surface": "למען",
-      "gloss": "～을 위하여"
+      "gloss": "…때문에"
     },
     {
       "surface": "דוד",
@@ -33,21 +33,21 @@
     },
     {
       "surface": "אביך",
-      "gloss": "네 아비"
+      "gloss": "네 아버지"
     },
     {
       "surface": "מיד",
-      "gloss": "～의 손에서"
+      "gloss": "…손에서"
     },
     {
       "surface": "בנך",
-      "gloss": "네 아들"
+      "gloss": "네 아들의"
     },
     {
       "surface": "אקרענה",
-      "gloss": "찢으리라"
+      "gloss": "찢어 내겠다"
     }
   ],
-  "timestamp": "2026-08-05T09:50:14.397375721Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:28:36.171180283Z",
+  "model": "glm-5.3"
 }

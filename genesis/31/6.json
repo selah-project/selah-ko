@@ -5,27 +5,27 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 31,
-  "translation": "\"그리고 너희도 알거니와, 내가 온 힘으로 ⟨את⟩ 너희 아버지를 섬겼다.\"",
+  "translation": "그리고 너희도 알았다. 내가 온 힘을 다하여 ⟨את⟩ 너희 아버지를 섬겼다는 것을.",
   "tokens": [
     {
       "surface": "ואתנה",
-      "gloss": "그리고 너희도"
+      "gloss": "너희도"
     },
     {
       "surface": "ידעתן",
-      "gloss": "알거니와"
+      "gloss": "알았다"
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "—이라는 것을"
     },
     {
       "surface": "בכל",
-      "gloss": "온"
+      "gloss": "온…을 다하여"
     },
     {
       "surface": "כחי",
-      "gloss": "힘으로"
+      "gloss": "힘"
     },
     {
       "surface": "עבדתי",
@@ -34,13 +34,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "너희 아버지"
+      "marks": "너희 아버지를"
     },
     {
       "surface": "אביכן",
       "gloss": "너희 아버지"
     }
   ],
-  "timestamp": "2026-08-05T18:34:45.762197240Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:18.161934632Z",
+  "model": "glm-5.3"
 }

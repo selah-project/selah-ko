@@ -1,1 +1,101 @@
-{"tier": "hand", "verse": 29, "ref": "1-samuel 25:29", "book": "1-samuel", "lang": "ko", "chapter": 25, "translation": "사람이 일어나 당신을 뒤쫓아 ⟨את⟩ 당신의 네페쉬를 찾을지라도, 내 주의 네페쉬는 당신의 엘로힘 야훼와 함께 생명의 묶음 안에 싸여 있을 것입니다. 그러나 당신의 원수들의 네페쉬는 그가 물매 바닥 가운데서 던지듯 던지실 것입니다.", "tokens": [{"surface": "ויקם", "gloss": "일어나다"}, {"surface": "אדם", "gloss": "사람이"}, {"surface": "לרדפך", "gloss": "당신을 뒤쫓아"}, {"surface": "ולבקש", "gloss": "찾으려 하여도"}, {"surface": "את", "gloss": "⟨את⟩"}, {"surface": "נפשך", "gloss": "당신의 네페쉬를"}, {"surface": "והיתה", "gloss": "있을 것이다"}, {"surface": "נפש", "gloss": "네페쉬는"}, {"surface": "אדני", "gloss": "내 주의"}, {"surface": "צרורה", "gloss": "싸여"}, {"surface": "בצרור", "gloss": "묶음 안에"}, {"surface": "החיים", "gloss": "생명의"}, {"surface": "את", "gloss": "함께"}, {"surface": "יהוה", "gloss": "야훼"}, {"surface": "אלהיך", "gloss": "당신의 엘로힘"}, {"surface": "ואת", "gloss": "그러나 ⟨את⟩"}, {"surface": "נפש", "gloss": "네페쉬는"}, {"surface": "איביך", "gloss": "당신의 원수들의"}, {"surface": "יקלענה", "gloss": "그것을 던지실 것이다"}, {"surface": "בתוך", "gloss": "가운데서"}, {"surface": "כף", "gloss": "바닥"}, {"surface": "הקלע", "gloss": "물매의"}], "model": "claude-fable-5"}
+{
+  "tier": "hand",
+  "verse": 29,
+  "ref": "1-samuel 25:29",
+  "book": "1-samuel",
+  "lang": "ko",
+  "chapter": 25,
+  "translation": "사람이 일어나 당신을 뒤쫓아 ⟨את⟩ 당신의 네페쉬를 찾을지라도, 내 주의 네페쉬는 당신의 엘로힘 야훼와 ⟨את⟩ 함께 생명의 묶음 안에 싸여 있을 것입니다. 그러나 당신의 원수들의 네페쉬는 그가 물매 바닥 가운데서 던지듯 던지실 것입니다.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "일어나다"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "사람이"
+    },
+    {
+      "surface": "לרדפך",
+      "gloss": "당신을 뒤쫓아"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "찾으려 하여도"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "당신의 네페쉬를"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "있을 것이다"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬는"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "내 주의"
+    },
+    {
+      "surface": "צרורה",
+      "gloss": "싸여"
+    },
+    {
+      "surface": "בצרור",
+      "gloss": "묶음 안에"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "생명의"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ 함께"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "당신의 엘로힘"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "그러나 ⟨את⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "네페쉬는"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "당신의 원수들의"
+    },
+    {
+      "surface": "יקלענה",
+      "gloss": "그것을 던지실 것이다"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "가운데서"
+    },
+    {
+      "surface": "כף",
+      "gloss": "바닥"
+    },
+    {
+      "surface": "הקלע",
+      "gloss": "물매의"
+    }
+  ],
+  "timestamp": "2026-08-24T15:51:17.311717786Z",
+  "model": "claude-fable-5"
+}

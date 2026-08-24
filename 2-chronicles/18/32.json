@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "ko",
   "chapter": 18,
-  "translation": "병거 대장들이 그가 이스라엘 왕이 아님을 보고, 그의 뒤에서 돌아섰다.",
+  "translation": "병거 대장들이 그가 이스라엘 왕이 아님을 보았을 때, 그들은 그의 뒤에서부터 돌이켰다.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "⟨일이 있었다⟩"
+      "gloss": "일어났다"
     },
     {
       "surface": "כראות",
-      "gloss": "보고"
+      "gloss": "보았을 때"
     },
     {
       "surface": "שרי",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨that⟩"
+      "gloss": "…임을"
     },
     {
       "surface": "לא",
-      "gloss": "아님을"
+      "gloss": "아니"
     },
     {
       "surface": "היה",
-      "gloss": "⟨is⟩"
+      "gloss": "⟨이다⟩"
     },
     {
       "surface": "מלך",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "돌아섰다"
+      "gloss": "그들은 돌이켰다"
     },
     {
       "surface": "מאחריו",
-      "gloss": "그의 뒤에서"
+      "gloss": "그의 뒤에서부터"
     }
   ],
-  "timestamp": "2026-08-05T12:57:55.305315308Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:45.265857037Z",
+  "model": "glm-5.3"
 }

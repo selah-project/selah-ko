@@ -5,85 +5,85 @@
   "book": "esther",
   "lang": "ko",
   "chapter": 6,
-  "translation": "기록된 것이 발견되었는데, 모르드개가 빅타나와 테레쉬 — 왕의 두 내시, 문지기들 — ⟨⟨그⟩⟩ 것이 아하슈에로쉬 왕에게 손을 대려 한 것을 ⟨그⟩ ⟨그들이⟩ 고발하였다.",
+  "translation": "그리고 거기에 기록된 것이 발견되었다. 모르드개가 왕 아하쉐로쉬에게 손을 대려 하였던, 문지기인 왕의 내시 둘 빅타나와 테레쉬를 고발하였다는 것이었다.",
   "tokens": [
     {
-      "surface": "וַיִּמָּצֵ֣א",
-      "gloss": "발견되었는데"
+      "surface": "וימצא",
+      "gloss": "발견되었다"
     },
     {
-      "surface": "כָת֗וּב",
+      "surface": "כתוב",
       "gloss": "기록된 것"
     },
     {
-      "surface": "אֲשֶׁר֩",
-      "gloss": "⟨것이⟩"
+      "surface": "אשר",
+      "gloss": "라는 것이"
     },
     {
-      "surface": "הִגִּ֨יד",
+      "surface": "הגיד",
       "gloss": "고발하였다"
     },
     {
-      "surface": "מָרְדֳּכַ֜י",
+      "surface": "מרדכי",
       "gloss": "모르드개가"
     },
     {
-      "surface": "עַל",
-      "gloss": "⟨그⟩"
+      "surface": "על",
+      "gloss": "을"
     },
     {
-      "surface": "בִּגְתָ֣נָא",
+      "surface": "בגתנא",
       "gloss": "빅타나"
     },
     {
-      "surface": "וָתֶ֗רֶשׁ",
+      "surface": "ותרש",
       "gloss": "테레쉬"
     },
     {
-      "surface": "שְׁנֵי֙",
-      "gloss": "두"
+      "surface": "שני",
+      "gloss": "둘"
     },
     {
-      "surface": "סָרִיסֵ֣י",
+      "surface": "סריסי",
       "gloss": "내시"
     },
     {
-      "surface": "הַמֶּ֔לֶךְ",
+      "surface": "המלך",
       "gloss": "왕의"
     },
     {
-      "surface": "מִשֹּׁמְרֵ֖י",
-      "gloss": "문지기들"
+      "surface": "משמרי",
+      "gloss": "지키는"
     },
     {
-      "surface": "הַסַּ֑ף",
+      "surface": "הסף",
       "gloss": "문"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
-      "gloss": "⟨그들이⟩"
+      "surface": "אשר",
+      "gloss": "그들이"
     },
     {
-      "surface": "בִּקְשׁוּ֙",
-      "gloss": "구하였다"
+      "surface": "בקשו",
+      "gloss": "도모하였다"
     },
     {
-      "surface": "לִשְׁלֹ֣חַ",
+      "surface": "לשלח",
       "gloss": "대려"
     },
     {
-      "surface": "יָ֔ד",
+      "surface": "יד",
       "gloss": "손을"
     },
     {
-      "surface": "בַּמֶּ֖לֶךְ",
+      "surface": "במלך",
       "gloss": "왕에게"
     },
     {
-      "surface": "אֲחַשְׁוֵרֽוֹשׁ",
-      "gloss": "아하슈에로쉬"
+      "surface": "אחשורוש",
+      "gloss": "아하쉐로쉬"
     }
   ],
-  "timestamp": "2026-08-05T12:23:37.183235039Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:37.548115497Z",
+  "model": "glm-5.3"
 }

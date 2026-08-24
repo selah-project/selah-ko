@@ -5,31 +5,31 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 17,
-  "translation": "나에게 ⟨⟨두려움이⟩⟩ 되지 마십시오. 재앙의 날에 당신은 나의 피난처이십니다.",
+  "translation": "제게 멸망이 되지 마시기를. 재앙의 날에 저의 피난처는 당신이십니다.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "아니"
+      "gloss": "하지 마시기를"
     },
     {
       "surface": "תהיה",
-      "gloss": "되지 마십시오"
+      "gloss": "되지"
     },
     {
       "surface": "לי",
-      "gloss": "나에게"
+      "gloss": "제게"
     },
     {
       "surface": "למחתה",
-      "gloss": "두려움이"
+      "gloss": "멸망"
     },
     {
       "surface": "מחסי",
-      "gloss": "나의 피난처"
+      "gloss": "저의 피난처"
     },
     {
       "surface": "אתה",
-      "gloss": "당신은"
+      "gloss": "당신이십니다"
     },
     {
       "surface": "ביום",
@@ -40,6 +40,6 @@
       "gloss": "재앙의"
     }
   ],
-  "timestamp": "2026-08-05T10:32:44.833177541Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:31:50.332538937Z",
+  "model": "glm-5.3"
 }

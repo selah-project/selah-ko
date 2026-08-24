@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 24,
-  "translation": "어떤 남자가 새 아내를 맞이하면, 그는 군대에 나가지 않고, 어떤 일에도 그에게 부과되지 않으며, 한 해 동안 자기 집에서 의무가 없을 것이니, ⟨그⟩가 ⟨את⟩ 자기 아내, 곧 맞이한 아내를 기쁘게 할 것이다.",
+  "translation": "어떤 사람이 새 아내를 취하면, 그는 군대에 나가지 않으며, 어떤 일로도 그에게 부과되지 않는다. 그는 한 해 동안 자기 집을 위해 책무 없이 지내며, 자기가 취한 아내를 기쁘게 한다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "～하면"
+      "gloss": "~하면"
     },
     {
       "surface": "יקח",
-      "gloss": "맞이하면"
+      "gloss": "취하면"
     },
     {
       "surface": "איש",
-      "gloss": "남자가"
+      "gloss": "사람이"
     },
     {
       "surface": "אשה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "~않는다"
     },
     {
       "surface": "יצא",
-      "gloss": "나가며"
+      "gloss": "나가지"
     },
     {
       "surface": "בצבא",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "그리고 아니"
+      "gloss": "그리고 ~않는다"
     },
     {
       "surface": "יעבר",
-      "gloss": "지나갈"
+      "gloss": "부과되지"
     },
     {
       "surface": "עליו",
@@ -53,54 +53,54 @@
     },
     {
       "surface": "לכל",
-      "gloss": "모든"
+      "gloss": "어떤 일로도"
     },
     {
       "surface": "דבר",
-      "gloss": "일에"
+      "gloss": "일"
     },
     {
       "surface": "נקי",
-      "gloss": "의무가 없을"
+      "gloss": "책무 없이"
     },
     {
       "surface": "יהיה",
-      "gloss": "것이다"
+      "gloss": "지내며"
     },
     {
       "surface": "לביתו",
-      "gloss": "자기 집에서"
+      "gloss": "자기 집을 위해"
     },
     {
       "surface": "שנה",
-      "gloss": "해"
+      "gloss": "한 해"
     },
     {
       "surface": "אחת",
-      "gloss": "한"
+      "gloss": "하나의"
     },
     {
       "surface": "ושמח",
-      "gloss": "그리고 기쁘게 할"
+      "gloss": "기쁘게 한다"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "자기 아내"
+      "marks": "자기 아내를"
     },
     {
       "surface": "אשתו",
-      "gloss": "자기 아내"
+      "gloss": "자기 아내를"
     },
     {
       "surface": "אשר",
-      "gloss": "곧"
+      "gloss": "~를"
     },
     {
       "surface": "לקח",
-      "gloss": "맞이한"
+      "gloss": "취한"
     }
   ],
-  "timestamp": "2026-08-05T08:58:32.313933228Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:38.496330803Z",
+  "model": "glm-5.3"
 }

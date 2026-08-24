@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 31,
-  "translation": "그는 ⟨את⟩ 그의 형제들을 데리고 그를 추적하였으니, 칠 일(七日) 길을 가서, 길르앗 산에서 ⟨그⟩ 를 따라잡았다.",
+  "translation": "그가 ⟨את⟩ 자기 형제들을 데리고 그를 쫓아 이레 길을 달려, 길르앗 산에서 그를 따라잡았다.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "데리고"
+      "gloss": "데리고 가다"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그의 형제들을"
+      "marks": "자기 형제들"
     },
     {
       "surface": "אחיו",
-      "gloss": "그의 형제들을"
+      "gloss": "자기 형제들"
     },
     {
       "surface": "עמו",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "וירדף",
-      "gloss": "추적하였으니"
+      "gloss": "쫓다"
     },
     {
       "surface": "אחריו",
@@ -38,20 +38,20 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "칠"
+      "gloss": "이레"
     },
     {
       "surface": "ימים",
-      "gloss": "일"
+      "gloss": "날들"
     },
     {
       "surface": "וידבק",
-      "gloss": "따라잡았다"
+      "gloss": "따라잡다"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "그를"
+      "marks": "그를 (길르앗 산에서)"
     },
     {
       "surface": "בהר",
@@ -62,6 +62,6 @@
       "gloss": "길르앗"
     }
   ],
-  "timestamp": "2026-08-05T17:56:06.945296142Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:16:59.984956997Z",
+  "model": "glm-5.3"
 }

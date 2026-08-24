@@ -5,39 +5,39 @@
   "book": "esther",
   "lang": "ko",
   "chapter": 5,
-  "translation": "그리고 이 모든 것은 내게 아무 소용이 없다, 내가 ⟨את⟩ 모르드개 그 유다인이 왕의 문에 앉아 있는 것을 보는 모든 때에.",
+  "translation": "그러나 이 모든 것이 내게 아무 값어치도 없으니, 내가 문 대문 어느 때에든 모르드개라 하는 유대인이 왕의 문에 앉아 ⟨את⟩ 모르드개를 보는 동안에는 (그렇다).",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "그리고 모든"
+      "gloss": "그리고 …의 모든"
     },
     {
       "surface": "זה",
-      "gloss": "이것은"
+      "gloss": "이것"
     },
     {
       "surface": "איננו",
-      "gloss": "아니다"
+      "gloss": "아니에니다"
     },
     {
       "surface": "שוה",
-      "gloss": "동등하다"
+      "gloss": "값어치가"
     },
     {
       "surface": "לי",
-      "gloss": "나에게"
+      "gloss": "내게"
     },
     {
       "surface": "בכל",
-      "gloss": "모든"
+      "gloss": "…의 모든"
     },
     {
       "surface": "עת",
-      "gloss": "때에"
+      "gloss": "때"
     },
     {
       "surface": "אשר",
-      "gloss": "that"
+      "gloss": "…하는 동안"
     },
     {
       "surface": "אני",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "היהודי",
-      "gloss": "그 유다인"
+      "gloss": "유대인"
     },
     {
       "surface": "יושב",
@@ -73,6 +73,6 @@
       "gloss": "왕의"
     }
   ],
-  "timestamp": "2026-08-05T18:29:41.554835874Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:34.985992863Z",
+  "model": "glm-5.3"
 }

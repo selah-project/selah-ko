@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 8,
-  "translation": "그리고 네 마음과 함께 알 것인즉, 사람이 ⟨את⟩ 자기 아들을 징계하듯이, 야훼 네 엘로힘이 너를 징계하신다.",
+  "translation": "네 마음으로 ⟨그것을⟩ 알라 — 사람이 ⟨את⟩ 자기 아들을 훈계하듯이, 네 엘로힘 야훼께서 너를 훈계하신다는 것을.",
   "tokens": [
     {
       "surface": "וידעת",
-      "gloss": "그리고 너는 알 것이다"
+      "gloss": "알라"
     },
     {
       "surface": "עם",
-      "gloss": "함께"
+      "gloss": "~와 함께"
     },
     {
       "surface": "לבבך",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "것인즉"
+      "gloss": "~라는 것을"
     },
     {
       "surface": "כאשר",
-      "gloss": "～하듯이"
+      "gloss": "~처럼"
     },
     {
       "surface": "ייסר",
-      "gloss": "징계하다"
+      "gloss": "훈계하듯이"
     },
     {
       "surface": "איש",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "자기 아들을"
+      "marks": "자기 아들"
     },
     {
       "surface": "בנו",
-      "gloss": "자기 아들을"
+      "gloss": "자기 아들"
     },
     {
       "surface": "יהוה",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "네 엘로힘이"
+      "gloss": "네 엘로힘"
     },
     {
       "surface": "מיסרך",
-      "gloss": "너를 징계하신다"
+      "gloss": "너를 훈계하신다"
     }
   ],
-  "timestamp": "2026-08-05T08:52:13.910961163Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:43.228600039Z",
+  "model": "glm-5.3"
 }

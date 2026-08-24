@@ -5,118 +5,118 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 4,
-  "translation": "그녀가 말하였다. \"가는 것 같이 너와 함께 가겠다. 그러나 네가 가는 그 길에서 네 영광이 있지 않을 것이다. 야훼께서 ⟨את⟩ 시스라를 여자의 손에 파실 것이기 때문이다.\" 그리고 드보라가 일어나 바락과 함께 케데쉬로 올라갔다.",
+  "translation": "그녀가 말하였다. \"반드시 ⟨나는⟩ 그대와 함께 가겠다. 다만 그대가 가는 그 길에서 그대의 영광이 있지는 않을 것이다. 야훼께서 ⟨את⟩ 시스라를 여인의 손에 파실 것이기 때문이다.\" 데보라가 일어나 바락과 함께 케데쉬로 갔다.",
   "tokens": [
     {
-      "surface": "וַתֹּאמֶר",
-      "gloss": "그녀가 말하였다"
+      "surface": "ותאמר",
+      "gloss": "말하였다"
     },
     {
-      "surface": "הָלֹךְ",
-      "gloss": "가는 것 같이"
+      "surface": "הלך",
+      "gloss": "가겠다 (강조 부정사)"
     },
     {
-      "surface": "אֵלֵךְ",
+      "surface": "אלך",
       "gloss": "가겠다"
     },
     {
-      "surface": "עִמָּךְ",
-      "gloss": "너와 함께"
+      "surface": "עמך",
+      "gloss": "그대와 함께"
     },
     {
-      "surface": "אֶפֶס",
-      "gloss": "그러나"
+      "surface": "אפס",
+      "gloss": "다만"
     },
     {
-      "surface": "כִּי",
-      "gloss": "that"
+      "surface": "כי",
+      "gloss": "~이기 때문이다"
     },
     {
-      "surface": "לֹא",
-      "gloss": "아니하다"
+      "surface": "לא",
+      "gloss": "않을"
     },
     {
-      "surface": "תִּהְיֶה",
+      "surface": "תהיה",
       "gloss": "있을 것이다"
     },
     {
-      "surface": "תִּפְאַרְתְּךָ",
-      "gloss": "네 영광이"
+      "surface": "תפארתך",
+      "gloss": "그대의 영광"
     },
     {
-      "surface": "עַל",
-      "gloss": "에서"
+      "surface": "על",
+      "gloss": "위에"
     },
     {
-      "surface": "הַדֶּרֶךְ",
+      "surface": "הדרך",
       "gloss": "그 길"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "~하는"
     },
     {
-      "surface": "אַתָּה",
-      "gloss": "네가"
+      "surface": "אתה",
+      "gloss": "그대가"
     },
     {
-      "surface": "הוֹלֵךְ",
+      "surface": "הולך",
       "gloss": "가는"
     },
     {
-      "surface": "כִּי",
-      "gloss": "왜냐하면"
+      "surface": "כי",
+      "gloss": "~이기 때문에"
     },
     {
-      "surface": "בְּיַד",
-      "gloss": "...의 손에"
+      "surface": "ביד",
+      "gloss": "손에"
     },
     {
-      "surface": "אִשָּׁה",
-      "gloss": "여자의"
+      "surface": "אשה",
+      "gloss": "여인"
     },
     {
-      "surface": "יִמְכֹּר",
+      "surface": "ימכר",
       "gloss": "파실 것이다"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "야훼"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "시스라를"
+      "marks": "시스라"
     },
     {
-      "surface": "סִיסְרָא",
+      "surface": "סיסרא",
       "gloss": "시스라"
     },
     {
-      "surface": "וַתָּקָם",
+      "surface": "ותקם",
       "gloss": "일어나"
     },
     {
-      "surface": "דְּבוֹרָה",
-      "gloss": "드보라"
+      "surface": "דבורה",
+      "gloss": "데보라"
     },
     {
-      "surface": "וַתֵּלֶךְ",
-      "gloss": "올라갔다"
+      "surface": "ותלך",
+      "gloss": "갔다"
     },
     {
-      "surface": "עִם",
-      "gloss": "와\/과 함께"
+      "surface": "עם",
+      "gloss": "~와 함께"
     },
     {
-      "surface": "בָּרָק",
+      "surface": "ברק",
       "gloss": "바락"
     },
     {
-      "surface": "קֶדְשָׁה",
+      "surface": "קדשה",
       "gloss": "케데쉬로"
     }
   ],
-  "timestamp": "2026-08-05T09:15:07.067290581Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:35.102653221Z",
+  "model": "glm-5.3"
 }

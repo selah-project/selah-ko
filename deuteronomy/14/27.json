@@ -5,35 +5,35 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 14,
-  "translation": "네 문들 안에 있는 레위인은 버리지 말지니, 이는 그에게 너와 함께 ⟨함께할⟩ 몫과 유산이 없음이라.",
+  "translation": "그리고 네 성문 안에 있는 레위 사람은 버리지 말라. 그에게는 너와 함께 나눌 몫도 기업도 없기 때문이다.",
   "tokens": [
     {
       "surface": "והלוי",
-      "gloss": "그리고 그 레위인"
+      "gloss": "레위 사람은"
     },
     {
       "surface": "אשר",
-      "gloss": "who"
+      "gloss": "…바로 그"
     },
     {
       "surface": "בשעריך",
-      "gloss": "네 문들 안에"
+      "gloss": "네 성문 안에 있는"
     },
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "하지"
     },
     {
       "surface": "תעזבנו",
-      "gloss": "너는 그를 버릴"
+      "gloss": "버리지 말라"
     },
     {
       "surface": "כי",
-      "gloss": "이는"
+      "gloss": "때문에"
     },
     {
       "surface": "אין",
-      "gloss": "없음"
+      "gloss": "없다"
     },
     {
       "surface": "לו",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "ונחלה",
-      "gloss": "그리고 유산"
+      "gloss": "기업"
     },
     {
       "surface": "עמך",
       "gloss": "너와 함께"
     }
   ],
-  "timestamp": "2026-08-05T08:54:08.186473031Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:11.476843378Z",
+  "model": "glm-5.3"
 }

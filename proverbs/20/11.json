@@ -5,45 +5,45 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 20,
-  "translation": "소년의 행위에서도 그 본성이 드러난다 — 그의 행실이 맑은지, 곧은지.",
+  "translation": "소년도 그의 행위들로 ⟨자신을⟩ 드러낸다. 그의 행동이 순수한지, 곧은지 알 수 있다.",
   "tokens": [
     {
-      "surface": "גַּם",
-      "gloss": "또한"
+      "surface": "גם",
+      "gloss": "~조차도"
     },
     {
-      "surface": "בְּמַעֲלָלָיו",
-      "gloss": "그의 행위에서"
+      "surface": "במעלליו",
+      "gloss": "그의 행위들로"
     },
     {
-      "surface": "יִתְנַכֵּר",
-      "gloss": "알려지다"
+      "surface": "יתנכר",
+      "gloss": "알려진다"
     },
     {
-      "surface": "נַעַר",
-      "gloss": "소년도"
+      "surface": "נער",
+      "gloss": "소년"
     },
     {
-      "surface": "אִם",
-      "gloss": "～인지"
+      "surface": "אם",
+      "gloss": "~인지"
     },
     {
-      "surface": "זַךְ",
-      "gloss": "맑은지"
+      "surface": "זך",
+      "gloss": "순수한"
     },
     {
-      "surface": "וְאִם",
-      "gloss": "그리고 ～인지"
+      "surface": "ואם",
+      "gloss": "그리고 ~인지"
     },
     {
-      "surface": "יָשָׁר",
-      "gloss": "곧은지"
+      "surface": "ישר",
+      "gloss": "곧은"
     },
     {
-      "surface": "פָּעֳלוֹ",
-      "gloss": "그의 행실이"
+      "surface": "פעלו",
+      "gloss": "그의 행동"
     }
   ],
-  "timestamp": "2026-08-05T11:56:47.225741625Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:23.298394539Z",
+  "model": "glm-5.3"
 }

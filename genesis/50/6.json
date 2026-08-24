@@ -5,42 +5,42 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 50,
-  "translation": "파르오가 말하였다. \"올라가서 ⟨את⟩ 네 아버지를 장사하라, 그가 너에게 맹세하게 한 대로.\"",
+  "translation": "파르오가 말하였다. \"올라가서 ⟨את⟩ 네 아버지를 장사하라. 그가 너에게 맹세시킨 대로.\"",
   "tokens": [
     {
-      "surface": "וַיֹּ֖אמֶר",
+      "surface": "ויאמר",
       "gloss": "말하였다"
     },
     {
-      "surface": "פַּרְעֹ֑ה",
-      "gloss": "파르오가"
+      "surface": "פרעה",
+      "gloss": "파르오"
     },
     {
-      "surface": "עֲלֵ֛ה",
+      "surface": "עלה",
       "gloss": "올라가서"
     },
     {
-      "surface": "וּקְבֹ֥ר",
+      "surface": "וקבר",
       "gloss": "장사하라"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "네 아버지"
     },
     {
-      "surface": "אָבִ֖יךָ",
+      "surface": "אביך",
       "gloss": "네 아버지"
     },
     {
-      "surface": "כַּאֲשֶׁ֥ר",
-      "gloss": "～한 대로"
+      "surface": "כאשר",
+      "gloss": "대로"
     },
     {
-      "surface": "הִשְׁבִּיעֶֽךָ",
-      "gloss": "그가 너에게 맹세하게 한"
+      "surface": "השביעך",
+      "gloss": "너에게 맹세시킨"
     }
   ],
-  "timestamp": "2026-08-05T07:46:25.849643700Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:24.805721126Z",
+  "model": "glm-5.3"
 }

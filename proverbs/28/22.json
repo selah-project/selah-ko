@@ -5,19 +5,19 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 28,
-  "translation": "부(富)로 휩쓸리는 자, 눈이 악한 사람이며, 빈궁이 ⟨그⟩에게 임할 것임을 알지 못한다.",
+  "translation": "재물을 향해 서두르는 ⟨것은⟩ 악한 눈을 가진 사람이니, 궁핍이 ⟨그⟩에게 임할 줄을 알지 못한다.",
   "tokens": [
     {
       "surface": "נבהל",
-      "gloss": "휩쓸리는"
+      "gloss": "서두르는"
     },
     {
       "surface": "להון",
-      "gloss": "부(富)로"
+      "gloss": "재물을 향해"
     },
     {
       "surface": "איש",
-      "gloss": "사람"
+      "gloss": "사람이니"
     },
     {
       "surface": "רע",
@@ -29,25 +29,25 @@
     },
     {
       "surface": "ולא",
-      "gloss": "그리고 아니"
-    },
-    {
-      "surface": "ידע",
       "gloss": "알지"
     },
     {
+      "surface": "ידע",
+      "gloss": "못한다"
+    },
+    {
       "surface": "כי",
-      "gloss": "…함을"
+      "gloss": "…할 줄을"
     },
     {
       "surface": "חסר",
-      "gloss": "빈궁이"
+      "gloss": "궁핍이"
     },
     {
       "surface": "יבאנו",
-      "gloss": "그에게 임한다"
+      "gloss": "임하다"
     }
   ],
-  "timestamp": "2026-08-05T11:59:48.012589991Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:31.617734335Z",
+  "model": "glm-5.3"
 }

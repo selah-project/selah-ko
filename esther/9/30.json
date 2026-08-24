@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "ko",
   "chapter": 9,
-  "translation": "그가 서신들을 보내었으니 모든 유다인에게, 아하수에로 왕국 127도(道)에 이르기까지, 샬롬과 에메트의 말씀들이었다.",
+  "translation": "그가 서신들을 보냈다 — 온 유다인들에게, 아하스베로쉬 왕국 일백이십칠 개 지방에 이르기까지, 샬롬과 에메트의 말로.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "보내었으니"
+      "gloss": "그가 보냈다"
     },
     {
       "surface": "ספרים",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "כל",
-      "gloss": "모든"
+      "gloss": "온"
     },
     {
       "surface": "היהודים",
-      "gloss": "유다인"
+      "gloss": "유다인들"
     },
     {
       "surface": "אל",
-      "gloss": "에"
+      "gloss": "에게"
     },
     {
       "surface": "שבע",
       "gloss": "일곱"
     },
     {
-      "surface": "ועשרים",
-      "gloss": "스물"
+      "surface": "ו עשרים",
+      "gloss": "그리고 스물"
     },
     {
       "surface": "ומאה",
-      "gloss": "백"
+      "gloss": "그리고 백"
     },
     {
       "surface": "מדינה",
-      "gloss": "도(道)"
+      "gloss": "지방"
     },
     {
       "surface": "מלכות",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "אחשורוש",
-      "gloss": "아하수에로"
+      "gloss": "아하스베로쉬"
     },
     {
       "surface": "דברי",
-      "gloss": "말씀들이었다"
+      "gloss": "…의 말"
     },
     {
       "surface": "שלום",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "ואמת",
-      "gloss": "에메트"
+      "gloss": "그리고 에메트"
     }
   ],
-  "timestamp": "2026-08-05T12:24:30.178083658Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:27.146977156Z",
+  "model": "glm-5.3"
 }

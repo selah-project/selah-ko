@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "ko",
   "chapter": 2,
-  "translation": "그 일이 조사되고 밝혀지자, 둘 다 나무에 매달리고, 그것이 왕 앞의 『날들의 말들』 책에 기록되었다.",
+  "translation": "그 일이 조사되었고 밝혀졌다. 그 두 사람이 나무에 매달리었다. 그리고 그것이 왕 앞에서 『그날들의 일 책』에 기록되었다.",
   "tokens": [
     {
       "surface": "ויבקש",
-      "gloss": "조사되고"
+      "gloss": "조사되었고"
     },
     {
       "surface": "הדבר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "וימצא",
-      "gloss": "밝혀지자"
+      "gloss": "밝혀졌다"
     },
     {
       "surface": "ויתלו",
-      "gloss": "매달리고"
+      "gloss": "매달리었다"
     },
     {
       "surface": "שניהם",
-      "gloss": "둘 다"
+      "gloss": "그 두 사람이"
     },
     {
       "surface": "על",
-      "gloss": "에"
+      "gloss": "…에"
     },
     {
       "surface": "עץ",
@@ -41,25 +41,25 @@
     },
     {
       "surface": "בספר",
-      "gloss": "책에"
+      "gloss": "…책에"
     },
     {
       "surface": "דברי",
-      "gloss": "말들"
+      "gloss": "…의 일"
     },
     {
       "surface": "הימים",
-      "gloss": "날들의"
+      "gloss": "그날들"
     },
     {
       "surface": "לפני",
-      "gloss": "앞"
+      "gloss": "앞에서"
     },
     {
       "surface": "המלך",
       "gloss": "왕"
     }
   ],
-  "timestamp": "2026-08-05T14:06:18.187588343Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:28.306204720Z",
+  "model": "glm-5.3"
 }

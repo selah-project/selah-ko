@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 33,
-  "translation": "그리고 그대 백성의 아들들이 말한다. \"아도나이의 길은 공평하게 잴 수 없다\" — 그러나 그들, 그들의 길은 공평하게 잴 수 없다.",
+  "translation": "그런데 그대의 백성의 아들들이 말한다. \"아도나이의 길은 공평하지 않다\" — 그러나 ⟨그⟩ 아도나이의 길이 아니라 그들의 길이 공평하지 않다.",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "그리고 …가 말한다"
+      "gloss": "말한다"
     },
     {
       "surface": "בני",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "עמך",
-      "gloss": "그대 백성의"
+      "gloss": "그대의 백성의"
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "not-공평하지"
     },
     {
       "surface": "יתכן",
-      "gloss": "공평하게 잴 수 있다"
+      "gloss": "공평하다"
     },
     {
       "surface": "דרך",
-      "gloss": "길은"
+      "gloss": "길"
     },
     {
       "surface": "אדני",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "והמה",
-      "gloss": "그러나 그들"
+      "gloss": "그러나 그들이"
     },
     {
       "surface": "דרכם",
-      "gloss": "그들의 길은"
+      "gloss": "그들의 길이"
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "not-공평하지"
     },
     {
       "surface": "יתכן",
-      "gloss": "공평하게 잴 수 있다"
+      "gloss": "공평하다"
     }
   ],
-  "timestamp": "2026-08-05T10:58:01.772958884Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:33:18.212708157Z",
+  "model": "glm-5.3"
 }

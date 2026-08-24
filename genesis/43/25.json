@@ -5,32 +5,32 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 43,
-  "translation": "그들이 ⟨את⟩ ⟨그⟩ 선물을 예비하였으니, 요셉이 정오에 오기까지였다. 그들이 듣자 하니, 그 곳에서 떡을 먹을 ⟨것⟩이었다.",
+  "translation": "그들은 요셉이 정오에 들어오기까지 ⟨את⟩ 그 선물을 준비하였다. 그들이 거기에서 빵을 먹게 되리라는 것을 들었기 때문이다.",
   "tokens": [
     {
       "surface": "ויכינו",
-      "gloss": "그들이 예비하였으니"
+      "gloss": "준비하였다"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "선물을"
+      "marks": "그 선물"
     },
     {
       "surface": "המנחה",
-      "gloss": "선물"
+      "gloss": "그 선물"
     },
     {
       "surface": "עד",
-      "gloss": "까지"
+      "gloss": "~까지"
     },
     {
       "surface": "בוא",
-      "gloss": "오기"
+      "gloss": "들어오기"
     },
     {
       "surface": "יוסף",
-      "gloss": "요셉이"
+      "gloss": "요셉"
     },
     {
       "surface": "בצהרים",
@@ -38,29 +38,29 @@
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "때문이다"
     },
     {
       "surface": "שמעו",
-      "gloss": "그들이 듣자 하니"
+      "gloss": "들었다"
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "~라는 것을"
     },
     {
       "surface": "שם",
-      "gloss": "그 곳에서"
+      "gloss": "거기에서"
     },
     {
       "surface": "יאכלו",
-      "gloss": "먹을"
+      "gloss": "먹게 되리라"
     },
     {
       "surface": "לחם",
-      "gloss": "떡을"
+      "gloss": "빵"
     }
   ],
-  "timestamp": "2026-08-05T18:00:14.837819098Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:26.398866375Z",
+  "model": "glm-5.3"
 }

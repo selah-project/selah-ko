@@ -5,77 +5,77 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 1,
-  "translation": "요셉의 아들들, 에프라임의 아들들, 그들의 족보, 그들의 가족별로, 그들의 조상의 집별로, 이름의 수로, 이십 세 이상, 군대에 나갈 수 있는 모든 자.",
+  "translation": "요셉의 아들들 중에서, 에프라임의 아들들 — 그들의 계보를 따라, 그들의 가문별로, 그들의 조상의 집별로, 이름의 수로, 스무 살부터 위로, 군대에 나갈 수 있는 모든 이를 ⟨계수하였다⟩.",
   "tokens": [
     {
-      "surface": "לִבְנֵ֤י",
-      "gloss": "～의 아들들"
+      "surface": "לבני",
+      "gloss": "의 아들들 중에서"
     },
     {
-      "surface": "יוֹסֵף֙",
+      "surface": "יוסף",
       "gloss": "요셉"
     },
     {
-      "surface": "לִבְנֵ֣י",
-      "gloss": "～의 아들들"
+      "surface": "לבני",
+      "gloss": "의 아들들"
     },
     {
-      "surface": "אֶפְרַ֔יִם",
+      "surface": "אפרים",
       "gloss": "에프라임"
     },
     {
-      "surface": "תּוֹלְדֹתָ֥ם",
-      "gloss": "그들의 족보"
+      "surface": "תולדתם",
+      "gloss": "그들의 계보"
     },
     {
-      "surface": "לְמִשְׁפְּחֹתָ֖ם",
-      "gloss": "그들의 가족별로"
+      "surface": "למשפחתם",
+      "gloss": "그들의 가문별로"
     },
     {
-      "surface": "לְבֵ֣ית",
-      "gloss": "～의 집별로"
+      "surface": "לבית",
+      "gloss": "의 집별로"
     },
     {
-      "surface": "אֲבֹתָ֑ם",
-      "gloss": "그들의 조상의"
+      "surface": "אבתם",
+      "gloss": "그들의 조상"
     },
     {
-      "surface": "בְּמִסְפַּ֣ר",
-      "gloss": "～의 수로"
+      "surface": "במספר",
+      "gloss": "수로"
     },
     {
-      "surface": "שֵׁמֹ֗ת",
-      "gloss": "이름의"
+      "surface": "שמת",
+      "gloss": "이름"
     },
     {
-      "surface": "מִבֶּ֨ן",
-      "gloss": "～의 아들부터"
+      "surface": "מבן",
+      "gloss": "부터"
     },
     {
-      "surface": "עֶשְׂרִ֤ים",
-      "gloss": "이십"
+      "surface": "עשרים",
+      "gloss": "스물"
     },
     {
-      "surface": "שָׁנָה֙",
-      "gloss": "세"
+      "surface": "שנה",
+      "gloss": "살"
     },
     {
-      "surface": "וָמַ֔עְלָה",
-      "gloss": "그리고 이상"
+      "surface": "ומעלה",
+      "gloss": "위로"
     },
     {
-      "surface": "כֹּ֖ל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "יֹצֵ֥א",
+      "surface": "יצא",
       "gloss": "나가는"
     },
     {
-      "surface": "צָבָֽא",
-      "gloss": "군대에"
+      "surface": "צבא",
+      "gloss": "군대"
     }
   ],
-  "timestamp": "2026-08-05T08:27:31.617980673Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:37.285857711Z",
+  "model": "glm-5.3"
 }

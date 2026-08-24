@@ -5,61 +5,62 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 25,
-  "translation": "그리고 ⟨그의⟩ 식량이 — 항상 되는 식량이 — 왕에게서 그에게 주어졌다, 날마다 정해진 것, ⟨그의⟩ 생명의 모든 날 동안.",
+  "translation": "그의 음식 배급은 계속되는 배급으로 왕에게 ⟨את⟩ 하루의 몫을 그날마다 그의 생애의 모든 날 동안 주어졌다.",
   "tokens": [
     {
-      "surface": "וַאֲרֻחָת֗וֹ",
-      "gloss": "그리고 그의 식량"
+      "surface": "וארחתו",
+      "gloss": "그리고 그의 음식 배급은"
     },
     {
-      "surface": "אֲרֻחַ֨ת",
-      "gloss": "식량"
+      "surface": "ארחת",
+      "gloss": "배급"
     },
     {
-      "surface": "תָּמִ֧יד",
-      "gloss": "항상"
+      "surface": "תמיד",
+      "gloss": "계속되는"
     },
     {
-      "surface": "נִתְּנָ֥ה",
+      "surface": "נתנה",
       "gloss": "주어졌다"
     },
     {
-      "surface": "לּוֹ",
+      "surface": "לו",
       "gloss": "그에게"
     },
     {
-      "surface": "מֵאֵ֥ת",
-      "gloss": "～에게서"
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "왕에게 (부터)"
     },
     {
-      "surface": "הַמֶּ֖לֶךְ",
+      "surface": "המלך",
       "gloss": "왕"
     },
     {
-      "surface": "דְּבַר",
-      "gloss": "～의 것"
+      "surface": "דבר",
+      "gloss": "몫"
     },
     {
-      "surface": "י֣וֹם",
-      "gloss": "날"
+      "surface": "יום",
+      "gloss": "하루의"
     },
     {
-      "surface": "בְּיוֹמ֑וֹ",
-      "gloss": "그의 날에"
+      "surface": "ביומו",
+      "gloss": "그날마다"
     },
     {
-      "surface": "כֹּ֖ל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "יְמֵ֥י",
+      "surface": "ימי",
       "gloss": "날"
     },
     {
-      "surface": "חַיָּֽו",
-      "gloss": "그의 생명"
+      "surface": "חיו",
+      "gloss": "그의 생애의"
     }
   ],
-  "timestamp": "2026-08-05T10:06:18.964532963Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:35.259621059Z",
+  "model": "glm-5.3"
 }

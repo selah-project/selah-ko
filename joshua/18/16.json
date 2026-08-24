@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "ko",
   "chapter": 18,
-  "translation": "그리고 경계가 내려갔다 그 산의 끝으로, 곧 힌놈의 아들의 골짜기 앞에 있는, 곧 르파임 골짜기에 북쪽을 향하여 있는 그것 — 그리고 힌놈의 골짜기가 내려갔다 여부스 사람의 어깨 쪽으로 남쪽을 향하여, 그리고 내려갔다 에인 로겔로.",
+  "translation": "그 경계는 힌놈의 아들의 골짜기와 마주한 산 끝, 곧 르파임 골짜기 북쪽에 있는 곳으로 내려갔고, 힌놈의 골짜기를 따라 예부스 사람의 어깨 남쪽으로 내려갔으며, 엔 로겔로 내려갔다.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "그리고 내려갔다"
+      "gloss": "내려갔다"
     },
     {
       "surface": "הגבול",
-      "gloss": "경계가"
+      "gloss": "그 경계"
     },
     {
       "surface": "אל",
-      "gloss": "∼로"
+      "gloss": "로"
     },
     {
       "surface": "קצה",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ההר",
-      "gloss": "그 산의"
+      "gloss": "그 산"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "⟨그 곳은⟩"
     },
     {
       "surface": "על",
-      "gloss": "앞에"
+      "gloss": "마주한"
     },
     {
       "surface": "פני",
-      "gloss": "∼의"
+      "gloss": "면 앞"
     },
     {
       "surface": "גי",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "∼의 아들"
+      "gloss": "아들"
     },
     {
       "surface": "הנם",
-      "gloss": "힌놈"
+      "gloss": "히놈의"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "⟨그것은⟩"
     },
     {
       "surface": "בעמק",
@@ -65,23 +65,23 @@
     },
     {
       "surface": "צפונה",
-      "gloss": "북쪽을 향하여"
+      "gloss": "북쪽"
     },
     {
       "surface": "וירד",
-      "gloss": "그리고 내려갔다"
+      "gloss": "내려갔다"
     },
     {
       "surface": "גי",
-      "gloss": "골짜기가"
+      "gloss": "골짜기를"
     },
     {
       "surface": "הנם",
-      "gloss": "힌놈의"
+      "gloss": "히놈의"
     },
     {
       "surface": "אל",
-      "gloss": "∼로"
+      "gloss": "으로"
     },
     {
       "surface": "כתף",
@@ -89,25 +89,25 @@
     },
     {
       "surface": "היבוסי",
-      "gloss": "여부스 사람의"
+      "gloss": "예부스 사람의"
     },
     {
       "surface": "נגבה",
-      "gloss": "남쪽을 향하여"
+      "gloss": "남쪽"
     },
     {
       "surface": "וירד",
-      "gloss": "그리고 내려갔다"
+      "gloss": "내려갔다"
     },
     {
       "surface": "עין",
-      "gloss": "에인"
+      "gloss": "엔"
     },
     {
       "surface": "רגל",
-      "gloss": "로겔로"
+      "gloss": "로겔"
     }
   ],
-  "timestamp": "2026-08-05T09:10:34.076951722Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:47.633790353Z",
+  "model": "glm-5.3"
 }

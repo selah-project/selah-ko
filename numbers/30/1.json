@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 30,
-  "translation": "그리고 모셰가 이스라엘 자손에게 말하였다, 야훼께서 모셰에게 명령하신 모든 것에 따라.",
+  "translation": "모셰가 이스라엘 자손에게 말하였다. 야훼께서 ⟨את⟩ 모셰에게 명령하신 모든 것대로였다.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "그리고 말하였다"
+      "gloss": "말하였다"
     },
     {
       "surface": "משה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "모든 것에 따라"
+      "gloss": "모든 것대로"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "것"
     },
     {
       "surface": "צוה",
@@ -46,13 +46,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "모셰를"
+      "marks": "모셰"
     },
     {
       "surface": "משה",
       "gloss": "모셰에게"
     }
   ],
-  "timestamp": "2026-08-05T08:45:41.897046718Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:59.428037413Z",
+  "model": "glm-5.3"
 }

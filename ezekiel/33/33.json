@@ -5,41 +5,41 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 33,
-  "translation": "그것이 올 때에 — 보라, 오고 있다 — 그들이 알게 될 것이다. 한 나비가 그들 가운데 있었다는 것을.",
+  "translation": "그것이 이르렀을 때 — 보라, 그것은 이른다 — 그들이 알게 될 ⟨것이다⟩. 나비(대언자)가 그들 가운데 있었다는 것을.",
   "tokens": [
     {
-      "surface": "וּבְבֹאָ֑הּ",
-      "gloss": "그것이 올 때에"
+      "surface": "ובבאה",
+      "gloss": "그것이 이르렀을 때"
     },
     {
-      "surface": "הִנֵּ֣ה",
+      "surface": "הנה",
       "gloss": "보라"
     },
     {
-      "surface": "בָאָ֔ה",
-      "gloss": "오고 있다"
+      "surface": "באה",
+      "gloss": "그것은 이른다"
     },
     {
-      "surface": "וְיָ֣דְע֔וּ",
-      "gloss": "그들이 알게 될 것이다"
+      "surface": "וידעו",
+      "gloss": "그들이 알게 될"
     },
     {
-      "surface": "כִּ֥י",
-      "gloss": "that"
+      "surface": "כי",
+      "gloss": "그것을"
     },
     {
-      "surface": "נָבִ֖יא",
-      "gloss": "나비"
+      "surface": "נביא",
+      "gloss": "나비(대언자)"
     },
     {
-      "surface": "הָיָ֥ה",
+      "surface": "היה",
       "gloss": "있었다"
     },
     {
-      "surface": "בְתוֹכָֽם",
+      "surface": "בתוכם",
       "gloss": "그들 가운데"
     }
   ],
-  "timestamp": "2026-08-05T10:57:46.728670633Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:32:59.042402181Z",
+  "model": "glm-5.3"
 }

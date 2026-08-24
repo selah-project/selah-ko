@@ -5,41 +5,41 @@
   "book": "job",
   "lang": "ko",
   "chapter": 8,
-  "translation": "그가 태양 앞에서 수액으로 축축하며, 그의 정원 위로 그의 새싹이 나온다.",
+  "translation": "그는 태양 앞에서 촉촉히 푸르르고, 그의 정원 위로 그의 순이 뻗어 나간다.",
   "tokens": [
     {
-      "surface": "רָטֹב",
-      "gloss": "수액으로 축축하며"
+      "surface": "רטב",
+      "gloss": "촉촉히 푸르르고"
     },
     {
-      "surface": "הוּא",
-      "gloss": "그가"
+      "surface": "הוא",
+      "gloss": "그는"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "앞에서"
     },
     {
-      "surface": "שָׁמֶשׁ",
+      "surface": "שמש",
       "gloss": "태양"
     },
     {
-      "surface": "וְעַל",
-      "gloss": "그리고 ～ 위로"
+      "surface": "וינקתו",
+      "gloss": "그리고 그의 순이"
     },
     {
-      "surface": "גַּנָּתוֹ",
+      "surface": "על",
+      "gloss": "위로"
+    },
+    {
+      "surface": "גנתו",
       "gloss": "그의 정원"
     },
     {
-      "surface": "יֹנַקְתּוֹ",
-      "gloss": "그의 새싹이"
-    },
-    {
-      "surface": "תֵצֵא",
-      "gloss": "나온다"
+      "surface": "תצא",
+      "gloss": "뻗어 나간다"
     }
   ],
-  "timestamp": "2026-08-05T12:03:26.045349230Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:56.558597554Z",
+  "model": "glm-5.3"
 }

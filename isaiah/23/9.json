@@ -5,54 +5,53 @@
   "book": "isaiah",
   "lang": "ko",
   "chapter": 23,
-  "translation": "만군의 야훼가 ⟨그것⟩을 계획하셨다 — 모든 영광의 기를 더럽히시려, 땅의 모든 존귀한 자들을 경멸하게 하시려.",
+  "translation": "만군의 야훼께서 그것을 경영하셨다 — 모든 영광의 오만을 더럽히시고, 땅의 모든 존귀한 자들을 경히 여기시려 하셨다.",
   "tokens": [
     {
-      "surface": "יְהוָ֥ה",
-      "gloss": "야훼가"
+      "surface": "יהוה",
+      "gloss": "야훼께서"
     },
     {
-      "surface": "צְבָא֖וֹת",
+      "surface": "צבאות",
       "gloss": "만군의"
     },
     {
-      "surface": "יְעָצָ֑הּ",
-      "gloss": "계획하셨다",
-      "marks": "그것을"
+      "surface": "יעצה",
+      "gloss": "경영하셨다"
     },
     {
-      "surface": "לְחַלֵּל֙",
+      "surface": "לחלל",
       "gloss": "더럽히시려"
     },
     {
-      "surface": "גְּא֣וֹן",
-      "gloss": "기(威)를"
+      "surface": "גאון",
+      "gloss": "오만을"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "צְבִ֔י",
-      "gloss": "영광의"
+      "surface": "צבי",
+      "gloss": "영광"
     },
     {
-      "surface": "לְהָקֵ֖ל",
-      "gloss": "경멸하게 하시려"
+      "surface": "להקל",
+      "gloss": "경히 여기시려"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "נִכְבַּדֵּי",
-      "gloss": "존귀한 자들을"
+      "surface": "נכבדי",
+      "gloss": "존귀한 자들"
     },
     {
-      "surface": "אָֽרֶץ",
+      "surface": "ארץ",
       "gloss": "땅의"
     }
   ],
-  "timestamp": "2026-08-05T10:13:01.369423519Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:37.497020289Z",
+  "model": "glm-5.3"
 }

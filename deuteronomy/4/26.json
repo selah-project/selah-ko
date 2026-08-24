@@ -5,120 +5,120 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 4,
-  "translation": "오늘 내가 너희에게 ⟨את⟩ 하늘과 ⟨את⟩ 땅을 증인으로 불러 세우노니, 너희가 ⟨את⟩ 요르단을 건너가 거기에서 차지하려 하는 그 땅 위에서 너희가 속히 망하여 멸절될 것임이니, 그 위에서 날을 길게 하지 못하고 온전히 멸절될 것임이라.",
+  "translation": "오늘 내가 ⟨את⟩ 하늘과 ⟨את⟩ 땅을 증인으로 세워 너희에게 증언하노니, 너희가 ⟨את⟩ 요르단을 건너가 차지하러 하는 그 땅에서 속히 망하여 빠르게 없어질 것이요, 그 위에서 날들을 길게 누리지 못할 것이다 — 반드시 멸망할 것이기 때문이다.",
   "tokens": [
     {
-      "surface": "הַעִידֹתִי֩",
-      "gloss": "불러 세우노니"
+      "surface": "העידתי",
+      "gloss": "증언하노니"
     },
     {
-      "surface": "בָכֶ֨ם",
+      "surface": "בכם",
       "gloss": "너희에게"
     },
     {
-      "surface": "הַיּ֜וֹם",
+      "surface": "היום",
       "gloss": "오늘"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "하늘"
     },
     {
-      "surface": "הַשָּׁמַ֣יִם",
+      "surface": "השמים",
       "gloss": "하늘"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
       "marks": "땅"
     },
     {
-      "surface": "הָאָ֗רֶץ",
+      "surface": "הארץ",
       "gloss": "땅"
     },
     {
-      "surface": "כִּֽי",
-      "gloss": "것임이니"
+      "surface": "כי",
+      "gloss": "—"
     },
     {
-      "surface": "אָבֹ֣ד",
+      "surface": "אבד",
       "gloss": "망하여"
     },
     {
-      "surface": "תֹּאבֵדוּן֮",
-      "gloss": "멸절될"
+      "surface": "תאבדון",
+      "gloss": "없어질 것이요"
     },
     {
-      "surface": "מַהֵר֒",
+      "surface": "מהר",
       "gloss": "속히"
     },
     {
-      "surface": "מֵעַ֣ל",
-      "gloss": "—에서"
+      "surface": "מעל",
+      "gloss": "에서"
     },
     {
-      "surface": "הָאָ֔רֶץ",
-      "gloss": "땅"
+      "surface": "הארץ",
+      "gloss": "그 땅"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "—"
     },
     {
-      "surface": "אַתֶּ֜ם",
+      "surface": "אתם",
       "gloss": "너희가"
     },
     {
-      "surface": "עֹבְרִ֧ים",
+      "surface": "עברים",
       "gloss": "건너가"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "요르단"
     },
     {
-      "surface": "הַיַּרְדֵּ֛ן",
+      "surface": "הירדן",
       "gloss": "요르단"
     },
     {
-      "surface": "שָׁ֖מָּה",
-      "gloss": "거기로"
+      "surface": "שמה",
+      "gloss": "그리로"
     },
     {
-      "surface": "לְרִשְׁתָּ֑הּ",
-      "gloss": "차지하려"
+      "surface": "לרשתה",
+      "gloss": "그것을 차지하러"
     },
     {
-      "surface": "לֹֽא",
-      "gloss": "못하고"
+      "surface": "לא",
+      "gloss": "못할"
     },
     {
-      "surface": "תַאֲרִיכֻ֤ן",
-      "gloss": "길게 하지"
+      "surface": "תאריכן",
+      "gloss": "길게 누리지"
     },
     {
-      "surface": "יָמִים֙",
-      "gloss": "날"
+      "surface": "ימים",
+      "gloss": "날들"
     },
     {
-      "surface": "עָלֶ֔יהָ",
+      "surface": "עליה",
       "gloss": "그 위에서"
     },
     {
-      "surface": "כִּ֥י",
-      "gloss": "것임이라"
+      "surface": "כי",
+      "gloss": "때문에"
     },
     {
-      "surface": "הִשָּׁמֵ֖ד",
-      "gloss": "온전히"
+      "surface": "השמד",
+      "gloss": "멸망"
     },
     {
-      "surface": "תִּשָּׁמֵדֽוּן",
-      "gloss": "멸절될"
+      "surface": "תשמדון",
+      "gloss": "할 것이다"
     }
   ],
-  "timestamp": "2026-08-05T18:06:34.778135946Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:51.493251742Z",
+  "model": "glm-5.3"
 }

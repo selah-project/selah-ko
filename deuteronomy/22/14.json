@@ -5,86 +5,86 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 22,
-  "translation": "그리고 그녀에게 말들의 꾸며진 일들을 둠하고, 그녀에 대해 나쁜 이름을 끌어내며, 말하기를 “⟨את⟩ 이 여자 이것을 내가 맞이하였고, 내가 그녀에게 가까이 갔으나 그녀에게서 처녀성을 찾지 못하였다” 하면 —",
+  "translation": "그리고 그가 그녀에게 거짓되이 꾸며낸 일들을 뒤집어씌우고, 그녀에게 나쁜 이름을 퍼뜨리며 말하는 것이다. “⟨את⟩ 이 여자를 내가 맞이하였고 그에게 가까이 갔으나, 그에게서 정조의 증거를 찾지 못하였다.”",
   "tokens": [
     {
-      "surface": "וְשָׂ֥ם",
-      "gloss": "둠하면"
+      "surface": "ושם",
+      "gloss": "뒤집어씌우며"
     },
     {
-      "surface": "לָהּ֙",
+      "surface": "לה",
       "gloss": "그녀에게"
     },
     {
-      "surface": "עֲלִילֹ֣ת",
-      "gloss": "꾸며진 일들을"
+      "surface": "עלילת",
+      "gloss": "꾸며낸 일들을"
     },
     {
-      "surface": "דְּבָרִ֔ים",
-      "gloss": "말들의"
+      "surface": "דברים",
+      "gloss": "거짓되이 (말들로)"
     },
     {
-      "surface": "וְהוֹצִ֥יא",
-      "gloss": "끌어내며"
+      "surface": "והוציא",
+      "gloss": "퍼뜨리며"
     },
     {
-      "surface": "עָלֶ֖יהָ",
-      "gloss": "그녀에 대해"
+      "surface": "עליה",
+      "gloss": "그녀에게"
     },
     {
-      "surface": "שֵׁ֣ם",
+      "surface": "שם",
       "gloss": "이름을"
     },
     {
-      "surface": "רָ֑ע",
+      "surface": "רע",
       "gloss": "나쁜"
     },
     {
-      "surface": "וְאָמַ֗ר",
-      "gloss": "말하기를"
+      "surface": "ואמר",
+      "gloss": "말하는 것이다"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이 여자"
+      "marks": "이 여자를"
     },
     {
-      "surface": "הָאִשָּׁ֤ה",
+      "surface": "האשה",
       "gloss": "여자"
     },
     {
-      "surface": "הַזֹּאת֙",
+      "surface": "הזאת",
       "gloss": "이"
     },
     {
-      "surface": "לָקַ֔חְתִּי",
-      "gloss": "내가 맞이하였고"
+      "surface": "לקחתי",
+      "gloss": "맞이하였다"
     },
     {
-      "surface": "וָאֶקְרַ֣ב",
+      "surface": "ואקרב",
       "gloss": "가까이 갔으나"
     },
     {
-      "surface": "אֵלֶ֔יהָ",
-      "gloss": "그녀에게"
+      "surface": "אליה",
+      "gloss": "그에게"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "～아니하였다"
+      "surface": "ולא",
+      "gloss": "…하지 못하였다"
     },
     {
-      "surface": "מָצָ֥אתִי",
-      "gloss": "찾"
+      "surface": "מצאתי",
+      "gloss": "찾지"
     },
     {
-      "surface": "לָ֖הּ",
-      "gloss": "그녀에게서"
+      "surface": "לה",
+      "gloss": "그에게서"
     },
     {
-      "surface": "בְּתוּלִֽים",
-      "gloss": "처녀성을"
+      "surface": "בתולים",
+      "gloss": "정조의 증거를"
     }
   ],
-  "timestamp": "2026-08-05T08:58:01.088637599Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:09.796197038Z",
+  "model": "glm-5.3"
 }

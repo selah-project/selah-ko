@@ -5,99 +5,101 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 52,
-  "translation": "그의 통치 구 년, 열째 달, 그 달의 열째 날에 이르러 — 바벨 왕 네부캐드레차르가, 곧 그와 그의 모든 군대가 예루샬라임을 향해 쳐들어왔다. 그들이 그것 맞은편에 진을 치고, 그것을 둘러싸는 공성벽을 세웠다.",
+  "translation": "그의 통치 제구 년, 열째 달, 그 달 열째 날에 바벨 왕 느부갓드레차르가 그의 모든 군대와 함께 예루샬라임을 거슬러 왔다. 그들이 그것을 향해 진을 치고, 그것을 둘러싸며 공성탑을 세웠다.",
   "tokens": [
     {
-      "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "כלים"
+      "surface": "ויהי",
+      "gloss": "…에 이르렀다"
     },
     {
-      "surface": "כלי",
-      "gloss": "그릇들"
+      "surface": "בשנה",
+      "gloss": "년에"
     },
     {
-      "surface": "בית",
-      "gloss": "～의 집"
+      "surface": "התשעית",
+      "gloss": "제구"
     },
     {
-      "surface": "יהוה",
-      "gloss": "야훼"
+      "surface": "למלכו",
+      "gloss": "그의 통치"
     },
     {
-      "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "כלי"
+      "surface": "בחדש",
+      "gloss": "열째 달에"
     },
     {
-      "surface": "כלי",
-      "gloss": "그릇들"
+      "surface": "העשירי",
+      "gloss": "열째"
     },
     {
-      "surface": "בית",
-      "gloss": "～의 집"
+      "surface": "בעשור",
+      "gloss": "열째 날에"
     },
     {
-      "surface": "המלך",
-      "gloss": "왕의"
+      "surface": "לחדש",
+      "gloss": "그 달의"
     },
     {
-      "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "עמודי"
+      "surface": "בא",
+      "gloss": "왔다"
     },
     {
-      "surface": "עמודי",
-      "gloss": "기둥들"
+      "surface": "נבוכדראצר",
+      "gloss": "느부갓드레차르가"
     },
     {
-      "surface": "הנחשת",
-      "gloss": "놋의"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "הים"
-    },
-    {
-      "surface": "הים",
-      "gloss": "바다"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "הכנות"
-    },
-    {
-      "surface": "הכנות",
-      "gloss": "받침들"
-    },
-    {
-      "surface": "שבר",
-      "gloss": "깨뜨렸다"
-    },
-    {
-      "surface": "הכשדים",
-      "gloss": "칼데아인들이"
-    },
-    {
-      "surface": "הנושאים",
-      "gloss": "나르는 자들이"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "הנחשת"
-    },
-    {
-      "surface": "הנחשת",
-      "gloss": "그 놋을"
+      "surface": "מלך",
+      "gloss": "왕"
     },
     {
       "surface": "בבל",
-      "gloss": "바벨로"
+      "gloss": "바벨"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "그가"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "모든"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "군대와"
+    },
+    {
+      "surface": "על",
+      "gloss": "거슬러"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "예루샬라임을"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "진을 치고"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것을 향해"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "세웠다"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "그것을 둘러싸며"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "공성탑을"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "주위에"
     }
   ],
-  "timestamp": "2026-08-05T10:46:50.527505254Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:32:23.223779032Z",
+  "model": "glm-5.3"
 }

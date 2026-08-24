@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 22,
-  "translation": "불이 나가서 가시덤불을 덮쳐 곡식 단이나 곧 자란 것, 혹은 밭이 먹힐 때, 불을 낸 자가 ⟨את⟩ ⟨그⟩ 배상을 온전히 갚아야 한다.",
+  "translation": "불이 나서 가시덤불에 옮겨 붙어, 곡식 단이나 그 밭의 곡식이나 밭이 타버리면, 불을 낸 ⟨그⟩ 사람은 반드시 배상하되, ⟨את⟩ 그 태워진 것을 물어 주어야 한다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "～할 때"
+      "gloss": "만일"
     },
     {
       "surface": "תצא",
-      "gloss": "나가면"
+      "gloss": "나서"
     },
     {
       "surface": "אש",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "ומצאה",
-      "gloss": "덮치면"
+      "gloss": "옮겨 붙어"
     },
     {
       "surface": "קצים",
-      "gloss": "가시덤불을"
+      "gloss": "가시덤불에"
     },
     {
       "surface": "ונאכל",
-      "gloss": "먹힐 때"
+      "gloss": "태워지면"
     },
     {
       "surface": "גדיש",
-      "gloss": "곡식 단이나"
+      "gloss": "곡식 단이"
     },
     {
       "surface": "או",
-      "gloss": "혹은"
+      "gloss": "이나"
     },
     {
       "surface": "הקמה",
-      "gloss": "곧 자란 것"
+      "gloss": "그 밭의 곡식"
     },
     {
       "surface": "או",
-      "gloss": "혹은"
+      "gloss": "이나"
     },
     {
       "surface": "השדה",
@@ -53,26 +53,26 @@
     },
     {
       "surface": "שלם",
-      "gloss": "온전히"
+      "gloss": "배상하되"
     },
     {
       "surface": "ישלם",
-      "gloss": "갚아야 한다"
+      "gloss": "반드시 물어 주어야 한다"
     },
     {
       "surface": "המבער",
-      "gloss": "불을 낸 자가"
+      "gloss": "불을 낸 사람은"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "배상"
+      "marks": "그 태워진 것"
     },
     {
       "surface": "הבערה",
-      "gloss": "배상을"
+      "gloss": "그 태워진 것을"
     }
   ],
-  "timestamp": "2026-08-05T07:58:05.156511419Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:41:01.004031485Z",
+  "model": "glm-5.3"
 }

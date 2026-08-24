@@ -1,1 +1,45 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "ezra 2:33", "book": "ezra", "lang": "ko", "chapter": 2, "translation": "로드와 하디드와 오노의 아들들, 칠백 이십오.", "tokens": [{"surface": "בני", "gloss": "…의 아들들"}, {"surface": "לד", "gloss": "לod"}, {"surface": "חדיד", "gloss": "חadid"}, {"surface": "ואונו", "gloss": "그리고 אon-o"}, {"surface": "שבע", "gloss": "일곱"}, {"surface": "מאות", "gloss": "백"}, {"surface": "עשרים", "gloss": "이십"}, {"surface": "וחמשה", "gloss": "그리고 다섯"}], "timestamp": "2026-08-05T19:47:59.856404483Z", "model": "glm-5.2"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "ko",
+  "chapter": 2,
+  "translation": "로드, 하디드, 오노의 아들들, 칠백이십오 명.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "아들들"
+    },
+    {
+      "surface": "לד",
+      "gloss": "로드"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "하디드"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "오노"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "일곱"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "백"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "이십"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "다섯"
+    }
+  ],
+  "timestamp": "2026-08-24T15:38:10.463408369Z",
+  "model": "glm-5.3"
+}

@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 17,
-  "translation": "노인들의 면류관은 자손의 자녀들이요, 자녀들의 영광은 그들의 아비들이다.",
+  "translation": "노인들의 왕관은 손자들이며, 아들들의 영광은 그들의 아버지들이다.",
   "tokens": [
     {
       "surface": "עטרת",
-      "gloss": "면류관은"
+      "gloss": "왕관"
     },
     {
       "surface": "זקנים",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "בני",
-      "gloss": "～의 자녀"
+      "gloss": "~의 아들들"
     },
     {
       "surface": "בנים",
-      "gloss": "자손"
+      "gloss": "아들들"
     },
     {
       "surface": "ותפארת",
-      "gloss": "그리고 영광은"
+      "gloss": "그리고 영광"
     },
     {
       "surface": "בנים",
-      "gloss": "자녀들의"
+      "gloss": "아들들의"
     },
     {
       "surface": "אבותם",
-      "gloss": "그들의 아비들이다"
+      "gloss": "그들의 아버지들"
     }
   ],
-  "timestamp": "2026-08-05T11:56:17.001040038Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:44.705464911Z",
+  "model": "glm-5.3"
 }

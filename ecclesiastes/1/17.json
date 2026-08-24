@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "ko",
   "chapter": 1,
-  "translation": "나는 내 마음을 주어 지혜를 알고자 하였고, 미친 것과 어리석은 것도 알고자 하였다. 내가 안 것은, 이것 역시 루아흐의 헛된 욕망이라는 것이었다.",
+  "translation": "나는 내 마음을 기울여 지혜를 알고, 미친 것과 어리석은 것을 알게 되었다. 나는 알았다. 이것 또한 루아흐의 얽매임이라는 것을.",
   "tokens": [
     {
       "surface": "ואתנה",
-      "gloss": "나는 주었다"
+      "gloss": "나는 기울였다"
     },
     {
       "surface": "לבי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לדעת",
-      "gloss": "알고자"
+      "gloss": "알기 위해"
     },
     {
       "surface": "חכמה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ודעת",
-      "gloss": "그리고 알고자"
+      "gloss": "그리고 알게 되었다"
     },
     {
       "surface": "הוללות",
@@ -37,29 +37,29 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "내가 알았다"
+      "gloss": "나는 알았다"
     },
     {
       "surface": "שגם",
-      "gloss": "that even"
+      "gloss": "이것 또한"
     },
     {
       "surface": "זה",
-      "gloss": "이것이"
+      "gloss": "이것"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨이다⟩"
+      "gloss": "⟨그것이다⟩"
     },
     {
       "surface": "רעיון",
-      "gloss": "욕망이라는 것을"
+      "gloss": "얽매임"
     },
     {
       "surface": "רוח",
-      "gloss": "루아흐(바람)의"
+      "gloss": "루아흐"
     }
   ],
-  "timestamp": "2026-08-05T12:19:03.527154796Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:29.311170724Z",
+  "model": "glm-5.3"
 }

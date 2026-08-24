@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 13,
-  "translation": "그러므로 너희는 헛된 것을 보지 못하고, 점을 치지 못하리라. 내가 내 백성을 너희 손에서 건져내리니, 너희는 내가 야훼임을 알리라.",
+  "translation": "그러므로 너희는 헛된 것을 다시 보지 못할 것이요, 점술도 다시 행하지 못할 것이다. 내가 ⟨את⟩ 내 백성을 너희 손에서 건져내면, 너희는 내가 야훼인 줄 알리라.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,40 +13,40 @@
     },
     {
       "surface": "שוא",
-      "gloss": "헛된 것을"
+      "gloss": "헛된 것"
     },
     {
       "surface": "לא",
-      "gloss": "못하고"
+      "gloss": "…못할"
     },
     {
       "surface": "תחזינה",
-      "gloss": "보지"
+      "gloss": "보다"
     },
     {
       "surface": "וקסם",
-      "gloss": "점을"
+      "gloss": "점술도"
     },
     {
       "surface": "לא",
-      "gloss": "못하리라"
+      "gloss": "…못할"
     },
     {
       "surface": "תקסמנה",
-      "gloss": "치지"
+      "gloss": "행하다"
     },
     {
       "surface": "עוד",
-      "gloss": "다시는"
+      "gloss": "다시"
     },
     {
       "surface": "והצלתי",
-      "gloss": "건져내리니"
+      "gloss": "건져내면"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "내 백성을"
+      "marks": "내 백성"
     },
     {
       "surface": "עמי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "…인 줄"
     },
     {
       "surface": "אני",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼임을"
+      "gloss": "야훼"
     }
   ],
-  "timestamp": "2026-08-05T10:49:19.855190568Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:33:13.476498178Z",
+  "model": "glm-5.3"
 }

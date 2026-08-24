@@ -5,41 +5,41 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 17,
-  "translation": "그러나 그들이 듣지 않았다. 오히려 그들의 관례에 따라, ⟨그⟩ 처음 것으로, 그들이 행하고 있다.",
+  "translation": "그러나 그들은 듣지 아니하였다. 오직 그들의 처음 관례대로 행하고 있다.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "그러나 …아니"
+      "gloss": "그러나 ~아니"
     },
     {
       "surface": "שמעו",
-      "gloss": "그들이 들었다"
+      "gloss": "듣지 아니하였다"
     },
     {
       "surface": "כי",
-      "gloss": "…rather"
+      "gloss": "오직"
     },
     {
       "surface": "אם",
-      "gloss": "다만"
+      "gloss": "오직"
     },
     {
       "surface": "כמשפטם",
-      "gloss": "그들의 관례에 따라"
+      "gloss": "그들의 관례대로"
     },
     {
       "surface": "הראשון",
-      "gloss": "처음 것"
+      "gloss": "처음의"
     },
     {
       "surface": "הם",
-      "gloss": "그들이"
+      "gloss": "그들은"
     },
     {
       "surface": "עשים",
       "gloss": "행하고 있다"
     }
   ],
-  "timestamp": "2026-08-05T10:03:05.600519774Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:48.214373760Z",
+  "model": "glm-5.3"
 }

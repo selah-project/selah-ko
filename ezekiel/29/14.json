@@ -5,70 +5,71 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 29,
-  "translation": "그리고 내가 미츠라임의 포로 됨을 돌이키고, 그들을 그들의 고토(故土) 파트로스 땅으로 돌아오게 하리니, 그들이 거기서 낮은 왕국이 될 것이다.",
+  "translation": "내가 ⟨את⟩ 미츠라임의 포로 귀환을 되돌리시고, 그들을 그들의 본향 땅 파트로스 땅으로 돌아오게 하시겠다. 그들이 거기서 낮아진 왕국이 ⟨되리라⟩.",
   "tokens": [
     {
-      "surface": "וְשַׁבְתִּי֙",
-      "gloss": "그리고 내가 돌이키고"
+      "surface": "ושבתי",
+      "gloss": "되돌리시고"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "포로 됨"
+      "marks": "미츠라임의 포로 귀환"
     },
     {
-      "surface": "שְׁב֣וּת",
-      "gloss": "포로 됨"
+      "surface": "שבות",
+      "gloss": "포로 귀환"
     },
     {
-      "surface": "מִצְרַ֔יִם",
-      "gloss": "미츠라임의"
+      "surface": "מצרים",
+      "gloss": "미츠라임"
     },
     {
-      "surface": "וַהֲשִׁבֹתִ֤י",
-      "gloss": "돌아오게 하리니"
+      "surface": "והשבתי",
+      "gloss": "돌아오게 하시겠다"
     },
     {
-      "surface": "אֹתָם֙",
-      "gloss": "그들을"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
     },
     {
-      "surface": "אֶ֣רֶץ",
-      "gloss": "땅으로"
-    },
-    {
-      "surface": "פַּתְר֔וֹס",
-      "gloss": "파트로스"
-    },
-    {
-      "surface": "עַל",
-      "gloss": "위에"
-    },
-    {
-      "surface": "אֶ֖רֶץ",
+      "surface": "ארץ",
       "gloss": "땅"
     },
     {
-      "surface": "מְכֽוּרָתָ֑ם",
-      "gloss": "그들의 기원"
+      "surface": "פתרוס",
+      "gloss": "파트로스"
     },
     {
-      "surface": "וְהָ֥יוּ",
-      "gloss": "그리고 그들이 될 것이다"
+      "surface": "על",
+      "gloss": "으로"
     },
     {
-      "surface": "שָׁ֖ם",
+      "surface": "ארץ",
+      "gloss": "땅"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "그들의 본향"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "그들이 되리라"
+    },
+    {
+      "surface": "שם",
       "gloss": "거기서"
     },
     {
-      "surface": "מַמְלָכָ֥ה",
+      "surface": "ממלכה",
       "gloss": "왕국"
     },
     {
-      "surface": "שְׁפָלָֽה",
-      "gloss": "낮은"
+      "surface": "שפלה",
+      "gloss": "낮아진"
     }
   ],
-  "timestamp": "2026-08-05T10:56:53.217904011Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:33:06.038671629Z",
+  "model": "glm-5.3"
 }

@@ -5,81 +5,81 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 123,
-  "translation": "보라, 종들의 눈이 그들의 주인들의 손을 향하듯, 여종의 눈이 그 여주인의 손을 향하듯, 이같이 우리 눈이 야훼 우리 엘로힘을 향하나이다, ⟨그가⟩ 우리에게 은혜를 베푸실 때까지.",
+  "translation": "보라, 종들의 눈이 그들의 주인의 손을 향함같이, 여종의 눈이 그 여 주인의 손을 향함같이, 그렇게 우리의 눈은 우리의 엘로힘 야훼를 향하니, 그분께서 우리에게 은혜를 베푸실 때까지이다.",
   "tokens": [
     {
-      "surface": "הִנֵּ֨ה",
+      "surface": "הנה",
       "gloss": "보라"
     },
     {
-      "surface": "כְעֵינֵ֪י",
-      "gloss": "～의 눈이 ～와 같이"
+      "surface": "כעיני",
+      "gloss": "~의 눈같이"
     },
     {
-      "surface": "עֲבָדִ֡ים",
+      "surface": "עבדים",
       "gloss": "종들"
     },
     {
-      "surface": "אֶל",
-      "gloss": "향하듯"
+      "surface": "אל",
+      "gloss": "을 향하여"
     },
     {
-      "surface": "יַ֤ד",
+      "surface": "יד",
       "gloss": "손"
     },
     {
-      "surface": "אֲֽדוֹנֵיהֶ֗ם",
-      "gloss": "그들의 주인들의"
+      "surface": "אדוניהם",
+      "gloss": "그들의 주인"
     },
     {
-      "surface": "כְּעֵינֵ֣י",
-      "gloss": "～의 눈이 ～와 같이"
+      "surface": "כעיני",
+      "gloss": "~의 눈같이"
     },
     {
-      "surface": "שִׁפְחָה֮",
+      "surface": "שפחה",
       "gloss": "여종"
     },
     {
-      "surface": "אֶל",
-      "gloss": "향하듯"
+      "surface": "אל",
+      "gloss": "을 향하여"
     },
     {
-      "surface": "יַ֪ד",
+      "surface": "יד",
       "gloss": "손"
     },
     {
-      "surface": "גְּבִ֫רְתָּ֥הּ",
-      "gloss": "그 여주인의"
+      "surface": "גברתה",
+      "gloss": "그 여 주인"
     },
     {
-      "surface": "כֵּ֣ן",
-      "gloss": "이같이"
+      "surface": "כן",
+      "gloss": "그렇게"
     },
     {
-      "surface": "עֵ֭ינֵינוּ",
-      "gloss": "우리 눈이"
+      "surface": "עינינו",
+      "gloss": "우리의 눈"
     },
     {
-      "surface": "אֶל",
-      "gloss": "향하나이다"
+      "surface": "אל",
+      "gloss": "을 향하여"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "야훼"
     },
     {
-      "surface": "אֱלֹהֵ֑ינוּ",
-      "gloss": "우리 엘로힘"
+      "surface": "אלהינו",
+      "gloss": "우리의 엘로힘"
     },
     {
-      "surface": "עַ֝֗ד",
-      "gloss": "～할 때까지"
+      "surface": "עד",
+      "gloss": "~까지"
     },
     {
-      "surface": "שֶׁיְּחָנֵּֽנוּ",
-      "gloss": "은혜를 베푸시다"
+      "surface": "שיחננו",
+      "gloss": "그분께서 우리에게 은혜를 베푸신다"
     }
   ],
-  "timestamp": "2026-08-05T11:48:19.869869412Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:36.515935454Z",
+  "model": "glm-5.3"
 }

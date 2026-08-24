@@ -5,115 +5,115 @@
   "book": "1-chronicles",
   "lang": "ko",
   "chapter": 4,
-  "translation": "그리고 기록된 자들, 곧 이름으로 ⟨기록된⟩ 이들이 유다 왕 예호야킴의 날들에 들어왔다. 그들이 ⟨את⟩ 그들의 장막들과 ⟨את⟩ 거기에서 발견된 그 거주민들을 쳤고, 오늘 이 날까지 그들을 온전히 바쳤으며, 그들 대신에 거주하였다. 거기에 그들의 양 떼를 위한 목초지가 있었기 때문이다.",
+  "translation": "이름으로 기록된 이들이 유다 왕 히즈키야후의 날들에 와서 ⟨את⟩ 그들의 천막들과 ⟨את⟩ 그 곳에서 발견된 므웨님 사람들을 쳤고, 오늘 이 날까지 그들을 전멸시켰으며, 그들의 자리에 거주하였다. 거기에 그들의 양 떼를 위한 목초지가 있었기 때문이다.",
   "tokens": [
     {
-      "surface": "וַיָּבֹאוּ",
-      "gloss": "그리고 들어왔다"
+      "surface": "ויבאו",
+      "gloss": "왔고"
     },
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "이들이"
     },
     {
-      "surface": "הַכְּתוּבִים",
-      "gloss": "기록된 자들"
+      "surface": "הכתובים",
+      "gloss": "기록된"
     },
     {
-      "surface": "בְּשֵׁמוֹת",
+      "surface": "בשמות",
       "gloss": "이름으로"
     },
     {
-      "surface": "בִּימֵי",
-      "gloss": "날들에"
+      "surface": "בימי",
+      "gloss": "…의 날들에"
     },
     {
-      "surface": "יְחִזְקִיָּהוּ",
-      "gloss": "예호야킴"
+      "surface": "יחזקיהו",
+      "gloss": "히즈키야후"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "gloss": "왕"
     },
     {
-      "surface": "יְהוּדָה",
-      "gloss": "예후다"
+      "surface": "יהודה",
+      "gloss": "유다"
     },
     {
-      "surface": "וַיַּכּוּ",
-      "gloss": "그리고 쳤다"
+      "surface": "ויכו",
+      "gloss": "쳤고"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그들의 장막들"
+      "marks": "그들의 천막들"
     },
     {
-      "surface": "אָהֳלֵיהֶם",
-      "gloss": "그들의 장막들"
+      "surface": "אהליהם",
+      "gloss": "그들의 천막들"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "그 거주민들"
+      "marks": "므웨님 사람들"
     },
     {
-      "surface": "הַמְּעִינִים",
-      "gloss": "그 거주민들"
+      "surface": "המעינים",
+      "gloss": "므웨님 사람들"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "which\/that"
+      "surface": "אשר",
+      "gloss": "…을"
     },
     {
-      "surface": "נִמְצְאוּ",
+      "surface": "נמצאו",
       "gloss": "발견된"
     },
     {
-      "surface": "שָׁמָּה",
-      "gloss": "거기에서"
+      "surface": "שמה",
+      "gloss": "그 곳에서"
     },
     {
-      "surface": "וַיַּחֲרִימֻם",
-      "gloss": "그리고 그들을 온전히 바쳤다"
+      "surface": "ויחרימם",
+      "gloss": "그들을 전멸시켰으며"
     },
     {
-      "surface": "עַד",
-      "gloss": "까지"
+      "surface": "עד",
+      "gloss": "…까지"
     },
     {
-      "surface": "הַיּוֹם",
-      "gloss": "이 날"
-    },
-    {
-      "surface": "הַזֶּה",
+      "surface": "היום",
       "gloss": "오늘"
     },
     {
-      "surface": "וַיֵּשְׁבוּ",
-      "gloss": "그리고 거주하였다"
+      "surface": "הזה",
+      "gloss": "이 날"
     },
     {
-      "surface": "תַּחְתֵּיהֶם",
-      "gloss": "그들 대신에"
+      "surface": "וישבו",
+      "gloss": "거주하였다"
     },
     {
-      "surface": "כִּי",
+      "surface": "תחתיהם",
+      "gloss": "그들의 자리에"
+    },
+    {
+      "surface": "כי",
       "gloss": "때문이다"
     },
     {
-      "surface": "מִרְעֶה",
-      "gloss": "목초지가"
+      "surface": "מרעה",
+      "gloss": "목초지"
     },
     {
-      "surface": "לְצֹאנָם",
+      "surface": "לצאנם",
       "gloss": "그들의 양 떼를 위한"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "거기에"
     }
   ],
-  "timestamp": "2026-08-05T12:42:13.700241576Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:47.959244937Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 105,
-  "translation": "그리하여 그들이 민족에서 민족으로, 왕국에서 다른 백성으로 옮겨 다녔더라.",
+  "translation": "그들이 나라에서 나라로, 왕국에서 다른 백성에게로 옮겨 다녔다.",
   "tokens": [
     {
       "surface": "ויתהלכו",
-      "gloss": "옮겨 다녔더라"
+      "gloss": "옮겨 다녔다"
     },
     {
       "surface": "מגוי",
-      "gloss": "민족에서"
+      "gloss": "나라에서"
     },
     {
       "surface": "אל",
-      "gloss": "～로"
+      "gloss": "으로"
     },
     {
       "surface": "גוי",
-      "gloss": "민족"
+      "gloss": "나라"
     },
     {
       "surface": "מממלכה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "～로"
+      "gloss": "에게로"
     },
     {
       "surface": "עם",
@@ -40,6 +40,6 @@
       "gloss": "다른"
     }
   ],
-  "timestamp": "2026-08-05T11:43:26.123318110Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:24.558908751Z",
+  "model": "glm-5.3"
 }

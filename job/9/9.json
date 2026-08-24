@@ -1,1 +1,37 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "job 9:9", "book": "job", "lang": "ko", "chapter": 9, "translation": "⟨그분은⟩ 아쉬(큰곰)와 케씰(오리온)과 키마(묘성), 그리고 테만의 방들을 만드시는 이시다.", "tokens": [{"surface": "עֹֽשֶׂה", "gloss": "만드시는 이"}, {"surface": "עָ֭שׁ", "gloss": "עש"}, {"surface": "כְּסִ֥יל", "gloss": "כסיל"}, {"surface": "וְכִימָ֗ה", "gloss": "그리고 כימ라"}, {"surface": "וְחַדְרֵ֥י", "gloss": "그리고 …의 방들"}, {"surface": "תֵּמָֽן", "gloss": "테만"}], "timestamp": "2026-08-05T19:47:52.859950986Z", "model": "glm-5.2"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "ko",
+  "chapter": 9,
+  "translation": "오쉬와 케실과 키마, 그리고 남쪽의 방들을 만드시는 이시다.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "만드시는"
+    },
+    {
+      "surface": "עש",
+      "gloss": "오쉬"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "케실"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "그리고 키마"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "그리고 …의 방들"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "남쪽"
+    }
+  ],
+  "timestamp": "2026-08-24T15:37:02.058236685Z",
+  "model": "glm-5.3"
+}

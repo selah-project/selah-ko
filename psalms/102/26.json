@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 102,
-  "translation": "옛적에 땅을 ⟨당신이⟩根基를 세우셨고, 하늘들은 당신의 손들의 일이 ⟨이다⟩.",
+  "translation": "옛적에 ⟨그⟩ 땅의 기초를 놓으셨으니, 하늘들은 ⟨그⟩ 손의 만드신 것이다.",
   "tokens": [
     {
       "surface": "לפנים",
@@ -13,25 +13,25 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "땅을"
+      "gloss": "땅"
     },
     {
       "surface": "יסדת",
-      "gloss": "기반을 세우셨고"
+      "gloss": "기초를 놓으셨으니"
     },
     {
       "surface": "ומעשה",
-      "gloss": "그리고 …의 일이"
+      "gloss": "그리고 만드신 것"
     },
     {
       "surface": "ידיך",
-      "gloss": "당신의 손들의"
+      "gloss": "손"
     },
     {
       "surface": "שמים",
-      "gloss": "하늘들은"
+      "gloss": "하늘들"
     }
   ],
-  "timestamp": "2026-08-05T11:42:24.119546542Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:16.790936609Z",
+  "model": "glm-5.3"
 }

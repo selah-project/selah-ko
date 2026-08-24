@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 11,
-  "translation": "이스라엘 아들들에게 말하여 이르기를, 땅 위에 있는 모든 가축 중에서 너희가 먹을 수 있는 생물은 이것이라 하라:",
+  "translation": "이스라엘의 아들들에게 말하여 이르기를, 땅 위에 있는 모든 가축 가운데서 너희가 먹을 생물은 이것이다.",
   "tokens": [
     {
       "surface": "דברו",
@@ -29,31 +29,31 @@
     },
     {
       "surface": "זאת",
-      "gloss": "이것이"
+      "gloss": "이것"
     },
     {
       "surface": "החיה",
-      "gloss": "그 생물"
+      "gloss": "생물"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "…인"
     },
     {
       "surface": "תאכלו",
-      "gloss": "너희가 먹을 수 있다"
+      "gloss": "너희가 먹을"
     },
     {
       "surface": "מכל",
-      "gloss": "모든"
+      "gloss": "모든 …가운데서"
     },
     {
       "surface": "הבהמה",
-      "gloss": "그 가축"
+      "gloss": "가축"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "…인"
     },
     {
       "surface": "על",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "그 땅"
+      "gloss": "땅"
     }
   ],
-  "timestamp": "2026-08-05T18:03:56.088577701Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:19:54.323034845Z",
+  "model": "glm-5.3"
 }

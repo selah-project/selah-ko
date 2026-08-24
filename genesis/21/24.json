@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 21,
-  "translation": "아브라함이 말하였다. \"내가 맹세하겠다.\"",
+  "translation": "아브라함이 말하였다. \"나는 맹세하겠다.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "그리고 ～가 말하였다"
+      "gloss": "말하였다"
     },
     {
       "surface": "אברהם",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "내가"
+      "gloss": "나는"
     },
     {
       "surface": "אשבע",
       "gloss": "맹세하겠다"
     }
   ],
-  "timestamp": "2026-08-05T17:08:31.218018185Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:04.126536928Z",
+  "model": "glm-5.3"
 }

@@ -5,86 +5,86 @@
   "book": "2-samuel",
   "lang": "ko",
   "chapter": 13,
-  "translation": "아姆논이 타말에게 말하였다. \"음식을 ⟨그⟩ 방으로 가져오너라. 그리하면 내가 네 손에서 먹겠다.\" 타말이 자기가 만든 ⟨את⟩ 레비봇을 집어, 자기 오라비 아姆논에게 ⟨그⟩ 방으로 가져왔다.",
+  "translation": "암논이 타마르에게 말하였다. “음식을 그 방으로 가져오너라. 내가 네 손에서 먹겠다.” 타마르가 자기가 만든 ⟨את⟩ 그 떡들을 가져다가 그의 오라비 암논에게 그 방으로 들여왔다.",
   "tokens": [
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "말하였다"
     },
     {
-      "surface": "אַמְנֹון",
-      "gloss": "아姆논이"
+      "surface": "אמנון",
+      "gloss": "암논이"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "에게"
     },
     {
-      "surface": "תָּמָר",
-      "gloss": "타말"
+      "surface": "תמר",
+      "gloss": "타마르"
     },
     {
-      "surface": "הָבִיאִי",
+      "surface": "הביאי",
       "gloss": "가져오너라"
     },
     {
-      "surface": "הַבִּרְיָה",
-      "gloss": "음식을"
+      "surface": "הבריה",
+      "gloss": "그 음식을"
     },
     {
-      "surface": "הֶחָדֶר",
-      "gloss": "방으로"
+      "surface": "החדר",
+      "gloss": "그 방으로"
     },
     {
-      "surface": "וְאֹבְרֶה",
-      "gloss": "먹겠다"
+      "surface": "ואברה",
+      "gloss": "내가 먹겠다"
     },
     {
-      "surface": "מִיָּדֵךְ",
+      "surface": "מידך",
       "gloss": "네 손에서"
     },
     {
-      "surface": "וַתִּקַּח",
-      "gloss": "집어"
+      "surface": "ותקח",
+      "gloss": "가져다가"
     },
     {
-      "surface": "תָּמָר",
-      "gloss": "타말이"
+      "surface": "תמר",
+      "gloss": "타마르가"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "레비봇"
+      "marks": "그 떡들"
     },
     {
-      "surface": "הַלְּבִבֹות",
-      "gloss": "레비봇을"
+      "surface": "הלבבות",
+      "gloss": "그 떡들을"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "것을"
+      "surface": "אשר",
+      "gloss": "그것을"
     },
     {
-      "surface": "עָשָׂתָה",
-      "gloss": "자기가 만든"
+      "surface": "עשתה",
+      "gloss": "만든"
     },
     {
-      "surface": "וַתָּבֵא",
-      "gloss": "가져왔다"
+      "surface": "ותבא",
+      "gloss": "들여왔다"
     },
     {
-      "surface": "לְאַמְנֹון",
-      "gloss": "아姆논에게"
+      "surface": "לאמנון",
+      "gloss": "암논에게"
     },
     {
-      "surface": "אָחִיהָ",
-      "gloss": "자기 오라비"
+      "surface": "אחיה",
+      "gloss": "그의 오라비"
     },
     {
-      "surface": "הֶחָדְרָה",
-      "gloss": "방으로"
+      "surface": "החדרה",
+      "gloss": "그 방으로"
     }
   ],
-  "timestamp": "2026-08-05T09:38:37.013780932Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:26:54.596547314Z",
+  "model": "glm-5.3"
 }

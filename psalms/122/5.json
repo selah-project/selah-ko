@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 122,
-  "translation": "거기에 심판을 위한 왕좌들이, 다윗의 집을 위한 왕좌들이 놓여 있었기 때문이다.",
+  "translation": "거기에 심판을 위한 왕좌들이 놓였다, 다윗의 집의 왕좌들이.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "때문이다"
+      "gloss": "…때문이다"
     },
     {
       "surface": "שמה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישבו",
-      "gloss": "놓여 있었"
+      "gloss": "놓였다"
     },
     {
       "surface": "כסאות",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "לבית",
-      "gloss": "～의 집을 위한"
+      "gloss": "…의 집의"
     },
     {
       "surface": "דויד",
       "gloss": "다윗"
     }
   ],
-  "timestamp": "2026-08-05T11:47:51.236543120Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:29.068814276Z",
+  "model": "glm-5.3"
 }

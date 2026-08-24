@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ko",
   "chapter": 32,
-  "translation": "히즈키야후가 산헤립이 왔음을, 그리고 그의 얼굴이 예루샬라임을 향한 전쟁을 향하고 있음을 보았다.",
+  "translation": "히즈키야후가 산헤립이 왔음을, 그의 얼굴이 예루샬라임을 향한 전쟁에 향해 있음을 보았다.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "그리고 보았다"
+      "gloss": "보았다"
     },
     {
       "surface": "יחזקיהו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "왔다"
+      "gloss": "왔음을"
     },
     {
       "surface": "סנחריב",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "ופניו",
-      "gloss": "그리고 그의 얼굴이"
+      "gloss": "그의 얼굴이"
     },
     {
       "surface": "למלחמה",
-      "gloss": "전쟁을 향하여"
+      "gloss": "전쟁에"
     },
     {
       "surface": "על",
-      "gloss": "…에 against"
+      "gloss": "향한"
     },
     {
       "surface": "ירושלם",
       "gloss": "예루샬라임을"
     }
   ],
-  "timestamp": "2026-08-05T13:01:58.060424220Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:40:09.805745659Z",
+  "model": "glm-5.3"
 }

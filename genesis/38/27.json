@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 38,
-  "translation": "그녀가 해산할 때가 되자, 보라, 그녀의 태 안에 쌍둥이가 있었다.",
+  "translation": "그녀가 해산할 때가 되니, 보라, 그녀의 태에 쌍둥이가 있었다.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "～이 되자"
+      "gloss": "되니"
     },
     {
       "surface": "בעת",
-      "gloss": "때가"
+      "gloss": "때에"
     },
     {
       "surface": "לדתה",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בבטנה",
-      "gloss": "그녀의 태 안에"
+      "gloss": "그녀의 태에"
     }
   ],
-  "timestamp": "2026-08-05T17:58:58.969544718Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:31.685521134Z",
+  "model": "glm-5.3"
 }

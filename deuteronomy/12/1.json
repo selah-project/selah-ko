@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 12,
-  "translation": "이것들은 너희가 그 땅에서 지키며 행하도록 ⟨할⟩ 규례들과 판례들이니, 그 땅은 야훼 너희 조상들의 엘로힘이 너에게 주셔서 네가 그것을 소유하도록 ⟨한⟩ 것이요, 너희가 그 땅 위에 사는 모든 날 동안 ⟨그러하니라⟩.",
+  "translation": "이것이 너희가 지켜 행하도록 ⟨정해진⟩ 훗규들과 판결들이다 — 야훼 너희 조상들의 엘로힘께서 너희에게 주셔서 너희가 그것을 차지하게 하신 그 땅에서, 너희가 그 흙 위에서 사는 모든 날 동안.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "이것들은"
+      "gloss": "이것이"
     },
     {
       "surface": "החקים",
-      "gloss": "규례들"
+      "gloss": "훗규들"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "그리고 판례들"
+      "gloss": "그리고 판결들"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨that⟩"
+      "gloss": "…것을"
     },
     {
       "surface": "תשמרון",
-      "gloss": "너희가 지키며"
+      "gloss": "너희가 지키다"
     },
     {
       "surface": "לעשות",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨which⟩"
+      "gloss": "…것을"
     },
     {
       "surface": "נתן",
@@ -45,23 +45,23 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼가"
+      "gloss": "야훼"
     },
     {
       "surface": "אלהי",
-      "gloss": "엘로힘이"
+      "gloss": "…의 엘로힘"
     },
     {
       "surface": "אבתיך",
-      "gloss": "너의 조상들의"
+      "gloss": "너희 조상들"
     },
     {
       "surface": "לך",
-      "gloss": "너에게"
+      "gloss": "너희에게"
     },
     {
       "surface": "לרשתה",
-      "gloss": "그것을 소유하도록"
+      "gloss": "그것을 차지하게"
     },
     {
       "surface": "כל",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "הימים",
-      "gloss": "날 동안"
+      "gloss": "날들"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨that⟩"
+      "gloss": "…동안"
     },
     {
       "surface": "אתם",
@@ -81,17 +81,17 @@
     },
     {
       "surface": "חיים",
-      "gloss": "살아 있는"
+      "gloss": "살아 있다"
     },
     {
       "surface": "על",
-      "gloss": "위에"
+      "gloss": "위에서"
     },
     {
       "surface": "האדמה",
-      "gloss": "그 땅"
+      "gloss": "그 흙"
     }
   ],
-  "timestamp": "2026-08-05T08:54:49.354169715Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:47.008705344Z",
+  "model": "glm-5.3"
 }

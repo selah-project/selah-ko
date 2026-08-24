@@ -5,41 +5,41 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 1,
-  "translation": "因为 야훼께서는 의인들의 길을 아시며, 악인들의 길은 멸망한다.",
+  "translation": "야훼께서는 의로운 자들의 길을 아시며, 악한 자들의 길은 망할 것이기 때문이다.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "because"
+      "surface": "כי",
+      "gloss": "…때문이다"
     },
     {
-      "surface": "יוֹדֵ֣עַ",
-      "gloss": "아시다"
+      "surface": "יודע",
+      "gloss": "아시며"
     },
     {
-      "surface": "יְהוָה",
-      "gloss": "야훼"
+      "surface": "יהוה",
+      "gloss": "야훼께서는"
     },
     {
-      "surface": "דֶּ֣רֶךְ",
-      "gloss": "길"
+      "surface": "דרך",
+      "gloss": "길을"
     },
     {
-      "surface": "צַדִּיקִ֑ים",
-      "gloss": "의인들의"
+      "surface": "צדיקים",
+      "gloss": "의로운 자들의"
     },
     {
-      "surface": "וְדֶ֖רֶךְ",
-      "gloss": "그리고 길"
+      "surface": "ודרך",
+      "gloss": "악한 자들의 길은"
     },
     {
-      "surface": "רְשָׁעִ֣ים",
-      "gloss": "악인들의"
+      "surface": "רשעים",
+      "gloss": "악한 자들의"
     },
     {
-      "surface": "תֹּאבֵֽד",
-      "gloss": "멸망한다"
+      "surface": "תאבד",
+      "gloss": "망할 것이다"
     }
   ],
-  "timestamp": "2026-08-05T14:01:51.291455282Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:47.840836677Z",
+  "model": "glm-5.3"
 }

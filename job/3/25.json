@@ -5,41 +5,41 @@
   "book": "job",
   "lang": "ko",
   "chapter": 3,
-  "translation": "내가 두려워하던 바로 ⟨그⟩ 공포가 나를 찾아왔고, 내가 겁내던 것이 나에게 임하였다.",
+  "translation": "내가 두려워하던 그 무서움이 나에게 임하셨고, 내가 겁내던 것이 나에게 왔다.",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": "because"
+      "surface": "כי",
+      "gloss": "그리하여"
     },
     {
-      "surface": "פַ֣חַד",
-      "gloss": "공포"
+      "surface": "פחד",
+      "gloss": "무서움"
     },
     {
-      "surface": "פָּ֭חַדְתִּי",
-      "gloss": "내가 두려워하였다"
+      "surface": "פחדתי",
+      "gloss": "두려워하던"
     },
     {
-      "surface": "וַיֶּאֱתָיֵ֑נִי",
-      "gloss": "그것이 나를 찾아왔다"
+      "surface": "ויאתיני",
+      "gloss": "나에게 임하셨고"
     },
     {
-      "surface": "וַאֲשֶׁ֥ר",
-      "gloss": "그리고 ⟨그것⟩ ⟨which⟩"
+      "surface": "ואשר",
+      "gloss": "그리고 ⟨그것⟩"
     },
     {
-      "surface": "יָ֝גֹ֗רְתִּי",
-      "gloss": "내가 겁내던"
+      "surface": "יגרתי",
+      "gloss": "겁내던"
     },
     {
-      "surface": "יָ֣בֹא",
-      "gloss": "온다"
+      "surface": "יבא",
+      "gloss": "왔다"
     },
     {
-      "surface": "לִֽי",
+      "surface": "לי",
       "gloss": "나에게"
     }
   ],
-  "timestamp": "2026-08-05T12:00:40.584300978Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:39.123597672Z",
+  "model": "glm-5.3"
 }

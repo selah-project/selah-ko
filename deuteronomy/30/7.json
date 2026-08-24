@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 30,
-  "translation": "그리고 야훼 네 엘로힘이 ⟨את⟩ 이 모든 저주들, 이것들을 네 원수들 위에, 그리고 너를 미워하는 자들 위에, 너를 쫓았던 자들 위에 두실 것이다.",
+  "translation": "네 엘로힘 야훼께서 ⟨את⟩ 이 모든 저주를 네 원수들과, 너를 미워하며 너를 쫓던 자들 위에 두실 것이다.",
   "tokens": [
     {
       "surface": "ונתן",
@@ -13,32 +13,32 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼가"
+      "gloss": "야훼"
     },
     {
       "surface": "אלהיך",
-      "gloss": "네 엘로힘이"
+      "gloss": "네 엘로님이"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이 모든 저주들"
+      "marks": "이 모든 저주"
     },
     {
       "surface": "כל",
-      "gloss": "～모든"
+      "gloss": "모든"
     },
     {
       "surface": "האלות",
-      "gloss": "저주들을"
+      "gloss": "저주"
     },
     {
       "surface": "האלה",
-      "gloss": "이것들을"
+      "gloss": "이"
     },
     {
       "surface": "על",
-      "gloss": "～위에"
+      "gloss": "…위에"
     },
     {
       "surface": "איביך",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "그리고 ～위에"
+      "gloss": "그리고 …위에"
     },
     {
       "surface": "שנאיך",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "～하였던"
+      "gloss": "…던"
     },
     {
       "surface": "רדפוך",
-      "gloss": "너를 쫓았던 자들"
+      "gloss": "너를 쫓던 자들"
     }
   ],
-  "timestamp": "2026-08-05T09:01:07.608649361Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:05.256971001Z",
+  "model": "glm-5.3"
 }

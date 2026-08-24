@@ -5,41 +5,41 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 8,
-  "translation": "그리고 둘째 달에, 그 달의 스무일곱째 날에, 땅이 말랐다.",
+  "translation": "그리고 둘째 달, 그 달의 이십칠 일에 땅이 마르셨다 — 아니, 땅은 말랐다.",
   "tokens": [
     {
-      "surface": "וּבַחֹ֨דֶשׁ֙",
-      "gloss": "그리고 ⟨⟨…⟩⟩ 달에"
+      "surface": "ובחדש",
+      "gloss": "그리고 둘째 달에"
     },
     {
-      "surface": "הַשֵּׁנִ֔י",
+      "surface": "השני",
       "gloss": "둘째"
     },
     {
-      "surface": "בְּשִׁבְעָ֧ה",
-      "gloss": "일곱에"
+      "surface": "בשבעה",
+      "gloss": "일곱"
     },
     {
-      "surface": "וְעֶשְׂרִ֛ים",
+      "surface": "ועשרים",
       "gloss": "그리고 스물"
     },
     {
-      "surface": "י֖וֹם",
-      "gloss": "날"
+      "surface": "יום",
+      "gloss": "일"
     },
     {
-      "surface": "לַחֹ֑דֶשׁ",
+      "surface": "לחדש",
       "gloss": "그 달의"
     },
     {
-      "surface": "יָבְשָׁ֖ה",
+      "surface": "יבשה",
       "gloss": "말랐다"
     },
     {
-      "surface": "הָאָֽרֶץ",
-      "gloss": "땅이"
+      "surface": "הארץ",
+      "gloss": "땅은"
     }
   ],
-  "timestamp": "2026-08-05T19:33:45.947275852Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:50.422381125Z",
+  "model": "glm-5.3"
 }

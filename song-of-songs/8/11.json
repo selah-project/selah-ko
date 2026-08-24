@@ -5,66 +5,66 @@
   "book": "song-of-songs",
   "lang": "ko",
   "chapter": 8,
-  "translation": "슐로모에게 ⟨⟨⟩⟩ 한 포도원이 있었으니, 바알 하몬에 있었다. 그가 ⟨את⟩ 그 포도원을 지키는 자들에게 주었으므로, 각자 그것의 열매로 은 천을 가져왔다.",
+  "translation": "셸로모에게 포도원이 있었다. 바알 하몬에. ⟨그⟩ 포도원을 지키는 자들에게 주셨다 — 아무도 아닌 셸로모가. 각 사람이 그 열매로 은 천을 가져온다.",
   "tokens": [
     {
-      "surface": "כֶּ֣רֶם",
-      "gloss": "포도원이"
+      "surface": "כרם",
+      "gloss": "포도원"
     },
     {
-      "surface": "הָיָ֤ה",
-      "gloss": "있었으니"
+      "surface": "היה",
+      "gloss": "있었다"
     },
     {
-      "surface": "לִשְׁלֹמֹה֙",
-      "gloss": "슐로모에게"
+      "surface": "לשלמה",
+      "gloss": "셸로모에게"
     },
     {
-      "surface": "בְּבַ֣עַל",
-      "gloss": "바알"
+      "surface": "בבעל",
+      "gloss": "바알에"
     },
     {
-      "surface": "הָמ֔וֹן",
-      "gloss": "하몬에"
+      "surface": "המון",
+      "gloss": "하몬"
     },
     {
-      "surface": "נָתַ֥ן",
-      "gloss": "그가 주었으므로"
+      "surface": "נתן",
+      "gloss": "주셨다"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "그 포도원"
     },
     {
-      "surface": "הַכֶּ֖רֶם",
-      "gloss": "그 포도원을"
+      "surface": "הכרם",
+      "gloss": "그 포도원"
     },
     {
-      "surface": "לַנֹּטְרִ֑ים",
+      "surface": "לנטרים",
       "gloss": "지키는 자들에게"
     },
     {
-      "surface": "אִ֛ישׁ",
-      "gloss": "각자"
+      "surface": "אישׁ",
+      "gloss": "각 사람"
     },
     {
-      "surface": "יָבִ֥א",
-      "gloss": "가져왔다"
+      "surface": "יביא",
+      "gloss": "가져온다"
     },
     {
-      "surface": "בְּפִרְי֖וֹ",
-      "gloss": "그것의 열매로"
+      "surface": "בפריו",
+      "gloss": "그 열매로"
     },
     {
-      "surface": "אֶ֥לֶף",
+      "surface": "אלף",
       "gloss": "천"
     },
     {
-      "surface": "כָּֽסֶף",
+      "surface": "כסף",
       "gloss": "은"
     }
   ],
-  "timestamp": "2026-08-05T12:15:30.290252546Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:35.438790465Z",
+  "model": "glm-5.3"
 }

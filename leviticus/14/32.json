@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 14,
-  "translation": "이것이 ⟨את⟩ 그에게서 손이 미치지 못하는 정결함 가운데 있는 그에게, ⟨그것인⟩ 곧 창백병의 재앙이 있는 자의 토라이다.",
+  "translation": "이것이 그 안에 나병(차라앗)의 병변이 있고 그의 정결함에 그의 손이 미치지 못하는 자의 토라이다.",
   "tokens": [
     {
       "surface": "זאת",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "תורת",
-      "gloss": "토라"
+      "gloss": "토라이다"
     },
     {
       "surface": "אשר",
-      "gloss": "who"
+      "gloss": "…자"
     },
     {
       "surface": "בו",
-      "gloss": "그에게서"
+      "gloss": "그 안에"
     },
     {
       "surface": "נגע",
-      "gloss": "재앙"
+      "gloss": "병변"
     },
     {
       "surface": "צרעת",
-      "gloss": "창백병"
+      "gloss": "나병"
     },
     {
       "surface": "אשר",
-      "gloss": "who"
+      "gloss": "…자"
     },
     {
       "surface": "לא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "תשיג",
-      "gloss": "미치는"
+      "gloss": "미치지"
     },
     {
       "surface": "ידו",
@@ -52,6 +52,6 @@
       "gloss": "그의 정결함에"
     }
   ],
-  "timestamp": "2026-08-05T08:18:15.613040387Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:59.108624046Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 29,
-  "translation": "\"이 칠일의 기간을 채우시오. 그리하면 ⟨나는⟩ ⟨את⟩ 이것도 당신에게 주리다 — 당신이 나와 함께 다시 일곱 해를 더 섬기는 일로.\"",
+  "translation": "이 ‘일곱’을 채워 마치라. 그러면 네가 나와 함께 또 일곱 해를 더 섬기는 섬김으로 ⟨את⟩ 이 여자도 네게 주겠다.",
   "tokens": [
     {
       "surface": "מלא",
-      "gloss": "채우시오"
+      "gloss": "채워 마치라"
     },
     {
       "surface": "שבע",
-      "gloss": "칠일의 기간"
+      "gloss": "‘일곱’을"
     },
     {
       "surface": "זאת",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ונתנה",
-      "gloss": "주리다"
+      "gloss": "주겠다"
     },
     {
       "surface": "לך",
-      "gloss": "당신에게"
+      "gloss": "네게"
     },
     {
       "surface": "גם",
@@ -34,23 +34,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이것"
+      "marks": "이 여자"
     },
     {
       "surface": "זאת",
-      "gloss": "이것"
+      "gloss": "이 여자"
     },
     {
       "surface": "בעבדה",
-      "gloss": "일로"
+      "gloss": "섬김으로"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "—"
     },
     {
       "surface": "תעבד",
-      "gloss": "섬기다"
+      "gloss": "섬기는"
     },
     {
       "surface": "עמדי",
@@ -73,6 +73,6 @@
       "gloss": "다른"
     }
   ],
-  "timestamp": "2026-08-05T13:34:12.636370435Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:59.301536211Z",
+  "model": "glm-5.3"
 }

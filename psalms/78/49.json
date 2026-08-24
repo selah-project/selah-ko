@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 78,
-  "translation": "그들의 위에 그의 진노의 타오름을 보내셨다 — 격분과 노여움과 고난을, 악한 사자(使者)들의 파견을.",
+  "translation": "그들 위에 그의 진노의 불타심을 보내시되, 분노와 격분과 재앙을, 악한 사자들을 보내어 ⟨그것을⟩ 내치듯 하셨다.",
   "tokens": [
     {
       "surface": "ישלח",
-      "gloss": "보내셨다"
+      "gloss": "보내시되"
     },
     {
       "surface": "בם",
-      "gloss": "그들의 위에"
+      "gloss": "그들 위에"
     },
     {
       "surface": "חרון",
-      "gloss": "타오름"
+      "gloss": "불타심"
     },
     {
       "surface": "אפו",
@@ -25,29 +25,29 @@
     },
     {
       "surface": "עברה",
-      "gloss": "격분"
+      "gloss": "분노"
     },
     {
       "surface": "וזעם",
-      "gloss": "그리고 노여움"
+      "gloss": "격분"
     },
     {
       "surface": "וצרה",
-      "gloss": "그리고 고난"
+      "gloss": "재앙"
     },
     {
       "surface": "משלחת",
-      "gloss": "파견"
+      "gloss": "보내어 내치듯"
     },
     {
       "surface": "מלאכי",
-      "gloss": "사자(使者)들의"
+      "gloss": "사자들을"
     },
     {
       "surface": "רעים",
       "gloss": "악한"
     }
   ],
-  "timestamp": "2026-08-05T14:03:39.659628738Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:45.457450689Z",
+  "model": "glm-5.3"
 }

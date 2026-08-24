@@ -5,57 +5,57 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 20,
-  "translation": "이스라엘 사람이 돌이켰다. 그리고 브야민 사람이 두려워하였다. 그가 보았기 때문이다 — ⟨그⟩ 재앙이 그에게 미쳤기 때문이다.",
+  "translation": "이스라엘 사람이 돌이키니, 빈야민 사람이 크게 놀랐다. 그들이 ⟨그⟩ 재앙이 자기들에게 미친 것을 보았기 때문이다.",
   "tokens": [
     {
-      "surface": "וְאִ֤ישׁ",
-      "gloss": "그리고 ⟨사람⟩이"
+      "surface": "ואיש",
+      "gloss": "그리고 …사람"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "이스라엘"
     },
     {
-      "surface": "הָפַ֔ךְ",
-      "gloss": "돌이켰다"
+      "surface": "הפך",
+      "gloss": "돌이키니"
     },
     {
-      "surface": "וַיִּבָּהֵ֖ל",
-      "gloss": "그리고 두려워하였다"
+      "surface": "ויבהל",
+      "gloss": "크게 놀랐다"
     },
     {
-      "surface": "אִ֣ישׁ",
-      "gloss": "사람은"
+      "surface": "איש",
+      "gloss": "…사람"
     },
     {
-      "surface": "בִּנְיָמִ֑ן",
-      "gloss": "브야민"
+      "surface": "בנימן",
+      "gloss": "빈야민"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "왜냐하면"
+      "surface": "כי",
+      "gloss": "… 때문에"
     },
     {
-      "surface": "רָאָ֔ה",
-      "gloss": "그가 보았다"
+      "surface": "ראה",
+      "gloss": "보았다"
     },
     {
-      "surface": "כִּֽי",
-      "gloss": "because"
+      "surface": "כי",
+      "gloss": "…임을"
     },
     {
-      "surface": "נָגְעָ֥ה",
-      "gloss": "미쳤다"
+      "surface": "נגעה",
+      "gloss": "미친"
     },
     {
-      "surface": "עָלָ֖יו",
-      "gloss": "그에게"
+      "surface": "עליו",
+      "gloss": "자기들에게"
     },
     {
-      "surface": "הָרָעָֽה",
-      "gloss": "그 재앙이"
+      "surface": "הרעה",
+      "gloss": "재앙"
     }
   ],
-  "timestamp": "2026-08-05T18:10:12.164914874Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:31.265145370Z",
+  "model": "glm-5.3"
 }

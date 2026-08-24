@@ -5,94 +5,94 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 7,
-  "translation": "이것이 제단의 봉헌이었다 — 그것이 기름 부음을 받은 날에, 이스라엘의首领들 ⟨으로부터⟩ ⟨⟨את⟩ 그것을⟩: 은 쟁반 열둘, 은 대접 열둘, 금 숟가락 열둘.",
+  "translation": "이것이 제단이 기름 부음 받던 날의 봉헌이니, 이스라엘의 족장들 ⟨את⟩(으로부터) 드린 것이다. 은 그릇 열둘, 은 대접 열둘, 금 받칩 열둘이다.",
   "tokens": [
     {
-      "surface": "זֹ֣את",
-      "gloss": "이것"
+      "surface": "זאת",
+      "gloss": "이것이"
     },
     {
-      "surface": "חֲנֻכַּ֣ת",
+      "surface": "חנכת",
       "gloss": "봉헌"
     },
     {
-      "surface": "הַמִּזְבֵּ֗חַ",
+      "surface": "המזבח",
       "gloss": "제단의"
     },
     {
-      "surface": "בְּיוֹם֙",
-      "gloss": "날에"
+      "surface": "ביום",
+      "gloss": "…던 날의"
     },
     {
-      "surface": "הִמָּשַׁ֣ח",
-      "gloss": "기름 부음을 받은"
+      "surface": "המשח",
+      "gloss": "기름 부음 받던"
     },
     {
-      "surface": "אֹת֔וֹ",
-      "gloss": "⟨את⟩ 그것을",
-      "marks": "제단"
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 그것을"
     },
     {
-      "surface": "מֵאֵ֖ת",
-      "gloss": "로부터"
+      "surface": "מאת",
+      "gloss": "⟨את⟩(으로부터)",
+      "marks": "이스라엘의 족장들"
     },
     {
-      "surface": "נְשִׂיאֵ֣י",
-      "gloss": "首领들의"
+      "surface": "נשיאי",
+      "gloss": "족장들"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
-      "gloss": "이스라엘"
+      "surface": "ישראל",
+      "gloss": "이스라엘의"
     },
     {
-      "surface": "קַעֲרֹ֨ת",
-      "gloss": "쟁반들"
+      "surface": "קערת",
+      "gloss": "그릇"
     },
     {
-      "surface": "כֶּ֜סֶף",
+      "surface": "כסף",
       "gloss": "은"
     },
     {
-      "surface": "שְׁתֵּ֣ים",
+      "surface": "שתים",
       "gloss": "둘"
     },
     {
-      "surface": "עֶשְׂרֵ֗ה",
+      "surface": "עשרה",
       "gloss": "열"
     },
     {
-      "surface": "מִֽזְרְקֵי",
-      "gloss": "대접들"
+      "surface": "מזרקי",
+      "gloss": "대접"
     },
     {
-      "surface": "כֶ֨סֶף֙",
+      "surface": "כסף",
       "gloss": "은"
     },
     {
-      "surface": "שְׁנֵ֣ים",
+      "surface": "שנים",
       "gloss": "둘"
     },
     {
-      "surface": "עָשָׂ֔ר",
+      "surface": "עשר",
       "gloss": "열"
     },
     {
-      "surface": "כַּפּ֥וֹת",
-      "gloss": "숟가락들"
+      "surface": "כפות",
+      "gloss": "받침"
     },
     {
-      "surface": "זָהָ֖ב",
+      "surface": "זהב",
       "gloss": "금"
     },
     {
-      "surface": "שְׁתֵּ֥ים",
+      "surface": "שתים",
       "gloss": "둘"
     },
     {
-      "surface": "עֶשְׂרֵֽה",
+      "surface": "עשרה",
       "gloss": "열"
     }
   ],
-  "timestamp": "2026-08-05T08:32:36.879434720Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:19.882529855Z",
+  "model": "glm-5.3"
 }

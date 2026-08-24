@@ -5,61 +5,61 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 25,
-  "translation": "그리고 맞아 죽은 그 미디안 여인의 이름 ⟨은⟩ 코즈비, ጽ우르의 딸, 미디안 가문들의 수장이었다 — 그가 ⟨바로⟩ 그 여자이다.",
+  "translation": "그리고 맞아 죽임을 당한 그 미디안 여인의 이름은 코즈비, 즈르의 딸이다 — 미디안의 아버지-집들 곧 민족들의 우두머리 ⟨그⟩가 바로 그이다.",
   "tokens": [
     {
-      "surface": "וְשֵׁ֨ם",
-      "gloss": "그리고 ~의 이름은"
+      "surface": "ושם",
+      "gloss": "그리고 이름은"
     },
     {
-      "surface": "הָֽאִשָּׁ֧ה",
+      "surface": "האשה",
       "gloss": "그 여인"
     },
     {
-      "surface": "הַמֻּכָּ֛ה",
-      "gloss": "맞아 죽은"
+      "surface": "המכה",
+      "gloss": "맞아 죽임을 당한"
     },
     {
-      "surface": "הַמִּדְיָנִ֖ית",
+      "surface": "המדינית",
       "gloss": "그 미디안 여인"
     },
     {
-      "surface": "כָּזְבִּ֣י",
+      "surface": "כזבי",
       "gloss": "코즈비"
     },
     {
-      "surface": "בַת",
+      "surface": "בת",
       "gloss": "딸"
     },
     {
-      "surface": "צ֑וּר",
-      "gloss": "ጽ우르"
+      "surface": "צור",
+      "gloss": "즈르"
     },
     {
-      "surface": "רֹ֣אשׁ",
-      "gloss": "수장"
+      "surface": "ראש",
+      "gloss": "우두머리"
     },
     {
-      "surface": "אֻמּ֥וֹת",
-      "gloss": "가문들의"
+      "surface": "אמות",
+      "gloss": "민족들"
     },
     {
-      "surface": "בֵֽית",
-      "gloss": "가문"
+      "surface": "בית",
+      "gloss": "집"
     },
     {
-      "surface": "אָ֛ב",
+      "surface": "אב",
       "gloss": "아버지"
     },
     {
-      "surface": "בְּמִדְיָ֖ן",
-      "gloss": "미디안의"
+      "surface": "במדין",
+      "gloss": "미디안에서"
     },
     {
-      "surface": "הֽוּא",
-      "gloss": "그가 그 여자이다"
+      "surface": "הוא",
+      "gloss": "그가 바로 그이다"
     }
   ],
-  "timestamp": "2026-08-05T08:42:55.225909799Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:35.366662065Z",
+  "model": "glm-5.3"
 }

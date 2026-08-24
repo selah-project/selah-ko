@@ -5,86 +5,86 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 1,
-  "translation": "예후네의 아들 칼렙은 제외하고 — 그는 ⟨그것을⟩ 보리라. 내가 그가 밟은 ⟨את⟩ 그 땅을 그와 그의 아들들에게 주리라. 그가 야훼를 온전히 따랐으므로.",
+  "translation": "그러나 나는 제외한다 — 예푼네의 아들 칼레브는, 그가 그것을 보리니, 내가 그가 밟아 다닌 그 땅 ⟨את⟩을 그와 그의 아들들에게 주리니, 이는 그가 온전히 야훼를 따랐음이다.",
   "tokens": [
     {
-      "surface": "זֽוּלָתִ֞י",
-      "gloss": "제외하고"
+      "surface": "זולתי",
+      "gloss": "제외한다"
     },
     {
-      "surface": "כָּלֵ֤ב",
-      "gloss": "칼렙은"
+      "surface": "כלב",
+      "gloss": "칼레브"
     },
     {
-      "surface": "בֶּן",
+      "surface": "בן",
       "gloss": "아들"
     },
     {
-      "surface": "יְפֻנֶּה֙",
-      "gloss": "예후네의"
+      "surface": "יפנה",
+      "gloss": "예푼네"
     },
     {
-      "surface": "ה֣וּא",
-      "gloss": "그는"
+      "surface": "הוא",
+      "gloss": "그가"
     },
     {
-      "surface": "יִרְאֶ֔נָּה",
-      "gloss": "보리라"
+      "surface": "יראנה",
+      "gloss": "보리니"
     },
     {
-      "surface": "וְלֽוֹ",
-      "gloss": "그리고 그에게"
+      "surface": "ולו",
+      "gloss": "그에게"
     },
     {
-      "surface": "אֶתֵּ֧ן",
-      "gloss": "주리라"
+      "surface": "אתן",
+      "gloss": "주리니"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "땅"
+      "marks": "그 땅"
     },
     {
-      "surface": "הָאָ֛רֶץ",
-      "gloss": "땅을"
+      "surface": "הארץ",
+      "gloss": "땅"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "⟨that⟩"
+      "surface": "אשר",
+      "gloss": "—"
     },
     {
-      "surface": "דָּֽרַךְ",
-      "gloss": "밟은"
+      "surface": "דרך",
+      "gloss": "밟아 다닌"
     },
     {
-      "surface": "בָּ֖הּ",
-      "gloss": "그"
+      "surface": "בה",
+      "gloss": "그것을"
     },
     {
-      "surface": "וּלְבָנָ֑יו",
-      "gloss": "그리고 그의 아들들에게"
+      "surface": "ולבניו",
+      "gloss": "그의 아들들에게도"
     },
     {
-      "surface": "יַ֕עַן",
-      "gloss": "그러므로"
+      "surface": "יען",
+      "gloss": "이는"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "⟨because⟩"
+      "surface": "אשר",
+      "gloss": "—"
     },
     {
-      "surface": "מִלֵּ֖א",
-      "gloss": "온전히 따랐으므로"
+      "surface": "מלא",
+      "gloss": "온전히 채워"
     },
     {
-      "surface": "אַחֲרֵ֥י",
-      "gloss": "뒤를"
+      "surface": "אחרי",
+      "gloss": "따랐음"
     },
     {
-      "surface": "יְהוָֽה",
-      "gloss": "야훼를"
+      "surface": "יהוה",
+      "gloss": "야훼"
     }
   ],
-  "timestamp": "2026-08-05T08:49:10.176145241Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:05.662195156Z",
+  "model": "glm-5.3"
 }

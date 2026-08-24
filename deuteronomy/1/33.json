@@ -5,73 +5,73 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 1,
-  "translation": "너희 앞에서 길을 걸어가시며, 너희가 진 칠 ⟨곳을⟩ 찾아 헤아리시고, 너희가 걸어갈 길을 보여주시려고 밤에는 불로, 낮에는 구름으로 ⟨하셨다⟩ —",
+  "translation": "그분은 길에서 너희보다 앞서 걸어가시며, 너희가 진칠 곳을 찾으러 가셨다 — 밤에는 불로, 너희가 걸어갈 길을 너희에게 보여주시려고, 그리고 낮에는 구름으로.",
   "tokens": [
     {
-      "surface": "הַהֹלֵ֨ךְ",
-      "gloss": "걸어가시며"
+      "surface": "ההלך",
+      "gloss": "걸어가시는 그분"
     },
     {
-      "surface": "לִפְנֵיכֶ֜ם",
-      "gloss": "너희 앞에서"
+      "surface": "לפניכם",
+      "gloss": "너희보다 앞서"
     },
     {
-      "surface": "בַּדֶּ֗רֶךְ",
-      "gloss": "길을"
+      "surface": "בדרך",
+      "gloss": "길에서"
     },
     {
-      "surface": "לָת֥וּר",
-      "gloss": "찾아 헤아리시며"
+      "surface": "לתור",
+      "gloss": "찾으러"
     },
     {
-      "surface": "לָכֶ֛ם",
-      "gloss": "너희가"
+      "surface": "לכם",
+      "gloss": "너희를 위하여"
     },
     {
-      "surface": "מָק֖וֹם",
-      "gloss": "곳을"
+      "surface": "מקום",
+      "gloss": "곳"
     },
     {
-      "surface": "לַֽחֲנֹֽתְכֶ֑ם",
-      "gloss": "진 칠"
+      "surface": "לחנתכם",
+      "gloss": "너희가 진칠"
     },
     {
-      "surface": "בָּאֵ֣שׁ",
+      "surface": "באש",
       "gloss": "불로"
     },
     {
-      "surface": "לַ֗יְלָה",
-      "gloss": "밤에는"
+      "surface": "לילה",
+      "gloss": "밤에"
     },
     {
-      "surface": "לַרְאֹֽתְכֶם֙",
-      "gloss": "보여주시려고"
+      "surface": "לראתכם",
+      "gloss": "너희에게 보여주시려고"
     },
     {
-      "surface": "בַּדֶּ֨רֶךְ֙",
+      "surface": "בדרך",
       "gloss": "길을"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "⟨that⟩"
+      "surface": "אשר",
+      "gloss": "⟨그⟩ …인"
     },
     {
-      "surface": "תֵּֽלְכוּ",
+      "surface": "תלכו",
       "gloss": "너희가 걸어갈"
     },
     {
-      "surface": "בָ֔הּ",
-      "gloss": "그"
+      "surface": "בה",
+      "gloss": "그것을"
     },
     {
-      "surface": "וּבֶעָנָ֖ן",
+      "surface": "ובענן",
       "gloss": "그리고 구름으로"
     },
     {
-      "surface": "יוֹמָֽם",
-      "gloss": "낮에는"
+      "surface": "יומם",
+      "gloss": "낮에"
     }
   ],
-  "timestamp": "2026-08-05T08:49:10.175784336Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:09.377154643Z",
+  "model": "glm-5.3"
 }

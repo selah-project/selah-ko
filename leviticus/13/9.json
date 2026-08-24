@@ -5,41 +5,41 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 13,
-  "translation": "나병 징후가 사람에게 있게 되면, ⟨그는⟩ 코헨에게 데려져야 한다.",
+  "translation": "사람에게 צרעת(차라아트)의 נגע(네가)가 있으면, ⟨그⟩는 코헨(제사장)에게 데려져야 한다.",
   "tokens": [
     {
-      "surface": "נֶ֣גַע",
-      "gloss": "징후"
+      "surface": "נגע",
+      "gloss": "נגע(네가)"
     },
     {
-      "surface": "צָרַ֔עַת",
-      "gloss": "나병"
+      "surface": "צרעת",
+      "gloss": "차라아트의"
     },
     {
-      "surface": "כִּ֥י",
-      "gloss": "when"
+      "surface": "כי",
+      "gloss": "…하면"
     },
     {
-      "surface": "תִהְיֶ֖ה",
-      "gloss": "있게 되면"
+      "surface": "תהיה",
+      "gloss": "있으면"
     },
     {
-      "surface": "בְּאָדָ֑ם",
+      "surface": "באדם",
       "gloss": "사람에게"
     },
     {
-      "surface": "וְהוּבָ֖א",
+      "surface": "והובא",
       "gloss": "데려져야 한다"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "에게"
     },
     {
-      "surface": "הַכֹּהֵֽן",
-      "gloss": "코헨"
+      "surface": "הכהן",
+      "gloss": "코헨(제사장)"
     }
   ],
-  "timestamp": "2026-08-05T08:17:06.672568512Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:19:54.339405411Z",
+  "model": "glm-5.3"
 }

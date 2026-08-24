@@ -5,77 +5,77 @@
   "book": "isaiah",
   "lang": "ko",
   "chapter": 32,
-  "translation": "궁궐이 버림을 당하고 도성의 소란이 떠남을 당하리니, 산성과 망대가 동굴이 되어 영원까지, 들나귀의 즐거움이, 양 떼의 목장이 되리라.",
+  "translation": "이는 성채가 버려지고, 도성의 소란이 떠나가며, 언덕 요새와 망대가 영원히 짐승 굴이 되어 들나귀의 즐거움이며 양 떼의 풀밭이 되기 때문이다.",
   "tokens": [
     {
-      "surface": "כִּי",
-      "gloss": "～이니"
+      "surface": "כי",
+      "gloss": "이는 … 때문에"
     },
     {
-      "surface": "אַרְמוֹן",
-      "gloss": "궁궐이"
+      "surface": "ארמון",
+      "gloss": "성채"
     },
     {
-      "surface": "נֻטָּשׁ",
-      "gloss": "버림을 당하고"
+      "surface": "נטש",
+      "gloss": "버려지고"
     },
     {
-      "surface": "הָמוֹן",
+      "surface": "המון",
       "gloss": "소란이"
     },
     {
-      "surface": "עִיר",
+      "surface": "עיר",
       "gloss": "도성의"
     },
     {
-      "surface": "עֻזָּב",
-      "gloss": "떠남을 당하리니"
+      "surface": "עזב",
+      "gloss": "떠나가며"
     },
     {
-      "surface": "עֹפֶל",
-      "gloss": "산성과"
+      "surface": "עפל",
+      "gloss": "언덕 요새"
     },
     {
-      "surface": "וָבַחַן",
-      "gloss": "망대가"
+      "surface": "ובחן",
+      "gloss": "망대"
     },
     {
-      "surface": "הָיָה",
+      "surface": "היה",
       "gloss": "되어"
     },
     {
-      "surface": "בְּעַד",
-      "gloss": "～이"
+      "surface": "בעד",
+      "gloss": "…을 위하여"
     },
     {
-      "surface": "מְעָרוֹת",
-      "gloss": "동굴"
+      "surface": "מערות",
+      "gloss": "짐승 굴"
     },
     {
-      "surface": "עַד",
-      "gloss": "까지"
+      "surface": "עד",
+      "gloss": "…까지"
     },
     {
-      "surface": "עוֹלָם",
-      "gloss": "영원"
+      "surface": "עולם",
+      "gloss": "영원히"
     },
     {
-      "surface": "מָשׂוֹשׂ",
-      "gloss": "즐거움이"
+      "surface": "משוש",
+      "gloss": "즐거움"
     },
     {
-      "surface": "פְּרָאִים",
+      "surface": "פראים",
       "gloss": "들나귀의"
     },
     {
-      "surface": "מִרְעֶה",
-      "gloss": "목장이"
+      "surface": "מרעה",
+      "gloss": "풀밭"
     },
     {
-      "surface": "עֲדָרִים",
-      "gloss": "양 떼의"
+      "surface": "עדרים",
+      "gloss": "양 떼"
     }
   ],
-  "timestamp": "2026-08-05T13:55:13.521282020Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:48.214149069Z",
+  "model": "glm-5.3"
 }

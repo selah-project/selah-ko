@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 6,
-  "translation": "因为 질투는 남자의 격분이며, 보복의 날에 아끼지 않을 것이다.",
+  "translation": "대답함은 질투가 곧 남자의 노함이기 때문이다. 그가 보복의 날에 아끼지 ⟨않을 것⟩이기 때문이다.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "때문에"
+      "surface": "כי",
+      "gloss": "대답함은 … 때문이다"
     },
     {
-      "surface": "קִנְאָ֥ה",
-      "gloss": "질투는"
+      "surface": "קנאה",
+      "gloss": "질투"
     },
     {
-      "surface": "חֲמַת",
-      "gloss": "격분이며"
+      "surface": "חמת",
+      "gloss": "노함"
     },
     {
-      "surface": "גָּ֑בֶר",
+      "surface": "גבר",
       "gloss": "남자의"
     },
     {
-      "surface": "וְלֹֽא",
-      "gloss": "아니할"
+      "surface": "ולא",
+      "gloss": "아니"
     },
     {
-      "surface": "יַ֝חְמ֗וֹל",
-      "gloss": "아끼실"
+      "surface": "יחמול",
+      "gloss": "아끼다"
     },
     {
-      "surface": "בְּי֣וֹם",
+      "surface": "ביום",
       "gloss": "날에"
     },
     {
-      "surface": "נָקָֽם",
+      "surface": "נקם",
       "gloss": "보복의"
     }
   ],
-  "timestamp": "2026-08-05T14:03:38.370197618Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:18.335579220Z",
+  "model": "glm-5.3"
 }

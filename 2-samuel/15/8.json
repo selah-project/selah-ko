@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ko",
   "chapter": 15,
-  "translation": "\"종이 구스르에서, 아람에 머물 때에 서원을 하며 말하기를, '만일 야훼께서 참으로 저를 예루샬라임으로 돌려보내신다면, 제가 야훼를 섬기겠나이다' 하였나이다.\"",
+  "translation": "저의 종이 아람의 그술에 머물 때 '야훼께서 참으로 저를 예루샬라임으로 돌이켜 주시면, 저는 ⟨את⟩ 야훼를 섬기겠다' 하고 서원을 하였기 때문이다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "—For—"
+      "gloss": "때문이다"
     },
     {
       "surface": "נדר",
@@ -17,39 +17,39 @@
     },
     {
       "surface": "נדר",
-      "gloss": "하며"
+      "gloss": "서원하였다"
     },
     {
       "surface": "עבדך",
-      "gloss": "종이"
+      "gloss": "저의 종이"
     },
     {
       "surface": "בשבתי",
-      "gloss": "머물 때에"
+      "gloss": "머물 때"
     },
     {
       "surface": "בגשור",
-      "gloss": "구스르에서"
+      "gloss": "그술에"
     },
     {
       "surface": "בארם",
-      "gloss": "아람에"
+      "gloss": "아람의"
     },
     {
       "surface": "לאמר",
-      "gloss": "말하기를"
+      "gloss": "이르기를"
     },
     {
       "surface": "אם",
-      "gloss": "만일"
+      "gloss": "…면"
     },
     {
       "surface": "ישיב",
-      "gloss": "—certainly—"
+      "gloss": "참으로 돌이키시면"
     },
     {
       "surface": "ישיבני",
-      "gloss": "돌려보내신다면"
+      "gloss": "저를 돌이켜 주시면"
     },
     {
       "surface": "יהוה",
@@ -61,18 +61,18 @@
     },
     {
       "surface": "ועבדתי",
-      "gloss": "섬기겠나이다"
+      "gloss": "섬기겠다"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "야훼를"
+      "marks": "야훼"
     },
     {
       "surface": "יהוה",
       "gloss": "야훼를"
     }
   ],
-  "timestamp": "2026-08-05T13:48:29.366105840Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:28:06.356718502Z",
+  "model": "glm-5.3"
 }

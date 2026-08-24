@@ -5,93 +5,93 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 6,
-  "translation": "그의 나지르 서원의 모든 날 동안 면도칼이 그의 머리 위로 지나가지 아니하리니, 야훼께 헌신하는 그 날들이 채워질 때까지 그는 거룩할 것이요, 그의 머리털을 자라게 하여 방치하여야 한다.",
+  "translation": "그의 나짜르 서원의 모든 날 동안 면도칼은 그의 머리 위를 지나가지 못한다. 야훼께 드리는 구별의 날들이 차기까지 그는 거룩할 것이다. 그는 자기 머리의 머리털을 길게 자라게 할 것이다.",
   "tokens": [
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "יְמֵי֙",
-      "gloss": "날들 동안"
+      "surface": "ימי",
+      "gloss": "날 동안"
     },
     {
-      "surface": "נֶ֣דֶר",
+      "surface": "נדר",
       "gloss": "서원의"
     },
     {
-      "surface": "נִזְר֔וֹ",
-      "gloss": "그의 구별됨"
+      "surface": "נזרו",
+      "gloss": "그의 구별"
     },
     {
-      "surface": "תַּ֖עַר",
-      "gloss": "면도칼이"
+      "surface": "תער",
+      "gloss": "면도칼은"
     },
     {
-      "surface": "לֹא",
-      "gloss": "아니"
+      "surface": "לא",
+      "gloss": "…지 못한다"
     },
     {
-      "surface": "יַעֲבֹ֣ר",
-      "gloss": "지나가지"
+      "surface": "יעבר",
+      "gloss": "지나가다"
     },
     {
-      "surface": "עַל",
-      "gloss": "위로"
+      "surface": "על",
+      "gloss": "위를"
     },
     {
-      "surface": "רֹאשׁ֑וֹ",
+      "surface": "ראשו",
       "gloss": "그의 머리"
     },
     {
-      "surface": "עַד",
-      "gloss": "까지"
+      "surface": "עד",
+      "gloss": "…까지"
     },
     {
-      "surface": "מְלֹ֨את",
-      "gloss": "채워질"
+      "surface": "מלאת",
+      "gloss": "차기"
     },
     {
-      "surface": "הַיָּמִ֜ים",
+      "surface": "הימם",
       "gloss": "그 날들이"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "⟨그⟩ which"
+      "surface": "אשר",
+      "gloss": "…인"
     },
     {
-      "surface": "יַזִּ֤יר",
-      "gloss": "헌신하는"
+      "surface": "יזיר",
+      "gloss": "구별하다"
     },
     {
-      "surface": "לַיהוָה֙",
+      "surface": "ליהוה",
       "gloss": "야훼께"
     },
     {
-      "surface": "קָדֹ֣שׁ",
+      "surface": "קדש",
       "gloss": "거룩한"
     },
     {
-      "surface": "יִהְיֶ֔ה",
-      "gloss": "⟨그가⟩ 할 것이요"
+      "surface": "יהיה",
+      "gloss": "있을 것이다"
     },
     {
-      "surface": "גַּדֵּ֥ל",
-      "gloss": "자라게 하여"
+      "surface": "גדל",
+      "gloss": "길게 자라게 하다"
     },
     {
-      "surface": "פֶּ֖רַע",
-      "gloss": "방치하여"
+      "surface": "פרע",
+      "gloss": "흐트러진 머리털"
     },
     {
-      "surface": "שְׂעַ֥ר",
-      "gloss": "머리털을"
+      "surface": "שער",
+      "gloss": "머리털"
     },
     {
-      "surface": "רֹאשֽׁוֹ",
-      "gloss": "그의 머리"
+      "surface": "ראשו",
+      "gloss": "자기 머리의"
     }
   ],
-  "timestamp": "2026-08-05T08:30:26.213418956Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:39.482965513Z",
+  "model": "glm-5.3"
 }

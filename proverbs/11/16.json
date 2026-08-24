@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 11,
-  "translation": "헨(은혜)의 여인은 영광을 붙잡고, 폭군들은 부(富)를 붙잡는다.",
+  "translation": "헨(은혜) 있는 여인은 영광을 붙들며, 강포한 자들은 재물을 붙든다.",
   "tokens": [
     {
       "surface": "אשת",
-      "gloss": "—의 여인은"
+      "gloss": "여인"
     },
     {
       "surface": "חן",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "תתמך",
-      "gloss": "붙잡고"
+      "gloss": "붙들며"
     },
     {
       "surface": "כבוד",
-      "gloss": "영광을"
+      "gloss": "영광"
     },
     {
       "surface": "ועריצים",
-      "gloss": "폭군들은"
+      "gloss": "강포한 자들은"
     },
     {
       "surface": "יתמכו",
-      "gloss": "붙잡는다"
+      "gloss": "붙든다"
     },
     {
       "surface": "עשר",
-      "gloss": "부(富)를"
+      "gloss": "재물"
     }
   ],
-  "timestamp": "2026-08-05T11:54:28.891652026Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:20.198355483Z",
+  "model": "glm-5.3"
 }

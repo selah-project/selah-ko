@@ -5,78 +5,78 @@
   "book": "ruth",
   "lang": "ko",
   "chapter": 3,
-  "translation": "그녀가 ⟨그의⟩ 발치에서 아침까지 누웠고, ⟨한⟩ 사람이 ⟨את⟩ ⟨그의⟩ 동료를 알아보기 전에 일어났다. 그가 말하였다 — ⟨그⟩ 여자가 타작마당에 왔다는 것이 알려지지 않게 하라.",
+  "translation": "그녀가 ⟨그⟩ 아침까지 그의 발치에 누워 있다가, 사람이 ⟨את⟩ 자기 동료를 알아보기 전에 일어났다. 그가 말하였다. \"여인이 ⟨그⟩ 타작 마당에 왔다는 것이 알려지지 않게 하라.\"",
   "tokens": [
     {
-      "surface": "וַתִּשְׁכַּ֤ב",
-      "gloss": "그녀가 누웠고"
+      "surface": "ותשכב",
+      "gloss": "누워 있다가"
     },
     {
       "surface": "מרגלתו",
-      "gloss": "⟨그의⟩ 발치에서"
+      "gloss": "그의 발치에"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "까지"
     },
     {
-      "surface": "הַבֹּ֔קֶר",
+      "surface": "הבקר",
       "gloss": "아침"
     },
     {
-      "surface": "וַתָּ֕קָם",
+      "surface": "ותקם",
       "gloss": "일어났다"
     },
     {
       "surface": "בטרום",
-      "gloss": "전에"
+      "gloss": "하기 전에"
     },
     {
-      "surface": "יַכִּ֥יר",
+      "surface": "יכיר",
       "gloss": "알아보다"
     },
     {
-      "surface": "אִ֖ישׁ",
-      "gloss": "⟨한⟩ 사람이"
+      "surface": "איש",
+      "gloss": "사람이"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨그의⟩ 동료"
+      "marks": "자기 동료"
     },
     {
-      "surface": "רֵעֵ֑הוּ",
-      "gloss": "⟨그의⟩ 동료"
+      "surface": "רעהו",
+      "gloss": "자기 동료를"
     },
     {
-      "surface": "וַיֹּ֨אמֶר֙",
-      "gloss": "그가 말하였다"
+      "surface": "ויאמר",
+      "gloss": "말하였다"
     },
     {
-      "surface": "אַל",
-      "gloss": "하지 말라"
+      "surface": "אל",
+      "gloss": "하지 않게"
     },
     {
-      "surface": "יִוָּדַ֔ע",
+      "surface": "יודע",
       "gloss": "알려지다"
     },
     {
-      "surface": "כִּי",
-      "gloss": "that"
+      "surface": "כי",
+      "gloss": "라는 것이"
     },
     {
-      "surface": "בָ֥אָה",
+      "surface": "באה",
       "gloss": "왔다"
     },
     {
-      "surface": "הָאִשָּׁ֖ה",
-      "gloss": "⟨그⟩ 여자가"
+      "surface": "האשה",
+      "gloss": "여인이"
     },
     {
-      "surface": "הַגֹּֽרֶן",
-      "gloss": "타작마당에"
+      "surface": "הגרן",
+      "gloss": "타작 마당에"
     }
   ],
-  "timestamp": "2026-08-05T12:16:44.893224285Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:04.283646511Z",
+  "model": "glm-5.3"
 }

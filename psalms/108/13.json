@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 108,
-  "translation": "우리에게 환난으로부터 ⟨⟨את⟩⟩ 도움을 주소서. 인간의 구원은 헛되기 때문이다.",
+  "translation": "곤고에게서 우리를 도우시라 — 사람의 구원은 헛되다.",
   "tokens": [
     {
       "surface": "הבה",
-      "gloss": "주소서"
+      "gloss": "주시라"
     },
     {
       "surface": "לנו",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "עזרת",
-      "gloss": "도움을"
+      "gloss": "도움"
     },
     {
       "surface": "מצר",
-      "gloss": "환난으로부터"
+      "gloss": "곤고에게서"
     },
     {
       "surface": "ושוא",
-      "gloss": "헛되기 때문이다"
+      "gloss": "그리고 헛되다"
     },
     {
       "surface": "תשועת",
-      "gloss": "구원은"
+      "gloss": "구원"
     },
     {
       "surface": "אדם",
-      "gloss": "인간의"
+      "gloss": "사람"
     }
   ],
-  "timestamp": "2026-08-05T11:44:14.679134343Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:21.097290608Z",
+  "model": "glm-5.3"
 }

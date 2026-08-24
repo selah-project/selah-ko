@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 17,
-  "translation": "속이는 것은 ⟨그⟩ 마음, 모든 것에서 ⟨가장甚⟨하다⟩; 그것은 중병이다. 누가 그것을 알겠는가?",
+  "translation": "속이는 것은 마음이니, 모든 것보다 더하며, ⟨그것은⟩ 고칠 수 없다. 누가 그것을 알겠는가?",
   "tokens": [
     {
       "surface": "עקב",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "הלב",
-      "gloss": "마음"
+      "gloss": "마음이니"
     },
     {
       "surface": "מכל",
-      "gloss": "모든 것에서"
+      "gloss": "모든 것보다"
     },
     {
       "surface": "ואנש",
-      "gloss": "중병이다"
+      "gloss": "고칠 수 없다"
     },
     {
       "surface": "הוא",
-      "gloss": "그것은"
+      "gloss": "⟨그것은⟩"
     },
     {
       "surface": "מי",
       "gloss": "누가"
     },
     {
-      "surface": "ידענו",
-      "gloss": "알겠는가"
+      "surface": "ידעננו",
+      "gloss": "그것을 알겠는가"
     }
   ],
-  "timestamp": "2026-08-05T10:32:16.518929383Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:31:35.189125901Z",
+  "model": "glm-5.3"
 }

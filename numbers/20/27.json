@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 20,
-  "translation": "모셰는 야훼께서 명하신 대로 하였다. 그리고 ⟨그들은⟩ 온 회중이 보는 가운데 호르 그 산으로 올라갔다.",
+  "translation": "모셰가 야훼께서 명령하신 대로 행하였고, 그들이 온 회중의 눈앞에서 호르 산으로 올라갔다.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "그리고 하였다"
+      "gloss": "행하였고"
     },
     {
       "surface": "משה",
-      "gloss": "모셰는"
+      "gloss": "모셰가"
     },
     {
       "surface": "כאשר",
-      "gloss": "～대로"
+      "gloss": "대로"
     },
     {
       "surface": "צוה",
-      "gloss": "명하신"
+      "gloss": "명령하신"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "그리고 올라갔다"
+      "gloss": "올라갔다"
     },
     {
       "surface": "אל",
-      "gloss": "～으로"
+      "gloss": "으로"
     },
     {
       "surface": "הר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ההר",
-      "gloss": "그 산"
+      "gloss": "산"
     },
     {
       "surface": "לעיני",
-      "gloss": "～가 보는 가운데"
+      "gloss": "눈앞에서"
     },
     {
       "surface": "כל",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "העדה",
-      "gloss": "회중"
+      "gloss": "회중의"
     }
   ],
-  "timestamp": "2026-08-05T08:39:20.882677962Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:42.217815247Z",
+  "model": "glm-5.3"
 }

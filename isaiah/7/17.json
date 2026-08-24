@@ -5,90 +5,90 @@
   "book": "isaiah",
   "lang": "ko",
   "chapter": 7,
-  "translation": "야훼께서 ⟨그⟩ 왕이 에프라임이 유다에게서 떠나分离한 날부터 이르지 않았던 날들을, 곧 아슈르 왕을 너와 네 백성과 네 아버지의 집 위에 ⟨또한⟩ 가져오실 것이다.",
+  "translation": "야훼께서 에프라임이 유다에게서 떠난 날 이래 오지 않던 날들을 — ⟨את⟩ 아슈르 왕을 — 너와 네 백성과 네 아버지의 집 위에 가져오실 것이다.",
   "tokens": [
     {
-      "surface": "יָבִ֨יא",
+      "surface": "יביא",
       "gloss": "가져오실 것이다"
     },
     {
-      "surface": "יְהוָ֜ה",
-      "gloss": "야훼"
+      "surface": "יהוה",
+      "gloss": "야훼께서"
     },
     {
-      "surface": "עָלֶ֗יךָ",
+      "surface": "עליך",
       "gloss": "너 위에"
     },
     {
-      "surface": "וְעַֽל",
-      "gloss": "그리고 ~ 위에"
+      "surface": "ועל",
+      "gloss": "그리고 … 위에"
     },
     {
-      "surface": "עַמְּךָ֮",
+      "surface": "עמך",
       "gloss": "네 백성"
     },
     {
-      "surface": "וְעַל",
-      "gloss": "그리고 ~ 위에"
+      "surface": "ועל",
+      "gloss": "그리고 … 위에"
     },
     {
-      "surface": "בֵּ֣ית",
+      "surface": "בית",
       "gloss": "집"
     },
     {
-      "surface": "אָבִיךָ֒",
+      "surface": "אביך",
       "gloss": "네 아버지의"
     },
     {
-      "surface": "יָמִים֙",
-      "gloss": "날들을"
+      "surface": "ימים",
+      "gloss": "날들"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "그것은"
+      "surface": "אשר",
+      "gloss": "…것을"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "아니"
     },
     {
-      "surface": "בָ֔אוּ",
-      "gloss": "이르지"
+      "surface": "באו",
+      "gloss": "오다"
     },
     {
-      "surface": "לְמִיּ֥וֹם",
-      "gloss": "~ 날부터"
+      "surface": "למיום",
+      "gloss": "…날부터"
     },
     {
-      "surface": "ס֖וּר",
-      "gloss": "떠난"
+      "surface": "סור",
+      "gloss": "떠나다"
     },
     {
-      "surface": "אֶפְרַ֖יִם",
+      "surface": "אפרים",
       "gloss": "에프라임"
     },
     {
-      "surface": "מֵעַ֣ל",
-      "gloss": "~에게서"
+      "surface": "מעל",
+      "gloss": "…에게서"
     },
     {
-      "surface": "יְהוּדָ֑ה",
+      "surface": "יהודה",
       "gloss": "유다"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "왕"
+      "marks": "아슈르 왕"
     },
     {
-      "surface": "מֶ֥לֶךְ",
+      "surface": "מלך",
       "gloss": "왕"
     },
     {
-      "surface": "אַשּֽׁוּר",
+      "surface": "אשור",
       "gloss": "아슈르"
     }
   ],
-  "timestamp": "2026-08-05T18:15:07.531836710Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:54.649405840Z",
+  "model": "glm-5.3"
 }

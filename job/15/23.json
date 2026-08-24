@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "ko",
   "chapter": 15,
-  "translation": "⟨그는⟩ 빵을 위하여 방황한다 — 어디 있는가? ⟨그는⟩ 안다, 어둠의 날이 ⟨그의⟩ 손에 준비되어 있음을.",
+  "translation": "그는 빵을 구하러 이리저리 방황하며 '어디 있는가' 한다. 그는 어둠의 날이 그의 손에 준비되어 있음을 안다.",
   "tokens": [
     {
       "surface": "נדד",
-      "gloss": "방황한다"
+      "gloss": "이리저리 방황하며"
     },
     {
       "surface": "הוא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ללחם",
-      "gloss": "빵을 위하여"
+      "gloss": "빵을 구하러"
     },
     {
       "surface": "איה",
-      "gloss": "어디 있는가"
+      "gloss": "'어디 있는가'"
     },
     {
       "surface": "ידע",
@@ -29,25 +29,25 @@
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "…임을"
     },
     {
       "surface": "נכון",
-      "gloss": "준비되어 있다"
+      "gloss": "준비되어"
     },
     {
       "surface": "בידו",
-      "gloss": "손에"
+      "gloss": "그의 손에"
     },
     {
       "surface": "יום",
-      "gloss": "날이"
+      "gloss": "날"
     },
     {
       "surface": "חשך",
       "gloss": "어둠의"
     }
   ],
-  "timestamp": "2026-08-05T14:05:22.556380775Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:58.173170028Z",
+  "model": "glm-5.3"
 }

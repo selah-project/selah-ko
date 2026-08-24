@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 8,
-  "translation": "땅을, ⟨그리고⟩ 밖의 넓은 곳들을 아직 만들지 않으셨을 때, 세계의 먼지들의 처음을.",
+  "translation": "그가 아직 땅을 만들지 않으셨을 때, 들판들도, 테벨의 흙먼지의 시작도 없었을 때에.",
   "tokens": [
     {
-      "surface": "עַד",
-      "gloss": "까지"
+      "surface": "עד",
+      "gloss": "…하는 동안"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "아직 ～아니"
+      "surface": "לא",
+      "gloss": "아직 …않았을 때"
     },
     {
-      "surface": "עָ֭שָׂה",
-      "gloss": "만드셨을"
+      "surface": "עשה",
+      "gloss": "만들지 않으셨다"
     },
     {
-      "surface": "אֶ֣רֶץ",
+      "surface": "ארץ",
       "gloss": "땅을"
     },
     {
-      "surface": "וְחוּצ֑וֹת",
-      "gloss": "밖의 넓은 곳들을"
+      "surface": "וחוצות",
+      "gloss": "들판들도"
     },
     {
-      "surface": "וְ֝רֹ֗אשׁ",
-      "gloss": "처음을"
+      "surface": "וראש",
+      "gloss": "…의 시작도"
     },
     {
-      "surface": "עָפְר֥וֹת",
-      "gloss": "먼지들의"
+      "surface": "עפרות",
+      "gloss": "흙먼지의"
     },
     {
-      "surface": "תֵּבֵֽל",
-      "gloss": "세계의"
+      "surface": "תבל",
+      "gloss": "테벨의"
     }
   ],
-  "timestamp": "2026-08-05T11:54:02.062057147Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:46.185075323Z",
+  "model": "glm-5.3"
 }

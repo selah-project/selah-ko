@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 9,
-  "translation": "그들이 ⟨את⟩ 모셰가 명령한 것을 만남의 장막 앞으로 가져오니, 온 회중이 가까이 나아와 야훼 앞에 섰다.",
+  "translation": "그들이 모셰가 명령한 것을 ⟨את⟩ 회중의 천막 앞으로 가져오니, 온 회중이 가까이 나아와 야훼 앞에 서였다.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "그들이 가져오니"
+      "gloss": "가져오니"
     },
     {
       "surface": "את",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "which\/that"
+      "gloss": "…것을"
     },
     {
       "surface": "צוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "앞으로"
+      "gloss": "…으로"
     },
     {
       "surface": "פני",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "אהל",
-      "gloss": "장막"
+      "gloss": "천막"
     },
     {
       "surface": "מועד",
-      "gloss": "만남"
+      "gloss": "회의(모임)"
     },
     {
       "surface": "ויקרבו",
-      "gloss": "나아와"
+      "gloss": "가까이 나아와"
     },
     {
       "surface": "כל",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "העדה",
-      "gloss": "회중이"
+      "gloss": "회중"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "섰다"
+      "gloss": "서였다"
     },
     {
       "surface": "לפני",
@@ -69,6 +69,6 @@
       "gloss": "야훼"
     }
   ],
-  "timestamp": "2026-08-05T08:14:33.555515211Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:32.954470576Z",
+  "model": "glm-5.3"
 }

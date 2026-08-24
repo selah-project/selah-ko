@@ -5,51 +5,51 @@
   "book": "joshua",
   "lang": "ko",
   "chapter": 8,
-  "translation": "모셰가 명령한 모든 것 중에서 빠진 말씀이 하나도 없었다 — 예호수아가 이스라엘 온 회중과 여인들과 어린아이들과 그들 가운데行走하는 거류민 앞에서 읽지 않은 것이.",
+  "translation": "모셰가 명령한 것 가운데 ⟨어떤⟩ 말도 없었다 — 이스라엘의 온 회중과 여인들과 아이들과 그들 가운데 살아가는 거류민 앞에서 여호수아가 낭독하지 아니한 말은 ⟨하나도⟩ 없었다.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "아니한"
     },
     {
       "surface": "היה",
-      "gloss": "있었다"
+      "gloss": "없었다"
     },
     {
       "surface": "דבר",
-      "gloss": "말씀이"
+      "gloss": "말"
     },
     {
       "surface": "מכל",
-      "gloss": "모든 것 중에서"
+      "gloss": "모든 것 가운데"
     },
     {
       "surface": "אשר",
-      "gloss": "…것"
+      "gloss": "⟨것⟩"
     },
     {
       "surface": "צוה",
-      "gloss": "명령하"
+      "gloss": "명령한"
     },
     {
       "surface": "משה",
-      "gloss": "모셰가"
+      "gloss": "모셰"
     },
     {
       "surface": "אשר",
-      "gloss": "…것"
+      "gloss": "—"
     },
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "아니한"
     },
     {
       "surface": "קרא",
-      "gloss": "읽으"
+      "gloss": "낭독하지"
     },
     {
       "surface": "יהושע",
-      "gloss": "예호수아가"
+      "gloss": "여호수아"
     },
     {
       "surface": "נגד",
@@ -69,25 +69,25 @@
     },
     {
       "surface": "והנשים",
-      "gloss": "여인들과"
+      "gloss": "그리고 여인들"
     },
     {
       "surface": "והטף",
-      "gloss": "어린아이들과"
+      "gloss": "그리고 아이들"
     },
     {
       "surface": "והגר",
-      "gloss": "거류민"
+      "gloss": "그리고 거류민"
     },
     {
       "surface": "ההלך",
-      "gloss": "행하는"
+      "gloss": "살아가는"
     },
     {
       "surface": "בקרבם",
       "gloss": "그들 가운데"
     }
   ],
-  "timestamp": "2026-08-05T09:07:22.999455350Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:52.622703948Z",
+  "model": "glm-5.3"
 }

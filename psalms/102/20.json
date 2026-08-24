@@ -5,45 +5,45 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 102,
-  "translation": "곧 그가 자신의 거룩한 곳의 높이에서 내려다보셨으니, 야훼께서 하늘에서 땅을 굽어보셨도다.",
+  "translation": "그가 그의 거룩한 높이에서 굽어보셨기 때문이다; 야훼가 하늘에서 땅을 향해 주목하여 보셨다.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "곧"
+      "surface": "כי",
+      "gloss": "때문이다"
     },
     {
-      "surface": "הִ֭שְׁקִיף",
-      "gloss": "내려다보셨으니"
+      "surface": "השקיף",
+      "gloss": "굽어보셨기"
     },
     {
-      "surface": "מִמְּר֣וֹם",
-      "gloss": "～에서 높이"
+      "surface": "ממרום",
+      "gloss": "높이에서"
     },
     {
-      "surface": "קָדְשׁ֑וֹ",
-      "gloss": "자신의 거룩한 곳"
+      "surface": "קדשו",
+      "gloss": "그의 거룩한"
     },
     {
-      "surface": "יְהוָ֗ה",
-      "gloss": "야훼께서"
+      "surface": "יהוה",
+      "gloss": "야훼가"
     },
     {
-      "surface": "מִשָּׁמַ֤יִם",
-      "gloss": "～에서 하늘"
+      "surface": "משמים",
+      "gloss": "하늘에서"
     },
     {
-      "surface": "אֶל",
-      "gloss": "～로"
+      "surface": "אל",
+      "gloss": "향해"
     },
     {
-      "surface": "אֶ֬רֶץ",
-      "gloss": "땅"
+      "surface": "ארץ",
+      "gloss": "땅을"
     },
     {
-      "surface": "הִבִּֽיט",
-      "gloss": "굽어보셨도다"
+      "surface": "הביט",
+      "gloss": "주목하여 보셨다"
     }
   ],
-  "timestamp": "2026-08-05T11:42:45.018592417Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:03.756346483Z",
+  "model": "glm-5.3"
 }

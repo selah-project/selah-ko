@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "ko",
   "chapter": 22,
-  "translation": "너의 악이 크지 아니하냐? 그리고 너의 죄악들에 ⟨대하여⟩ 끝이 없지 아니하냐?",
+  "translation": "네 악이 크지 아니하냐, 네 죄악들에게 끝이 없지 아니하냐?",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "～이 아니냐"
+      "gloss": "~하지 아니하냐"
     },
     {
       "surface": "רעתך",
-      "gloss": "너의 악이"
+      "gloss": "네 악"
     },
     {
       "surface": "רבה",
@@ -21,17 +21,17 @@
     },
     {
       "surface": "ואין",
-      "gloss": "그리고 ～이 없다"
+      "gloss": "없다"
     },
     {
       "surface": "קץ",
-      "gloss": "끝이"
+      "gloss": "끝"
     },
     {
       "surface": "לעונתיך",
-      "gloss": "너의 죄악들에 ⟨대하여⟩"
+      "gloss": "네 죄악들에게"
     }
   ],
-  "timestamp": "2026-08-05T12:07:13.991344193Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:46.508187757Z",
+  "model": "glm-5.3"
 }

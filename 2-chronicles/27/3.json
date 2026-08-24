@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ko",
   "chapter": 27,
-  "translation": "그가 ⟨את⟩ 야훼의 전 상문(上門)을 건축하였고, 오펠 성벽에는 많이 건축하였다.",
+  "translation": "그가 야훼의 집의 높은 문 ⟨את⟩을 건축하였고, 하오펠의 성벽에는 많이 건축하였다.",
   "tokens": [
     {
       "surface": "הוא",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "בנה",
-      "gloss": "건축하였다"
+      "gloss": "건축하였고"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "문"
+      "marks": "높은 문"
     },
     {
       "surface": "שער",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "전"
+      "gloss": "집"
     },
     {
       "surface": "יהוה",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "העליון",
-      "gloss": "상문(上門)"
+      "gloss": "높은"
     },
     {
       "surface": "ובחומת",
-      "gloss": "그리고 …-성벽에"
+      "gloss": "성벽에는"
     },
     {
       "surface": "העפל",
-      "gloss": "오펠"
+      "gloss": "하오펠"
     },
     {
       "surface": "בנה",
@@ -53,6 +53,6 @@
       "gloss": "많이"
     }
   ],
-  "timestamp": "2026-08-05T12:59:50.609631589Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:40:10.245672701Z",
+  "model": "glm-5.3"
 }

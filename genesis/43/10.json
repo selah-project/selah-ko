@@ -5,31 +5,31 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 43,
-  "translation": "만약 우리가 머뭇거리지 아니하였더라면, 진작 우리가 이 두 번째로 돌아왔으리라.",
+  "translation": "만일 우리가 머뭇거리지 아니하였더라면, 지금쯤 우리는 이미 두 번 돌아왔을 것이다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "因为"
+      "gloss": "만일"
     },
     {
       "surface": "לולא",
-      "gloss": "만약 ~아니하였더라면"
+      "gloss": "…지 아니하였더라면"
     },
     {
       "surface": "התמהמהנו",
-      "gloss": "우리가 머뭇거리지"
+      "gloss": "머뭇거리지 아니하였더라면"
     },
     {
       "surface": "כי",
-      "gloss": "진작"
+      "gloss": "지금쯤"
     },
     {
       "surface": "עתה",
-      "gloss": "이제"
+      "gloss": "지금쯤"
     },
     {
       "surface": "שבנו",
-      "gloss": "우리가 돌아왔으리라"
+      "gloss": "돌아왔을"
     },
     {
       "surface": "זה",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "פעמים",
-      "gloss": "두 번째로"
+      "gloss": "두 번"
     }
   ],
-  "timestamp": "2026-08-05T18:35:21.079530842Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:44.546241819Z",
+  "model": "glm-5.3"
 }

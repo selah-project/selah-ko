@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 23,
-  "translation": "내가 보니 ⟨그녀가⟩ 더럽혀졌다 — 그 둘에게 하나의 길이 ⟨있었다⟩.",
+  "translation": "내가 보니 ⟨그⟩ 여자가 더러워졌으니, 둘 다 하나의 길을 걸었다.",
   "tokens": [
     {
       "surface": "וארא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כי",
-      "gloss": " that "
+      "gloss": "⟨그⟩"
     },
     {
       "surface": "נטמאה",
-      "gloss": "더럽혀졌다"
+      "gloss": "더러워졌으니"
     },
     {
       "surface": "דרך",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "לשתיהן",
-      "gloss": "그 둘에게"
+      "gloss": "둘 다"
     }
   ],
-  "timestamp": "2026-08-05T10:54:38.669099789Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:33:12.336476739Z",
+  "model": "glm-5.3"
 }

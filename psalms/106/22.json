@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 106,
-  "translation": "함의 땅에서 기이한 일들, 수(葦)의 바다 위에 두려운 일들을.",
+  "translation": "함의 땅에서 놀라운 일들, 수프 바다 위에서 두려운 일들이었다.",
   "tokens": [
     {
-      "surface": "נִ֭פְלָאות",
-      "gloss": "기이한 일들"
+      "surface": "נפלאות",
+      "gloss": "놀라운 일들"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
+      "surface": "בארץ",
       "gloss": "땅에서"
     },
     {
-      "surface": "חָ֑ם",
-      "gloss": "함의"
+      "surface": "חם",
+      "gloss": "함"
     },
     {
-      "surface": "נ֝וֹרָא֗וֹת",
-      "gloss": "두려운 일들을"
+      "surface": "נוראות",
+      "gloss": "두려운 일들"
     },
     {
-      "surface": "עַל",
-      "gloss": "위에"
+      "surface": "על",
+      "gloss": "위에서"
     },
     {
-      "surface": "יַם",
+      "surface": "ים",
       "gloss": "바다"
     },
     {
-      "surface": "סֽוּף",
-      "gloss": "수(葦)의"
+      "surface": "סוף",
+      "gloss": "수프"
     }
   ],
-  "timestamp": "2026-08-05T11:43:15.102083859Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:17.922429171Z",
+  "model": "glm-5.3"
 }

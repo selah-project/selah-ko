@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "ko",
   "chapter": 14,
-  "translation": "그리고 츠르의 왕 히람이 사자들을 다윗에게 보내었고, 레바 나무와 돌장이들과 나무장이들을 보내어 그를 위해 집을 짓게 하였다.",
+  "translation": "츠로 왕 히람이 사자들을 다윗에게 보내었고, 백향목 재목과 벽을 다루는 장인들과 나무를 다루는 장인들을 보내어 ⟨그⟩를 위하여 집을 짓게 하였다.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "그리고 보내었다"
+      "gloss": "보내었고"
     },
     {
       "surface": "חירם",
-      "gloss": "히람이"
+      "gloss": "히람"
     },
     {
       "surface": "מלך",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "צר",
-      "gloss": "츠르의"
+      "gloss": "츠로"
     },
     {
       "surface": "מלאכים",
-      "gloss": "사자들을"
+      "gloss": "사자들"
     },
     {
       "surface": "אל",
-      "gloss": "～에게"
+      "gloss": "…에게"
     },
     {
       "surface": "דויד",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "ועצי",
-      "gloss": "그리고 ～의 나무"
+      "gloss": "그리고 재목들"
     },
     {
       "surface": "ארזים",
-      "gloss": "레바"
+      "gloss": "백향목"
     },
     {
       "surface": "וחרשי",
-      "gloss": "그리고 장이들"
+      "gloss": "그리고 장인들"
     },
     {
       "surface": "קיר",
-      "gloss": "돌"
+      "gloss": "벽"
     },
     {
       "surface": "וחרשי",
-      "gloss": "그리고 장이들"
+      "gloss": "그리고 장인들"
     },
     {
       "surface": "עצים",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "짓게 하려고"
+      "gloss": "짓게 하려"
     },
     {
       "surface": "לו",
-      "gloss": "그를 위해"
+      "gloss": "그를 위하여"
     },
     {
       "surface": "בית",
-      "gloss": "집을"
+      "gloss": "집"
     }
   ],
-  "timestamp": "2026-08-05T12:47:01.198371608Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:56.639385080Z",
+  "model": "glm-5.3"
 }

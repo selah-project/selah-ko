@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "ko",
   "chapter": 2,
-  "translation": "그리고 이제 깊은 이해를 아는 지혜로운 사람, 나의 아비 후람을 보냈나이다",
+  "translation": "이제 내가 지혜로운 사람, 비나를 아는 ⟨한⟩ 사람을 보내었으니, ⟨그는⟩ 후람 ⟨나의⟩ 아버지이다.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "그리고 이제"
+      "gloss": "이제"
     },
     {
       "surface": "שלחתי",
-      "gloss": "보냈나이다"
+      "gloss": "내가 보내었다"
     },
     {
       "surface": "איש",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "בינה",
-      "gloss": "깊은 이해를"
+      "gloss": "비나(이해)"
     },
     {
       "surface": "לחורם",
-      "gloss": "후람을"
+      "gloss": "후람"
     },
     {
       "surface": "אבי",
-      "gloss": "나의 아bi"
+      "gloss": "나의 아버지"
     }
   ],
-  "timestamp": "2026-08-05T12:53:48.384367188Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:43.224905277Z",
+  "model": "glm-5.3"
 }

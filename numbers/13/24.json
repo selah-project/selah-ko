@@ -5,61 +5,61 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 13,
-  "translation": "그 곳을 나할 에쉬콜이라 불렀는데, 이스라엘의 아들들이 거기서 벤 그 포도 송이 때문이었다.",
+  "translation": "그 곳을 나할 에쉬콜이라 불렀다 — 이스라엘 자손이 거기서 베어 낸 그 포도송이(에쉬콜) 때문에.",
   "tokens": [
     {
-      "surface": "לַמָּק֣וֹם",
+      "surface": "למקום",
       "gloss": "그 곳을"
     },
     {
-      "surface": "הַה֔וּא",
+      "surface": "ההוא",
       "gloss": "그"
     },
     {
-      "surface": "קָרָ֖א",
-      "gloss": "불렀는데"
+      "surface": "קרא",
+      "gloss": "불렀다"
     },
     {
-      "surface": "נַ֣חַל",
+      "surface": "נחל",
       "gloss": "나할"
     },
     {
-      "surface": "אֶשְׁכּ֑וֹל",
-      "gloss": "에쉬콜이라"
+      "surface": "אשכול",
+      "gloss": "에쉬콜"
     },
     {
-      "surface": "עַ֚ל",
-      "gloss": "～ 때문이었다"
+      "surface": "על",
+      "gloss": "때문에"
     },
     {
-      "surface": "אֹד֣וֹת",
-      "gloss": "～로 인하여"
+      "surface": "אדות",
+      "gloss": "…로 인하여"
     },
     {
-      "surface": "הָֽאֶשְׁכּ֔וֹל",
-      "gloss": "그 포도 송이"
+      "surface": "האשכול",
+      "gloss": "그 포도송이"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "～를"
+      "surface": "אשר",
+      "gloss": "…을"
     },
     {
-      "surface": "כָּרְת֥וּ",
-      "gloss": "벤"
+      "surface": "כרתו",
+      "gloss": "베어 낸"
     },
     {
-      "surface": "מִשָּׁ֖ם",
+      "surface": "משם",
       "gloss": "거기서"
     },
     {
-      "surface": "בְּנֵ֥י",
-      "gloss": "아들들이"
+      "surface": "בני",
+      "gloss": "자손"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
-      "gloss": "이스라엘의"
+      "surface": "ישראל",
+      "gloss": "이스라엘"
     }
   ],
-  "timestamp": "2026-08-05T08:35:30.628903701Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:47.432201083Z",
+  "model": "glm-5.3"
 }

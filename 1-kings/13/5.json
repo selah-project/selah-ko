@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "ko",
   "chapter": 13,
-  "translation": "그리고 ⟨그⟩ 제단이 찢어지고, 재가 제단에서부터 쏟아졌다 — 엘로힘의 사람이 야훼의 말씀으로 주었던 징조와 같이.",
+  "translation": "그 제단이 찢어지고, 재가 제단에서부터 쏟아졌다 — 엘로힘의 사람이 야훼의 말씀으로 주었던 그 표적과 같이.",
   "tokens": [
     {
       "surface": "והמזבח",
-      "gloss": "그리고 ⟨그⟩ 제단은"
+      "gloss": "그 제단이"
     },
     {
       "surface": "נקרע",
-      "gloss": "찢어졌다"
+      "gloss": "찢어지고"
     },
     {
       "surface": "וישפך",
-      "gloss": "그리고 쏟아졌다"
+      "gloss": "쏟아졌다"
     },
     {
       "surface": "הדשן",
-      "gloss": "그 재가"
+      "gloss": "재가"
     },
     {
       "surface": "מן",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "그 제단"
+      "gloss": "제단"
     },
     {
       "surface": "כמופת",
-      "gloss": "징조와 같이"
+      "gloss": "표적과 같이"
     },
     {
       "surface": "אשר",
-      "gloss": " which"
+      "gloss": "…것"
     },
     {
       "surface": "נתן",
@@ -60,6 +60,6 @@
       "gloss": "야훼의"
     }
   ],
-  "timestamp": "2026-08-05T13:50:13.746306225Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:28:04.653083130Z",
+  "model": "glm-5.3"
 }

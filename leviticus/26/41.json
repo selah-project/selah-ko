@@ -5,83 +5,83 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 26,
-  "translation": "나도 그들과 반역으로行走하여, 그들을 원수들의 땅으로 들여보냈다 — 혹은 그때에 그들의 할례받지 않은 마음이 낮아지고, 그때에 그들이 ⟨את⟩ 그들의 죄악의 벌을 기꺼이 받아들였다.",
+  "translation": "나 역시 그들에게 맞서 반역하듯 행하였고, 그들을 ⟨את⟩ 그들의 원수들의 땅으로 들여보냈다. 그리하면 그때 그들의 무할례된 마음이 낮아지리니, 그때 그들이 ⟨את⟩ 그들의 죄악의 벌을 달게 받으리라.",
   "tokens": [
     {
-      "surface": "אַף",
-      "gloss": "나도"
+      "surface": "אף",
+      "gloss": "역시"
     },
     {
-      "surface": "אֲנִ֗י",
+      "surface": "אני",
       "gloss": "나"
     },
     {
-      "surface": "אֵלֵ֤ךְ",
-      "gloss": "行走하였다"
+      "surface": "אלך",
+      "gloss": "행하였고"
     },
     {
-      "surface": "עִמָּם֙",
-      "gloss": "그들과"
+      "surface": "עמם",
+      "gloss": "그들에게"
     },
     {
-      "surface": "בְּקֶ֔רִי",
-      "gloss": "반역으로"
+      "surface": "בקרי",
+      "gloss": "맞서 반역하듯"
     },
     {
-      "surface": "וְהֵבֵאתִ֣י",
+      "surface": "והבאתי",
       "gloss": "들여보냈다"
     },
     {
-      "surface": "אֹתָ֔ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "그들을"
+      "marks": "그들의 원수들의 땅"
     },
     {
-      "surface": "בְּאֶ֖רֶץ",
+      "surface": "בארץ",
       "gloss": "땅으로"
     },
     {
-      "surface": "אֹיְבֵיהֶ֑ם",
-      "gloss": "원수들의"
+      "surface": "איביהם",
+      "gloss": "그들의 원수들의"
     },
     {
-      "surface": "אוֹ",
-      "gloss": "혹은"
+      "surface": "או",
+      "gloss": "그리하면"
     },
     {
-      "surface": "אָ֣ז",
-      "gloss": "그때에"
+      "surface": "אז",
+      "gloss": "그때"
     },
     {
-      "surface": "יִכָּנַ֗ע",
-      "gloss": "낮아지고"
+      "surface": "יכנע",
+      "gloss": "낮아지리니"
     },
     {
-      "surface": "לְבָבָם֙",
+      "surface": "לבבם",
       "gloss": "그들의 마음이"
     },
     {
-      "surface": "הֶֽעָרֵ֔ל",
-      "gloss": "할례받지 않은"
+      "surface": "הערל",
+      "gloss": "무할례된"
     },
     {
-      "surface": "וְאָ֖ז",
-      "gloss": "그때에"
+      "surface": "ואז",
+      "gloss": "그때"
     },
     {
-      "surface": "יִרְצ֥וּ",
-      "gloss": "기꺼이 받아들였다"
+      "surface": "ירצו",
+      "gloss": "달게 받으리라"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그들의 죄악의 벌을"
+      "marks": "그들의 죄악"
     },
     {
-      "surface": "עֲוֺנָֽם",
+      "surface": "עונם",
       "gloss": "그들의 죄악의"
     }
   ],
-  "timestamp": "2026-08-05T08:26:37.376383404Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:16.651558144Z",
+  "model": "glm-5.3"
 }

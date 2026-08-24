@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 6,
-  "translation": "이스라엘이 씨를 뿌리면, 미디안과 아말렉과 동방의 자손이 올라와서, 그를 향해 올라왔다.",
+  "translation": "이스라엘이 씨를 뿌리면 미디안과 아말렉과 동쪽의 아들들이 올라와 그들을 덮쳤다.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "～하면"
+      "gloss": "그리 되었다"
     },
     {
       "surface": "אם",
-      "gloss": "만일"
+      "gloss": "~하면"
     },
     {
       "surface": "זרע",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "이스라엘이"
+      "gloss": "이스라엘"
     },
     {
       "surface": "ועלה",
-      "gloss": "올라와서"
+      "gloss": "올라와"
     },
     {
       "surface": "מדין",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ובני",
-      "gloss": "자손"
+      "gloss": "~의 아들들"
     },
     {
       "surface": "קדם",
-      "gloss": "동방의"
+      "gloss": "동쪽"
     },
     {
       "surface": "ועלו",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "עליו",
-      "gloss": "그를 향해"
+      "gloss": "그를 덮쳤다"
     }
   ],
-  "timestamp": "2026-08-05T09:15:14.540359139Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:07.827609371Z",
+  "model": "glm-5.3"
 }

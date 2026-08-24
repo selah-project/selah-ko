@@ -5,23 +5,23 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 2,
-  "translation": "곧 바른 길들을 버리고 어둠의 길들로 걸어가는 자들에게서 ⟨⟨너를⟩⟩",
+  "translation": "곧은 길들을 버리고 어둠의 길들로 걸어가려는 자들 —",
   "tokens": [
     {
       "surface": "העזבים",
-      "gloss": "버리고"
+      "gloss": "버리는 자들"
     },
     {
       "surface": "ארחות",
-      "gloss": "길들을"
+      "gloss": "길들"
     },
     {
       "surface": "ישר",
-      "gloss": "바른"
+      "gloss": "곧음"
     },
     {
       "surface": "ללכת",
-      "gloss": "걸어가는"
+      "gloss": "걸어가다"
     },
     {
       "surface": "בדרכי",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "חשך",
-      "gloss": "어둠의"
+      "gloss": "어둠"
     }
   ],
-  "timestamp": "2026-08-05T11:51:41.285706618Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:41:25.892082076Z",
+  "model": "glm-5.3"
 }

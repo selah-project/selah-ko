@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ko",
   "chapter": 24,
-  "translation": "그리고 이 일들 후에, 요아쉬의 마음에 ⟨את⟩ 야훼의 집을 새롭게 하려는 뜻이 생겼다.",
+  "translation": "이 일들 후에, 요아쉬의 마음이 야훼의 ⟨את⟩ 집을 새롭게 하기로 하였다.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "그리고"
+      "gloss": "그리고 …이 되었다"
     },
     {
       "surface": "אחרי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "כן",
-      "gloss": "이 일들"
+      "gloss": "이것"
     },
     {
       "surface": "היה",
-      "gloss": "생겼다"
+      "gloss": "…이었다"
     },
     {
       "surface": "עם",
-      "gloss": "～에"
+      "gloss": "~과 함께"
     },
     {
       "surface": "לב",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יואש",
-      "gloss": "요아쉬의"
+      "gloss": "요아쉬"
     },
     {
       "surface": "לחדש",
-      "gloss": "새롭게 하려는"
+      "gloss": "새롭게 하기 위해"
     },
     {
       "surface": "את",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼의"
+      "gloss": "야훼"
     }
   ],
-  "timestamp": "2026-08-05T12:59:11.670754635Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:36.646124413Z",
+  "model": "glm-5.3"
 }

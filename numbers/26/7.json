@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 26,
-  "translation": "이것들이 르우벤 가문들이요, 그들의 계수된 자는 사만三千 칠백 삼십 명이었다.",
+  "translation": "이것들이 르우벤 자손의 가족들이니, 그들의 조사된 자 수는 사만 삼천 칠백 삼십 명이다.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,26 +13,26 @@
     },
     {
       "surface": "משפחת",
-      "gloss": "가문들"
+      "gloss": "가족들이니"
     },
     {
       "surface": "הראובני",
-      "gloss": "르우벤"
+      "gloss": "르우벤 자손의"
     },
     {
       "surface": "ויהיו",
-      "gloss": "이었다"
+      "gloss": "~이니"
     },
     {
       "surface": "פקדיהם",
-      "gloss": "그들의 계수된 자는"
+      "gloss": "그들의 조사된 자 수"
     },
     {
       "surface": "שלשה",
       "gloss": "삼"
     },
     {
-      "surface": "וארבעים",
+      "surface": "וארבעעים",
       "gloss": "사십"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ושבע",
-      "gloss": "칠"
+      "gloss": "칠백"
     },
     {
       "surface": "מאות",
@@ -52,6 +52,6 @@
       "gloss": "삼십"
     }
   ],
-  "timestamp": "2026-08-05T08:43:22.913771255Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:37.889470583Z",
+  "model": "glm-5.3"
 }

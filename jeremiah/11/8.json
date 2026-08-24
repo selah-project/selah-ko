@@ -5,103 +5,103 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 11,
-  "translation": "그러나 그들이 듣지 아니하였고, 그들의 귀를 기울이지 아니하였으며, 각자 그들 악한 마음의 완고함 속으로 걸어갔다. 그래서 내가 그들 위로 이 브리트의 모든 말들을, 내가 행하라고 명하였던 것을, 그들에게 내려오게 하였으나, 그들이 행하지 아니하였다.",
+  "translation": "그들이 순종하지 아니하고 ⟨את⟩ 그들의 귀를 기울이지 아니하였으며, 각자 자기의 악한 마음의 완고함대로 걸어갔다. 그래서 내가 그들 위에 이 브리트 (언약)의 모든 말씀을 — 내가 행하라고 명령한 것을 — 그들 위로 가져왔으나, 그들은 행하지 아니하였다.",
   "tokens": [
     {
-      "surface": "וְלֹא",
-      "gloss": "그리고 아니"
+      "surface": "ולא",
+      "gloss": "하지 아니하고"
     },
     {
-      "surface": "שָׁמְעוּ",
-      "gloss": "그들이 들었다"
+      "surface": "שמעו",
+      "gloss": "순종하지"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "그리고 아니"
+      "surface": "ולא",
+      "gloss": "하지 아니하였으며"
     },
     {
-      "surface": "הִטּוּ",
-      "gloss": "그들이 기울였다"
+      "surface": "הטו",
+      "gloss": "기울이지"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그들의 귀를"
+      "marks": "그들의 귀"
     },
     {
-      "surface": "אָזְנָם",
+      "surface": "אזנם",
       "gloss": "그들의 귀"
     },
     {
-      "surface": "וַיֵּלְכוּ",
-      "gloss": "그래서 그들이 걸어갔다"
+      "surface": "וילכו",
+      "gloss": "걸어갔다"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "각자"
     },
     {
-      "surface": "בְּשָׁרִירוּת",
-      "gloss": "완고함 속으로"
+      "surface": "בשרירות",
+      "gloss": "완고함대로"
     },
     {
-      "surface": "לְבָם",
-      "gloss": "그들의 마음의"
+      "surface": "לבם",
+      "gloss": "자기의 마음"
     },
     {
-      "surface": "הָרָע",
-      "gloss": "그 악한"
+      "surface": "הרע",
+      "gloss": "악한"
     },
     {
-      "surface": "וָאָבִיא",
-      "gloss": "그래서 내가 내려오게 하였다"
+      "surface": "ואביא",
+      "gloss": "가져왔으므로"
     },
     {
-      "surface": "עֲלֵיהֶם",
-      "gloss": "그들 위로"
+      "surface": "עליהם",
+      "gloss": "그들 위에"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이 브리트의 모든 말들을"
+      "marks": "모든 말씀"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "דִּבְרֵי",
-      "gloss": "말들"
+      "surface": "דברי",
+      "gloss": "말씀"
     },
     {
-      "surface": "הַבְּרִית",
-      "gloss": "그 브리트"
+      "surface": "הברית",
+      "gloss": "이 브리트"
     },
     {
-      "surface": "הַזֹּאת",
+      "surface": "הזאת",
       "gloss": "이"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "—"
     },
     {
-      "surface": "צִוִּיתִי",
-      "gloss": "내가 명하였다"
+      "surface": "צויתי",
+      "gloss": "내가 명령한"
     },
     {
-      "surface": "לַעֲשׂוֹת",
+      "surface": "לעשות",
       "gloss": "행하라고"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "그러나 아니"
+      "surface": "ולא",
+      "gloss": "하지 아니하였다"
     },
     {
-      "surface": "עָשׂוּ",
-      "gloss": "그들이 행하였다"
+      "surface": "עשו",
+      "gloss": "행하지"
     }
   ],
-  "timestamp": "2026-08-05T10:30:36.821278014Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:31:29.953341033Z",
+  "model": "glm-5.3"
 }

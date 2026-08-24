@@ -5,53 +5,53 @@
   "book": "song-of-songs",
   "lang": "ko",
   "chapter": 3,
-  "translation": "그들 모두 칼을 잡은 자들, 전쟁에 훈련된 자들, 각자 ⟨그의⟩ 칼을 ⟨그의⟩ 허벅지 위에, 밤의 두려움에서 ⟨⟨말미이다⟩⟩.",
+  "translation": "그들 모두 칼을 붙잡은, 전쟁에 훈련된 자들이다. 각 사람 ⟨은⟩ 그의 칼을 그의 허벅지 위에 두었으니, 밤들의 두려움 때문이다.",
   "tokens": [
     {
-      "surface": "כֻּלָּם֙",
+      "surface": "כלם",
       "gloss": "그들 모두"
     },
     {
-      "surface": "אֲחֻ֣זֵי",
-      "gloss": "잡은 자들"
+      "surface": "אחזי",
+      "gloss": "붙잡은"
     },
     {
-      "surface": "חֶ֔רֶב",
+      "surface": "חרב",
       "gloss": "칼을"
     },
     {
-      "surface": "מְלֻמְּדֵ֖י",
-      "gloss": "훈련된 자들"
+      "surface": "מלמדי",
+      "gloss": "훈련된"
     },
     {
-      "surface": "מִלְחָמָ֑ה",
+      "surface": "מלחמה",
       "gloss": "전쟁에"
     },
     {
-      "surface": "אִ֤ישׁ",
-      "gloss": "각자"
+      "surface": "איש",
+      "gloss": "각 사람"
     },
     {
-      "surface": "חַרְבּוֹ֙",
-      "gloss": "칼을"
+      "surface": "חרבו",
+      "gloss": "그의 칼을"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "위에"
     },
     {
-      "surface": "יְרֵכ֔וֹ",
-      "gloss": "허벅지"
+      "surface": "ירכו",
+      "gloss": "그의 허벅지"
     },
     {
-      "surface": "מִפַּ֖חַד",
-      "gloss": "두려움에서"
+      "surface": "מפחד",
+      "gloss": "두려움 때문에"
     },
     {
-      "surface": "בַלֵּילּֽוֹת",
-      "gloss": "밤의"
+      "surface": "בלילות",
+      "gloss": "밤들"
     }
   ],
-  "timestamp": "2026-08-05T12:13:31.403983665Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:08.493180292Z",
+  "model": "glm-5.3"
 }

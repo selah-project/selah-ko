@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 18,
-  "translation": "그리고 그것을 붙잡았다, 삼 년 끝에 — 히즈키야의 제육년에, 그것이 이스라엘 왕 호셰아의 제구년이었다 — 슈메론이 붙잡혔다.",
+  "translation": "그들이 삼 년이 끝나 차지하였으니, 히즈키야 제육 년 — 그것은 이스라엘 왕 호셰아 제구 년이다 — 샤말론이 함락되었다.",
   "tokens": [
     {
       "surface": "וילכדה",
-      "gloss": "그리고 그것을 붙잡았다"
+      "gloss": "그들이 차지하였으니"
     },
     {
       "surface": "מקצה",
-      "gloss": "…끝에"
+      "gloss": "끝나"
     },
     {
       "surface": "שלש",
@@ -25,35 +25,35 @@
     },
     {
       "surface": "בשנת",
-      "gloss": "…의 년에"
+      "gloss": "제…년"
     },
     {
       "surface": "שש",
-      "gloss": "제육(第六)"
+      "gloss": "육"
     },
     {
       "surface": "לחזקיה",
-      "gloss": "…히즈키야의"
+      "gloss": "히즈키야"
     },
     {
       "surface": "היא",
-      "gloss": "그것은…이다"
+      "gloss": "그것은"
     },
     {
       "surface": "שנת",
-      "gloss": "…의 년"
+      "gloss": "년"
     },
     {
       "surface": "תשע",
-      "gloss": "제구(第九)"
+      "gloss": "구"
     },
     {
       "surface": "להושע",
-      "gloss": "…호셰아의"
+      "gloss": "호셰아"
     },
     {
       "surface": "מלך",
-      "gloss": "…의 왕"
+      "gloss": "왕"
     },
     {
       "surface": "ישראל",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "נלכדה",
-      "gloss": "북잡혔다"
+      "gloss": "함락되었다"
     },
     {
       "surface": "שמרון",
-      "gloss": "슈메론"
+      "gloss": "샤말론"
     }
   ],
-  "timestamp": "2026-08-05T13:52:27.862168799Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:14.992812255Z",
+  "model": "glm-5.3"
 }

@@ -5,63 +5,63 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 16,
-  "translation": "그리고 네가 ⟨את⟩ 네 아들들과 ⟨את⟩ 네 딸들 ── 네가 나에게 낳은 것 ── 을 취하여 그것들을 그들에게 바쳐 제물로 먹게 하였다. ⟨이것이⟩ 네 음행 ⟨으로는⟩ 적음이더냐?",
+  "translation": "그리고 ⟨그대⟩는 나에게 낳아 준 ⟨את⟩ 아들들과 ⟨את⟩ 딸들을 데려다가 그것들에게 먹이로 제물로 바쳤다. 그대의 음란이 작은 일이냐?",
   "tokens": [
     {
-      "surface": "וַתִּקְחִ֞י",
-      "gloss": "그리고 네가 취하였고"
+      "surface": "ותקחי",
+      "gloss": "데려다가"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "네 아들들과"
+      "marks": "아들들"
     },
     {
-      "surface": "בָּנַ֤יִךְ",
-      "gloss": "네 아들들을"
+      "surface": "בניך",
+      "gloss": "아들들"
     },
     {
-      "surface": "וְאֶת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "네 딸들을"
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "딸들"
     },
     {
-      "surface": "בְּנוֹתַ֨יִךְ֙",
-      "gloss": "네 딸들을"
+      "surface": "בנותיך",
+      "gloss": "딸들"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "…을"
     },
     {
-      "surface": "יָלַ֣דְתְּ",
-      "gloss": "네가 낳은"
+      "surface": "ילדת",
+      "gloss": "낳아 준"
     },
     {
-      "surface": "לִ֔י",
+      "surface": "לי",
       "gloss": "나에게"
     },
     {
-      "surface": "וַתִּזְבָּחִ֥ים",
-      "gloss": "그리고 네가 그것들을 잡아 바쳤고"
+      "surface": "ותזבחים",
+      "gloss": "제물로 바쳤다"
     },
     {
-      "surface": "לָהֶ֖ם",
-      "gloss": "그들에게"
+      "surface": "להם",
+      "gloss": "그것들에게"
     },
     {
-      "surface": "לֶאֱכ֑וֹל",
-      "gloss": "먹게 하려고"
+      "surface": "לאכול",
+      "gloss": "먹이로"
     },
     {
-      "surface": "הַמְעַ֖ט",
-      "gloss": "적음이더냐"
+      "surface": "המעט",
+      "gloss": "작은 일이냐"
     },
     {
-      "surface": "מִתְזַנְּתֵֽךְ",
-      "gloss": "네 음행에서"
+      "surface": "מתזנתך",
+      "gloss": "그대의 음란"
     }
   ],
-  "timestamp": "2026-08-05T10:51:46.768227377Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:33:03.961695967Z",
+  "model": "glm-5.3"
 }

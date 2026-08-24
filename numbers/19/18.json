@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 19,
-  "translation": "그리고 정결한 자가 우슬초를 취하여 물에 찌를 것이니, ⟨그가⟩ ⟨그⟩ 장막 위에, 모든 그릇 위에, 거기 있었던 네페쉬들 위에, 그리고 뼈를 만진 자나 찔린 자나 죽은 자나 무덤을 만진 자 위에 뿌릴 것이다.",
+  "translation": "그리고 정결한 사람이 에조브를 취하여 그 물에 적시고, 그 장막 위에, 그리고 모든 그릇들 위에, 그리고 거기 있었던 네페쉬들 위에 뿌리고, 뼈에, 또는 찔린 자에, 또는 시체에, 또는 무덤에 닿은 자 위에 뿌린다.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "그리고 취할 것이니"
+      "gloss": "그리고 취하고"
     },
     {
-      "surface": "אזוב",
-      "gloss": "우슬초를"
+      "surface": "아조브",
+      "gloss": "에조브를"
     },
     {
       "surface": "וטבל",
-      "gloss": "그리고 찌를 것이니"
+      "gloss": "그리고 적시고"
     },
     {
       "surface": "במים",
-      "gloss": "물에"
+      "gloss": "그 물에"
     },
     {
       "surface": "איש",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "והזה",
-      "gloss": "그리고 뿌릴 것이니"
+      "gloss": "그리고 뿌리고"
     },
     {
       "surface": "על",
-      "gloss": "〜위에"
+      "gloss": "위에"
     },
     {
       "surface": "האהל",
-      "gloss": "그 장막"
+      "gloss": "그 장막에"
     },
     {
       "surface": "ועל",
-      "gloss": "그리고 〜위에"
+      "gloss": "그리고 위에"
     },
     {
       "surface": "כל",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "그 그릇들"
+      "gloss": "그 그릇들에"
     },
     {
       "surface": "ועל",
-      "gloss": "그리고 〜위에"
+      "gloss": "그리고 위에"
     },
     {
       "surface": "הנפשות",
-      "gloss": "그 네페쉬들"
+      "gloss": "그 네페쉬들에"
     },
     {
       "surface": "אשר",
-      "gloss": "거기"
+      "gloss": "…한"
     },
     {
       "surface": "היו",
@@ -77,41 +77,41 @@
     },
     {
       "surface": "ועל",
-      "gloss": "그리고 〜위에"
+      "gloss": "그리고 위에"
     },
     {
-      "surface": "הנגע",
-      "gloss": "그 만진 자"
+      "surface": "הנוגע",
+      "gloss": "닿은 자에"
     },
     {
       "surface": "בעצם",
-      "gloss": "뼈를"
+      "gloss": "뼈에"
     },
     {
       "surface": "או",
-      "gloss": "혹은"
+      "gloss": "또는"
     },
     {
       "surface": "בחלל",
-      "gloss": "찔린 자를"
+      "gloss": "찔린 자에"
     },
     {
       "surface": "או",
-      "gloss": "혹은"
+      "gloss": "또는"
     },
     {
       "surface": "במת",
-      "gloss": "죽은 자를"
+      "gloss": "시체에"
     },
     {
       "surface": "או",
-      "gloss": "혹은"
+      "gloss": "또는"
     },
     {
       "surface": "בקבר",
-      "gloss": "무덤을"
+      "gloss": "무덤에"
     }
   ],
-  "timestamp": "2026-08-05T08:40:54.028807541Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:27.923968059Z",
+  "model": "glm-5.3"
 }

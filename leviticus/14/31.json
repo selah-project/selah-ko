@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 14,
-  "translation": "그의 손이 미치는 것을, ⟨את⟩ 곧 하나를 — 죄헌물로, 그리고 ⟨את⟩ 하나를 — 올라 제물로, 그 소제물 위에; 그리하여 코헨이 정결함 받을 자를 위해 야훼 앞에서 속죄할 것이다.",
+  "translation": "그의 손이 미치는 것을 — ⟨את⟩ 한 마리는 죄-제물(하타트)로, ⟨את⟩ 한 마리는 올라(번제)로 곡식-예물 위에 드린다. 그리하여 코헨이 야훼 앞에서 정결하게 될 자를 위하여 속함이 되게 한다.",
   "tokens": [
     {
       "surface": "את",
@@ -14,7 +14,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "…것"
     },
     {
       "surface": "תשיג",
@@ -27,62 +27,62 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "하나"
+      "marks": "한 마리"
     },
     {
       "surface": "האחד",
-      "gloss": "그 하나를"
+      "gloss": "한 마리"
     },
     {
       "surface": "חטאת",
-      "gloss": "죄헌물"
+      "gloss": "죄-제물"
     },
     {
       "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "하나"
+      "gloss": "⟨את⟩",
+      "marks": "한 마리"
     },
     {
       "surface": "האחד",
-      "gloss": "그 하나를"
+      "gloss": "한 마리"
     },
     {
       "surface": "עלה",
-      "gloss": "올라 제물"
+      "gloss": "올라"
     },
     {
       "surface": "על",
-      "gloss": "위에"
+      "gloss": "…위에"
     },
     {
       "surface": "המנחה",
-      "gloss": "그 소제물"
+      "gloss": "곡식-예물"
     },
     {
       "surface": "וכפר",
-      "gloss": "그리고 속죄하고"
+      "gloss": "그리고 속함이 되게 한다"
     },
     {
       "surface": "הכהן",
-      "gloss": "그 코헨이"
+      "gloss": "코헨이"
     },
     {
       "surface": "על",
-      "gloss": "위해"
+      "gloss": "…을 위하여"
     },
     {
       "surface": "המטהר",
-      "gloss": "그 정결함 받을 자를"
+      "gloss": "정결하게 될 자"
     },
     {
       "surface": "לפני",
-      "gloss": "앞에서"
+      "gloss": "…앞에서"
     },
     {
       "surface": "יהוה",
       "gloss": "야훼"
     }
   ],
-  "timestamp": "2026-08-05T08:18:15.612876746Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:59.108476967Z",
+  "model": "glm-5.3"
 }

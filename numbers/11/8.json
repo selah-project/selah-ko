@@ -5,82 +5,82 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 11,
-  "translation": "백성이 돌아다니며 거두어들여, 맷돌로 빻거나 절구에서 찧어, 냄비에 삶고 ⟨את⟩ 그것으로 떡을 만들었다. 그 맛은 기름진 크림의 맛 같았다.",
+  "translation": "백성이 두루 다니며 그것을 거두어 맷돌에 갈거나 확에 빻고, 솥에 삶아서 그것으로 ⟨את⟩ 둥근 떡을 만들었으니, 그 맛은 신선한 기름의 맛 같았다.",
   "tokens": [
     {
-      "surface": "שָׁט֩וּ",
-      "gloss": "돌아다니며"
+      "surface": "שטו",
+      "gloss": "두루 다니며"
     },
     {
-      "surface": "הָעָ֨ם",
+      "surface": "העם",
       "gloss": "백성이"
     },
     {
-      "surface": "וְלָקְט֜וּ",
-      "gloss": "거두어들여"
+      "surface": "ולקטו",
+      "gloss": "거두어"
     },
     {
-      "surface": "וְטָחֲנ֣וּ",
-      "gloss": "빻거나"
+      "surface": "וטחנו",
+      "gloss": "갈거나"
     },
     {
-      "surface": "בָּרֵחַ֗יִם",
-      "gloss": "맷돌로"
+      "surface": "ברחים",
+      "gloss": "맷돌에"
     },
     {
-      "surface": "א֤וֹ",
-      "gloss": "또는"
+      "surface": "או",
+      "gloss": "거나"
     },
     {
-      "surface": "דָכוּ֙",
-      "gloss": "찧어"
+      "surface": "דכו",
+      "gloss": "빻고"
     },
     {
-      "surface": "בַּמְּדֹכָ֔ה",
-      "gloss": "절구에서"
+      "surface": "במדכה",
+      "gloss": "확에"
     },
     {
-      "surface": "וּבִשְּׁל֖וּ",
-      "gloss": "삶고"
+      "surface": "ובשלו",
+      "gloss": "삶아서"
     },
     {
-      "surface": "בַּפָּר֔וּר",
-      "gloss": "냄비에"
+      "surface": "בפרור",
+      "gloss": "솥에"
     },
     {
-      "surface": "וְעָשׂ֥וּ",
-      "gloss": "만들었다"
+      "surface": "ועשו",
+      "gloss": "만들었으니"
     },
     {
-      "surface": "אֹת֖וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "그것으로 떡을"
+      "marks": "둥근 떡"
     },
     {
-      "surface": "עֻגֹ֑ת",
-      "gloss": "떡을"
+      "surface": "עגות",
+      "gloss": "둥근 떡"
     },
     {
-      "surface": "וְהָיָ֣ה",
-      "gloss": "～ 같았다"
+      "surface": "והיה",
+      "gloss": "…하였으니"
     },
     {
-      "surface": "טַעְמֹ֔ו",
+      "surface": "טעמו",
       "gloss": "그 맛은"
     },
     {
-      "surface": "כְּטַ֖עַם",
-      "gloss": "～ 맛"
+      "surface": "כטעם",
+      "gloss": "…맛 같았다"
     },
     {
-      "surface": "לְשַׁ֥ד",
-      "gloss": "기름진 크림의"
+      "surface": "לשד",
+      "gloss": "신선한 기름(의 진액)"
     },
     {
-      "surface": "הַשָּֽׁמֶן",
-      "gloss": "기름진"
+      "surface": "השמן",
+      "gloss": "기름"
     }
   ],
-  "timestamp": "2026-08-05T08:34:19.810110848Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:23.453085219Z",
+  "model": "glm-5.3"
 }

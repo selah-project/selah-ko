@@ -5,49 +5,49 @@
   "book": "job",
   "lang": "ko",
   "chapter": 34,
-  "translation": "대저 그가 사람에게 ⟨더〉 정하시지 않으니, 엘에게 심판으로 나아가는 것이다.",
+  "translation": "엘께서는 사람에게 다시는 정해 두시지 않으신다 — 그가 심판 가운데 엘께 나아가게 ⟨되는 것을⟩.",
   "tokens": [
     {
-      "surface": "כִּ֤י",
-      "gloss": "대저"
+      "surface": "כי",
+      "gloss": "때문이다"
     },
     {
-      "surface": "לֹ֣א",
+      "surface": "לא",
       "gloss": "아니"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "위에"
     },
     {
-      "surface": "אִ֭ישׁ",
-      "gloss": "사람에게"
+      "surface": "איש",
+      "gloss": "사람"
     },
     {
-      "surface": "יָשִׂ֣ים",
-      "gloss": "정하시니"
+      "surface": "ישים",
+      "gloss": "정해 두시지 않으신다"
     },
     {
-      "surface": "ע֑וֹד",
-      "gloss": "더"
+      "surface": "עוד",
+      "gloss": "다시는"
     },
     {
-      "surface": "לַהֲלֹ֥ךְ",
-      "gloss": "나아가는 것이다"
+      "surface": "להלך",
+      "gloss": "나아가게"
     },
     {
-      "surface": "אֶל",
-      "gloss": "에게"
+      "surface": "אל",
+      "gloss": "께"
     },
     {
-      "surface": "אֵ֝֗ל",
-      "gloss": "엘에게"
+      "surface": "אל",
+      "gloss": "엘"
     },
     {
-      "surface": "בַּמִּשְׁפָּֽט",
-      "gloss": "심판으로"
+      "surface": "במשפט",
+      "gloss": "심판 가운데"
     }
   ],
-  "timestamp": "2026-08-05T12:10:27.167643073Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:07.566991517Z",
+  "model": "glm-5.3"
 }

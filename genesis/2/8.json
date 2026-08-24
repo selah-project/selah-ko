@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 2,
-  "translation": "그리고 야훼 엘로힘이 에덴에 동쪽으로 동산을 심으셨고, 거기에 ⟨아트⟩ ⟨그⟩ 사람을 두셨으니, ⟨그는⟩ 빚어 만든 자였다.",
+  "translation": "야훼 엘로힘이 에덴에 동쪽으로 정원을 심으시고, 거기에 자기가 빚으신 ⟨את⟩ 그 사람을 두셨다.",
   "tokens": [
     {
       "surface": "ויטע",
-      "gloss": "심으셨고"
+      "gloss": "심으시고"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼가"
+      "gloss": "야훼"
     },
     {
       "surface": "אלהים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גן",
-      "gloss": "동산을"
+      "gloss": "정원을"
     },
     {
       "surface": "בעדן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "두셨고"
+      "gloss": "두셨다"
     },
     {
       "surface": "שם",
@@ -42,21 +42,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "사람"
+      "marks": "그 사람"
     },
     {
       "surface": "האדם",
-      "gloss": "사람을"
+      "gloss": "그 사람을"
     },
     {
       "surface": "אשר",
-      "gloss": "～이니"
+      "gloss": "…을"
     },
     {
       "surface": "יצר",
-      "gloss": "빚어 만든"
+      "gloss": "빚으신"
     }
   ],
-  "timestamp": "2026-08-05T18:33:58.849697120Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:16:58.343622336Z",
+  "model": "glm-5.3"
 }

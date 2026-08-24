@@ -5,43 +5,43 @@
   "book": "1-chronicles",
   "lang": "ko",
   "chapter": 10,
-  "translation": "그의 무기背负者가 샤울이 죽은 것을 보고, 그도 칼 위에 엎드려 죽었다.",
+  "translation": "그의 무기 든 자가 샤울이 죽은 것을 보고, 그도 ⟨역시⟩ 그 칼 위에 엎드려 죽었다.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "보매"
+      "gloss": "보고"
     },
     {
       "surface": "נשא",
-      "gloss": "무기背负者가"
+      "gloss": "든 자"
     },
     {
       "surface": "כליו",
-      "gloss": "그의 기구를"
+      "gloss": "그의 무기"
     },
     {
       "surface": "כי",
-      "gloss": "그"
+      "gloss": "…것을"
     },
     {
       "surface": "מת",
-      "gloss": "죽은 것을"
+      "gloss": "죽은"
     },
     {
       "surface": "שאול",
-      "gloss": "샤울이"
+      "gloss": "샤울"
     },
     {
       "surface": "ויפל",
-      "gloss": "엎드렸다"
+      "gloss": "엎드려"
     },
     {
       "surface": "גם",
-      "gloss": "또한"
+      "gloss": "⟨역시⟩ 그도"
     },
     {
       "surface": "הוא",
-      "gloss": "그가"
+      "gloss": "그도"
     },
     {
       "surface": "על",
@@ -56,6 +56,6 @@
       "gloss": "죽었다"
     }
   ],
-  "timestamp": "2026-08-05T12:45:33.804433782Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:30.840438353Z",
+  "model": "glm-5.3"
 }

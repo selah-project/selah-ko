@@ -5,77 +5,77 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 16,
-  "translation": "판결을 굽히지 말며, 얼굴을 알아보지 말며, 뇌물을取取하지 말지니, 이는 뇌물이 슬기로운 자들의 눈을 멀게 하고 의로운 자들의 말들을 어긋나게 하기 때문이다.",
+  "translation": "미쉬파트를 굽히지 마라, 얼굴을 알아보지 마라, 그리고 쇼하드를 받지 마라. 쇼하드는 지혜로운 자들의 눈을 멀게 하고 의로운 자들의 말을 뒤틀기 때문이다.",
   "tokens": [
     {
-      "surface": "לֹא",
-      "gloss": "…말며"
+      "surface": "לא",
+      "gloss": "하지 마라"
     },
     {
-      "surface": "תַטֶּה",
-      "gloss": "굽히지"
+      "surface": "תטה",
+      "gloss": "굽히다"
     },
     {
-      "surface": "מִשְׁפָּט",
-      "gloss": "판결을"
+      "surface": "משפט",
+      "gloss": "미쉬파트"
     },
     {
-      "surface": "לֹא",
-      "gloss": "…말며"
+      "surface": "לא",
+      "gloss": "하지 마라"
     },
     {
-      "surface": "תַכִּיר",
-      "gloss": "알아보지"
+      "surface": "תכיר",
+      "gloss": "알아보다"
     },
     {
-      "surface": "פָּנִים",
-      "gloss": "얼굴을"
+      "surface": "פנים",
+      "gloss": "얼굴"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "그리고 …말지니"
+      "surface": "ולא",
+      "gloss": "그리고 하지 마라"
     },
     {
-      "surface": "תִקַּח",
-      "gloss": "取하지"
+      "surface": "תקח",
+      "gloss": "받다"
     },
     {
-      "surface": "שֹׁחַד",
-      "gloss": "뇌물을"
+      "surface": "שחד",
+      "gloss": "쇼하드"
     },
     {
-      "surface": "כִּי",
-      "gloss": "이는"
+      "surface": "כי",
+      "gloss": "때문에"
     },
     {
-      "surface": "הַשֹּׁחַד",
-      "gloss": "그 뇌물이"
+      "surface": "השחד",
+      "gloss": "그 쇼하드는"
     },
     {
-      "surface": "יְעַוֵּר",
-      "gloss": "멀게 하고"
+      "surface": "יעור",
+      "gloss": "멀게 하다"
     },
     {
-      "surface": "עֵינֵי",
-      "gloss": "눈을"
+      "surface": "עיני",
+      "gloss": "눈"
     },
     {
-      "surface": "חֲכָמִים",
-      "gloss": "슬기로운 자들의"
+      "surface": "חכמים",
+      "gloss": "지혜로운 자들"
     },
     {
-      "surface": "וִיסַלֵּף",
-      "gloss": "어긋나게 한다"
+      "surface": "ויסלף",
+      "gloss": "그리고 뒤틀다"
     },
     {
-      "surface": "דִּבְרֵי",
-      "gloss": "말들을"
+      "surface": "דברי",
+      "gloss": "말"
     },
     {
-      "surface": "צַדִּיקִם",
+      "surface": "צדיקם",
       "gloss": "의로운 자들의"
     }
   ],
-  "timestamp": "2026-08-05T08:55:58.654775543Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:13.193388975Z",
+  "model": "glm-5.3"
 }

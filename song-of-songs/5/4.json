@@ -5,15 +5,15 @@
   "book": "song-of-songs",
   "lang": "ko",
   "chapter": 5,
-  "translation": "나의 사랑하는 이가 ⟨그⟩ ⟨자신의⟩ 손을 구멍에서 보내었다, 그리하여 나의 창자가 그를 향해 들끓었다.",
+  "translation": "나의 사랑하는 이가 ⟨그⟩ 문 구멍으로 손을 넣었고, 나의 속이 그를 향하여 요동하였다.",
   "tokens": [
     {
       "surface": "דודי",
-      "gloss": "나의 사랑하는 이가"
+      "gloss": "나의 사랑하는 이"
     },
     {
       "surface": "שלח",
-      "gloss": "보내었다"
+      "gloss": "넣었다"
     },
     {
       "surface": "ידו",
@@ -21,25 +21,25 @@
     },
     {
       "surface": "מן",
-      "gloss": "～에서"
+      "gloss": "으로부터"
     },
     {
       "surface": "החר",
-      "gloss": "구멍"
+      "gloss": "그 구멍"
     },
     {
       "surface": "ומעי",
-      "gloss": "나의 창자가"
+      "gloss": "그리고 나의 속이"
     },
     {
       "surface": "המו",
-      "gloss": "들끓었다"
+      "gloss": "요동하였다"
     },
     {
       "surface": "עליו",
-      "gloss": "그를 향해"
+      "gloss": "그를 향하여"
     }
   ],
-  "timestamp": "2026-08-05T12:14:16.212017009Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:01.743994640Z",
+  "model": "glm-5.3"
 }

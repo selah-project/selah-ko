@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "ko",
   "chapter": 4,
-  "translation": "⟨그리고⟩ ⟨את⟩ 메노라와 그것들의 등불들 — 규례대로 더비르 앞에서 태우기 위한 — 정금(精金)으로.",
+  "translation": "그리고 ⟨את⟩ 그 등대들과 그것들의 등불들 — 규정대로 성소 앞에서 태우려는 것 — 순금이었다.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨그리고⟩ ⟨את⟩",
-      "marks": "메노라를"
+      "gloss": "⟨את⟩",
+      "marks": "그 등대들"
     },
     {
       "surface": "המנרות",
-      "gloss": "메노라"
+      "gloss": "그 등대들"
     },
     {
       "surface": "ונרתיהם",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "לבערם",
-      "gloss": "태우기 위한"
+      "gloss": "태우려는 것"
     },
     {
       "surface": "כמשפט",
-      "gloss": "규례대로"
+      "gloss": "규정대로"
     },
     {
       "surface": "לפני",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "הדביר",
-      "gloss": "더비르"
+      "gloss": "성소"
     },
     {
       "surface": "זהב",
-      "gloss": "금으로"
+      "gloss": "금"
     },
     {
       "surface": "סגור",
-      "gloss": "닫힌"
+      "gloss": "정제된"
     }
   ],
-  "timestamp": "2026-08-05T14:08:35.065005009Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:34.189477733Z",
+  "model": "glm-5.3"
 }

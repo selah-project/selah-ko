@@ -5,15 +5,15 @@
   "book": "habakkuk",
   "lang": "ko",
   "chapter": 2,
-  "translation": "이는 땅이 야훼의 ⟨את⟩ 영광을 아는 것으로 가득 찰 것임이라, 물들이 바다를 덮음 같이.",
+  "translation": "땅이 야훼의 ⟨את⟩ 영광을 아는 지식으로 가득 찰 것임이니, 물들이 바다를 덮음 같이.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "이는"
+      "gloss": "것임이니"
     },
     {
       "surface": "תמלא",
-      "gloss": "가득 찰 것임이라"
+      "gloss": "가득 찰"
     },
     {
       "surface": "הארץ",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "לדעת",
-      "gloss": "아는 것으로"
+      "gloss": "아는 지식으로"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "야훼의 영광을"
+      "marks": "영광을"
     },
     {
       "surface": "כבוד",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "על",
-      "gloss": "〜을"
+      "gloss": "을"
     },
     {
       "surface": "ים",
       "gloss": "바다"
     }
   ],
-  "timestamp": "2026-08-05T11:15:28.130683204Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:24.226375735Z",
+  "model": "glm-5.3"
 }

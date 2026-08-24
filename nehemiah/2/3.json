@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "ko",
   "chapter": 2,
-  "translation": "내가 왕께 아뢰었다. \"왕이시여, 왕은 영원히 사시옵소서. 제 얼굴이 어찌하여 침울하지 않겠사옵니까 — 그곳, 제 조상들의 무덤 집인 그 성이 황무하고, 그 성문들은 불에 탔으매.\"",
+  "translation": "내가 왕에게 말하였다. \"왕이여, 왕은 영원히 사시기를 바랍니다. 제 얼굴이 어찌 슬프지 않을 수 있겠습니까? 저의 조상들의 무덤의 성이 황폐하였고, 그 성문들은 불에 타 없어졌기 때문입니다.\"",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "내가 … 아뢰었다"
+      "gloss": "말하였다"
     },
     {
       "surface": "למלך",
-      "gloss": "왕께"
+      "gloss": "왕에게"
     },
     {
       "surface": "המלך",
-      "gloss": "왕이시여"
+      "gloss": "왕은"
     },
     {
       "surface": "לעולם",
@@ -25,47 +25,47 @@
     },
     {
       "surface": "יחיה",
-      "gloss": "사시옵소서"
+      "gloss": "사시기를 바랍니다"
     },
     {
       "surface": "מדוע",
-      "gloss": "어찌하여"
+      "gloss": "어찌"
     },
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "않을"
     },
     {
       "surface": "ירעו",
-      "gloss": "침oul하지"
+      "gloss": "슬프지"
     },
     {
       "surface": "פני",
-      "gloss": "제 얼굴이"
+      "gloss": "얼굴이"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "때문입니다"
     },
     {
       "surface": "העיר",
-      "gloss": "그 성이"
+      "gloss": "성이"
     },
     {
       "surface": "בית",
-      "gloss": "집"
+      "gloss": "집 (무덤의)"
     },
     {
       "surface": "קברות",
-      "gloss": "무덤"
+      "gloss": "무덤들의"
     },
     {
       "surface": "אבתי",
-      "gloss": "제 조상들의"
+      "gloss": "저의 조상들의"
     },
     {
       "surface": "חרבה",
-      "gloss": "황무하고"
+      "gloss": "황폐하였고"
     },
     {
       "surface": "ושעריה",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "אכלו",
-      "gloss": "탔으매"
+      "gloss": "타 없어졌다"
     },
     {
       "surface": "באש",
       "gloss": "불에"
     }
   ],
-  "timestamp": "2026-08-05T18:44:56.821290704Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:18.485776574Z",
+  "model": "glm-5.3"
 }

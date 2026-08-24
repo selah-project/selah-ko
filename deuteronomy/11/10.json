@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 11,
-  "translation": "왜냐하면 네가 거기로 들어가서 그것을 차지하려 하는 그 땅은, 너희가 거기서 나온 미츠라임 땅과 같지 않기 때문이니 — 거기서는 네가 ⟨את⟩ 네 씨를 뿌리고, 네 발로 채소밭처럼 물을 주었지만.",
+  "translation": "네가 거기로 들어가 차지하려는 그 땅은 미츠라임 (이집트) 땅과 같지 않다. 너희가 거기서 나왔던 그 땅은, 씨를 뿌리고 네 발로 물을 대던 곳, 채소밭 같은 곳이다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "왜냐하면"
+      "gloss": "…은"
     },
     {
       "surface": "הארץ",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "…인"
     },
     {
       "surface": "אתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "들어가다"
+      "gloss": "들어가는"
     },
     {
       "surface": "שמה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "그것을 차지하려고"
+      "gloss": "차지하려는"
     },
     {
       "surface": "לא",
-      "gloss": "아니다"
+      "gloss": "같지 않다"
     },
     {
       "surface": "כארץ",
-      "gloss": "…땅과 같이"
+      "gloss": "…땅과"
     },
     {
       "surface": "מצרים",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "그것이다"
+      "gloss": "⟨그것⟩"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "…인"
     },
     {
       "surface": "יצאתם",
-      "gloss": "너희가 나왔다"
+      "gloss": "너희가 나왔던"
     },
     {
       "surface": "משם",
@@ -65,24 +65,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "where"
+      "gloss": "…던 곳"
     },
     {
       "surface": "תזרע",
-      "gloss": "네가 뿌리다"
+      "gloss": "씨를 뿌리고"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "네 씨를"
+      "marks": "네 씨"
     },
     {
       "surface": "זרעך",
-      "gloss": "네 씨를"
+      "gloss": "네 씨"
     },
     {
       "surface": "והשקית",
-      "gloss": "그리고 물을 주다"
+      "gloss": "물을 대던"
     },
     {
       "surface": "ברגלך",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "כגן",
-      "gloss": "…밭처럼"
+      "gloss": "…밭 같은"
     },
     {
       "surface": "הירק",
       "gloss": "채소"
     }
   ],
-  "timestamp": "2026-08-05T08:52:39.717303847Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:50.175671411Z",
+  "model": "glm-5.3"
 }

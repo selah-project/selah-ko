@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 43,
-  "translation": "그가 그들에게 샬롬을 물으시고, 말씀하셨다. \"그대들이 말하던 그 늙은 아버지가 샬롬하신가? 아직 살아 계신가?\"",
+  "translation": "그가 그들에게 샬롬을 물었고, 말하였다. \"너희가 말한 그 노인, 너희 아버지가 평안한가? 그가 아직 살아 있는가?\"",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "그가 물으시고"
+      "gloss": "물었고"
     },
     {
       "surface": "להם",
@@ -21,37 +21,37 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "말씀하셨다"
+      "gloss": "말하였다"
     },
     {
       "surface": "השלום",
-      "gloss": "샬롬하신가"
+      "gloss": "평안한가"
     },
     {
       "surface": "אביכם",
-      "gloss": "아버지가"
+      "gloss": "너희 아버지"
     },
     {
       "surface": "הזקן",
-      "gloss": "늙은"
+      "gloss": "그 노인"
     },
     {
       "surface": "אשר",
-      "gloss": "whom"
+      "gloss": "~것"
     },
     {
       "surface": "אמרתם",
-      "gloss": "그대들이 말하던"
+      "gloss": "너희가 말한"
     },
     {
       "surface": "העודנו",
-      "gloss": "아직"
+      "gloss": "그가 아직"
     },
     {
       "surface": "חי",
-      "gloss": "살아 계신가"
+      "gloss": "살아 있는가"
     }
   ],
-  "timestamp": "2026-08-05T18:00:14.840638900Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:26.399282303Z",
+  "model": "glm-5.3"
 }

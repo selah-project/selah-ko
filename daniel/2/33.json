@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "ko",
   "chapter": 2,
-  "translation": "그것의 다리들은 철이고, 그것의 발은 그중 일부는 철이요 그중 일부는 진흙이었다.",
+  "translation": "그것의 다리는 철이요, 그것의 발은 그중 얼마는 철이요 얼마는 진흙이었다.",
   "tokens": [
     {
       "surface": "שקוהי",
-      "gloss": "그것의 다리들은"
+      "gloss": "그것의 다리는"
     },
     {
       "surface": "די",
-      "gloss": "～의"
+      "gloss": "…인"
     },
     {
       "surface": "פרזל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מנהון",
-      "gloss": "그중에서"
+      "gloss": "그중 얼마는"
     },
     {
       "surface": "די",
-      "gloss": "～의"
+      "gloss": "…인"
     },
     {
       "surface": "פרזל",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "ומנהון",
-      "gloss": "그리고 그중에서"
+      "gloss": "얼마는"
     },
     {
       "surface": "די",
-      "gloss": "～의"
+      "gloss": "…인"
     },
     {
       "surface": "חסף",
       "gloss": "진흙"
     }
   ],
-  "timestamp": "2026-08-05T12:25:56.232611246Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:04.017243611Z",
+  "model": "glm-5.3"
 }

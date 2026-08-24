@@ -5,61 +5,63 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 19,
-  "translation": "「あなたがたは、私がエジプトにしたことを見た。そして私はあなたがたを鷲の翼に乗せて背負い、あなたがたを私のもとに連れて来た。」",
+  "translation": "너희는 내가 미츠라임에게 행한 것을 보았다. 내가 너희를 독수리 날개 위에 ⟨את⟩ 너희를 업고, 너희를 ⟨את⟩ 나에게로 데려왔다.",
   "tokens": [
     {
       "surface": "אתם",
-      "gloss": "あなたがたは"
+      "gloss": "너희는"
     },
     {
       "surface": "ראיתם",
-      "gloss": "見た"
+      "gloss": "보았다"
     },
     {
       "surface": "אשר",
-      "gloss": "こと"
+      "gloss": "것을"
     },
     {
       "surface": "עשיתי",
-      "gloss": "私が…した"
+      "gloss": "행한"
     },
     {
       "surface": "למצרים",
-      "gloss": "エジプトに"
+      "gloss": "미츠라임에게"
     },
     {
       "surface": "ואשא",
-      "gloss": "背負い"
+      "gloss": "업고"
     },
     {
       "surface": "אתכם",
-      "gloss": "あなたがたを"
+      "gloss": "⟨את⟩ 너희를",
+      "marks": "너희를 (독수리 날개 위에 업은 대상)"
     },
     {
       "surface": "על",
-      "gloss": "に乗せて"
+      "gloss": "위에"
     },
     {
       "surface": "כנפי",
-      "gloss": "翼"
+      "gloss": "날개"
     },
     {
       "surface": "נשרים",
-      "gloss": "鷲の"
+      "gloss": "독수리의"
     },
     {
       "surface": "ואבא",
-      "gloss": "連れて来た"
+      "gloss": "데려왔다"
     },
     {
       "surface": "אתכם",
-      "gloss": "あなたがたを"
+      "gloss": "⟨את⟩ 너희를",
+      "marks": "너희를 (나에게로 데려온 대상)"
     },
     {
       "surface": "אלי",
-      "gloss": "私のもとに"
+      "gloss": "나에게로"
     }
   ],
-  "timestamp": "2026-08-05T07:56:27.490906567Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:19:15.830719700Z",
+  "model": "glm-5.3"
 }

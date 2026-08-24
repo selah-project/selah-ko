@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 21,
-  "translation": "아비멜렉이 아브라함에게 말하였다. “일곱 암양 ⟨이것들이⟩ 무엇이냐? 그대가 따로 세워놓은 ⟨이것들이⟩.”",
+  "translation": "아비멜렉이 아브라함에게 말하였다. \"이 어미 양 일곱 마리는 무엇인가? 어째서 따로 세워 두었는가?\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "무엇이냐"
+      "gloss": "무엇인가"
     },
     {
       "surface": "הנה",
-      "gloss": "이것들이"
+      "gloss": "이"
     },
     {
       "surface": "שבע",
@@ -37,25 +37,25 @@
     },
     {
       "surface": "כבשת",
-      "gloss": "암양"
+      "gloss": "어미 양"
     },
     {
       "surface": "האלה",
-      "gloss": "이것들이"
+      "gloss": "이"
     },
     {
       "surface": "אשר",
-      "gloss": "that"
+      "gloss": "어째서"
     },
     {
       "surface": "הצבת",
-      "gloss": "세워놓은"
+      "gloss": "세워 두었는가"
     },
     {
       "surface": "לבדנה",
       "gloss": "따로"
     }
   ],
-  "timestamp": "2026-08-05T17:53:50.054111227Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:40.417451548Z",
+  "model": "glm-5.3"
 }

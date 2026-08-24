@@ -5,39 +5,39 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 52,
-  "translation": "내가 영원히 주를 감사하오리니, 주께서 이것을 행하셨음이니이다. 내가 주의 이름을 기다리오리니, 그것이 주의 헤시드들 앞에서 좋음이니이다.",
+  "translation": "영원토록 당신께 감사드린다. 당신께서 이것을 행하셨음이다. 그리고 당신의 이름을 기다린다. 그것이 당신의 신실한 자들 앞에서 선하기 때문이다.",
   "tokens": [
     {
       "surface": "אודך",
-      "gloss": "주를 감사하오리니"
+      "gloss": "감사드린다"
     },
     {
       "surface": "לעולם",
-      "gloss": "영원히"
+      "gloss": "영원토록"
     },
     {
       "surface": "כי",
-      "gloss": "because"
+      "gloss": "때문이다"
     },
     {
       "surface": "עשית",
-      "gloss": "주께서 행하셨음이니이다"
+      "gloss": "행하셨다"
     },
     {
       "surface": "ואקוה",
-      "gloss": "기다리오리니"
+      "gloss": "그리고 기다린다"
     },
     {
       "surface": "שמך",
-      "gloss": "주의 이름을"
+      "gloss": "당신의 이름"
     },
     {
       "surface": "כי",
-      "gloss": "because"
+      "gloss": "때문이다"
     },
     {
       "surface": "טוב",
-      "gloss": "좋음이니이다"
+      "gloss": "선한"
     },
     {
       "surface": "נגד",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "חסידיך",
-      "gloss": "주의 헤시드들"
+      "gloss": "당신의 신실한 자들"
     }
   ],
-  "timestamp": "2026-08-05T14:02:18.283818665Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:33.946660538Z",
+  "model": "glm-5.3"
 }

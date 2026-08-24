@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 25,
-  "translation": "꿀을 얻었으면 네게 충분한 만큼 먹어라, 그것으로 배불리 《하여》 게우지 않도록.",
+  "translation": "꿀을 얻었으면 네게 족한 만큼만 먹어라. 그것으로 배부르게 되어 ⟨그것을⟩ 토해 내지 않도록 하여라.",
   "tokens": [
     {
-      "surface": "דְּבַ֣שׁ",
-      "gloss": "꿀을"
+      "surface": "דבש",
+      "gloss": "꿀"
     },
     {
-      "surface": "מָ֭צָאתָ",
+      "surface": "מצאת",
       "gloss": "얻었으면"
     },
     {
-      "surface": "אֱכֹ֣ל",
+      "surface": "אכל",
       "gloss": "먹어라"
     },
     {
-      "surface": "דַּיֶּ֑ךָּ",
-      "gloss": "네게 충분한 만큼"
+      "surface": "דיך",
+      "gloss": "네게 족한 만큼"
     },
     {
-      "surface": "פֶּן",
-      "gloss": "…않도록"
+      "surface": "פן",
+      "gloss": "~하지 않도록"
     },
     {
-      "surface": "תִּ֝שְׂבָּעֶ֗נּוּ",
-      "gloss": "그것으로 배불리"
+      "surface": "תשבענו",
+      "gloss": "그것으로 배부르게 되어"
     },
     {
-      "surface": "וַהֲקֵֽאתֽוֹ",
-      "gloss": "그리고 게우지"
+      "surface": "והקאתו",
+      "gloss": "그것을 토해 내다"
     }
   ],
-  "timestamp": "2026-08-05T11:58:36.918565279Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:26.822336192Z",
+  "model": "glm-5.3"
 }

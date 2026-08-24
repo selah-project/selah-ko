@@ -5,41 +5,41 @@
   "book": "song-of-songs",
   "lang": "ko",
   "chapter": 2,
-  "translation": "이제 보아라, 겨울이 지나갔고, 비는 지나가서 걸어갔〈다〉.",
+  "translation": "대저 보라, 겨울이 지나갔고 비는 끝나가 제 갈 길을 갔다.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "이제"
+      "surface": "כי",
+      "gloss": "대저"
     },
     {
-      "surface": "הִנֵּ֥ה",
-      "gloss": "보아라"
+      "surface": "הנה",
+      "gloss": "보라"
     },
     {
       "surface": "הסתו",
-      "gloss": "겨울이"
+      "gloss": "겨울"
     },
     {
-      "surface": "עָבָ֑ר",
-      "gloss": "지나갔고"
+      "surface": "עבר",
+      "gloss": "지나갔다"
     },
     {
       "surface": "הגשם",
-      "gloss": "비는"
+      "gloss": "비"
     },
     {
-      "surface": "חָלַ֖ף",
-      "gloss": "지나가서"
+      "surface": "חלף",
+      "gloss": "끝나갔다"
     },
     {
-      "surface": "הָלַ֥ךְ",
-      "gloss": "걸어갔다"
+      "surface": "הלך",
+      "gloss": "갔다"
     },
     {
-      "surface": "לֽוֹ",
-      "gloss": "〈그에게〉"
+      "surface": "לו",
+      "gloss": "제 갈 길을"
     }
   ],
-  "timestamp": "2026-08-05T18:29:06.537279260Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:53.504399437Z",
+  "model": "glm-5.3"
 }

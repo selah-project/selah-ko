@@ -5,58 +5,58 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 7,
-  "translation": "그리고 야훼 네 엘로힘 또한 ⟨את⟩ 그 독벌을 그들 가운데 보내실 것이니, 네面前에서 남아 있는 자들과 숨어 있는 자들이 없어지기까지.",
+  "translation": "또한 야훼 네 엘로힘께서 ⟨את⟩ 그 말벌을 그들 가운데 보내실 것이니, 네게서 숨어 남아 있는 자들이 멸망하여 사라질 때까지이다.",
   "tokens": [
     {
-      "surface": "וְגַם֙",
-      "gloss": "그리고 또한"
+      "surface": "וגם",
+      "gloss": "또한"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그 독벌을"
+      "marks": "그 말벌"
     },
     {
-      "surface": "הַצִּרְעָ֔ה",
-      "gloss": "그 독벌을"
+      "surface": "הצרעה",
+      "gloss": "그 말벌"
     },
     {
-      "surface": "יְשַׁלַּ֛ח",
+      "surface": "ישלח",
       "gloss": "보내실 것이니"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "יהוה",
       "gloss": "야훼"
     },
     {
-      "surface": "אֱלֹהֶ֖יךָ",
-      "gloss": "네 엘로힘이"
+      "surface": "אלהיך",
+      "gloss": "네 엘로힘"
     },
     {
-      "surface": "בָּ֑ם",
+      "surface": "בם",
       "gloss": "그들 가운데"
     },
     {
-      "surface": "עַד",
-      "gloss": "까지"
+      "surface": "עד",
+      "gloss": "~까지"
     },
     {
-      "surface": "אֲבֹ֗ד",
-      "gloss": "없어지기"
+      "surface": "אבד",
+      "gloss": "멸망하여 사라질"
     },
     {
-      "surface": "הַנִּשְׁאָרִ֛ים",
+      "surface": "הנשארים",
       "gloss": "남아 있는 자들이"
     },
     {
-      "surface": "וְהַנִּסְתָּרִ֖ים",
-      "gloss": "그리고 숨어 있는 자들이"
+      "surface": "והנסתרים",
+      "gloss": "숨어 있는 자들도"
     },
     {
-      "surface": "מִפָּנֶֽיךָ",
-      "gloss": "네 앞에서"
+      "surface": "מפניך",
+      "gloss": "네게서"
     }
   ],
-  "timestamp": "2026-08-05T08:52:23.955574569Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:25.509122315Z",
+  "model": "glm-5.3"
 }

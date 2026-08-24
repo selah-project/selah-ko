@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 22,
-  "translation": "사람이 이웃에게 은이나 그릇을 맡기어 지키게 한 경우, 그것이 그 사람의 집에서 도난당하면, 도둑이 발견되면 ⟨그⟩ 도둑은 두 배를 갚아야 한다.",
+  "translation": "어떤 사람이 이웃에게 은(銀)이나 물건을 맡겨 두었는데, 그 집에서 도둑맞으면 — 그 도둑이 잡히면 갑절을 물어 주어야 한다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "～하는 경우"
+      "gloss": "만일"
     },
     {
       "surface": "יתן",
-      "gloss": "맡기면"
+      "gloss": "맡겨 두었는데"
     },
     {
       "surface": "איש",
-      "gloss": "사람이"
+      "gloss": "어떤 사람이"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "은이나"
+      "gloss": "은(銀)이"
     },
     {
       "surface": "או",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כלים",
-      "gloss": "그릇을"
+      "gloss": "물건을"
     },
     {
       "surface": "לשמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וגנב",
-      "gloss": "도난당하면"
+      "gloss": "도둑맞으면"
     },
     {
       "surface": "מבית",
@@ -53,29 +53,29 @@
     },
     {
       "surface": "האיש",
-      "gloss": "그 사람의"
+      "gloss": "그"
     },
     {
       "surface": "אם",
-      "gloss": "～이면"
+      "gloss": "만일"
     },
     {
       "surface": "ימצא",
-      "gloss": "발견되면"
+      "gloss": "잡히면"
     },
     {
       "surface": "הגנב",
-      "gloss": "도둑이"
+      "gloss": "그 도둑이"
     },
     {
       "surface": "ישלם",
-      "gloss": "갚아야 한다"
+      "gloss": "물어 주어야 한다"
     },
     {
       "surface": "שנים",
-      "gloss": "두 배를"
+      "gloss": "갑절을"
     }
   ],
-  "timestamp": "2026-08-05T07:58:05.156700448Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:41:01.004323457Z",
+  "model": "glm-5.3"
 }

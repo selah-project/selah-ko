@@ -5,87 +5,87 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 5,
-  "translation": "그녀가 ⟨את⟩ 내 규례들을 민족들보다 더 악하게 바꾸었고, ⟨את⟩ 내 율례들을 그녀를 둘러싼 땅들보다 더하여 지키지 아니하였다. 그들이 내 규례들을 배척하고, 내 율례들에서行走하지 아니하였기 때문이다.",
+  "translation": "그것이 ⟨את⟩ 나의 법도를 민족들보다 더 악하게 어기고, 그것을 둘러싼 땅들보다 더 ⟨את⟩ 나의 율례를 어겼다. 그들이 나의 법도를 버리고, 나의 율례 안에서 행하지 않았기 때문이다.",
   "tokens": [
     {
-      "surface": "וַתֶּמֶר",
-      "gloss": "그녀가 바꾸었고"
+      "surface": "ותמר",
+      "gloss": "어기였다"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "내 규례들을"
+      "marks": "나의 법도"
     },
     {
-      "surface": "מִשְׁפָּטַי",
-      "gloss": "내 규례들을"
+      "surface": "משפטי",
+      "gloss": "나의 법도"
     },
     {
-      "surface": "לְרִשְׁעָה",
+      "surface": "לרשעה",
       "gloss": "악하게"
     },
     {
-      "surface": "מִן",
-      "gloss": "부터"
+      "surface": "מן",
+      "gloss": "보다"
     },
     {
-      "surface": "הַגּוֹיִם",
+      "surface": "הגוים",
       "gloss": "민족들"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "내 율례들을"
+      "marks": "나의 율례"
     },
     {
-      "surface": "חֻקּוֹתַי",
-      "gloss": "내 율례들을"
+      "surface": "חקותי",
+      "gloss": "나의 율례"
     },
     {
-      "surface": "מִן",
-      "gloss": "부터"
+      "surface": "מן",
+      "gloss": "보다"
     },
     {
-      "surface": "הָאֲרָצוֹת",
+      "surface": "הארצות",
       "gloss": "땅들"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "셈"
+      "surface": "אשר",
+      "gloss": "그"
     },
     {
-      "surface": "סְבִיבוֹתֶיהָ",
-      "gloss": "그녀를 둘러싼"
+      "surface": "סביבותיה",
+      "gloss": "둘러싼"
     },
     {
-      "surface": "כִּי",
-      "gloss": "때문이다"
+      "surface": "כי",
+      "gloss": "때문에"
     },
     {
-      "surface": "בְמִשְׁפָּטַי",
-      "gloss": "내 규례들을"
+      "surface": "במשפטי",
+      "gloss": "나의 법도를"
     },
     {
-      "surface": "מָאָסוּ",
-      "gloss": "배척하고"
+      "surface": "מאסו",
+      "gloss": "버렸다"
     },
     {
-      "surface": "וְחֻקּוֹתַי",
-      "gloss": "내 율례들에서"
+      "surface": "וחקותי",
+      "gloss": "나의 율례를"
     },
     {
-      "surface": "לֹא",
-      "gloss": "아니"
+      "surface": "לא",
+      "gloss": "않다"
     },
     {
-      "surface": "הָלְכוּ",
-      "gloss": "行走하지"
+      "surface": "הלכו",
+      "gloss": "행하였다"
     },
     {
-      "surface": "בָהֶם",
-      "gloss": "그것들에서"
+      "surface": "בהם",
+      "gloss": "그 안에서"
     }
   ],
-  "timestamp": "2026-08-05T10:48:56.689701934Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:32:43.273486231Z",
+  "model": "glm-5.3"
 }

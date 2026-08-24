@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 30,
-  "translation": "그리고 너는 돌아와서 야훼의 음성에 순종하고, ⟨את⟩ 그의 모든 계명들, 곧 내가 오늘 너에게 명령하는 것들을 행할 것이다.",
+  "translation": "그리고 너는 돌이켜 야훼의 말씀에 순종하고, 내가 오늘 네게 명하는 ⟨את⟩ 그의 모든 계명들을 행할 것이다.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "תשוב",
-      "gloss": "돌아올 것이다"
+      "gloss": "돌이켜"
     },
     {
       "surface": "ושמעת",
-      "gloss": "순종할 것이다"
+      "gloss": "순종하고"
     },
     {
       "surface": "בקול",
-      "gloss": "～음성에"
+      "gloss": "…의 말씀에"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼의"
+      "gloss": "야훼"
     },
     {
       "surface": "ועשית",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "～모든"
+      "gloss": "모든"
     },
     {
       "surface": "מצותיו",
-      "gloss": "그의 계명들을"
+      "gloss": "그의 계명들"
     },
     {
       "surface": "אשר",
-      "gloss": "～하라는"
+      "gloss": "…을"
     },
     {
       "surface": "אנכי",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "명령하는"
+      "gloss": "명하는"
     },
     {
       "surface": "היום",
       "gloss": "오늘"
     }
   ],
-  "timestamp": "2026-08-05T09:01:07.608735750Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:05.257135364Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 18,
-  "translation": "네 아버지 자매의 벌거벗음을 드러내지 못한다. 그녀는 네 아버지의 살〔친족〕이다.",
+  "translation": "네 아버지의 자매의 nakedness는 드러내지 아니할지니, 그는 ⟨곧⟩ 네 아버지의 flesh이다.",
   "tokens": [
     {
       "surface": "ערות",
-      "gloss": "벌거벗음"
+      "gloss": "nakedness"
     },
     {
       "surface": "אחות",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אביך",
-      "gloss": "네 아버지"
+      "gloss": "네 아버지의"
     },
     {
       "surface": "לא",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "תגלה",
-      "gloss": "드러내지 못한다"
+      "gloss": "드러내지 아니할지니"
     },
     {
       "surface": "שאר",
-      "gloss": "살〔친족〕"
+      "gloss": "flesh"
     },
     {
       "surface": "אביך",
-      "gloss": "네 아버지"
+      "gloss": "네 아버지의"
     },
     {
       "surface": "הוא",
-      "gloss": "그녀는"
+      "gloss": "그는"
     }
   ],
-  "timestamp": "2026-08-05T18:03:56.289784393Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:31.374412721Z",
+  "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 22,
-  "translation": "엘로힘 에게 제물을 잡는 자는 진멸되리니, 야훼 에게만 ⟨드려야 한다⟩.",
+  "translation": "엘로힘 ⟨다른 신들⟩에게 제물을 잡아 바치는 자는 멸하여 바침을 당하리니, 오직 야훼께 홀로 ⟨드리는 것을 빼고이다⟩.",
   "tokens": [
     {
-      "surface": "זֹבֵ֥חַ",
-      "gloss": "제물을 잡는 자"
+      "surface": "זבח",
+      "gloss": "제물을 잡아 바치는 자는"
     },
     {
-      "surface": "לָאֱלֹהִ֖ים",
-      "gloss": "엘로힘에게"
+      "surface": "לאלהים",
+      "gloss": "엘로힘 ⟨다른 신들⟩에게"
     },
     {
-      "surface": "יָחֳרָ֑ם",
-      "gloss": "진멸되다"
+      "surface": "יחרם",
+      "gloss": "멸하여 바침을 당하리니"
     },
     {
-      "surface": "בִּלְתִּ֥י",
-      "gloss": "~만"
+      "surface": "בלתי",
+      "gloss": "…을 빼고"
     },
     {
-      "surface": "לַיהוָ֖ה",
-      "gloss": "야훼에게"
+      "surface": "ליהוה",
+      "gloss": "오직 야훼께"
     },
     {
-      "surface": "לְבַדּֽוֹ",
-      "gloss": "그분 alone"
+      "surface": "לבדו",
+      "gloss": "홀로에게"
     }
   ],
-  "timestamp": "2026-08-05T07:58:47.744862812Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:45.099782865Z",
+  "model": "glm-5.3"
 }

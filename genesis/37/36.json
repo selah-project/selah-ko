@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 37,
-  "translation": "그리고 미단인들이 ⟨את⟩ 그를 미츠라임에 팔았다 — 파르오의 내시이자 신하장(臣下長) 포티파르에게.",
+  "translation": "그리고 미다니 사람들은 그를 팔아 미츠라임으로, 파르오의 내시이자 slaughter장인 포티파르에게 넘겼다.",
   "tokens": [
     {
       "surface": "והמדנים",
-      "gloss": "그리고 미단인들이"
+      "gloss": "그리고 미다니 사람들은"
     },
     {
       "surface": "מכרו",
@@ -22,19 +22,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "에게"
+      "gloss": "으로"
     },
     {
       "surface": "מצרים",
-      "gloss": "미츠라임에"
+      "gloss": "미츠라임"
     },
     {
       "surface": "לפוטיפר",
-      "gloss": "포티파르"
+      "gloss": "포티파르에게"
     },
     {
       "surface": "סריס",
-      "gloss": "내시이자"
+      "gloss": "내시"
     },
     {
       "surface": "פרעה",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "שר",
-      "gloss": "신하장"
+      "gloss": "장"
     },
     {
       "surface": "הטבחים",
-      "gloss": "(호위병들의)"
+      "gloss": " slaughter의"
     }
   ],
-  "timestamp": "2026-08-05T17:58:55.406776362Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:48.068440919Z",
+  "model": "glm-5.3"
 }

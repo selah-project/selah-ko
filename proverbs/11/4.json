@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 11,
-  "translation": "진노의 날에 재물은 유익하지 못하되, 체다카는 죽음에서 건져 낸다.",
+  "translation": "재물은 진노의 날에 이익이 되지 못하며, 체다카(의)는 죽음에서 건져 낸다.",
   "tokens": [
     {
-      "surface": "לֹא",
-      "gloss": "not"
+      "surface": "לא",
+      "gloss": "하지 못하며"
     },
     {
-      "surface": "יוֹעִ֣יל",
-      "gloss": "유익하지 못하되"
+      "surface": "יועיל",
+      "gloss": "이익이 되다"
     },
     {
-      "surface": "ה֭וֹן",
-      "gloss": "재물은"
+      "surface": "הון",
+      "gloss": "재물"
     },
     {
-      "surface": "בְּי֣וֹם",
+      "surface": "ביום",
       "gloss": "날에"
     },
     {
-      "surface": "עֶבְרָ֑ה",
-      "gloss": "진노의"
+      "surface": "עברה",
+      "gloss": "진노"
     },
     {
-      "surface": "וּ֝צְדָקָ֗ה",
-      "gloss": "체다카는"
+      "surface": "וצדקה",
+      "gloss": "체다카(의)"
     },
     {
-      "surface": "תַּצִּ֥יל",
+      "surface": "תציל",
       "gloss": "건져 낸다"
     },
     {
-      "surface": "מִמָּֽוֶת",
+      "surface": "ממות",
       "gloss": "죽음에서"
     }
   ],
-  "timestamp": "2026-08-05T11:54:45.895171635Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:11.293070024Z",
+  "model": "glm-5.3"
 }

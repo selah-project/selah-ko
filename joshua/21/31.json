@@ -5,43 +5,43 @@
   "book": "joshua",
   "lang": "ko",
   "chapter": 21,
-  "translation": "⟨아트⟩ 헬캇과 ⟨그⟩ ⟨아트⟩ 목초지를, 그리고 ⟨아트⟩ 레호브와 ⟨그⟩ ⟨아트⟩ 목초지를 — 성읍 넷이다.",
+  "translation": "⟨את⟩ 헬카트와 ⟨את⟩ 그것의 미그라쉬, ⟨את⟩ 레홉과 ⟨את⟩ 그것의 미그라쉬 — 성읍 넷이다.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "헬캇"
+      "marks": "헬카트"
     },
     {
       "surface": "חלקת",
-      "gloss": "헬캇"
+      "gloss": "헬카트"
     },
     {
       "surface": "ואת",
-      "gloss": "그리고 ⟨아ת⟩",
-      "marks": "목초지"
+      "gloss": "⟨את⟩",
+      "marks": "그것의 미그라쉬"
     },
     {
       "surface": "מגרשה",
-      "gloss": "목초지"
+      "gloss": "그것의 미그라쉬"
     },
     {
       "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "레호브"
+      "gloss": "⟨את⟩",
+      "marks": "레홉"
     },
     {
       "surface": "רחב",
-      "gloss": "레호브"
+      "gloss": "레홉"
     },
     {
       "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "목초지"
+      "gloss": "⟨את⟩",
+      "marks": "그것의 미그라쉬"
     },
     {
       "surface": "מגרשה",
-      "gloss": "목초지"
+      "gloss": "그것의 미그라쉬"
     },
     {
       "surface": "ערים",
@@ -52,6 +52,6 @@
       "gloss": "넷"
     }
   ],
-  "timestamp": "2026-08-05T09:11:21.625791619Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:25.900217915Z",
+  "model": "glm-5.3"
 }

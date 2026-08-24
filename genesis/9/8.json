@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 9,
-  "translation": "엘로힘이 노아와 그와 함께한 그의 아들들에게 말씀하셨다.",
+  "translation": "엘로힘이 노아와 ⟨את⟩ 그와 함께한 그의 아들들에게 말씀하셨다.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "그와 함께한"
+      "gloss": "⟨את⟩ 그와 함께한"
     },
     {
       "surface": "לאמר",
       "gloss": "⟨말하기를⟩"
     }
   ],
-  "timestamp": "2026-08-05T17:50:07.505412952Z",
+  "timestamp": "2026-08-24T15:51:17.166250789Z",
   "model": "glm-5.2"
 }

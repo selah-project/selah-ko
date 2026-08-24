@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ko",
   "chapter": 13,
-  "translation": "파괴자가 필리슈티임 진영에서 나왔으니, 세 대(隊)였다. 한 대는 오프라 길, 즉 슈알 땅으로 향하고,",
+  "translation": "파괴자들이 블레셋 진영에서 나왔으니, 세 개의 대열이었다. 첫 번째 대열은 오프라 길로, 슈알 땅으로 향하였다.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המשחית",
-      "gloss": "파괴자가"
+      "gloss": "파괴자들이"
     },
     {
       "surface": "ממחנה",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "필리슈티임"
+      "gloss": "블레셋"
     },
     {
       "surface": "שלשה",
-      "gloss": "셋"
+      "gloss": "세"
     },
     {
       "surface": "ראשים",
-      "gloss": "대(隊)"
+      "gloss": "대열"
     },
     {
       "surface": "הראש",
-      "gloss": "한"
+      "gloss": "대열"
     },
     {
       "surface": "אחד",
-      "gloss": "대는"
+      "gloss": "첫 번째"
     },
     {
       "surface": "יפנה",
-      "gloss": "향하고"
+      "gloss": "향하였다"
     },
     {
       "surface": "אל",
-      "gloss": "⟨으로⟩"
+      "gloss": "으로"
     },
     {
       "surface": "דרך",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "즉"
+      "gloss": "으로"
     },
     {
       "surface": "ארץ",
-      "gloss": "땅으로"
+      "gloss": "땅"
     },
     {
       "surface": "שועל",
       "gloss": "슈알"
     }
   ],
-  "timestamp": "2026-08-05T09:26:11.888082283Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:48.161777884Z",
+  "model": "glm-5.3"
 }

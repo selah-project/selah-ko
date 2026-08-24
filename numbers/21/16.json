@@ -5,66 +5,66 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 21,
-  "translation": "그리고 거기서부터 그들은 브엘로 갔다 — 그것이 그 우물이다, 야훼께서 모셰에게 말씀하신, “모여라, ⟨את⟩ 백성을, 내가 그들에게 물을 주겠다.”",
+  "translation": "거기서부터 그들은 브엘로 갔다. 그것이 그 우물로, 야훼께서 모셰에게 말씀하시기를 \"백성을 모으라, 내가 그들에게 물을 주겠다\" 하신 곳이다.",
   "tokens": [
     {
-      "surface": "וּמִשָּׁם",
-      "gloss": "그리고 거기서부터"
+      "surface": "ומשם",
+      "gloss": "거기서부터"
     },
     {
-      "surface": "בְּאֵרָה",
+      "surface": "בארה",
       "gloss": "브엘로"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "그것이"
     },
     {
-      "surface": "הַבְּאֵר",
-      "gloss": "그 우물이다"
+      "surface": "הבאר",
+      "gloss": "그 우물로"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "~곳"
     },
     {
-      "surface": "אָמַר",
-      "gloss": "말씀하신"
+      "surface": "אמר",
+      "gloss": "말씀하시기를"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "야훼께서"
     },
     {
-      "surface": "לְמֹשֶׁה",
+      "surface": "למשה",
       "gloss": "모셰에게"
     },
     {
-      "surface": "אֱסֹף",
-      "gloss": "모여라"
+      "surface": "אסף",
+      "gloss": "모으라"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "백성"
+      "marks": "그 백성"
     },
     {
-      "surface": "הָעָם",
-      "gloss": "백성"
+      "surface": "העם",
+      "gloss": "그 백성"
     },
     {
-      "surface": "וְאֶתְנָה",
-      "gloss": "내가 주겠다"
+      "surface": "ואתנה",
+      "gloss": "주겠다"
     },
     {
-      "surface": "לָהֶם",
+      "surface": "להם",
       "gloss": "그들에게"
     },
     {
-      "surface": "מָיִם",
+      "surface": "מים",
       "gloss": "물을"
     }
   ],
-  "timestamp": "2026-08-05T08:39:55.130977324Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:14.488834745Z",
+  "model": "glm-5.3"
 }

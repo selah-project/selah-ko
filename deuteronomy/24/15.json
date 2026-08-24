@@ -5,102 +5,102 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 24,
-  "translation": "그의 날에 그의 삯을 주고, 해가 ⟨그⟩ 위에 지지 않게 하라. 그는 가난하기 때문이며, 그가 ⟨את⟩ 그의 네페쉬를 그것에 걸고 있기 때문이다. 그리하여 그가 ⟨את⟩ 야훼께 부르짖어 너를 향해 ⟨그⟩것이 죄가 되지 않게 하라.",
+  "translation": "그의 날에 그의 삯을 주어라. 해가 ⟨그것⟩ 위에 지지 않게 하여라. 그가 가난한 자이기 때문이며, 그가 ⟨את⟩ 자기 네페쉬를 그것에 걸고 있기 때문이다. 그가 너를 향해 야훼께 부르짖지 않게 하여라. 그리하면 그것이 너에게 죄가 될 것이다.",
   "tokens": [
     {
-      "surface": "בְּיוֹמוֹ",
+      "surface": "ביומו",
       "gloss": "그의 날에"
     },
     {
-      "surface": "תִּתֵּן",
-      "gloss": "너는 주고"
+      "surface": "תתן",
+      "gloss": "주어라"
     },
     {
-      "surface": "שְׂכָרוֹ",
+      "surface": "שכרו",
       "gloss": "그의 삯을"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "그리고 not"
+      "surface": "ולא",
+      "gloss": "그리고 …하지 않게"
     },
     {
-      "surface": "תָבֹא",
-      "gloss": "들어오"
+      "surface": "תבוא",
+      "gloss": "들어오지"
     },
     {
-      "surface": "עָלָיו",
-      "gloss": "그 위에"
+      "surface": "עליו",
+      "gloss": "그것 위에"
     },
     {
-      "surface": "הַשֶּׁמֶשׁ",
+      "surface": "השמש",
       "gloss": "해가"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "때문에"
     },
     {
-      "surface": "עָנִי",
-      "gloss": "가난하고"
+      "surface": "עני",
+      "gloss": "가난한 자"
     },
     {
-      "surface": "הוּא",
-      "gloss": "그는"
+      "surface": "הוא",
+      "gloss": "그가"
     },
     {
-      "surface": "וְאֵלָיו",
+      "surface": "ואליו",
       "gloss": "그리고 그것에"
     },
     {
-      "surface": "הוּא",
-      "gloss": "그는"
+      "surface": "הוא",
+      "gloss": "그가"
     },
     {
-      "surface": "נֹשֵׂא",
+      "surface": "נשא",
       "gloss": "걸고 있다"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그의 네페쉬를"
+      "marks": "자기 네페쉬를"
     },
     {
-      "surface": "נַפְשׁוֹ",
-      "gloss": "그의 네페쉬를"
+      "surface": "נפשו",
+      "gloss": "자기 네페쉬"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "그리고 not"
+      "surface": "ולא",
+      "gloss": "그리고 …하지 않게"
     },
     {
-      "surface": "יִקְרָא",
-      "gloss": "그가 부르짖어"
+      "surface": "יקרא",
+      "gloss": "부르짖을"
     },
     {
-      "surface": "עָלֶיךָ",
+      "surface": "עליך",
       "gloss": "너를 향해"
     },
     {
-      "surface": "אֶל",
-      "gloss": "⟨向着⟩"
-    },
-    {
-      "surface": "יְהוָה",
+      "surface": "אל",
       "gloss": "야훼께"
     },
     {
-      "surface": "וְהָיָה",
-      "gloss": "그리하여 그것이"
+      "surface": "יהוה",
+      "gloss": "야훼"
     },
     {
-      "surface": "בְּךָ",
+      "surface": "והיה",
+      "gloss": "그리하면 …될 것이다"
+    },
+    {
+      "surface": "בך",
       "gloss": "너에게"
     },
     {
-      "surface": "חֵטְא",
-      "gloss": "죄가"
+      "surface": "חטא",
+      "gloss": "죄"
     }
   ],
-  "timestamp": "2026-08-05T18:07:52.941440681Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:40:56.965558923Z",
+  "model": "glm-5.3"
 }

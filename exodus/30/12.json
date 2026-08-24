@@ -5,90 +5,92 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 30,
-  "translation": "“네가 이스라엘 아들들의 머리를 들어 그들을 셀 때, 각자는 자기 생명의 속전을 야훼께 드릴 것이니, 그들을 셀 때에 — 그리고 ⟨그것이⟩ 그들 가운데 재앙이 되지 아니하리라, 그들을 셀 때에.”",
+  "translation": "네가 이스라엘 백성의 머리 수를 그들의 계수대로 들 때에는, 그들이 계수되는 동안 각 사람이 자기 네페쉬의 몸값을 야훼께 드릴 것이니, 그들을 계수할 때에 그들에게 재앙이 없으리라, 그들을 계수할 때에.",
   "tokens": [
     {
-      "surface": "כִּ֣י",
-      "gloss": "때에"
+      "surface": "כי",
+      "gloss": "언제"
     },
     {
-      "surface": "תִשָּׂ֞א",
-      "gloss": "네가 들"
+      "surface": "תשא",
+      "gloss": "들 때에는"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "머리"
+      "marks": "머리 수"
     },
     {
-      "surface": "רֹ֥אשׁ",
-      "gloss": "머리"
+      "surface": "ראש",
+      "gloss": "머리 수"
     },
     {
-      "surface": "בְּנֵֽי",
-      "gloss": "아들들의"
+      "surface": "בני",
+      "gloss": "백성"
     },
     {
-      "surface": "יִשְׂרָאֵ֘ל",
+      "surface": "ישראל",
       "gloss": "이스라엘"
     },
     {
-      "surface": "לִפְקֻדֵיהֶם֒",
-      "gloss": "그들의 계수(計數)를 위해"
+      "surface": "לפקדיהם",
+      "gloss": "그들의 계수대로"
     },
     {
-      "surface": "וְנָ֨תְנ֜וּ",
-      "gloss": "그리고 그들은 드릴"
+      "surface": "ונתנו",
+      "gloss": "그들이 드릴 것이니"
     },
     {
-      "surface": "אִ֣ישׁ",
-      "gloss": "각자"
+      "surface": "איש",
+      "gloss": "각 사람이"
     },
     {
-      "surface": "כֹּ֧פֶר",
-      "gloss": "속전"
+      "surface": "כפר",
+      "gloss": "몸값"
     },
     {
-      "surface": "נַפְשׁ֛וֹ",
-      "gloss": "자기 생명의"
+      "surface": "נפשו",
+      "gloss": "자기 네페쉬의"
     },
     {
-      "surface": "לַיהוָ֖ה",
+      "surface": "ליהוה",
       "gloss": "야훼께"
     },
     {
-      "surface": "בִּפְקֹ֣ד",
-      "gloss": "셀"
+      "surface": "בפקד",
+      "gloss": "계수할 때에"
     },
     {
-      "surface": "אֹתָ֑ם",
-      "gloss": "그들을"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "그리고 아니"
+      "surface": "ולא",
+      "gloss": "없으리라"
     },
     {
-      "surface": "יִהְיֶ֥ה",
-      "gloss": "있을"
+      "surface": "יהיה",
+      "gloss": "있으리라"
     },
     {
-      "surface": "בָהֶ֛ם",
-      "gloss": "그들 가운데"
+      "surface": "בהם",
+      "gloss": "그들에게"
     },
     {
-      "surface": "נֶ֖גֶף",
+      "surface": "נגף",
       "gloss": "재앙"
     },
     {
-      "surface": "בִּפְקֹ֥ד",
-      "gloss": "셀"
+      "surface": "בפקד",
+      "gloss": "계수할 때에"
     },
     {
-      "surface": "אֹתָֽם",
-      "gloss": "그들을"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "그들"
     }
   ],
-  "timestamp": "2026-08-05T08:03:56.520535615Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:19:08.773675179Z",
+  "model": "glm-5.3"
 }

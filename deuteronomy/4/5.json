@@ -5,81 +5,82 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 4,
-  "translation": "보라, 나는 너희에게 ⟨את⟩ 규례들과 판례들을 가르쳤다 — 야훼 나의 엘로힘이 나에게 명령하신 대로 — 너희가 들어가서 그것을 차지하려 하는 그 땅 한가운데서 그같이 행하려 함이다.",
+  "translation": "보라, 내가 너희에게 훈계와 규례들을 가르쳤으니, 내 엘로힘 야훼께서 그와 같이 행하라고 나에게 명령하신 대로이다. 곧 너희가 건너가서 그것을 차지하러 들어가는 땅 한가운데에서이다.",
   "tokens": [
     {
-      "surface": "רְאֵ֣ה",
+      "surface": "ראה",
       "gloss": "보라"
     },
     {
-      "surface": "לִמַּ֣דְתִּי",
-      "gloss": "나는 가르쳤다"
+      "surface": "למדתי",
+      "gloss": "가르쳤으니"
     },
     {
-      "surface": "אֶתְכֶ֗ם",
-      "gloss": "너희에게"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 너희에게",
+      "marks": "훈계와 규례들"
     },
     {
-      "surface": "חֻקִּים֙",
-      "gloss": "규례들"
+      "surface": "חקים",
+      "gloss": "훈계들"
     },
     {
-      "surface": "וּמִשְׁפָּטִ֔ים",
-      "gloss": "그리고 판례들"
+      "surface": "ומשפטים",
+      "gloss": "그리고 규례들"
     },
     {
-      "surface": "כַּאֲשֶׁ֥ר",
-      "gloss": "～대로"
+      "surface": "כאשר",
+      "gloss": "…한 대로"
     },
     {
-      "surface": "צִוַּ֖נִי",
-      "gloss": "나에게 명령하신"
+      "surface": "צוני",
+      "gloss": "명령하신"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "야훼"
     },
     {
-      "surface": "אֱלֹהָ֑י",
-      "gloss": "나의 엘로힘이"
+      "surface": "אלהי",
+      "gloss": "나의 엘로힘"
     },
     {
-      "surface": "לַעֲשׂ֣וֹת",
-      "gloss": "행하려 함"
+      "surface": "לעשות",
+      "gloss": "행하라고"
     },
     {
-      "surface": "כֵּ֔ן",
-      "gloss": "그같이"
+      "surface": "כן",
+      "gloss": "그와 같이"
     },
     {
-      "surface": "בְּקֶ֣רֶב",
-      "gloss": "～한가운데서"
+      "surface": "בקרב",
+      "gloss": "한가운데에서"
     },
     {
-      "surface": "הָאָ֔רֶץ",
+      "surface": "הארץ",
       "gloss": "그 땅"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "～하는"
+      "surface": "אשר",
+      "gloss": "…하는"
     },
     {
-      "surface": "אַתֶּ֛ם",
+      "surface": "אתם",
       "gloss": "너희가"
     },
     {
-      "surface": "בָּאִ֥ים",
-      "gloss": "들어가"
+      "surface": "באים",
+      "gloss": "들어가는"
     },
     {
-      "surface": "שָׁ֖מָּה",
+      "surface": "שמה",
       "gloss": "거기로"
     },
     {
-      "surface": "לְרִשְׁתָּֽהּ",
-      "gloss": "그것을 차지하려"
+      "surface": "לרשתה",
+      "gloss": "그것을 차지하러"
     }
   ],
-  "timestamp": "2026-08-05T08:50:34.056860993Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:53.955681078Z",
+  "model": "glm-5.3"
 }

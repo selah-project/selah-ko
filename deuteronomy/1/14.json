@@ -5,42 +5,42 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 1,
-  "translation": "너희가 나에게 대답하여 ⟨⟨아침의 일⟩⟩ 말하기를, 당신이 ⟨⟨말하신⟩⟩ 그 일은 행하 기에 좋으니이다 하였다.”",
+  "translation": "그러자 너희가 ⟨את⟩ 나에게 대답하여 말하였다. “당신이 말씀하신 그 일은 행하기에 좋습니다.”",
   "tokens": [
     {
-      "surface": "וַֽתַּעֲנ֖וּ",
-      "gloss": "너희가 대답하여"
+      "surface": "ותענו",
+      "gloss": "대답하여"
     },
     {
-      "surface": "אֹתִ֑י",
+      "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "나를"
+      "marks": "나에게"
     },
     {
-      "surface": "וַתֹּ֣אמְר֔וּ",
-      "gloss": "말하기를"
+      "surface": "ותאמרו",
+      "gloss": "말하였다"
     },
     {
-      "surface": "טֽוֹב",
-      "gloss": "좋으니이다"
+      "surface": "טוב",
+      "gloss": "좋다"
     },
     {
-      "surface": "הַדָּבָ֥ר",
+      "surface": "הדבר",
       "gloss": "그 일은"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "당신이"
+      "surface": "אשר",
+      "gloss": "~을"
     },
     {
-      "surface": "דִּבַּ֖רְתָּ",
-      "gloss": "말하신"
+      "surface": "דברת",
+      "gloss": "말씀하셨다"
     },
     {
-      "surface": "לַעֲשֽׂוֹת",
+      "surface": "לעשות",
       "gloss": "행하기에"
     }
   ],
-  "timestamp": "2026-08-05T13:41:32.251892785Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:11.981062296Z",
+  "model": "glm-5.3"
 }

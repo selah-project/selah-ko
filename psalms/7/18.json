@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 7,
-  "translation": "내가 야훼를 그의 의(義)에 따라 찬양하며, 지존자 야훼의 이름을 노래하리라.",
+  "translation": "내가 야훼께 그분의 체다카(의)를 따라 감사를 드리고, 지존하신 야훼의 이름을 찬양하며 노래하리다.",
   "tokens": [
     {
       "surface": "אודה",
-      "gloss": "내가 찬양하며"
+      "gloss": "감사를 드리리다"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼를"
+      "gloss": "야훼"
     },
     {
       "surface": "כצדקו",
-      "gloss": "그의 의에 따라"
+      "gloss": "그분의 체다카(의)를 따라"
     },
     {
       "surface": "ואזמרה",
-      "gloss": "노래하리라"
+      "gloss": "노래하리다"
     },
     {
       "surface": "שם",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼의"
+      "gloss": "야훼"
     },
     {
       "surface": "עליון",
-      "gloss": "지존자"
+      "gloss": "지존하신"
     }
   ],
-  "timestamp": "2026-08-05T11:22:14.597371646Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:33.367018761Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 23,
-  "translation": "因为主아도나이 야훼가 이같이 말씀하셨다 — 회중을 그들 위로 올리시고, ⟨그리고⟩ ⟨את⟩ 그것들을 소동과 노략거리가 되게 하라.",
+  "translation": "이는 아도나이 야훼께서 이같이 말씀하셨다. \"그들 위에 회중을 올리고, 그들을 ⟨את⟩ 공포와 약탈에 내주어라.\"",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "때문에"
+      "gloss": "이는"
     },
     {
       "surface": "כה",
@@ -25,38 +25,38 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼가"
+      "gloss": "야훼"
     },
     {
       "surface": "העלה",
-      "gloss": "올리시고"
+      "gloss": "올리고"
     },
     {
       "surface": "עליהם",
-      "gloss": "그들 위로"
+      "gloss": "그들 위에"
     },
     {
       "surface": "קהל",
-      "gloss": "회중을"
+      "gloss": "회중"
     },
     {
       "surface": "ונתן",
-      "gloss": "그리고 주어"
+      "gloss": "내주어라"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "그것들을"
+      "marks": "그들을"
     },
     {
       "surface": "לזעוה",
-      "gloss": "소동과"
+      "gloss": "공포에"
     },
     {
       "surface": "ולבז",
-      "gloss": "노략거리가 되게"
+      "gloss": "약탈에"
     }
   ],
-  "timestamp": "2026-08-05T10:55:03.917085214Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:32:52.505018311Z",
+  "model": "glm-5.3"
 }

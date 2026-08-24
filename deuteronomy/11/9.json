@@ -5,73 +5,73 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 11,
-  "translation": "그리고 너희가 너희 조상들에게 주시려고 야훼께서 그들과 그들의 씨에게 맹세하신 땅 위에서, 젖과 꿀이 흐르는 땅에서, 너희 날들을 길게 하기 위함이다.",
+  "translation": "그리하여 너희가 그 땅에서 오래 살게 하려는 것이다. 그 땅은 야훼께서 너희 조상들과 그들의 후손에게 주기로 맹세하신 땅이니, 젖과 꿀이 흐르는 땅이다.",
   "tokens": [
     {
-      "surface": "וּלְמַ֨עַן",
-      "gloss": "그리고 … 위함이다"
+      "surface": "ולמען",
+      "gloss": "그리하여 … 하려는 것이다"
     },
     {
-      "surface": "תַּאֲרִ֤יכוּ",
-      "gloss": "너희가 길게 하다"
+      "surface": "תאריכו",
+      "gloss": "오래 살게 하다"
     },
     {
-      "surface": "יָמִים֙",
+      "surface": "ימים",
       "gloss": "날들을"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "위에서"
     },
     {
-      "surface": "הָ֣אֲדָמָ֔ה",
-      "gloss": "그 땅"
+      "surface": "האדמה",
+      "gloss": "그 땅은"
     },
     {
-      "surface": "אֲשֶׁר֩",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "…인"
     },
     {
-      "surface": "נִשְׁבַּ֨ע",
-      "gloss": "맹세하셨다"
+      "surface": "נשבע",
+      "gloss": "맹세하신"
     },
     {
-      "surface": "יְהוָ֧ה",
+      "surface": "יהוה",
       "gloss": "야훼께서"
     },
     {
-      "surface": "לַאֲבֹתֵיכֶ֛ם",
+      "surface": "לאבתיכם",
       "gloss": "너희 조상들에게"
     },
     {
-      "surface": "לָתֵ֥ת",
-      "gloss": "주시려고"
+      "surface": "לתת",
+      "gloss": "주기로"
     },
     {
-      "surface": "לָהֶ֖ם",
+      "surface": "להם",
       "gloss": "그들에게"
     },
     {
-      "surface": "וּלְזַרְעָ֑ם",
-      "gloss": "그리고 그들의 씨에게"
+      "surface": "ולזרעם",
+      "gloss": "그들의 후손에게"
     },
     {
-      "surface": "אֶ֛רֶץ",
+      "surface": "ארץ",
       "gloss": "땅"
     },
     {
-      "surface": "זָבַ֥ת",
+      "surface": "זבת",
       "gloss": "흐르는"
     },
     {
-      "surface": "חָלָ֖ב",
+      "surface": "חלב",
       "gloss": "젖과"
     },
     {
-      "surface": "וּדְבָֽשׁ",
-      "gloss": "그리고 꿀"
+      "surface": "ודבש",
+      "gloss": "꿀"
     }
   ],
-  "timestamp": "2026-08-05T18:07:27.179010981Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:50.175305602Z",
+  "model": "glm-5.3"
 }

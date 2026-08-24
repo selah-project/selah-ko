@@ -5,65 +5,49 @@
   "book": "1-kings",
   "lang": "ko",
   "chapter": 22,
-  "translation": "그리고 그의 아버지 아사의 날들에 남아 있던 카데쉬의 나머지를 그가 땅에서 쫓아내었다.",
+  "translation": "그리고 그의 아버지 아사의 날들에 남아 있던 카데쉬(거룩한 자라 불린 자들)의 나머지를 그가 그 땅에서 제거하였다.",
   "tokens": [
     {
-      "surface": "וגבורתו",
-      "gloss": ""
+      "surface": "ויתר",
+      "gloss": "그리고 나머지"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "카데쉬"
     },
     {
       "surface": "אשר",
-      "gloss": "～을"
+      "gloss": "…을"
     },
     {
-      "surface": "עשה",
-      "gloss": ""
+      "surface": "נשאר",
+      "gloss": "남아 있던"
     },
     {
-      "surface": "ואשר",
-      "gloss": ""
+      "surface": "בימי",
+      "gloss": "…의 날들에"
     },
     {
-      "surface": "נלחם",
-      "gloss": ""
+      "surface": "אסא",
+      "gloss": "아사"
     },
     {
-      "surface": "הלא",
-      "gloss": ""
+      "surface": "אביו",
+      "gloss": "그의 아버지"
     },
     {
-      "surface": "הם",
-      "gloss": ""
+      "surface": "בער",
+      "gloss": "제거하였다"
     },
     {
-      "surface": "כתובים",
-      "gloss": ""
+      "surface": "מן",
+      "gloss": "…에서"
     },
     {
-      "surface": "על",
-      "gloss": ""
-    },
-    {
-      "surface": "ספר",
-      "gloss": ""
-    },
-    {
-      "surface": "דברי",
-      "gloss": ""
-    },
-    {
-      "surface": "הימים",
-      "gloss": ""
-    },
-    {
-      "surface": "למלכי",
-      "gloss": ""
-    },
-    {
-      "surface": "יהודה",
-      "gloss": ""
+      "surface": "הארץ",
+      "gloss": "그 땅"
     }
   ],
-  "timestamp": "2026-08-05T09:55:33.869202540Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:03.206625257Z",
+  "model": "glm-5.3"
 }

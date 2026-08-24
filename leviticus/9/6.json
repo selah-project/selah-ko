@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 9,
-  "translation": "모셰가 말하였다. \"이것이 야훼께서 명령하신 말씀이다 — 너희가 행하라, 그리하면 야훼의 영광이 너희에게 나타나실 것이다.\"",
+  "translation": "모셰가 말씀하였다. \"이것이 야훼께서 명령하신 말씀이니, 너희가 행하라 — 그리하면 야훼의 영광이 너희에게 나타나 것이다.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "말하였다"
+      "gloss": "말씀하였다"
     },
     {
       "surface": "משה",
-      "gloss": "모셰가"
+      "gloss": "모셰"
     },
     {
       "surface": "זה",
-      "gloss": "이것이"
+      "gloss": "이것"
     },
     {
       "surface": "הדבר",
-      "gloss": "말씀이다"
+      "gloss": "말씀"
     },
     {
       "surface": "אשר",
-      "gloss": "which\/that"
+      "gloss": "…것"
     },
     {
       "surface": "צוה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼께서"
+      "gloss": "야훼"
     },
     {
       "surface": "תעשו",
-      "gloss": "너희가 행하라"
+      "gloss": "행하라"
     },
     {
       "surface": "וירא",
-      "gloss": "나타나실 것이다"
+      "gloss": "나타나"
     },
     {
       "surface": "אליכם",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "כבוד",
-      "gloss": "영광이"
+      "gloss": "영광"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼의"
+      "gloss": "야훼"
     }
   ],
-  "timestamp": "2026-08-05T08:14:33.555748709Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:32.954753663Z",
+  "model": "glm-5.3"
 }

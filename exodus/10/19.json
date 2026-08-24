@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 10,
-  "translation": "야훼께서 바다 바람을, 매우 강한 ⟨것을⟩ 돌리시니, ⟨그것이⟩ ⟨את⟩ 메뚜기를 들어 옮겨 수(葦) 바다로 밀어 넣었다. 미츠라임의 모든 영토에 메뚜기가 하나도 남지 않았다.",
+  "translation": "야훼께서 돌이키시사 아주 강한 바다 바람을 일으키셨다. 그것이 ⟨את⟩ 메뚜기를 들어 올려 갈대 바다로 내몰아 버렸다. 미츠라임의 온 경계에 메뚜기 하나도 남지 않았다.",
   "tokens": [
     {
       "surface": "ויהפך",
-      "gloss": "돌리시니"
+      "gloss": "돌이키시사"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "רוח",
-      "gloss": "바람을"
+      "gloss": "바람"
     },
     {
       "surface": "ים",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "מאד",
-      "gloss": "매우"
+      "gloss": "아주"
     },
     {
       "surface": "וישא",
-      "gloss": "들어 옮겨"
+      "gloss": "들어 올려"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "메뚜기를"
+      "marks": "메뚜기"
     },
     {
       "surface": "הארבה",
-      "gloss": "메뚜기를"
+      "gloss": "메뚜기"
     },
     {
       "surface": "ויתקעהו",
-      "gloss": "밀어 넣었다"
+      "gloss": "내몰아 버렸다"
     },
     {
       "surface": "ימה",
@@ -54,37 +54,37 @@
     },
     {
       "surface": "סוף",
-      "gloss": "수(葦)"
+      "gloss": "갈대"
     },
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "~않았다"
     },
     {
       "surface": "נשאר",
-      "gloss": "남지 않았다"
+      "gloss": "남지"
     },
     {
       "surface": "ארבה",
-      "gloss": "메뚜기가"
+      "gloss": "메뚜기"
     },
     {
       "surface": "אחד",
-      "gloss": "하나도"
+      "gloss": "하나"
     },
     {
       "surface": "בכל",
-      "gloss": "모든"
+      "gloss": "온"
     },
     {
       "surface": "גבול",
-      "gloss": "영토에"
+      "gloss": "경계"
     },
     {
       "surface": "מצרים",
-      "gloss": "미츠라임의"
+      "gloss": "미츠라임"
     }
   ],
-  "timestamp": "2026-08-05T07:51:30.561406126Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:05.215633597Z",
+  "model": "glm-5.3"
 }

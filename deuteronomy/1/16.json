@@ -5,78 +5,78 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 1,
-  "translation": "그리고 내가 그 때에 ⟨את⟩ 너희의 재판관들에게 명하여 이르기를, 너희 형제들 사이의 사건을 듣고, 사람과 그의 형제 사이에서, 또 그와 함께 있는 거류인 사이에서 ⟨⟨올바른⟩⟩ 판결을 ⟨⟨내리라⟩⟩ 하였다.”",
+  "translation": "내가 그때에 ⟨את⟩ 너희의 재판장들에게 명령하여 이르기를, 너희 형제들 사이의 송사를 듣고, 사람과 그의 형제와 그의 거류민 사이를 공의로 재판하라 하였다.",
   "tokens": [
     {
-      "surface": "וָאֲצַוֶּה֙",
-      "gloss": "그리고 내가 명하여"
+      "surface": "ואצוה",
+      "gloss": "명령하여"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "너희의 재판관들에게"
+      "marks": "너희의 재판장들"
     },
     {
-      "surface": "שֹׁ֣פְטֵיכֶ֔ם",
-      "gloss": "너희의 재판관들에게"
+      "surface": "שפטיכם",
+      "gloss": "너희의 재판장들"
     },
     {
-      "surface": "בָּעֵ֥ת",
-      "gloss": "때에"
+      "surface": "בעת",
+      "gloss": "그때에"
     },
     {
-      "surface": "הַהִ֖וא",
+      "surface": "ההוא",
       "gloss": "그"
     },
     {
-      "surface": "לֵאמֹ֑ר",
+      "surface": "לאמר",
       "gloss": "이르기를"
     },
     {
-      "surface": "שָׁמֹ֤עַ",
-      "gloss": "듣고"
+      "surface": "שמע",
+      "gloss": "들으라"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בין",
       "gloss": "사이의"
     },
     {
-      "surface": "אֲחֵיכֶם֙",
+      "surface": "אחיכם",
       "gloss": "너희 형제들"
     },
     {
-      "surface": "וּשְׁפַטְתֶּ֣ם",
-      "gloss": "판결을"
+      "surface": "ושפטתם",
+      "gloss": "재판하라"
     },
     {
-      "surface": "צֶ֔דֶק",
-      "gloss": "올바른"
+      "surface": "צדק",
+      "gloss": "공의로"
     },
     {
-      "surface": "בֵּֽין",
-      "gloss": "사이에서"
+      "surface": "בין",
+      "gloss": "사이를"
     },
     {
-      "surface": "אִ֥ישׁ",
-      "gloss": "사람과"
+      "surface": "איש",
+      "gloss": "사람"
     },
     {
-      "surface": "וּבֵ֥ין",
-      "gloss": "사이에서"
+      "surface": "ובין",
+      "gloss": "그리고 … 사이"
     },
     {
-      "surface": "אָחִ֖יו",
+      "surface": "אחיו",
       "gloss": "그의 형제"
     },
     {
-      "surface": "וּבֵ֥ין",
-      "gloss": "사이에서"
+      "surface": "ובין",
+      "gloss": "그리고 … 사이"
     },
     {
-      "surface": "גֵּרֽוֹ",
-      "gloss": "그의 거류인"
+      "surface": "גרו",
+      "gloss": "그의 거류민"
     }
   ],
-  "timestamp": "2026-08-05T13:41:32.252116593Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:32.836076564Z",
+  "model": "glm-5.3"
 }

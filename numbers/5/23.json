@@ -5,50 +5,50 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 5,
-  "translation": "그리고 코헨이 ⟨את⟩ 이 저주들을 두루마리에 쓰고, 그것을 쓴 물들에게 닦아 낼 것이다.",
+  "translation": "그리고 그 코헨(제사장)은 ⟨את⟩ 이 저주들을 책에 기록하고, 그것을 쓴 물을 쓸어 넣어 그 쓴물에 지웠다.",
   "tokens": [
     {
-      "surface": "וְכָתַ֠ב",
-      "gloss": "그리고 쓸 것이다"
+      "surface": "וכתב",
+      "gloss": "기록하고"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이 저주들을"
+      "marks": "이 저주들"
     },
     {
-      "surface": "הָאָלֹ֥ת",
-      "gloss": "저주들을"
+      "surface": "האלת",
+      "gloss": "그 저주들"
     },
     {
-      "surface": "הָאֵ֛לֶּה",
+      "surface": "האלה",
       "gloss": "이"
     },
     {
-      "surface": "הַכֹּהֵ֖ן",
-      "gloss": "코헨이"
+      "surface": "הכהן",
+      "gloss": "그 코헨(제사장)은"
     },
     {
-      "surface": "בַּסֵּ֑פֶר",
-      "gloss": "두루마리에"
+      "surface": "בספר",
+      "gloss": "책에"
     },
     {
-      "surface": "וּמָחָ֖ה",
-      "gloss": "그리고 닦아 낼 것이다"
+      "surface": "ומחה",
+      "gloss": "지웠다"
     },
     {
-      "surface": "אֶל",
-      "gloss": "～에게"
+      "surface": "אל",
+      "gloss": "…으로"
     },
     {
-      "surface": "מֵ֥י",
-      "gloss": "물들에게"
+      "surface": "מי",
+      "gloss": "물"
     },
     {
-      "surface": "הַמָּרִֽים",
-      "gloss": "쓴"
+      "surface": "המרים",
+      "gloss": "그 쓴"
     }
   ],
-  "timestamp": "2026-08-05T08:30:27.751775832Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:09.022465011Z",
+  "model": "glm-5.3"
 }

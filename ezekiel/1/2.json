@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 1,
-  "translation": "그 달의 다섯째 날에 — 그것은 여호야킴 왕의 유배五年째이었다.",
+  "translation": "그 달의 다섯째 날에 — 그것은 왕 여오야킨의 귀양 간 지 다섯째 해이다.",
   "tokens": [
     {
       "surface": "בחמשה",
-      "gloss": "다섯째에"
+      "gloss": "다섯째 날에"
     },
     {
       "surface": "לחדש",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "החמישית",
-      "gloss": "다섯 번째"
+      "gloss": "다섯째"
     },
     {
       "surface": "לגלות",
-      "gloss": "유배의"
+      "gloss": "귀양 간"
     },
     {
       "surface": "המלך",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "יויכין",
-      "gloss": "여호야킴의"
+      "gloss": "여오야킨"
     }
   ],
-  "timestamp": "2026-08-05T10:47:16.085684096Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:32:07.416396727Z",
+  "model": "glm-5.3"
 }

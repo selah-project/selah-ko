@@ -5,27 +5,27 @@
   "book": "job",
   "lang": "ko",
   "chapter": 22,
-  "translation": "네가 네 형제들의 것을 공짜로 잡아 두고, 벌거벗은 자들의 옷을 벗기는구나.",
+  "translation": "네가 거저 네 형제들의 담보를 잡고, 벌거벗은 자들의 옷을 벗겼기 때문이다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "～이라"
+      "gloss": "때문이다"
     },
     {
       "surface": "תחבל",
-      "gloss": "잡아 두고"
+      "gloss": "담보를 잡다"
     },
     {
       "surface": "אחיך",
-      "gloss": "네 형제들의 것을"
+      "gloss": "네 형제들의"
     },
     {
       "surface": "חנם",
-      "gloss": "공짜로"
+      "gloss": "거저"
     },
     {
       "surface": "ובגדי",
-      "gloss": "그리고 ～의 옷을"
+      "gloss": "옷을"
     },
     {
       "surface": "ערומים",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "תפשיט",
-      "gloss": "벗기는구나"
+      "gloss": "벗기다"
     }
   ],
-  "timestamp": "2026-08-05T12:07:13.991523734Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:46.508414Z",
+  "model": "glm-5.3"
 }

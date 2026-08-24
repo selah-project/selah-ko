@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "ko",
   "chapter": 27,
-  "translation": "대저 부(富)가 영원히 있지 아니하고, 면류관이 세대에서 세대로 ⟨남아 있겠는가⟩?",
+  "translation": "대저 재물은 영원히 ⟨있는 것이⟩ 아니며, 면류관도 대대로 ⟨이어지는 것이⟩ 아니다.",
   "tokens": [
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "대저"
     },
     {
-      "surface": "לֹא",
-      "gloss": "아니하고"
+      "surface": "לא",
+      "gloss": "아니며"
     },
     {
-      "surface": "לְעוֹלָם",
+      "surface": "לעולם",
       "gloss": "영원히"
     },
     {
-      "surface": "חֹסֶן",
-      "gloss": "부(富)가"
+      "surface": "חסן",
+      "gloss": "재물은"
     },
     {
-      "surface": "וְאִם",
-      "gloss": "그리고"
+      "surface": "ואם",
+      "gloss": "…도"
     },
     {
-      "surface": "נֶזֶר",
-      "gloss": "면류관이"
+      "surface": "נזר",
+      "gloss": "면류관"
     },
     {
-      "surface": "לְדוֹר",
-      "gloss": "세대에서"
+      "surface": "לדור",
+      "gloss": "대대로"
     },
     {
-      "surface": "דוֹר",
-      "gloss": "세대로"
+      "surface": "דור",
+      "gloss": "대(代)에"
     }
   ],
-  "timestamp": "2026-08-05T11:59:33.905272112Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:10.896643245Z",
+  "model": "glm-5.3"
 }

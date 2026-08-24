@@ -5,39 +5,39 @@
   "book": "daniel",
   "lang": "ko",
   "chapter": 2,
-  "translation": "당신이 보고 계셨는데, 손으로 ⟨다듬지⟩ 않은 돌이 깎여 나와 그 상의 철과 진흙인 발을 치고, 그것들을 부서뜨리는 것이었습니다.",
+  "translation": "왕께서 보셨는데, 손으로 채석되지 않은 돌 하나가 떨어져 나와, 그 상의 철과 진흙으로 된 그 발을 치매, 그것들을 부수어 가루로 만들었다.",
   "tokens": [
     {
       "surface": "חזה",
-      "gloss": "보고 계셨는데"
+      "gloss": "보셨는데"
     },
     {
       "surface": "הוית",
-      "gloss": "당신이 있었습니다"
+      "gloss": "…고 계셨다"
     },
     {
       "surface": "עד",
-      "gloss": "～하는 때까지"
+      "gloss": "…까지"
     },
     {
       "surface": "די",
-      "gloss": "～가"
+      "gloss": "…함에"
     },
     {
       "surface": "התגזרת",
-      "gloss": "깎여 나왔는데"
+      "gloss": "채석되어 떨어져 나왔다"
     },
     {
       "surface": "אבן",
-      "gloss": "돌이"
+      "gloss": "돌"
     },
     {
       "surface": "די",
-      "gloss": "～인"
+      "gloss": "…인"
     },
     {
       "surface": "לא",
-      "gloss": "아니한"
+      "gloss": "아니"
     },
     {
       "surface": "בידין",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ומחת",
-      "gloss": "그리고 쳤고"
+      "gloss": "치매"
     },
     {
       "surface": "לצלמא",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "על",
-      "gloss": "～에"
+      "gloss": "…위의"
     },
     {
       "surface": "רגלוהי",
-      "gloss": "그것의 발"
+      "gloss": "그 발"
     },
     {
       "surface": "די",
-      "gloss": "～인"
+      "gloss": "…인"
     },
     {
       "surface": "פרזלא",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "וחספא",
-      "gloss": "그리고 진흙"
+      "gloss": "진흙"
     },
     {
       "surface": "והדקת",
-      "gloss": "그리고 부서뜨렸다"
+      "gloss": "부수어 가루로 만들었다"
     },
     {
       "surface": "המון",
       "gloss": "그것들을"
     }
   ],
-  "timestamp": "2026-08-05T12:25:56.232787501Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:04.017657382Z",
+  "model": "glm-5.3"
 }

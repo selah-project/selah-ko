@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "ko",
   "chapter": 2,
-  "translation": "이것이 그 꿈이며, 그것의 풀이를 우리가 왕 앞에서 말씀드리겠습니다.",
+  "translation": "이것이 그 꿈이니, 우리가 그 해석을 왕 앞에서 아뢰겠다.",
   "tokens": [
     {
       "surface": "דנה",
@@ -13,25 +13,25 @@
     },
     {
       "surface": "חלמא",
-      "gloss": "그 꿈이며"
+      "gloss": "그 꿈이니"
     },
     {
       "surface": "ופשרה",
-      "gloss": "그리고 그것의 풀이를"
+      "gloss": "그 해석을"
     },
     {
       "surface": "נאמר",
-      "gloss": "우리가 말씀드리겠습니다"
+      "gloss": "아뢰겠다"
     },
     {
       "surface": "קדם",
-      "gloss": "～앞에서"
+      "gloss": "…앞에서"
     },
     {
       "surface": "מלכא",
       "gloss": "왕"
     }
   ],
-  "timestamp": "2026-08-05T12:25:56.233019886Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:38:04.018140118Z",
+  "model": "glm-5.3"
 }

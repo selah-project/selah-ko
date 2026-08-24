@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "ko",
   "chapter": 5,
-  "translation": "내가 나와 말하던 그 말라크에게 말하였다. \"그들이 ⟨את⟩ 그 에파를 어디로 데려가는 것입니까?\"",
+  "translation": "내가 나에게 말씀하시던 그 천사에게 말하였다. \"그들이 ⟨את⟩ 그 에이파를 어디로 데려가는가.\"",
   "tokens": [
     {
       "surface": "ואמר",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "～에게"
+      "gloss": "~에게"
     },
     {
       "surface": "המלאך",
-      "gloss": "그 말라크"
+      "gloss": "그 천사"
     },
     {
       "surface": "הדבר",
-      "gloss": "말하던"
+      "gloss": "말씀하시던"
     },
     {
       "surface": "בי",
-      "gloss": "나와"
+      "gloss": "나에게"
     },
     {
       "surface": "אנה",
@@ -37,18 +37,18 @@
     },
     {
       "surface": "מולכות",
-      "gloss": "데려가는 것입니까"
+      "gloss": "데려가는가"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그 에파"
+      "marks": "그 에이파"
     },
     {
       "surface": "האיפה",
-      "gloss": "그 에파를"
+      "gloss": "그 에이파"
     }
   ],
-  "timestamp": "2026-08-05T11:18:29.404716653Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:12.208519790Z",
+  "model": "glm-5.3"
 }

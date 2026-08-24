@@ -5,27 +5,27 @@
   "book": "isaiah",
   "lang": "ko",
   "chapter": 7,
-  "translation": "그 아이가 악을 미워하고 선을 택할 줄 알기 전에, 당신이 싫어하는 그 땅이 그 두 왕으로 인하여 버림받을 것이기 때문이다.",
+  "translation": "이는 그 아이가 악을 물리칠 줄 알고 선을 택할 줄 알기 전에, 네가 역겨워하는 그 땅이 그 두 왕들 때문에 버려질 것임이라.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "때문이다"
+      "gloss": "이는"
     },
     {
       "surface": "בטרם",
-      "gloss": "～전에"
+      "gloss": "…하기 전에"
     },
     {
       "surface": "ידע",
-      "gloss": "알"
+      "gloss": "알다"
     },
     {
       "surface": "הנער",
-      "gloss": "그 아이가"
+      "gloss": "그 아이"
     },
     {
-      "surface": "מאוס",
-      "gloss": "미워하고"
+      "surface": "מאס",
+      "gloss": "물리치다"
     },
     {
       "surface": "ברע",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ובחר",
-      "gloss": "택하고"
+      "gloss": "그리고 택하다"
     },
     {
       "surface": "בטוב",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "תעזב",
-      "gloss": "버림받을 것이다"
+      "gloss": "버려질 것이다"
     },
     {
       "surface": "האדמה",
-      "gloss": "그 땅이"
+      "gloss": "그 땅"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨그⟩"
+      "gloss": "…하는"
     },
     {
       "surface": "אתה",
-      "gloss": "당신이"
+      "gloss": "네가"
     },
     {
       "surface": "קץ",
-      "gloss": "싫어하는"
+      "gloss": "역겨워하다"
     },
     {
       "surface": "מפני",
-      "gloss": "로 인하여"
+      "gloss": "…때문에"
     },
     {
       "surface": "שני",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "מלכיה",
-      "gloss": "왕"
+      "gloss": "그 왕들"
     }
   ],
-  "timestamp": "2026-08-05T13:55:07.698852158Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:54.649116352Z",
+  "model": "glm-5.3"
 }

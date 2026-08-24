@@ -5,23 +5,24 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 31,
-  "translation": "그리고 모셰가 그들에게 명령하여 말하였다. “七年의 끝에, 면제의 해 정한 때에, 숫곧절 명절에",
+  "translation": "모셰가 그들에게 명령하여 말하기를, 일곱 해의 끝에, 정한 때에, 곧 면제의 해에, 초막 절기에 ⟨את⟩ 그들을 명령하였다 —",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "명령하여"
+      "gloss": "명령하셨다"
     },
     {
       "surface": "משה",
-      "gloss": "모셰가"
+      "gloss": "모셰"
     },
     {
       "surface": "אותם",
-      "gloss": "그들에게"
+      "gloss": "⟨את⟩",
+      "marks": "그들 (제사장들과 장로들)"
     },
     {
       "surface": "לאמר",
-      "gloss": "말하였다"
+      "gloss": "말하기를"
     },
     {
       "surface": "מקץ",
@@ -29,11 +30,11 @@
     },
     {
       "surface": "שבע",
-      "gloss": "칠"
+      "gloss": "일곱"
     },
     {
       "surface": "שנים",
-      "gloss": "년의"
+      "gloss": "해"
     },
     {
       "surface": "במעד",
@@ -41,21 +42,21 @@
     },
     {
       "surface": "שנת",
-      "gloss": "해"
+      "gloss": "…의 해"
     },
     {
       "surface": "השמטה",
-      "gloss": "면제의"
+      "gloss": "쉐미타 (면제)"
     },
     {
       "surface": "בחג",
-      "gloss": "명절에"
+      "gloss": "절기에"
     },
     {
       "surface": "הסכות",
-      "gloss": "숫곧절"
+      "gloss": "초막의"
     }
   ],
-  "timestamp": "2026-08-05T09:02:40.692273403Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:40:42.678894264Z",
+  "model": "glm-5.3"
 }

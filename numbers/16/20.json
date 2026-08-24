@@ -5,37 +5,37 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 16,
-  "translation": "그리고 야훼께서 모셰와 아하론에게 말씀하셔서 이르시기를 ⟨…⟩",
+  "translation": "야훼께서 모셰와 아하론에게 말씀하셨다.",
   "tokens": [
     {
-      "surface": "וַיְדַבֵּ֣ר",
-      "gloss": "그리고 말씀하셨다"
+      "surface": "וידבר",
+      "gloss": "말씀하셨다"
     },
     {
-      "surface": "יְהוָ֔ה",
-      "gloss": "야훼께서"
+      "surface": "יהוה",
+      "gloss": "야훼"
     },
     {
-      "surface": "אֶל",
-      "gloss": "～에게"
+      "surface": "אל",
+      "gloss": "…에게"
     },
     {
-      "surface": "מֹשֶׁ֥ה",
+      "surface": "משה",
       "gloss": "모셰"
     },
     {
-      "surface": "וְאֶֽל",
-      "gloss": "그리고 ～에게"
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
     },
     {
-      "surface": "אַהֲרֹ֖ן",
+      "surface": "אהרן",
       "gloss": "아하론"
     },
     {
-      "surface": "לֵאמֹֽר",
-      "gloss": "이르시기를"
+      "surface": "לאמר",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-05T08:38:27.269886324Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:50.075738434Z",
+  "model": "glm-5.3"
 }

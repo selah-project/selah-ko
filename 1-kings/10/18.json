@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "ko",
   "chapter": 10,
-  "translation": "그리고 왕이 상아로 큰 옥좌를 만들고, 순금으로 그것을 입혔다.",
+  "translation": "왕은 큰 상아 왕좌를 만들고, 그것을 정련된 금으로 입혔다.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "그리고 ～을 만들었다"
+      "gloss": "그리고 만들었다"
     },
     {
       "surface": "המלך",
-      "gloss": "왕이"
+      "gloss": "그 왕은"
     },
     {
       "surface": "כסא",
-      "gloss": "옥좌를"
+      "gloss": "왕좌"
     },
     {
       "surface": "שן",
-      "gloss": "상아로"
+      "gloss": "상아"
     },
     {
       "surface": "גדול",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "ויצפהו",
-      "gloss": "그리고 ～을 입혔다"
+      "gloss": "그리고 그것을 입혔다"
     },
     {
       "surface": "זהב",
-      "gloss": "금으로"
+      "gloss": "금"
     },
     {
       "surface": "מופז",
-      "gloss": "순"
+      "gloss": "정련된"
     }
   ],
-  "timestamp": "2026-08-05T09:49:52.273564892Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:28:29.640149276Z",
+  "model": "glm-5.3"
 }

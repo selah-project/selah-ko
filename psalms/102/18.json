@@ -5,42 +5,42 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 102,
-  "translation": "그가 ⟨그⟩ 황폐한 자의 기도로 얼굴을 돌리시며, ⟨את⟩ 그들의 기도를 멸시하지 않으셨도다.",
+  "translation": "그가 쓸쓸한 자의 기도에 얼굴을 돌리시며, ⟨את⟩ 그들의 기도를 멸시하지 않으셨다.",
   "tokens": [
     {
-      "surface": "פָּ֭נָה",
+      "surface": "פנה",
       "gloss": "얼굴을 돌리시며"
     },
     {
-      "surface": "אֶל",
-      "gloss": "～로"
+      "surface": "אל",
+      "gloss": "향하여"
     },
     {
-      "surface": "תְּפִלַּ֣ת",
+      "surface": "תפלת",
       "gloss": "기도"
     },
     {
-      "surface": "הָעַרְעָ֑ר",
-      "gloss": "황폐한 자의"
+      "surface": "הערער",
+      "gloss": "쓸쓸한 자의"
     },
     {
-      "surface": "וְלֹֽא",
-      "gloss": "～하지 않으셨으며"
+      "surface": "ולא",
+      "gloss": "하지 않으셨다"
     },
     {
-      "surface": "בָ֝זָ֗ה",
+      "surface": "בזה",
       "gloss": "멸시"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "그들의 기도"
     },
     {
-      "surface": "תְּפִלָּתָֽם",
-      "gloss": "그들의 기도"
+      "surface": "תפלתם",
+      "gloss": "그들의 기도를"
     }
   ],
-  "timestamp": "2026-08-05T11:42:45.018372026Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:03.755962190Z",
+  "model": "glm-5.3"
 }

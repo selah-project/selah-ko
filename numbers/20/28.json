@@ -5,47 +5,47 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 20,
-  "translation": "모셰는 아하론에게서 ⟨그의⟩ 옷을 벗기고, ⟨그것을⟩ 그의 아들 엘아자르에게 입혔다. 아하론은 거기, 그 산 꼭대기에서 죽었다. 그리고 모셰와 엘아자르는 그 산에서 내려왔다.",
+  "translation": "모셰가 ⟨את⟩ 아하론의 옷을 벗겨 그것을 ⟨את⟩ 그의 아들 엘아자르에게 입히니, 아하론이 그 산 꼭대기에서 거기서 죽었고, 모셰와 엘아자르가 그 산에서 내려왔다.",
   "tokens": [
     {
       "surface": "ויפשט",
-      "gloss": "그리고 벗기고"
+      "gloss": "벗겨"
     },
     {
       "surface": "משה",
-      "gloss": "모셰는"
+      "gloss": "모셰가"
     },
     {
       "surface": "את",
-      "gloss": "⟨아ת⟩",
-      "marks": "아하론에게서"
+      "gloss": "⟨את⟩",
+      "marks": "아하론"
     },
     {
       "surface": "אהרן",
-      "gloss": "아하론에게서"
+      "gloss": "아하론의"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그의 옷을"
+      "marks": "옷"
     },
     {
       "surface": "בגדיו",
-      "gloss": "그의 옷을"
+      "gloss": "옷을"
     },
     {
       "surface": "וילבש",
-      "gloss": "그리고 입혔다"
+      "gloss": "입히니"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "그것을"
+      "gloss": "⟨את⟩",
+      "marks": "그것"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "엘아자르에게"
+      "marks": "엘아자르"
     },
     {
       "surface": "אלעזר",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "וימת",
-      "gloss": "그리고 죽었다"
+      "gloss": "죽었고"
     },
     {
       "surface": "אהרן",
-      "gloss": "아하론은"
+      "gloss": "아하론이"
     },
     {
       "surface": "שם",
-      "gloss": "거기"
+      "gloss": "거기서"
     },
     {
       "surface": "בראש",
-      "gloss": "～꼭대기에서"
+      "gloss": "꼭대기에서"
     },
     {
       "surface": "ההר",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "וירד",
-      "gloss": "그리고 내려왔다"
+      "gloss": "내려왔다"
     },
     {
       "surface": "משה",
@@ -85,17 +85,17 @@
     },
     {
       "surface": "ואלעזר",
-      "gloss": "그리고 엘아자르는"
+      "gloss": "엘아자르가"
     },
     {
       "surface": "מן",
-      "gloss": "～에서"
+      "gloss": "에서"
     },
     {
       "surface": "ההר",
       "gloss": "그 산"
     }
   ],
-  "timestamp": "2026-08-05T08:39:20.882779941Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:42.218066691Z",
+  "model": "glm-5.3"
 }

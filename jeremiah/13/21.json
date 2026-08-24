@@ -5,78 +5,78 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 13,
-  "translation": "네가 무엇이라 말하겠느냐, 그가 너를 순찰하실 때에 — 네가 ⟨⟨그들을⟩⟩ 네 위에 가르쳤으므로, ⟨את⟩ 그들이 너를 향하여 친숙한 자들이 머리가 됨이여. 고난들이 너를 붙잡지 아니하겠느냐, 해산하는 여인같이?",
+  "translation": "그가 너를 징계하실 때에 네가 무엇이라 말하겠느냐 — ⟨그⟩ 너는 그들을 네 위에 ⟨את⟩ 그들을 스스로 길렀으니, 우두머리들을 머리로 삼아. 진통이 산기 여인처럼 너를 붙잡지 아니하겠느냐.",
   "tokens": [
     {
-      "surface": "מַה",
+      "surface": "מה",
       "gloss": "무엇이라"
     },
     {
-      "surface": "תֹּֽאמְרִי֙",
+      "surface": "תאמרי",
       "gloss": "말하겠느냐"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "때에"
     },
     {
-      "surface": "יִפְקֹ֣ד",
-      "gloss": "순찰하실"
+      "surface": "יפקד",
+      "gloss": "징계하실"
     },
     {
-      "surface": "עָלַ֔יִךְ",
+      "surface": "עליך",
       "gloss": "너를"
     },
     {
-      "surface": "וְ֠אַתְּ",
-      "gloss": "네가"
+      "surface": "ואת",
+      "gloss": "⟨그⟩ 너는"
     },
     {
-      "surface": "לִמַּ֨דְתְּ",
-      "gloss": "가르쳤으므로"
+      "surface": "למדת",
+      "gloss": "길렀으니"
     },
     {
-      "surface": "אֹתָ֥ם",
+      "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "그들이"
+      "marks": "그들"
     },
     {
-      "surface": "עָלַ֛יִךְ",
-      "gloss": "너를 향하여"
+      "surface": "עליך",
+      "gloss": "네 위에"
     },
     {
-      "surface": "אַלֻּפִ֖ים",
-      "gloss": "친숙한 자들이"
+      "surface": "אלפים",
+      "gloss": "우두머리들을"
     },
     {
-      "surface": "לְרֹ֑אשׁ",
-      "gloss": "머리가 됨이여"
+      "surface": "לראש",
+      "gloss": "머리로"
     },
     {
-      "surface": "הֲל֤וֹא",
+      "surface": "הלוא",
       "gloss": "아니하겠느냐"
     },
     {
-      "surface": "חֲבָלִים֙",
-      "gloss": "고난들이"
+      "surface": "חבלים",
+      "gloss": "진통이"
     },
     {
-      "surface": "יֹאחֱז֔וּךְ",
-      "gloss": "붙잡"
+      "surface": "יאחזוך",
+      "gloss": "붙잡지"
     },
     {
-      "surface": "כְּמ֖וֹ",
-      "gloss": "같이"
+      "surface": "כמו",
+      "gloss": "처럼"
     },
     {
-      "surface": "אֵ֥שֶׁת",
-      "gloss": "여인"
+      "surface": "אשת",
+      "gloss": "산기 여인"
     },
     {
-      "surface": "לֵדָֽה",
-      "gloss": "해산하는"
+      "surface": "לדה",
+      "gloss": "출산하는"
     }
   ],
-  "timestamp": "2026-08-05T17:25:55.585226540Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:31:45.189709220Z",
+  "model": "glm-5.3"
 }

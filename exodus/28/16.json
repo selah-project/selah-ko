@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 28,
-  "translation": "그것은 네모지고 겹쳐져 있어야 한다. 한 뼘의 길이와 한 뼘의 너비가 되어야 한다.",
+  "translation": "그것은 네모지고 겹으로 되어 있을 것이다. 그 길이가 한 뼘, 그 너비가 한 뼘이다.",
   "tokens": [
     {
       "surface": "רבוע",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "그것은 ～이어야 한다"
+      "gloss": "있을 것이다"
     },
     {
       "surface": "כפול",
-      "gloss": "겹쳐져"
+      "gloss": "겹으로"
     },
     {
       "surface": "זרת",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "ארכו",
-      "gloss": "그것의 길이"
+      "gloss": "그 길이"
     },
     {
       "surface": "וזרת",
-      "gloss": "그리고 한 뼘"
+      "gloss": "한 뼘"
     },
     {
       "surface": "רחבו",
-      "gloss": "그것의 너비"
+      "gloss": "그 너비"
     }
   ],
-  "timestamp": "2026-08-05T08:02:01.726492439Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:19:27.032659857Z",
+  "model": "glm-5.3"
 }

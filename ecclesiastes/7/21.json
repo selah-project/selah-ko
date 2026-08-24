@@ -5,66 +5,66 @@
   "book": "ecclesiastes",
   "lang": "ko",
   "chapter": 7,
-  "translation": "또한 그들이 말하는 모든 말씀에 마음을 두지 말라 — 네가 ⟨את⟩ 네 종이 너를 저주하는 것을 듣지 않도록.",
+  "translation": "또한 그들이 말하는 모든 말들에 마음을 두지 말라, 그리하여 ⟨당신이⟩ ⟨את⟩ 당신의 종이 당신을 저주하는 것을 듣지 않도록 하라.",
   "tokens": [
     {
-      "surface": "גַּ֤ם",
+      "surface": "גם",
       "gloss": "또한"
     },
     {
-      "surface": "לְכָל",
+      "surface": "לכל",
       "gloss": "모든"
     },
     {
-      "surface": "הַדְּבָרִים֙",
-      "gloss": "그 말씀들"
+      "surface": "הדברים",
+      "gloss": "말들"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "that"
+      "surface": "אשר",
+      "gloss": "…하는"
     },
     {
-      "surface": "יְדַבֵּ֔רוּ",
-      "gloss": "그들이 말한다"
+      "surface": "ידברו",
+      "gloss": "그들이 말하는"
     },
     {
-      "surface": "אַל",
-      "gloss": "말라"
+      "surface": "אל",
+      "gloss": "…하지 말라"
     },
     {
-      "surface": "תִּתֵּ֖ן",
-      "gloss": "너는 주지"
+      "surface": "תתן",
+      "gloss": "두지"
     },
     {
-      "surface": "לִבֶּ֑ךָ",
-      "gloss": "네 마음을"
+      "surface": "לבך",
+      "gloss": "마음을"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "lest"
+      "surface": "אשר",
+      "gloss": "…하도록"
     },
     {
-      "surface": "לֹֽא",
-      "gloss": "not"
+      "surface": "לא",
+      "gloss": "않도록"
     },
     {
-      "surface": "תִשְׁמַ֥ע",
-      "gloss": "너는 듣지"
+      "surface": "תשמע",
+      "gloss": "듣지"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "네 종"
+      "marks": "당신의 종"
     },
     {
-      "surface": "עַבְדְּךָ֖",
-      "gloss": "네 종이"
+      "surface": "עבדך",
+      "gloss": "당신의 종이"
     },
     {
-      "surface": "מְקַלְלֶֽךָ",
-      "gloss": "너를 저주하는"
+      "surface": "מקללך",
+      "gloss": "당신을 저주하는"
     }
   ],
-  "timestamp": "2026-08-05T12:20:10.662936322Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:53.055114976Z",
+  "model": "glm-5.3"
 }

@@ -5,49 +5,49 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 12,
-  "translation": "속죄(罪過)의 은(銀)과 속건(罪愆)의 은(銀)은 야훼의 전(殿)으로 들어가지 아니하였으니 코헨(祭司)들에게 속하였음이라",
+  "translation": "아샴의 은과 죄의 은은 야훼의 집으로 들여지지 아니하였다 — 그것은 코하님들의 것이 되었다.",
   "tokens": [
     {
-      "surface": "כֶּ֤סֶף",
-      "gloss": "은(銀)은"
+      "surface": "כסף",
+      "gloss": "은"
     },
     {
-      "surface": "אָשָׁם֙",
-      "gloss": "속건제(罪愆祭)"
+      "surface": "אשם",
+      "gloss": "아샴(죄과)"
     },
     {
-      "surface": "וְכֶ֣סֶף",
-      "gloss": "그리고 은(銀)"
+      "surface": "וכסף",
+      "gloss": "그리고 은"
     },
     {
-      "surface": "חַטָּא֔וֹת",
-      "gloss": "속죄(罪過)"
+      "surface": "חטאות",
+      "gloss": "죄들"
     },
     {
-      "surface": "לֹ֥א",
-      "gloss": "아니(不)"
+      "surface": "לא",
+      "gloss": "아니"
     },
     {
-      "surface": "יוּבָ֖א",
-      "gloss": "들어옴(入)"
+      "surface": "יובא",
+      "gloss": "들여지지 아니하였다"
     },
     {
-      "surface": "בֵּ֣ית",
-      "gloss": "전(殿)"
+      "surface": "בית",
+      "gloss": "집"
     },
     {
-      "surface": "יְהוָ֑ה",
-      "gloss": "야훼(YHWH)의"
+      "surface": "יהוה",
+      "gloss": "야훼"
     },
     {
-      "surface": "לַכֹּהֲנִ֖ים",
-      "gloss": "코헨(祭司)들에게"
+      "surface": "לכהנים",
+      "gloss": "코하님들에게"
     },
     {
-      "surface": "יִהְיֽוּ",
-      "gloss": "속하였음(歸)"
+      "surface": "יהיו",
+      "gloss": "되었다"
     }
   ],
-  "timestamp": "2026-08-05T10:01:03.031520794Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:29:43.373972901Z",
+  "model": "glm-5.3"
 }

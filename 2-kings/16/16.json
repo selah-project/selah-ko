@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 16,
-  "translation": "그리고 코헨 우리야가 아하즈 왕이 명령한 모든 것대로 행하였다.",
+  "translation": "우리야 ⟨그⟩ 코헨(제사장)이 아하스 왕이 명령한 모든 것대로 행하였다.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "그리고 행하였다"
+      "gloss": "행하였다"
     },
     {
       "surface": "אוריה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "그 코헨"
+      "gloss": "코헨(제사장)"
     },
     {
       "surface": "ככל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "…것"
     },
     {
       "surface": "צוה",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "אחז",
-      "gloss": "아하즈"
+      "gloss": "아하스"
     }
   ],
-  "timestamp": "2026-08-05T10:03:02.706682202Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:29:19.173170519Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 17,
-  "translation": "아하론이 모셰에게로, 만남의 장막 어귀로 돌아가자, 재앙이 멈추어졌다.",
+  "translation": "아론이 모셰에게, 회막 어귀로 돌아가니, 재앙이 멎었다.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "돌아가자"
+      "gloss": "돌아가니"
     },
     {
       "surface": "אהרן",
-      "gloss": "아하론이"
+      "gloss": "아론이"
     },
     {
       "surface": "אל",
-      "gloss": "에게로"
+      "gloss": "에게"
     },
     {
       "surface": "משה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "～로"
+      "gloss": "으로"
     },
     {
       "surface": "פתח",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מועד",
-      "gloss": "만남의"
+      "gloss": "회막(만남의)"
     },
     {
       "surface": "והמגפה",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "נעצרה",
-      "gloss": "멈추어졌다"
+      "gloss": "멎었다"
     }
   ],
-  "timestamp": "2026-08-05T13:39:26.993240577Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:24.480265774Z",
+  "model": "glm-5.3"
 }

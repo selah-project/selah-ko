@@ -5,41 +5,41 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 123,
-  "translation": "우리의 네페쉬가 크게 배부릅니다, 안일한 자들의 조롱으로, 오만한 자들의 멸시로.",
+  "translation": "우리의 네페쉬는 안락한 자들의 조롱으로 크게 배부르게 되었고, 오만한 자들의 멸시로 (가득 차 있다).",
   "tokens": [
     {
-      "surface": "רַבַּת֮",
+      "surface": "רבת",
       "gloss": "크게"
     },
     {
-      "surface": "שָֽׂבְעָה",
-      "gloss": "배부릅니다"
+      "surface": "שבעה",
+      "gloss": "배부르게 되었다"
     },
     {
-      "surface": "לָּ֪הּ",
-      "gloss": "그것에게"
+      "surface": "לה",
+      "gloss": "(…으로)"
     },
     {
-      "surface": "נַ֫פְשֵׁ֥נוּ",
-      "gloss": "우리의 네페쉬가"
+      "surface": "נפשנו",
+      "gloss": "우리의 네페쉬"
     },
     {
-      "surface": "הַלַּ֥עַג",
-      "gloss": "～의 조롱으로"
+      "surface": "הלעג",
+      "gloss": "조롱"
     },
     {
-      "surface": "הַשַּׁאֲנַנִּ֑ים",
-      "gloss": "안일한 자들"
+      "surface": "השאננים",
+      "gloss": "안락한 자들"
     },
     {
-      "surface": "הַבּ֗וּז",
-      "gloss": "～의 멸시로"
+      "surface": "הבוז",
+      "gloss": "멸시"
     },
     {
-      "surface": "לִגְאֵ֥יוֹנִֽים",
+      "surface": "לגאיונים",
       "gloss": "오만한 자들"
     }
   ],
-  "timestamp": "2026-08-05T11:48:19.870179800Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:30.965216770Z",
+  "model": "glm-5.3"
 }

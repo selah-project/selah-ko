@@ -5,109 +5,109 @@
   "book": "ezekiel",
   "lang": "ko",
   "chapter": 28,
-  "translation": "에덴, 엘로힘의 정원에 네가 있었다. 모든 귀한 보석이 네 덮개〈이었다〉 — 홍옥, 토파즈, 금강석, 타르쉬쉬, 준마노, 벽옥, 사파이어, 녹보석, 전기석, 그리고 금. 네 손북과 네 구멍〈들〉의 손재주가 네 안에 있었다. 네가 창조되던 날에 그것들이 준비되었다.",
+  "translation": "에덴, 엘로힘의 동산에 네가 있었다. 모든 귀한 보석이 네 덮개였다 — 오뎀과 피트다와 야할롬, 타르쉬쉬와 쇠팜과 야쉐페, 사피르와 노페크와 바르케트, 그리고 금. 네 북과 네 구멍(피리)의 제작이 네 안에 있었다. 네가 창조되던 날에 그것들이 준비되었다.",
   "tokens": [
     {
-      "surface": "בְּעֵדֶן",
+      "surface": "בעדן",
       "gloss": "에덴에"
     },
     {
-      "surface": "גַן",
-      "gloss": "정원"
+      "surface": "גן",
+      "gloss": "동산"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "엘로힘의"
     },
     {
-      "surface": "הָיִיתָ",
-      "gloss": "네가 있었다"
+      "surface": "היית",
+      "gloss": "있었다"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "אֶבֶן",
-      "gloss": "보석이"
+      "surface": "אבן",
+      "gloss": "보석"
     },
     {
-      "surface": "יְקָרָה",
+      "surface": "יקרה",
       "gloss": "귀한"
     },
     {
-      "surface": "מְסֻכָתֶךָ",
+      "surface": "מסכתך",
       "gloss": "네 덮개"
     },
     {
-      "surface": "אֹדֶם",
-      "gloss": "홍옥"
+      "surface": "אדם",
+      "gloss": "오뎀"
     },
     {
-      "surface": "פִּטְדָה",
-      "gloss": "토파즈"
+      "surface": "פטדה",
+      "gloss": "피트다"
     },
     {
-      "surface": "וְיָהֲלֹם",
-      "gloss": "금강석"
+      "surface": "ויהלם",
+      "gloss": "야할롬"
     },
     {
-      "surface": "תַּרְשִׁישׁ",
+      "surface": "תרשיש",
       "gloss": "타르쉬쉬"
     },
     {
-      "surface": "שֹׁהַם",
-      "gloss": "준마노"
+      "surface": "שהם",
+      "gloss": "쇠팜"
     },
     {
-      "surface": "וְיָשְׁפֵה",
-      "gloss": "벽옥"
+      "surface": "וישפה",
+      "gloss": "야쉐페"
     },
     {
-      "surface": "סַפִּיר",
-      "gloss": "사파이어"
+      "surface": "ספיר",
+      "gloss": "사피르"
     },
     {
-      "surface": "נֹפֶךְ",
-      "gloss": "녹보석"
+      "surface": "נפך",
+      "gloss": "노페크"
     },
     {
-      "surface": "וּבָרְקַת",
-      "gloss": "전기석"
+      "surface": "וברקת",
+      "gloss": "바르케트"
     },
     {
-      "surface": "וְזָהָב",
+      "surface": "וזהב",
       "gloss": "금"
     },
     {
-      "surface": "מְלֶאכֶת",
-      "gloss": "손재주"
+      "surface": "מלאכת",
+      "gloss": "제작"
     },
     {
-      "surface": "תֻפֶיךָ",
-      "gloss": "네 손북과"
+      "surface": "תפיך",
+      "gloss": "네 북"
     },
     {
-      "surface": "וּנְקָבֶיךָ",
-      "gloss": "네 구멍〈들〉의"
+      "surface": "ונקביך",
+      "gloss": "네 구멍(피리)"
     },
     {
-      "surface": "בָּךְ",
+      "surface": "בך",
       "gloss": "네 안에"
     },
     {
-      "surface": "בְּיוֹם",
+      "surface": "ביום",
       "gloss": "날에"
     },
     {
-      "surface": "הִבָּרַאֲךָ",
+      "surface": "הבראך",
       "gloss": "네가 창조되던"
     },
     {
-      "surface": "כּוֹנָנוּ",
+      "surface": "כוננו",
       "gloss": "준비되었다"
     }
   ],
-  "timestamp": "2026-08-05T10:57:37.892540584Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:33:38.316966358Z",
+  "model": "glm-5.3"
 }

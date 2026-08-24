@@ -5,45 +5,45 @@
   "book": "job",
   "lang": "ko",
   "chapter": 6,
-  "translation": "돌이켜 주십시오, 부디 ⟨⟨그것이⟩⟩ 불의가 되지 않게 하십시오. 그리고 다시 돌이켜 주십시오, 나의 의가 그것 안에 있습니다.",
+  "translation": "돌이키십시오, 부디, 불의가 없게 ⟨하십시오⟩. 다시 돌이키십시오. 나의 의가 그 안에 있다.",
   "tokens": [
     {
-      "surface": "שֻֽׁבוּ",
-      "gloss": "돌이켜 주십시오"
+      "surface": "שבו",
+      "gloss": "돌이키십시오"
     },
     {
-      "surface": "נָ֭א",
+      "surface": "נא",
       "gloss": "부디"
     },
     {
-      "surface": "אַל",
-      "gloss": "…하지 않게"
+      "surface": "אל",
+      "gloss": "…않게"
     },
     {
-      "surface": "תְּהִ֣י",
-      "gloss": "되지"
+      "surface": "תהי",
+      "gloss": "있게 하십시오"
     },
     {
-      "surface": "עַוְלָ֑ה",
-      "gloss": "불의가"
+      "surface": "עולה",
+      "gloss": "불의"
     },
     {
       "surface": "ושבי",
-      "gloss": "그리고 다시 돌이켜 주십시오"
+      "gloss": "그리고 다시 돌이키십시오"
     },
     {
-      "surface": "ע֝וֹד",
+      "surface": "עוד",
       "gloss": "다시"
     },
     {
-      "surface": "צִדְקִי",
-      "gloss": "나의 의가"
+      "surface": "צדקי",
+      "gloss": "나의 의"
     },
     {
-      "surface": "בָֽהּ",
-      "gloss": "그것 안에"
+      "surface": "בה",
+      "gloss": "그 안에"
     }
   ],
-  "timestamp": "2026-08-05T12:02:41.748251136Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:40:32.757669944Z",
+  "model": "glm-5.3"
 }

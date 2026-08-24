@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ko",
   "chapter": 12,
-  "translation": "그의 종들이 그에게 말하였다. \"당신이 행한 이 일이 무엇입니까? 아이가 살아 있을 때에는 당신이 금식하고 우셨는데, 아이가 죽자 일어나서 떡을 잡수셨습니다.\"",
+  "translation": "그의 종들이 그에게 말하였다. \"당신이 행한 이 일이 무엇입니까? 아이가 살아 있을 때에는 그 아이 때문에 금식하고 울다가, 아이가 죽으니 일어나서 빵을 드셨습니다.\"",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "무엇이"
+      "gloss": "무엇"
     },
     {
       "surface": "הדבר",
-      "gloss": "이 일이"
+      "gloss": "이 일"
     },
     {
       "surface": "הזה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨that⟩"
+      "gloss": "…한"
     },
     {
       "surface": "עשיתה",
-      "gloss": "당신이 행하였습니까"
+      "gloss": "당신이 행한"
     },
     {
       "surface": "בעבור",
@@ -45,45 +45,45 @@
     },
     {
       "surface": "הילד",
-      "gloss": "아이가"
+      "gloss": "그 아이"
     },
     {
       "surface": "חי",
-      "gloss": "살아 있을"
+      "gloss": "살아 있을 때"
     },
     {
       "surface": "צמת",
-      "gloss": "당신이 금식하고"
+      "gloss": "금식하고"
     },
     {
       "surface": "ותבך",
-      "gloss": "우셨는데"
+      "gloss": "울다가"
     },
     {
       "surface": "וכאשר",
-      "gloss": "때"
+      "gloss": "…하니"
     },
     {
       "surface": "מת",
-      "gloss": "죽자"
+      "gloss": "죽으니"
     },
     {
       "surface": "הילד",
-      "gloss": "아이가"
+      "gloss": "그 아이"
     },
     {
       "surface": "קמת",
-      "gloss": "당신이 일어나서"
+      "gloss": "일어나서"
     },
     {
       "surface": "ותאכל",
-      "gloss": "잡수셨습니다"
+      "gloss": "드셨습니다"
     },
     {
       "surface": "לחם",
-      "gloss": "떡을"
+      "gloss": "빵"
     }
   ],
-  "timestamp": "2026-08-05T09:39:04.578171419Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:26:57.986137855Z",
+  "model": "glm-5.3"
 }

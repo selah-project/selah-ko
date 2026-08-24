@@ -5,89 +5,89 @@
   "book": "1-chronicles",
   "lang": "ko",
   "chapter": 27,
-  "translation": "즈루야의 아들 요압은 계수를 시작하고 마치지 못하였고, 이 일로 인해 이스라엘 위에 노여움이 내렸으므로, 그 수는 다윗 왕의 『날들의 말씀들』의 기록에 올라가지 못하였다.",
+  "translation": "차루야의 아들 요압이 인구를 세기 시작하였으나 끝내지 못하였다. 이 일로 인해 이스라엘 위에 진노가 미쳤고, 그 수는 다윗 왕의 날들의 연대기의 기록에 올라가지 못하였다.",
   "tokens": [
     {
-      "surface": "יוֹאָ֨ב",
+      "surface": "יואב",
       "gloss": "요압은"
     },
     {
-      "surface": "בֶּן",
-      "gloss": "…의 아들"
+      "surface": "בן",
+      "gloss": "아들"
     },
     {
-      "surface": "צְרוּיָ֜ה",
-      "gloss": "즈루야"
+      "surface": "צרויה",
+      "gloss": "차루야의"
     },
     {
-      "surface": "הֵחֵ֤ל",
-      "gloss": "시작하였고"
+      "surface": "החל",
+      "gloss": "시작하였으나"
     },
     {
-      "surface": "לִמְנוֹת֙",
-      "gloss": "계수하기를"
+      "surface": "למנות",
+      "gloss": "세기를"
     },
     {
-      "surface": "וְלֹ֣א",
-      "gloss": "그러나 …아니하였고"
+      "surface": "ולא",
+      "gloss": "하지 못하였고"
     },
     {
-      "surface": "כִלָּ֔ה",
-      "gloss": "마치지"
+      "surface": "כלה",
+      "gloss": "끝내지"
     },
     {
-      "surface": "וַיְהִ֥י",
-      "gloss": "그리고 …내렸으므로"
+      "surface": "ויהי",
+      "gloss": "되었다"
     },
     {
-      "surface": "בָזֹ֛את",
-      "gloss": "이 일로 인해"
+      "surface": "בזאת",
+      "gloss": "이 일로"
     },
     {
-      "surface": "קֶ֖צֶף",
-      "gloss": "노여움이"
+      "surface": "קצף",
+      "gloss": "진노가"
     },
     {
-      "surface": "עַל",
-      "gloss": "…위에"
+      "surface": "על",
+      "gloss": "위에"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "이스라엘"
     },
     {
-      "surface": "וְלֹ֤א",
-      "gloss": "그리고 …아니하였다"
+      "surface": "ולא",
+      "gloss": "하지 못하였다"
     },
     {
-      "surface": "עָלָה֙",
-      "gloss": "올라가"
+      "surface": "עלה",
+      "gloss": "올라가지"
     },
     {
-      "surface": "הַמִּסְפָּ֔ר",
-      "gloss": "그 수가"
+      "surface": "המספר",
+      "gloss": "그 수는"
     },
     {
-      "surface": "בְּמִסְפַּ֥ר",
-      "gloss": "…기록에"
+      "surface": "במספר",
+      "gloss": "기록에"
     },
     {
-      "surface": "דִּבְרֵֽי",
-      "gloss": "…의 말씀들"
+      "surface": "דברי",
+      "gloss": "연대기의"
     },
     {
-      "surface": "הַיָּמִ֖ים",
+      "surface": "הימים",
       "gloss": "날들의"
     },
     {
-      "surface": "לַמֶּ֥לֶךְ",
-      "gloss": "…왕의"
+      "surface": "למלך",
+      "gloss": "왕"
     },
     {
-      "surface": "דָוִֽיד",
-      "gloss": "다윗"
+      "surface": "דויד",
+      "gloss": "다윗의"
     }
   ],
-  "timestamp": "2026-08-05T12:51:20.764964139Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:52.215869615Z",
+  "model": "glm-5.3"
 }

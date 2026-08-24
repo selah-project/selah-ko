@@ -5,61 +5,69 @@
   "book": "1-chronicles",
   "lang": "ko",
   "chapter": 27,
-  "translation": "열한째, 열한째 달을 위하여는 브나야 ⟨이⟩ 피라토니인, 에프라임子孙들 가운데서이며, 그의 부대에는 이만 사천 명이었다.",
+  "translation": "열한째 달의 열한째 대장은 에프라임 아들들의 ⟨자손⟩ 가운데서 온 피라톤 사람 브나야이며, 그의 반 위에는 이만 사천 명이 있었다.",
   "tokens": [
     {
-      "surface": "עַשְׁתֵּי עָשָׂר",
+      "surface": "עשתי",
       "gloss": "열한째"
     },
     {
-      "surface": "לְעַשְׁתֵּי עָשָׂר",
+      "surface": "עשר",
+      "gloss": "(열-하나 결합형)"
+    },
+    {
+      "surface": "לעשתי",
       "gloss": "열한째"
     },
     {
-      "surface": "הַחֹדֶשׁ",
-      "gloss": "달을 위하여는"
+      "surface": "עשר",
+      "gloss": "(달의 결합형)"
     },
     {
-      "surface": "בְּנָיָה",
+      "surface": "החדש",
+      "gloss": "달"
+    },
+    {
+      "surface": "בניה",
       "gloss": "브나야"
     },
     {
-      "surface": "הַפִּרְעָתוֹנִי",
-      "gloss": "피라토니인"
+      "surface": "הפרעתוני",
+      "gloss": "피라톤 사람"
     },
     {
-      "surface": "מִן",
-      "gloss": "~에서"
+      "surface": "מן",
+      "gloss": "…가운데서"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "아들들"
     },
     {
-      "surface": "אֶפְרַיִם",
+      "surface": "אפרים",
       "gloss": "에프라임"
     },
     {
-      "surface": "וְעַל",
-      "gloss": "그리고 ~에"
+      "surface": "ועל",
+      "gloss": "그리고 …위에"
     },
     {
-      "surface": "מַחֲלֻקְתּוֹ",
-      "gloss": "그의 부대"
+      "surface": "מחלקתו",
+      "gloss": "그의 반"
     },
     {
-      "surface": "עֶשְׂרִים",
+      "surface": "עשרים",
       "gloss": "이십"
     },
     {
-      "surface": "וְאַרְבָּעָה",
+      "surface": "וארבעה",
       "gloss": "그리고 사"
     },
     {
-      "surface": "אָלֶף",
+      "surface": "אלף",
       "gloss": "천"
     }
   ],
-  "timestamp": "2026-08-05T14:08:47.122502749Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:23.446072345Z",
+  "model": "glm-5.3"
 }

@@ -5,105 +5,105 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 11,
-  "translation": "그리고 너는 백성에게 말하라. '너희는 내일을 위해 거룩하게 구별되고, 고기를 먹으라. 야훼의 귀에 대고 너희가 울며 말하기를, 누가 우리에게 고기를 먹여 주랴, 미츠라임에서 우리에게 좋았느냐 하였으니, 야훼가 너희에게 고기를 주시리니, 너희가 먹으리라.'",
+  "translation": "백성에게 이르라. 내일을 위하여 스스로 거룩히 하라. 그리하면 너희가 고기를 먹으리라. 이는 너희가 야훼의 귀에 울며 \"누가 우리에게 고기를 먹이랴? 미츠라임(이집트)에서 우리에게 좋았었는데\" 말하였기 때문이라. 야훼께서 너희에게 고기를 주시리니, 너희가 먹으리라.",
   "tokens": [
     {
-      "surface": "וְאֶל",
-      "gloss": "그리고 ⟨...⟩에게"
+      "surface": "ואל",
+      "gloss": "그리고 …에게"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "백성"
     },
     {
-      "surface": "תֹּאמַר",
-      "gloss": "말하라"
+      "surface": "תאמר",
+      "gloss": "너는 이르라"
     },
     {
-      "surface": "הִתְקַדְּשׁוּ",
-      "gloss": "거룩하게 구별되고"
+      "surface": "התקדשו",
+      "gloss": "스스로 거룩히 하라"
     },
     {
-      "surface": "לְמָחָר",
-      "gloss": "내일을 위해"
+      "surface": "למחר",
+      "gloss": "내일을 위하여"
     },
     {
-      "surface": "וַאֲכַלְתֶּם",
-      "gloss": "먹으라"
+      "surface": "ואכלתם",
+      "gloss": "너희가 먹으리라"
     },
     {
-      "surface": "בָּשָׂר",
+      "surface": "בשר",
       "gloss": "고기를"
     },
     {
-      "surface": "כִּי",
-      "gloss": "because"
+      "surface": "כי",
+      "gloss": "…때문에"
     },
     {
-      "surface": "בְּכִיתֶם",
+      "surface": "בכיתם",
       "gloss": "너희가 울며"
     },
     {
-      "surface": "בְּאָזְנֵי",
-      "gloss": "귀에 대고"
+      "surface": "באזני",
+      "gloss": "귀에"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "야훼의"
     },
     {
-      "surface": "לֵאמֹר",
+      "surface": "לאמר",
       "gloss": "말하기를"
     },
     {
-      "surface": "מִי",
+      "surface": "מי",
       "gloss": "누가"
     },
     {
-      "surface": "יַאֲכִלֵנוּ",
-      "gloss": "먹여 주랴"
+      "surface": "יאכלנו",
+      "gloss": "우리에게 먹이랴"
     },
     {
-      "surface": "בָּשָׂר",
+      "surface": "בשר",
       "gloss": "고기를"
     },
     {
-      "surface": "כִּי",
-      "gloss": "because"
+      "surface": "כי",
+      "gloss": "…하므로"
     },
     {
-      "surface": "טוֹב",
-      "gloss": "좋았느냐"
+      "surface": "טוב",
+      "gloss": "좋았었는데"
     },
     {
-      "surface": "לָנוּ",
+      "surface": "לנו",
       "gloss": "우리에게"
     },
     {
-      "surface": "בְּמִצְרָיִם",
+      "surface": "במצרים",
       "gloss": "미츠라임에서"
     },
     {
-      "surface": "וְנָתַן",
+      "surface": "ונתן",
       "gloss": "주시리니"
     },
     {
-      "surface": "יְהוָה",
-      "gloss": "야훼가"
+      "surface": "יהוה",
+      "gloss": "야훼께서"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "너희에게"
     },
     {
-      "surface": "בָּשָׂר",
+      "surface": "בשר",
       "gloss": "고기를"
     },
     {
-      "surface": "וַאֲכַלְתֶּם",
-      "gloss": "먹으리라"
+      "surface": "ואכלתם",
+      "gloss": "너희가 먹으리라"
     }
   ],
-  "timestamp": "2026-08-05T08:36:11.656396018Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:29.334030325Z",
+  "model": "glm-5.3"
 }

@@ -5,53 +5,53 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 33,
-  "translation": "거처이시다 — 태초의 엘이. 그리고 ⟨그⟩ 아래에는 영원한 팔들이 있다. 그가 네面前에서 적을 쫓아내시며, 말씀하셨다 — 멸절시켜라.",
+  "translation": "⟨거처⟩ ⟨이신⟩ 케덤의 엘로힘 ⟨이시며⟩, 그 아래에는 영원한 팔들이 있다. 그가 네 얼굴 앞에서 원수를 쫓아내시고, “멸하라” 하고 말씀하셨다.",
   "tokens": [
     {
-      "surface": "מְעֹנָה",
-      "gloss": "거처이시다"
+      "surface": "מעונה",
+      "gloss": "거처"
     },
     {
-      "surface": "אֱלֹהֵי",
+      "surface": "אלהי",
       "gloss": "엘로힘의"
     },
     {
-      "surface": "קֶדֶם",
-      "gloss": "태초"
+      "surface": "קדם",
+      "gloss": "케덤(동방\/영원)"
     },
     {
-      "surface": "וּמִתַּחַת",
-      "gloss": "그리고 ⟨그⟩ 아래에는"
+      "surface": "ומתחת",
+      "gloss": "그리고 그 아래에는"
     },
     {
-      "surface": "זְרֹעֹת",
-      "gloss": "팔들이"
+      "surface": "זרעת",
+      "gloss": "팔들"
     },
     {
-      "surface": "עוֹלָם",
+      "surface": "עולם",
       "gloss": "영원한"
     },
     {
-      "surface": "וַיְגָרֶשׁ",
-      "gloss": "쫓아내시며"
+      "surface": "ויגרש",
+      "gloss": "쫓아내시고"
     },
     {
-      "surface": "מִפָּנֶיךָ",
-      "gloss": "네面前에서"
+      "surface": "מפניך",
+      "gloss": "네 얼굴 앞에서"
     },
     {
-      "surface": "אוֹיֵב",
-      "gloss": "적을"
+      "surface": "אויב",
+      "gloss": "원수를"
     },
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "말씀하셨다"
     },
     {
-      "surface": "הַשְׁמֵד",
-      "gloss": "멸절시켜라"
+      "surface": "השמד",
+      "gloss": "멸하라"
     }
   ],
-  "timestamp": "2026-08-05T09:03:09.348524021Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:46:18.827711475Z",
+  "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 20,
-  "translation": "그리고 파쉬훌이 ⟨את⟩ 나비 예레미야를 때렸다, 그리고 ⟨그를⟩ 야훼의 집 안에 있는, 베냐민 상문(上門)에 있는 그 함정에 넣었다.",
+  "translation": "파슈후르가 ⟨את⟩ 예레미야 곧 그 나비를 쳤고, ⟨את⟩ ⟨אתו⟩ 그를 형구에 채웠으니, 그것은 야훼의 집에 있는 베냐민의 윗문에 있는 것이었다.",
   "tokens": [
     {
       "surface": "ויכה",
-      "gloss": "때렸다"
+      "gloss": "쳤고"
     },
     {
       "surface": "פשחור",
-      "gloss": "파쉬훌이"
+      "gloss": "파슈후르가"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "나비 예레미야"
+      "marks": "예레미야"
     },
     {
       "surface": "ירמיהו",
@@ -26,53 +26,54 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "그 나비"
+      "gloss": "곧 그 나비"
     },
     {
       "surface": "ויתן",
-      "gloss": "넣었다"
+      "gloss": "채웠으니"
     },
     {
       "surface": "אתו",
-      "gloss": "그를"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "그를"
     },
     {
       "surface": "על",
-      "gloss": "위에"
+      "gloss": "…에"
     },
     {
       "surface": "המהפכת",
-      "gloss": "그 함정"
+      "gloss": "형구"
     },
     {
       "surface": "אשר",
-      "gloss": "거기 있는"
+      "gloss": "…것이니"
     },
     {
       "surface": "בשער",
-      "gloss": "문"
+      "gloss": "문에"
     },
     {
       "surface": "בנימן",
-      "gloss": "베냐민"
+      "gloss": "베냐민의"
     },
     {
       "surface": "העליון",
-      "gloss": "위쪽"
+      "gloss": "윗"
     },
     {
       "surface": "אשר",
-      "gloss": "거기 있는"
+      "gloss": "…것이"
     },
     {
       "surface": "בבית",
-      "gloss": "안에"
+      "gloss": "집에"
     },
     {
       "surface": "יהוה",
       "gloss": "야훼의"
     }
   ],
-  "timestamp": "2026-08-05T10:34:02.884683457Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:51:17.229379383Z",
+  "model": "glm-5.3"
 }

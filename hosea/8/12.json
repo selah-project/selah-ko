@@ -5,37 +5,37 @@
   "book": "hosea",
   "lang": "ko",
   "chapter": 8,
-  "translation": "내가 그에게 ⟨⟨수만⟩⟩으로 나의 토라의 것들을 기록하였으나, 낯선 것으로 여겨졌다.",
+  "translation": "내가 그를 위하여 수없이 많은 것들을 나의 토라에 기록하였지만, 그것들은 낯선 것처럼 여겨졌다.",
   "tokens": [
     {
       "surface": "אכתוב",
-      "gloss": "내가 기록하였다"
+      "gloss": "기록하였다"
     },
     {
-      "surface": "ל֔וֹ",
-      "gloss": "그에게"
+      "surface": "לו",
+      "gloss": "그를 위하여"
     },
     {
       "surface": "רבו",
-      "gloss": "수만으로"
+      "gloss": "수없이 많은 것들"
     },
     {
-      "surface": "תּֽוֹרָתִ֑י",
-      "gloss": "나의 토라의"
+      "surface": "תורתי",
+      "gloss": "나의 토라"
     },
     {
-      "surface": "כְּמוֹ",
+      "surface": "כמו",
       "gloss": "…처럼"
     },
     {
-      "surface": "זָ֖ר",
+      "surface": "זר",
       "gloss": "낯선 것"
     },
     {
-      "surface": "נֶחְשָֽׁבוּ",
+      "surface": "נחשבו",
       "gloss": "여겨졌다"
     }
   ],
-  "timestamp": "2026-08-05T18:24:16.340682907Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:40:37.325418332Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 30,
-  "translation": "오늘 너희에게 알리노니, 반드시 망할 것이요, ⟨את⟩ 요르단을 건너 그리로 들어가서 차지하려 하는 그 땅에서 너희 날이 길지 못할 것임을.",
+  "translation": "내가 오늘 너희에게 알리노니, 너희가 반드시 멸망할 것이요, 네가 ⟨את⟩ 요르단을 건너 그리로 들어가 그것을 차지하려 하는 그 땅에서 너희의 날들을 길게 하지 못할 것이다.",
   "tokens": [
     {
       "surface": "הגדתי",
@@ -21,39 +21,39 @@
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "…것이요"
     },
     {
       "surface": "אבד",
-      "gloss": "망하다"
+      "gloss": "멸망"
     },
     {
       "surface": "תאבדון",
-      "gloss": "너희가 반드시 망할 것이요"
+      "gloss": "반드시 멸망할 것이다"
     },
     {
       "surface": "לא",
-      "gloss": "아니할"
+      "gloss": "못할"
     },
     {
       "surface": "תאריכן",
-      "gloss": "길 것이"
+      "gloss": "길게 하지"
     },
     {
       "surface": "ימים",
-      "gloss": "날들이"
+      "gloss": "날들"
     },
     {
       "surface": "על",
-      "gloss": "위에서"
+      "gloss": "…에서"
     },
     {
       "surface": "האדמה",
-      "gloss": "그 땅의"
+      "gloss": "그 땅"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "…하는"
     },
     {
       "surface": "אתה",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "요르단을"
+      "gloss": "요르단"
     },
     {
       "surface": "לבא",
-      "gloss": "들어가서"
+      "gloss": "들어가려"
     },
     {
       "surface": "שמה",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "차지하려"
+      "gloss": "그것을 차지하려"
     }
   ],
-  "timestamp": "2026-08-05T09:01:38.983718361Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:47.881044306Z",
+  "model": "glm-5.3"
 }

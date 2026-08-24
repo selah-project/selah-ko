@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "ko",
   "chapter": 4,
-  "translation": "이제 왜 소리 높이 울어, 딸 ⟨이여⟩? 왕이 네 안에 없기 때문인가, 너의 모사가 망하였기 때문인가? 진통이 너를 붙잡았기 때문이다, 해산하는 여인 같이.",
+  "translation": "이제 어찌하여 소리 내어 우느냐? 네 안에 왕이 없단 말이냐? 네 모사가 망하였단 말이냐? 진통이 산아하는 여인 같이 너를 붙들었기 때문이다.",
   "tokens": [
     {
       "surface": "עתה",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "למה",
-      "gloss": "왜"
+      "gloss": "어찌하여"
     },
     {
       "surface": "תריעי",
-      "gloss": "소리 높이 울어"
+      "gloss": "소리 내어 우느냐"
     },
     {
       "surface": "רע",
-      "gloss": "〈빈칸〉"
+      "gloss": "부르짖음"
     },
     {
       "surface": "המלך",
-      "gloss": "왕이"
+      "gloss": "왕"
     },
     {
       "surface": "אין",
-      "gloss": "없기"
+      "gloss": "없다"
     },
     {
       "surface": "בך",
@@ -37,33 +37,33 @@
     },
     {
       "surface": "אם",
-      "gloss": "때문인가"
+      "gloss": "말이냐"
     },
     {
       "surface": "יועצך",
-      "gloss": "너의 모사가"
+      "gloss": "네 모사"
     },
     {
       "surface": "אבד",
-      "gloss": "망하였기"
+      "gloss": "망하였다"
     },
     {
       "surface": "כי",
-      "gloss": "때문인가"
+      "gloss": "때문이다"
     },
     {
       "surface": "החזיקך",
-      "gloss": "너를 붙잡았기"
+      "gloss": "너를 붙들었다"
     },
     {
       "surface": "חיל",
-      "gloss": "진통이"
+      "gloss": "진통"
     },
     {
       "surface": "כיולדה",
-      "gloss": "해산하는 여인 같이"
+      "gloss": "산아하는 여인 같이"
     }
   ],
-  "timestamp": "2026-08-05T11:12:37.343125881Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:07.593185090Z",
+  "model": "glm-5.3"
 }

@@ -5,41 +5,41 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 102,
-  "translation": "이것이 뒤따를 세대를 위하여 기록될 것이며, 창조될 백성이 야를 찬양하리로다.",
+  "translation": "이것이 뒤의 세대를 위하여 기록될 것이니, 창조될 백성이 야를 찬양할 것이다.",
   "tokens": [
     {
-      "surface": "תִּכָּ֣תֶב",
-      "gloss": "기록될 것이며"
+      "surface": "תכתב",
+      "gloss": "기록될 것이니"
     },
     {
-      "surface": "זֹ֭את",
+      "surface": "זאת",
       "gloss": "이것이"
     },
     {
-      "surface": "לְד֣וֹר",
-      "gloss": "～을 위하여 세대"
+      "surface": "לדור",
+      "gloss": "세대를 위하여"
     },
     {
-      "surface": "אַחֲר֑וֹן",
-      "gloss": "뒤따를"
+      "surface": "אחרון",
+      "gloss": "뒤의"
     },
     {
-      "surface": "וְעַ֥ם",
+      "surface": "ועם",
       "gloss": "그리고 백성이"
     },
     {
-      "surface": "נִ֝בְרָ֗א",
+      "surface": "נברא",
       "gloss": "창조될"
     },
     {
-      "surface": "יְהַלֶּל",
-      "gloss": "찬양하리로다"
+      "surface": "יהלל",
+      "gloss": "찬양할 것이다"
     },
     {
-      "surface": "יָֽהּ",
-      "gloss": "야"
+      "surface": "יה",
+      "gloss": "야를"
     }
   ],
-  "timestamp": "2026-08-05T11:42:45.018490388Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:03.756196960Z",
+  "model": "glm-5.3"
 }

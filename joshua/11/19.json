@@ -5,31 +5,31 @@
   "book": "joshua",
   "lang": "ko",
   "chapter": 11,
-  "translation": "이스라엘 자손과 화평을 맺은 성은 기브온 주민 히위 사람들 외에는 없었다 — ⟨את⟩ 모두를 전쟁으로 취하였다.",
+  "translation": "이스라엘 자손과 화친한 성읍은 하나도 없었으니, 오직 기브온에 사는 히위 사람들뿐이었다. ⟨그들은⟩ ⟨את⟩ 모든 것을 전쟁으로 취하였다.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "아니하였다"
+      "gloss": "없었으니"
     },
     {
       "surface": "היתה",
-      "gloss": "없었다"
+      "gloss": "있었다"
     },
     {
       "surface": "עיר",
-      "gloss": "성이"
+      "gloss": "성읍"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨—that⟩"
+      "gloss": "~한"
     },
     {
       "surface": "השלימה",
-      "gloss": "화평을 맺은"
+      "gloss": "화친"
     },
     {
       "surface": "אל",
-      "gloss": "와"
+      "gloss": "와 함께"
     },
     {
       "surface": "בני",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "בלתי",
-      "gloss": "외에는"
+      "gloss": "오직 ~뿐이었다"
     },
     {
       "surface": "החוי",
-      "gloss": "히위"
+      "gloss": "히위 사람들"
     },
     {
       "surface": "ישבי",
-      "gloss": "주민"
+      "gloss": "사는"
     },
     {
       "surface": "גבעון",
@@ -58,11 +58,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "모두"
+      "marks": "모든 것"
     },
     {
       "surface": "הכל",
-      "gloss": "모두를"
+      "gloss": "모든 것"
     },
     {
       "surface": "לקחו",
@@ -73,6 +73,6 @@
       "gloss": "전쟁으로"
     }
   ],
-  "timestamp": "2026-08-05T09:08:22.154052595Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:31.585177994Z",
+  "model": "glm-5.3"
 }

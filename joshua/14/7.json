@@ -5,92 +5,92 @@
   "book": "joshua",
   "lang": "ko",
   "chapter": 14,
-  "translation": "나는 마흔 살이었는데, 야훼의 종 모셰가 나를 카데쉬 바르네아에서 보내어 ⟨את⟩ 그 땅을 정탐하게 하셨다. 그리고 나는 내 마음에 있는 바를 그에게 말씀으로 가져왔다.",
+  "translation": "마흔 살이었다 — 모셰 야훼의 종이 미츠라임... 카데쉬 바르네아에서 그 땅을 살피게 하려고 ⟨את⟩ 나를 보냈을 때 — 나는 그 때 마흔 살이었다. 그리고 나는 내 마음에 있는 대로 그에게 말을 돌려주었다.",
   "tokens": [
     {
-      "surface": "בֶּן",
-      "gloss": "나이"
+      "surface": "בן",
+      "gloss": "…살의 아들"
     },
     {
-      "surface": "אַרְבָּעִ֨ים",
+      "surface": "ארבעים",
       "gloss": "마흔"
     },
     {
-      "surface": "שָׁנָ֜ה",
+      "surface": "שנה",
       "gloss": "살"
     },
     {
-      "surface": "אָנֹכִ֗י",
-      "gloss": "내가"
+      "surface": "אנכי",
+      "gloss": "나는"
     },
     {
-      "surface": "בִּ֠שְׁלֹחַ",
-      "gloss": "보내셨을 때"
+      "surface": "בשלח",
+      "gloss": "보냈을 때"
     },
     {
-      "surface": "מֹשֶׁ֨ה",
-      "gloss": "모셰가"
+      "surface": "משה",
+      "gloss": "모셰"
     },
     {
-      "surface": "עֶֽבֶד",
+      "surface": "עבד",
       "gloss": "종"
     },
     {
-      "surface": "יְהוָ֥ה",
-      "gloss": "야훼의"
+      "surface": "יהוה",
+      "gloss": "야훼"
     },
     {
-      "surface": "אֹתִ֛י",
+      "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "나를"
+      "marks": "나"
     },
     {
-      "surface": "מִקָּדֵ֥שׁ",
+      "surface": "מקדש",
       "gloss": "카데쉬에서"
     },
     {
-      "surface": "בַּרְנֵ֖עַ",
+      "surface": "ברנע",
       "gloss": "바르네아"
     },
     {
-      "surface": "לְרַגֵּ֣ל",
-      "gloss": "정탐하게"
+      "surface": "לרגל",
+      "gloss": "살피게 하려고"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그 땅을"
+      "marks": "그 땅"
     },
     {
-      "surface": "הָאָ֑רֶץ",
+      "surface": "הארץ",
       "gloss": "그 땅"
     },
     {
-      "surface": "וָאָשֵׁ֤ב",
-      "gloss": "그리고 가져왔다"
+      "surface": "ואשב",
+      "gloss": "그리고 돌려주었다"
     },
     {
-      "surface": "אֹתוֹ֙",
+      "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "말씀(그에게)"
+      "marks": "말"
     },
     {
-      "surface": "דָּבָ֔ר",
-      "gloss": "말씀으로"
+      "surface": "דבר",
+      "gloss": "말"
     },
     {
-      "surface": "כַּאֲשֶׁ֖ר",
-      "gloss": "～한 바를"
+      "surface": "כאשר",
+      "gloss": "~대로"
     },
     {
-      "surface": "עִם",
-      "gloss": "～과 함께"
+      "surface": "עם",
+      "gloss": "~와 함께"
     },
     {
-      "surface": "לְבָבִֽי",
+      "surface": "לבבי",
       "gloss": "내 마음"
     }
   ],
-  "timestamp": "2026-08-05T17:11:54.432688715Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:34.294253113Z",
+  "model": "glm-5.3"
 }

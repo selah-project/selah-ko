@@ -5,49 +5,49 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 11,
-  "translation": "오직 되새김질하는 것들 중에서와 굽을 가른 것들 중에서 ⟨את⟩ 이것은 너희가 먹지 말라 — ⟨את⟩ 낙타는, 그는 되새김질을 하는 자이나 굽을 가른 자가 아니므로, 그는 너희에게 부정하다:",
+  "translation": "다만 이것은 먹지 말지니, 되새김질하는 것들 중에서, 굽이 갈라진 것들 중에서 ⟨이것⟩이다 — ⟨את⟩ 낙타는 되새김질은 하나 굽을 갈라 놓지 않으므로, 그것은 너희에게 부정하다.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "오직"
+      "gloss": "다만"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이것을"
+      "marks": "이것"
     },
     {
       "surface": "זה",
-      "gloss": "이것"
+      "gloss": "이것은"
     },
     {
       "surface": "לא",
-      "gloss": "아니"
+      "gloss": "말지니 (부정)"
     },
     {
       "surface": "תאכלו",
-      "gloss": "너희가 먹을"
+      "gloss": "먹지"
     },
     {
       "surface": "ממעלי",
-      "gloss": "之中"
+      "gloss": "되새김질하는 것들 중에서"
     },
     {
       "surface": "הגרה",
-      "gloss": "그 되새김질"
+      "gloss": "되새김질"
     },
     {
       "surface": "וממפריסי",
-      "gloss": "그리고 之中"
+      "gloss": "굽이 갈라진 것들 중에서"
     },
     {
       "surface": "הפרסה",
-      "gloss": "그 굽"
+      "gloss": "굽"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "낙타를"
+      "marks": "낙타"
     },
     {
       "surface": "הגמל",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "때문에"
+      "gloss": "…하므로"
     },
     {
       "surface": "מעלה",
-      "gloss": "하는"
+      "gloss": "되새김질은 하나"
     },
     {
       "surface": "גרה",
@@ -67,19 +67,19 @@
     },
     {
       "surface": "הוא",
-      "gloss": "그는"
+      "gloss": "그것은"
     },
     {
       "surface": "ופרסה",
-      "gloss": "그리고"
+      "gloss": "굽을"
     },
     {
       "surface": "איננו",
-      "gloss": "아니"
+      "gloss": "…않으므로"
     },
     {
       "surface": "מפריס",
-      "gloss": "가른"
+      "gloss": "갈라 놓지"
     },
     {
       "surface": "טמא",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "그는"
+      "gloss": "그것은"
     },
     {
       "surface": "לכם",
       "gloss": "너희에게"
     }
   ],
-  "timestamp": "2026-08-05T18:03:56.091285731Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:21.634233237Z",
+  "model": "glm-5.3"
 }

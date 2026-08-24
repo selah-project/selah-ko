@@ -5,99 +5,99 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 22,
-  "translation": "그리고 그 암나귀가 야훼의 사자가 ⟨את⟩ ⟨⟨그⟩⟩ 길에 서 있고 그의 칼이 그의 손에서 뽑혀 있는 것을 보았다. 그리고 그 암나귀가 길에서 비껴 들판으로 가았다. 그리고 빌암이 ⟨את⟩ 그 암나귀를 쳤다, ⟨그⟩ 길로 돌리기 위하여.",
+  "translation": "그 암나귀가 길에 서 계신 야훼의 말라크를 보았다 — 그의 손에 뽑힌 칼이 있었다 — 그러자 암나귀가 길에서 비켜 ⟨그⟩ 밭으로 들어갔고, 빌람이 ⟨את⟩ 그 암나귀를 쳐서 길로 돌이키려 하였다.",
   "tokens": [
     {
-      "surface": "וַתֵּרֶא",
+      "surface": "ותרא",
       "gloss": "보았다"
     },
     {
-      "surface": "הָאָתוֹן",
+      "surface": "האתון",
       "gloss": "그 암나귀가"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "야훼의 사자를"
+      "marks": "말라크"
     },
     {
-      "surface": "מַלְאַךְ",
-      "gloss": "사자가"
+      "surface": "מלאך",
+      "gloss": "말라크"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "야훼의"
     },
     {
-      "surface": "נִצָּב",
-      "gloss": "서"
+      "surface": "נצב",
+      "gloss": "서 계신"
     },
     {
-      "surface": "בַּדֶּרֶךְ",
+      "surface": "בדרך",
       "gloss": "길에"
     },
     {
-      "surface": "וְחַרְבּוֹ",
+      "surface": "וחרבו",
       "gloss": "그리고 그의 칼이"
     },
     {
-      "surface": "שְׁלוּפָה",
-      "gloss": "뽑혀"
+      "surface": "שלופה",
+      "gloss": "뽑혀 있다"
     },
     {
-      "surface": "בְּיָדוֹ",
-      "gloss": "그의 손에서"
+      "surface": "בידו",
+      "gloss": "그의 손에"
     },
     {
-      "surface": "וַתֵּט",
-      "gloss": "비껴"
+      "surface": "ותט",
+      "gloss": "비켜"
     },
     {
-      "surface": "הָאָתוֹן",
+      "surface": "האתון",
       "gloss": "그 암나귀가"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "에서"
     },
     {
-      "surface": "הַדֶּרֶךְ",
+      "surface": "הדרך",
       "gloss": "길"
     },
     {
-      "surface": "וַתֵּלֶךְ",
-      "gloss": "가았다"
+      "surface": "ותלך",
+      "gloss": "그리고 들어갔다"
     },
     {
-      "surface": "בַּשָּׂדֶה",
-      "gloss": "들판으로"
+      "surface": "בשדה",
+      "gloss": "밭으로"
     },
     {
-      "surface": "וַיַּךְ",
-      "gloss": "쳤다"
+      "surface": "ויך",
+      "gloss": "그리고 쳤다"
     },
     {
-      "surface": "בִּלְעָם",
-      "gloss": "빌암이"
+      "surface": "בלעם",
+      "gloss": "빌람이"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그 암나귀를"
+      "marks": "그 암나귀"
     },
     {
-      "surface": "הָאָתוֹן",
-      "gloss": "그 암나귀를"
+      "surface": "האתון",
+      "gloss": "그 암나귀"
     },
     {
-      "surface": "לְהַטֹּתָהּ",
-      "gloss": "돌리기 위하여"
+      "surface": "להטתה",
+      "gloss": "돌이키려"
     },
     {
-      "surface": "הַדָּרֶךְ",
-      "gloss": "⟨그⟩ 길로"
+      "surface": "הדרך",
+      "gloss": "길로"
     }
   ],
-  "timestamp": "2026-08-05T08:41:39.840250805Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:40.137421132Z",
+  "model": "glm-5.3"
 }

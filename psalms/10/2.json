@@ -5,41 +5,41 @@
   "book": "psalms",
   "lang": "ko",
   "chapter": 10,
-  "translation": "악인의 교만함으로 인해 가난한 자가 핍박을 받으니, 그들이 꾀谋 안에 잡히게 하소서.",
+  "translation": "악인의 오만함으로 인해 가난한 자가 쫓기리니, 그들이 꾸민 꾀들 안에서 잡히게 되기를 ⟨그리하소서⟩.",
   "tokens": [
     {
-      "surface": "בְּגַאֲוַ֣ת",
-      "gloss": "교만함으로 인해"
+      "surface": "בגאות",
+      "gloss": "오만함으로 인해"
     },
     {
-      "surface": "רָ֭שָׁע",
+      "surface": "רשע",
       "gloss": "악인의"
     },
     {
-      "surface": "יִדְלַ֣ק",
-      "gloss": "불붙듯 쫓기니"
+      "surface": "ידלק",
+      "gloss": "쫓기리니"
     },
     {
-      "surface": "עָנִ֑י",
+      "surface": "עני",
       "gloss": "가난한 자가"
     },
     {
-      "surface": "יִתָּפְשׂ֓וּ",
-      "gloss": "잡히게 하소서"
+      "surface": "יתפשו",
+      "gloss": "잡히게 되기를"
     },
     {
-      "surface": "בִּמְזִמּ֖וֹת",
-      "gloss": "꾀 안에"
+      "surface": "במזמות",
+      "gloss": "꾀들 안에서"
     },
     {
-      "surface": "ז֣וּ",
-      "gloss": "그것들이"
+      "surface": "זו",
+      "gloss": "그들이"
     },
     {
-      "surface": "חָשָֽׁבוּ",
+      "surface": "חשבו",
       "gloss": "꾸민"
     }
   ],
-  "timestamp": "2026-08-05T11:24:24.205780476Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:33.844274918Z",
+  "model": "glm-5.3"
 }

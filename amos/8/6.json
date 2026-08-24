@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "ko",
   "chapter": 8,
-  "translation": "은으로 가난한 자들을 사고, 신 한 켤레로 궁핍한 자를 사고, 그리고 곡식의 쭉정이를 팔려고.",
+  "translation": "은으로 가난한 자를 사고, 신 한 켤레로 궁핍한 자를 바꾸며, 떨어져 나온 곡물까지 팔기 위함인가.",
   "tokens": [
     {
       "surface": "לקנות",
@@ -17,33 +17,33 @@
     },
     {
       "surface": "דלים",
-      "gloss": "가난한 자들을"
+      "gloss": "가난한 자를"
     },
     {
       "surface": "ואביון",
-      "gloss": "그리고 궁핍한 자를"
+      "gloss": "궁핍한 자를"
     },
     {
       "surface": "בעבור",
-      "gloss": "～로"
+      "gloss": "바꾸며"
     },
     {
       "surface": "נעלים",
-      "gloss": "신 한 켤레"
+      "gloss": "신 한 켤레로"
     },
     {
       "surface": "ומפל",
-      "gloss": "그리고 쭉정이를"
+      "gloss": "떨어져 나온"
     },
     {
       "surface": "בר",
-      "gloss": "곡식의"
+      "gloss": "곡물"
     },
     {
       "surface": "נשביר",
-      "gloss": "팔려고"
+      "gloss": "팔기 위함인가"
     }
   ],
-  "timestamp": "2026-08-05T14:00:22.435713200Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:34:59.037388668Z",
+  "model": "glm-5.3"
 }

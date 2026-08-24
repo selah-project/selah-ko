@@ -5,50 +5,41 @@
   "book": "jeremiah",
   "lang": "ko",
   "chapter": 52,
-  "translation": "그가 야훼의 눈에 악을 행하였으니, 마치 예호야킴이 행한 모든 것과 같았다.",
+  "translation": "그가 야훼의 눈에 악한 일을 행하였으니, 여호야킴이 행한 모든 것과 같이 하였다.",
   "tokens": [
     {
-      "surface": "ואת",
-      "gloss": "그리고 ⟨את⟩",
-      "marks": "הרע"
-    },
-    {
-      "surface": "הוא",
-      "gloss": "그는"
-    },
-    {
-      "surface": "עשה",
-      "gloss": "행하였다"
+      "surface": "ויעש",
+      "gloss": "행하였으니"
     },
     {
       "surface": "הרע",
-      "gloss": "그 악을"
+      "gloss": "악한 일"
     },
     {
       "surface": "בעיני",
-      "gloss": "～의 눈에"
+      "gloss": "눈에"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼"
+      "gloss": "야훼의"
     },
     {
       "surface": "ככל",
-      "gloss": "모든 것처럼"
+      "gloss": "모든 것과 같이"
     },
     {
       "surface": "אשר",
-      "gloss": "～한"
+      "gloss": "그가"
     },
     {
       "surface": "עשה",
-      "gloss": "행하였다"
+      "gloss": "행한"
     },
     {
       "surface": "יהויקים",
-      "gloss": "예호야킴이"
+      "gloss": "여호야킴이"
     }
   ],
-  "timestamp": "2026-08-05T10:46:50.527319710Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:32:23.223226870Z",
+  "model": "glm-5.3"
 }

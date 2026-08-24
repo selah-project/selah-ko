@@ -5,73 +5,74 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 4,
-  "translation": "모셰의 장인 호밥의 자손인 케니 사람 헤벨이 케인에서 떨어져 나와 ⟨더미⟩ 천막을 케데쉬 곁의 ⟨더미⟩ 큰 나무까지 쳤다.",
+  "translation": "그리고 헤벨 그 키니 사람은 모셰의 사위 호밥의 아들들 가운데서, 키니 사람들 가운데서 스스로 갈라져 나와, 케데쉬 곁에 있는 바차아나임의 상수리나무까지 그의 천막을 쳤다.",
   "tokens": [
     {
-      "surface": "וְחֶבֶר",
-      "gloss": "그리고 헤벨"
+      "surface": "וחבר",
+      "gloss": "그리고 헤벨은"
     },
     {
-      "surface": "הַקֵּינִי",
-      "gloss": "그 케니 사람"
+      "surface": "הקיני",
+      "gloss": "그 키니 사람"
     },
     {
-      "surface": "נִפְרָד",
-      "gloss": "떨어져 나와"
+      "surface": "נפרד",
+      "gloss": "스스로 갈라져 나와"
     },
     {
-      "surface": "מִקַּיִן",
-      "gloss": "케인에서"
+      "surface": "מקין",
+      "gloss": "키니 사람들 가운데서"
     },
     {
-      "surface": "מִבְּנֵי",
-      "gloss": "...의 자손인"
+      "surface": "מבני",
+      "gloss": "…의 아들들 가운데서"
     },
     {
-      "surface": "חֹבָב",
+      "surface": "חבב",
       "gloss": "호밥"
     },
     {
-      "surface": "חֹתֵן",
-      "gloss": "장인"
+      "surface": "חתן",
+      "gloss": "사위"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "모셰의"
     },
     {
-      "surface": "וַיֵּט",
+      "surface": "ויט",
       "gloss": "쳤다"
     },
     {
-      "surface": "אָהֳלוֹ",
+      "surface": "אהלו",
       "gloss": "그의 천막을"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "gloss": "까지"
     },
     {
-      "surface": "אֵלוֹן",
-      "gloss": "큰 나무"
+      "surface": "אלון",
+      "gloss": "상수리나무"
     },
     {
-      "surface": "בְּצַעֲנִים",
-      "gloss": "더미의"
+      "surface": "בצענים",
+      "gloss": "바차아나임의"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "…인 곳"
     },
     {
-      "surface": "אֶת",
-      "gloss": "곁의"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "케데쉬"
     },
     {
-      "surface": "קֶדֶשׁ",
+      "surface": "קדש",
       "gloss": "케데쉬"
     }
   ],
-  "timestamp": "2026-08-05T09:15:07.067604848Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:24:38.207620541Z",
+  "model": "glm-5.3"
 }

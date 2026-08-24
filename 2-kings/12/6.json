@@ -5,44 +5,44 @@
   "book": "2-kings",
   "lang": "ko",
   "chapter": 12,
-  "translation": "그 코하님들이 ⟨각자⟩ 자기 아는 자로부터 ⟨그것을⟩ 받을 것이요, 그들이 집의 ⟨את⟩ 틈을 보수할 것이다 — 거기서 어떤 틈이든 발견되는 모든 곳에서.",
+  "translation": "코헨들이 그것을 자기 아는 이에게서 ⟨את⟩ 받되, 그들이 ⟨את⟩ 집의 틈을, 거기서 틈이 발견되는 모든 곳을 튼튼히 하게 하라",
   "tokens": [
     {
       "surface": "יקחו",
-      "gloss": "받을 것이다"
+      "gloss": "받되"
     },
     {
       "surface": "להם",
-      "gloss": "자기들에게"
+      "gloss": "자기들이"
     },
     {
       "surface": "הכהנים",
-      "gloss": "그 코하님들이"
+      "gloss": "코헨들이"
     },
     {
       "surface": "איש",
-      "gloss": "각(사람)"
+      "gloss": "각자"
     },
     {
       "surface": "מאת",
-      "gloss": "으로부터"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "מכרו",
-      "gloss": "자기 아는 자"
+      "gloss": "아는 이에게서"
     },
     {
       "surface": "והם",
-      "gloss": "그리고 그들이"
+      "gloss": "그들이"
     },
     {
       "surface": "יחזקו",
-      "gloss": "보수할 것이다"
+      "gloss": "튼튼히 하게 하라"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "틈을"
+      "marks": "집의 틈"
     },
     {
       "surface": "בדק",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "그 집의"
+      "gloss": "집의"
     },
     {
       "surface": "לכל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "것에"
     },
     {
       "surface": "ימצא",
@@ -73,6 +73,6 @@
       "gloss": "틈"
     }
   ],
-  "timestamp": "2026-08-05T10:01:17.856107349Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:02.309363363Z",
+  "model": "glm-5.3"
 }

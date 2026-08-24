@@ -5,87 +5,87 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 22,
-  "translation": "축복하시고 축복하시리니 ⟨그리고⟩ ⟨את⟩ 네 씨를 크게 불어나게 하시리라 — 하늘의 별들 같이, 그리고 바다의 가에 있는 모래 같이. 그리고 네 씨가 ⟨그의⟩ 원수들의 문을 차지하리라.",
+  "translation": "복 주시되 내가 ⟨그⟩ 너를 복 주고, 불려 주시되 내가 ⟨את⟩ 네 씨를 하늘의 별들같이, 바다 언저리의 모래같이 크게 불려 주리니, 네 씨가 그 원수들의 문을 차지하리라.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "확실히"
+      "surface": "כי",
+      "gloss": "복 주시되"
     },
     {
-      "surface": "בָרֵ֣ךְ",
-      "gloss": "축복하시고"
+      "surface": "ברך",
+      "gloss": "복하여"
     },
     {
-      "surface": "אֲבָרֶכְךָ֗",
-      "gloss": "축복하시리니"
+      "surface": "אברכך",
+      "gloss": "내가 너를 복 주고"
     },
     {
-      "surface": "וְהַרְבָּ֨ה",
-      "gloss": "그리고 크게"
+      "surface": "והרבה",
+      "gloss": "불려 주시되"
     },
     {
-      "surface": "אַרְבֶּ֤ה",
-      "gloss": "불어나게 하시리라"
+      "surface": "ארבה",
+      "gloss": "크게 불려 주리니"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "네 씨를"
+      "marks": "네 씨"
     },
     {
-      "surface": "זַרְעֲךָ֙",
-      "gloss": "네 씨를"
+      "surface": "זרעך",
+      "gloss": "네 씨"
     },
     {
-      "surface": "כְּכוֹכְבֵ֣י",
-      "gloss": "~같이, 별들"
+      "surface": "ככוכבי",
+      "gloss": "별들같이"
     },
     {
-      "surface": "הַשָּׁמַ֔יִם",
+      "surface": "השמים",
       "gloss": "하늘의"
     },
     {
-      "surface": "וְכַח֕וֹל",
-      "gloss": "그리고 ~같이, 모래"
+      "surface": "וכחול",
+      "gloss": "모래같이"
     },
     {
-      "surface": "אֲשֶׁ֖ר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "언저리의"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "위에"
     },
     {
-      "surface": "שְׂפַ֣ת",
-      "gloss": "가에"
+      "surface": "שפת",
+      "gloss": "언저리"
     },
     {
-      "surface": "הַיָּ֑ם",
-      "gloss": "바다의"
+      "surface": "הים",
+      "gloss": "바다"
     },
     {
-      "surface": "וְיִרַ֣שׁ",
-      "gloss": "그리고 차지하리라"
+      "surface": "וירש",
+      "gloss": "차지하리니"
     },
     {
-      "surface": "זַרְעֲךָ֔",
-      "gloss": "네 씨가"
+      "surface": "זרעך",
+      "gloss": "네 씨"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "원수들의 문을"
+      "marks": "문"
     },
     {
-      "surface": "שַׁ֥עַר",
-      "gloss": "문을"
+      "surface": "שער",
+      "gloss": "문"
     },
     {
-      "surface": "אֹיְבָֽיו",
-      "gloss": "그의 원수들의"
+      "surface": "איביו",
+      "gloss": "그 원수들의"
     }
   ],
-  "timestamp": "2026-08-05T17:54:31.038334159Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:02.883825226Z",
+  "model": "glm-5.3"
 }

@@ -5,31 +5,31 @@
   "book": "1-kings",
   "lang": "ko",
   "chapter": 11,
-  "translation": "그리고 셸로모의 남은 일들과 그가 행한 모든 것과 그의 지혜, 그것들이 『셸로모의 일들의 책』에 기록되어 있지 아니한가",
+  "translation": "솔로모의 남은 사적(事蹟)과 그가 행한 모든 것과 그의 지혜 — 그것들이 『솔로모의 사적서』에 기록되어 있지 아니한가",
   "tokens": [
     {
-      "surface": "ושאר",
-      "gloss": "그리고 …의 남은 것"
+      "surface": "ויתר",
+      "gloss": "남은 것"
     },
     {
       "surface": "דברי",
-      "gloss": "일들"
+      "gloss": "사적(事蹟)들"
     },
     {
       "surface": "שלמה",
-      "gloss": "셸로모의"
+      "gloss": "솔로모"
     },
     {
       "surface": "וכל",
-      "gloss": "그리고 모든"
+      "gloss": "그리고 모든 것"
     },
     {
       "surface": "אשר",
-      "gloss": "…것"
+      "gloss": "⟨그가⟩ …한 것"
     },
     {
       "surface": "עשה",
-      "gloss": "그가 행한"
+      "gloss": "행하였다"
     },
     {
       "surface": "וחכמתו",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "…않은가"
+      "gloss": "…지 아니한가"
     },
     {
       "surface": "הם",
       "gloss": "그것들이"
     },
     {
-      "surface": "כתובים",
-      "gloss": "기록되어 있는"
+      "surface": "כתבים",
+      "gloss": "기록되어 있다"
     },
     {
       "surface": "על",
-      "gloss": "…에"
+      "gloss": "위에"
     },
     {
       "surface": "ספר",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "דברי",
-      "gloss": "…의 일들"
+      "gloss": "…의 사적들"
     },
     {
       "surface": "שלמה",
-      "gloss": "셸로모"
+      "gloss": "솔로모"
     }
   ],
-  "timestamp": "2026-08-05T09:50:26.272514431Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:28:07.038121649Z",
+  "model": "glm-5.3"
 }

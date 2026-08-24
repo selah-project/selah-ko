@@ -5,77 +5,77 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 18,
-  "translation": "너도 분명히 지쳐 쓰러질 것이다, 너와 함께 있는 이 백성도 마찬가지다. 이 일이 너에게 너무 무거운 짐이기 때문이다. 네가 홀로 그것을 감당할 수 없다.",
+  "translation": "당신도 반드시 지쳐 쓰러질 것이요, 당신과 함께 있는 이 백성도 그러하다. 이 일이 당신에게는 너무 무겁기 때문이다. 당신이 홀로 그것을 감당하지 못할 것이다.",
   "tokens": [
     {
-      "surface": "נָבֹל",
-      "gloss": "분명히 쓰러질"
+      "surface": "נבל",
+      "gloss": "반드시 지쳐 쓰러질"
     },
     {
-      "surface": "תִּבֹּל",
+      "surface": "תבל",
       "gloss": "쓰러질 것이다"
     },
     {
-      "surface": "גַּם",
-      "gloss": "또한"
+      "surface": "גם",
+      "gloss": "…도"
     },
     {
-      "surface": "אַתָּה",
-      "gloss": "너도"
+      "surface": "אתה",
+      "gloss": "당신"
     },
     {
-      "surface": "גַּם",
-      "gloss": "또한"
+      "surface": "גם",
+      "gloss": "…도"
     },
     {
-      "surface": "הָעָם",
-      "gloss": "그 백성도"
+      "surface": "העם",
+      "gloss": "백성"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "이"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "⟨that⟩"
+      "surface": "אשר",
+      "gloss": "…인"
     },
     {
-      "surface": "עִמָּךְ",
-      "gloss": "너와 함께 있는"
+      "surface": "עמך",
+      "gloss": "당신과 함께 있는"
     },
     {
-      "surface": "כִּי",
-      "gloss": "때문이다"
+      "surface": "כי",
+      "gloss": "때문에"
     },
     {
-      "surface": "כָבֵד",
-      "gloss": "무거운"
+      "surface": "כבד",
+      "gloss": "무겁다"
     },
     {
-      "surface": "מִמְּךָ",
-      "gloss": "너에게"
+      "surface": "ממך",
+      "gloss": "당신에게는"
     },
     {
-      "surface": "הַדָּבָר",
-      "gloss": "그 일이"
+      "surface": "הדבר",
+      "gloss": "이 일"
     },
     {
-      "surface": "לֹא",
-      "gloss": "못하다"
+      "surface": "לא",
+      "gloss": "못"
     },
     {
-      "surface": "תוּכַל",
-      "gloss": "감당할 수"
+      "surface": "תוכל",
+      "gloss": "감당할"
     },
     {
-      "surface": "עֲשֹׂהוּ",
-      "gloss": "그것을"
+      "surface": "עשהו",
+      "gloss": "그것을 ⟨것이다⟩"
     },
     {
-      "surface": "לְבַדֶּךָ",
+      "surface": "לבדך",
       "gloss": "홀로"
     }
   ],
-  "timestamp": "2026-08-05T17:10:43.059221732Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:46.221139672Z",
+  "model": "glm-5.3"
 }

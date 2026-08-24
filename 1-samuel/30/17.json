@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ko",
   "chapter": 30,
-  "translation": "그리고 다윗이 ⟨그들을⟩ 어스름부터 ⟨그들⟩ 이튿날 저녁까지 쳤다. 그들 가운데서 아무도 빠져나가지 못하였으니, 곧 낙타를 타고 도망한 사백 명의 청년 외에는 한 사람도 남지 않았다.",
+  "translation": "다윗이 그들을 쳤으니, 어스름부터 그 이튿날 저녁까지였다. 그들 가운데서 피한 자는 아무도 없었으나, 다만 낙타를 타고 도망한 젊은이 사백 명만은 남았다.",
   "tokens": [
     {
       "surface": "ויכם",
-      "gloss": "그리고 쳤다"
+      "gloss": "쳤으니"
     },
     {
       "surface": "דוד",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "למחרתם",
-      "gloss": "그들 이튿날"
+      "gloss": "그 이튿날"
     },
     {
       "surface": "ולא",
-      "gloss": "그리고 ~아니었다"
+      "gloss": "없었으나"
     },
     {
       "surface": "נמלט",
-      "gloss": "빠져나가못하였다"
+      "gloss": "피한 자는"
     },
     {
       "surface": "מהם",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "사람"
+      "gloss": "아무도"
     },
     {
       "surface": "כי",
-      "gloss": "곧"
+      "gloss": "다만"
     },
     {
       "surface": "אם",
-      "gloss": "오직"
+      "gloss": "…만은"
     },
     {
       "surface": "ארבע",
@@ -61,37 +61,37 @@
     },
     {
       "surface": "מאות",
-      "gloss": "백"
+      "gloss": "명"
     },
     {
       "surface": "איש",
-      "gloss": "명의"
+      "gloss": ""
     },
     {
       "surface": "נער",
-      "gloss": "청년"
+      "gloss": "젊은이"
     },
     {
       "surface": "אשר",
-      "gloss": "who\/which"
+      "gloss": "…인"
     },
     {
       "surface": "רכבו",
-      "gloss": "탔는데"
+      "gloss": "타고"
     },
     {
       "surface": "על",
-      "gloss": "위에"
+      "gloss": "…을"
     },
     {
       "surface": "הגמלים",
-      "gloss": "낙타를"
+      "gloss": "낙타"
     },
     {
       "surface": "וינסו",
-      "gloss": "그리고 도망하였다"
+      "gloss": "도망한"
     }
   ],
-  "timestamp": "2026-08-05T09:33:53.189463459Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:27:08.890811180Z",
+  "model": "glm-5.3"
 }

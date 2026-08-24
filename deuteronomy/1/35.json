@@ -5,70 +5,70 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 1,
-  "translation": "만일 이 사람들 중 한 사람이라도, 이 악한 세대가, 내가 그들의 조상들에게 주기로 맹세한 ⟨את⟩ 그 좋은 땅을 본다면 ⟨아무도 없으리라⟩ —",
+  "translation": "이 사람들 가운데 어떤 사람도 — 이 악한 이 세대 — 내가 그 조상들에게 주기로 맹세한 그 좋은 땅 ⟨את⟩을 결단코 보지 못하리라.",
   "tokens": [
     {
-      "surface": "אִם",
-      "gloss": "만일"
+      "surface": "אם",
+      "gloss": "결단코 ~않다"
     },
     {
-      "surface": "יִרְאֶ֥ה",
-      "gloss": "본다면"
+      "surface": "יראה",
+      "gloss": "보다"
     },
     {
-      "surface": "אִישׁ֙",
-      "gloss": "한 사람이라도"
+      "surface": "איש",
+      "gloss": "어떤 사람도"
     },
     {
-      "surface": "בָּאֲנָשִׁ֣ים",
-      "gloss": "사람들 중"
+      "surface": "באנשים",
+      "gloss": "사람들 가운데"
     },
     {
-      "surface": "הָאֵ֔לֶּה",
+      "surface": "האלה",
       "gloss": "이"
     },
     {
-      "surface": "הַדּ֥וֹר",
-      "gloss": "세대가"
+      "surface": "הדור",
+      "gloss": "세대"
     },
     {
-      "surface": "הָרָ֖ע",
+      "surface": "הרע",
       "gloss": "악한"
     },
     {
-      "surface": "הַזֶּ֑ה",
+      "surface": "הזה",
       "gloss": "이"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "땅"
+      "marks": "그 좋은 땅"
     },
     {
-      "surface": "הָאָ֣רֶץ",
-      "gloss": "땅을"
+      "surface": "הארץ",
+      "gloss": "땅"
     },
     {
-      "surface": "הַטּוֹבָ֔ה",
+      "surface": "הטובה",
       "gloss": "좋은"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "⟨that⟩"
+      "surface": "אשר",
+      "gloss": "—"
     },
     {
-      "surface": "נִשְׁבַּ֔עְתִּי",
-      "gloss": "내가 맹세한"
+      "surface": "נשבעתי",
+      "gloss": "맹세하였다"
     },
     {
-      "surface": "לָתֵ֖ת",
+      "surface": "לתת",
       "gloss": "주기로"
     },
     {
-      "surface": "לַאֲבֹתֵיכֶֽם",
+      "surface": "לאבתיכם",
       "gloss": "그들의 조상들에게"
     }
   ],
-  "timestamp": "2026-08-05T08:49:10.176052380Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:05.661934264Z",
+  "model": "glm-5.3"
 }

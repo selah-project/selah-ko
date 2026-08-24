@@ -5,61 +5,61 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 30,
-  "translation": "보라, 내가 오늘 네 앞에 ⟨את⟩ 생명과 ⟨את⟩ 선(善)을, 그리고 ⟨את⟩ 사망과 ⟨את⟩ 악(惡)을 두었으니",
+  "translation": "보라, 내가 오늘 네 앞에 ⟨את⟩ 생명과 ⟨את⟩ 선(善)을, 그리고 ⟨את⟩ 사망과 ⟨את⟩ 악을 두셨다.",
   "tokens": [
     {
-      "surface": "רְאֵ֨ה",
+      "surface": "ראה",
       "gloss": "보라"
     },
     {
-      "surface": "נָתַ֤תִּי",
-      "gloss": "내가 두었으니"
+      "surface": "נתתי",
+      "gloss": "두셨다"
     },
     {
-      "surface": "לְפָנֶ֨יךָ֙",
+      "surface": "לפניך",
       "gloss": "네 앞에"
     },
     {
-      "surface": "הַיּ֔וֹם",
+      "surface": "היום",
       "gloss": "오늘"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "생명"
     },
     {
-      "surface": "הַֽחַיִּ֖ים",
-      "gloss": "생명과"
+      "surface": "החיים",
+      "gloss": "생명"
     },
     {
-      "surface": "וְאֶת",
-      "gloss": "⟨את⟩",
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
       "marks": "선"
     },
     {
-      "surface": "הַטּ֑וֹב",
-      "gloss": "선(善)을"
+      "surface": "הטוב",
+      "gloss": "선(善)"
     },
     {
-      "surface": "וְאֶת",
-      "gloss": "⟨את⟩",
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
       "marks": "사망"
     },
     {
-      "surface": "הַמָּ֖וֶת",
-      "gloss": "사망과"
+      "surface": "המות",
+      "gloss": "사망"
     },
     {
-      "surface": "וְאֶת",
-      "gloss": "⟨את⟩",
+      "surface": "ואת",
+      "gloss": "그리고 ⟨את⟩",
       "marks": "악"
     },
     {
-      "surface": "הָרָֽע",
-      "gloss": "악(惡)을"
+      "surface": "הרע",
+      "gloss": "악"
     }
   ],
-  "timestamp": "2026-08-05T17:12:23.307467545Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:23:28.284220729Z",
+  "model": "glm-5.3"
 }

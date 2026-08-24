@@ -5,35 +5,35 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 8,
-  "translation": "그리고 잡았다. 모셰가 그것의 피에서 취하여 아론의 오른쪽 귀의 뭉치와 그의 오른손의 엄지와 그의 오른발의 엄지 위에 주었다.",
+  "translation": "그것을 잡자, 모셰는 그것의 피를 조금 취하여 아하론의 오른쪽 귀의 귓불 끝과 오른쪽 손의 엄지와 오른쪽 발의 엄지 발가락에 발랐다.",
   "tokens": [
     {
       "surface": "וישחט",
-      "gloss": "그리고 잡았다"
+      "gloss": "잡자"
     },
     {
       "surface": "ויקח",
-      "gloss": "취하여"
+      "gloss": "취하였다"
     },
     {
       "surface": "משה",
-      "gloss": "모셰가"
+      "gloss": "모셰는"
     },
     {
       "surface": "מדמו",
-      "gloss": "그것의 피에서"
+      "gloss": "그것의 피를"
     },
     {
       "surface": "ויתן",
-      "gloss": "주었다"
+      "gloss": "발랐다"
     },
     {
       "surface": "על",
-      "gloss": "～위에"
+      "gloss": "위에"
     },
     {
       "surface": "תנוך",
-      "gloss": "뭉치"
+      "gloss": "귓불 끝"
     },
     {
       "surface": "אזן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "아론의"
+      "gloss": "아하론의"
     },
     {
       "surface": "הימנית",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "그리고 ～위에"
+      "gloss": "그리고 위에"
     },
     {
       "surface": "בהן",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ועל",
-      "gloss": "그리고 ～위에"
+      "gloss": "그리고 위에"
     },
     {
       "surface": "בהן",
-      "gloss": "엄지"
+      "gloss": "엄지 발가락"
     },
     {
       "surface": "רגלו",
@@ -80,6 +80,6 @@
       "gloss": "오른쪽"
     }
   ],
-  "timestamp": "2026-08-05T08:14:43.828329316Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:30.197413810Z",
+  "model": "glm-5.3"
 }

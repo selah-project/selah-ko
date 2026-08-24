@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "ko",
   "chapter": 16,
-  "translation": "왜냐하면 수(數)에 해당하는 해들이 다가오고, 나는 돌아오지 않는 길을 걸어가 것이다.",
+  "translation": "대저 셀 수 있는 해들이 이르고, 그리고 ⟨그⟩ 길로 — 내가 돌아오지 아니하리니 가리라.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "왜냐하면"
+      "gloss": "대저"
     },
     {
       "surface": "שנות",
@@ -17,29 +17,33 @@
     },
     {
       "surface": "מספר",
-      "gloss": "수(數)에 해당하는"
+      "gloss": "셀 수 있는"
     },
     {
       "surface": "יאתיו",
-      "gloss": "다가오고"
+      "gloss": "이르고"
     },
     {
-      "surface": "וארח",
-      "gloss": "그리고 ⟨한⟩ 길을"
+      "surface": "ו",
+      "gloss": "그리고"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "길"
     },
     {
       "surface": "לא",
-      "gloss": "아니하다"
+      "gloss": "아니"
     },
     {
       "surface": "אשוב",
-      "gloss": "내가 돌아"
+      "gloss": "돌아오지"
     },
     {
       "surface": "אהלך",
-      "gloss": "걸어가 것이다"
+      "gloss": "가리라"
     }
   ],
-  "timestamp": "2026-08-05T12:05:11.272447830Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:36:37.359866353Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 8,
-  "translation": "그리고 이스라엘과 함께 하신 모든 선함에 따라, 기드온 곧 예룹바알의 집에 더불어 헤세드를 베풀지 아니하였다.",
+  "translation": "예룹바알 곧 기드온의 집안에 헤세드(인애)를 베풀지 아니하였으니, 그가 이스라엘과 함께 행한 모든 선함을 따라 하지 아니하였다.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "그리고 ～아니하였다"
+      "gloss": "아니하였으니"
     },
     {
       "surface": "עשו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "חסד",
-      "gloss": "헤세드를"
+      "gloss": "헤세드(인애)를"
     },
     {
       "surface": "עם",
-      "gloss": "더불어"
+      "gloss": "…에게"
     },
     {
       "surface": "בית",
-      "gloss": "집에"
+      "gloss": "집안"
     },
     {
       "surface": "ירבעל",
@@ -33,33 +33,33 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "기드온 곧"
+      "gloss": "곧 기드온"
     },
     {
       "surface": "ככל",
-      "gloss": "따라"
+      "gloss": "모든 …을 따라"
     },
     {
       "surface": "הטובה",
-      "gloss": "모든 선함에"
+      "gloss": "선함"
     },
     {
       "surface": "אשר",
-      "gloss": "～한"
+      "gloss": "…한"
     },
     {
       "surface": "עשה",
-      "gloss": "하신"
+      "gloss": "행한"
     },
     {
       "surface": "עם",
-      "gloss": "함께"
+      "gloss": "…과 함께"
     },
     {
       "surface": "ישראל",
-      "gloss": "이스라엘과"
+      "gloss": "이스라엘"
     }
   ],
-  "timestamp": "2026-08-05T09:15:49.142856156Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:25:16.659517987Z",
+  "model": "glm-5.3"
 }

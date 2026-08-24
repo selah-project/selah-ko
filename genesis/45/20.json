@@ -1,1 +1,61 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "genesis 45:20", "book": "genesis", "lang": "ko", "chapter": 45, "translation": "그리고 너희 눈은 너희 기물들에 아랑곳하지 말라. 미츠라임 온 땅의 좋은 것이 너희의 ⟨것⟩이기 ⟨때문⟩이다.", "tokens": [{"surface": "וְעֵ֣ינְכֶ֔ם", "gloss": "그리고 너희 눈은"}, {"surface": "אַל", "gloss": "아랑곳하지 말라"}, {"surface": "תָּחֹ֖ס", "gloss": "아랑곳하지 말라"}, {"surface": "עַל", "gloss": "…에"}, {"surface": "כְּלֵיכֶ֑ם", "gloss": "너희 기물들"}, {"surface": "כִּי", "gloss": "because"}, {"surface": "ט֛וּב", "gloss": "좋은 것"}, {"surface": "כָּל", "gloss": "온"}, {"surface": "אֶ֥רֶץ", "gloss": "땅"}, {"surface": "מִצְרַ֖יִם", "gloss": "미츠라임"}, {"surface": "לָכֶ֥ם", "gloss": "너희의"}, {"surface": "הֽוּא", "gloss": "⟨것⟩이기 ⟨때문⟩이다"}], "timestamp": "2026-08-05T19:46:31.225371592Z", "model": "glm-5.2"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "ko",
+  "chapter": 45,
+  "translation": "너희 눈은 너희 물건들을 아까워하지 말라. 미츠라임 온 땅의 좋은 것은 너희 ⟨것⟩이다.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "너희 눈은"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…말라"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "아까워하지"
+    },
+    {
+      "surface": "על",
+      "gloss": "…을"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "너희 물건들"
+    },
+    {
+      "surface": "כי",
+      "gloss": "대저"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "좋은 것"
+    },
+    {
+      "surface": "כל",
+      "gloss": "온"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "땅의"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "미츠라임"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "너희에게"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "…이다"
+    }
+  ],
+  "timestamp": "2026-08-24T15:17:54.288277181Z",
+  "model": "glm-5.3"
+}

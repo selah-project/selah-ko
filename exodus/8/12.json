@@ -5,87 +5,87 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 8,
-  "translation": "야훼께서 모셰에게 말씀하셨다. \"아하론에게 말하여라: 네 지팡이를 내밀어 ⟨את⟩ 땅의 먼지를 쳐라. 그것이 미츠라임 온 땅에서 이(蝨)가 되게 하여라.\"",
+  "translation": "야훼께서 모셰에게 말씀하셨다. \"아론에게 말하여라. 네 지팡이를 내밀어 ⟨את⟩ 땅의 먼지를 치라. 그것이 미츠라임 온 땅에서 이(蝨)들이 될 것이다.\"",
   "tokens": [
     {
-      "surface": "וַיֹּ֣אמֶר",
+      "surface": "ויאמר",
       "gloss": "말씀하셨다"
     },
     {
-      "surface": "יְהוָ֮ה",
-      "gloss": "야훼께서"
+      "surface": "יהוה",
+      "gloss": "야훼"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "에게"
     },
     {
-      "surface": "מֹשֶׁ֒ה",
+      "surface": "משה",
       "gloss": "모셰"
     },
     {
-      "surface": "אֱמֹ֨ר",
+      "surface": "אמר",
       "gloss": "말하여라"
     },
     {
-      "surface": "אֶֽל",
+      "surface": "אל",
       "gloss": "에게"
     },
     {
-      "surface": "אַהֲרֹ֜ן",
-      "gloss": "아하론"
+      "surface": "אהרן",
+      "gloss": "아론"
     },
     {
-      "surface": "נְטֵ֣ה",
+      "surface": "נטה",
       "gloss": "내밀어"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "네 지팡이"
+      "marks": "네 지팡이를"
     },
     {
-      "surface": "מַטְּךָ֗",
+      "surface": "מטך",
       "gloss": "네 지팡이를"
     },
     {
-      "surface": "וְהַךְ֙",
-      "gloss": "쳐라"
+      "surface": "והך",
+      "gloss": "치라"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "먼지"
+      "marks": "땅의 먼지를"
     },
     {
-      "surface": "עֲפַ֣ר",
-      "gloss": "먼지"
+      "surface": "עפר",
+      "gloss": "먼지를"
     },
     {
-      "surface": "הָאָ֔רֶץ",
+      "surface": "הארץ",
       "gloss": "땅의"
     },
     {
-      "surface": "וְהָיָ֖ה",
-      "gloss": "되게 하여라"
+      "surface": "והיה",
+      "gloss": "될 것이다"
     },
     {
-      "surface": "לְכִנִּ֑ים",
-      "gloss": "이가"
+      "surface": "לכנם",
+      "gloss": "이(蝨)들이"
     },
     {
-      "surface": "בְּכָ֥ל",
+      "surface": "בכל",
       "gloss": "온"
     },
     {
-      "surface": "אֶ֖רֶץ",
-      "gloss": "땅"
+      "surface": "ארץ",
+      "gloss": "땅에서"
     },
     {
-      "surface": "מִצְרָֽיִם",
+      "surface": "מצרים",
       "gloss": "미츠라임"
     }
   ],
-  "timestamp": "2026-08-05T07:50:02.916208381Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:40:34.909076804Z",
+  "model": "glm-5.3"
 }

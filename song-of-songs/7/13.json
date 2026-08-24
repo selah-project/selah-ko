@@ -5,70 +5,70 @@
   "book": "song-of-songs",
   "lang": "ko",
   "chapter": 7,
-  "translation": "우리가 일찍 일어나 포도원들로 가자, 우리가 보리, 포도나무가 싹을 내뱉었는지, 포도순 ⟨이⟩ 열렸는지, 석류들이 꽃을 피웠는지. 거기서 내가 ⟨את⟩ 나의 사랑들을 당신에게 주리다.",
+  "translation": "새벽에 일찍 포도원들로 가자. 포도나무가 싹을 텄는지, 꽃망울이 열렸는지, 석류들이 활짝 피었는지 보자. 거기서 내가 ⟨את⟩ 나의 사랑을 그대에게 주리라.",
   "tokens": [
     {
-      "surface": "נַשְׁכִּ֨ימָה֙",
-      "gloss": "우리가 일찍 일어나리다"
+      "surface": "נשכימה",
+      "gloss": "새벽에 일찍 가자"
     },
     {
-      "surface": "לַכְּרָמִ֔ים",
-      "gloss": "포도원들에로"
+      "surface": "לכרמים",
+      "gloss": "포도원들로"
     },
     {
-      "surface": "נִרְאֶ֞ה",
-      "gloss": "우리가 보리"
+      "surface": "נראה",
+      "gloss": "보자"
     },
     {
-      "surface": "אִם",
-      "gloss": "～인지"
+      "surface": "אם",
+      "gloss": "⟨인지⟩"
     },
     {
-      "surface": "פָּֽרְחָ֤ה",
-      "gloss": "싹을 내뱉았는지"
+      "surface": "פרחה",
+      "gloss": "싹을 텄는지"
     },
     {
-      "surface": "הַגֶּ֨פֶן֙",
-      "gloss": "그 포도나무가"
+      "surface": "הגפן",
+      "gloss": "포도나무가"
     },
     {
-      "surface": "פִּתַּ֣ח",
+      "surface": "פתח",
       "gloss": "열렸는지"
     },
     {
-      "surface": "הַסְּמָדַ֔ר",
-      "gloss": "그 포도순 ⟨이⟩"
+      "surface": "הסמדר",
+      "gloss": "꽃망울이"
     },
     {
-      "surface": "הֵנֵ֖צוּ",
-      "gloss": "꽃을 피웠는지"
+      "surface": "הנצו",
+      "gloss": "활짝 피었는지"
     },
     {
-      "surface": "הָרִמּוֹנִ֑ים",
-      "gloss": "그 석류들이"
+      "surface": "הרימונים",
+      "gloss": "석류들이"
     },
     {
-      "surface": "שָׁ֛ם",
+      "surface": "שם",
       "gloss": "거기서"
     },
     {
-      "surface": "אֶתֵּ֥ן",
-      "gloss": "내가 주리다"
+      "surface": "אתן",
+      "gloss": "주리라"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "나의 사랑들을"
+      "marks": "나의 사랑"
     },
     {
-      "surface": "דֹּדַ֖י",
-      "gloss": "나의 사랑들을"
+      "surface": "דדי",
+      "gloss": "나의 사랑"
     },
     {
-      "surface": "לָֽךְ",
-      "gloss": "당신에게"
+      "surface": "לך",
+      "gloss": "그대에게"
     }
   ],
-  "timestamp": "2026-08-05T12:15:34.500555534Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:24.736894785Z",
+  "model": "glm-5.3"
 }

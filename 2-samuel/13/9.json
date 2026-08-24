@@ -5,78 +5,78 @@
   "book": "2-samuel",
   "lang": "ko",
   "chapter": 13,
-  "translation": "그녀가 ⟨그⟩ 쟁반을 집어 ⟨את⟩ ⟨그⟩ 음식을 그 앞에 쏟아내니, 그가 먹기를 거절하였다. 아姆논이 말하였다. \"모든 사람이 나에게서 나가라.\" 모든 사람이 그에게서 나갔다.",
+  "translation": "타마르가 그릇을 가져다가 그 앞에 쏟아 내었으나, 암논은 먹기를 거절하였다. 암논이 “모든 사람을 나에게서 나가게 하라” 하니, 모든 사람이 그에게서 나갔다.",
   "tokens": [
     {
-      "surface": "וַתִּקַּח",
-      "gloss": "그녀가 집어"
+      "surface": "ותקח",
+      "gloss": "가져다가"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그 음식"
+      "marks": "그릇"
     },
     {
-      "surface": "הַמַּשְׂרֵת",
-      "gloss": "쟁반을"
+      "surface": "המשרת",
+      "gloss": "그릇을"
     },
     {
-      "surface": "וַתִּצֹק",
-      "gloss": "쏟아내니"
+      "surface": "ותצק",
+      "gloss": "쏟아 내었으나"
     },
     {
-      "surface": "לְפָנָיו",
+      "surface": "לפניו",
       "gloss": "그 앞에"
     },
     {
-      "surface": "וַיְמָאֵן",
-      "gloss": "거절하였다"
+      "surface": "וימאן",
+      "gloss": "거절하였으나"
     },
     {
-      "surface": "לֶאֱכֹול",
+      "surface": "לאכול",
       "gloss": "먹기를"
     },
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "말하였다"
     },
     {
-      "surface": "אַמְנֹון",
-      "gloss": "아姆논이"
+      "surface": "אמנון",
+      "gloss": "암논이"
     },
     {
-      "surface": "הֹוצִיאוּ",
+      "surface": "הוציאו",
       "gloss": "나가게 하라"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "אִישׁ",
-      "gloss": "사람이"
+      "surface": "איש",
+      "gloss": "사람을"
     },
     {
-      "surface": "מֵעָלַי",
+      "surface": "מעלי",
       "gloss": "나에게서"
     },
     {
-      "surface": "וַיֵּצְאוּ",
+      "surface": "ויצאו",
       "gloss": "나갔다"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "אִישׁ",
+      "surface": "איש",
       "gloss": "사람이"
     },
     {
-      "surface": "מֵעָלָיו",
+      "surface": "מעליו",
       "gloss": "그에게서"
     }
   ],
-  "timestamp": "2026-08-05T09:38:37.013608103Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:26:54.596199231Z",
+  "model": "glm-5.3"
 }

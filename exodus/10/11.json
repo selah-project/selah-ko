@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 10,
-  "translation": "아니다, 그렇지 않다. 가라, 청하건대 장정들만, 야훼를 섬겨라. 너희가 구하는 것은 ⟨את⟩ 그것이기 때문이다.\" 그가 ⟨그⟩ 사람들을 파르오의 면전에서 쫓아내었다.",
+  "translation": "“그렇지 않다. 이제 장정들만 가서 야훼를 섬겨라. 너희가 구하는 것이 바로 그것이기 때문이다.” 그러자 그들은 파르오의 면전에서 쫓겨났다.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "아니다"
+      "gloss": "아니"
     },
     {
       "surface": "כן",
-      "gloss": "그렇지"
+      "gloss": "그렇게"
     },
     {
       "surface": "לכו",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "נא",
-      "gloss": "청하건대"
+      "gloss": "이제"
     },
     {
       "surface": "הגברים",
-      "gloss": "장정들"
+      "gloss": "장정들은"
     },
     {
       "surface": "ועבדו",
-      "gloss": "섬겨라"
+      "gloss": "그리고 섬겨라"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "야훼를"
+      "marks": "야훼"
     },
     {
       "surface": "יהוה",
@@ -42,33 +42,33 @@
     },
     {
       "surface": "כי",
-      "gloss": "때문이다"
+      "gloss": "because"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "그것"
+      "marks": "너희"
     },
     {
       "surface": "אתם",
-      "gloss": "너희가"
+      "gloss": "너희는"
     },
     {
       "surface": "מבקשים",
-      "gloss": "구하는"
+      "gloss": "구한다"
     },
     {
       "surface": "ויגרש",
-      "gloss": "쫓아내었다"
+      "gloss": "그리고 쫓아내었다"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ 그 사람들을",
-      "marks": "그 사람들을"
+      "gloss": "⟨את⟩",
+      "marks": "그들"
     },
     {
       "surface": "מאת",
-      "gloss": "～에서"
+      "gloss": "⟨את⟩로부터"
     },
     {
       "surface": "פני",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "파르오의"
+      "gloss": "파르오"
     }
   ],
-  "timestamp": "2026-08-05T07:51:05.578666443Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:18.262009101Z",
+  "model": "glm-5.3"
 }

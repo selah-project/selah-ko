@@ -5,74 +5,74 @@
   "book": "esther",
   "lang": "ko",
   "chapter": 6,
-  "translation": "그 밤에 왕의 잠이 도망하였고, ⟨그⟩ ⟨이르기를⟩ ⟨את⟩ 『기념의 책』, 날들의 말들을 가져오라 ⟨하고⟩ 말하니, 그것들이 왕 앞에서 읽히었다.",
+  "translation": "그 밤에 왕의 잠이 도망하였다. 그가 『기념의 책』, 곧 날들의 연대기를 가져오라 하고 명하니, 그것이 왕 앞에서 낭독되었다.",
   "tokens": [
     {
-      "surface": "בַּלַּ֣יְלָה",
+      "surface": "בלילה",
       "gloss": "그 밤에"
     },
     {
-      "surface": "הַה֔וּא",
+      "surface": "ההוא",
       "gloss": "그"
     },
     {
-      "surface": "נָדְדָ֖ה",
-      "gloss": "도망하였고"
+      "surface": "נדדה",
+      "gloss": "도망하였다"
     },
     {
-      "surface": "שְׁנַ֣ת",
+      "surface": "שנת",
       "gloss": "잠이"
     },
     {
-      "surface": "הַמֶּ֑לֶךְ",
+      "surface": "המלך",
       "gloss": "왕의"
     },
     {
-      "surface": "וַיֹּ֗אמֶר",
-      "gloss": "말하니"
+      "surface": "ויאמר",
+      "gloss": "말하였다"
     },
     {
-      "surface": "לְהָבִ֞יא",
+      "surface": "להביא",
       "gloss": "가져오라"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "『기념의 책』"
     },
     {
-      "surface": "סֵ֤פֶר",
-      "gloss": "『책』"
+      "surface": "ספר",
+      "gloss": "책"
     },
     {
-      "surface": "הַזִּכְרֹנוֹת֙",
+      "surface": "הזכרנות",
       "gloss": "기념의"
     },
     {
-      "surface": "דִּבְרֵ֣י",
-      "gloss": "말들"
+      "surface": "דברי",
+      "gloss": "연대기"
     },
     {
-      "surface": "הַיָּמִ֔ים",
+      "surface": "הימים",
       "gloss": "날들의"
     },
     {
-      "surface": "וַיִּהְי֥וּ",
-      "gloss": "⟨그것들이⟩"
+      "surface": "ויהיו",
+      "gloss": "있었다"
     },
     {
-      "surface": "נִקְרָאִ֖ים",
-      "gloss": "읽히었다"
+      "surface": "נקראים",
+      "gloss": "낭독되었다"
     },
     {
-      "surface": "לִפְנֵ֥י",
+      "surface": "לפני",
       "gloss": "앞에서"
     },
     {
-      "surface": "הַמֶּֽלֶךְ",
+      "surface": "המלך",
       "gloss": "왕"
     }
   ],
-  "timestamp": "2026-08-05T12:23:37.183027964Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:37:37.547731184Z",
+  "model": "glm-5.3"
 }

@@ -5,97 +5,97 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 1,
-  "translation": "재판에서 얼굴을 알아보지 말라. 작은 자나 큰 자나 ⟨함께⟩ 들으라. 어떤 사람의 얼굴 앞에서 두려워하지 말라. 재판은 엘로힘의 것이기 때문이다. 그리고 너희에게 너무 어려운 사건은 나에게 가져오라. 내가 듣겠다.",
+  "translation": "재판할 때에 얼굴을 알아보아 차별하지 말라. 작은 자나 큰 자나 다 들으며, 어떤 사람의 얼굴도 두려워하지 말라. 재판은 엘로힘께 속하는 것이기 때문이다. 너희에게 너무 어려운 사건은 내게로 가져오라, 그러면 내가 그것을 들을 것이다.",
   "tokens": [
     {
-      "surface": "לֹֽא",
-      "gloss": "아니"
+      "surface": "לא",
+      "gloss": "말라"
     },
     {
-      "surface": "תַכִּ֨ירוּ",
-      "gloss": "알아보지 말라"
+      "surface": "תכירו",
+      "gloss": "알아보아 (차별하지)"
     },
     {
-      "surface": "פָנִ֜ים",
-      "gloss": "얼굴을"
+      "surface": "פנים",
+      "gloss": "얼굴"
     },
     {
-      "surface": "בַּמִּשְׁפָּ֗ט",
-      "gloss": "재판에서"
+      "surface": "במשפט",
+      "gloss": "재판할 때에"
     },
     {
-      "surface": "כַּקָּטֹ֤ן",
-      "gloss": "작은 자처럼"
+      "surface": "כקטן",
+      "gloss": "작은 자나"
     },
     {
-      "surface": "כַּגָּדֹל֙",
-      "gloss": "큰 자처럼"
+      "surface": "כגדל",
+      "gloss": "큰 자나"
     },
     {
-      "surface": "תִּשְׁמָע֔וּן",
-      "gloss": "들을지니라"
+      "surface": "תשמעון",
+      "gloss": "들을 것이니"
     },
     {
-      "surface": "לֹ֤א",
-      "gloss": "아니"
+      "surface": "לא",
+      "gloss": "말라"
     },
     {
-      "surface": "תָג֔וּרוּ",
-      "gloss": "두려워하지 말라"
+      "surface": "תגורו",
+      "gloss": "두려워하지"
     },
     {
-      "surface": "מִפְּנֵי֙",
-      "gloss": "～의 얼굴 앞에서"
+      "surface": "מפני",
+      "gloss": "…의 얼굴을"
     },
     {
-      "surface": "אִ֔ישׁ",
-      "gloss": "사람"
+      "surface": "איש",
+      "gloss": "어떤 사람"
     },
     {
-      "surface": "כִּ֥י",
-      "gloss": "왜냐하면"
+      "surface": "כי",
+      "gloss": "때문이다"
     },
     {
-      "surface": "הַמִּשְׁפָּ֖ט",
-      "gloss": "재판은"
+      "surface": "המשפט",
+      "gloss": "재판"
     },
     {
-      "surface": "לֵאלֹהִ֣ים",
-      "gloss": "엘로힘에게"
+      "surface": "לאלהים",
+      "gloss": "엘로힘께"
     },
     {
-      "surface": "ה֑וּא",
-      "gloss": "그것이다"
+      "surface": "הוא",
+      "gloss": "속하는 것이다"
     },
     {
-      "surface": "וְהַדָּבָר֙",
-      "gloss": "그리고 그 일은"
+      "surface": "והדבר",
+      "gloss": "그리고 그 사건"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "～인"
+      "surface": "אשר",
+      "gloss": "…인"
     },
     {
-      "surface": "יִקְשֶׁ֣ה",
-      "gloss": "어려울"
+      "surface": "יקשה",
+      "gloss": "너무 어려운"
     },
     {
-      "surface": "מִכֶּ֔ם",
+      "surface": "מכם",
       "gloss": "너희에게"
     },
     {
-      "surface": "תַקְרִב֥וּן",
-      "gloss": "가까이 가져오라"
+      "surface": "תקרבון",
+      "gloss": "가져오라"
     },
     {
-      "surface": "אֵלַ֖י",
-      "gloss": "나에게"
+      "surface": "אלי",
+      "gloss": "내게로"
     },
     {
-      "surface": "וּשְׁמַעְתִּֽיו",
-      "gloss": "내가 듣겠다"
+      "surface": "ושמעתיו",
+      "gloss": "내가 그것을 들을 것이다"
     }
   ],
-  "timestamp": "2026-08-05T08:49:11.009697001Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:32.836321605Z",
+  "model": "glm-5.3"
 }

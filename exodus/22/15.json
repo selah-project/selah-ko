@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ko",
   "chapter": 22,
-  "translation": "그리고 만일 어떤 사람이 약혼하지 아니한 처녀를 꾀어 그녀와 동침하면, 마흐르를 지불하여 그녀를 자기에게 아내로 ⟨삼아야⟩ 한다.",
+  "translation": "어떤 사람이 약혼되지 않은 처녀를 유혹하여 그녀와 동침하면, 그는 반드시 신부값을 지불하여 그녀를 ⟨그⟩ 자기 아내로 삼아야 한다.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "그리고 만일"
+      "gloss": "그리고 만약"
     },
     {
       "surface": "יפתה",
-      "gloss": "꾀어"
+      "gloss": "유혹하면"
     },
     {
       "surface": "איש",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—that is"
+      "gloss": "⟨그런데 그⟩"
     },
     {
       "surface": "לא",
-      "gloss": "아니한"
+      "gloss": "아직"
     },
     {
       "surface": "ארשה",
-      "gloss": "약혼하지"
+      "gloss": "약혼되지 않은"
     },
     {
       "surface": "ושכב",
-      "gloss": "그리고 동침하면"
+      "gloss": "동침하면"
     },
     {
       "surface": "עמה",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "מהר",
-      "gloss": "마흐르를"
+      "gloss": "신부값을"
     },
     {
       "surface": "ימהרנה",
-      "gloss": "지불하여야"
+      "gloss": "지불하여야 한다"
     },
     {
       "surface": "לו",
-      "gloss": "자기에게"
+      "gloss": "그에게"
     },
     {
       "surface": "לאשה",
       "gloss": "아내로"
     }
   ],
-  "timestamp": "2026-08-05T07:58:23.951891713Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:18:54.134144039Z",
+  "model": "glm-5.3"
 }

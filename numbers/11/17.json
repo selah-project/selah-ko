@@ -5,85 +5,86 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 11,
-  "translation": "내가 내려오셔서 거기서 너와 함께 말씀하시고, 네 위에 있는 루아흐 중에서 ⟨몇 분을⟩ 취하여 그들 위에 두시리니, 그들이 너와 함께 백성의 짐을 짊어지고, 너 혼자 짊어지지 아니하리라.",
+  "translation": "내려오시어 거기서 너와 함께 말씀하시고, 네 위에 있는 루아흐(영)을 덜어 그들 위에 두시리니, 그들이 ⟨את⟩ 너와 함께 백성의 짐을 짊어지리니, 너는 홀로 짊어지지 아니하리라.",
   "tokens": [
     {
-      "surface": "וְיָרַדְתִּי",
-      "gloss": "내가 내려오시고"
+      "surface": "וירדתי",
+      "gloss": "내려오시어"
     },
     {
-      "surface": "וְדִבַּרְתִּי",
+      "surface": "ודברתי",
       "gloss": "말씀하시고"
     },
     {
-      "surface": "עִמְּךָ",
+      "surface": "עמך",
       "gloss": "너와 함께"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "거기서"
     },
     {
-      "surface": "וְאָצַלְתִּי",
-      "gloss": "취하시리니"
+      "surface": "ואצלתי",
+      "gloss": "덜어"
     },
     {
-      "surface": "מִן",
-      "gloss": "에서"
+      "surface": "מן",
+      "gloss": "…에서"
     },
     {
-      "surface": "הָרוּחַ",
-      "gloss": "그 루아흐"
+      "surface": "הרוח",
+      "gloss": "그 루아흐를"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "…것"
     },
     {
-      "surface": "עָלֶיךָ",
+      "surface": "עליך",
       "gloss": "네 위에 있는"
     },
     {
-      "surface": "וְשַׂמְתִּי",
+      "surface": "ושמתי",
       "gloss": "두시리니"
     },
     {
-      "surface": "עֲלֵיהֶם",
+      "surface": "עליהם",
       "gloss": "그들 위에"
     },
     {
-      "surface": "וְנָשְׂאוּ",
-      "gloss": "그들이 짊어지고"
+      "surface": "ונשאו",
+      "gloss": "그들이 짊어지리니"
     },
     {
-      "surface": "אִתְּךָ",
-      "gloss": "너와 함께"
+      "surface": "אתך",
+      "gloss": "⟨את⟩ 너와 함께",
+      "marks": "너와 함께"
     },
     {
-      "surface": "בְּמַשָּׂא",
+      "surface": "במשא",
       "gloss": "짐을"
     },
     {
-      "surface": "הָעָם",
+      "surface": "העם",
       "gloss": "백성의"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "아니"
+      "surface": "ולא",
+      "gloss": "아니하리니"
     },
     {
-      "surface": "תִשָּׂא",
-      "gloss": "짊어지지"
+      "surface": "תשא",
+      "gloss": "짊어지다"
     },
     {
-      "surface": "אַתָּה",
-      "gloss": "너"
+      "surface": "אתה",
+      "gloss": "너는"
     },
     {
-      "surface": "לְבַדֶּךָ",
-      "gloss": "혼자"
+      "surface": "לבדך",
+      "gloss": "홀로"
     }
   ],
-  "timestamp": "2026-08-05T08:36:11.656211828Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:29.333744363Z",
+  "model": "glm-5.3"
 }

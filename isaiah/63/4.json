@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ko",
   "chapter": 63,
-  "translation": "대(代)를 무르는 내 해가 임하였기에, 보복의 날이 내 마음에 있었기 때문이다.",
+  "translation": "보복의 날이 내 마음에 있었고, 내가 무른 자들의 해가 임하였다.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "때문이다"
+      "gloss": "…니 ⟨이는⟩"
     },
     {
       "surface": "יום",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "בלבי",
-      "gloss": "내 마음에"
+      "gloss": "내 마음에 있었고"
     },
     {
       "surface": "ושנת",
-      "gloss": "그리고 … 해가"
+      "gloss": "…의 해가"
     },
     {
       "surface": "גאולי",
-      "gloss": "무르는 내"
+      "gloss": "내가 무른 자들의"
     },
     {
       "surface": "באה",
-      "gloss": "임하였기에"
+      "gloss": "임하였다"
     }
   ],
-  "timestamp": "2026-08-05T10:24:29.173781850Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:31:02.363718959Z",
+  "model": "glm-5.3"
 }

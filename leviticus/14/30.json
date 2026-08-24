@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 14,
-  "translation": "그리고 ⟨그는⟩ 그의 손이 미치는 것에서, ⟨את⟩ 산비둘기들 중 하나 혹은 비둘기 새끼들 중에서 ⟨하나를⟩ 만들 ⟨것이다⟩,",
+  "translation": "그리고 그의 손이 미치는 대로, 산비둘기들 가운데 하나나 혹은 비둘기 새끼들 가운데 하나로 ⟨את⟩ 한 마리를 드린다.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "그리고 만들"
+      "gloss": "그리고 드린다"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "하나"
+      "marks": "한 마리"
     },
     {
       "surface": "האחד",
-      "gloss": "그 하나를"
+      "gloss": "한 마리"
     },
     {
       "surface": "מן",
-      "gloss": "에서"
+      "gloss": "…가운데"
     },
     {
       "surface": "התרים",
-      "gloss": "그 산비둘기들"
+      "gloss": "산비둘기들"
     },
     {
       "surface": "או",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "에서"
+      "gloss": "…가운데"
     },
     {
       "surface": "בני",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "היונה",
-      "gloss": "그 비둘기"
+      "gloss": "비둘기의"
     },
     {
       "surface": "מאשר",
-      "gloss": "that which"
+      "gloss": "…대로"
     },
     {
       "surface": "תשיג",
@@ -57,6 +57,6 @@
       "gloss": "그의 손이"
     }
   ],
-  "timestamp": "2026-08-05T08:18:15.612749676Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:59.108342202Z",
+  "model": "glm-5.3"
 }

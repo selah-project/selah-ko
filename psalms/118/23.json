@@ -1,1 +1,41 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "psalms 118:23", "book": "psalms", "lang": "ko", "chapter": 118, "translation": "이것은 야훼께로부터 된 것이니, 우리 눈에 기이한 일이다.", "tokens": [{"surface": "מֵאֵת", "gloss": "에서"}, {"surface": "יְהוָה", "gloss": "야훼"}, {"surface": "הָיְתָה", "gloss": "되었다"}, {"surface": "זֹאת", "gloss": "이것이"}, {"surface": "הִיא", "gloss": "이것은"}, {"surface": "נִפְלָאת", "gloss": "놀랍다"}, {"surface": "בְּעֵינֵינוּ", "gloss": "우리 눈에"}], "timestamp": "2026-08-05T19:47:54.101403625Z", "model": "glm-5.2"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "ko",
+  "chapter": 118,
+  "translation": "이것은 야훼께로부터 된 것이니, 우리 눈에 기이한 일이다.",
+  "tokens": [
+    {
+      "surface": "מֵאֵת",
+      "gloss": "⟨את⟩ 에서"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "야훼"
+    },
+    {
+      "surface": "הָיְתָה",
+      "gloss": "되었다"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "이것이"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "이것은"
+    },
+    {
+      "surface": "נִפְלָאת",
+      "gloss": "놀랍다"
+    },
+    {
+      "surface": "בְּעֵינֵינוּ",
+      "gloss": "우리 눈에"
+    }
+  ],
+  "timestamp": "2026-08-24T15:51:17.259061125Z",
+  "model": "glm-5.2"
+}

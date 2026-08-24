@@ -5,28 +5,28 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 35,
-  "translation": "그리고 너희는 ⟨את⟩, 너희가 그 안에 있는 그 땅을 더럽히지 말 것이다. 왜냐하면 피, 그것이 ⟨את⟩ 그 땅을 더럽히기 때문이다. 그리고 그 안에 쏟아진 피에 대하여 그 땅은 속죄를 받지 못한다, 오직 그것을 쏟은 자의 피로〈만〉 ⟨그것이 속죄를 받는다〉.",
+  "translation": "너희는 너희가 그 안에 있는 땅을 더럽히지 말지니, 피는 ⟨그⟩ 땅을 더럽히며, 그 땅 안에서 쏟아진 피에 대하여서는 그것을 쏟은 자의 피로써 외에는 속함을 얻을 수 없다.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "그리고 …하지 말 것이다"
+      "gloss": "…하지 말지니"
     },
     {
       "surface": "תחניפו",
-      "gloss": "너희는 더럽힐 것이다"
+      "gloss": "너희는 더럽히지"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그 땅"
+      "marks": "땅"
     },
     {
       "surface": "הארץ",
-      "gloss": "그 땅을"
+      "gloss": "땅"
     },
     {
       "surface": "אשר",
-      "gloss": "그것은"
+      "gloss": "…인"
     },
     {
       "surface": "אתם",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "בה",
-      "gloss": "그 안에 있다"
+      "gloss": "그 안에"
     },
     {
       "surface": "כי",
-      "gloss": "왜냐하면"
+      "gloss": "때문에"
     },
     {
       "surface": "הדם",
-      "gloss": "그 피는"
+      "gloss": "피는"
     },
     {
       "surface": "הוא",
@@ -50,44 +50,44 @@
     },
     {
       "surface": "יחניף",
-      "gloss": "더럽힌다"
+      "gloss": "더럽히며"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "그 땅"
+      "marks": "땅"
     },
     {
       "surface": "הארץ",
-      "gloss": "그 땅을"
+      "gloss": "땅"
     },
     {
       "surface": "ולארץ",
-      "gloss": "그리고 그 땅에는"
+      "gloss": "그 땅은"
     },
     {
       "surface": "לא",
-      "gloss": "아니한다"
+      "gloss": "…할 수 없다"
     },
     {
       "surface": "יכפר",
-      "gloss": "속죄가 ⟨될 것이다⟩"
+      "gloss": "속함을 얻을"
     },
     {
       "surface": "לדם",
-      "gloss": "그 피에 대하여"
+      "gloss": "피에 대하여"
     },
     {
       "surface": "אשר",
-      "gloss": "그것은"
+      "gloss": "…인"
     },
     {
       "surface": "שפך",
-      "gloss": "쏟아졌다"
+      "gloss": "쏟아진"
     },
     {
       "surface": "בה",
-      "gloss": "그 안에"
+      "gloss": "그것 안에서"
     },
     {
       "surface": "כי",
@@ -95,17 +95,17 @@
     },
     {
       "surface": "אם",
-      "gloss": "오직"
+      "gloss": "…으로써만"
     },
     {
       "surface": "בדם",
-      "gloss": "…의 피로"
+      "gloss": "피로써"
     },
     {
       "surface": "שפכו",
       "gloss": "그것을 쏟은 자의"
     }
   ],
-  "timestamp": "2026-08-05T08:47:50.439234098Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:14.746551160Z",
+  "model": "glm-5.3"
 }

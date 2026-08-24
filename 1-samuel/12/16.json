@@ -5,18 +5,18 @@
   "book": "1-samuel",
   "lang": "ko",
   "chapter": 12,
-  "translation": "이제도 ⟨너희는⟩ 서서 ⟨את⟩ 이 큰일을 보라 — 야훼가 너희 눈앞에서 행하시는 것을.",
+  "translation": "이제도 ⟨여전히⟩ 서서 ⟨את⟩ 이 큰일을 보라 — 야훼께서 너희 눈앞에서 행하시는 것이다.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "도"
+      "gloss": "⟨여전히⟩"
     },
     {
       "surface": "עתה",
-      "gloss": "이제"
+      "gloss": "이제도"
     },
     {
-      "surface": "התיצבו",
+      "surface": "התיצבבו",
       "gloss": "서서"
     },
     {
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이 큰일을"
+      "marks": "이 큰일"
     },
     {
       "surface": "הדבר",
-      "gloss": "일"
+      "gloss": "큰일"
     },
     {
       "surface": "הגדול",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨which⟩"
+      "gloss": "—"
     },
     {
       "surface": "יהוה",
-      "gloss": "야훼"
+      "gloss": "야훼께서"
     },
     {
       "surface": "עשה",
@@ -57,6 +57,6 @@
       "gloss": "너희 눈앞에서"
     }
   ],
-  "timestamp": "2026-08-05T09:25:52.460360713Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:41:01.193366887Z",
+  "model": "glm-5.3"
 }

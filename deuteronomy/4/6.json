@@ -5,98 +5,98 @@
   "book": "deuteronomy",
   "lang": "ko",
   "chapter": 4,
-  "translation": "그리고 너희는 지키고 행하여라. 그것이 곧 너희의 지혜이자 너희의 분별력이기 때문이다 — 모든 규례들, ⟨את⟩ 이 모든 것을 듣고 ⟨그들이⟩ '참으로 지혜롭고 분별있는 백성, 이 위대한 민족!' 하고 말할 모든 백성들의 눈에.",
+  "translation": "너희는 그것들을 지키고 행하여라. 그것이 만민의 눈앞에서 너희의 지혜이며 너희의 명철이기 때문이다. 그들은 이 모든 훈계를 ⟨את⟩ 다 듣고 말하기를 '오직 이 큰 백성은 지혜롭고 명철한 민족이다' 할 것이다.",
   "tokens": [
     {
-      "surface": "וּשְׁמַרְתֶּם֮",
-      "gloss": "그리고 너희는 지켜라"
+      "surface": "ושמרתם",
+      "gloss": "너희는 지키고"
     },
     {
-      "surface": "וַעֲשִׂיתֶם֒",
-      "gloss": "그리고 행하여라"
+      "surface": "ויעשיתם",
+      "gloss": "행하여라"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "왜냐하면"
+      "surface": "כי",
+      "gloss": "… 때문이다"
     },
     {
-      "surface": "הִ֤וא",
-      "gloss": "그것은"
+      "surface": "הוא",
+      "gloss": "그것이"
     },
     {
-      "surface": "חָכְמַתְכֶם֙",
+      "surface": "חכמתכם",
       "gloss": "너희의 지혜"
     },
     {
-      "surface": "וּבִ֣ינַתְכֶ֔ם",
-      "gloss": "그리고 너희의 분별력"
+      "surface": "ובינתכם",
+      "gloss": "그리고 너희의 명철"
     },
     {
-      "surface": "לְעֵינֵ֖י",
-      "gloss": "～의 눈에"
+      "surface": "לעיני",
+      "gloss": "눈앞에서"
     },
     {
-      "surface": "הָעַמִּ֑ים",
-      "gloss": "그 백성들의"
+      "surface": "העמים",
+      "gloss": "만민의"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "～하는"
+      "surface": "אשר",
+      "gloss": "…하는 자들은"
     },
     {
-      "surface": "יִשְׁמְע֗וּן",
-      "gloss": "그들이 듣고"
+      "surface": "ישמעון",
+      "gloss": "듣고"
     },
     {
-      "surface": "אֵ֚ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "이 모든 규례들"
+      "marks": "이 모든 훈계"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "모든"
     },
     {
-      "surface": "הַחֻקִּ֣ים",
-      "gloss": "그 규례들"
+      "surface": "החקים",
+      "gloss": "훈계"
     },
     {
-      "surface": "הָאֵ֔לֶּה",
+      "surface": "האלה",
       "gloss": "이"
     },
     {
-      "surface": "וְאָמְר֗וּ",
-      "gloss": "그리고 말할"
+      "surface": "ואמרו",
+      "gloss": "말하기를"
     },
     {
-      "surface": "רַ֚ק",
-      "gloss": "참으로"
+      "surface": "רק",
+      "gloss": "오직"
     },
     {
-      "surface": "עַם",
+      "surface": "עם",
       "gloss": "백성"
     },
     {
-      "surface": "חָכָ֣ם",
-      "gloss": "지혜로운"
+      "surface": "חכם",
+      "gloss": "지혜롭고"
     },
     {
-      "surface": "וְנָב֔וֹן",
-      "gloss": "그리고 분별있는"
+      "surface": "ונבון",
+      "gloss": "그리고 명철한"
     },
     {
-      "surface": "הַגּ֥וֹי",
-      "gloss": "그 민족"
+      "surface": "הגוי",
+      "gloss": "민족"
     },
     {
-      "surface": "הַגָּד֖וֹל",
-      "gloss": "위대한"
+      "surface": "הגדול",
+      "gloss": "큰"
     },
     {
-      "surface": "הַזֶּֽה",
+      "surface": "הזה",
       "gloss": "이"
     }
   ],
-  "timestamp": "2026-08-05T08:50:34.057087325Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:22:53.955966489Z",
+  "model": "glm-5.3"
 }

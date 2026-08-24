@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ko",
   "chapter": 6,
-  "translation": "야훼께서 보셨다. 사람의 악이 땅 위에 크게 많아졌으며, 그의 마음 생각의 모든 형상이 날마다 온통 악뿐임을. 그리하여",
+  "translation": "야훼께서 보셨다. 사람의 악이 땅에서 크게 불어났고, 그의 마음이 꾸미는 모든 생각의 형상이 온종일 오직 악뿐임을.",
   "tokens": [
     {
       "surface": "וירא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "that"
+      "gloss": "…임을"
     },
     {
       "surface": "רבה",
-      "gloss": "크게 많아졌으며"
+      "gloss": "크게 불어났고"
     },
     {
       "surface": "רעת",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "땅 위에"
+      "gloss": "땅에서"
     },
     {
       "surface": "וכל",
@@ -49,25 +49,25 @@
     },
     {
       "surface": "לבו",
-      "gloss": "그의 마음"
+      "gloss": "그의 마음이 꾸미는"
     },
     {
       "surface": "רק",
-      "gloss": "온통"
+      "gloss": "오직"
     },
     {
       "surface": "רע",
-      "gloss": "악뿐"
+      "gloss": "악"
     },
     {
       "surface": "כל",
-      "gloss": "모든"
+      "gloss": "온종일"
     },
     {
       "surface": "היום",
-      "gloss": "날마다"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-05T17:50:09.417309308Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:17:16.402132627Z",
+  "model": "glm-5.3"
 }

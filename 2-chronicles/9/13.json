@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ko",
   "chapter": 9,
-  "translation": "그리고 ⟨그것은⟩ 있게 되었다 — 쉴로모에게 한 해에 들어온 금의 무게: 육백육십육 달란트의 금이었다.",
+  "translation": "셀로모에게 한 해에 들어온 금의 무게는 육백육십육 키카르 금이었다.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "그리고 ⟨그것은⟩ 있게 되었다"
+      "gloss": "이었다"
     },
     {
       "surface": "משקל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הזהב",
-      "gloss": "그 금의"
+      "gloss": "금"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "…이"
     },
     {
       "surface": "בא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לשלמה",
-      "gloss": "쉴로모에게"
+      "gloss": "셀로모에게"
     },
     {
       "surface": "בשנה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אחת",
-      "gloss": "하나의"
+      "gloss": "한"
     },
     {
       "surface": "שש",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "ככרי",
-      "gloss": "달란트의"
+      "gloss": "키카르"
     },
     {
       "surface": "זהב",
       "gloss": "금"
     }
   ],
-  "timestamp": "2026-08-05T12:54:56.341704461Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:39:51.833032446Z",
+  "model": "glm-5.3"
 }

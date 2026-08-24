@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ko",
   "chapter": 17,
-  "translation": "그가 죽은 자들과 산 자들 사이에 서자 재앙이 멈추었다.",
+  "translation": "그가 죽은 자들과 산 자들 사이에 서니, 재앙이 멎었다.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "서자"
+      "gloss": "서니"
     },
     {
       "surface": "בין",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "～와"
+      "gloss": "과"
     },
     {
       "surface": "החיים",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "ותעצר",
-      "gloss": "멈추었다"
+      "gloss": "멎었다"
     },
     {
       "surface": "המגפה",
       "gloss": "재앙이"
     }
   ],
-  "timestamp": "2026-08-05T13:39:26.992865293Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:21:24.479882892Z",
+  "model": "glm-5.3"
 }

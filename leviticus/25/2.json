@@ -5,81 +5,81 @@
   "book": "leviticus",
   "lang": "ko",
   "chapter": 25,
-  "translation": "이스라엘 자손에게 말하고 그들에게 말하여라. 너희가 내가 너희에게 주는 땅에 들어가거든, 그 땅은 야훼께 샤밧을 지킬 것이다.",
+  "translation": "이스라엘 백성에게 말하여 그들에게 이르기를, 너희가 내가 너희에게 주는 땅에 들어가거든, 그 땅은 야훼께 샤밧을 지킬 것이다.",
   "tokens": [
     {
-      "surface": "דַּבֵּ֞ר",
-      "gloss": "말하고"
+      "surface": "דבר",
+      "gloss": "말하여"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "에게"
     },
     {
-      "surface": "בְּנֵ֤י",
-      "gloss": "자손"
+      "surface": "בני",
+      "gloss": "백성"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "이스라엘"
     },
     {
-      "surface": "וְאָמַרְתָּ֣",
-      "gloss": "말하여라"
+      "surface": "ואמרת",
+      "gloss": "그리고 이르기를"
     },
     {
-      "surface": "אֲלֵהֶ֔ם",
+      "surface": "אלהם",
       "gloss": "그들에게"
     },
     {
-      "surface": "כִּ֤י",
-      "gloss": "때에"
+      "surface": "כי",
+      "gloss": "…하거든"
     },
     {
-      "surface": "תָבֹ֨אוּ֙",
-      "gloss": "너희가 들어가거든"
+      "surface": "תבאו",
+      "gloss": "너희가 들어가거니와"
     },
     {
-      "surface": "אֶל",
-      "gloss": "에"
+      "surface": "אל",
+      "gloss": "으로"
     },
     {
-      "surface": "הָאָ֔רֶץ",
+      "surface": "הארץ",
       "gloss": "그 땅"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "which"
+      "surface": "אשר",
+      "gloss": "…하는"
     },
     {
-      "surface": "אֲנִ֖י",
+      "surface": "אני",
       "gloss": "내가"
     },
     {
-      "surface": "נֹתֵ֣ן",
+      "surface": "נתן",
       "gloss": "주는"
     },
     {
-      "surface": "לָכֶ֑ם",
+      "surface": "לכם",
       "gloss": "너희에게"
     },
     {
-      "surface": "וְשָׁבְתָ֣ה",
-      "gloss": "지킬 것이다"
+      "surface": "ושבתה",
+      "gloss": "그 땅은 샤밧을 지킬 것이다"
     },
     {
-      "surface": "הָאָ֔רֶץ",
+      "surface": "הארץ",
       "gloss": "그 땅은"
     },
     {
-      "surface": "שַׁבָּ֖ת",
-      "gloss": "샤밧을"
+      "surface": "שבת",
+      "gloss": "샤밧"
     },
     {
-      "surface": "לַיהוָֽה",
+      "surface": "ליהוה",
       "gloss": "야훼께"
     }
   ],
-  "timestamp": "2026-08-05T19:46:57.509536960Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:20:13.386073754Z",
+  "model": "glm-5.3"
 }

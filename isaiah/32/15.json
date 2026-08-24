@@ -5,53 +5,53 @@
   "book": "isaiah",
   "lang": "ko",
   "chapter": 32,
-  "translation": "높은 데서부터 루아흐가 우리 위에 부어질 때까지, 광야가 과수원이 되고 과수원이 숲으로 여겨지리라.",
+  "translation": "루아흐가 높은 곳에서 우리 위에 쏟아져야 한다. 그러면 광야가 과일밭이 되고, 과일밭이 숲으로 여겨질 것이다.",
   "tokens": [
     {
-      "surface": "עַד",
-      "gloss": "까지"
+      "surface": "עד",
+      "gloss": "…해야"
     },
     {
-      "surface": "יֵעָרֶה",
-      "gloss": "부어질"
+      "surface": "יערה",
+      "gloss": "쏟아져야"
     },
     {
-      "surface": "עָלֵינוּ",
+      "surface": "עלינו",
       "gloss": "우리 위에"
     },
     {
-      "surface": "רוּחַ",
+      "surface": "רוח",
       "gloss": "루아흐가"
     },
     {
-      "surface": "מִמָּרוֹם",
-      "gloss": "높은 데서부터"
+      "surface": "ממרום",
+      "gloss": "높은 곳에서"
     },
     {
-      "surface": "וְהָיָה",
-      "gloss": "～이 되고"
+      "surface": "והיה",
+      "gloss": "그러면 … 될 것이다"
     },
     {
-      "surface": "מִדְבָּר",
+      "surface": "מדבר",
       "gloss": "광야가"
     },
     {
-      "surface": "לַכַּרְמֶל",
-      "gloss": "과수원이"
+      "surface": "לכרמל",
+      "gloss": "과일밭이"
     },
     {
-      "surface": "וְכַרְמֶל",
-      "gloss": "과수원이"
+      "surface": "וכרמל",
+      "gloss": "과일밭이"
     },
     {
-      "surface": "לַיַּעַר",
+      "surface": "ליער",
       "gloss": "숲으로"
     },
     {
-      "surface": "יֵחָשֵׁב",
-      "gloss": "여겨지리라"
+      "surface": "יחשב",
+      "gloss": "여겨질 것이다"
     }
   ],
-  "timestamp": "2026-08-05T13:55:13.521396935Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:30:48.214383960Z",
+  "model": "glm-5.3"
 }

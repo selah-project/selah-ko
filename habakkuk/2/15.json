@@ -5,7 +5,7 @@
   "book": "habakkuk",
   "lang": "ko",
   "chapter": 2,
-  "translation": "화 있을진저, ⟨그⟩ 이웃에게 마시게 하는 자, ⟨그⟩ 독을 곁들여, 그리고 술을, ⟨그⟩ 그들로 하여금 ⟨그⟩ 그들의 벌거벗은 것을 보게 하려고!",
+  "translation": "화 있을진저, 자기 이웃에게 마시게 하며, 그 포도주 가죽병을 더하여 술 취하게 하는 자여, 그들의 벌거벗음을 보려 함이로다.",
   "tokens": [
     {
       "surface": "הוי",
@@ -13,45 +13,45 @@
     },
     {
       "surface": "משקה",
-      "gloss": "마시게 하는 자"
+      "gloss": "마시게 하며"
     },
     {
       "surface": "רעהו",
-      "gloss": "이웃에게"
+      "gloss": "자기 이웃에게"
     },
     {
       "surface": "מספח",
-      "gloss": "곁들여"
+      "gloss": "더하여"
     },
     {
       "surface": "חמתך",
-      "gloss": "독을"
+      "gloss": "그 포도주 가죽병을"
     },
     {
       "surface": "ואף",
-      "gloss": "그리고"
+      "gloss": "또한"
     },
     {
       "surface": "שכר",
-      "gloss": "술을"
+      "gloss": "술 취하게"
     },
     {
       "surface": "למען",
-      "gloss": "〜하려고"
+      "gloss": "하기 위하여"
     },
     {
       "surface": "הביט",
-      "gloss": "보게 하려고"
+      "gloss": "보려"
     },
     {
       "surface": "על",
-      "gloss": "〜을"
+      "gloss": "을"
     },
     {
       "surface": "מעוריהם",
-      "gloss": "벌거벗은 것"
+      "gloss": "그들의 벌거벗음"
     }
   ],
-  "timestamp": "2026-08-05T11:15:28.130786526Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:35:24.226596197Z",
+  "model": "glm-5.3"
 }

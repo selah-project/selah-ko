@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "ko",
   "chapter": 11,
-  "translation": "그리고 암몬의 아들들의 왕은 입다가 그에게 보낸 그 말들에 귀를 기울이지 아니하였다.",
+  "translation": "그러나 암몬 자손의 왕은 입타가 자기에게 보낸 그 말들을 듣지 아니하였다.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "그리고 아니하였다"
+      "gloss": "그러나 아니"
     },
     {
       "surface": "שמע",
-      "gloss": "귀를 기울였다"
+      "gloss": "듣지"
     },
     {
       "surface": "מלך",
-      "gloss": "왕"
+      "gloss": "왕이"
     },
     {
       "surface": "בני",
-      "gloss": "아들들의"
+      "gloss": "자손"
     },
     {
       "surface": "עמון",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "～에"
+      "gloss": "을"
     },
     {
       "surface": "דברי",
-      "gloss": "그 말들"
+      "gloss": "말들"
     },
     {
       "surface": "יפתח",
-      "gloss": "입다가"
+      "gloss": "입타"
     },
     {
       "surface": "אשר",
-      "gloss": "～한"
+      "gloss": "⟨그⟩"
     },
     {
       "surface": "שלח",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "אליו",
-      "gloss": "그에게"
+      "gloss": "자기에게"
     }
   ],
-  "timestamp": "2026-08-05T09:18:38.883701416Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:26:31.220711021Z",
+  "model": "glm-5.3"
 }
