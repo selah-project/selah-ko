@@ -65,3 +65,9 @@
 독자, 히브리어 학습자, 번역자, 한국어 원어민의 참여를 환영한다.
 문제를 알리거나 수정을 제안하기 전에
 [CONTRIBUTING.md](CONTRIBUTING.md)를 읽으라.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
