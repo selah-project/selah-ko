@@ -56,3 +56,8 @@ python3 -m json.tool genesis/1/1.json >/dev/null
 히브리어, 규약, 출처, 정렬과 대조한다. 수락하거나, 함께
 다듬거나, 더 많은 근거를 기다리거나, 이유를 설명하며 거절할 수
 있다. 읽기를 비판하되, 사람을 비판하지 말라.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
