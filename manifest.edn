@@ -1,0 +1,66 @@
+#:rendering{:label "한국어",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305628},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-08-05", :to "2026-08-24"},
+            :id "ko.v1",
+            :catalog {:ui "resources/i18n/ui/ko.edn"},
+            :license "CC BY-SA 4.0 (The Selah Korean Rendering)",
+            :model
+            {:provider :z.ai,
+             :models
+             {"glm-5.2" 22195, "glm-5.3" 1001, "claude-fable-5" 17},
+             :tiers {"glm-5.2" 23196, "hand" 17},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ko.md",
+             :rails-commit "45694f47",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "아도나이",
+              "אל" "엘",
+              "אלהים" "엘로힘",
+              "אלוה" "엘로아흐",
+              "יה" "야",
+              "יהוה" "야훼",
+              "שדי" "샤다이"},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-ko",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :ko}
