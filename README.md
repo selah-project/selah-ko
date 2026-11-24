@@ -57,7 +57,7 @@
 
 이 번역은 CC BY-SA 4.0으로 열려 있다. 이 작업이 유익하여 번역,
 교정, 출판과 계속되는 작업을 돕고 싶다면
-[selahproject.com/support](https://selahproject.com/support)를
+[s33k3r.com/learn/support](https://s33k3r.com/learn/support)를
 방문하라.
 
 ## 교정에 참여하기
@@ -68,6 +68,6 @@
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
